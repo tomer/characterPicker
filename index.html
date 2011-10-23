@@ -1,12 +1,21 @@
 <!doctype html>
-<html>
+<html manifest="manifest.appcache">
 	<head>
 		<title>Emoji character picker</title>
 		<meta charset="utf8"/>
 		<style>
+@font-face {
+	font-family: "remoteSymbola";
+	src: Symbola, url(Symbola601.otf);
+}
+
+body { font-family: sans-serif, "Symbola", "remoteSymbola";}
 #input {font-size: 200%; width:100%}
 #buttons button { font-size: 400%;}
 #buttons { height: 20em; overflow: scroll;}
+#buttons button:hover {color:blue;}
+
+
 		</style>
 		<script>
 			function updateInputLength() {
@@ -80,5 +89,6 @@
 		<button onclick="addCharacterToCursorPosition('☹')">☹</button-->
 	</div>
 	<p>CC-BY-SA <a href="http://tomercohen.com">Tomer Cohen</a>, 2011. Source code available on <a href="https://github.com/tomer/characterPicker">github</a>.</p>
+	<p>Symbola font borrowed from <a href="http://users.teilar.gr/~g1951d">http://users.teilar.gr/~g1951d</a>.
 	</body>
 </html>
