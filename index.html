@@ -2,7 +2,7 @@
 <html manifest="manifest.appcache">
 	<head>
 		<title>Emoji character picker</title>
-		<meta charset="utf8"/>
+		<meta charset="utf-8"/>
 		<style>
 @font-face {
 	font-family: "Symbola";
@@ -82,8 +82,10 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 	<body onload="start();">
 		<h1>Emoji characters picker</h1>
 		<p>Use the form below to type your message, add some Emoji characters from the list. Please note that you won't see the emoji characters on other sites unless you have some Unicode 6 compliant fonts installed or the website in question loaded the fonts for you.</p>
-		<textarea id="input" dir="auto" autofocus="true" onkeyup="updateInputLength()" placeholder="Type here your message. Use the button below to paste some emoticons…"></textarea>
-<p>Input length: <span id="length"></span> <span id="value"></span>
+		<textarea id="input" dir="auto" autofocus onkeyup="updateInputLength()" placeholder="Type here your message. Use the button below to paste some emoticons…"></textarea>
+<p><button id="clear" onclick="document.getElementById('input').value = '';">Clear</button>
+	<button id="tweet" onclick="document.location = 'https://twitter.com/?status='+ encodeURI(document.getElementById('input').value);">Tweet</button>
+	Input length: <span id="length"></span> <span id="value"></span>
 
 	<div id="buttons">
 		<!--button onclick="addCharacterToCursorPosition('☺')">☺</button>
