@@ -1,0 +1,81 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Emoji character picker</title>
+		<meta charset="utf8"/>
+		<style>
+#input {font-size: 200%; width:100%}
+#buttons button { font-size: 400%;}
+#buttons { height: 20em; overflow: scroll;}
+		</style>
+		<script>
+			function updateInputLength() {
+				value = document.getElementById('input').value;
+
+				document.getElementById("length").textContent = value.length;
+				//document.getElementById("value").textContent = value;
+			}
+
+
+			function addCharacterToCursorPosition(char) {
+				var textarea;
+				var textareaStart;
+				textarea = document.getElementById("input");
+				textareaStart = textarea.selectionStart;				
+
+				textarea.value = textarea.value.substr(0, textarea.selectionStart) + char + textarea.value.substr(textarea.selectionEnd);
+				updateInputLength();
+
+				textarea.focus();
+				textarea.setSelectionRange(textareaStart+char.length, textareaStart+char.length);
+				//textarea.createTextRange(textareaStart, textareaStart);
+
+				
+			}
+
+			function addButton(char) {
+				
+				var element;
+				element = document.createElement("button");
+				element.addEventListener('click', function(){addCharacterToCursorPosition(char)}); 
+				element.textContent = char;
+
+				document.getElementById("buttons").appendChild(element);
+			}
+
+			function addButtons(buttonsArray) {
+				for (i in buttonsArray) addButton(buttonsArray[i]);
+				document.getElementById("buttons").appendChild(document.createElement("hr"));
+			}
+
+			function start() { 
+				updateInputLength();
+				
+				addButtons(['☺', '☹', 
+//Personas:
+'😄', '😊', '😃', '☺', '😉', '😍', '😘', '😚', '😳', '😌', '😁', '😜', '😝', '😒', '😏', '😓', '😔', '😞', '😖', '😥', '😰', '😨', '😣', '😢', '😭', '😂', '😲', '😱', '😠', '😡', '😪', '😷', '👿', '👽', '💛', '💙', '💜', '💗', '💚', '❤', '💔', '💓', '💘', '✨', '🌟', '💢', '❕', '❔', '💤', '💨', '💦', '🎶', '🎵', '🔥', '💩', '👍', '👎', '👌', '👊', '✊', '✌', '👋', '✋', '👐', '👆', '👇', '👉', '👈', '🙌', '🙏', '☝', '👏', '💪', '🚶', '🏃', '👫', '💃', '👯', '🙆', '🙅', '💁', '🙇', '💏', '💑', '💆', '💇', '💅', '👦', '👧', '👩', '👨', '👶', '👵', '👴', '👱', '👲', '👳', '👷', '👮', '👼', '👸', '💂', '💀', '👣', '💋', '👄', '👂', '👀', '👃']);
+//Nature:
+				addButtons([
+'☀', '☔', '☁', '⛄', '🌙', '⚡', '🌀', '🌊', '🐱', '🐶', '🐭', '🐹', '🐰', '🐺', '🐸', '🐯', '🐨', '🐻', '🐷', '🐮', '🐗', '🐵', '🐒', '🐴', '🐎', '🐫', '🐑', '🐘', '🐍', '🐦', '🐤', '🐔', '🐧', '🐛', '🐙', '🐠', '🐟', '🐳', '🐬', '💐', '🌸', '🌷', '🍀', '🌹', '🌻', '🌺', '🍁', '🍃', '🍂', '🌴', '🌵', '🌾', '🐚']);
+//Objects:
+				addButtons([
+'🎍', '💝', '🎎', '🎒', '🎓', '🎏', '🎆', '🎇', '🎐', '🎑', '🎃', '👻', '🎅', '🎄', '🎁', '🔔', '🎉', '🎈', '💿', '📀', '📷', '🎥', '💻', '📺', '📱', '📠', '☎', '💽', '📼', '🔊', '📢', '📣', '📻', '📡', '➿', '🔍', '🔓', '🔒', '🔑', '✂', '🔨', '💡', '📲', '📩', '📫', '📮', '🛀', '🚽', '💺', '💰', '🔱', '🚬', '💣', '🔫', '💊', '💉', '🏈', '🏀', '⚽', '⚾', '🎾', '⛳', '🎱', '🏊', '🏄', '🎿', '♠', '♥', '♣', '♦', '🏆', '👾', '🎯', '🀄', '🎬', '📝', '📖', '🎨', '🎤', '🎧', '🎺', '🎷', '🎸', '〽', '👟', '👡', '👠', '👢', '👕', '👔', '👗', '👘', '👙', '🎀', '🎩', '👑', '👒', '🌂', '💼', '👜', '💄', '💍', '💎', '☕', '🍵', '🍺', '🍻', '🍸', '🍶', '🍴', '🍔', '🍟', '🍝', '🍛', '🍱', '🍣', '🍙', '🍘', '🍚', '🍜', '🍲', '🍞', '🍳', '🍢', '🍡', '🍦', '🍧', '🎂', '🍰', '🍎', '🍊', '🍉', '🍓', '🍆', '🍅']);
+//Places:
+				addButtons([
+'🏠', '🏫', '🏢', '🏣', '🏥', '🏦', '🏪', '🏩', '🏨', '💒', '⛪', '🏬', '🌇', '🌆', '🏯', '🏰', '⛺', '🏭', '🗼', '🗻', '🌄', '🌅', '🌃', '🗽', '🌈', '🎡', '⛲', '🎢', '🚢', '🚤', '⛵', '✈', '🚀', '🚲', '🚙', '🚗', '🚕', '🚌', '🚓', '🚒', '🚑', '🚚', '🚃', '🚉', '🚄', '🚅', '🎫', '⛽', '🚥', '⚠', '🚧', '🔰', '🏧', '🎰', '🚏', '💈', '♨', '🏁', '🎌']);
+
+				
+			}
+		</script>
+	</head>
+
+	<body onload="start();">
+		<textarea id="input" dir="auto" autofocus="true" onkeyup="updateInputLength()" placeholder="Type here your message. Use the button below to paste some emoticons…"></textarea/>
+<p>Input length: <span id="length"></span> <span id="value"></span>
+
+	<div id="buttons">
+		<!--button onclick="addCharacterToCursorPosition('☺')">☺</button>
+		<button onclick="addCharacterToCursorPosition('☹')">☹</button-->
+	</div>
+	</body>
+</html>
