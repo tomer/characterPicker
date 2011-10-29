@@ -43,12 +43,32 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 				
 			}
 
-			function addButton(char, title) {
+			function fixedFromCharCode (codePt) {  
+				if (codePt > 0xFFFF) {  
+					codePt -= 0x10000;  
+					return String.fromCharCode(0xD800 + (codePt >> 10), 0xDC00 + (codePt & 0x3FF));  
+				}  
+				else {  
+					return String.fromCharCode(codePt);  
+				}  
+			}  
+
+			function addButton(item) {
 				
 				var element;
 				element = document.createElement("button");
+
+				var char = null;
+				if ('undefined' != typeof item['character'])     char = item['character'];
+				else if ('undefined' != typeof item['charcode']) char = fixedFromCharCode(item['charcode']);
+				else return;
+
 				element.addEventListener('click', function(){addCharacterToCursorPosition(char)}); 
-				element.textContent = char;
+
+				if ('undefined' != typeof item['caption']) element.textContent = item['caption'];
+				else element.textContent = char;
+
+				var title = item['title'];
 				if ('undefined' != typeof title) element.setAttribute('title', title);
 
 				document.getElementById("buttons").appendChild(element);
@@ -60,7 +80,8 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 					h2.textContent = name;
 					document.getElementById("buttons").appendChild(h2);
 				}
-				for (i in buttonsArray) addButton(buttonsArray[i]['character'], buttonsArray[i]['title']); 
+				//for (i in buttonsArray) addButton(buttonsArray[i]['character'], buttonsArray[i]['title']);
+				for (i in buttonsArray) addButton(buttonsArray[i]);  
 			}
 
 			function addButtonsSeparator() {
