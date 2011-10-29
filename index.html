@@ -13,8 +13,8 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 #input {font-size: 200%; width:100%}
 #buttons button { font-size: 400%; background: none; border: none;}
 #buttons { height: 20em; overflow: scroll; padding: 25px;}
-#buttons button:hover {color:blue; text-shadow:0 0 30px yellow , 0 0 70px yellow 
-}
+#buttons button:hover {color:blue; text-shadow:0 0 30px yellow , 0 0 70px yellow;}
+#buttons h2 { border-top: 1px solid silver; }
 
 
 		</style>
@@ -74,14 +74,15 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 				document.getElementById("buttons").appendChild(element);
 			}
 
-			function addButtons(buttonsArray, name) {				
-				if ('undefined' != typeof name) {
+			function addButtons(buttonsArray) {				
+				if ('undefined' != typeof buttonsArray['name']) {
 					var h2 = document.createElement("h2");
-					h2.textContent = name;
+					h2.textContent = buttonsArray['name'];
 					document.getElementById("buttons").appendChild(h2);
 				}
-				//for (i in buttonsArray) addButton(buttonsArray[i]['character'], buttonsArray[i]['title']);
-				for (i in buttonsArray) addButton(buttonsArray[i]);  
+				else addButtonsSeparator();
+
+				for (i in buttonsArray['content']) addButton(buttonsArray['content'][i]);  
 			}
 
 			function addButtonsSeparator() {
@@ -99,8 +100,7 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 						list = JSON.parse(http_request.responseText);
 
 						for (i in list) {
-							addButtons(list[i]['content']);
-							addButtonsSeparator();
+							addButtons(list[i]);
 						}
 					}
 					else if (http_request.readyState == done && http_request.status != ok) 

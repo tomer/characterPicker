@@ -1,0 +1,691 @@
+[
+	{"name":"Weather, landscape, and sky symbols", "content":
+		[
+			{"charcode":"0x1F300", "title":"CYCLONE"},
+			{"charcode":"0x1F301", "title":"FOGGY"},
+			{"charcode":"0x1F302", "title":"CLOSED UMBRELLA"},
+			{"charcode":"0x1F303", "title":"NIGHT WITH STARS"},
+			{"charcode":"0x1F304", "title":"SUNRISE OVER MOUNTAINS"},
+			{"charcode":"0x1F305", "title":"SUNRISE"},
+			{"charcode":"0x1F306", "title":"CITYSCAPE AT DUSK"},
+			{"charcode":"0x1F307", "title":"SUNSET OVER BUILDINGS"},
+			{"charcode":"0x1F308", "title":"RAINBOW"},
+			{"charcode":"0x1F309", "title":"BRIDGE AT NIGHT"},
+			{"charcode":"0x1F30A", "title":"WATER WAVE"},
+			{"charcode":"0x1F30B", "title":"VOLCANO"},
+			{"charcode":"0x1F30C", "title":"MILKY WAY"}
+		]
+	},
+	{"name":"Globe symbols", "content":
+		[
+			{"charcode":"0x1F30D", "title":"EARTH GLOBE EUROPE-AFRICA"},
+			{"charcode":"0x1F30E", "title":"EARTH GLOBE AMERICAS"},
+			{"charcode":"0x1F30F", "title":"EARTH GLOBE ASIA-AUSTRALIA"},
+			{"charcode":"0x1F310", "title":"GLOBE WITH MERIDIANS"}
+		]
+	},
+	{"name":"Moon, sun, and star symbols", "content":
+		[
+			{"charcode":"0x1F311", "title":"NEW MOON SYMBOL"},
+			{"charcode":"0x1F312", "title":"WAXING CRESCENT MOON SYMBOL"},
+			{"charcode":"0x1F313", "title":"FIRST QUARTER MOON SYMBOL"},
+			{"charcode":"0x1F314", "title":"WAXING GIBBOUS MOON SYMBOL"},
+			{"charcode":"0x1F315", "title":"FULL MOON SYMBOL"},
+			{"charcode":"0x1F316", "title":"WANING GIBBOUS MOON SYMBOL"},
+			{"charcode":"0x1F317", "title":"LAST QUARTER MOON SYMBOL"},
+			{"charcode":"0x1F318", "title":"WANING CRESCENT MOON SYMBOL"},
+			{"charcode":"0x1F319", "title":"CRESCENT MOON"},
+			{"charcode":"0x1F31A", "title":"NEW MOON WITH FACE"},
+			{"charcode":"0x1F31B", "title":"FIRST QUARTER MOON WITH FACE"},
+			{"charcode":"0x1F31C", "title":"LAST QUARTER MOON WITH FACE"},
+			{"charcode":"0x1F31D", "title":"FULL MOON WITH FACE"},
+			{"charcode":"0x1F31E", "title":"SUN WITH FACE"},
+			{"charcode":"0x1F31F", "title":"GLOWING STAR"},
+			{"charcode":"0x1F320", "title":"SHOOTING STAR"}
+		]
+	},
+	{"name":"Plant symbols", "content":
+		[
+			{"charcode":"0x1F330", "title":"CHESTNUT"},
+			{"charcode":"0x1F331", "title":"SEEDLING"},
+			{"charcode":"0x1F332", "title":"EVERGREEN TREE"},
+			{"charcode":"0x1F333", "title":"DECIDUOUS TREE"},
+			{"charcode":"0x1F334", "title":"PALM TREE"},
+			{"charcode":"0x1F335", "title":"CACTUS"},
+			{"charcode":"0x1F337", "title":"TULIP"},
+			{"charcode":"0x1F338", "title":"CHERRY BLOSSOM"},
+			{"charcode":"0x1F339", "title":"ROSE"},
+			{"charcode":"0x1F33A", "title":"HIBISCUS"},
+			{"charcode":"0x1F33B", "title":"SUNFLOWER"},
+			{"charcode":"0x1F33C", "title":"BLOSSOM"},
+			{"charcode":"0x1F33D", "title":"EAR OF MAIZE"},
+			{"charcode":"0x1F33E", "title":"EAR OF RICE"},
+			{"charcode":"0x1F33F", "title":"HERB"},
+			{"charcode":"0x1F340", "title":"FOUR LEAF CLOVER"},
+			{"charcode":"0x1F341", "title":"MAPLE LEAF"},
+			{"charcode":"0x1F342", "title":"FALLEN LEAF"},
+			{"charcode":"0x1F343", "title":"LEAF FLUTTERING IN WIND"},
+			{"charcode":"0x1F344", "title":"MUSHROOM"}
+		]
+	},
+	{"name":"Fruit and vegetable symbols", "content":
+		[
+			{"charcode":"0x1F345", "title":"TOMATO"},
+			{"charcode":"0x1F346", "title":"AUBERGINE"},
+			{"charcode":"0x1F347", "title":"GRAPES"},
+			{"charcode":"0x1F348", "title":"MELON"},
+			{"charcode":"0x1F349", "title":"WATERMELON"},
+			{"charcode":"0x1F34A", "title":"TANGERINE"},
+			{"charcode":"0x1F34B", "title":"LEMON"},
+			{"charcode":"0x1F34C", "title":"BANANA"},
+			{"charcode":"0x1F34D", "title":"PINEAPPLE"},
+			{"charcode":"0x1F34E", "title":"RED APPLE"},
+			{"charcode":"0x1F34F", "title":"GREEN APPLE"},
+			{"charcode":"0x1F350", "title":"PEAR"},
+			{"charcode":"0x1F351", "title":"PEACH"},
+			{"charcode":"0x1F352", "title":"CHERRIES"},
+			{"charcode":"0x1F353", "title":"STRAWBERRY"}
+		]
+	},
+	{"name":"Food symbols", "content":
+		[
+			{"charcode":"0x1F354", "title":"HAMBURGER"},
+			{"charcode":"0x1F355", "title":"SLICE OF PIZZA"},
+			{"charcode":"0x1F356", "title":"MEAT ON BONE"},
+			{"charcode":"0x1F357", "title":"POULTRY LEG"},
+			{"charcode":"0x1F358", "title":"RICE CRACKER"},
+			{"charcode":"0x1F359", "title":"RICE BALL"},
+			{"charcode":"0x1F35A", "title":"COOKED RICE"},
+			{"charcode":"0x1F35B", "title":"CURRY AND RICE"},
+			{"charcode":"0x1F35C", "title":"STEAMING BOWL"},
+			{"charcode":"0x1F35D", "title":"SPAGHETTI"},
+			{"charcode":"0x1F35E", "title":"BREAD"},
+			{"charcode":"0x1F35F", "title":"FRENCH FRIES"},
+			{"charcode":"0x1F360", "title":"ROASTED SWEET POTATO"},
+			{"charcode":"0x1F361", "title":"DANGO"},
+			{"charcode":"0x1F362", "title":"ODEN"},
+			{"charcode":"0x1F363", "title":"SUSHI"},
+			{"charcode":"0x1F364", "title":"FRIED SHRIMP"},
+			{"charcode":"0x1F365", "title":"FISH CAKE WITH SWIRL DESIGN"},
+			{"charcode":"0x1F366", "title":"SOFT ICE CREAM"},
+			{"charcode":"0x1F367", "title":"SHAVED ICE"},
+			{"charcode":"0x1F368", "title":"ICE CREAM"},
+			{"charcode":"0x1F369", "title":"DOUGHNUT"},
+			{"charcode":"0x1F36A", "title":"COOKIE"},
+			{"charcode":"0x1F36B", "title":"CHOCOLATE BAR"},
+			{"charcode":"0x1F36C", "title":"CANDY"},
+			{"charcode":"0x1F36D", "title":"LOLLIPOP"},
+			{"charcode":"0x1F36E", "title":"CUSTARD"},
+			{"charcode":"0x1F36F", "title":"HONEY POT"},
+			{"charcode":"0x1F370", "title":"SHORTCAKE"},
+			{"charcode":"0x1F371", "title":"BENTO BOX"},
+			{"charcode":"0x1F372", "title":"POT OF FOOD"},
+			{"charcode":"0x1F373", "title":"COOKING"},
+			{"charcode":"0x1F374", "title":"FORK AND KNIFE"}
+		]
+	},
+	{"name":"Beverage symbols", "content":
+		[
+			{"charcode":"0x1F375", "title":"TEACUP WITHOUT HANDLE"},
+			{"charcode":"0x1F376", "title":"SAKE BOTTLE AND CUP"},
+			{"charcode":"0x1F377", "title":"WINE GLASS"},
+			{"charcode":"0x1F378", "title":"COCKTAIL GLASS"},
+			{"charcode":"0x1F379", "title":"TROPICAL DRINK"},
+			{"charcode":"0x1F37A", "title":"BEER MUG"},
+			{"charcode":"0x1F37B", "title":"CLINKING BEER MUGS"},
+			{"charcode":"0x1F37C", "title":"BABY BOTTLE"}
+		]
+	},
+	{"name":"Celebration symbols", "content":
+		[
+			{"charcode":"0x1F380", "title":"RIBBON"},
+			{"charcode":"0x1F381", "title":"WRAPPED PRESENT"},
+			{"charcode":"0x1F382", "title":"BIRTHDAY CAKE"},
+			{"charcode":"0x1F383", "title":"JACK-O-LANTERN"},
+			{"charcode":"0x1F384", "title":"CHRISTMAS TREE"},
+			{"charcode":"0x1F385", "title":"FATHER CHRISTMAS"},
+			{"charcode":"0x1F386", "title":"FIREWORKS"},
+			{"charcode":"0x1F387", "title":"FIREWORK SPARKLER"},
+			{"charcode":"0x1F388", "title":"BALLOON"},
+			{"charcode":"0x1F389", "title":"PARTY POPPER"},
+			{"charcode":"0x1F38A", "title":"CONFETTI BALL"},
+			{"charcode":"0x1F38B", "title":"TANABATA TREE"},
+			{"charcode":"0x1F38C", "title":"CROSSED FLAGS"},
+			{"charcode":"0x1F38D", "title":"PINE DECORATION"},
+			{"charcode":"0x1F38E", "title":"JAPANESE DOLLS"},
+			{"charcode":"0x1F38F", "title":"CARP STREAMER"},
+			{"charcode":"0x1F390", "title":"WIND CHIME"},
+			{"charcode":"0x1F391", "title":"MOON VIEWING CEREMONY"},
+			{"charcode":"0x1F392", "title":"SCHOOL SATCHEL"},
+			{"charcode":"0x1F393", "title":"GRADUATION CAP"}
+		]
+	},
+	{"name":"Entertainment symbols", "content":
+		[
+			{"charcode":"0x1F3A0", "title":"CAROUSEL HORSE"},
+			{"charcode":"0x1F3A1", "title":"FERRIS WHEEL"},
+			{"charcode":"0x1F3A2", "title":"ROLLER COASTER"},
+			{"charcode":"0x1F3A3", "title":"FISHING POLE AND FISH"},
+			{"charcode":"0x1F3A4", "title":"MICROPHONE"},
+			{"charcode":"0x1F3A5", "title":"MOVIE CAMERA"},
+			{"charcode":"0x1F3A6", "title":"CINEMA"},
+			{"charcode":"0x1F3A7", "title":"HEADPHONE"},
+			{"charcode":"0x1F3A8", "title":"ARTIST PALETTE"},
+			{"charcode":"0x1F3A9", "title":"TOP HAT"},
+			{"charcode":"0x1F3AA", "title":"CIRCUS TENT"},
+			{"charcode":"0x1F3AB", "title":"TICKET"},
+			{"charcode":"0x1F3AC", "title":"CLAPPER BOARD"},
+			{"charcode":"0x1F3AD", "title":"PERFORMING ARTS"}
+		]
+	},
+	{"name":"Game symbols", "content":
+		[
+			{"charcode":"0x1F3AE", "title":"VIDEO GAME"},
+			{"charcode":"0x1F3AF", "title":"DIRECT HIT"},
+			{"charcode":"0x1F3B0", "title":"SLOT MACHINE"},
+			{"charcode":"0x1F3B1", "title":"BILLIARDS"},
+			{"charcode":"0x1F3B2", "title":"GAME DIE"},
+			{"charcode":"0x1F3B3", "title":"BOWLING"},
+			{"charcode":"0x1F3B4", "title":"FLOWER PLAYING CARDS"}
+		]
+	},
+	{"name":"Music symbols", "content":
+		[
+			{"charcode":"0x1F3B5", "title":"MUSICAL NOTE"},
+			{"charcode":"0x1F3B6", "title":"MULTIPLE MUSICAL NOTES"},
+			{"charcode":"0x1F3B7", "title":"SAXOPHONE"},
+			{"charcode":"0x1F3B8", "title":"GUITAR"},
+			{"charcode":"0x1F3B9", "title":"MUSICAL KEYBOARD"},
+			{"charcode":"0x1F3BA", "title":"TRUMPET"},
+			{"charcode":"0x1F3BB", "title":"VIOLIN"},
+			{"charcode":"0x1F3BC", "title":"MUSICAL SCORE"}
+		]
+	},
+	{"name":"Sport symbols", "content":
+		[
+			{"charcode":"0x1F3BD", "title":"RUNNING SHIRT WITH SASH"},
+			{"charcode":"0x1F3BE", "title":"TENNIS RACQUET AND BALL"},
+			{"charcode":"0x1F3BF", "title":"SKI AND SKI BOOT"},
+			{"charcode":"0x1F3C0", "title":"BASKETBALL AND HOOP"},
+			{"charcode":"0x1F3C1", "title":"CHEQUERED FLAG"},
+			{"charcode":"0x1F3C2", "title":"SNOWBOARDER"},
+			{"charcode":"0x1F3C3", "title":"RUNNER"},
+			{"charcode":"0x1F3C4", "title":"SURFER"},
+			{"charcode":"0x1F3C6", "title":"TROPHY"},
+			{"charcode":"0x1F3C7", "title":"HORSE RACING"},
+			{"charcode":"0x1F3C8", "title":"AMERICAN FOOTBALL"},
+			{"charcode":"0x1F3C9", "title":"RUGBY FOOTBALL"},
+			{"charcode":"0x1F3CA", "title":"SWIMMER"}
+		]
+	},
+	{"name":"Building and map symbols", "content":
+		[
+			{"charcode":"0x1F3E0", "title":"HOUSE BUILDING"},
+			{"charcode":"0x1F3E1", "title":"HOUSE WITH GARDEN"},
+			{"charcode":"0x1F3E2", "title":"OFFICE BUILDING"},
+			{"charcode":"0x1F3E3", "title":"JAPANESE POST OFFICE"},
+			{"charcode":"0x1F3E4", "title":"EUROPEAN POST OFFICE"},
+			{"charcode":"0x1F3E5", "title":"HOSPITAL"},
+			{"charcode":"0x1F3E6", "title":"BANK"},
+			{"charcode":"0x1F3E7", "title":"AUTOMATED TELLER MACHINE"},
+			{"charcode":"0x1F3E8", "title":"HOTEL"},
+			{"charcode":"0x1F3E9", "title":"LOVE HOTEL"},
+			{"charcode":"0x1F3EA", "title":"CONVENIENCE STORE"},
+			{"charcode":"0x1F3EB", "title":"SCHOOL"},
+			{"charcode":"0x1F3EC", "title":"DEPARTMENT STORE"},
+			{"charcode":"0x1F3ED", "title":"FACTORY"},
+			{"charcode":"0x1F3EE", "title":"IZAKAYA LANTERN"},
+			{"charcode":"0x1F3EF", "title":"JAPANESE CASTLE"},
+			{"charcode":"0x1F3F0", "title":"EUROPEAN CASTLE"}
+		]
+	},
+	{"name":"Animal symbols", "content":
+		[
+			{"charcode":"0x1F400", "title":"RAT"},
+			{"charcode":"0x1F401", "title":"MOUSE"},
+			{"charcode":"0x1F402", "title":"OX"},
+			{"charcode":"0x1F403", "title":"WATER BUFFALO"},
+			{"charcode":"0x1F404", "title":"COW"},
+			{"charcode":"0x1F405", "title":"TIGER"},
+			{"charcode":"0x1F406", "title":"LEOPARD"},
+			{"charcode":"0x1F407", "title":"RABBIT"},
+			{"charcode":"0x1F408", "title":"CAT"},
+			{"charcode":"0x1F409", "title":"DRAGON"},
+			{"charcode":"0x1F40A", "title":"CROCODILE"},
+			{"charcode":"0x1F40B", "title":"WHALE"},
+			{"charcode":"0x1F40C", "title":"SNAIL"},
+			{"charcode":"0x1F40D", "title":"SNAKE"},
+			{"charcode":"0x1F40E", "title":"HORSE"},
+			{"charcode":"0x1F40F", "title":"RAM"},
+			{"charcode":"0x1F410", "title":"GOAT"},
+			{"charcode":"0x1F411", "title":"SHEEP"},
+			{"charcode":"0x1F412", "title":"MONKEY"},
+			{"charcode":"0x1F413", "title":"ROOSTER"},
+			{"charcode":"0x1F414", "title":"CHICKEN"},
+			{"charcode":"0x1F415", "title":"DOG"},
+			{"charcode":"0x1F416", "title":"PIG"},
+			{"charcode":"0x1F417", "title":"BOAR"},
+			{"charcode":"0x1F418", "title":"ELEPHANT"},
+			{"charcode":"0x1F419", "title":"OCTOPUS"},
+			{"charcode":"0x1F41A", "title":"SPIRAL SHELL"},
+			{"charcode":"0x1F41B", "title":"BUG"},
+			{"charcode":"0x1F41C", "title":"ANT"},
+			{"charcode":"0x1F41D", "title":"HONEYBEE"},
+			{"charcode":"0x1F41E", "title":"LADY BEETLE"},
+			{"charcode":"0x1F41F", "title":"FISH"},
+			{"charcode":"0x1F420", "title":"TROPICAL FISH"},
+			{"charcode":"0x1F421", "title":"BLOWFISH"},
+			{"charcode":"0x1F422", "title":"TURTLE"},
+			{"charcode":"0x1F423", "title":"HATCHING CHICK"},
+			{"charcode":"0x1F424", "title":"BABY CHICK"},
+			{"charcode":"0x1F425", "title":"FRONT-FACING BABY CHICK"},
+			{"charcode":"0x1F426", "title":"BIRD"},
+			{"charcode":"0x1F427", "title":"PENGUIN"},
+			{"charcode":"0x1F428", "title":"KOALA"},
+			{"charcode":"0x1F429", "title":"POODLE"},
+			{"charcode":"0x1F42A", "title":"DROMEDARY CAMEL"},
+			{"charcode":"0x1F42B", "title":"BACTRIAN CAMEL"},
+			{"charcode":"0x1F42C", "title":"DOLPHIN"}
+		]
+	},
+	{"name":"Animal faces", "content":
+		[
+			{"charcode":"0x1F42D", "title":"MOUSE FACE"},
+			{"charcode":"0x1F42E", "title":"COW FACE"},
+			{"charcode":"0x1F42F", "title":"TIGER FACE"},
+			{"charcode":"0x1F430", "title":"RABBIT FACE"},
+			{"charcode":"0x1F431", "title":"CAT FACE"},
+			{"charcode":"0x1F432", "title":"DRAGON FACE"},
+			{"charcode":"0x1F433", "title":"SPOUTING WHALE"},
+			{"charcode":"0x1F434", "title":"HORSE FACE"},
+			{"charcode":"0x1F435", "title":"MONKEY FACE"},
+			{"charcode":"0x1F436", "title":"DOG FACE"},
+			{"charcode":"0x1F437", "title":"PIG FACE"},
+			{"charcode":"0x1F438", "title":"FROG FACE"},
+			{"charcode":"0x1F439", "title":"HAMSTER FACE"},
+			{"charcode":"0x1F43A", "title":"WOLF FACE"},
+			{"charcode":"0x1F43B", "title":"BEAR FACE"},
+			{"charcode":"0x1F43C", "title":"PANDA FACE"},
+			{"charcode":"0x1F43D", "title":"PIG NOSE"},
+			{"charcode":"0x1F43E", "title":"PAW PRINTS"}
+		]
+	},
+	{"name":"Facial parts symbols", "content":
+		[
+			{"charcode":"0x1F440", "title":"EYES"},
+			{"charcode":"0x1F442", "title":"EAR"},
+			{"charcode":"0x1F443", "title":"NOSE"},
+			{"charcode":"0x1F444", "title":"MOUTH"},
+			{"charcode":"0x1F445", "title":"TONGUE"}
+		]
+	},
+	{"name":"Hand symbols", "content":
+		[
+			{"charcode":"0x1F446", "title":"WHITE UP POINTING BACKHAND INDEX"},
+			{"charcode":"0x1F447", "title":"WHITE DOWN POINTING BACKHAND INDEX"},
+			{"charcode":"0x1F448", "title":"WHITE LEFT POINTING BACKHAND INDEX"},
+			{"charcode":"0x1F449", "title":"WHITE RIGHT POINTING BACKHAND INDEX"},
+			{"charcode":"0x1F44A", "title":"FISTED HAND SIGN"},
+			{"charcode":"0x1F44B", "title":"WAVING HAND SIGN"},
+			{"charcode":"0x1F44C", "title":"OK HAND SIGN"},
+			{"charcode":"0x1F44D", "title":"THUMBS UP SIGN"},
+			{"charcode":"0x1F44E", "title":"THUMBS DOWN SIGN"},
+			{"charcode":"0x1F44F", "title":"CLAPPING HANDS SIGN"},
+			{"charcode":"0x1F450", "title":"OPEN HANDS SIGN"}
+		]
+	},
+	{"name":"Clothing and accessories", "content":
+		[
+			{"charcode":"0x1F451", "title":"CROWN"},
+			{"charcode":"0x1F452", "title":"WOMANS HAT"},
+			{"charcode":"0x1F453", "title":"EYEGLASSES"},
+			{"charcode":"0x1F454", "title":"NECKTIE"},
+			{"charcode":"0x1F455", "title":"T-SHIRT"},
+			{"charcode":"0x1F456", "title":"JEANS"},
+			{"charcode":"0x1F457", "title":"DRESS"},
+			{"charcode":"0x1F458", "title":"KIMONO"},
+			{"charcode":"0x1F459", "title":"BIKINI"},
+			{"charcode":"0x1F45A", "title":"WOMANS CLOTHES"},
+			{"charcode":"0x1F45B", "title":"PURSE"},
+			{"charcode":"0x1F45C", "title":"HANDBAG"},
+			{"charcode":"0x1F45D", "title":"POUCH"},
+			{"charcode":"0x1F45E", "title":"MANS SHOE"},
+			{"charcode":"0x1F45F", "title":"ATHLETIC SHOE"},
+			{"charcode":"0x1F460", "title":"HIGH-HEELED SHOE"},
+			{"charcode":"0x1F461", "title":"WOMANS SANDAL"},
+			{"charcode":"0x1F462", "title":"WOMANS BOOTS"},
+			{"charcode":"0x1F463", "title":"FOOTPRINTS"}
+		]
+	},
+	{"name":"Portrait and role symbols", "content":
+		[
+			{"charcode":"0x1F464", "title":"BUST IN SILHOUETTE"},
+			{"charcode":"0x1F465", "title":"BUSTS IN SILHOUETTE"},
+			{"charcode":"0x1F466", "title":"BOY"},
+			{"charcode":"0x1F467", "title":"GIRL"},
+			{"charcode":"0x1F468", "title":"MAN"},
+			{"charcode":"0x1F469", "title":"WOMAN"},
+			{"charcode":"0x1F46A", "title":"FAMILY"},
+			{"charcode":"0x1F46B", "title":"MAN AND WOMAN HOLDING HANDS"},
+			{"charcode":"0x1F46C", "title":"TWO MEN HOLDING HANDS"},
+			{"charcode":"0x1F46D", "title":"TWO WOMEN HOLDING HANDS"},
+			{"charcode":"0x1F46E", "title":"POLICE OFFICER"},
+			{"charcode":"0x1F46F", "title":"WOMAN WITH BUNNY EARS"},
+			{"charcode":"0x1F470", "title":"BRIDE WITH VEIL"},
+			{"charcode":"0x1F471", "title":"PERSON WITH BLOND HAIR"},
+			{"charcode":"0x1F472", "title":"MAN WITH GUA PI MAO"},
+			{"charcode":"0x1F473", "title":"MAN WITH TURBAN"},
+			{"charcode":"0x1F474", "title":"OLDER MAN"},
+			{"charcode":"0x1F475", "title":"OLDER WOMAN"},
+			{"charcode":"0x1F476", "title":"BABY"},
+			{"charcode":"0x1F477", "title":"CONSTRUCTION WORKER"}
+		]
+	},
+	{"name":"Fairy tale symbols", "content":
+		[
+			{"charcode":"0x1F478", "title":"PRINCESS"},
+			{"charcode":"0x1F479", "title":"JAPANESE OGRE"},
+			{"charcode":"0x1F47A", "title":"JAPANESE GOBLIN"},
+			{"charcode":"0x1F47B", "title":"GHOST"},
+			{"charcode":"0x1F47C", "title":"BABY ANGEL"},
+			{"charcode":"0x1F47D", "title":"EXTRATERRESTRIAL ALIEN"},
+			{"charcode":"0x1F47E", "title":"ALIEN MONSTER"},
+			{"charcode":"0x1F47F", "title":"IMP"},
+			{"charcode":"0x1F480", "title":"SKULL"}
+		]
+	},
+	{"name":"Role symbols", "content":
+		[
+			{"charcode":"0x1F481", "title":"INFORMATION DESK PERSON"},
+			{"charcode":"0x1F482", "title":"GUARDSMAN"},
+			{"charcode":"0x1F483", "title":"DANCER"}
+		]
+	},
+	{"name":"Personal care symbols", "content":
+		[
+			{"charcode":"0x1F484", "title":"LIPSTICK"},
+			{"charcode":"0x1F485", "title":"NAIL POLISH"},
+			{"charcode":"0x1F486", "title":"FACE MASSAGE"},
+			{"charcode":"0x1F487", "title":"HAIRCUT"},
+			{"charcode":"0x1F488", "title":"BARBER POLE"}
+		]
+	},
+	{"name":"Medical symbols", "content":
+		[
+			{"charcode":"0x1F489", "title":"SYRINGE"},
+			{"charcode":"0x1F48A", "title":"PILL"}
+		]
+	},
+	{"name":"Romance symbols", "content":
+		[
+			{"charcode":"0x1F48B", "title":"KISS MARK"},
+			{"charcode":"0x1F48C", "title":"LOVE LETTER"},
+			{"charcode":"0x1F48D", "title":"RING"},
+			{"charcode":"0x1F48E", "title":"GEM STONE"},
+			{"charcode":"0x1F48F", "title":"KISS"},
+			{"charcode":"0x1F490", "title":"BOUQUET"},
+			{"charcode":"0x1F491", "title":"COUPLE WITH HEART"},
+			{"charcode":"0x1F492", "title":"WEDDING"}
+		]
+	},
+	{"name":"Heart symbols", "content":
+		[
+			{"charcode":"0x1F493", "title":"BEATING HEART"},
+			{"charcode":"0x1F494", "title":"BROKEN HEART"},
+			{"charcode":"0x1F495", "title":"TWO HEARTS"},
+			{"charcode":"0x1F496", "title":"SPARKLING HEART"},
+			{"charcode":"0x1F497", "title":"GROWING HEART"},
+			{"charcode":"0x1F498", "title":"HEART WITH ARROW"},
+			{"charcode":"0x1F499", "title":"BLUE HEART"},
+			{"charcode":"0x1F49A", "title":"GREEN HEART"},
+			{"charcode":"0x1F49B", "title":"YELLOW HEART"},
+			{"charcode":"0x1F49C", "title":"PURPLE HEART"},
+			{"charcode":"0x1F49D", "title":"HEART WITH RIBBON"},
+			{"charcode":"0x1F49E", "title":"REVOLVING HEARTS"},
+			{"charcode":"0x1F49F", "title":"HEART DECORATION"}
+		]
+	},
+	{"name":"Comic style symbols", "content":
+		[
+			{"charcode":"0x1F4A0", "title":"DIAMOND SHAPE WITH A DOT INSIDE"},
+			{"charcode":"0x1F4A1", "title":"ELECTRIC LIGHT BULB"},
+			{"charcode":"0x1F4A2", "title":"ANGER SYMBOL"},
+			{"charcode":"0x1F4A3", "title":"BOMB"},
+			{"charcode":"0x1F4A4", "title":"SLEEPING SYMBOL"},
+			{"charcode":"0x1F4A5", "title":"COLLISION SYMBOL"},
+			{"charcode":"0x1F4A6", "title":"SPLASHING SWEAT SYMBOL"},
+			{"charcode":"0x1F4A7", "title":"DROPLET"},
+			{"charcode":"0x1F4A8", "title":"DASH SYMBOL"},
+			{"charcode":"0x1F4A9", "title":"PILE OF POO"},
+			{"charcode":"0x1F4AA", "title":"FLEXED BICEPS"},
+			{"charcode":"0x1F4AB", "title":"DIZZY SYMBOL"},
+			{"charcode":"0x1F4AC", "title":"SPEECH BALLOON"},
+			{"charcode":"0x1F4AD", "title":"THOUGHT BALLOON"}
+		]
+	},
+	{"name":"Japanese school grade symbols", "content":
+		[
+			{"charcode":"0x1F4AE", "title":"WHITE FLOWER"},
+			{"charcode":"0x1F4AF", "title":"HUNDRED POINTS SYMBOL"}
+		]
+	},
+	{"name":"Money symbols", "content":
+		[
+			{"charcode":"0x1F4B0", "title":"MONEY BAG"},
+			{"charcode":"0x1F4B1", "title":"CURRENCY EXCHANGE"},
+			{"charcode":"0x1F4B2", "title":"HEAVY DOLLAR SIGN"},
+			{"charcode":"0x1F4B3", "title":"CREDIT CARD"},
+			{"charcode":"0x1F4B4", "title":"BANKNOTE WITH YEN SIGN"},
+			{"charcode":"0x1F4B5", "title":"BANKNOTE WITH DOLLAR SIGN"},
+			{"charcode":"0x1F4B6", "title":"BANKNOTE WITH EURO SIGN"},
+			{"charcode":"0x1F4B7", "title":"BANKNOTE WITH POUND SIGN"},
+			{"charcode":"0x1F4B8", "title":"MONEY WITH WINGS"},
+			{"charcode":"0x1F4B9", "title":"CHART WITH UPWARDS TREND AND YEN SIGN"}
+		]
+	},
+	{"name":"Office symbols", "content":
+		[
+			{"charcode":"0x1F4BA", "title":"SEAT"},
+			{"charcode":"0x1F4BB", "title":"PERSONAL COMPUTER"},
+			{"charcode":"0x1F4BC", "title":"BRIEFCASE"},
+			{"charcode":"0x1F4BD", "title":"MINIDISC"},
+			{"charcode":"0x1F4BE", "title":"FLOPPY DISK"},
+			{"charcode":"0x1F4BF", "title":"OPTICAL DISC"},
+			{"charcode":"0x1F4C0", "title":"DVD"},
+			{"charcode":"0x1F4C1", "title":"FILE FOLDER"},
+			{"charcode":"0x1F4C2", "title":"OPEN FILE FOLDER"},
+			{"charcode":"0x1F4C3", "title":"PAGE WITH CURL"},
+			{"charcode":"0x1F4C4", "title":"PAGE FACING UP"},
+			{"charcode":"0x1F4C5", "title":"CALENDAR"},
+			{"charcode":"0x1F4C6", "title":"TEAR-OFF CALENDAR"},
+			{"charcode":"0x1F4C7", "title":"CARD INDEX"},
+			{"charcode":"0x1F4C8", "title":"CHART WITH UPWARDS TREND"},
+			{"charcode":"0x1F4C9", "title":"CHART WITH DOWNWARDS TREND"},
+			{"charcode":"0x1F4CA", "title":"BAR CHART"},
+			{"charcode":"0x1F4CB", "title":"CLIPBOARD"},
+			{"charcode":"0x1F4CC", "title":"PUSHPIN"},
+			{"charcode":"0x1F4CD", "title":"ROUND PUSHPIN"},
+			{"charcode":"0x1F4CE", "title":"PAPERCLIP"},
+			{"charcode":"0x1F4CF", "title":"STRAIGHT RULER"},
+			{"charcode":"0x1F4D0", "title":"TRIANGULAR RULER"},
+			{"charcode":"0x1F4D1", "title":"BOOKMARK TABS"},
+			{"charcode":"0x1F4D2", "title":"LEDGER"},
+			{"charcode":"0x1F4D3", "title":"NOTEBOOK"},
+			{"charcode":"0x1F4D4", "title":"NOTEBOOK WITH DECORATIVE COVER"},
+			{"charcode":"0x1F4D5", "title":"CLOSED BOOK"},
+			{"charcode":"0x1F4D6", "title":"OPEN BOOK"},
+			{"charcode":"0x1F4D7", "title":"GREEN BOOK"},
+			{"charcode":"0x1F4D8", "title":"BLUE BOOK"},
+			{"charcode":"0x1F4D9", "title":"ORANGE BOOK"},
+			{"charcode":"0x1F4DA", "title":"BOOKS"},
+			{"charcode":"0x1F4DB", "title":"NAME BADGE"},
+			{"charcode":"0x1F4DC", "title":"SCROLL"}
+		]
+	},
+	{"name":"Communication symbols", "content":
+		[
+			{"charcode":"0x1F4DD", "title":"MEMO"},
+			{"charcode":"0x1F4DE", "title":"TELEPHONE RECEIVER"},
+			{"charcode":"0x1F4DF", "title":"PAGER"},
+			{"charcode":"0x1F4E0", "title":"FAX MACHINE"},
+			{"charcode":"0x1F4E1", "title":"SATELLITE ANTENNA"},
+			{"charcode":"0x1F4E2", "title":"PUBLIC ADDRESS LOUDSPEAKER"},
+			{"charcode":"0x1F4E3", "title":"CHEERING MEGAPHONE"},
+			{"charcode":"0x1F4E4", "title":"OUTBOX TRAY"},
+			{"charcode":"0x1F4E5", "title":"INBOX TRAY"},
+			{"charcode":"0x1F4E6", "title":"PACKAGE"},
+			{"charcode":"0x1F4E7", "title":"E-MAIL SYMBOL"},
+			{"charcode":"0x1F4E8", "title":"INCOMING ENVELOPE"},
+			{"charcode":"0x1F4E9", "title":"ENVELOPE WITH DOWNWARDS ARROW ABOVE"},
+			{"charcode":"0x1F4EA", "title":"CLOSED MAILBOX WITH LOWERED FLAG"},
+			{"charcode":"0x1F4EB", "title":"CLOSED MAILBOX WITH RAISED FLAG"},
+			{"charcode":"0x1F4EC", "title":"OPEN MAILBOX WITH RAISED FLAG"},
+			{"charcode":"0x1F4ED", "title":"OPEN MAILBOX WITH LOWERED FLAG"},
+			{"charcode":"0x1F4EE", "title":"POSTBOX"},
+			{"charcode":"0x1F4EF", "title":"POSTAL HORN"},
+			{"charcode":"0x1F4F0", "title":"NEWSPAPER"},
+			{"charcode":"0x1F4F1", "title":"MOBILE PHONE"},
+			{"charcode":"0x1F4F2", "title":"MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT"},
+			{"charcode":"0x1F4F3", "title":"VIBRATION MODE"},
+			{"charcode":"0x1F4F4", "title":"MOBILE PHONE OFF"},
+			{"charcode":"0x1F4F5", "title":"NO MOBILE PHONES"},
+			{"charcode":"0x1F4F6", "title":"ANTENNA WITH BARS"}
+		]
+	},
+	{"name":"Audio and video symbols", "content":
+		[
+			{"charcode":"0x1F4F7", "title":"CAMERA"},
+			{"charcode":"0x1F4F9", "title":"VIDEO CAMERA"},
+			{"charcode":"0x1F4FA", "title":"TELEVISION"},
+			{"charcode":"0x1F4FB", "title":"RADIO"},
+			{"charcode":"0x1F4FC", "title":"VIDEOCASSETTE"}
+		]
+	},
+	{"name":"User interface symbols", "content":
+		[
+			{"charcode":"0x1F500", "title":"TWISTED RIGHTWARDS ARROWS"},
+			{"charcode":"0x1F501", "title":"CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS"},
+			{"charcode":"0x1F502", "title":"CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY"},
+			{"charcode":"0x1F503", "title":"CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS"},
+			{"charcode":"0x1F504", "title":"ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS"},
+			{"charcode":"0x1F505", "title":"LOW BRIGHTNESS SYMBOL"},
+			{"charcode":"0x1F506", "title":"HIGH BRIGHTNESS SYMBOL"},
+			{"charcode":"0x1F507", "title":"SPEAKER WITH CANCELLATION STROKE"},
+			{"charcode":"0x1F508", "title":"SPEAKER"},
+			{"charcode":"0x1F509", "title":"SPEAKER WITH ONE SOUND WAVE"},
+			{"charcode":"0x1F50A", "title":"SPEAKER WITH THREE SOUND WAVES"},
+			{"charcode":"0x1F50B", "title":"BATTERY"},
+			{"charcode":"0x1F50C", "title":"ELECTRIC PLUG"},
+			{"charcode":"0x1F50D", "title":"LEFT-POINTING MAGNIFYING GLASS"},
+			{"charcode":"0x1F50E", "title":"RIGHT-POINTING MAGNIFYING GLASS"},
+			{"charcode":"0x1F50F", "title":"LOCK WITH INK PEN"},
+			{"charcode":"0x1F510", "title":"CLOSED LOCK WITH KEY"},
+			{"charcode":"0x1F511", "title":"KEY"},
+			{"charcode":"0x1F512", "title":"LOCK"},
+			{"charcode":"0x1F513", "title":"OPEN LOCK"},
+			{"charcode":"0x1F514", "title":"BELL"},
+			{"charcode":"0x1F515", "title":"BELL WITH CANCELLATION STROKE"},
+			{"charcode":"0x1F516", "title":"BOOKMARK"},
+			{"charcode":"0x1F517", "title":"LINK SYMBOL"},
+			{"charcode":"0x1F518", "title":"RADIO BUTTON"}
+		]
+	},
+	{"name":"Words with arrows", "content":
+		[
+			{"charcode":"0x1F519", "title":"BACK WITH LEFTWARDS ARROW ABOVE"},
+			{"charcode":"0x1F51A", "title":"END WITH LEFTWARDS ARROW ABOVE"},
+			{"charcode":"0x1F51B", "title":"ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE"},
+			{"charcode":"0x1F51C", "title":"SOON WITH RIGHTWARDS ARROW ABOVE"},
+			{"charcode":"0x1F51D", "title":"TOP WITH UPWARDS ARROW ABOVE"}
+		]
+	},
+	{"name":"Enclosed alphanumeric symbols", "content":
+		[
+			{"charcode":"0x1F51E", "title":"NO ONE UNDER EIGHTEEN SYMBOL"},
+			{"charcode":"0x1F51F", "title":"KEYCAP TEN"}
+		]
+	},
+	{"name":"User interface input status symbols", "content":
+		[
+			{"charcode":"0x1F520", "title":"INPUT SYMBOL FOR LATIN CAPITAL LETTERS"},
+			{"charcode":"0x1F521", "title":"INPUT SYMBOL FOR LATIN SMALL LETTERS"},
+			{"charcode":"0x1F522", "title":"INPUT SYMBOL FOR NUMBERS"},
+			{"charcode":"0x1F523", "title":"INPUT SYMBOL FOR SYMBOLS"},
+			{"charcode":"0x1F524", "title":"INPUT SYMBOL FOR LATIN LETTERS"}
+		]
+	},
+	{"name":"Tool symbols", "content":
+		[
+			{"charcode":"0x1F525", "title":"FIRE"},
+			{"charcode":"0x1F526", "title":"ELECTRIC TORCH"},
+			{"charcode":"0x1F527", "title":"WRENCH"},
+			{"charcode":"0x1F528", "title":"HAMMER"},
+			{"charcode":"0x1F529", "title":"NUT AND BOLT"},
+			{"charcode":"0x1F52A", "title":"HOCHO"},
+			{"charcode":"0x1F52B", "title":"PISTOL"},
+			{"charcode":"0x1F52C", "title":"MICROSCOPE"},
+			{"charcode":"0x1F52D", "title":"TELESCOPE"},
+			{"charcode":"0x1F52E", "title":"CRYSTAL BALL"},
+			{"charcode":"0x1F52F", "title":"SIX POINTED STAR WITH MIDDLE DOT"},
+			{"charcode":"0x1F530", "title":"JAPANESE SYMBOL FOR BEGINNER"},
+			{"charcode":"0x1F531", "title":"TRIDENT EMBLEM"}
+		]
+	},
+	{"name":"Geometric shapes", "content":
+		[
+			{"charcode":"0x1F532", "title":"BLACK SQUARE BUTTON"},
+			{"charcode":"0x1F533", "title":"WHITE SQUARE BUTTON"},
+			{"charcode":"0x1F534", "title":"LARGE RED CIRCLE"},
+			{"charcode":"0x1F535", "title":"LARGE BLUE CIRCLE"},
+			{"charcode":"0x1F536", "title":"LARGE ORANGE DIAMOND"},
+			{"charcode":"0x1F537", "title":"LARGE BLUE DIAMOND"},
+			{"charcode":"0x1F538", "title":"SMALL ORANGE DIAMOND"},
+			{"charcode":"0x1F539", "title":"SMALL BLUE DIAMOND"}
+		]
+	},
+	{"name":"User interface symbols", "content":
+		[
+			{"charcode":"0x1F53A", "title":"UP-POINTING RED TRIANGLE"},
+			{"charcode":"0x1F53B", "title":"DOWN-POINTING RED TRIANGLE"},
+			{"charcode":"0x1F53C", "title":"UP-POINTING SMALL RED TRIANGLE"},
+			{"charcode":"0x1F53D", "title":"DOWN-POINTING SMALL RED TRIANGLE"}
+		]
+	},
+	{"name":"Clock face symbols", "content":
+		[
+			{"charcode":"0x1F550", "title":"CLOCK FACE ONE OCLOCK"},
+			{"charcode":"0x1F551", "title":"CLOCK FACE TWO OCLOCK"},
+			{"charcode":"0x1F552", "title":"CLOCK FACE THREE OCLOCK"},
+			{"charcode":"0x1F553", "title":"CLOCK FACE FOUR OCLOCK"},
+			{"charcode":"0x1F554", "title":"CLOCK FACE FIVE OCLOCK"},
+			{"charcode":"0x1F555", "title":"CLOCK FACE SIX OCLOCK"},
+			{"charcode":"0x1F556", "title":"CLOCK FACE SEVEN OCLOCK"},
+			{"charcode":"0x1F557", "title":"CLOCK FACE EIGHT OCLOCK"},
+			{"charcode":"0x1F558", "title":"CLOCK FACE NINE OCLOCK"},
+			{"charcode":"0x1F559", "title":"CLOCK FACE TEN OCLOCK"},
+			{"charcode":"0x1F55A", "title":"CLOCK FACE ELEVEN OCLOCK"},
+			{"charcode":"0x1F55B", "title":"CLOCK FACE TWELVE OCLOCK"},
+			{"charcode":"0x1F55C", "title":"CLOCK FACE ONE-THIRTY"},
+			{"charcode":"0x1F55D", "title":"CLOCK FACE TWO-THIRTY"},
+			{"charcode":"0x1F55E", "title":"CLOCK FACE THREE-THIRTY"},
+			{"charcode":"0x1F55F", "title":"CLOCK FACE FOUR-THIRTY"},
+			{"charcode":"0x1F560", "title":"CLOCK FACE FIVE-THIRTY"},
+			{"charcode":"0x1F561", "title":"CLOCK FACE SIX-THIRTY"},
+			{"charcode":"0x1F562", "title":"CLOCK FACE SEVEN-THIRTY"},
+			{"charcode":"0x1F563", "title":"CLOCK FACE EIGHT-THIRTY"},
+			{"charcode":"0x1F564", "title":"CLOCK FACE NINE-THIRTY"},
+			{"charcode":"0x1F565", "title":"CLOCK FACE TEN-THIRTY"},
+			{"charcode":"0x1F566", "title":"CLOCK FACE ELEVEN-THIRTY"},
+			{"charcode":"0x1F567", "title":"CLOCK FACE TWELVE-THIRTY"}
+		]
+	},
+	{"name":"Cultural symbols", "content":
+		[
+			{"charcode":"0x1F5FB", "title":"MOUNT FUJI"},
+			{"charcode":"0x1F5FC", "title":"TOKYO TOWER"},
+			{"charcode":"0x1F5FD", "title":"STATUE OF LIBERTY"},
+			{"charcode":"0x1F5FE", "title":"SILHOUETTE OF JAPAN"},
+			{"charcode":"0x1F5FF", "title":"MOYAI"}
+		]
+	}
+]
