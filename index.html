@@ -20,7 +20,7 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 		</style>
 		<script>
 			function updateInputLength() {
-				value = document.getElementById('input').value;
+				var value = document.getElementById('input').value;
 
 				document.getElementById("length").textContent = value.length;
 				//document.getElementById("value").textContent = value;
@@ -28,10 +28,8 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 
 
 			function addCharacterToCursorPosition(char) {
-				var textarea;
-				var textareaStart;
-				textarea = document.getElementById("input");
-				textareaStart = textarea.selectionStart;				
+				var textarea = document.getElementById("input");
+				var textareaStart = textarea.selectionStart;				
 
 				textarea.value = textarea.value.substr(0, textarea.selectionStart) + char + textarea.value.substr(textarea.selectionEnd);
 				updateInputLength();
@@ -82,7 +80,7 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 				}
 				else addButtonsSeparator();
 
-				for (i in buttonsArray['content']) addButton(buttonsArray['content'][i]);  
+				for (var i in buttonsArray['content']) addButton(buttonsArray['content'][i]);  
 			}
 
 			function addButtonsSeparator() {
@@ -99,7 +97,7 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 					if (http_request.readyState == done && http_request.status == ok) {
 						list = JSON.parse(http_request.responseText);
 
-						for (i in list) {
+						for (var i in list) {
 							addButtons(list[i]);
 						}
 					}
@@ -113,7 +111,7 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 				var queryString={};
 				if (window.location.search.length > 1) {
 					var list = window.location.search.slice(1).split('&');
-					for (item in list) {    
+					for (var item in list) {    
 						var keyval = list[item].split('=');
 						queryString[keyval[0]] = keyval[1];
 					}
@@ -123,7 +121,7 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 
 			function start() { 
 				updateInputLength();
-				queryString = getQueryString();				
+				var queryString = getQueryString();				
 				//loadCharactersMap('emoji.json');
 				
 				var filename = queryString['load'];
