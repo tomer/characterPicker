@@ -51,24 +51,6 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 					return String.fromCharCode(codePt);  
 				}  
 			}  
-/*
-                        function hideButtons() {
-                                document.getElementById("buttons").style.visibility = 'hidden';
-                                document.getElementById("buttons").style.display = 'none';
-                        }
-                        
-                        function showButtons() { 
-                                document.getElementById("buttons").style.visibility = 'hidden';
-                                document.getElementById("buttons").style.display = 'block';
-                        }
-                        
-                        function queryButtonsVisibility() { 
-                                return document.getElementById("buttons").style.visibility;
-                        }
-                        
-                        function resetButtons() {
-                                document.getElementById("buttons").textContent = "";
-                        } */
 
 			function addButton(item) {
 				
@@ -91,11 +73,7 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 				document.getElementById("buttons").appendChild(element);
 			}
 
-			function addButtons(buttonsArray) {
-			
-			        //if (queryButtonsVisibility() == "" || queryButtonsVisibility() == "hidden") showButtons();
-			        
-			        
+			function addButtons(buttonsArray) {	        
 				if ('undefined' != typeof buttonsArray['name']) {
 					var h2 = document.createElement("h2");
 					h2.textContent = buttonsArray['name'];
@@ -156,14 +134,11 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
             }
             
 			function start() { 
-			    //hideButtons();
 				updateInputLength();
 				var queryString = getQueryString();				
-				//loadCharactersMap('emoji.json');
 				
 				var filename = queryString['load'];
 				if (filename) loadCharactersMap(filename.slice(filename.lastIndexOf('/')+1));
-				//else loadCharactersMap('emoji.json');
 				else loadSelectedBlock(document.getElementById('blockSelection'));
 			}
 
@@ -177,8 +152,6 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 <p><button id="clear" onclick="document.getElementById('input').value = '';">Clear</button>
 	<button id="tweet" onclick="document.location = 'https://twitter.com/?status='+ encodeURI(document.getElementById('input').value);">Tweet</button>
 	
-	    <!--fieldset id="loadGlyps">
-        <legend>Load additional glyps</legend-->
         <label for="blockSelection">Active keymap:</label>
         <select id="blockSelection" onchange="loadSelectedBlock(document.getElementById('blockSelection'));">
             <option value=""></option>
@@ -186,8 +159,6 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
             <option value="emojiFull.json" selected>Full emoji block</option>
             <option value="1f300.json">1f300</option>
         </select>
-        <!--button id="load_block"  onclick="loadSelectedBlock(document.getElementById('blockSelection'));">Load selected block</button-->
-    <!--/fieldset-->
 	
 	Input length: <span id="length"></span> <span id="value"></span>
 	
