@@ -9,10 +9,11 @@
 	src: local("Symbola"), url("Symbola601.otf");
 }
 
+html {overflow-y: scroll;}
 body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 #input {font-size: 200%; width:100%}
 #buttons button { font-size: 400%; background: none; border: none;}
-#buttons { height: 20em; overflow: scroll; padding: 25px;}
+/*#buttons { height: 20em; overflow: scroll; padding: 25px;}*/
 #buttons button:hover {color:blue; text-shadow:0 0 30px yellow , 0 0 70px yellow;}
 #buttons h2 { border-top: 1px solid silver; }
 
@@ -50,6 +51,24 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 					return String.fromCharCode(codePt);  
 				}  
 			}  
+/*
+                        function hideButtons() {
+                                document.getElementById("buttons").style.visibility = 'hidden';
+                                document.getElementById("buttons").style.display = 'none';
+                        }
+                        
+                        function showButtons() { 
+                                document.getElementById("buttons").style.visibility = 'hidden';
+                                document.getElementById("buttons").style.display = 'block';
+                        }
+                        
+                        function queryButtonsVisibility() { 
+                                return document.getElementById("buttons").style.visibility;
+                        }
+                        
+                        function resetButtons() {
+                                document.getElementById("buttons").textContent = "";
+                        } */
 
 			function addButton(item) {
 				
@@ -72,7 +91,11 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 				document.getElementById("buttons").appendChild(element);
 			}
 
-			function addButtons(buttonsArray) {				
+			function addButtons(buttonsArray) {
+			
+			        //if (queryButtonsVisibility() == "" || queryButtonsVisibility() == "hidden") showButtons();
+			        
+			        
 				if ('undefined' != typeof buttonsArray['name']) {
 					var h2 = document.createElement("h2");
 					h2.textContent = buttonsArray['name'];
@@ -119,14 +142,29 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 				return queryString;
 			}
 
+            function loadSelectedBlock(node) {
+                var index = node.selectedIndex;
+                if (node.options[index].value != "") {
+                    removeButtons();
+                    loadCharactersMap(node.options[index].value);
+                }
+                //else window.alert("No block selected.");
+            }
+            
+            function removeButtons() { 
+                document.getElementById('buttons').textContent = '';
+            }
+            
 			function start() { 
+			    //hideButtons();
 				updateInputLength();
 				var queryString = getQueryString();				
 				//loadCharactersMap('emoji.json');
 				
 				var filename = queryString['load'];
 				if (filename) loadCharactersMap(filename.slice(filename.lastIndexOf('/')+1));
-				else loadCharactersMap('emoji.json');
+				//else loadCharactersMap('emoji.json');
+				else loadSelectedBlock(document.getElementById('blockSelection'));
 			}
 
 		</script>
@@ -138,11 +176,24 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 		<textarea id="input" dir="auto" autofocus onkeyup="updateInputLength()" placeholder="Type here your message. Use the button below to paste some emoticons…"></textarea>
 <p><button id="clear" onclick="document.getElementById('input').value = '';">Clear</button>
 	<button id="tweet" onclick="document.location = 'https://twitter.com/?status='+ encodeURI(document.getElementById('input').value);">Tweet</button>
+	
+	    <!--fieldset id="loadGlyps">
+        <legend>Load additional glyps</legend-->
+        <label for="blockSelection">Active keymap:</label>
+        <select id="blockSelection" onchange="loadSelectedBlock(document.getElementById('blockSelection'));">
+            <option value=""></option>
+            <option value="emoji.json">Standard emoji</option>
+            <option value="emojiFull.json" selected>Full emoji block</option>
+            <option value="1f300.json">1f300</option>
+        </select>
+        <!--button id="load_block"  onclick="loadSelectedBlock(document.getElementById('blockSelection'));">Load selected block</button-->
+    <!--/fieldset-->
+	
 	Input length: <span id="length"></span> <span id="value"></span>
-
+	
 	<div id="buttons">
-		<!--button onclick="addCharacterToCursorPosition('☺')">☺</button>
-		<button onclick="addCharacterToCursorPosition('☹')">☹</button-->
+               <button onclick="addCharacterToCursorPosition('☺')">☺</button>
+               <button onclick="addCharacterToCursorPosition('☹')">☹</button>
 	</div>
 	<p>CC-BY-SA <a href="http://tomercohen.com">Tomer Cohen</a>, 2011. Source code available on <a href="https://github.com/tomer/characterPicker">github</a>.</p>
 	<p>Symbola font borrowed from <a href="http://users.teilar.gr/~g1951d">http://users.teilar.gr/~g1951d</a>.
