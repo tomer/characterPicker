@@ -138,7 +138,10 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 				var queryString = getQueryString();				
 				
 				var filename = queryString['load'];
-				if (filename) loadCharactersMap(filename.slice(filename.lastIndexOf('/')+1));
+				if (filename) {
+				    removeButtons();
+				    loadCharactersMap(filename.slice(filename.lastIndexOf('/')+1));
+				}
 				else loadSelectedBlock(document.getElementById('blockSelection'));
 			}
 
