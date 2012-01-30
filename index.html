@@ -1,0 +1,175 @@
+<!doctype html>
+<html manifest="manifest.appcache">
+	<head>
+		<title>Emoji character picker</title>
+		<meta charset="utf-8"/>
+		<style>
+@font-face {
+	font-family: "Symbola";
+	src: local("Symbola"), url("Symbola601.otf");
+}
+
+html {overflow-y: scroll;}
+body, #buttons button, textarea { font-family: sans-serif, Symbola;}
+#input {font-size: 200%; width:100%}
+#buttons button { font-size: 400%; background: none; border: none;}
+/*#buttons { height: 20em; overflow: scroll; padding: 25px;}*/
+#buttons button:hover {color:blue; text-shadow:0 0 30px yellow , 0 0 70px yellow;}
+#buttons h2 { border-top: 1px solid silver; }
+
+
+		</style>
+		<script>
+			function updateInputLength() {
+				var value = document.getElementById('input').value;
+
+				document.getElementById("length").textContent = value.length;
+				//document.getElementById("value").textContent = value;
+			}
+
+
+			function addCharacterToCursorPosition(char) {
+				var textarea = document.getElementById("input");
+				var textareaStart = textarea.selectionStart;				
+
+				textarea.value = textarea.value.substr(0, textarea.selectionStart) + char + textarea.value.substr(textarea.selectionEnd);
+				updateInputLength();
+
+				textarea.focus();
+				textarea.setSelectionRange(textareaStart+char.length, textareaStart+char.length);
+				//textarea.createTextRange(textareaStart, textareaStart);
+
+				
+			}
+
+			function fixedFromCharCode (codePt) {  
+				if (codePt > 0xFFFF) {  
+					codePt -= 0x10000;  
+					return String.fromCharCode(0xD800 + (codePt >> 10), 0xDC00 + (codePt & 0x3FF));  
+				}  
+				else {  
+					return String.fromCharCode(codePt);  
+				}  
+			}  
+
+			function addButton(item) {
+				
+				var element;
+				element = document.createElement("button");
+
+				var char = null;
+				if ('undefined' != typeof item['character'])     char = item['character'];
+				else if ('undefined' != typeof item['charcode']) char = fixedFromCharCode(item['charcode']);
+				else return;
+
+				element.addEventListener('click', function(){addCharacterToCursorPosition(char)}); 
+
+				if ('undefined' != typeof item['caption']) element.textContent = item['caption'];
+				else element.textContent = char;
+
+				var title = item['title'];
+				if ('undefined' != typeof title) element.setAttribute('title', title);
+
+				document.getElementById("buttons").appendChild(element);
+			}
+
+			function addButtons(buttonsArray) {	        
+				if ('undefined' != typeof buttonsArray['name']) {
+					var h2 = document.createElement("h2");
+					h2.textContent = buttonsArray['name'];
+					document.getElementById("buttons").appendChild(h2);
+				}
+				else addButtonsSeparator();
+
+				for (var i in buttonsArray['content']) addButton(buttonsArray['content'][i]);  
+			}
+
+			function addButtonsSeparator() {
+				document.getElementById("buttons").appendChild(document.createElement("hr"));
+			}
+
+			function loadCharactersMap(filename) {
+				var list = null;
+
+				var http_request = new XMLHttpRequest();
+				http_request.open("GET", filename, true);
+				http_request.onreadystatechange = function () {
+					var done = 4, ok = 200;
+					if (http_request.readyState == done && http_request.status == ok) {
+						list = JSON.parse(http_request.responseText);
+
+						for (var i in list) {
+							addButtons(list[i]);
+						}
+					}
+					else if (http_request.readyState == done && http_request.status != ok) 
+						window.alert ("Unable to load file "+ filename +", returned error code "+ http_request.status);
+				}
+				http_request.send(null);
+			}
+
+			function getQueryString() {
+				var queryString={};
+				if (window.location.search.length > 1) {
+					var list = window.location.search.slice(1).split('&');
+					for (var item in list) {    
+						var keyval = list[item].split('=');
+						queryString[keyval[0]] = keyval[1];
+					}
+				}
+				return queryString;
+			}
+
+            function loadSelectedBlock(node) {
+                var index = node.selectedIndex;
+                if (node.options[index].value != "") {
+                    removeButtons();
+                    loadCharactersMap(node.options[index].value);
+                }
+                //else window.alert("No block selected.");
+            }
+            
+            function removeButtons() { 
+                document.getElementById('buttons').textContent = '';
+            }
+            
+			function start() { 
+				updateInputLength();
+				var queryString = getQueryString();				
+				
+				var filename = queryString['load'];
+				if (filename) {
+				    removeButtons();
+				    loadCharactersMap(filename.slice(filename.lastIndexOf('/')+1));
+				}
+				else loadSelectedBlock(document.getElementById('blockSelection'));
+			}
+
+		</script>
+	</head>
+
+	<body onload="start();">
+		<h1>Emoji characters picker</h1>
+		<p>Use the form below to type your message, add some Emoji characters from the list. Please note that you won't see the emoji characters on other sites unless you have some Unicode 6 compliant fonts installed or the website in question loaded the fonts for you.</p>
+		<textarea id="input" dir="auto" autofocus onkeyup="updateInputLength()" placeholder="Type here your message. Use the button below to paste some emoticons…"></textarea>
+<p><button id="clear" onclick="document.getElementById('input').value = '';">Clear</button>
+	<button id="tweet" onclick="document.location = 'https://twitter.com/?status='+ encodeURI(document.getElementById('input').value);">Tweet</button>
+	
+        <label for="blockSelection">Active keymap:</label>
+        <select id="blockSelection" onchange="loadSelectedBlock(document.getElementById('blockSelection'));">
+            <option value=""></option>
+            <option value="emoji.json">Standard emoji</option>
+            <option value="emojiFull.json" selected>Full emoji block</option>
+            <option value="1f300.json">1f300</option>
+        </select>
+	
+	Input length: <span id="length"></span> <span id="value"></span>
+	
+	<div id="buttons">
+               <button onclick="addCharacterToCursorPosition('☺')">☺</button>
+               <button onclick="addCharacterToCursorPosition('☹')">☹</button>
+	</div>
+	<p>CC-BY-SA <a href="http://tomercohen.com">Tomer Cohen</a>, 2011. Source code available on <a href="https://github.com/tomer/characterPicker">github</a>.</p>
+	<p>Symbola font borrowed from <a href="http://users.teilar.gr/~g1951d">http://users.teilar.gr/~g1951d</a>.
+	</body>
+</html>
