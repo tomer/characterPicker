@@ -1,0 +1,2135 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1f300", 
+                "title": "CYCLONE"
+            }, 
+            {
+                "charcode": "0x1f301", 
+                "title": "FOGGY"
+            }, 
+            {
+                "charcode": "0x1f302", 
+                "title": "CLOSED UMBRELLA"
+            }, 
+            {
+                "charcode": "0x1f303", 
+                "title": "NIGHT WITH STARS"
+            }, 
+            {
+                "charcode": "0x1f304", 
+                "title": "SUNRISE OVER MOUNTAINS"
+            }, 
+            {
+                "charcode": "0x1f305", 
+                "title": "SUNRISE"
+            }, 
+            {
+                "charcode": "0x1f306", 
+                "title": "CITYSCAPE AT DUSK"
+            }, 
+            {
+                "charcode": "0x1f307", 
+                "title": "SUNSET OVER BUILDINGS"
+            }, 
+            {
+                "charcode": "0x1f308", 
+                "title": "RAINBOW"
+            }, 
+            {
+                "charcode": "0x1f309", 
+                "title": "BRIDGE AT NIGHT"
+            }, 
+            {
+                "charcode": "0x1f30a", 
+                "title": "WATER WAVE"
+            }, 
+            {
+                "charcode": "0x1f30b", 
+                "title": "VOLCANO"
+            }, 
+            {
+                "charcode": "0x1f30c", 
+                "title": "MILKY WAY"
+            }, 
+            {
+                "charcode": "0x1f30d", 
+                "title": "EARTH GLOBE EUROPE-AFRICA"
+            }, 
+            {
+                "charcode": "0x1f30e", 
+                "title": "EARTH GLOBE AMERICAS"
+            }, 
+            {
+                "charcode": "0x1f30f", 
+                "title": "EARTH GLOBE ASIA-AUSTRALIA"
+            }, 
+            {
+                "charcode": "0x1f310", 
+                "title": "GLOBE WITH MERIDIANS"
+            }, 
+            {
+                "charcode": "0x1f311", 
+                "title": "NEW MOON SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f312", 
+                "title": "WAXING CRESCENT MOON SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f313", 
+                "title": "FIRST QUARTER MOON SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f314", 
+                "title": "WAXING GIBBOUS MOON SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f315", 
+                "title": "FULL MOON SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f316", 
+                "title": "WANING GIBBOUS MOON SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f317", 
+                "title": "LAST QUARTER MOON SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f318", 
+                "title": "WANING CRESCENT MOON SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f319", 
+                "title": "CRESCENT MOON"
+            }, 
+            {
+                "charcode": "0x1f31a", 
+                "title": "NEW MOON WITH FACE"
+            }, 
+            {
+                "charcode": "0x1f31b", 
+                "title": "FIRST QUARTER MOON WITH FACE"
+            }, 
+            {
+                "charcode": "0x1f31c", 
+                "title": "LAST QUARTER MOON WITH FACE"
+            }, 
+            {
+                "charcode": "0x1f31d", 
+                "title": "FULL MOON WITH FACE"
+            }, 
+            {
+                "charcode": "0x1f31e", 
+                "title": "SUN WITH FACE"
+            }, 
+            {
+                "charcode": "0x1f31f", 
+                "title": "GLOWING STAR"
+            }, 
+            {
+                "charcode": "0x1f320", 
+                "title": "SHOOTING STAR"
+            }, 
+            {
+                "charcode": "0x1f330", 
+                "title": "CHESTNUT"
+            }, 
+            {
+                "charcode": "0x1f331", 
+                "title": "SEEDLING"
+            }, 
+            {
+                "charcode": "0x1f332", 
+                "title": "EVERGREEN TREE"
+            }, 
+            {
+                "charcode": "0x1f333", 
+                "title": "DECIDUOUS TREE"
+            }, 
+            {
+                "charcode": "0x1f334", 
+                "title": "PALM TREE"
+            }, 
+            {
+                "charcode": "0x1f335", 
+                "title": "CACTUS"
+            }, 
+            {
+                "charcode": "0x1f337", 
+                "title": "TULIP"
+            }, 
+            {
+                "charcode": "0x1f338", 
+                "title": "CHERRY BLOSSOM"
+            }, 
+            {
+                "charcode": "0x1f339", 
+                "title": "ROSE"
+            }, 
+            {
+                "charcode": "0x1f33a", 
+                "title": "HIBISCUS"
+            }, 
+            {
+                "charcode": "0x1f33b", 
+                "title": "SUNFLOWER"
+            }, 
+            {
+                "charcode": "0x1f33c", 
+                "title": "BLOSSOM"
+            }, 
+            {
+                "charcode": "0x1f33d", 
+                "title": "EAR OF MAIZE"
+            }, 
+            {
+                "charcode": "0x1f33e", 
+                "title": "EAR OF RICE"
+            }, 
+            {
+                "charcode": "0x1f33f", 
+                "title": "HERB"
+            }, 
+            {
+                "charcode": "0x1f340", 
+                "title": "FOUR LEAF CLOVER"
+            }, 
+            {
+                "charcode": "0x1f341", 
+                "title": "MAPLE LEAF"
+            }, 
+            {
+                "charcode": "0x1f342", 
+                "title": "FALLEN LEAF"
+            }, 
+            {
+                "charcode": "0x1f343", 
+                "title": "LEAF FLUTTERING IN WIND"
+            }, 
+            {
+                "charcode": "0x1f344", 
+                "title": "MUSHROOM"
+            }, 
+            {
+                "charcode": "0x1f345", 
+                "title": "TOMATO"
+            }, 
+            {
+                "charcode": "0x1f346", 
+                "title": "AUBERGINE"
+            }, 
+            {
+                "charcode": "0x1f347", 
+                "title": "GRAPES"
+            }, 
+            {
+                "charcode": "0x1f348", 
+                "title": "MELON"
+            }, 
+            {
+                "charcode": "0x1f349", 
+                "title": "WATERMELON"
+            }, 
+            {
+                "charcode": "0x1f34a", 
+                "title": "TANGERINE"
+            }, 
+            {
+                "charcode": "0x1f34b", 
+                "title": "LEMON"
+            }, 
+            {
+                "charcode": "0x1f34c", 
+                "title": "BANANA"
+            }, 
+            {
+                "charcode": "0x1f34d", 
+                "title": "PINEAPPLE"
+            }, 
+            {
+                "charcode": "0x1f34e", 
+                "title": "RED APPLE"
+            }, 
+            {
+                "charcode": "0x1f34f", 
+                "title": "GREEN APPLE"
+            }, 
+            {
+                "charcode": "0x1f350", 
+                "title": "PEAR"
+            }, 
+            {
+                "charcode": "0x1f351", 
+                "title": "PEACH"
+            }, 
+            {
+                "charcode": "0x1f352", 
+                "title": "CHERRIES"
+            }, 
+            {
+                "charcode": "0x1f353", 
+                "title": "STRAWBERRY"
+            }, 
+            {
+                "charcode": "0x1f354", 
+                "title": "HAMBURGER"
+            }, 
+            {
+                "charcode": "0x1f355", 
+                "title": "SLICE OF PIZZA"
+            }, 
+            {
+                "charcode": "0x1f356", 
+                "title": "MEAT ON BONE"
+            }, 
+            {
+                "charcode": "0x1f357", 
+                "title": "POULTRY LEG"
+            }, 
+            {
+                "charcode": "0x1f358", 
+                "title": "RICE CRACKER"
+            }, 
+            {
+                "charcode": "0x1f359", 
+                "title": "RICE BALL"
+            }, 
+            {
+                "charcode": "0x1f35a", 
+                "title": "COOKED RICE"
+            }, 
+            {
+                "charcode": "0x1f35b", 
+                "title": "CURRY AND RICE"
+            }, 
+            {
+                "charcode": "0x1f35c", 
+                "title": "STEAMING BOWL"
+            }, 
+            {
+                "charcode": "0x1f35d", 
+                "title": "SPAGHETTI"
+            }, 
+            {
+                "charcode": "0x1f35e", 
+                "title": "BREAD"
+            }, 
+            {
+                "charcode": "0x1f35f", 
+                "title": "FRENCH FRIES"
+            }, 
+            {
+                "charcode": "0x1f360", 
+                "title": "ROASTED SWEET POTATO"
+            }, 
+            {
+                "charcode": "0x1f361", 
+                "title": "DANGO"
+            }, 
+            {
+                "charcode": "0x1f362", 
+                "title": "ODEN"
+            }, 
+            {
+                "charcode": "0x1f363", 
+                "title": "SUSHI"
+            }, 
+            {
+                "charcode": "0x1f364", 
+                "title": "FRIED SHRIMP"
+            }, 
+            {
+                "charcode": "0x1f365", 
+                "title": "FISH CAKE WITH SWIRL DESIGN"
+            }, 
+            {
+                "charcode": "0x1f366", 
+                "title": "SOFT ICE CREAM"
+            }, 
+            {
+                "charcode": "0x1f367", 
+                "title": "SHAVED ICE"
+            }, 
+            {
+                "charcode": "0x1f368", 
+                "title": "ICE CREAM"
+            }, 
+            {
+                "charcode": "0x1f369", 
+                "title": "DOUGHNUT"
+            }, 
+            {
+                "charcode": "0x1f36a", 
+                "title": "COOKIE"
+            }, 
+            {
+                "charcode": "0x1f36b", 
+                "title": "CHOCOLATE BAR"
+            }, 
+            {
+                "charcode": "0x1f36c", 
+                "title": "CANDY"
+            }, 
+            {
+                "charcode": "0x1f36d", 
+                "title": "LOLLIPOP"
+            }, 
+            {
+                "charcode": "0x1f36e", 
+                "title": "CUSTARD"
+            }, 
+            {
+                "charcode": "0x1f36f", 
+                "title": "HONEY POT"
+            }, 
+            {
+                "charcode": "0x1f370", 
+                "title": "SHORTCAKE"
+            }, 
+            {
+                "charcode": "0x1f371", 
+                "title": "BENTO BOX"
+            }, 
+            {
+                "charcode": "0x1f372", 
+                "title": "POT OF FOOD"
+            }, 
+            {
+                "charcode": "0x1f373", 
+                "title": "COOKING"
+            }, 
+            {
+                "charcode": "0x1f374", 
+                "title": "FORK AND KNIFE"
+            }, 
+            {
+                "charcode": "0x1f375", 
+                "title": "TEACUP WITHOUT HANDLE"
+            }, 
+            {
+                "charcode": "0x1f376", 
+                "title": "SAKE BOTTLE AND CUP"
+            }, 
+            {
+                "charcode": "0x1f377", 
+                "title": "WINE GLASS"
+            }, 
+            {
+                "charcode": "0x1f378", 
+                "title": "COCKTAIL GLASS"
+            }, 
+            {
+                "charcode": "0x1f379", 
+                "title": "TROPICAL DRINK"
+            }, 
+            {
+                "charcode": "0x1f37a", 
+                "title": "BEER MUG"
+            }, 
+            {
+                "charcode": "0x1f37b", 
+                "title": "CLINKING BEER MUGS"
+            }, 
+            {
+                "charcode": "0x1f37c", 
+                "title": "BABY BOTTLE"
+            }, 
+            {
+                "charcode": "0x1f380", 
+                "title": "RIBBON"
+            }, 
+            {
+                "charcode": "0x1f381", 
+                "title": "WRAPPED PRESENT"
+            }, 
+            {
+                "charcode": "0x1f382", 
+                "title": "BIRTHDAY CAKE"
+            }, 
+            {
+                "charcode": "0x1f383", 
+                "title": "JACK-O-LANTERN"
+            }, 
+            {
+                "charcode": "0x1f384", 
+                "title": "CHRISTMAS TREE"
+            }, 
+            {
+                "charcode": "0x1f385", 
+                "title": "FATHER CHRISTMAS"
+            }, 
+            {
+                "charcode": "0x1f386", 
+                "title": "FIREWORKS"
+            }, 
+            {
+                "charcode": "0x1f387", 
+                "title": "FIREWORK SPARKLER"
+            }, 
+            {
+                "charcode": "0x1f388", 
+                "title": "BALLOON"
+            }, 
+            {
+                "charcode": "0x1f389", 
+                "title": "PARTY POPPER"
+            }, 
+            {
+                "charcode": "0x1f38a", 
+                "title": "CONFETTI BALL"
+            }, 
+            {
+                "charcode": "0x1f38b", 
+                "title": "TANABATA TREE"
+            }, 
+            {
+                "charcode": "0x1f38c", 
+                "title": "CROSSED FLAGS"
+            }, 
+            {
+                "charcode": "0x1f38d", 
+                "title": "PINE DECORATION"
+            }, 
+            {
+                "charcode": "0x1f38e", 
+                "title": "JAPANESE DOLLS"
+            }, 
+            {
+                "charcode": "0x1f38f", 
+                "title": "CARP STREAMER"
+            }, 
+            {
+                "charcode": "0x1f390", 
+                "title": "WIND CHIME"
+            }, 
+            {
+                "charcode": "0x1f391", 
+                "title": "MOON VIEWING CEREMONY"
+            }, 
+            {
+                "charcode": "0x1f392", 
+                "title": "SCHOOL SATCHEL"
+            }, 
+            {
+                "charcode": "0x1f393", 
+                "title": "GRADUATION CAP"
+            }, 
+            {
+                "charcode": "0x1f3a0", 
+                "title": "CAROUSEL HORSE"
+            }, 
+            {
+                "charcode": "0x1f3a1", 
+                "title": "FERRIS WHEEL"
+            }, 
+            {
+                "charcode": "0x1f3a2", 
+                "title": "ROLLER COASTER"
+            }, 
+            {
+                "charcode": "0x1f3a3", 
+                "title": "FISHING POLE AND FISH"
+            }, 
+            {
+                "charcode": "0x1f3a4", 
+                "title": "MICROPHONE"
+            }, 
+            {
+                "charcode": "0x1f3a5", 
+                "title": "MOVIE CAMERA"
+            }, 
+            {
+                "charcode": "0x1f3a6", 
+                "title": "CINEMA"
+            }, 
+            {
+                "charcode": "0x1f3a7", 
+                "title": "HEADPHONE"
+            }, 
+            {
+                "charcode": "0x1f3a8", 
+                "title": "ARTIST PALETTE"
+            }, 
+            {
+                "charcode": "0x1f3a9", 
+                "title": "TOP HAT"
+            }, 
+            {
+                "charcode": "0x1f3aa", 
+                "title": "CIRCUS TENT"
+            }, 
+            {
+                "charcode": "0x1f3ab", 
+                "title": "TICKET"
+            }, 
+            {
+                "charcode": "0x1f3ac", 
+                "title": "CLAPPER BOARD"
+            }, 
+            {
+                "charcode": "0x1f3ad", 
+                "title": "PERFORMING ARTS"
+            }, 
+            {
+                "charcode": "0x1f3ae", 
+                "title": "VIDEO GAME"
+            }, 
+            {
+                "charcode": "0x1f3af", 
+                "title": "DIRECT HIT"
+            }, 
+            {
+                "charcode": "0x1f3b0", 
+                "title": "SLOT MACHINE"
+            }, 
+            {
+                "charcode": "0x1f3b1", 
+                "title": "BILLIARDS"
+            }, 
+            {
+                "charcode": "0x1f3b2", 
+                "title": "GAME DIE"
+            }, 
+            {
+                "charcode": "0x1f3b3", 
+                "title": "BOWLING"
+            }, 
+            {
+                "charcode": "0x1f3b4", 
+                "title": "FLOWER PLAYING CARDS"
+            }, 
+            {
+                "charcode": "0x1f3b5", 
+                "title": "MUSICAL NOTE"
+            }, 
+            {
+                "charcode": "0x1f3b6", 
+                "title": "MULTIPLE MUSICAL NOTES"
+            }, 
+            {
+                "charcode": "0x1f3b7", 
+                "title": "SAXOPHONE"
+            }, 
+            {
+                "charcode": "0x1f3b8", 
+                "title": "GUITAR"
+            }, 
+            {
+                "charcode": "0x1f3b9", 
+                "title": "MUSICAL KEYBOARD"
+            }, 
+            {
+                "charcode": "0x1f3ba", 
+                "title": "TRUMPET"
+            }, 
+            {
+                "charcode": "0x1f3bb", 
+                "title": "VIOLIN"
+            }, 
+            {
+                "charcode": "0x1f3bc", 
+                "title": "MUSICAL SCORE"
+            }, 
+            {
+                "charcode": "0x1f3bd", 
+                "title": "RUNNING SHIRT WITH SASH"
+            }, 
+            {
+                "charcode": "0x1f3be", 
+                "title": "TENNIS RACQUET AND BALL"
+            }, 
+            {
+                "charcode": "0x1f3bf", 
+                "title": "SKI AND SKI BOOT"
+            }, 
+            {
+                "charcode": "0x1f3c0", 
+                "title": "BASKETBALL AND HOOP"
+            }, 
+            {
+                "charcode": "0x1f3c1", 
+                "title": "CHEQUERED FLAG"
+            }, 
+            {
+                "charcode": "0x1f3c2", 
+                "title": "SNOWBOARDER"
+            }, 
+            {
+                "charcode": "0x1f3c3", 
+                "title": "RUNNER"
+            }, 
+            {
+                "charcode": "0x1f3c4", 
+                "title": "SURFER"
+            }, 
+            {
+                "charcode": "0x1f3c6", 
+                "title": "TROPHY"
+            }, 
+            {
+                "charcode": "0x1f3c7", 
+                "title": "HORSE RACING"
+            }, 
+            {
+                "charcode": "0x1f3c8", 
+                "title": "AMERICAN FOOTBALL"
+            }, 
+            {
+                "charcode": "0x1f3c9", 
+                "title": "RUGBY FOOTBALL"
+            }, 
+            {
+                "charcode": "0x1f3ca", 
+                "title": "SWIMMER"
+            }, 
+            {
+                "charcode": "0x1f3e0", 
+                "title": "HOUSE BUILDING"
+            }, 
+            {
+                "charcode": "0x1f3e1", 
+                "title": "HOUSE WITH GARDEN"
+            }, 
+            {
+                "charcode": "0x1f3e2", 
+                "title": "OFFICE BUILDING"
+            }, 
+            {
+                "charcode": "0x1f3e3", 
+                "title": "JAPANESE POST OFFICE"
+            }, 
+            {
+                "charcode": "0x1f3e4", 
+                "title": "EUROPEAN POST OFFICE"
+            }, 
+            {
+                "charcode": "0x1f3e5", 
+                "title": "HOSPITAL"
+            }, 
+            {
+                "charcode": "0x1f3e6", 
+                "title": "BANK"
+            }, 
+            {
+                "charcode": "0x1f3e7", 
+                "title": "AUTOMATED TELLER MACHINE"
+            }, 
+            {
+                "charcode": "0x1f3e8", 
+                "title": "HOTEL"
+            }, 
+            {
+                "charcode": "0x1f3e9", 
+                "title": "LOVE HOTEL"
+            }, 
+            {
+                "charcode": "0x1f3ea", 
+                "title": "CONVENIENCE STORE"
+            }, 
+            {
+                "charcode": "0x1f3eb", 
+                "title": "SCHOOL"
+            }, 
+            {
+                "charcode": "0x1f3ec", 
+                "title": "DEPARTMENT STORE"
+            }, 
+            {
+                "charcode": "0x1f3ed", 
+                "title": "FACTORY"
+            }, 
+            {
+                "charcode": "0x1f3ee", 
+                "title": "IZAKAYA LANTERN"
+            }, 
+            {
+                "charcode": "0x1f3ef", 
+                "title": "JAPANESE CASTLE"
+            }, 
+            {
+                "charcode": "0x1f3f0", 
+                "title": "EUROPEAN CASTLE"
+            }, 
+            {
+                "charcode": "0x1f400", 
+                "title": "RAT"
+            }, 
+            {
+                "charcode": "0x1f401", 
+                "title": "MOUSE"
+            }, 
+            {
+                "charcode": "0x1f402", 
+                "title": "OX"
+            }, 
+            {
+                "charcode": "0x1f403", 
+                "title": "WATER BUFFALO"
+            }, 
+            {
+                "charcode": "0x1f404", 
+                "title": "COW"
+            }, 
+            {
+                "charcode": "0x1f405", 
+                "title": "TIGER"
+            }, 
+            {
+                "charcode": "0x1f406", 
+                "title": "LEOPARD"
+            }, 
+            {
+                "charcode": "0x1f407", 
+                "title": "RABBIT"
+            }, 
+            {
+                "charcode": "0x1f408", 
+                "title": "CAT"
+            }, 
+            {
+                "charcode": "0x1f409", 
+                "title": "DRAGON"
+            }, 
+            {
+                "charcode": "0x1f40a", 
+                "title": "CROCODILE"
+            }, 
+            {
+                "charcode": "0x1f40b", 
+                "title": "WHALE"
+            }, 
+            {
+                "charcode": "0x1f40c", 
+                "title": "SNAIL"
+            }, 
+            {
+                "charcode": "0x1f40d", 
+                "title": "SNAKE"
+            }, 
+            {
+                "charcode": "0x1f40e", 
+                "title": "HORSE"
+            }, 
+            {
+                "charcode": "0x1f40f", 
+                "title": "RAM"
+            }, 
+            {
+                "charcode": "0x1f410", 
+                "title": "GOAT"
+            }, 
+            {
+                "charcode": "0x1f411", 
+                "title": "SHEEP"
+            }, 
+            {
+                "charcode": "0x1f412", 
+                "title": "MONKEY"
+            }, 
+            {
+                "charcode": "0x1f413", 
+                "title": "ROOSTER"
+            }, 
+            {
+                "charcode": "0x1f414", 
+                "title": "CHICKEN"
+            }, 
+            {
+                "charcode": "0x1f415", 
+                "title": "DOG"
+            }, 
+            {
+                "charcode": "0x1f416", 
+                "title": "PIG"
+            }, 
+            {
+                "charcode": "0x1f417", 
+                "title": "BOAR"
+            }, 
+            {
+                "charcode": "0x1f418", 
+                "title": "ELEPHANT"
+            }, 
+            {
+                "charcode": "0x1f419", 
+                "title": "OCTOPUS"
+            }, 
+            {
+                "charcode": "0x1f41a", 
+                "title": "SPIRAL SHELL"
+            }, 
+            {
+                "charcode": "0x1f41b", 
+                "title": "BUG"
+            }, 
+            {
+                "charcode": "0x1f41c", 
+                "title": "ANT"
+            }, 
+            {
+                "charcode": "0x1f41d", 
+                "title": "HONEYBEE"
+            }, 
+            {
+                "charcode": "0x1f41e", 
+                "title": "LADY BEETLE"
+            }, 
+            {
+                "charcode": "0x1f41f", 
+                "title": "FISH"
+            }, 
+            {
+                "charcode": "0x1f420", 
+                "title": "TROPICAL FISH"
+            }, 
+            {
+                "charcode": "0x1f421", 
+                "title": "BLOWFISH"
+            }, 
+            {
+                "charcode": "0x1f422", 
+                "title": "TURTLE"
+            }, 
+            {
+                "charcode": "0x1f423", 
+                "title": "HATCHING CHICK"
+            }, 
+            {
+                "charcode": "0x1f424", 
+                "title": "BABY CHICK"
+            }, 
+            {
+                "charcode": "0x1f425", 
+                "title": "FRONT-FACING BABY CHICK"
+            }, 
+            {
+                "charcode": "0x1f426", 
+                "title": "BIRD"
+            }, 
+            {
+                "charcode": "0x1f427", 
+                "title": "PENGUIN"
+            }, 
+            {
+                "charcode": "0x1f428", 
+                "title": "KOALA"
+            }, 
+            {
+                "charcode": "0x1f429", 
+                "title": "POODLE"
+            }, 
+            {
+                "charcode": "0x1f42a", 
+                "title": "DROMEDARY CAMEL"
+            }, 
+            {
+                "charcode": "0x1f42b", 
+                "title": "BACTRIAN CAMEL"
+            }, 
+            {
+                "charcode": "0x1f42c", 
+                "title": "DOLPHIN"
+            }, 
+            {
+                "charcode": "0x1f42d", 
+                "title": "MOUSE FACE"
+            }, 
+            {
+                "charcode": "0x1f42e", 
+                "title": "COW FACE"
+            }, 
+            {
+                "charcode": "0x1f42f", 
+                "title": "TIGER FACE"
+            }, 
+            {
+                "charcode": "0x1f430", 
+                "title": "RABBIT FACE"
+            }, 
+            {
+                "charcode": "0x1f431", 
+                "title": "CAT FACE"
+            }, 
+            {
+                "charcode": "0x1f432", 
+                "title": "DRAGON FACE"
+            }, 
+            {
+                "charcode": "0x1f433", 
+                "title": "SPOUTING WHALE"
+            }, 
+            {
+                "charcode": "0x1f434", 
+                "title": "HORSE FACE"
+            }, 
+            {
+                "charcode": "0x1f435", 
+                "title": "MONKEY FACE"
+            }, 
+            {
+                "charcode": "0x1f436", 
+                "title": "DOG FACE"
+            }, 
+            {
+                "charcode": "0x1f437", 
+                "title": "PIG FACE"
+            }, 
+            {
+                "charcode": "0x1f438", 
+                "title": "FROG FACE"
+            }, 
+            {
+                "charcode": "0x1f439", 
+                "title": "HAMSTER FACE"
+            }, 
+            {
+                "charcode": "0x1f43a", 
+                "title": "WOLF FACE"
+            }, 
+            {
+                "charcode": "0x1f43b", 
+                "title": "BEAR FACE"
+            }, 
+            {
+                "charcode": "0x1f43c", 
+                "title": "PANDA FACE"
+            }, 
+            {
+                "charcode": "0x1f43d", 
+                "title": "PIG NOSE"
+            }, 
+            {
+                "charcode": "0x1f43e", 
+                "title": "PAW PRINTS"
+            }, 
+            {
+                "charcode": "0x1f440", 
+                "title": "EYES"
+            }, 
+            {
+                "charcode": "0x1f442", 
+                "title": "EAR"
+            }, 
+            {
+                "charcode": "0x1f443", 
+                "title": "NOSE"
+            }, 
+            {
+                "charcode": "0x1f444", 
+                "title": "MOUTH"
+            }, 
+            {
+                "charcode": "0x1f445", 
+                "title": "TONGUE"
+            }, 
+            {
+                "charcode": "0x1f446", 
+                "title": "WHITE UP POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f447", 
+                "title": "WHITE DOWN POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f448", 
+                "title": "WHITE LEFT POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f449", 
+                "title": "WHITE RIGHT POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f44a", 
+                "title": "FISTED HAND SIGN"
+            }, 
+            {
+                "charcode": "0x1f44b", 
+                "title": "WAVING HAND SIGN"
+            }, 
+            {
+                "charcode": "0x1f44c", 
+                "title": "OK HAND SIGN"
+            }, 
+            {
+                "charcode": "0x1f44d", 
+                "title": "THUMBS UP SIGN"
+            }, 
+            {
+                "charcode": "0x1f44e", 
+                "title": "THUMBS DOWN SIGN"
+            }, 
+            {
+                "charcode": "0x1f44f", 
+                "title": "CLAPPING HANDS SIGN"
+            }, 
+            {
+                "charcode": "0x1f450", 
+                "title": "OPEN HANDS SIGN"
+            }, 
+            {
+                "charcode": "0x1f451", 
+                "title": "CROWN"
+            }, 
+            {
+                "charcode": "0x1f452", 
+                "title": "WOMANS HAT"
+            }, 
+            {
+                "charcode": "0x1f453", 
+                "title": "EYEGLASSES"
+            }, 
+            {
+                "charcode": "0x1f454", 
+                "title": "NECKTIE"
+            }, 
+            {
+                "charcode": "0x1f455", 
+                "title": "T-SHIRT"
+            }, 
+            {
+                "charcode": "0x1f456", 
+                "title": "JEANS"
+            }, 
+            {
+                "charcode": "0x1f457", 
+                "title": "DRESS"
+            }, 
+            {
+                "charcode": "0x1f458", 
+                "title": "KIMONO"
+            }, 
+            {
+                "charcode": "0x1f459", 
+                "title": "BIKINI"
+            }, 
+            {
+                "charcode": "0x1f45a", 
+                "title": "WOMANS CLOTHES"
+            }, 
+            {
+                "charcode": "0x1f45b", 
+                "title": "PURSE"
+            }, 
+            {
+                "charcode": "0x1f45c", 
+                "title": "HANDBAG"
+            }, 
+            {
+                "charcode": "0x1f45d", 
+                "title": "POUCH"
+            }, 
+            {
+                "charcode": "0x1f45e", 
+                "title": "MANS SHOE"
+            }, 
+            {
+                "charcode": "0x1f45f", 
+                "title": "ATHLETIC SHOE"
+            }, 
+            {
+                "charcode": "0x1f460", 
+                "title": "HIGH-HEELED SHOE"
+            }, 
+            {
+                "charcode": "0x1f461", 
+                "title": "WOMANS SANDAL"
+            }, 
+            {
+                "charcode": "0x1f462", 
+                "title": "WOMANS BOOTS"
+            }, 
+            {
+                "charcode": "0x1f463", 
+                "title": "FOOTPRINTS"
+            }, 
+            {
+                "charcode": "0x1f464", 
+                "title": "BUST IN SILHOUETTE"
+            }, 
+            {
+                "charcode": "0x1f465", 
+                "title": "BUSTS IN SILHOUETTE"
+            }, 
+            {
+                "charcode": "0x1f466", 
+                "title": "BOY"
+            }, 
+            {
+                "charcode": "0x1f467", 
+                "title": "GIRL"
+            }, 
+            {
+                "charcode": "0x1f468", 
+                "title": "MAN"
+            }, 
+            {
+                "charcode": "0x1f469", 
+                "title": "WOMAN"
+            }, 
+            {
+                "charcode": "0x1f46a", 
+                "title": "FAMILY"
+            }, 
+            {
+                "charcode": "0x1f46b", 
+                "title": "MAN AND WOMAN HOLDING HANDS"
+            }, 
+            {
+                "charcode": "0x1f46c", 
+                "title": "TWO MEN HOLDING HANDS"
+            }, 
+            {
+                "charcode": "0x1f46d", 
+                "title": "TWO WOMEN HOLDING HANDS"
+            }, 
+            {
+                "charcode": "0x1f46e", 
+                "title": "POLICE OFFICER"
+            }, 
+            {
+                "charcode": "0x1f46f", 
+                "title": "WOMAN WITH BUNNY EARS"
+            }, 
+            {
+                "charcode": "0x1f470", 
+                "title": "BRIDE WITH VEIL"
+            }, 
+            {
+                "charcode": "0x1f471", 
+                "title": "PERSON WITH BLOND HAIR"
+            }, 
+            {
+                "charcode": "0x1f472", 
+                "title": "MAN WITH GUA PI MAO"
+            }, 
+            {
+                "charcode": "0x1f473", 
+                "title": "MAN WITH TURBAN"
+            }, 
+            {
+                "charcode": "0x1f474", 
+                "title": "OLDER MAN"
+            }, 
+            {
+                "charcode": "0x1f475", 
+                "title": "OLDER WOMAN"
+            }, 
+            {
+                "charcode": "0x1f476", 
+                "title": "BABY"
+            }, 
+            {
+                "charcode": "0x1f477", 
+                "title": "CONSTRUCTION WORKER"
+            }, 
+            {
+                "charcode": "0x1f478", 
+                "title": "PRINCESS"
+            }, 
+            {
+                "charcode": "0x1f479", 
+                "title": "JAPANESE OGRE"
+            }, 
+            {
+                "charcode": "0x1f47a", 
+                "title": "JAPANESE GOBLIN"
+            }, 
+            {
+                "charcode": "0x1f47b", 
+                "title": "GHOST"
+            }, 
+            {
+                "charcode": "0x1f47c", 
+                "title": "BABY ANGEL"
+            }, 
+            {
+                "charcode": "0x1f47d", 
+                "title": "EXTRATERRESTRIAL ALIEN"
+            }, 
+            {
+                "charcode": "0x1f47e", 
+                "title": "ALIEN MONSTER"
+            }, 
+            {
+                "charcode": "0x1f47f", 
+                "title": "IMP"
+            }, 
+            {
+                "charcode": "0x1f480", 
+                "title": "SKULL"
+            }, 
+            {
+                "charcode": "0x1f481", 
+                "title": "INFORMATION DESK PERSON"
+            }, 
+            {
+                "charcode": "0x1f482", 
+                "title": "GUARDSMAN"
+            }, 
+            {
+                "charcode": "0x1f483", 
+                "title": "DANCER"
+            }, 
+            {
+                "charcode": "0x1f484", 
+                "title": "LIPSTICK"
+            }, 
+            {
+                "charcode": "0x1f485", 
+                "title": "NAIL POLISH"
+            }, 
+            {
+                "charcode": "0x1f486", 
+                "title": "FACE MASSAGE"
+            }, 
+            {
+                "charcode": "0x1f487", 
+                "title": "HAIRCUT"
+            }, 
+            {
+                "charcode": "0x1f488", 
+                "title": "BARBER POLE"
+            }, 
+            {
+                "charcode": "0x1f489", 
+                "title": "SYRINGE"
+            }, 
+            {
+                "charcode": "0x1f48a", 
+                "title": "PILL"
+            }, 
+            {
+                "charcode": "0x1f48b", 
+                "title": "KISS MARK"
+            }, 
+            {
+                "charcode": "0x1f48c", 
+                "title": "LOVE LETTER"
+            }, 
+            {
+                "charcode": "0x1f48d", 
+                "title": "RING"
+            }, 
+            {
+                "charcode": "0x1f48e", 
+                "title": "GEM STONE"
+            }, 
+            {
+                "charcode": "0x1f48f", 
+                "title": "KISS"
+            }, 
+            {
+                "charcode": "0x1f490", 
+                "title": "BOUQUET"
+            }, 
+            {
+                "charcode": "0x1f491", 
+                "title": "COUPLE WITH HEART"
+            }, 
+            {
+                "charcode": "0x1f492", 
+                "title": "WEDDING"
+            }, 
+            {
+                "charcode": "0x1f493", 
+                "title": "BEATING HEART"
+            }, 
+            {
+                "charcode": "0x1f494", 
+                "title": "BROKEN HEART"
+            }, 
+            {
+                "charcode": "0x1f495", 
+                "title": "TWO HEARTS"
+            }, 
+            {
+                "charcode": "0x1f496", 
+                "title": "SPARKLING HEART"
+            }, 
+            {
+                "charcode": "0x1f497", 
+                "title": "GROWING HEART"
+            }, 
+            {
+                "charcode": "0x1f498", 
+                "title": "HEART WITH ARROW"
+            }, 
+            {
+                "charcode": "0x1f499", 
+                "title": "BLUE HEART"
+            }, 
+            {
+                "charcode": "0x1f49a", 
+                "title": "GREEN HEART"
+            }, 
+            {
+                "charcode": "0x1f49b", 
+                "title": "YELLOW HEART"
+            }, 
+            {
+                "charcode": "0x1f49c", 
+                "title": "PURPLE HEART"
+            }, 
+            {
+                "charcode": "0x1f49d", 
+                "title": "HEART WITH RIBBON"
+            }, 
+            {
+                "charcode": "0x1f49e", 
+                "title": "REVOLVING HEARTS"
+            }, 
+            {
+                "charcode": "0x1f49f", 
+                "title": "HEART DECORATION"
+            }, 
+            {
+                "charcode": "0x1f4a0", 
+                "title": "DIAMOND SHAPE WITH A DOT INSIDE"
+            }, 
+            {
+                "charcode": "0x1f4a1", 
+                "title": "ELECTRIC LIGHT BULB"
+            }, 
+            {
+                "charcode": "0x1f4a2", 
+                "title": "ANGER SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f4a3", 
+                "title": "BOMB"
+            }, 
+            {
+                "charcode": "0x1f4a4", 
+                "title": "SLEEPING SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f4a5", 
+                "title": "COLLISION SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f4a6", 
+                "title": "SPLASHING SWEAT SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f4a7", 
+                "title": "DROPLET"
+            }, 
+            {
+                "charcode": "0x1f4a8", 
+                "title": "DASH SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f4a9", 
+                "title": "PILE OF POO"
+            }, 
+            {
+                "charcode": "0x1f4aa", 
+                "title": "FLEXED BICEPS"
+            }, 
+            {
+                "charcode": "0x1f4ab", 
+                "title": "DIZZY SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f4ac", 
+                "title": "SPEECH BALLOON"
+            }, 
+            {
+                "charcode": "0x1f4ad", 
+                "title": "THOUGHT BALLOON"
+            }, 
+            {
+                "charcode": "0x1f4ae", 
+                "title": "WHITE FLOWER"
+            }, 
+            {
+                "charcode": "0x1f4af", 
+                "title": "HUNDRED POINTS SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f4b0", 
+                "title": "MONEY BAG"
+            }, 
+            {
+                "charcode": "0x1f4b1", 
+                "title": "CURRENCY EXCHANGE"
+            }, 
+            {
+                "charcode": "0x1f4b2", 
+                "title": "HEAVY DOLLAR SIGN"
+            }, 
+            {
+                "charcode": "0x1f4b3", 
+                "title": "CREDIT CARD"
+            }, 
+            {
+                "charcode": "0x1f4b4", 
+                "title": "BANKNOTE WITH YEN SIGN"
+            }, 
+            {
+                "charcode": "0x1f4b5", 
+                "title": "BANKNOTE WITH DOLLAR SIGN"
+            }, 
+            {
+                "charcode": "0x1f4b6", 
+                "title": "BANKNOTE WITH EURO SIGN"
+            }, 
+            {
+                "charcode": "0x1f4b7", 
+                "title": "BANKNOTE WITH POUND SIGN"
+            }, 
+            {
+                "charcode": "0x1f4b8", 
+                "title": "MONEY WITH WINGS"
+            }, 
+            {
+                "charcode": "0x1f4b9", 
+                "title": "CHART WITH UPWARDS TREND AND YEN SIGN"
+            }, 
+            {
+                "charcode": "0x1f4ba", 
+                "title": "SEAT"
+            }, 
+            {
+                "charcode": "0x1f4bb", 
+                "title": "PERSONAL COMPUTER"
+            }, 
+            {
+                "charcode": "0x1f4bc", 
+                "title": "BRIEFCASE"
+            }, 
+            {
+                "charcode": "0x1f4bd", 
+                "title": "MINIDISC"
+            }, 
+            {
+                "charcode": "0x1f4be", 
+                "title": "FLOPPY DISK"
+            }, 
+            {
+                "charcode": "0x1f4bf", 
+                "title": "OPTICAL DISC"
+            }, 
+            {
+                "charcode": "0x1f4c0", 
+                "title": "DVD"
+            }, 
+            {
+                "charcode": "0x1f4c1", 
+                "title": "FILE FOLDER"
+            }, 
+            {
+                "charcode": "0x1f4c2", 
+                "title": "OPEN FILE FOLDER"
+            }, 
+            {
+                "charcode": "0x1f4c3", 
+                "title": "PAGE WITH CURL"
+            }, 
+            {
+                "charcode": "0x1f4c4", 
+                "title": "PAGE FACING UP"
+            }, 
+            {
+                "charcode": "0x1f4c5", 
+                "title": "CALENDAR"
+            }, 
+            {
+                "charcode": "0x1f4c6", 
+                "title": "TEAR-OFF CALENDAR"
+            }, 
+            {
+                "charcode": "0x1f4c7", 
+                "title": "CARD INDEX"
+            }, 
+            {
+                "charcode": "0x1f4c8", 
+                "title": "CHART WITH UPWARDS TREND"
+            }, 
+            {
+                "charcode": "0x1f4c9", 
+                "title": "CHART WITH DOWNWARDS TREND"
+            }, 
+            {
+                "charcode": "0x1f4ca", 
+                "title": "BAR CHART"
+            }, 
+            {
+                "charcode": "0x1f4cb", 
+                "title": "CLIPBOARD"
+            }, 
+            {
+                "charcode": "0x1f4cc", 
+                "title": "PUSHPIN"
+            }, 
+            {
+                "charcode": "0x1f4cd", 
+                "title": "ROUND PUSHPIN"
+            }, 
+            {
+                "charcode": "0x1f4ce", 
+                "title": "PAPERCLIP"
+            }, 
+            {
+                "charcode": "0x1f4cf", 
+                "title": "STRAIGHT RULER"
+            }, 
+            {
+                "charcode": "0x1f4d0", 
+                "title": "TRIANGULAR RULER"
+            }, 
+            {
+                "charcode": "0x1f4d1", 
+                "title": "BOOKMARK TABS"
+            }, 
+            {
+                "charcode": "0x1f4d2", 
+                "title": "LEDGER"
+            }, 
+            {
+                "charcode": "0x1f4d3", 
+                "title": "NOTEBOOK"
+            }, 
+            {
+                "charcode": "0x1f4d4", 
+                "title": "NOTEBOOK WITH DECORATIVE COVER"
+            }, 
+            {
+                "charcode": "0x1f4d5", 
+                "title": "CLOSED BOOK"
+            }, 
+            {
+                "charcode": "0x1f4d6", 
+                "title": "OPEN BOOK"
+            }, 
+            {
+                "charcode": "0x1f4d7", 
+                "title": "GREEN BOOK"
+            }, 
+            {
+                "charcode": "0x1f4d8", 
+                "title": "BLUE BOOK"
+            }, 
+            {
+                "charcode": "0x1f4d9", 
+                "title": "ORANGE BOOK"
+            }, 
+            {
+                "charcode": "0x1f4da", 
+                "title": "BOOKS"
+            }, 
+            {
+                "charcode": "0x1f4db", 
+                "title": "NAME BADGE"
+            }, 
+            {
+                "charcode": "0x1f4dc", 
+                "title": "SCROLL"
+            }, 
+            {
+                "charcode": "0x1f4dd", 
+                "title": "MEMO"
+            }, 
+            {
+                "charcode": "0x1f4de", 
+                "title": "TELEPHONE RECEIVER"
+            }, 
+            {
+                "charcode": "0x1f4df", 
+                "title": "PAGER"
+            }, 
+            {
+                "charcode": "0x1f4e0", 
+                "title": "FAX MACHINE"
+            }, 
+            {
+                "charcode": "0x1f4e1", 
+                "title": "SATELLITE ANTENNA"
+            }, 
+            {
+                "charcode": "0x1f4e2", 
+                "title": "PUBLIC ADDRESS LOUDSPEAKER"
+            }, 
+            {
+                "charcode": "0x1f4e3", 
+                "title": "CHEERING MEGAPHONE"
+            }, 
+            {
+                "charcode": "0x1f4e4", 
+                "title": "OUTBOX TRAY"
+            }, 
+            {
+                "charcode": "0x1f4e5", 
+                "title": "INBOX TRAY"
+            }, 
+            {
+                "charcode": "0x1f4e6", 
+                "title": "PACKAGE"
+            }, 
+            {
+                "charcode": "0x1f4e7", 
+                "title": "E-MAIL SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f4e8", 
+                "title": "INCOMING ENVELOPE"
+            }, 
+            {
+                "charcode": "0x1f4e9", 
+                "title": "ENVELOPE WITH DOWNWARDS ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x1f4ea", 
+                "title": "CLOSED MAILBOX WITH LOWERED FLAG"
+            }, 
+            {
+                "charcode": "0x1f4eb", 
+                "title": "CLOSED MAILBOX WITH RAISED FLAG"
+            }, 
+            {
+                "charcode": "0x1f4ec", 
+                "title": "OPEN MAILBOX WITH RAISED FLAG"
+            }, 
+            {
+                "charcode": "0x1f4ed", 
+                "title": "OPEN MAILBOX WITH LOWERED FLAG"
+            }, 
+            {
+                "charcode": "0x1f4ee", 
+                "title": "POSTBOX"
+            }, 
+            {
+                "charcode": "0x1f4ef", 
+                "title": "POSTAL HORN"
+            }, 
+            {
+                "charcode": "0x1f4f0", 
+                "title": "NEWSPAPER"
+            }, 
+            {
+                "charcode": "0x1f4f1", 
+                "title": "MOBILE PHONE"
+            }, 
+            {
+                "charcode": "0x1f4f2", 
+                "title": "MOBILE PHONE WITH RIGHTWARDS ARROW AT LEFT"
+            }, 
+            {
+                "charcode": "0x1f4f3", 
+                "title": "VIBRATION MODE"
+            }, 
+            {
+                "charcode": "0x1f4f4", 
+                "title": "MOBILE PHONE OFF"
+            }, 
+            {
+                "charcode": "0x1f4f5", 
+                "title": "NO MOBILE PHONES"
+            }, 
+            {
+                "charcode": "0x1f4f6", 
+                "title": "ANTENNA WITH BARS"
+            }, 
+            {
+                "charcode": "0x1f4f7", 
+                "title": "CAMERA"
+            }, 
+            {
+                "charcode": "0x1f4f9", 
+                "title": "VIDEO CAMERA"
+            }, 
+            {
+                "charcode": "0x1f4fa", 
+                "title": "TELEVISION"
+            }, 
+            {
+                "charcode": "0x1f4fb", 
+                "title": "RADIO"
+            }, 
+            {
+                "charcode": "0x1f4fc", 
+                "title": "VIDEOCASSETTE"
+            }, 
+            {
+                "charcode": "0x1f500", 
+                "title": "TWISTED RIGHTWARDS ARROWS"
+            }, 
+            {
+                "charcode": "0x1f501", 
+                "title": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS"
+            }, 
+            {
+                "charcode": "0x1f502", 
+                "title": "CLOCKWISE RIGHTWARDS AND LEFTWARDS OPEN CIRCLE ARROWS WITH CIRCLED ONE OVERLAY"
+            }, 
+            {
+                "charcode": "0x1f503", 
+                "title": "CLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS"
+            }, 
+            {
+                "charcode": "0x1f504", 
+                "title": "ANTICLOCKWISE DOWNWARDS AND UPWARDS OPEN CIRCLE ARROWS"
+            }, 
+            {
+                "charcode": "0x1f505", 
+                "title": "LOW BRIGHTNESS SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f506", 
+                "title": "HIGH BRIGHTNESS SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f507", 
+                "title": "SPEAKER WITH CANCELLATION STROKE"
+            }, 
+            {
+                "charcode": "0x1f508", 
+                "title": "SPEAKER"
+            }, 
+            {
+                "charcode": "0x1f509", 
+                "title": "SPEAKER WITH ONE SOUND WAVE"
+            }, 
+            {
+                "charcode": "0x1f50a", 
+                "title": "SPEAKER WITH THREE SOUND WAVES"
+            }, 
+            {
+                "charcode": "0x1f50b", 
+                "title": "BATTERY"
+            }, 
+            {
+                "charcode": "0x1f50c", 
+                "title": "ELECTRIC PLUG"
+            }, 
+            {
+                "charcode": "0x1f50d", 
+                "title": "LEFT-POINTING MAGNIFYING GLASS"
+            }, 
+            {
+                "charcode": "0x1f50e", 
+                "title": "RIGHT-POINTING MAGNIFYING GLASS"
+            }, 
+            {
+                "charcode": "0x1f50f", 
+                "title": "LOCK WITH INK PEN"
+            }, 
+            {
+                "charcode": "0x1f510", 
+                "title": "CLOSED LOCK WITH KEY"
+            }, 
+            {
+                "charcode": "0x1f511", 
+                "title": "KEY"
+            }, 
+            {
+                "charcode": "0x1f512", 
+                "title": "LOCK"
+            }, 
+            {
+                "charcode": "0x1f513", 
+                "title": "OPEN LOCK"
+            }, 
+            {
+                "charcode": "0x1f514", 
+                "title": "BELL"
+            }, 
+            {
+                "charcode": "0x1f515", 
+                "title": "BELL WITH CANCELLATION STROKE"
+            }, 
+            {
+                "charcode": "0x1f516", 
+                "title": "BOOKMARK"
+            }, 
+            {
+                "charcode": "0x1f517", 
+                "title": "LINK SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f518", 
+                "title": "RADIO BUTTON"
+            }, 
+            {
+                "charcode": "0x1f519", 
+                "title": "BACK WITH LEFTWARDS ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x1f51a", 
+                "title": "END WITH LEFTWARDS ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x1f51b", 
+                "title": "ON WITH EXCLAMATION MARK WITH LEFT RIGHT ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x1f51c", 
+                "title": "SOON WITH RIGHTWARDS ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x1f51d", 
+                "title": "TOP WITH UPWARDS ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x1f51e", 
+                "title": "NO ONE UNDER EIGHTEEN SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f51f", 
+                "title": "KEYCAP TEN"
+            }, 
+            {
+                "charcode": "0x1f520", 
+                "title": "INPUT SYMBOL FOR LATIN CAPITAL LETTERS"
+            }, 
+            {
+                "charcode": "0x1f521", 
+                "title": "INPUT SYMBOL FOR LATIN SMALL LETTERS"
+            }, 
+            {
+                "charcode": "0x1f522", 
+                "title": "INPUT SYMBOL FOR NUMBERS"
+            }, 
+            {
+                "charcode": "0x1f523", 
+                "title": "INPUT SYMBOL FOR SYMBOLS"
+            }, 
+            {
+                "charcode": "0x1f524", 
+                "title": "INPUT SYMBOL FOR LATIN LETTERS"
+            }, 
+            {
+                "charcode": "0x1f525", 
+                "title": "FIRE"
+            }, 
+            {
+                "charcode": "0x1f526", 
+                "title": "ELECTRIC TORCH"
+            }, 
+            {
+                "charcode": "0x1f527", 
+                "title": "WRENCH"
+            }, 
+            {
+                "charcode": "0x1f528", 
+                "title": "HAMMER"
+            }, 
+            {
+                "charcode": "0x1f529", 
+                "title": "NUT AND BOLT"
+            }, 
+            {
+                "charcode": "0x1f52a", 
+                "title": "HOCHO"
+            }, 
+            {
+                "charcode": "0x1f52b", 
+                "title": "PISTOL"
+            }, 
+            {
+                "charcode": "0x1f52c", 
+                "title": "MICROSCOPE"
+            }, 
+            {
+                "charcode": "0x1f52d", 
+                "title": "TELESCOPE"
+            }, 
+            {
+                "charcode": "0x1f52e", 
+                "title": "CRYSTAL BALL"
+            }, 
+            {
+                "charcode": "0x1f52f", 
+                "title": "SIX POINTED STAR WITH MIDDLE DOT"
+            }, 
+            {
+                "charcode": "0x1f530", 
+                "title": "JAPANESE SYMBOL FOR BEGINNER"
+            }, 
+            {
+                "charcode": "0x1f531", 
+                "title": "TRIDENT EMBLEM"
+            }, 
+            {
+                "charcode": "0x1f532", 
+                "title": "BLACK SQUARE BUTTON"
+            }, 
+            {
+                "charcode": "0x1f533", 
+                "title": "WHITE SQUARE BUTTON"
+            }, 
+            {
+                "charcode": "0x1f534", 
+                "title": "LARGE RED CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f535", 
+                "title": "LARGE BLUE CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f536", 
+                "title": "LARGE ORANGE DIAMOND"
+            }, 
+            {
+                "charcode": "0x1f537", 
+                "title": "LARGE BLUE DIAMOND"
+            }, 
+            {
+                "charcode": "0x1f538", 
+                "title": "SMALL ORANGE DIAMOND"
+            }, 
+            {
+                "charcode": "0x1f539", 
+                "title": "SMALL BLUE DIAMOND"
+            }, 
+            {
+                "charcode": "0x1f53a", 
+                "title": "UP-POINTING RED TRIANGLE"
+            }, 
+            {
+                "charcode": "0x1f53b", 
+                "title": "DOWN-POINTING RED TRIANGLE"
+            }, 
+            {
+                "charcode": "0x1f53c", 
+                "title": "UP-POINTING SMALL RED TRIANGLE"
+            }, 
+            {
+                "charcode": "0x1f53d", 
+                "title": "DOWN-POINTING SMALL RED TRIANGLE"
+            }, 
+            {
+                "charcode": "0x1f540", 
+                "title": "CIRCLED CROSS POMMEE"
+            }, 
+            {
+                "charcode": "0x1f541", 
+                "title": "CROSS POMMEE WITH HALF-CIRCLE BELOW"
+            }, 
+            {
+                "charcode": "0x1f542", 
+                "title": "CROSS POMMEE"
+            }, 
+            {
+                "charcode": "0x1f543", 
+                "title": "NOTCHED LEFT SEMICIRCLE WITH THREE DOTS"
+            }, 
+            {
+                "charcode": "0x1f550", 
+                "title": "CLOCK FACE ONE OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f551", 
+                "title": "CLOCK FACE TWO OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f552", 
+                "title": "CLOCK FACE THREE OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f553", 
+                "title": "CLOCK FACE FOUR OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f554", 
+                "title": "CLOCK FACE FIVE OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f555", 
+                "title": "CLOCK FACE SIX OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f556", 
+                "title": "CLOCK FACE SEVEN OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f557", 
+                "title": "CLOCK FACE EIGHT OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f558", 
+                "title": "CLOCK FACE NINE OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f559", 
+                "title": "CLOCK FACE TEN OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f55a", 
+                "title": "CLOCK FACE ELEVEN OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f55b", 
+                "title": "CLOCK FACE TWELVE OCLOCK"
+            }, 
+            {
+                "charcode": "0x1f55c", 
+                "title": "CLOCK FACE ONE-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f55d", 
+                "title": "CLOCK FACE TWO-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f55e", 
+                "title": "CLOCK FACE THREE-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f55f", 
+                "title": "CLOCK FACE FOUR-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f560", 
+                "title": "CLOCK FACE FIVE-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f561", 
+                "title": "CLOCK FACE SIX-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f562", 
+                "title": "CLOCK FACE SEVEN-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f563", 
+                "title": "CLOCK FACE EIGHT-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f564", 
+                "title": "CLOCK FACE NINE-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f565", 
+                "title": "CLOCK FACE TEN-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f566", 
+                "title": "CLOCK FACE ELEVEN-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f567", 
+                "title": "CLOCK FACE TWELVE-THIRTY"
+            }, 
+            {
+                "charcode": "0x1f5fb", 
+                "title": "MOUNT FUJI"
+            }, 
+            {
+                "charcode": "0x1f5fc", 
+                "title": "TOKYO TOWER"
+            }, 
+            {
+                "charcode": "0x1f5fd", 
+                "title": "STATUE OF LIBERTY"
+            }, 
+            {
+                "charcode": "0x1f5fe", 
+                "title": "SILHOUETTE OF JAPAN"
+            }
+        ], 
+        "name": "Miscellaneous Symbols And Pictographs"
+    }
+]

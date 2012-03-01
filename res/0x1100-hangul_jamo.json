@@ -1,0 +1,1027 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1100", 
+                "title": "HANGUL CHOSEONG KIYEOK"
+            }, 
+            {
+                "charcode": "0x1101", 
+                "title": "HANGUL CHOSEONG SSANGKIYEOK"
+            }, 
+            {
+                "charcode": "0x1102", 
+                "title": "HANGUL CHOSEONG NIEUN"
+            }, 
+            {
+                "charcode": "0x1103", 
+                "title": "HANGUL CHOSEONG TIKEUT"
+            }, 
+            {
+                "charcode": "0x1104", 
+                "title": "HANGUL CHOSEONG SSANGTIKEUT"
+            }, 
+            {
+                "charcode": "0x1105", 
+                "title": "HANGUL CHOSEONG RIEUL"
+            }, 
+            {
+                "charcode": "0x1106", 
+                "title": "HANGUL CHOSEONG MIEUM"
+            }, 
+            {
+                "charcode": "0x1107", 
+                "title": "HANGUL CHOSEONG PIEUP"
+            }, 
+            {
+                "charcode": "0x1108", 
+                "title": "HANGUL CHOSEONG SSANGPIEUP"
+            }, 
+            {
+                "charcode": "0x1109", 
+                "title": "HANGUL CHOSEONG SIOS"
+            }, 
+            {
+                "charcode": "0x110a", 
+                "title": "HANGUL CHOSEONG SSANGSIOS"
+            }, 
+            {
+                "charcode": "0x110b", 
+                "title": "HANGUL CHOSEONG IEUNG"
+            }, 
+            {
+                "charcode": "0x110c", 
+                "title": "HANGUL CHOSEONG CIEUC"
+            }, 
+            {
+                "charcode": "0x110d", 
+                "title": "HANGUL CHOSEONG SSANGCIEUC"
+            }, 
+            {
+                "charcode": "0x110e", 
+                "title": "HANGUL CHOSEONG CHIEUCH"
+            }, 
+            {
+                "charcode": "0x110f", 
+                "title": "HANGUL CHOSEONG KHIEUKH"
+            }, 
+            {
+                "charcode": "0x1110", 
+                "title": "HANGUL CHOSEONG THIEUTH"
+            }, 
+            {
+                "charcode": "0x1111", 
+                "title": "HANGUL CHOSEONG PHIEUPH"
+            }, 
+            {
+                "charcode": "0x1112", 
+                "title": "HANGUL CHOSEONG HIEUH"
+            }, 
+            {
+                "charcode": "0x1113", 
+                "title": "HANGUL CHOSEONG NIEUN-KIYEOK"
+            }, 
+            {
+                "charcode": "0x1114", 
+                "title": "HANGUL CHOSEONG SSANGNIEUN"
+            }, 
+            {
+                "charcode": "0x1115", 
+                "title": "HANGUL CHOSEONG NIEUN-TIKEUT"
+            }, 
+            {
+                "charcode": "0x1116", 
+                "title": "HANGUL CHOSEONG NIEUN-PIEUP"
+            }, 
+            {
+                "charcode": "0x1117", 
+                "title": "HANGUL CHOSEONG TIKEUT-KIYEOK"
+            }, 
+            {
+                "charcode": "0x1118", 
+                "title": "HANGUL CHOSEONG RIEUL-NIEUN"
+            }, 
+            {
+                "charcode": "0x1119", 
+                "title": "HANGUL CHOSEONG SSANGRIEUL"
+            }, 
+            {
+                "charcode": "0x111a", 
+                "title": "HANGUL CHOSEONG RIEUL-HIEUH"
+            }, 
+            {
+                "charcode": "0x111b", 
+                "title": "HANGUL CHOSEONG KAPYEOUNRIEUL"
+            }, 
+            {
+                "charcode": "0x111c", 
+                "title": "HANGUL CHOSEONG MIEUM-PIEUP"
+            }, 
+            {
+                "charcode": "0x111d", 
+                "title": "HANGUL CHOSEONG KAPYEOUNMIEUM"
+            }, 
+            {
+                "charcode": "0x111e", 
+                "title": "HANGUL CHOSEONG PIEUP-KIYEOK"
+            }, 
+            {
+                "charcode": "0x111f", 
+                "title": "HANGUL CHOSEONG PIEUP-NIEUN"
+            }, 
+            {
+                "charcode": "0x1120", 
+                "title": "HANGUL CHOSEONG PIEUP-TIKEUT"
+            }, 
+            {
+                "charcode": "0x1121", 
+                "title": "HANGUL CHOSEONG PIEUP-SIOS"
+            }, 
+            {
+                "charcode": "0x1122", 
+                "title": "HANGUL CHOSEONG PIEUP-SIOS-KIYEOK"
+            }, 
+            {
+                "charcode": "0x1123", 
+                "title": "HANGUL CHOSEONG PIEUP-SIOS-TIKEUT"
+            }, 
+            {
+                "charcode": "0x1124", 
+                "title": "HANGUL CHOSEONG PIEUP-SIOS-PIEUP"
+            }, 
+            {
+                "charcode": "0x1125", 
+                "title": "HANGUL CHOSEONG PIEUP-SSANGSIOS"
+            }, 
+            {
+                "charcode": "0x1126", 
+                "title": "HANGUL CHOSEONG PIEUP-SIOS-CIEUC"
+            }, 
+            {
+                "charcode": "0x1127", 
+                "title": "HANGUL CHOSEONG PIEUP-CIEUC"
+            }, 
+            {
+                "charcode": "0x1128", 
+                "title": "HANGUL CHOSEONG PIEUP-CHIEUCH"
+            }, 
+            {
+                "charcode": "0x1129", 
+                "title": "HANGUL CHOSEONG PIEUP-THIEUTH"
+            }, 
+            {
+                "charcode": "0x112a", 
+                "title": "HANGUL CHOSEONG PIEUP-PHIEUPH"
+            }, 
+            {
+                "charcode": "0x112b", 
+                "title": "HANGUL CHOSEONG KAPYEOUNPIEUP"
+            }, 
+            {
+                "charcode": "0x112c", 
+                "title": "HANGUL CHOSEONG KAPYEOUNSSANGPIEUP"
+            }, 
+            {
+                "charcode": "0x112d", 
+                "title": "HANGUL CHOSEONG SIOS-KIYEOK"
+            }, 
+            {
+                "charcode": "0x112e", 
+                "title": "HANGUL CHOSEONG SIOS-NIEUN"
+            }, 
+            {
+                "charcode": "0x112f", 
+                "title": "HANGUL CHOSEONG SIOS-TIKEUT"
+            }, 
+            {
+                "charcode": "0x1130", 
+                "title": "HANGUL CHOSEONG SIOS-RIEUL"
+            }, 
+            {
+                "charcode": "0x1131", 
+                "title": "HANGUL CHOSEONG SIOS-MIEUM"
+            }, 
+            {
+                "charcode": "0x1132", 
+                "title": "HANGUL CHOSEONG SIOS-PIEUP"
+            }, 
+            {
+                "charcode": "0x1133", 
+                "title": "HANGUL CHOSEONG SIOS-PIEUP-KIYEOK"
+            }, 
+            {
+                "charcode": "0x1134", 
+                "title": "HANGUL CHOSEONG SIOS-SSANGSIOS"
+            }, 
+            {
+                "charcode": "0x1135", 
+                "title": "HANGUL CHOSEONG SIOS-IEUNG"
+            }, 
+            {
+                "charcode": "0x1136", 
+                "title": "HANGUL CHOSEONG SIOS-CIEUC"
+            }, 
+            {
+                "charcode": "0x1137", 
+                "title": "HANGUL CHOSEONG SIOS-CHIEUCH"
+            }, 
+            {
+                "charcode": "0x1138", 
+                "title": "HANGUL CHOSEONG SIOS-KHIEUKH"
+            }, 
+            {
+                "charcode": "0x1139", 
+                "title": "HANGUL CHOSEONG SIOS-THIEUTH"
+            }, 
+            {
+                "charcode": "0x113a", 
+                "title": "HANGUL CHOSEONG SIOS-PHIEUPH"
+            }, 
+            {
+                "charcode": "0x113b", 
+                "title": "HANGUL CHOSEONG SIOS-HIEUH"
+            }, 
+            {
+                "charcode": "0x113c", 
+                "title": "HANGUL CHOSEONG CHITUEUMSIOS"
+            }, 
+            {
+                "charcode": "0x113d", 
+                "title": "HANGUL CHOSEONG CHITUEUMSSANGSIOS"
+            }, 
+            {
+                "charcode": "0x113e", 
+                "title": "HANGUL CHOSEONG CEONGCHIEUMSIOS"
+            }, 
+            {
+                "charcode": "0x113f", 
+                "title": "HANGUL CHOSEONG CEONGCHIEUMSSANGSIOS"
+            }, 
+            {
+                "charcode": "0x1140", 
+                "title": "HANGUL CHOSEONG PANSIOS"
+            }, 
+            {
+                "charcode": "0x1141", 
+                "title": "HANGUL CHOSEONG IEUNG-KIYEOK"
+            }, 
+            {
+                "charcode": "0x1142", 
+                "title": "HANGUL CHOSEONG IEUNG-TIKEUT"
+            }, 
+            {
+                "charcode": "0x1143", 
+                "title": "HANGUL CHOSEONG IEUNG-MIEUM"
+            }, 
+            {
+                "charcode": "0x1144", 
+                "title": "HANGUL CHOSEONG IEUNG-PIEUP"
+            }, 
+            {
+                "charcode": "0x1145", 
+                "title": "HANGUL CHOSEONG IEUNG-SIOS"
+            }, 
+            {
+                "charcode": "0x1146", 
+                "title": "HANGUL CHOSEONG IEUNG-PANSIOS"
+            }, 
+            {
+                "charcode": "0x1147", 
+                "title": "HANGUL CHOSEONG SSANGIEUNG"
+            }, 
+            {
+                "charcode": "0x1148", 
+                "title": "HANGUL CHOSEONG IEUNG-CIEUC"
+            }, 
+            {
+                "charcode": "0x1149", 
+                "title": "HANGUL CHOSEONG IEUNG-CHIEUCH"
+            }, 
+            {
+                "charcode": "0x114a", 
+                "title": "HANGUL CHOSEONG IEUNG-THIEUTH"
+            }, 
+            {
+                "charcode": "0x114b", 
+                "title": "HANGUL CHOSEONG IEUNG-PHIEUPH"
+            }, 
+            {
+                "charcode": "0x114c", 
+                "title": "HANGUL CHOSEONG YESIEUNG"
+            }, 
+            {
+                "charcode": "0x114d", 
+                "title": "HANGUL CHOSEONG CIEUC-IEUNG"
+            }, 
+            {
+                "charcode": "0x114e", 
+                "title": "HANGUL CHOSEONG CHITUEUMCIEUC"
+            }, 
+            {
+                "charcode": "0x114f", 
+                "title": "HANGUL CHOSEONG CHITUEUMSSANGCIEUC"
+            }, 
+            {
+                "charcode": "0x1150", 
+                "title": "HANGUL CHOSEONG CEONGCHIEUMCIEUC"
+            }, 
+            {
+                "charcode": "0x1151", 
+                "title": "HANGUL CHOSEONG CEONGCHIEUMSSANGCIEUC"
+            }, 
+            {
+                "charcode": "0x1152", 
+                "title": "HANGUL CHOSEONG CHIEUCH-KHIEUKH"
+            }, 
+            {
+                "charcode": "0x1153", 
+                "title": "HANGUL CHOSEONG CHIEUCH-HIEUH"
+            }, 
+            {
+                "charcode": "0x1154", 
+                "title": "HANGUL CHOSEONG CHITUEUMCHIEUCH"
+            }, 
+            {
+                "charcode": "0x1155", 
+                "title": "HANGUL CHOSEONG CEONGCHIEUMCHIEUCH"
+            }, 
+            {
+                "charcode": "0x1156", 
+                "title": "HANGUL CHOSEONG PHIEUPH-PIEUP"
+            }, 
+            {
+                "charcode": "0x1157", 
+                "title": "HANGUL CHOSEONG KAPYEOUNPHIEUPH"
+            }, 
+            {
+                "charcode": "0x1158", 
+                "title": "HANGUL CHOSEONG SSANGHIEUH"
+            }, 
+            {
+                "charcode": "0x1159", 
+                "title": "HANGUL CHOSEONG YEORINHIEUH"
+            }, 
+            {
+                "charcode": "0x115a", 
+                "title": "HANGUL CHOSEONG KIYEOK-TIKEUT"
+            }, 
+            {
+                "charcode": "0x115b", 
+                "title": "HANGUL CHOSEONG NIEUN-SIOS"
+            }, 
+            {
+                "charcode": "0x115c", 
+                "title": "HANGUL CHOSEONG NIEUN-CIEUC"
+            }, 
+            {
+                "charcode": "0x115d", 
+                "title": "HANGUL CHOSEONG NIEUN-HIEUH"
+            }, 
+            {
+                "charcode": "0x115e", 
+                "title": "HANGUL CHOSEONG TIKEUT-RIEUL"
+            }, 
+            {
+                "charcode": "0x115f", 
+                "title": "HANGUL CHOSEONG FILLER"
+            }, 
+            {
+                "charcode": "0x1160", 
+                "title": "HANGUL JUNGSEONG FILLER"
+            }, 
+            {
+                "charcode": "0x1161", 
+                "title": "HANGUL JUNGSEONG A"
+            }, 
+            {
+                "charcode": "0x1162", 
+                "title": "HANGUL JUNGSEONG AE"
+            }, 
+            {
+                "charcode": "0x1163", 
+                "title": "HANGUL JUNGSEONG YA"
+            }, 
+            {
+                "charcode": "0x1164", 
+                "title": "HANGUL JUNGSEONG YAE"
+            }, 
+            {
+                "charcode": "0x1165", 
+                "title": "HANGUL JUNGSEONG EO"
+            }, 
+            {
+                "charcode": "0x1166", 
+                "title": "HANGUL JUNGSEONG E"
+            }, 
+            {
+                "charcode": "0x1167", 
+                "title": "HANGUL JUNGSEONG YEO"
+            }, 
+            {
+                "charcode": "0x1168", 
+                "title": "HANGUL JUNGSEONG YE"
+            }, 
+            {
+                "charcode": "0x1169", 
+                "title": "HANGUL JUNGSEONG O"
+            }, 
+            {
+                "charcode": "0x116a", 
+                "title": "HANGUL JUNGSEONG WA"
+            }, 
+            {
+                "charcode": "0x116b", 
+                "title": "HANGUL JUNGSEONG WAE"
+            }, 
+            {
+                "charcode": "0x116c", 
+                "title": "HANGUL JUNGSEONG OE"
+            }, 
+            {
+                "charcode": "0x116d", 
+                "title": "HANGUL JUNGSEONG YO"
+            }, 
+            {
+                "charcode": "0x116e", 
+                "title": "HANGUL JUNGSEONG U"
+            }, 
+            {
+                "charcode": "0x116f", 
+                "title": "HANGUL JUNGSEONG WEO"
+            }, 
+            {
+                "charcode": "0x1170", 
+                "title": "HANGUL JUNGSEONG WE"
+            }, 
+            {
+                "charcode": "0x1171", 
+                "title": "HANGUL JUNGSEONG WI"
+            }, 
+            {
+                "charcode": "0x1172", 
+                "title": "HANGUL JUNGSEONG YU"
+            }, 
+            {
+                "charcode": "0x1173", 
+                "title": "HANGUL JUNGSEONG EU"
+            }, 
+            {
+                "charcode": "0x1174", 
+                "title": "HANGUL JUNGSEONG YI"
+            }, 
+            {
+                "charcode": "0x1175", 
+                "title": "HANGUL JUNGSEONG I"
+            }, 
+            {
+                "charcode": "0x1176", 
+                "title": "HANGUL JUNGSEONG A-O"
+            }, 
+            {
+                "charcode": "0x1177", 
+                "title": "HANGUL JUNGSEONG A-U"
+            }, 
+            {
+                "charcode": "0x1178", 
+                "title": "HANGUL JUNGSEONG YA-O"
+            }, 
+            {
+                "charcode": "0x1179", 
+                "title": "HANGUL JUNGSEONG YA-YO"
+            }, 
+            {
+                "charcode": "0x117a", 
+                "title": "HANGUL JUNGSEONG EO-O"
+            }, 
+            {
+                "charcode": "0x117b", 
+                "title": "HANGUL JUNGSEONG EO-U"
+            }, 
+            {
+                "charcode": "0x117c", 
+                "title": "HANGUL JUNGSEONG EO-EU"
+            }, 
+            {
+                "charcode": "0x117d", 
+                "title": "HANGUL JUNGSEONG YEO-O"
+            }, 
+            {
+                "charcode": "0x117e", 
+                "title": "HANGUL JUNGSEONG YEO-U"
+            }, 
+            {
+                "charcode": "0x117f", 
+                "title": "HANGUL JUNGSEONG O-EO"
+            }, 
+            {
+                "charcode": "0x1180", 
+                "title": "HANGUL JUNGSEONG O-E"
+            }, 
+            {
+                "charcode": "0x1181", 
+                "title": "HANGUL JUNGSEONG O-YE"
+            }, 
+            {
+                "charcode": "0x1182", 
+                "title": "HANGUL JUNGSEONG O-O"
+            }, 
+            {
+                "charcode": "0x1183", 
+                "title": "HANGUL JUNGSEONG O-U"
+            }, 
+            {
+                "charcode": "0x1184", 
+                "title": "HANGUL JUNGSEONG YO-YA"
+            }, 
+            {
+                "charcode": "0x1185", 
+                "title": "HANGUL JUNGSEONG YO-YAE"
+            }, 
+            {
+                "charcode": "0x1186", 
+                "title": "HANGUL JUNGSEONG YO-YEO"
+            }, 
+            {
+                "charcode": "0x1187", 
+                "title": "HANGUL JUNGSEONG YO-O"
+            }, 
+            {
+                "charcode": "0x1188", 
+                "title": "HANGUL JUNGSEONG YO-I"
+            }, 
+            {
+                "charcode": "0x1189", 
+                "title": "HANGUL JUNGSEONG U-A"
+            }, 
+            {
+                "charcode": "0x118a", 
+                "title": "HANGUL JUNGSEONG U-AE"
+            }, 
+            {
+                "charcode": "0x118b", 
+                "title": "HANGUL JUNGSEONG U-EO-EU"
+            }, 
+            {
+                "charcode": "0x118c", 
+                "title": "HANGUL JUNGSEONG U-YE"
+            }, 
+            {
+                "charcode": "0x118d", 
+                "title": "HANGUL JUNGSEONG U-U"
+            }, 
+            {
+                "charcode": "0x118e", 
+                "title": "HANGUL JUNGSEONG YU-A"
+            }, 
+            {
+                "charcode": "0x118f", 
+                "title": "HANGUL JUNGSEONG YU-EO"
+            }, 
+            {
+                "charcode": "0x1190", 
+                "title": "HANGUL JUNGSEONG YU-E"
+            }, 
+            {
+                "charcode": "0x1191", 
+                "title": "HANGUL JUNGSEONG YU-YEO"
+            }, 
+            {
+                "charcode": "0x1192", 
+                "title": "HANGUL JUNGSEONG YU-YE"
+            }, 
+            {
+                "charcode": "0x1193", 
+                "title": "HANGUL JUNGSEONG YU-U"
+            }, 
+            {
+                "charcode": "0x1194", 
+                "title": "HANGUL JUNGSEONG YU-I"
+            }, 
+            {
+                "charcode": "0x1195", 
+                "title": "HANGUL JUNGSEONG EU-U"
+            }, 
+            {
+                "charcode": "0x1196", 
+                "title": "HANGUL JUNGSEONG EU-EU"
+            }, 
+            {
+                "charcode": "0x1197", 
+                "title": "HANGUL JUNGSEONG YI-U"
+            }, 
+            {
+                "charcode": "0x1198", 
+                "title": "HANGUL JUNGSEONG I-A"
+            }, 
+            {
+                "charcode": "0x1199", 
+                "title": "HANGUL JUNGSEONG I-YA"
+            }, 
+            {
+                "charcode": "0x119a", 
+                "title": "HANGUL JUNGSEONG I-O"
+            }, 
+            {
+                "charcode": "0x119b", 
+                "title": "HANGUL JUNGSEONG I-U"
+            }, 
+            {
+                "charcode": "0x119c", 
+                "title": "HANGUL JUNGSEONG I-EU"
+            }, 
+            {
+                "charcode": "0x119d", 
+                "title": "HANGUL JUNGSEONG I-ARAEA"
+            }, 
+            {
+                "charcode": "0x119e", 
+                "title": "HANGUL JUNGSEONG ARAEA"
+            }, 
+            {
+                "charcode": "0x119f", 
+                "title": "HANGUL JUNGSEONG ARAEA-EO"
+            }, 
+            {
+                "charcode": "0x11a0", 
+                "title": "HANGUL JUNGSEONG ARAEA-U"
+            }, 
+            {
+                "charcode": "0x11a1", 
+                "title": "HANGUL JUNGSEONG ARAEA-I"
+            }, 
+            {
+                "charcode": "0x11a2", 
+                "title": "HANGUL JUNGSEONG SSANGARAEA"
+            }, 
+            {
+                "charcode": "0x11a3", 
+                "title": "HANGUL JUNGSEONG A-EU"
+            }, 
+            {
+                "charcode": "0x11a4", 
+                "title": "HANGUL JUNGSEONG YA-U"
+            }, 
+            {
+                "charcode": "0x11a5", 
+                "title": "HANGUL JUNGSEONG YEO-YA"
+            }, 
+            {
+                "charcode": "0x11a6", 
+                "title": "HANGUL JUNGSEONG O-YA"
+            }, 
+            {
+                "charcode": "0x11a7", 
+                "title": "HANGUL JUNGSEONG O-YAE"
+            }, 
+            {
+                "charcode": "0x11a8", 
+                "title": "HANGUL JONGSEONG KIYEOK"
+            }, 
+            {
+                "charcode": "0x11a9", 
+                "title": "HANGUL JONGSEONG SSANGKIYEOK"
+            }, 
+            {
+                "charcode": "0x11aa", 
+                "title": "HANGUL JONGSEONG KIYEOK-SIOS"
+            }, 
+            {
+                "charcode": "0x11ab", 
+                "title": "HANGUL JONGSEONG NIEUN"
+            }, 
+            {
+                "charcode": "0x11ac", 
+                "title": "HANGUL JONGSEONG NIEUN-CIEUC"
+            }, 
+            {
+                "charcode": "0x11ad", 
+                "title": "HANGUL JONGSEONG NIEUN-HIEUH"
+            }, 
+            {
+                "charcode": "0x11ae", 
+                "title": "HANGUL JONGSEONG TIKEUT"
+            }, 
+            {
+                "charcode": "0x11af", 
+                "title": "HANGUL JONGSEONG RIEUL"
+            }, 
+            {
+                "charcode": "0x11b0", 
+                "title": "HANGUL JONGSEONG RIEUL-KIYEOK"
+            }, 
+            {
+                "charcode": "0x11b1", 
+                "title": "HANGUL JONGSEONG RIEUL-MIEUM"
+            }, 
+            {
+                "charcode": "0x11b2", 
+                "title": "HANGUL JONGSEONG RIEUL-PIEUP"
+            }, 
+            {
+                "charcode": "0x11b3", 
+                "title": "HANGUL JONGSEONG RIEUL-SIOS"
+            }, 
+            {
+                "charcode": "0x11b4", 
+                "title": "HANGUL JONGSEONG RIEUL-THIEUTH"
+            }, 
+            {
+                "charcode": "0x11b5", 
+                "title": "HANGUL JONGSEONG RIEUL-PHIEUPH"
+            }, 
+            {
+                "charcode": "0x11b6", 
+                "title": "HANGUL JONGSEONG RIEUL-HIEUH"
+            }, 
+            {
+                "charcode": "0x11b7", 
+                "title": "HANGUL JONGSEONG MIEUM"
+            }, 
+            {
+                "charcode": "0x11b8", 
+                "title": "HANGUL JONGSEONG PIEUP"
+            }, 
+            {
+                "charcode": "0x11b9", 
+                "title": "HANGUL JONGSEONG PIEUP-SIOS"
+            }, 
+            {
+                "charcode": "0x11ba", 
+                "title": "HANGUL JONGSEONG SIOS"
+            }, 
+            {
+                "charcode": "0x11bb", 
+                "title": "HANGUL JONGSEONG SSANGSIOS"
+            }, 
+            {
+                "charcode": "0x11bc", 
+                "title": "HANGUL JONGSEONG IEUNG"
+            }, 
+            {
+                "charcode": "0x11bd", 
+                "title": "HANGUL JONGSEONG CIEUC"
+            }, 
+            {
+                "charcode": "0x11be", 
+                "title": "HANGUL JONGSEONG CHIEUCH"
+            }, 
+            {
+                "charcode": "0x11bf", 
+                "title": "HANGUL JONGSEONG KHIEUKH"
+            }, 
+            {
+                "charcode": "0x11c0", 
+                "title": "HANGUL JONGSEONG THIEUTH"
+            }, 
+            {
+                "charcode": "0x11c1", 
+                "title": "HANGUL JONGSEONG PHIEUPH"
+            }, 
+            {
+                "charcode": "0x11c2", 
+                "title": "HANGUL JONGSEONG HIEUH"
+            }, 
+            {
+                "charcode": "0x11c3", 
+                "title": "HANGUL JONGSEONG KIYEOK-RIEUL"
+            }, 
+            {
+                "charcode": "0x11c4", 
+                "title": "HANGUL JONGSEONG KIYEOK-SIOS-KIYEOK"
+            }, 
+            {
+                "charcode": "0x11c5", 
+                "title": "HANGUL JONGSEONG NIEUN-KIYEOK"
+            }, 
+            {
+                "charcode": "0x11c6", 
+                "title": "HANGUL JONGSEONG NIEUN-TIKEUT"
+            }, 
+            {
+                "charcode": "0x11c7", 
+                "title": "HANGUL JONGSEONG NIEUN-SIOS"
+            }, 
+            {
+                "charcode": "0x11c8", 
+                "title": "HANGUL JONGSEONG NIEUN-PANSIOS"
+            }, 
+            {
+                "charcode": "0x11c9", 
+                "title": "HANGUL JONGSEONG NIEUN-THIEUTH"
+            }, 
+            {
+                "charcode": "0x11ca", 
+                "title": "HANGUL JONGSEONG TIKEUT-KIYEOK"
+            }, 
+            {
+                "charcode": "0x11cb", 
+                "title": "HANGUL JONGSEONG TIKEUT-RIEUL"
+            }, 
+            {
+                "charcode": "0x11cc", 
+                "title": "HANGUL JONGSEONG RIEUL-KIYEOK-SIOS"
+            }, 
+            {
+                "charcode": "0x11cd", 
+                "title": "HANGUL JONGSEONG RIEUL-NIEUN"
+            }, 
+            {
+                "charcode": "0x11ce", 
+                "title": "HANGUL JONGSEONG RIEUL-TIKEUT"
+            }, 
+            {
+                "charcode": "0x11cf", 
+                "title": "HANGUL JONGSEONG RIEUL-TIKEUT-HIEUH"
+            }, 
+            {
+                "charcode": "0x11d0", 
+                "title": "HANGUL JONGSEONG SSANGRIEUL"
+            }, 
+            {
+                "charcode": "0x11d1", 
+                "title": "HANGUL JONGSEONG RIEUL-MIEUM-KIYEOK"
+            }, 
+            {
+                "charcode": "0x11d2", 
+                "title": "HANGUL JONGSEONG RIEUL-MIEUM-SIOS"
+            }, 
+            {
+                "charcode": "0x11d3", 
+                "title": "HANGUL JONGSEONG RIEUL-PIEUP-SIOS"
+            }, 
+            {
+                "charcode": "0x11d4", 
+                "title": "HANGUL JONGSEONG RIEUL-PIEUP-HIEUH"
+            }, 
+            {
+                "charcode": "0x11d5", 
+                "title": "HANGUL JONGSEONG RIEUL-KAPYEOUNPIEUP"
+            }, 
+            {
+                "charcode": "0x11d6", 
+                "title": "HANGUL JONGSEONG RIEUL-SSANGSIOS"
+            }, 
+            {
+                "charcode": "0x11d7", 
+                "title": "HANGUL JONGSEONG RIEUL-PANSIOS"
+            }, 
+            {
+                "charcode": "0x11d8", 
+                "title": "HANGUL JONGSEONG RIEUL-KHIEUKH"
+            }, 
+            {
+                "charcode": "0x11d9", 
+                "title": "HANGUL JONGSEONG RIEUL-YEORINHIEUH"
+            }, 
+            {
+                "charcode": "0x11da", 
+                "title": "HANGUL JONGSEONG MIEUM-KIYEOK"
+            }, 
+            {
+                "charcode": "0x11db", 
+                "title": "HANGUL JONGSEONG MIEUM-RIEUL"
+            }, 
+            {
+                "charcode": "0x11dc", 
+                "title": "HANGUL JONGSEONG MIEUM-PIEUP"
+            }, 
+            {
+                "charcode": "0x11dd", 
+                "title": "HANGUL JONGSEONG MIEUM-SIOS"
+            }, 
+            {
+                "charcode": "0x11de", 
+                "title": "HANGUL JONGSEONG MIEUM-SSANGSIOS"
+            }, 
+            {
+                "charcode": "0x11df", 
+                "title": "HANGUL JONGSEONG MIEUM-PANSIOS"
+            }, 
+            {
+                "charcode": "0x11e0", 
+                "title": "HANGUL JONGSEONG MIEUM-CHIEUCH"
+            }, 
+            {
+                "charcode": "0x11e1", 
+                "title": "HANGUL JONGSEONG MIEUM-HIEUH"
+            }, 
+            {
+                "charcode": "0x11e2", 
+                "title": "HANGUL JONGSEONG KAPYEOUNMIEUM"
+            }, 
+            {
+                "charcode": "0x11e3", 
+                "title": "HANGUL JONGSEONG PIEUP-RIEUL"
+            }, 
+            {
+                "charcode": "0x11e4", 
+                "title": "HANGUL JONGSEONG PIEUP-PHIEUPH"
+            }, 
+            {
+                "charcode": "0x11e5", 
+                "title": "HANGUL JONGSEONG PIEUP-HIEUH"
+            }, 
+            {
+                "charcode": "0x11e6", 
+                "title": "HANGUL JONGSEONG KAPYEOUNPIEUP"
+            }, 
+            {
+                "charcode": "0x11e7", 
+                "title": "HANGUL JONGSEONG SIOS-KIYEOK"
+            }, 
+            {
+                "charcode": "0x11e8", 
+                "title": "HANGUL JONGSEONG SIOS-TIKEUT"
+            }, 
+            {
+                "charcode": "0x11e9", 
+                "title": "HANGUL JONGSEONG SIOS-RIEUL"
+            }, 
+            {
+                "charcode": "0x11ea", 
+                "title": "HANGUL JONGSEONG SIOS-PIEUP"
+            }, 
+            {
+                "charcode": "0x11eb", 
+                "title": "HANGUL JONGSEONG PANSIOS"
+            }, 
+            {
+                "charcode": "0x11ec", 
+                "title": "HANGUL JONGSEONG IEUNG-KIYEOK"
+            }, 
+            {
+                "charcode": "0x11ed", 
+                "title": "HANGUL JONGSEONG IEUNG-SSANGKIYEOK"
+            }, 
+            {
+                "charcode": "0x11ee", 
+                "title": "HANGUL JONGSEONG SSANGIEUNG"
+            }, 
+            {
+                "charcode": "0x11ef", 
+                "title": "HANGUL JONGSEONG IEUNG-KHIEUKH"
+            }, 
+            {
+                "charcode": "0x11f0", 
+                "title": "HANGUL JONGSEONG YESIEUNG"
+            }, 
+            {
+                "charcode": "0x11f1", 
+                "title": "HANGUL JONGSEONG YESIEUNG-SIOS"
+            }, 
+            {
+                "charcode": "0x11f2", 
+                "title": "HANGUL JONGSEONG YESIEUNG-PANSIOS"
+            }, 
+            {
+                "charcode": "0x11f3", 
+                "title": "HANGUL JONGSEONG PHIEUPH-PIEUP"
+            }, 
+            {
+                "charcode": "0x11f4", 
+                "title": "HANGUL JONGSEONG KAPYEOUNPHIEUPH"
+            }, 
+            {
+                "charcode": "0x11f5", 
+                "title": "HANGUL JONGSEONG HIEUH-NIEUN"
+            }, 
+            {
+                "charcode": "0x11f6", 
+                "title": "HANGUL JONGSEONG HIEUH-RIEUL"
+            }, 
+            {
+                "charcode": "0x11f7", 
+                "title": "HANGUL JONGSEONG HIEUH-MIEUM"
+            }, 
+            {
+                "charcode": "0x11f8", 
+                "title": "HANGUL JONGSEONG HIEUH-PIEUP"
+            }, 
+            {
+                "charcode": "0x11f9", 
+                "title": "HANGUL JONGSEONG YEORINHIEUH"
+            }, 
+            {
+                "charcode": "0x11fa", 
+                "title": "HANGUL JONGSEONG KIYEOK-NIEUN"
+            }, 
+            {
+                "charcode": "0x11fb", 
+                "title": "HANGUL JONGSEONG KIYEOK-PIEUP"
+            }, 
+            {
+                "charcode": "0x11fc", 
+                "title": "HANGUL JONGSEONG KIYEOK-CHIEUCH"
+            }, 
+            {
+                "charcode": "0x11fd", 
+                "title": "HANGUL JONGSEONG KIYEOK-KHIEUKH"
+            }, 
+            {
+                "charcode": "0x11fe", 
+                "title": "HANGUL JONGSEONG KIYEOK-HIEUH"
+            }
+        ], 
+        "name": "Hangul Jamo"
+    }
+]

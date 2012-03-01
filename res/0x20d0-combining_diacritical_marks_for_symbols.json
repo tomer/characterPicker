@@ -1,0 +1,139 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x20d0", 
+                "title": "COMBINING LEFT HARPOON ABOVE"
+            }, 
+            {
+                "charcode": "0x20d1", 
+                "title": "COMBINING RIGHT HARPOON ABOVE"
+            }, 
+            {
+                "charcode": "0x20d2", 
+                "title": "COMBINING LONG VERTICAL LINE OVERLAY"
+            }, 
+            {
+                "charcode": "0x20d3", 
+                "title": "COMBINING SHORT VERTICAL LINE OVERLAY"
+            }, 
+            {
+                "charcode": "0x20d4", 
+                "title": "COMBINING ANTICLOCKWISE ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x20d5", 
+                "title": "COMBINING CLOCKWISE ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x20d6", 
+                "title": "COMBINING LEFT ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x20d7", 
+                "title": "COMBINING RIGHT ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x20d8", 
+                "title": "COMBINING RING OVERLAY"
+            }, 
+            {
+                "charcode": "0x20d9", 
+                "title": "COMBINING CLOCKWISE RING OVERLAY"
+            }, 
+            {
+                "charcode": "0x20da", 
+                "title": "COMBINING ANTICLOCKWISE RING OVERLAY"
+            }, 
+            {
+                "charcode": "0x20db", 
+                "title": "COMBINING THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x20dc", 
+                "title": "COMBINING FOUR DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x20dd", 
+                "title": "COMBINING ENCLOSING CIRCLE"
+            }, 
+            {
+                "charcode": "0x20de", 
+                "title": "COMBINING ENCLOSING SQUARE"
+            }, 
+            {
+                "charcode": "0x20df", 
+                "title": "COMBINING ENCLOSING DIAMOND"
+            }, 
+            {
+                "charcode": "0x20e0", 
+                "title": "COMBINING ENCLOSING CIRCLE BACKSLASH"
+            }, 
+            {
+                "charcode": "0x20e1", 
+                "title": "COMBINING LEFT RIGHT ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x20e2", 
+                "title": "COMBINING ENCLOSING SCREEN"
+            }, 
+            {
+                "charcode": "0x20e3", 
+                "title": "COMBINING ENCLOSING KEYCAP"
+            }, 
+            {
+                "charcode": "0x20e4", 
+                "title": "COMBINING ENCLOSING UPWARD POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x20e5", 
+                "title": "COMBINING REVERSE SOLIDUS OVERLAY"
+            }, 
+            {
+                "charcode": "0x20e6", 
+                "title": "COMBINING DOUBLE VERTICAL STROKE OVERLAY"
+            }, 
+            {
+                "charcode": "0x20e7", 
+                "title": "COMBINING ANNUITY SYMBOL"
+            }, 
+            {
+                "charcode": "0x20e8", 
+                "title": "COMBINING TRIPLE UNDERDOT"
+            }, 
+            {
+                "charcode": "0x20e9", 
+                "title": "COMBINING WIDE BRIDGE ABOVE"
+            }, 
+            {
+                "charcode": "0x20ea", 
+                "title": "COMBINING LEFTWARDS ARROW OVERLAY"
+            }, 
+            {
+                "charcode": "0x20eb", 
+                "title": "COMBINING LONG DOUBLE SOLIDUS OVERLAY"
+            }, 
+            {
+                "charcode": "0x20ec", 
+                "title": "COMBINING RIGHTWARDS HARPOON WITH BARB DOWNWARDS"
+            }, 
+            {
+                "charcode": "0x20ed", 
+                "title": "COMBINING LEFTWARDS HARPOON WITH BARB DOWNWARDS"
+            }, 
+            {
+                "charcode": "0x20ee", 
+                "title": "COMBINING LEFT ARROW BELOW"
+            }, 
+            {
+                "charcode": "0x20ef", 
+                "title": "COMBINING RIGHT ARROW BELOW"
+            }, 
+            {
+                "charcode": "0x20f0", 
+                "title": "COMBINING ASTERISK ABOVE"
+            }
+        ], 
+        "name": "Combining Diacritical Marks for Symbols"
+    }
+]

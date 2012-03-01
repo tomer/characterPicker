@@ -1,0 +1,1027 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2200", 
+                "title": "FOR ALL"
+            }, 
+            {
+                "charcode": "0x2201", 
+                "title": "COMPLEMENT"
+            }, 
+            {
+                "charcode": "0x2202", 
+                "title": "PARTIAL DIFFERENTIAL"
+            }, 
+            {
+                "charcode": "0x2203", 
+                "title": "THERE EXISTS"
+            }, 
+            {
+                "charcode": "0x2204", 
+                "title": "THERE DOES NOT EXIST"
+            }, 
+            {
+                "charcode": "0x2205", 
+                "title": "EMPTY SET"
+            }, 
+            {
+                "charcode": "0x2206", 
+                "title": "INCREMENT"
+            }, 
+            {
+                "charcode": "0x2207", 
+                "title": "NABLA"
+            }, 
+            {
+                "charcode": "0x2208", 
+                "title": "ELEMENT OF"
+            }, 
+            {
+                "charcode": "0x2209", 
+                "title": "NOT AN ELEMENT OF"
+            }, 
+            {
+                "charcode": "0x220a", 
+                "title": "SMALL ELEMENT OF"
+            }, 
+            {
+                "charcode": "0x220b", 
+                "title": "CONTAINS AS MEMBER"
+            }, 
+            {
+                "charcode": "0x220c", 
+                "title": "DOES NOT CONTAIN AS MEMBER"
+            }, 
+            {
+                "charcode": "0x220d", 
+                "title": "SMALL CONTAINS AS MEMBER"
+            }, 
+            {
+                "charcode": "0x220e", 
+                "title": "END OF PROOF"
+            }, 
+            {
+                "charcode": "0x220f", 
+                "title": "N-ARY PRODUCT"
+            }, 
+            {
+                "charcode": "0x2210", 
+                "title": "N-ARY COPRODUCT"
+            }, 
+            {
+                "charcode": "0x2211", 
+                "title": "N-ARY SUMMATION"
+            }, 
+            {
+                "charcode": "0x2212", 
+                "title": "MINUS SIGN"
+            }, 
+            {
+                "charcode": "0x2213", 
+                "title": "MINUS-OR-PLUS SIGN"
+            }, 
+            {
+                "charcode": "0x2214", 
+                "title": "DOT PLUS"
+            }, 
+            {
+                "charcode": "0x2215", 
+                "title": "DIVISION SLASH"
+            }, 
+            {
+                "charcode": "0x2216", 
+                "title": "SET MINUS"
+            }, 
+            {
+                "charcode": "0x2217", 
+                "title": "ASTERISK OPERATOR"
+            }, 
+            {
+                "charcode": "0x2218", 
+                "title": "RING OPERATOR"
+            }, 
+            {
+                "charcode": "0x2219", 
+                "title": "BULLET OPERATOR"
+            }, 
+            {
+                "charcode": "0x221a", 
+                "title": "SQUARE ROOT"
+            }, 
+            {
+                "charcode": "0x221b", 
+                "title": "CUBE ROOT"
+            }, 
+            {
+                "charcode": "0x221c", 
+                "title": "FOURTH ROOT"
+            }, 
+            {
+                "charcode": "0x221d", 
+                "title": "PROPORTIONAL TO"
+            }, 
+            {
+                "charcode": "0x221e", 
+                "title": "INFINITY"
+            }, 
+            {
+                "charcode": "0x221f", 
+                "title": "RIGHT ANGLE"
+            }, 
+            {
+                "charcode": "0x2220", 
+                "title": "ANGLE"
+            }, 
+            {
+                "charcode": "0x2221", 
+                "title": "MEASURED ANGLE"
+            }, 
+            {
+                "charcode": "0x2222", 
+                "title": "SPHERICAL ANGLE"
+            }, 
+            {
+                "charcode": "0x2223", 
+                "title": "DIVIDES"
+            }, 
+            {
+                "charcode": "0x2224", 
+                "title": "DOES NOT DIVIDE"
+            }, 
+            {
+                "charcode": "0x2225", 
+                "title": "PARALLEL TO"
+            }, 
+            {
+                "charcode": "0x2226", 
+                "title": "NOT PARALLEL TO"
+            }, 
+            {
+                "charcode": "0x2227", 
+                "title": "LOGICAL AND"
+            }, 
+            {
+                "charcode": "0x2228", 
+                "title": "LOGICAL OR"
+            }, 
+            {
+                "charcode": "0x2229", 
+                "title": "INTERSECTION"
+            }, 
+            {
+                "charcode": "0x222a", 
+                "title": "UNION"
+            }, 
+            {
+                "charcode": "0x222b", 
+                "title": "INTEGRAL"
+            }, 
+            {
+                "charcode": "0x222c", 
+                "title": "DOUBLE INTEGRAL"
+            }, 
+            {
+                "charcode": "0x222d", 
+                "title": "TRIPLE INTEGRAL"
+            }, 
+            {
+                "charcode": "0x222e", 
+                "title": "CONTOUR INTEGRAL"
+            }, 
+            {
+                "charcode": "0x222f", 
+                "title": "SURFACE INTEGRAL"
+            }, 
+            {
+                "charcode": "0x2230", 
+                "title": "VOLUME INTEGRAL"
+            }, 
+            {
+                "charcode": "0x2231", 
+                "title": "CLOCKWISE INTEGRAL"
+            }, 
+            {
+                "charcode": "0x2232", 
+                "title": "CLOCKWISE CONTOUR INTEGRAL"
+            }, 
+            {
+                "charcode": "0x2233", 
+                "title": "ANTICLOCKWISE CONTOUR INTEGRAL"
+            }, 
+            {
+                "charcode": "0x2234", 
+                "title": "THEREFORE"
+            }, 
+            {
+                "charcode": "0x2235", 
+                "title": "BECAUSE"
+            }, 
+            {
+                "charcode": "0x2236", 
+                "title": "RATIO"
+            }, 
+            {
+                "charcode": "0x2237", 
+                "title": "PROPORTION"
+            }, 
+            {
+                "charcode": "0x2238", 
+                "title": "DOT MINUS"
+            }, 
+            {
+                "charcode": "0x2239", 
+                "title": "EXCESS"
+            }, 
+            {
+                "charcode": "0x223a", 
+                "title": "GEOMETRIC PROPORTION"
+            }, 
+            {
+                "charcode": "0x223b", 
+                "title": "HOMOTHETIC"
+            }, 
+            {
+                "charcode": "0x223c", 
+                "title": "TILDE OPERATOR"
+            }, 
+            {
+                "charcode": "0x223d", 
+                "title": "REVERSED TILDE"
+            }, 
+            {
+                "charcode": "0x223e", 
+                "title": "INVERTED LAZY S"
+            }, 
+            {
+                "charcode": "0x223f", 
+                "title": "SINE WAVE"
+            }, 
+            {
+                "charcode": "0x2240", 
+                "title": "WREATH PRODUCT"
+            }, 
+            {
+                "charcode": "0x2241", 
+                "title": "NOT TILDE"
+            }, 
+            {
+                "charcode": "0x2242", 
+                "title": "MINUS TILDE"
+            }, 
+            {
+                "charcode": "0x2243", 
+                "title": "ASYMPTOTICALLY EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2244", 
+                "title": "NOT ASYMPTOTICALLY EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2245", 
+                "title": "APPROXIMATELY EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2246", 
+                "title": "APPROXIMATELY BUT NOT ACTUALLY EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2247", 
+                "title": "NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2248", 
+                "title": "ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2249", 
+                "title": "NOT ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x224a", 
+                "title": "ALMOST EQUAL OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x224b", 
+                "title": "TRIPLE TILDE"
+            }, 
+            {
+                "charcode": "0x224c", 
+                "title": "ALL EQUAL TO"
+            }, 
+            {
+                "charcode": "0x224d", 
+                "title": "EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x224e", 
+                "title": "GEOMETRICALLY EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x224f", 
+                "title": "DIFFERENCE BETWEEN"
+            }, 
+            {
+                "charcode": "0x2250", 
+                "title": "APPROACHES THE LIMIT"
+            }, 
+            {
+                "charcode": "0x2251", 
+                "title": "GEOMETRICALLY EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2252", 
+                "title": "APPROXIMATELY EQUAL TO OR THE IMAGE OF"
+            }, 
+            {
+                "charcode": "0x2253", 
+                "title": "IMAGE OF OR APPROXIMATELY EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2254", 
+                "title": "COLON EQUALS"
+            }, 
+            {
+                "charcode": "0x2255", 
+                "title": "EQUALS COLON"
+            }, 
+            {
+                "charcode": "0x2256", 
+                "title": "RING IN EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2257", 
+                "title": "RING EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2258", 
+                "title": "CORRESPONDS TO"
+            }, 
+            {
+                "charcode": "0x2259", 
+                "title": "ESTIMATES"
+            }, 
+            {
+                "charcode": "0x225a", 
+                "title": "EQUIANGULAR TO"
+            }, 
+            {
+                "charcode": "0x225b", 
+                "title": "STAR EQUALS"
+            }, 
+            {
+                "charcode": "0x225c", 
+                "title": "DELTA EQUAL TO"
+            }, 
+            {
+                "charcode": "0x225d", 
+                "title": "EQUAL TO BY DEFINITION"
+            }, 
+            {
+                "charcode": "0x225e", 
+                "title": "MEASURED BY"
+            }, 
+            {
+                "charcode": "0x225f", 
+                "title": "QUESTIONED EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2260", 
+                "title": "NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2261", 
+                "title": "IDENTICAL TO"
+            }, 
+            {
+                "charcode": "0x2262", 
+                "title": "NOT IDENTICAL TO"
+            }, 
+            {
+                "charcode": "0x2263", 
+                "title": "STRICTLY EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x2264", 
+                "title": "LESS-THAN OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2265", 
+                "title": "GREATER-THAN OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2266", 
+                "title": "LESS-THAN OVER EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2267", 
+                "title": "GREATER-THAN OVER EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2268", 
+                "title": "LESS-THAN BUT NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2269", 
+                "title": "GREATER-THAN BUT NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x226a", 
+                "title": "MUCH LESS-THAN"
+            }, 
+            {
+                "charcode": "0x226b", 
+                "title": "MUCH GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x226c", 
+                "title": "BETWEEN"
+            }, 
+            {
+                "charcode": "0x226d", 
+                "title": "NOT EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x226e", 
+                "title": "NOT LESS-THAN"
+            }, 
+            {
+                "charcode": "0x226f", 
+                "title": "NOT GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2270", 
+                "title": "NEITHER LESS-THAN NOR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2271", 
+                "title": "NEITHER GREATER-THAN NOR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2272", 
+                "title": "LESS-THAN OR EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x2273", 
+                "title": "GREATER-THAN OR EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x2274", 
+                "title": "NEITHER LESS-THAN NOR EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x2275", 
+                "title": "NEITHER GREATER-THAN NOR EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x2276", 
+                "title": "LESS-THAN OR GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2277", 
+                "title": "GREATER-THAN OR LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2278", 
+                "title": "NEITHER LESS-THAN NOR GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2279", 
+                "title": "NEITHER GREATER-THAN NOR LESS-THAN"
+            }, 
+            {
+                "charcode": "0x227a", 
+                "title": "PRECEDES"
+            }, 
+            {
+                "charcode": "0x227b", 
+                "title": "SUCCEEDS"
+            }, 
+            {
+                "charcode": "0x227c", 
+                "title": "PRECEDES OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x227d", 
+                "title": "SUCCEEDS OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x227e", 
+                "title": "PRECEDES OR EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x227f", 
+                "title": "SUCCEEDS OR EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x2280", 
+                "title": "DOES NOT PRECEDE"
+            }, 
+            {
+                "charcode": "0x2281", 
+                "title": "DOES NOT SUCCEED"
+            }, 
+            {
+                "charcode": "0x2282", 
+                "title": "SUBSET OF"
+            }, 
+            {
+                "charcode": "0x2283", 
+                "title": "SUPERSET OF"
+            }, 
+            {
+                "charcode": "0x2284", 
+                "title": "NOT A SUBSET OF"
+            }, 
+            {
+                "charcode": "0x2285", 
+                "title": "NOT A SUPERSET OF"
+            }, 
+            {
+                "charcode": "0x2286", 
+                "title": "SUBSET OF OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2287", 
+                "title": "SUPERSET OF OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2288", 
+                "title": "NEITHER A SUBSET OF NOR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2289", 
+                "title": "NEITHER A SUPERSET OF NOR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x228a", 
+                "title": "SUBSET OF WITH NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x228b", 
+                "title": "SUPERSET OF WITH NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x228c", 
+                "title": "MULTISET"
+            }, 
+            {
+                "charcode": "0x228d", 
+                "title": "MULTISET MULTIPLICATION"
+            }, 
+            {
+                "charcode": "0x228e", 
+                "title": "MULTISET UNION"
+            }, 
+            {
+                "charcode": "0x228f", 
+                "title": "SQUARE IMAGE OF"
+            }, 
+            {
+                "charcode": "0x2290", 
+                "title": "SQUARE ORIGINAL OF"
+            }, 
+            {
+                "charcode": "0x2291", 
+                "title": "SQUARE IMAGE OF OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2292", 
+                "title": "SQUARE ORIGINAL OF OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2293", 
+                "title": "SQUARE CAP"
+            }, 
+            {
+                "charcode": "0x2294", 
+                "title": "SQUARE CUP"
+            }, 
+            {
+                "charcode": "0x2295", 
+                "title": "CIRCLED PLUS"
+            }, 
+            {
+                "charcode": "0x2296", 
+                "title": "CIRCLED MINUS"
+            }, 
+            {
+                "charcode": "0x2297", 
+                "title": "CIRCLED TIMES"
+            }, 
+            {
+                "charcode": "0x2298", 
+                "title": "CIRCLED DIVISION SLASH"
+            }, 
+            {
+                "charcode": "0x2299", 
+                "title": "CIRCLED DOT OPERATOR"
+            }, 
+            {
+                "charcode": "0x229a", 
+                "title": "CIRCLED RING OPERATOR"
+            }, 
+            {
+                "charcode": "0x229b", 
+                "title": "CIRCLED ASTERISK OPERATOR"
+            }, 
+            {
+                "charcode": "0x229c", 
+                "title": "CIRCLED EQUALS"
+            }, 
+            {
+                "charcode": "0x229d", 
+                "title": "CIRCLED DASH"
+            }, 
+            {
+                "charcode": "0x229e", 
+                "title": "SQUARED PLUS"
+            }, 
+            {
+                "charcode": "0x229f", 
+                "title": "SQUARED MINUS"
+            }, 
+            {
+                "charcode": "0x22a0", 
+                "title": "SQUARED TIMES"
+            }, 
+            {
+                "charcode": "0x22a1", 
+                "title": "SQUARED DOT OPERATOR"
+            }, 
+            {
+                "charcode": "0x22a2", 
+                "title": "RIGHT TACK"
+            }, 
+            {
+                "charcode": "0x22a3", 
+                "title": "LEFT TACK"
+            }, 
+            {
+                "charcode": "0x22a4", 
+                "title": "DOWN TACK"
+            }, 
+            {
+                "charcode": "0x22a5", 
+                "title": "UP TACK"
+            }, 
+            {
+                "charcode": "0x22a6", 
+                "title": "ASSERTION"
+            }, 
+            {
+                "charcode": "0x22a7", 
+                "title": "MODELS"
+            }, 
+            {
+                "charcode": "0x22a8", 
+                "title": "TRUE"
+            }, 
+            {
+                "charcode": "0x22a9", 
+                "title": "FORCES"
+            }, 
+            {
+                "charcode": "0x22aa", 
+                "title": "TRIPLE VERTICAL BAR RIGHT TURNSTILE"
+            }, 
+            {
+                "charcode": "0x22ab", 
+                "title": "DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE"
+            }, 
+            {
+                "charcode": "0x22ac", 
+                "title": "DOES NOT PROVE"
+            }, 
+            {
+                "charcode": "0x22ad", 
+                "title": "NOT TRUE"
+            }, 
+            {
+                "charcode": "0x22ae", 
+                "title": "DOES NOT FORCE"
+            }, 
+            {
+                "charcode": "0x22af", 
+                "title": "NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE"
+            }, 
+            {
+                "charcode": "0x22b0", 
+                "title": "PRECEDES UNDER RELATION"
+            }, 
+            {
+                "charcode": "0x22b1", 
+                "title": "SUCCEEDS UNDER RELATION"
+            }, 
+            {
+                "charcode": "0x22b2", 
+                "title": "NORMAL SUBGROUP OF"
+            }, 
+            {
+                "charcode": "0x22b3", 
+                "title": "CONTAINS AS NORMAL SUBGROUP"
+            }, 
+            {
+                "charcode": "0x22b4", 
+                "title": "NORMAL SUBGROUP OF OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x22b5", 
+                "title": "CONTAINS AS NORMAL SUBGROUP OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x22b6", 
+                "title": "ORIGINAL OF"
+            }, 
+            {
+                "charcode": "0x22b7", 
+                "title": "IMAGE OF"
+            }, 
+            {
+                "charcode": "0x22b8", 
+                "title": "MULTIMAP"
+            }, 
+            {
+                "charcode": "0x22b9", 
+                "title": "HERMITIAN CONJUGATE MATRIX"
+            }, 
+            {
+                "charcode": "0x22ba", 
+                "title": "INTERCALATE"
+            }, 
+            {
+                "charcode": "0x22bb", 
+                "title": "XOR"
+            }, 
+            {
+                "charcode": "0x22bc", 
+                "title": "NAND"
+            }, 
+            {
+                "charcode": "0x22bd", 
+                "title": "NOR"
+            }, 
+            {
+                "charcode": "0x22be", 
+                "title": "RIGHT ANGLE WITH ARC"
+            }, 
+            {
+                "charcode": "0x22bf", 
+                "title": "RIGHT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x22c0", 
+                "title": "N-ARY LOGICAL AND"
+            }, 
+            {
+                "charcode": "0x22c1", 
+                "title": "N-ARY LOGICAL OR"
+            }, 
+            {
+                "charcode": "0x22c2", 
+                "title": "N-ARY INTERSECTION"
+            }, 
+            {
+                "charcode": "0x22c3", 
+                "title": "N-ARY UNION"
+            }, 
+            {
+                "charcode": "0x22c4", 
+                "title": "DIAMOND OPERATOR"
+            }, 
+            {
+                "charcode": "0x22c5", 
+                "title": "DOT OPERATOR"
+            }, 
+            {
+                "charcode": "0x22c6", 
+                "title": "STAR OPERATOR"
+            }, 
+            {
+                "charcode": "0x22c7", 
+                "title": "DIVISION TIMES"
+            }, 
+            {
+                "charcode": "0x22c8", 
+                "title": "BOWTIE"
+            }, 
+            {
+                "charcode": "0x22c9", 
+                "title": "LEFT NORMAL FACTOR SEMIDIRECT PRODUCT"
+            }, 
+            {
+                "charcode": "0x22ca", 
+                "title": "RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT"
+            }, 
+            {
+                "charcode": "0x22cb", 
+                "title": "LEFT SEMIDIRECT PRODUCT"
+            }, 
+            {
+                "charcode": "0x22cc", 
+                "title": "RIGHT SEMIDIRECT PRODUCT"
+            }, 
+            {
+                "charcode": "0x22cd", 
+                "title": "REVERSED TILDE EQUALS"
+            }, 
+            {
+                "charcode": "0x22ce", 
+                "title": "CURLY LOGICAL OR"
+            }, 
+            {
+                "charcode": "0x22cf", 
+                "title": "CURLY LOGICAL AND"
+            }, 
+            {
+                "charcode": "0x22d0", 
+                "title": "DOUBLE SUBSET"
+            }, 
+            {
+                "charcode": "0x22d1", 
+                "title": "DOUBLE SUPERSET"
+            }, 
+            {
+                "charcode": "0x22d2", 
+                "title": "DOUBLE INTERSECTION"
+            }, 
+            {
+                "charcode": "0x22d3", 
+                "title": "DOUBLE UNION"
+            }, 
+            {
+                "charcode": "0x22d4", 
+                "title": "PITCHFORK"
+            }, 
+            {
+                "charcode": "0x22d5", 
+                "title": "EQUAL AND PARALLEL TO"
+            }, 
+            {
+                "charcode": "0x22d6", 
+                "title": "LESS-THAN WITH DOT"
+            }, 
+            {
+                "charcode": "0x22d7", 
+                "title": "GREATER-THAN WITH DOT"
+            }, 
+            {
+                "charcode": "0x22d8", 
+                "title": "VERY MUCH LESS-THAN"
+            }, 
+            {
+                "charcode": "0x22d9", 
+                "title": "VERY MUCH GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x22da", 
+                "title": "LESS-THAN EQUAL TO OR GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x22db", 
+                "title": "GREATER-THAN EQUAL TO OR LESS-THAN"
+            }, 
+            {
+                "charcode": "0x22dc", 
+                "title": "EQUAL TO OR LESS-THAN"
+            }, 
+            {
+                "charcode": "0x22dd", 
+                "title": "EQUAL TO OR GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x22de", 
+                "title": "EQUAL TO OR PRECEDES"
+            }, 
+            {
+                "charcode": "0x22df", 
+                "title": "EQUAL TO OR SUCCEEDS"
+            }, 
+            {
+                "charcode": "0x22e0", 
+                "title": "DOES NOT PRECEDE OR EQUAL"
+            }, 
+            {
+                "charcode": "0x22e1", 
+                "title": "DOES NOT SUCCEED OR EQUAL"
+            }, 
+            {
+                "charcode": "0x22e2", 
+                "title": "NOT SQUARE IMAGE OF OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x22e3", 
+                "title": "NOT SQUARE ORIGINAL OF OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x22e4", 
+                "title": "SQUARE IMAGE OF OR NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x22e5", 
+                "title": "SQUARE ORIGINAL OF OR NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x22e6", 
+                "title": "LESS-THAN BUT NOT EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x22e7", 
+                "title": "GREATER-THAN BUT NOT EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x22e8", 
+                "title": "PRECEDES BUT NOT EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x22e9", 
+                "title": "SUCCEEDS BUT NOT EQUIVALENT TO"
+            }, 
+            {
+                "charcode": "0x22ea", 
+                "title": "NOT NORMAL SUBGROUP OF"
+            }, 
+            {
+                "charcode": "0x22eb", 
+                "title": "DOES NOT CONTAIN AS NORMAL SUBGROUP"
+            }, 
+            {
+                "charcode": "0x22ec", 
+                "title": "NOT NORMAL SUBGROUP OF OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x22ed", 
+                "title": "DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL"
+            }, 
+            {
+                "charcode": "0x22ee", 
+                "title": "VERTICAL ELLIPSIS"
+            }, 
+            {
+                "charcode": "0x22ef", 
+                "title": "MIDLINE HORIZONTAL ELLIPSIS"
+            }, 
+            {
+                "charcode": "0x22f0", 
+                "title": "UP RIGHT DIAGONAL ELLIPSIS"
+            }, 
+            {
+                "charcode": "0x22f1", 
+                "title": "DOWN RIGHT DIAGONAL ELLIPSIS"
+            }, 
+            {
+                "charcode": "0x22f2", 
+                "title": "ELEMENT OF WITH LONG HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x22f3", 
+                "title": "ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x22f4", 
+                "title": "SMALL ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x22f5", 
+                "title": "ELEMENT OF WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x22f6", 
+                "title": "ELEMENT OF WITH OVERBAR"
+            }, 
+            {
+                "charcode": "0x22f7", 
+                "title": "SMALL ELEMENT OF WITH OVERBAR"
+            }, 
+            {
+                "charcode": "0x22f8", 
+                "title": "ELEMENT OF WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x22f9", 
+                "title": "ELEMENT OF WITH TWO HORIZONTAL STROKES"
+            }, 
+            {
+                "charcode": "0x22fa", 
+                "title": "CONTAINS WITH LONG HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x22fb", 
+                "title": "CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x22fc", 
+                "title": "SMALL CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x22fd", 
+                "title": "CONTAINS WITH OVERBAR"
+            }, 
+            {
+                "charcode": "0x22fe", 
+                "title": "SMALL CONTAINS WITH OVERBAR"
+            }
+        ], 
+        "name": "Mathematical Operators"
+    }
+]

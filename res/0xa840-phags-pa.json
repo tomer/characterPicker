@@ -1,0 +1,231 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xa840", 
+                "title": "PHAGS-PA LETTER KA"
+            }, 
+            {
+                "charcode": "0xa841", 
+                "title": "PHAGS-PA LETTER KHA"
+            }, 
+            {
+                "charcode": "0xa842", 
+                "title": "PHAGS-PA LETTER GA"
+            }, 
+            {
+                "charcode": "0xa843", 
+                "title": "PHAGS-PA LETTER NGA"
+            }, 
+            {
+                "charcode": "0xa844", 
+                "title": "PHAGS-PA LETTER CA"
+            }, 
+            {
+                "charcode": "0xa845", 
+                "title": "PHAGS-PA LETTER CHA"
+            }, 
+            {
+                "charcode": "0xa846", 
+                "title": "PHAGS-PA LETTER JA"
+            }, 
+            {
+                "charcode": "0xa847", 
+                "title": "PHAGS-PA LETTER NYA"
+            }, 
+            {
+                "charcode": "0xa848", 
+                "title": "PHAGS-PA LETTER TA"
+            }, 
+            {
+                "charcode": "0xa849", 
+                "title": "PHAGS-PA LETTER THA"
+            }, 
+            {
+                "charcode": "0xa84a", 
+                "title": "PHAGS-PA LETTER DA"
+            }, 
+            {
+                "charcode": "0xa84b", 
+                "title": "PHAGS-PA LETTER NA"
+            }, 
+            {
+                "charcode": "0xa84c", 
+                "title": "PHAGS-PA LETTER PA"
+            }, 
+            {
+                "charcode": "0xa84d", 
+                "title": "PHAGS-PA LETTER PHA"
+            }, 
+            {
+                "charcode": "0xa84e", 
+                "title": "PHAGS-PA LETTER BA"
+            }, 
+            {
+                "charcode": "0xa84f", 
+                "title": "PHAGS-PA LETTER MA"
+            }, 
+            {
+                "charcode": "0xa850", 
+                "title": "PHAGS-PA LETTER TSA"
+            }, 
+            {
+                "charcode": "0xa851", 
+                "title": "PHAGS-PA LETTER TSHA"
+            }, 
+            {
+                "charcode": "0xa852", 
+                "title": "PHAGS-PA LETTER DZA"
+            }, 
+            {
+                "charcode": "0xa853", 
+                "title": "PHAGS-PA LETTER WA"
+            }, 
+            {
+                "charcode": "0xa854", 
+                "title": "PHAGS-PA LETTER ZHA"
+            }, 
+            {
+                "charcode": "0xa855", 
+                "title": "PHAGS-PA LETTER ZA"
+            }, 
+            {
+                "charcode": "0xa856", 
+                "title": "PHAGS-PA LETTER SMALL A"
+            }, 
+            {
+                "charcode": "0xa857", 
+                "title": "PHAGS-PA LETTER YA"
+            }, 
+            {
+                "charcode": "0xa858", 
+                "title": "PHAGS-PA LETTER RA"
+            }, 
+            {
+                "charcode": "0xa859", 
+                "title": "PHAGS-PA LETTER LA"
+            }, 
+            {
+                "charcode": "0xa85a", 
+                "title": "PHAGS-PA LETTER SHA"
+            }, 
+            {
+                "charcode": "0xa85b", 
+                "title": "PHAGS-PA LETTER SA"
+            }, 
+            {
+                "charcode": "0xa85c", 
+                "title": "PHAGS-PA LETTER HA"
+            }, 
+            {
+                "charcode": "0xa85d", 
+                "title": "PHAGS-PA LETTER A"
+            }, 
+            {
+                "charcode": "0xa85e", 
+                "title": "PHAGS-PA LETTER I"
+            }, 
+            {
+                "charcode": "0xa85f", 
+                "title": "PHAGS-PA LETTER U"
+            }, 
+            {
+                "charcode": "0xa860", 
+                "title": "PHAGS-PA LETTER E"
+            }, 
+            {
+                "charcode": "0xa861", 
+                "title": "PHAGS-PA LETTER O"
+            }, 
+            {
+                "charcode": "0xa862", 
+                "title": "PHAGS-PA LETTER QA"
+            }, 
+            {
+                "charcode": "0xa863", 
+                "title": "PHAGS-PA LETTER XA"
+            }, 
+            {
+                "charcode": "0xa864", 
+                "title": "PHAGS-PA LETTER FA"
+            }, 
+            {
+                "charcode": "0xa865", 
+                "title": "PHAGS-PA LETTER GGA"
+            }, 
+            {
+                "charcode": "0xa866", 
+                "title": "PHAGS-PA LETTER EE"
+            }, 
+            {
+                "charcode": "0xa867", 
+                "title": "PHAGS-PA SUBJOINED LETTER WA"
+            }, 
+            {
+                "charcode": "0xa868", 
+                "title": "PHAGS-PA SUBJOINED LETTER YA"
+            }, 
+            {
+                "charcode": "0xa869", 
+                "title": "PHAGS-PA LETTER TTA"
+            }, 
+            {
+                "charcode": "0xa86a", 
+                "title": "PHAGS-PA LETTER TTHA"
+            }, 
+            {
+                "charcode": "0xa86b", 
+                "title": "PHAGS-PA LETTER DDA"
+            }, 
+            {
+                "charcode": "0xa86c", 
+                "title": "PHAGS-PA LETTER NNA"
+            }, 
+            {
+                "charcode": "0xa86d", 
+                "title": "PHAGS-PA LETTER ALTERNATE YA"
+            }, 
+            {
+                "charcode": "0xa86e", 
+                "title": "PHAGS-PA LETTER VOICELESS SHA"
+            }, 
+            {
+                "charcode": "0xa86f", 
+                "title": "PHAGS-PA LETTER VOICED HA"
+            }, 
+            {
+                "charcode": "0xa870", 
+                "title": "PHAGS-PA LETTER ASPIRATED FA"
+            }, 
+            {
+                "charcode": "0xa871", 
+                "title": "PHAGS-PA SUBJOINED LETTER RA"
+            }, 
+            {
+                "charcode": "0xa872", 
+                "title": "PHAGS-PA SUPERFIXED LETTER RA"
+            }, 
+            {
+                "charcode": "0xa873", 
+                "title": "PHAGS-PA LETTER CANDRABINDU"
+            }, 
+            {
+                "charcode": "0xa874", 
+                "title": "PHAGS-PA SINGLE HEAD MARK"
+            }, 
+            {
+                "charcode": "0xa875", 
+                "title": "PHAGS-PA DOUBLE HEAD MARK"
+            }, 
+            {
+                "charcode": "0xa876", 
+                "title": "PHAGS-PA MARK SHAD"
+            }, 
+            {
+                "charcode": "0xa877", 
+                "title": "PHAGS-PA MARK DOUBLE SHAD"
+            }
+        ], 
+        "name": "Phags-pa"
+    }
+]

@@ -1,0 +1,439 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x11000", 
+                "title": "BRAHMI SIGN CANDRABINDU"
+            }, 
+            {
+                "charcode": "0x11001", 
+                "title": "BRAHMI SIGN ANUSVARA"
+            }, 
+            {
+                "charcode": "0x11002", 
+                "title": "BRAHMI SIGN VISARGA"
+            }, 
+            {
+                "charcode": "0x11003", 
+                "title": "BRAHMI SIGN JIHVAMULIYA"
+            }, 
+            {
+                "charcode": "0x11004", 
+                "title": "BRAHMI SIGN UPADHMANIYA"
+            }, 
+            {
+                "charcode": "0x11005", 
+                "title": "BRAHMI LETTER A"
+            }, 
+            {
+                "charcode": "0x11006", 
+                "title": "BRAHMI LETTER AA"
+            }, 
+            {
+                "charcode": "0x11007", 
+                "title": "BRAHMI LETTER I"
+            }, 
+            {
+                "charcode": "0x11008", 
+                "title": "BRAHMI LETTER II"
+            }, 
+            {
+                "charcode": "0x11009", 
+                "title": "BRAHMI LETTER U"
+            }, 
+            {
+                "charcode": "0x1100a", 
+                "title": "BRAHMI LETTER UU"
+            }, 
+            {
+                "charcode": "0x1100b", 
+                "title": "BRAHMI LETTER VOCALIC R"
+            }, 
+            {
+                "charcode": "0x1100c", 
+                "title": "BRAHMI LETTER VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x1100d", 
+                "title": "BRAHMI LETTER VOCALIC L"
+            }, 
+            {
+                "charcode": "0x1100e", 
+                "title": "BRAHMI LETTER VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x1100f", 
+                "title": "BRAHMI LETTER E"
+            }, 
+            {
+                "charcode": "0x11010", 
+                "title": "BRAHMI LETTER AI"
+            }, 
+            {
+                "charcode": "0x11011", 
+                "title": "BRAHMI LETTER O"
+            }, 
+            {
+                "charcode": "0x11012", 
+                "title": "BRAHMI LETTER AU"
+            }, 
+            {
+                "charcode": "0x11013", 
+                "title": "BRAHMI LETTER KA"
+            }, 
+            {
+                "charcode": "0x11014", 
+                "title": "BRAHMI LETTER KHA"
+            }, 
+            {
+                "charcode": "0x11015", 
+                "title": "BRAHMI LETTER GA"
+            }, 
+            {
+                "charcode": "0x11016", 
+                "title": "BRAHMI LETTER GHA"
+            }, 
+            {
+                "charcode": "0x11017", 
+                "title": "BRAHMI LETTER NGA"
+            }, 
+            {
+                "charcode": "0x11018", 
+                "title": "BRAHMI LETTER CA"
+            }, 
+            {
+                "charcode": "0x11019", 
+                "title": "BRAHMI LETTER CHA"
+            }, 
+            {
+                "charcode": "0x1101a", 
+                "title": "BRAHMI LETTER JA"
+            }, 
+            {
+                "charcode": "0x1101b", 
+                "title": "BRAHMI LETTER JHA"
+            }, 
+            {
+                "charcode": "0x1101c", 
+                "title": "BRAHMI LETTER NYA"
+            }, 
+            {
+                "charcode": "0x1101d", 
+                "title": "BRAHMI LETTER TTA"
+            }, 
+            {
+                "charcode": "0x1101e", 
+                "title": "BRAHMI LETTER TTHA"
+            }, 
+            {
+                "charcode": "0x1101f", 
+                "title": "BRAHMI LETTER DDA"
+            }, 
+            {
+                "charcode": "0x11020", 
+                "title": "BRAHMI LETTER DDHA"
+            }, 
+            {
+                "charcode": "0x11021", 
+                "title": "BRAHMI LETTER NNA"
+            }, 
+            {
+                "charcode": "0x11022", 
+                "title": "BRAHMI LETTER TA"
+            }, 
+            {
+                "charcode": "0x11023", 
+                "title": "BRAHMI LETTER THA"
+            }, 
+            {
+                "charcode": "0x11024", 
+                "title": "BRAHMI LETTER DA"
+            }, 
+            {
+                "charcode": "0x11025", 
+                "title": "BRAHMI LETTER DHA"
+            }, 
+            {
+                "charcode": "0x11026", 
+                "title": "BRAHMI LETTER NA"
+            }, 
+            {
+                "charcode": "0x11027", 
+                "title": "BRAHMI LETTER PA"
+            }, 
+            {
+                "charcode": "0x11028", 
+                "title": "BRAHMI LETTER PHA"
+            }, 
+            {
+                "charcode": "0x11029", 
+                "title": "BRAHMI LETTER BA"
+            }, 
+            {
+                "charcode": "0x1102a", 
+                "title": "BRAHMI LETTER BHA"
+            }, 
+            {
+                "charcode": "0x1102b", 
+                "title": "BRAHMI LETTER MA"
+            }, 
+            {
+                "charcode": "0x1102c", 
+                "title": "BRAHMI LETTER YA"
+            }, 
+            {
+                "charcode": "0x1102d", 
+                "title": "BRAHMI LETTER RA"
+            }, 
+            {
+                "charcode": "0x1102e", 
+                "title": "BRAHMI LETTER LA"
+            }, 
+            {
+                "charcode": "0x1102f", 
+                "title": "BRAHMI LETTER VA"
+            }, 
+            {
+                "charcode": "0x11030", 
+                "title": "BRAHMI LETTER SHA"
+            }, 
+            {
+                "charcode": "0x11031", 
+                "title": "BRAHMI LETTER SSA"
+            }, 
+            {
+                "charcode": "0x11032", 
+                "title": "BRAHMI LETTER SA"
+            }, 
+            {
+                "charcode": "0x11033", 
+                "title": "BRAHMI LETTER HA"
+            }, 
+            {
+                "charcode": "0x11034", 
+                "title": "BRAHMI LETTER LLA"
+            }, 
+            {
+                "charcode": "0x11035", 
+                "title": "BRAHMI LETTER OLD TAMIL LLLA"
+            }, 
+            {
+                "charcode": "0x11036", 
+                "title": "BRAHMI LETTER OLD TAMIL RRA"
+            }, 
+            {
+                "charcode": "0x11037", 
+                "title": "BRAHMI LETTER OLD TAMIL NNNA"
+            }, 
+            {
+                "charcode": "0x11038", 
+                "title": "BRAHMI VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0x11039", 
+                "title": "BRAHMI VOWEL SIGN BHATTIPROLU AA"
+            }, 
+            {
+                "charcode": "0x1103a", 
+                "title": "BRAHMI VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0x1103b", 
+                "title": "BRAHMI VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0x1103c", 
+                "title": "BRAHMI VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0x1103d", 
+                "title": "BRAHMI VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0x1103e", 
+                "title": "BRAHMI VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "charcode": "0x1103f", 
+                "title": "BRAHMI VOWEL SIGN VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x11040", 
+                "title": "BRAHMI VOWEL SIGN VOCALIC L"
+            }, 
+            {
+                "charcode": "0x11041", 
+                "title": "BRAHMI VOWEL SIGN VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x11042", 
+                "title": "BRAHMI VOWEL SIGN E"
+            }, 
+            {
+                "charcode": "0x11043", 
+                "title": "BRAHMI VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0x11044", 
+                "title": "BRAHMI VOWEL SIGN O"
+            }, 
+            {
+                "charcode": "0x11045", 
+                "title": "BRAHMI VOWEL SIGN AU"
+            }, 
+            {
+                "charcode": "0x11046", 
+                "title": "BRAHMI VIRAMA"
+            }, 
+            {
+                "charcode": "0x11047", 
+                "title": "BRAHMI DANDA"
+            }, 
+            {
+                "charcode": "0x11048", 
+                "title": "BRAHMI DOUBLE DANDA"
+            }, 
+            {
+                "charcode": "0x11049", 
+                "title": "BRAHMI PUNCTUATION DOT"
+            }, 
+            {
+                "charcode": "0x1104a", 
+                "title": "BRAHMI PUNCTUATION DOUBLE DOT"
+            }, 
+            {
+                "charcode": "0x1104b", 
+                "title": "BRAHMI PUNCTUATION LINE"
+            }, 
+            {
+                "charcode": "0x1104c", 
+                "title": "BRAHMI PUNCTUATION CRESCENT BAR"
+            }, 
+            {
+                "charcode": "0x1104d", 
+                "title": "BRAHMI PUNCTUATION LOTUS"
+            }, 
+            {
+                "charcode": "0x11052", 
+                "title": "BRAHMI NUMBER ONE"
+            }, 
+            {
+                "charcode": "0x11053", 
+                "title": "BRAHMI NUMBER TWO"
+            }, 
+            {
+                "charcode": "0x11054", 
+                "title": "BRAHMI NUMBER THREE"
+            }, 
+            {
+                "charcode": "0x11055", 
+                "title": "BRAHMI NUMBER FOUR"
+            }, 
+            {
+                "charcode": "0x11056", 
+                "title": "BRAHMI NUMBER FIVE"
+            }, 
+            {
+                "charcode": "0x11057", 
+                "title": "BRAHMI NUMBER SIX"
+            }, 
+            {
+                "charcode": "0x11058", 
+                "title": "BRAHMI NUMBER SEVEN"
+            }, 
+            {
+                "charcode": "0x11059", 
+                "title": "BRAHMI NUMBER EIGHT"
+            }, 
+            {
+                "charcode": "0x1105a", 
+                "title": "BRAHMI NUMBER NINE"
+            }, 
+            {
+                "charcode": "0x1105b", 
+                "title": "BRAHMI NUMBER TEN"
+            }, 
+            {
+                "charcode": "0x1105c", 
+                "title": "BRAHMI NUMBER TWENTY"
+            }, 
+            {
+                "charcode": "0x1105d", 
+                "title": "BRAHMI NUMBER THIRTY"
+            }, 
+            {
+                "charcode": "0x1105e", 
+                "title": "BRAHMI NUMBER FORTY"
+            }, 
+            {
+                "charcode": "0x1105f", 
+                "title": "BRAHMI NUMBER FIFTY"
+            }, 
+            {
+                "charcode": "0x11060", 
+                "title": "BRAHMI NUMBER SIXTY"
+            }, 
+            {
+                "charcode": "0x11061", 
+                "title": "BRAHMI NUMBER SEVENTY"
+            }, 
+            {
+                "charcode": "0x11062", 
+                "title": "BRAHMI NUMBER EIGHTY"
+            }, 
+            {
+                "charcode": "0x11063", 
+                "title": "BRAHMI NUMBER NINETY"
+            }, 
+            {
+                "charcode": "0x11064", 
+                "title": "BRAHMI NUMBER ONE HUNDRED"
+            }, 
+            {
+                "charcode": "0x11065", 
+                "title": "BRAHMI NUMBER ONE THOUSAND"
+            }, 
+            {
+                "charcode": "0x11066", 
+                "title": "BRAHMI DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x11067", 
+                "title": "BRAHMI DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x11068", 
+                "title": "BRAHMI DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x11069", 
+                "title": "BRAHMI DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x1106a", 
+                "title": "BRAHMI DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x1106b", 
+                "title": "BRAHMI DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x1106c", 
+                "title": "BRAHMI DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x1106d", 
+                "title": "BRAHMI DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x1106e", 
+                "title": "BRAHMI DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x1106f", 
+                "title": "BRAHMI DIGIT NINE"
+            }
+        ], 
+        "name": "Brahmi"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2440", 
+                "title": "OCR HOOK"
+            }, 
+            {
+                "charcode": "0x2441", 
+                "title": "OCR CHAIR"
+            }, 
+            {
+                "charcode": "0x2442", 
+                "title": "OCR FORK"
+            }, 
+            {
+                "charcode": "0x2443", 
+                "title": "OCR INVERTED FORK"
+            }, 
+            {
+                "charcode": "0x2444", 
+                "title": "OCR BELT BUCKLE"
+            }, 
+            {
+                "charcode": "0x2445", 
+                "title": "OCR BOW TIE"
+            }, 
+            {
+                "charcode": "0x2446", 
+                "title": "OCR BRANCH BANK IDENTIFICATION"
+            }, 
+            {
+                "charcode": "0x2447", 
+                "title": "OCR AMOUNT OF CHECK"
+            }, 
+            {
+                "charcode": "0x2448", 
+                "title": "OCR DASH"
+            }, 
+            {
+                "charcode": "0x2449", 
+                "title": "OCR CUSTOMER ACCOUNT NUMBER"
+            }, 
+            {
+                "charcode": "0x244a", 
+                "title": "OCR DOUBLE BACKSLASH"
+            }
+        ], 
+        "name": "Optical Character Recognition"
+    }
+]

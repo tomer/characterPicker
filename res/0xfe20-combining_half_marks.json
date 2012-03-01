@@ -1,0 +1,35 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xfe20", 
+                "title": "COMBINING LIGATURE LEFT HALF"
+            }, 
+            {
+                "charcode": "0xfe21", 
+                "title": "COMBINING LIGATURE RIGHT HALF"
+            }, 
+            {
+                "charcode": "0xfe22", 
+                "title": "COMBINING DOUBLE TILDE LEFT HALF"
+            }, 
+            {
+                "charcode": "0xfe23", 
+                "title": "COMBINING DOUBLE TILDE RIGHT HALF"
+            }, 
+            {
+                "charcode": "0xfe24", 
+                "title": "COMBINING MACRON LEFT HALF"
+            }, 
+            {
+                "charcode": "0xfe25", 
+                "title": "COMBINING MACRON RIGHT HALF"
+            }, 
+            {
+                "charcode": "0xfe26", 
+                "title": "COMBINING CONJOINING MACRON"
+            }
+        ], 
+        "name": "Combining Half Marks"
+    }
+]

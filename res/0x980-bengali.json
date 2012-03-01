@@ -1,0 +1,375 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x981", 
+                "title": "BENGALI SIGN CANDRABINDU"
+            }, 
+            {
+                "charcode": "0x982", 
+                "title": "BENGALI SIGN ANUSVARA"
+            }, 
+            {
+                "charcode": "0x983", 
+                "title": "BENGALI SIGN VISARGA"
+            }, 
+            {
+                "charcode": "0x985", 
+                "title": "BENGALI LETTER A"
+            }, 
+            {
+                "charcode": "0x986", 
+                "title": "BENGALI LETTER AA"
+            }, 
+            {
+                "charcode": "0x987", 
+                "title": "BENGALI LETTER I"
+            }, 
+            {
+                "charcode": "0x988", 
+                "title": "BENGALI LETTER II"
+            }, 
+            {
+                "charcode": "0x989", 
+                "title": "BENGALI LETTER U"
+            }, 
+            {
+                "charcode": "0x98a", 
+                "title": "BENGALI LETTER UU"
+            }, 
+            {
+                "charcode": "0x98b", 
+                "title": "BENGALI LETTER VOCALIC R"
+            }, 
+            {
+                "charcode": "0x98c", 
+                "title": "BENGALI LETTER VOCALIC L"
+            }, 
+            {
+                "charcode": "0x98f", 
+                "title": "BENGALI LETTER E"
+            }, 
+            {
+                "charcode": "0x990", 
+                "title": "BENGALI LETTER AI"
+            }, 
+            {
+                "charcode": "0x993", 
+                "title": "BENGALI LETTER O"
+            }, 
+            {
+                "charcode": "0x994", 
+                "title": "BENGALI LETTER AU"
+            }, 
+            {
+                "charcode": "0x995", 
+                "title": "BENGALI LETTER KA"
+            }, 
+            {
+                "charcode": "0x996", 
+                "title": "BENGALI LETTER KHA"
+            }, 
+            {
+                "charcode": "0x997", 
+                "title": "BENGALI LETTER GA"
+            }, 
+            {
+                "charcode": "0x998", 
+                "title": "BENGALI LETTER GHA"
+            }, 
+            {
+                "charcode": "0x999", 
+                "title": "BENGALI LETTER NGA"
+            }, 
+            {
+                "charcode": "0x99a", 
+                "title": "BENGALI LETTER CA"
+            }, 
+            {
+                "charcode": "0x99b", 
+                "title": "BENGALI LETTER CHA"
+            }, 
+            {
+                "charcode": "0x99c", 
+                "title": "BENGALI LETTER JA"
+            }, 
+            {
+                "charcode": "0x99d", 
+                "title": "BENGALI LETTER JHA"
+            }, 
+            {
+                "charcode": "0x99e", 
+                "title": "BENGALI LETTER NYA"
+            }, 
+            {
+                "charcode": "0x99f", 
+                "title": "BENGALI LETTER TTA"
+            }, 
+            {
+                "charcode": "0x9a0", 
+                "title": "BENGALI LETTER TTHA"
+            }, 
+            {
+                "charcode": "0x9a1", 
+                "title": "BENGALI LETTER DDA"
+            }, 
+            {
+                "charcode": "0x9a2", 
+                "title": "BENGALI LETTER DDHA"
+            }, 
+            {
+                "charcode": "0x9a3", 
+                "title": "BENGALI LETTER NNA"
+            }, 
+            {
+                "charcode": "0x9a4", 
+                "title": "BENGALI LETTER TA"
+            }, 
+            {
+                "charcode": "0x9a5", 
+                "title": "BENGALI LETTER THA"
+            }, 
+            {
+                "charcode": "0x9a6", 
+                "title": "BENGALI LETTER DA"
+            }, 
+            {
+                "charcode": "0x9a7", 
+                "title": "BENGALI LETTER DHA"
+            }, 
+            {
+                "charcode": "0x9a8", 
+                "title": "BENGALI LETTER NA"
+            }, 
+            {
+                "charcode": "0x9aa", 
+                "title": "BENGALI LETTER PA"
+            }, 
+            {
+                "charcode": "0x9ab", 
+                "title": "BENGALI LETTER PHA"
+            }, 
+            {
+                "charcode": "0x9ac", 
+                "title": "BENGALI LETTER BA"
+            }, 
+            {
+                "charcode": "0x9ad", 
+                "title": "BENGALI LETTER BHA"
+            }, 
+            {
+                "charcode": "0x9ae", 
+                "title": "BENGALI LETTER MA"
+            }, 
+            {
+                "charcode": "0x9af", 
+                "title": "BENGALI LETTER YA"
+            }, 
+            {
+                "charcode": "0x9b0", 
+                "title": "BENGALI LETTER RA"
+            }, 
+            {
+                "charcode": "0x9b2", 
+                "title": "BENGALI LETTER LA"
+            }, 
+            {
+                "charcode": "0x9b6", 
+                "title": "BENGALI LETTER SHA"
+            }, 
+            {
+                "charcode": "0x9b7", 
+                "title": "BENGALI LETTER SSA"
+            }, 
+            {
+                "charcode": "0x9b8", 
+                "title": "BENGALI LETTER SA"
+            }, 
+            {
+                "charcode": "0x9b9", 
+                "title": "BENGALI LETTER HA"
+            }, 
+            {
+                "charcode": "0x9bc", 
+                "title": "BENGALI SIGN NUKTA"
+            }, 
+            {
+                "charcode": "0x9bd", 
+                "title": "BENGALI SIGN AVAGRAHA"
+            }, 
+            {
+                "charcode": "0x9be", 
+                "title": "BENGALI VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0x9bf", 
+                "title": "BENGALI VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0x9c0", 
+                "title": "BENGALI VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0x9c1", 
+                "title": "BENGALI VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0x9c2", 
+                "title": "BENGALI VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0x9c3", 
+                "title": "BENGALI VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "charcode": "0x9c4", 
+                "title": "BENGALI VOWEL SIGN VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x9c7", 
+                "title": "BENGALI VOWEL SIGN E"
+            }, 
+            {
+                "charcode": "0x9c8", 
+                "title": "BENGALI VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0x9cb", 
+                "title": "BENGALI VOWEL SIGN O"
+            }, 
+            {
+                "charcode": "0x9cc", 
+                "title": "BENGALI VOWEL SIGN AU"
+            }, 
+            {
+                "charcode": "0x9cd", 
+                "title": "BENGALI SIGN VIRAMA"
+            }, 
+            {
+                "charcode": "0x9ce", 
+                "title": "BENGALI LETTER KHANDA TA"
+            }, 
+            {
+                "charcode": "0x9d7", 
+                "title": "BENGALI AU LENGTH MARK"
+            }, 
+            {
+                "charcode": "0x9dc", 
+                "title": "BENGALI LETTER RRA"
+            }, 
+            {
+                "charcode": "0x9dd", 
+                "title": "BENGALI LETTER RHA"
+            }, 
+            {
+                "charcode": "0x9df", 
+                "title": "BENGALI LETTER YYA"
+            }, 
+            {
+                "charcode": "0x9e0", 
+                "title": "BENGALI LETTER VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x9e1", 
+                "title": "BENGALI LETTER VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x9e2", 
+                "title": "BENGALI VOWEL SIGN VOCALIC L"
+            }, 
+            {
+                "charcode": "0x9e3", 
+                "title": "BENGALI VOWEL SIGN VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x9e6", 
+                "title": "BENGALI DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x9e7", 
+                "title": "BENGALI DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x9e8", 
+                "title": "BENGALI DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x9e9", 
+                "title": "BENGALI DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x9ea", 
+                "title": "BENGALI DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x9eb", 
+                "title": "BENGALI DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x9ec", 
+                "title": "BENGALI DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x9ed", 
+                "title": "BENGALI DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x9ee", 
+                "title": "BENGALI DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x9ef", 
+                "title": "BENGALI DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x9f0", 
+                "title": "BENGALI LETTER RA WITH MIDDLE DIAGONAL"
+            }, 
+            {
+                "charcode": "0x9f1", 
+                "title": "BENGALI LETTER RA WITH LOWER DIAGONAL"
+            }, 
+            {
+                "charcode": "0x9f2", 
+                "title": "BENGALI RUPEE MARK"
+            }, 
+            {
+                "charcode": "0x9f3", 
+                "title": "BENGALI RUPEE SIGN"
+            }, 
+            {
+                "charcode": "0x9f4", 
+                "title": "BENGALI CURRENCY NUMERATOR ONE"
+            }, 
+            {
+                "charcode": "0x9f5", 
+                "title": "BENGALI CURRENCY NUMERATOR TWO"
+            }, 
+            {
+                "charcode": "0x9f6", 
+                "title": "BENGALI CURRENCY NUMERATOR THREE"
+            }, 
+            {
+                "charcode": "0x9f7", 
+                "title": "BENGALI CURRENCY NUMERATOR FOUR"
+            }, 
+            {
+                "charcode": "0x9f8", 
+                "title": "BENGALI CURRENCY NUMERATOR ONE LESS THAN THE DENOMINATOR"
+            }, 
+            {
+                "charcode": "0x9f9", 
+                "title": "BENGALI CURRENCY DENOMINATOR SIXTEEN"
+            }, 
+            {
+                "charcode": "0x9fa", 
+                "title": "BENGALI ISSHAR"
+            }, 
+            {
+                "charcode": "0x9fb", 
+                "title": "BENGALI GANDA MARK"
+            }
+        ], 
+        "name": "Bengali"
+    }
+]

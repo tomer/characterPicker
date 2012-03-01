@@ -1,0 +1,183 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1f000", 
+                "title": "MAHJONG TILE EAST WIND"
+            }, 
+            {
+                "charcode": "0x1f001", 
+                "title": "MAHJONG TILE SOUTH WIND"
+            }, 
+            {
+                "charcode": "0x1f002", 
+                "title": "MAHJONG TILE WEST WIND"
+            }, 
+            {
+                "charcode": "0x1f003", 
+                "title": "MAHJONG TILE NORTH WIND"
+            }, 
+            {
+                "charcode": "0x1f004", 
+                "title": "MAHJONG TILE RED DRAGON"
+            }, 
+            {
+                "charcode": "0x1f005", 
+                "title": "MAHJONG TILE GREEN DRAGON"
+            }, 
+            {
+                "charcode": "0x1f006", 
+                "title": "MAHJONG TILE WHITE DRAGON"
+            }, 
+            {
+                "charcode": "0x1f007", 
+                "title": "MAHJONG TILE ONE OF CHARACTERS"
+            }, 
+            {
+                "charcode": "0x1f008", 
+                "title": "MAHJONG TILE TWO OF CHARACTERS"
+            }, 
+            {
+                "charcode": "0x1f009", 
+                "title": "MAHJONG TILE THREE OF CHARACTERS"
+            }, 
+            {
+                "charcode": "0x1f00a", 
+                "title": "MAHJONG TILE FOUR OF CHARACTERS"
+            }, 
+            {
+                "charcode": "0x1f00b", 
+                "title": "MAHJONG TILE FIVE OF CHARACTERS"
+            }, 
+            {
+                "charcode": "0x1f00c", 
+                "title": "MAHJONG TILE SIX OF CHARACTERS"
+            }, 
+            {
+                "charcode": "0x1f00d", 
+                "title": "MAHJONG TILE SEVEN OF CHARACTERS"
+            }, 
+            {
+                "charcode": "0x1f00e", 
+                "title": "MAHJONG TILE EIGHT OF CHARACTERS"
+            }, 
+            {
+                "charcode": "0x1f00f", 
+                "title": "MAHJONG TILE NINE OF CHARACTERS"
+            }, 
+            {
+                "charcode": "0x1f010", 
+                "title": "MAHJONG TILE ONE OF BAMBOOS"
+            }, 
+            {
+                "charcode": "0x1f011", 
+                "title": "MAHJONG TILE TWO OF BAMBOOS"
+            }, 
+            {
+                "charcode": "0x1f012", 
+                "title": "MAHJONG TILE THREE OF BAMBOOS"
+            }, 
+            {
+                "charcode": "0x1f013", 
+                "title": "MAHJONG TILE FOUR OF BAMBOOS"
+            }, 
+            {
+                "charcode": "0x1f014", 
+                "title": "MAHJONG TILE FIVE OF BAMBOOS"
+            }, 
+            {
+                "charcode": "0x1f015", 
+                "title": "MAHJONG TILE SIX OF BAMBOOS"
+            }, 
+            {
+                "charcode": "0x1f016", 
+                "title": "MAHJONG TILE SEVEN OF BAMBOOS"
+            }, 
+            {
+                "charcode": "0x1f017", 
+                "title": "MAHJONG TILE EIGHT OF BAMBOOS"
+            }, 
+            {
+                "charcode": "0x1f018", 
+                "title": "MAHJONG TILE NINE OF BAMBOOS"
+            }, 
+            {
+                "charcode": "0x1f019", 
+                "title": "MAHJONG TILE ONE OF CIRCLES"
+            }, 
+            {
+                "charcode": "0x1f01a", 
+                "title": "MAHJONG TILE TWO OF CIRCLES"
+            }, 
+            {
+                "charcode": "0x1f01b", 
+                "title": "MAHJONG TILE THREE OF CIRCLES"
+            }, 
+            {
+                "charcode": "0x1f01c", 
+                "title": "MAHJONG TILE FOUR OF CIRCLES"
+            }, 
+            {
+                "charcode": "0x1f01d", 
+                "title": "MAHJONG TILE FIVE OF CIRCLES"
+            }, 
+            {
+                "charcode": "0x1f01e", 
+                "title": "MAHJONG TILE SIX OF CIRCLES"
+            }, 
+            {
+                "charcode": "0x1f01f", 
+                "title": "MAHJONG TILE SEVEN OF CIRCLES"
+            }, 
+            {
+                "charcode": "0x1f020", 
+                "title": "MAHJONG TILE EIGHT OF CIRCLES"
+            }, 
+            {
+                "charcode": "0x1f021", 
+                "title": "MAHJONG TILE NINE OF CIRCLES"
+            }, 
+            {
+                "charcode": "0x1f022", 
+                "title": "MAHJONG TILE PLUM"
+            }, 
+            {
+                "charcode": "0x1f023", 
+                "title": "MAHJONG TILE ORCHID"
+            }, 
+            {
+                "charcode": "0x1f024", 
+                "title": "MAHJONG TILE BAMBOO"
+            }, 
+            {
+                "charcode": "0x1f025", 
+                "title": "MAHJONG TILE CHRYSANTHEMUM"
+            }, 
+            {
+                "charcode": "0x1f026", 
+                "title": "MAHJONG TILE SPRING"
+            }, 
+            {
+                "charcode": "0x1f027", 
+                "title": "MAHJONG TILE SUMMER"
+            }, 
+            {
+                "charcode": "0x1f028", 
+                "title": "MAHJONG TILE AUTUMN"
+            }, 
+            {
+                "charcode": "0x1f029", 
+                "title": "MAHJONG TILE WINTER"
+            }, 
+            {
+                "charcode": "0x1f02a", 
+                "title": "MAHJONG TILE JOKER"
+            }, 
+            {
+                "charcode": "0x1f02b", 
+                "title": "MAHJONG TILE BACK"
+            }
+        ], 
+        "name": "Mahjong Tiles"
+    }
+]

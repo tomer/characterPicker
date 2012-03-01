@@ -1,0 +1,863 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2f00", 
+                "title": "KANGXI RADICAL ONE"
+            }, 
+            {
+                "charcode": "0x2f01", 
+                "title": "KANGXI RADICAL LINE"
+            }, 
+            {
+                "charcode": "0x2f02", 
+                "title": "KANGXI RADICAL DOT"
+            }, 
+            {
+                "charcode": "0x2f03", 
+                "title": "KANGXI RADICAL SLASH"
+            }, 
+            {
+                "charcode": "0x2f04", 
+                "title": "KANGXI RADICAL SECOND"
+            }, 
+            {
+                "charcode": "0x2f05", 
+                "title": "KANGXI RADICAL HOOK"
+            }, 
+            {
+                "charcode": "0x2f06", 
+                "title": "KANGXI RADICAL TWO"
+            }, 
+            {
+                "charcode": "0x2f07", 
+                "title": "KANGXI RADICAL LID"
+            }, 
+            {
+                "charcode": "0x2f08", 
+                "title": "KANGXI RADICAL MAN"
+            }, 
+            {
+                "charcode": "0x2f09", 
+                "title": "KANGXI RADICAL LEGS"
+            }, 
+            {
+                "charcode": "0x2f0a", 
+                "title": "KANGXI RADICAL ENTER"
+            }, 
+            {
+                "charcode": "0x2f0b", 
+                "title": "KANGXI RADICAL EIGHT"
+            }, 
+            {
+                "charcode": "0x2f0c", 
+                "title": "KANGXI RADICAL DOWN BOX"
+            }, 
+            {
+                "charcode": "0x2f0d", 
+                "title": "KANGXI RADICAL COVER"
+            }, 
+            {
+                "charcode": "0x2f0e", 
+                "title": "KANGXI RADICAL ICE"
+            }, 
+            {
+                "charcode": "0x2f0f", 
+                "title": "KANGXI RADICAL TABLE"
+            }, 
+            {
+                "charcode": "0x2f10", 
+                "title": "KANGXI RADICAL OPEN BOX"
+            }, 
+            {
+                "charcode": "0x2f11", 
+                "title": "KANGXI RADICAL KNIFE"
+            }, 
+            {
+                "charcode": "0x2f12", 
+                "title": "KANGXI RADICAL POWER"
+            }, 
+            {
+                "charcode": "0x2f13", 
+                "title": "KANGXI RADICAL WRAP"
+            }, 
+            {
+                "charcode": "0x2f14", 
+                "title": "KANGXI RADICAL SPOON"
+            }, 
+            {
+                "charcode": "0x2f15", 
+                "title": "KANGXI RADICAL RIGHT OPEN BOX"
+            }, 
+            {
+                "charcode": "0x2f16", 
+                "title": "KANGXI RADICAL HIDING ENCLOSURE"
+            }, 
+            {
+                "charcode": "0x2f17", 
+                "title": "KANGXI RADICAL TEN"
+            }, 
+            {
+                "charcode": "0x2f18", 
+                "title": "KANGXI RADICAL DIVINATION"
+            }, 
+            {
+                "charcode": "0x2f19", 
+                "title": "KANGXI RADICAL SEAL"
+            }, 
+            {
+                "charcode": "0x2f1a", 
+                "title": "KANGXI RADICAL CLIFF"
+            }, 
+            {
+                "charcode": "0x2f1b", 
+                "title": "KANGXI RADICAL PRIVATE"
+            }, 
+            {
+                "charcode": "0x2f1c", 
+                "title": "KANGXI RADICAL AGAIN"
+            }, 
+            {
+                "charcode": "0x2f1d", 
+                "title": "KANGXI RADICAL MOUTH"
+            }, 
+            {
+                "charcode": "0x2f1e", 
+                "title": "KANGXI RADICAL ENCLOSURE"
+            }, 
+            {
+                "charcode": "0x2f1f", 
+                "title": "KANGXI RADICAL EARTH"
+            }, 
+            {
+                "charcode": "0x2f20", 
+                "title": "KANGXI RADICAL SCHOLAR"
+            }, 
+            {
+                "charcode": "0x2f21", 
+                "title": "KANGXI RADICAL GO"
+            }, 
+            {
+                "charcode": "0x2f22", 
+                "title": "KANGXI RADICAL GO SLOWLY"
+            }, 
+            {
+                "charcode": "0x2f23", 
+                "title": "KANGXI RADICAL EVENING"
+            }, 
+            {
+                "charcode": "0x2f24", 
+                "title": "KANGXI RADICAL BIG"
+            }, 
+            {
+                "charcode": "0x2f25", 
+                "title": "KANGXI RADICAL WOMAN"
+            }, 
+            {
+                "charcode": "0x2f26", 
+                "title": "KANGXI RADICAL CHILD"
+            }, 
+            {
+                "charcode": "0x2f27", 
+                "title": "KANGXI RADICAL ROOF"
+            }, 
+            {
+                "charcode": "0x2f28", 
+                "title": "KANGXI RADICAL INCH"
+            }, 
+            {
+                "charcode": "0x2f29", 
+                "title": "KANGXI RADICAL SMALL"
+            }, 
+            {
+                "charcode": "0x2f2a", 
+                "title": "KANGXI RADICAL LAME"
+            }, 
+            {
+                "charcode": "0x2f2b", 
+                "title": "KANGXI RADICAL CORPSE"
+            }, 
+            {
+                "charcode": "0x2f2c", 
+                "title": "KANGXI RADICAL SPROUT"
+            }, 
+            {
+                "charcode": "0x2f2d", 
+                "title": "KANGXI RADICAL MOUNTAIN"
+            }, 
+            {
+                "charcode": "0x2f2e", 
+                "title": "KANGXI RADICAL RIVER"
+            }, 
+            {
+                "charcode": "0x2f2f", 
+                "title": "KANGXI RADICAL WORK"
+            }, 
+            {
+                "charcode": "0x2f30", 
+                "title": "KANGXI RADICAL ONESELF"
+            }, 
+            {
+                "charcode": "0x2f31", 
+                "title": "KANGXI RADICAL TURBAN"
+            }, 
+            {
+                "charcode": "0x2f32", 
+                "title": "KANGXI RADICAL DRY"
+            }, 
+            {
+                "charcode": "0x2f33", 
+                "title": "KANGXI RADICAL SHORT THREAD"
+            }, 
+            {
+                "charcode": "0x2f34", 
+                "title": "KANGXI RADICAL DOTTED CLIFF"
+            }, 
+            {
+                "charcode": "0x2f35", 
+                "title": "KANGXI RADICAL LONG STRIDE"
+            }, 
+            {
+                "charcode": "0x2f36", 
+                "title": "KANGXI RADICAL TWO HANDS"
+            }, 
+            {
+                "charcode": "0x2f37", 
+                "title": "KANGXI RADICAL SHOOT"
+            }, 
+            {
+                "charcode": "0x2f38", 
+                "title": "KANGXI RADICAL BOW"
+            }, 
+            {
+                "charcode": "0x2f39", 
+                "title": "KANGXI RADICAL SNOUT"
+            }, 
+            {
+                "charcode": "0x2f3a", 
+                "title": "KANGXI RADICAL BRISTLE"
+            }, 
+            {
+                "charcode": "0x2f3b", 
+                "title": "KANGXI RADICAL STEP"
+            }, 
+            {
+                "charcode": "0x2f3c", 
+                "title": "KANGXI RADICAL HEART"
+            }, 
+            {
+                "charcode": "0x2f3d", 
+                "title": "KANGXI RADICAL HALBERD"
+            }, 
+            {
+                "charcode": "0x2f3e", 
+                "title": "KANGXI RADICAL DOOR"
+            }, 
+            {
+                "charcode": "0x2f3f", 
+                "title": "KANGXI RADICAL HAND"
+            }, 
+            {
+                "charcode": "0x2f40", 
+                "title": "KANGXI RADICAL BRANCH"
+            }, 
+            {
+                "charcode": "0x2f41", 
+                "title": "KANGXI RADICAL RAP"
+            }, 
+            {
+                "charcode": "0x2f42", 
+                "title": "KANGXI RADICAL SCRIPT"
+            }, 
+            {
+                "charcode": "0x2f43", 
+                "title": "KANGXI RADICAL DIPPER"
+            }, 
+            {
+                "charcode": "0x2f44", 
+                "title": "KANGXI RADICAL AXE"
+            }, 
+            {
+                "charcode": "0x2f45", 
+                "title": "KANGXI RADICAL SQUARE"
+            }, 
+            {
+                "charcode": "0x2f46", 
+                "title": "KANGXI RADICAL NOT"
+            }, 
+            {
+                "charcode": "0x2f47", 
+                "title": "KANGXI RADICAL SUN"
+            }, 
+            {
+                "charcode": "0x2f48", 
+                "title": "KANGXI RADICAL SAY"
+            }, 
+            {
+                "charcode": "0x2f49", 
+                "title": "KANGXI RADICAL MOON"
+            }, 
+            {
+                "charcode": "0x2f4a", 
+                "title": "KANGXI RADICAL TREE"
+            }, 
+            {
+                "charcode": "0x2f4b", 
+                "title": "KANGXI RADICAL LACK"
+            }, 
+            {
+                "charcode": "0x2f4c", 
+                "title": "KANGXI RADICAL STOP"
+            }, 
+            {
+                "charcode": "0x2f4d", 
+                "title": "KANGXI RADICAL DEATH"
+            }, 
+            {
+                "charcode": "0x2f4e", 
+                "title": "KANGXI RADICAL WEAPON"
+            }, 
+            {
+                "charcode": "0x2f4f", 
+                "title": "KANGXI RADICAL DO NOT"
+            }, 
+            {
+                "charcode": "0x2f50", 
+                "title": "KANGXI RADICAL COMPARE"
+            }, 
+            {
+                "charcode": "0x2f51", 
+                "title": "KANGXI RADICAL FUR"
+            }, 
+            {
+                "charcode": "0x2f52", 
+                "title": "KANGXI RADICAL CLAN"
+            }, 
+            {
+                "charcode": "0x2f53", 
+                "title": "KANGXI RADICAL STEAM"
+            }, 
+            {
+                "charcode": "0x2f54", 
+                "title": "KANGXI RADICAL WATER"
+            }, 
+            {
+                "charcode": "0x2f55", 
+                "title": "KANGXI RADICAL FIRE"
+            }, 
+            {
+                "charcode": "0x2f56", 
+                "title": "KANGXI RADICAL CLAW"
+            }, 
+            {
+                "charcode": "0x2f57", 
+                "title": "KANGXI RADICAL FATHER"
+            }, 
+            {
+                "charcode": "0x2f58", 
+                "title": "KANGXI RADICAL DOUBLE X"
+            }, 
+            {
+                "charcode": "0x2f59", 
+                "title": "KANGXI RADICAL HALF TREE TRUNK"
+            }, 
+            {
+                "charcode": "0x2f5a", 
+                "title": "KANGXI RADICAL SLICE"
+            }, 
+            {
+                "charcode": "0x2f5b", 
+                "title": "KANGXI RADICAL FANG"
+            }, 
+            {
+                "charcode": "0x2f5c", 
+                "title": "KANGXI RADICAL COW"
+            }, 
+            {
+                "charcode": "0x2f5d", 
+                "title": "KANGXI RADICAL DOG"
+            }, 
+            {
+                "charcode": "0x2f5e", 
+                "title": "KANGXI RADICAL PROFOUND"
+            }, 
+            {
+                "charcode": "0x2f5f", 
+                "title": "KANGXI RADICAL JADE"
+            }, 
+            {
+                "charcode": "0x2f60", 
+                "title": "KANGXI RADICAL MELON"
+            }, 
+            {
+                "charcode": "0x2f61", 
+                "title": "KANGXI RADICAL TILE"
+            }, 
+            {
+                "charcode": "0x2f62", 
+                "title": "KANGXI RADICAL SWEET"
+            }, 
+            {
+                "charcode": "0x2f63", 
+                "title": "KANGXI RADICAL LIFE"
+            }, 
+            {
+                "charcode": "0x2f64", 
+                "title": "KANGXI RADICAL USE"
+            }, 
+            {
+                "charcode": "0x2f65", 
+                "title": "KANGXI RADICAL FIELD"
+            }, 
+            {
+                "charcode": "0x2f66", 
+                "title": "KANGXI RADICAL BOLT OF CLOTH"
+            }, 
+            {
+                "charcode": "0x2f67", 
+                "title": "KANGXI RADICAL SICKNESS"
+            }, 
+            {
+                "charcode": "0x2f68", 
+                "title": "KANGXI RADICAL DOTTED TENT"
+            }, 
+            {
+                "charcode": "0x2f69", 
+                "title": "KANGXI RADICAL WHITE"
+            }, 
+            {
+                "charcode": "0x2f6a", 
+                "title": "KANGXI RADICAL SKIN"
+            }, 
+            {
+                "charcode": "0x2f6b", 
+                "title": "KANGXI RADICAL DISH"
+            }, 
+            {
+                "charcode": "0x2f6c", 
+                "title": "KANGXI RADICAL EYE"
+            }, 
+            {
+                "charcode": "0x2f6d", 
+                "title": "KANGXI RADICAL SPEAR"
+            }, 
+            {
+                "charcode": "0x2f6e", 
+                "title": "KANGXI RADICAL ARROW"
+            }, 
+            {
+                "charcode": "0x2f6f", 
+                "title": "KANGXI RADICAL STONE"
+            }, 
+            {
+                "charcode": "0x2f70", 
+                "title": "KANGXI RADICAL SPIRIT"
+            }, 
+            {
+                "charcode": "0x2f71", 
+                "title": "KANGXI RADICAL TRACK"
+            }, 
+            {
+                "charcode": "0x2f72", 
+                "title": "KANGXI RADICAL GRAIN"
+            }, 
+            {
+                "charcode": "0x2f73", 
+                "title": "KANGXI RADICAL CAVE"
+            }, 
+            {
+                "charcode": "0x2f74", 
+                "title": "KANGXI RADICAL STAND"
+            }, 
+            {
+                "charcode": "0x2f75", 
+                "title": "KANGXI RADICAL BAMBOO"
+            }, 
+            {
+                "charcode": "0x2f76", 
+                "title": "KANGXI RADICAL RICE"
+            }, 
+            {
+                "charcode": "0x2f77", 
+                "title": "KANGXI RADICAL SILK"
+            }, 
+            {
+                "charcode": "0x2f78", 
+                "title": "KANGXI RADICAL JAR"
+            }, 
+            {
+                "charcode": "0x2f79", 
+                "title": "KANGXI RADICAL NET"
+            }, 
+            {
+                "charcode": "0x2f7a", 
+                "title": "KANGXI RADICAL SHEEP"
+            }, 
+            {
+                "charcode": "0x2f7b", 
+                "title": "KANGXI RADICAL FEATHER"
+            }, 
+            {
+                "charcode": "0x2f7c", 
+                "title": "KANGXI RADICAL OLD"
+            }, 
+            {
+                "charcode": "0x2f7d", 
+                "title": "KANGXI RADICAL AND"
+            }, 
+            {
+                "charcode": "0x2f7e", 
+                "title": "KANGXI RADICAL PLOW"
+            }, 
+            {
+                "charcode": "0x2f7f", 
+                "title": "KANGXI RADICAL EAR"
+            }, 
+            {
+                "charcode": "0x2f80", 
+                "title": "KANGXI RADICAL BRUSH"
+            }, 
+            {
+                "charcode": "0x2f81", 
+                "title": "KANGXI RADICAL MEAT"
+            }, 
+            {
+                "charcode": "0x2f82", 
+                "title": "KANGXI RADICAL MINISTER"
+            }, 
+            {
+                "charcode": "0x2f83", 
+                "title": "KANGXI RADICAL SELF"
+            }, 
+            {
+                "charcode": "0x2f84", 
+                "title": "KANGXI RADICAL ARRIVE"
+            }, 
+            {
+                "charcode": "0x2f85", 
+                "title": "KANGXI RADICAL MORTAR"
+            }, 
+            {
+                "charcode": "0x2f86", 
+                "title": "KANGXI RADICAL TONGUE"
+            }, 
+            {
+                "charcode": "0x2f87", 
+                "title": "KANGXI RADICAL OPPOSE"
+            }, 
+            {
+                "charcode": "0x2f88", 
+                "title": "KANGXI RADICAL BOAT"
+            }, 
+            {
+                "charcode": "0x2f89", 
+                "title": "KANGXI RADICAL STOPPING"
+            }, 
+            {
+                "charcode": "0x2f8a", 
+                "title": "KANGXI RADICAL COLOR"
+            }, 
+            {
+                "charcode": "0x2f8b", 
+                "title": "KANGXI RADICAL GRASS"
+            }, 
+            {
+                "charcode": "0x2f8c", 
+                "title": "KANGXI RADICAL TIGER"
+            }, 
+            {
+                "charcode": "0x2f8d", 
+                "title": "KANGXI RADICAL INSECT"
+            }, 
+            {
+                "charcode": "0x2f8e", 
+                "title": "KANGXI RADICAL BLOOD"
+            }, 
+            {
+                "charcode": "0x2f8f", 
+                "title": "KANGXI RADICAL WALK ENCLOSURE"
+            }, 
+            {
+                "charcode": "0x2f90", 
+                "title": "KANGXI RADICAL CLOTHES"
+            }, 
+            {
+                "charcode": "0x2f91", 
+                "title": "KANGXI RADICAL WEST"
+            }, 
+            {
+                "charcode": "0x2f92", 
+                "title": "KANGXI RADICAL SEE"
+            }, 
+            {
+                "charcode": "0x2f93", 
+                "title": "KANGXI RADICAL HORN"
+            }, 
+            {
+                "charcode": "0x2f94", 
+                "title": "KANGXI RADICAL SPEECH"
+            }, 
+            {
+                "charcode": "0x2f95", 
+                "title": "KANGXI RADICAL VALLEY"
+            }, 
+            {
+                "charcode": "0x2f96", 
+                "title": "KANGXI RADICAL BEAN"
+            }, 
+            {
+                "charcode": "0x2f97", 
+                "title": "KANGXI RADICAL PIG"
+            }, 
+            {
+                "charcode": "0x2f98", 
+                "title": "KANGXI RADICAL BADGER"
+            }, 
+            {
+                "charcode": "0x2f99", 
+                "title": "KANGXI RADICAL SHELL"
+            }, 
+            {
+                "charcode": "0x2f9a", 
+                "title": "KANGXI RADICAL RED"
+            }, 
+            {
+                "charcode": "0x2f9b", 
+                "title": "KANGXI RADICAL RUN"
+            }, 
+            {
+                "charcode": "0x2f9c", 
+                "title": "KANGXI RADICAL FOOT"
+            }, 
+            {
+                "charcode": "0x2f9d", 
+                "title": "KANGXI RADICAL BODY"
+            }, 
+            {
+                "charcode": "0x2f9e", 
+                "title": "KANGXI RADICAL CART"
+            }, 
+            {
+                "charcode": "0x2f9f", 
+                "title": "KANGXI RADICAL BITTER"
+            }, 
+            {
+                "charcode": "0x2fa0", 
+                "title": "KANGXI RADICAL MORNING"
+            }, 
+            {
+                "charcode": "0x2fa1", 
+                "title": "KANGXI RADICAL WALK"
+            }, 
+            {
+                "charcode": "0x2fa2", 
+                "title": "KANGXI RADICAL CITY"
+            }, 
+            {
+                "charcode": "0x2fa3", 
+                "title": "KANGXI RADICAL WINE"
+            }, 
+            {
+                "charcode": "0x2fa4", 
+                "title": "KANGXI RADICAL DISTINGUISH"
+            }, 
+            {
+                "charcode": "0x2fa5", 
+                "title": "KANGXI RADICAL VILLAGE"
+            }, 
+            {
+                "charcode": "0x2fa6", 
+                "title": "KANGXI RADICAL GOLD"
+            }, 
+            {
+                "charcode": "0x2fa7", 
+                "title": "KANGXI RADICAL LONG"
+            }, 
+            {
+                "charcode": "0x2fa8", 
+                "title": "KANGXI RADICAL GATE"
+            }, 
+            {
+                "charcode": "0x2fa9", 
+                "title": "KANGXI RADICAL MOUND"
+            }, 
+            {
+                "charcode": "0x2faa", 
+                "title": "KANGXI RADICAL SLAVE"
+            }, 
+            {
+                "charcode": "0x2fab", 
+                "title": "KANGXI RADICAL SHORT TAILED BIRD"
+            }, 
+            {
+                "charcode": "0x2fac", 
+                "title": "KANGXI RADICAL RAIN"
+            }, 
+            {
+                "charcode": "0x2fad", 
+                "title": "KANGXI RADICAL BLUE"
+            }, 
+            {
+                "charcode": "0x2fae", 
+                "title": "KANGXI RADICAL WRONG"
+            }, 
+            {
+                "charcode": "0x2faf", 
+                "title": "KANGXI RADICAL FACE"
+            }, 
+            {
+                "charcode": "0x2fb0", 
+                "title": "KANGXI RADICAL LEATHER"
+            }, 
+            {
+                "charcode": "0x2fb1", 
+                "title": "KANGXI RADICAL TANNED LEATHER"
+            }, 
+            {
+                "charcode": "0x2fb2", 
+                "title": "KANGXI RADICAL LEEK"
+            }, 
+            {
+                "charcode": "0x2fb3", 
+                "title": "KANGXI RADICAL SOUND"
+            }, 
+            {
+                "charcode": "0x2fb4", 
+                "title": "KANGXI RADICAL LEAF"
+            }, 
+            {
+                "charcode": "0x2fb5", 
+                "title": "KANGXI RADICAL WIND"
+            }, 
+            {
+                "charcode": "0x2fb6", 
+                "title": "KANGXI RADICAL FLY"
+            }, 
+            {
+                "charcode": "0x2fb7", 
+                "title": "KANGXI RADICAL EAT"
+            }, 
+            {
+                "charcode": "0x2fb8", 
+                "title": "KANGXI RADICAL HEAD"
+            }, 
+            {
+                "charcode": "0x2fb9", 
+                "title": "KANGXI RADICAL FRAGRANT"
+            }, 
+            {
+                "charcode": "0x2fba", 
+                "title": "KANGXI RADICAL HORSE"
+            }, 
+            {
+                "charcode": "0x2fbb", 
+                "title": "KANGXI RADICAL BONE"
+            }, 
+            {
+                "charcode": "0x2fbc", 
+                "title": "KANGXI RADICAL TALL"
+            }, 
+            {
+                "charcode": "0x2fbd", 
+                "title": "KANGXI RADICAL HAIR"
+            }, 
+            {
+                "charcode": "0x2fbe", 
+                "title": "KANGXI RADICAL FIGHT"
+            }, 
+            {
+                "charcode": "0x2fbf", 
+                "title": "KANGXI RADICAL SACRIFICIAL WINE"
+            }, 
+            {
+                "charcode": "0x2fc0", 
+                "title": "KANGXI RADICAL CAULDRON"
+            }, 
+            {
+                "charcode": "0x2fc1", 
+                "title": "KANGXI RADICAL GHOST"
+            }, 
+            {
+                "charcode": "0x2fc2", 
+                "title": "KANGXI RADICAL FISH"
+            }, 
+            {
+                "charcode": "0x2fc3", 
+                "title": "KANGXI RADICAL BIRD"
+            }, 
+            {
+                "charcode": "0x2fc4", 
+                "title": "KANGXI RADICAL SALT"
+            }, 
+            {
+                "charcode": "0x2fc5", 
+                "title": "KANGXI RADICAL DEER"
+            }, 
+            {
+                "charcode": "0x2fc6", 
+                "title": "KANGXI RADICAL WHEAT"
+            }, 
+            {
+                "charcode": "0x2fc7", 
+                "title": "KANGXI RADICAL HEMP"
+            }, 
+            {
+                "charcode": "0x2fc8", 
+                "title": "KANGXI RADICAL YELLOW"
+            }, 
+            {
+                "charcode": "0x2fc9", 
+                "title": "KANGXI RADICAL MILLET"
+            }, 
+            {
+                "charcode": "0x2fca", 
+                "title": "KANGXI RADICAL BLACK"
+            }, 
+            {
+                "charcode": "0x2fcb", 
+                "title": "KANGXI RADICAL EMBROIDERY"
+            }, 
+            {
+                "charcode": "0x2fcc", 
+                "title": "KANGXI RADICAL FROG"
+            }, 
+            {
+                "charcode": "0x2fcd", 
+                "title": "KANGXI RADICAL TRIPOD"
+            }, 
+            {
+                "charcode": "0x2fce", 
+                "title": "KANGXI RADICAL DRUM"
+            }, 
+            {
+                "charcode": "0x2fcf", 
+                "title": "KANGXI RADICAL RAT"
+            }, 
+            {
+                "charcode": "0x2fd0", 
+                "title": "KANGXI RADICAL NOSE"
+            }, 
+            {
+                "charcode": "0x2fd1", 
+                "title": "KANGXI RADICAL EVEN"
+            }, 
+            {
+                "charcode": "0x2fd2", 
+                "title": "KANGXI RADICAL TOOTH"
+            }, 
+            {
+                "charcode": "0x2fd3", 
+                "title": "KANGXI RADICAL DRAGON"
+            }, 
+            {
+                "charcode": "0x2fd4", 
+                "title": "KANGXI RADICAL TURTLE"
+            }, 
+            {
+                "charcode": "0x2fd5", 
+                "title": "KANGXI RADICAL FLUTE"
+            }
+        ], 
+        "name": "Kangxi Radicals"
+    }
+]

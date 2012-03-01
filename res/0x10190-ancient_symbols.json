@@ -1,0 +1,55 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x10190", 
+                "title": "ROMAN SEXTANS SIGN"
+            }, 
+            {
+                "charcode": "0x10191", 
+                "title": "ROMAN UNCIA SIGN"
+            }, 
+            {
+                "charcode": "0x10192", 
+                "title": "ROMAN SEMUNCIA SIGN"
+            }, 
+            {
+                "charcode": "0x10193", 
+                "title": "ROMAN SEXTULA SIGN"
+            }, 
+            {
+                "charcode": "0x10194", 
+                "title": "ROMAN DIMIDIA SEXTULA SIGN"
+            }, 
+            {
+                "charcode": "0x10195", 
+                "title": "ROMAN SILIQUA SIGN"
+            }, 
+            {
+                "charcode": "0x10196", 
+                "title": "ROMAN DENARIUS SIGN"
+            }, 
+            {
+                "charcode": "0x10197", 
+                "title": "ROMAN QUINARIUS SIGN"
+            }, 
+            {
+                "charcode": "0x10198", 
+                "title": "ROMAN SESTERTIUS SIGN"
+            }, 
+            {
+                "charcode": "0x10199", 
+                "title": "ROMAN DUPONDIUS SIGN"
+            }, 
+            {
+                "charcode": "0x1019a", 
+                "title": "ROMAN AS SIGN"
+            }, 
+            {
+                "charcode": "0x1019b", 
+                "title": "ROMAN CENTURIAL SIGN"
+            }
+        ], 
+        "name": "Ancient Symbols"
+    }
+]

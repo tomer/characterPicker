@@ -1,0 +1,259 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x3000", 
+                "title": "IDEOGRAPHIC SPACE"
+            }, 
+            {
+                "charcode": "0x3001", 
+                "title": "IDEOGRAPHIC COMMA"
+            }, 
+            {
+                "charcode": "0x3002", 
+                "title": "IDEOGRAPHIC FULL STOP"
+            }, 
+            {
+                "charcode": "0x3003", 
+                "title": "DITTO MARK"
+            }, 
+            {
+                "charcode": "0x3004", 
+                "title": "JAPANESE INDUSTRIAL STANDARD SYMBOL"
+            }, 
+            {
+                "charcode": "0x3005", 
+                "title": "IDEOGRAPHIC ITERATION MARK"
+            }, 
+            {
+                "charcode": "0x3006", 
+                "title": "IDEOGRAPHIC CLOSING MARK"
+            }, 
+            {
+                "charcode": "0x3007", 
+                "title": "IDEOGRAPHIC NUMBER ZERO"
+            }, 
+            {
+                "charcode": "0x3008", 
+                "title": "LEFT ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0x3009", 
+                "title": "RIGHT ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0x300a", 
+                "title": "LEFT DOUBLE ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0x300b", 
+                "title": "RIGHT DOUBLE ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0x300c", 
+                "title": "LEFT CORNER BRACKET"
+            }, 
+            {
+                "charcode": "0x300d", 
+                "title": "RIGHT CORNER BRACKET"
+            }, 
+            {
+                "charcode": "0x300e", 
+                "title": "LEFT WHITE CORNER BRACKET"
+            }, 
+            {
+                "charcode": "0x300f", 
+                "title": "RIGHT WHITE CORNER BRACKET"
+            }, 
+            {
+                "charcode": "0x3010", 
+                "title": "LEFT BLACK LENTICULAR BRACKET"
+            }, 
+            {
+                "charcode": "0x3011", 
+                "title": "RIGHT BLACK LENTICULAR BRACKET"
+            }, 
+            {
+                "charcode": "0x3012", 
+                "title": "POSTAL MARK"
+            }, 
+            {
+                "charcode": "0x3013", 
+                "title": "GETA MARK"
+            }, 
+            {
+                "charcode": "0x3014", 
+                "title": "LEFT TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0x3015", 
+                "title": "RIGHT TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0x3016", 
+                "title": "LEFT WHITE LENTICULAR BRACKET"
+            }, 
+            {
+                "charcode": "0x3017", 
+                "title": "RIGHT WHITE LENTICULAR BRACKET"
+            }, 
+            {
+                "charcode": "0x3018", 
+                "title": "LEFT WHITE TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0x3019", 
+                "title": "RIGHT WHITE TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0x301a", 
+                "title": "LEFT WHITE SQUARE BRACKET"
+            }, 
+            {
+                "charcode": "0x301b", 
+                "title": "RIGHT WHITE SQUARE BRACKET"
+            }, 
+            {
+                "charcode": "0x301c", 
+                "title": "WAVE DASH"
+            }, 
+            {
+                "charcode": "0x301d", 
+                "title": "REVERSED DOUBLE PRIME QUOTATION MARK"
+            }, 
+            {
+                "charcode": "0x301e", 
+                "title": "DOUBLE PRIME QUOTATION MARK"
+            }, 
+            {
+                "charcode": "0x301f", 
+                "title": "LOW DOUBLE PRIME QUOTATION MARK"
+            }, 
+            {
+                "charcode": "0x3020", 
+                "title": "POSTAL MARK FACE"
+            }, 
+            {
+                "charcode": "0x3021", 
+                "title": "HANGZHOU NUMERAL ONE"
+            }, 
+            {
+                "charcode": "0x3022", 
+                "title": "HANGZHOU NUMERAL TWO"
+            }, 
+            {
+                "charcode": "0x3023", 
+                "title": "HANGZHOU NUMERAL THREE"
+            }, 
+            {
+                "charcode": "0x3024", 
+                "title": "HANGZHOU NUMERAL FOUR"
+            }, 
+            {
+                "charcode": "0x3025", 
+                "title": "HANGZHOU NUMERAL FIVE"
+            }, 
+            {
+                "charcode": "0x3026", 
+                "title": "HANGZHOU NUMERAL SIX"
+            }, 
+            {
+                "charcode": "0x3027", 
+                "title": "HANGZHOU NUMERAL SEVEN"
+            }, 
+            {
+                "charcode": "0x3028", 
+                "title": "HANGZHOU NUMERAL EIGHT"
+            }, 
+            {
+                "charcode": "0x3029", 
+                "title": "HANGZHOU NUMERAL NINE"
+            }, 
+            {
+                "charcode": "0x302a", 
+                "title": "IDEOGRAPHIC LEVEL TONE MARK"
+            }, 
+            {
+                "charcode": "0x302b", 
+                "title": "IDEOGRAPHIC RISING TONE MARK"
+            }, 
+            {
+                "charcode": "0x302c", 
+                "title": "IDEOGRAPHIC DEPARTING TONE MARK"
+            }, 
+            {
+                "charcode": "0x302d", 
+                "title": "IDEOGRAPHIC ENTERING TONE MARK"
+            }, 
+            {
+                "charcode": "0x302e", 
+                "title": "HANGUL SINGLE DOT TONE MARK"
+            }, 
+            {
+                "charcode": "0x302f", 
+                "title": "HANGUL DOUBLE DOT TONE MARK"
+            }, 
+            {
+                "charcode": "0x3030", 
+                "title": "WAVY DASH"
+            }, 
+            {
+                "charcode": "0x3031", 
+                "title": "VERTICAL KANA REPEAT MARK"
+            }, 
+            {
+                "charcode": "0x3032", 
+                "title": "VERTICAL KANA REPEAT WITH VOICED SOUND MARK"
+            }, 
+            {
+                "charcode": "0x3033", 
+                "title": "VERTICAL KANA REPEAT MARK UPPER HALF"
+            }, 
+            {
+                "charcode": "0x3034", 
+                "title": "VERTICAL KANA REPEAT WITH VOICED SOUND MARK UPPER HALF"
+            }, 
+            {
+                "charcode": "0x3035", 
+                "title": "VERTICAL KANA REPEAT MARK LOWER HALF"
+            }, 
+            {
+                "charcode": "0x3036", 
+                "title": "CIRCLED POSTAL MARK"
+            }, 
+            {
+                "charcode": "0x3037", 
+                "title": "IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL"
+            }, 
+            {
+                "charcode": "0x3038", 
+                "title": "HANGZHOU NUMERAL TEN"
+            }, 
+            {
+                "charcode": "0x3039", 
+                "title": "HANGZHOU NUMERAL TWENTY"
+            }, 
+            {
+                "charcode": "0x303a", 
+                "title": "HANGZHOU NUMERAL THIRTY"
+            }, 
+            {
+                "charcode": "0x303b", 
+                "title": "VERTICAL IDEOGRAPHIC ITERATION MARK"
+            }, 
+            {
+                "charcode": "0x303c", 
+                "title": "MASU MARK"
+            }, 
+            {
+                "charcode": "0x303d", 
+                "title": "PART ALTERNATION MARK"
+            }, 
+            {
+                "charcode": "0x303e", 
+                "title": "IDEOGRAPHIC VARIATION INDICATOR"
+            }
+        ], 
+        "name": "CJK Symbols and Punctuation"
+    }
+]

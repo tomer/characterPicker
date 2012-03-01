@@ -1,0 +1,243 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1f0a0", 
+                "title": "PLAYING CARD BACK"
+            }, 
+            {
+                "charcode": "0x1f0a1", 
+                "title": "PLAYING CARD ACE OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0a2", 
+                "title": "PLAYING CARD TWO OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0a3", 
+                "title": "PLAYING CARD THREE OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0a4", 
+                "title": "PLAYING CARD FOUR OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0a5", 
+                "title": "PLAYING CARD FIVE OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0a6", 
+                "title": "PLAYING CARD SIX OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0a7", 
+                "title": "PLAYING CARD SEVEN OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0a8", 
+                "title": "PLAYING CARD EIGHT OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0a9", 
+                "title": "PLAYING CARD NINE OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0aa", 
+                "title": "PLAYING CARD TEN OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0ab", 
+                "title": "PLAYING CARD JACK OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0ac", 
+                "title": "PLAYING CARD KNIGHT OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0ad", 
+                "title": "PLAYING CARD QUEEN OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0ae", 
+                "title": "PLAYING CARD KING OF SPADES"
+            }, 
+            {
+                "charcode": "0x1f0b1", 
+                "title": "PLAYING CARD ACE OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0b2", 
+                "title": "PLAYING CARD TWO OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0b3", 
+                "title": "PLAYING CARD THREE OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0b4", 
+                "title": "PLAYING CARD FOUR OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0b5", 
+                "title": "PLAYING CARD FIVE OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0b6", 
+                "title": "PLAYING CARD SIX OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0b7", 
+                "title": "PLAYING CARD SEVEN OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0b8", 
+                "title": "PLAYING CARD EIGHT OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0b9", 
+                "title": "PLAYING CARD NINE OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0ba", 
+                "title": "PLAYING CARD TEN OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0bb", 
+                "title": "PLAYING CARD JACK OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0bc", 
+                "title": "PLAYING CARD KNIGHT OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0bd", 
+                "title": "PLAYING CARD QUEEN OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0be", 
+                "title": "PLAYING CARD KING OF HEARTS"
+            }, 
+            {
+                "charcode": "0x1f0c1", 
+                "title": "PLAYING CARD ACE OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0c2", 
+                "title": "PLAYING CARD TWO OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0c3", 
+                "title": "PLAYING CARD THREE OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0c4", 
+                "title": "PLAYING CARD FOUR OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0c5", 
+                "title": "PLAYING CARD FIVE OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0c6", 
+                "title": "PLAYING CARD SIX OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0c7", 
+                "title": "PLAYING CARD SEVEN OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0c8", 
+                "title": "PLAYING CARD EIGHT OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0c9", 
+                "title": "PLAYING CARD NINE OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0ca", 
+                "title": "PLAYING CARD TEN OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0cb", 
+                "title": "PLAYING CARD JACK OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0cc", 
+                "title": "PLAYING CARD KNIGHT OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0cd", 
+                "title": "PLAYING CARD QUEEN OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0ce", 
+                "title": "PLAYING CARD KING OF DIAMONDS"
+            }, 
+            {
+                "charcode": "0x1f0cf", 
+                "title": "PLAYING CARD BLACK JOKER"
+            }, 
+            {
+                "charcode": "0x1f0d1", 
+                "title": "PLAYING CARD ACE OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0d2", 
+                "title": "PLAYING CARD TWO OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0d3", 
+                "title": "PLAYING CARD THREE OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0d4", 
+                "title": "PLAYING CARD FOUR OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0d5", 
+                "title": "PLAYING CARD FIVE OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0d6", 
+                "title": "PLAYING CARD SIX OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0d7", 
+                "title": "PLAYING CARD SEVEN OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0d8", 
+                "title": "PLAYING CARD EIGHT OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0d9", 
+                "title": "PLAYING CARD NINE OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0da", 
+                "title": "PLAYING CARD TEN OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0db", 
+                "title": "PLAYING CARD JACK OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0dc", 
+                "title": "PLAYING CARD KNIGHT OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0dd", 
+                "title": "PLAYING CARD QUEEN OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0de", 
+                "title": "PLAYING CARD KING OF CLUBS"
+            }, 
+            {
+                "charcode": "0x1f0df", 
+                "title": "PLAYING CARD WHITE JOKER"
+            }
+        ], 
+        "name": "Playing Cards"
+    }
+]

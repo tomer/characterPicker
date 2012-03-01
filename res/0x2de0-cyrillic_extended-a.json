@@ -1,0 +1,131 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2de0", 
+                "title": "COMBINING CYRILLIC LETTER BE"
+            }, 
+            {
+                "charcode": "0x2de1", 
+                "title": "COMBINING CYRILLIC LETTER VE"
+            }, 
+            {
+                "charcode": "0x2de2", 
+                "title": "COMBINING CYRILLIC LETTER GHE"
+            }, 
+            {
+                "charcode": "0x2de3", 
+                "title": "COMBINING CYRILLIC LETTER DE"
+            }, 
+            {
+                "charcode": "0x2de4", 
+                "title": "COMBINING CYRILLIC LETTER ZHE"
+            }, 
+            {
+                "charcode": "0x2de5", 
+                "title": "COMBINING CYRILLIC LETTER ZE"
+            }, 
+            {
+                "charcode": "0x2de6", 
+                "title": "COMBINING CYRILLIC LETTER KA"
+            }, 
+            {
+                "charcode": "0x2de7", 
+                "title": "COMBINING CYRILLIC LETTER EL"
+            }, 
+            {
+                "charcode": "0x2de8", 
+                "title": "COMBINING CYRILLIC LETTER EM"
+            }, 
+            {
+                "charcode": "0x2de9", 
+                "title": "COMBINING CYRILLIC LETTER EN"
+            }, 
+            {
+                "charcode": "0x2dea", 
+                "title": "COMBINING CYRILLIC LETTER O"
+            }, 
+            {
+                "charcode": "0x2deb", 
+                "title": "COMBINING CYRILLIC LETTER PE"
+            }, 
+            {
+                "charcode": "0x2dec", 
+                "title": "COMBINING CYRILLIC LETTER ER"
+            }, 
+            {
+                "charcode": "0x2ded", 
+                "title": "COMBINING CYRILLIC LETTER ES"
+            }, 
+            {
+                "charcode": "0x2dee", 
+                "title": "COMBINING CYRILLIC LETTER TE"
+            }, 
+            {
+                "charcode": "0x2def", 
+                "title": "COMBINING CYRILLIC LETTER HA"
+            }, 
+            {
+                "charcode": "0x2df0", 
+                "title": "COMBINING CYRILLIC LETTER TSE"
+            }, 
+            {
+                "charcode": "0x2df1", 
+                "title": "COMBINING CYRILLIC LETTER CHE"
+            }, 
+            {
+                "charcode": "0x2df2", 
+                "title": "COMBINING CYRILLIC LETTER SHA"
+            }, 
+            {
+                "charcode": "0x2df3", 
+                "title": "COMBINING CYRILLIC LETTER SHCHA"
+            }, 
+            {
+                "charcode": "0x2df4", 
+                "title": "COMBINING CYRILLIC LETTER FITA"
+            }, 
+            {
+                "charcode": "0x2df5", 
+                "title": "COMBINING CYRILLIC LETTER ES-TE"
+            }, 
+            {
+                "charcode": "0x2df6", 
+                "title": "COMBINING CYRILLIC LETTER A"
+            }, 
+            {
+                "charcode": "0x2df7", 
+                "title": "COMBINING CYRILLIC LETTER IE"
+            }, 
+            {
+                "charcode": "0x2df8", 
+                "title": "COMBINING CYRILLIC LETTER DJERV"
+            }, 
+            {
+                "charcode": "0x2df9", 
+                "title": "COMBINING CYRILLIC LETTER MONOGRAPH UK"
+            }, 
+            {
+                "charcode": "0x2dfa", 
+                "title": "COMBINING CYRILLIC LETTER YAT"
+            }, 
+            {
+                "charcode": "0x2dfb", 
+                "title": "COMBINING CYRILLIC LETTER YU"
+            }, 
+            {
+                "charcode": "0x2dfc", 
+                "title": "COMBINING CYRILLIC LETTER IOTIFIED A"
+            }, 
+            {
+                "charcode": "0x2dfd", 
+                "title": "COMBINING CYRILLIC LETTER LITTLE YUS"
+            }, 
+            {
+                "charcode": "0x2dfe", 
+                "title": "COMBINING CYRILLIC LETTER BIG YUS"
+            }
+        ], 
+        "name": "Cyrillic Extended-A"
+    }
+]

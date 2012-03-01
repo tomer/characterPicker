@@ -1,0 +1,127 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x10840", 
+                "title": "IMPERIAL ARAMAIC LETTER ALEPH"
+            }, 
+            {
+                "charcode": "0x10841", 
+                "title": "IMPERIAL ARAMAIC LETTER BETH"
+            }, 
+            {
+                "charcode": "0x10842", 
+                "title": "IMPERIAL ARAMAIC LETTER GIMEL"
+            }, 
+            {
+                "charcode": "0x10843", 
+                "title": "IMPERIAL ARAMAIC LETTER DALETH"
+            }, 
+            {
+                "charcode": "0x10844", 
+                "title": "IMPERIAL ARAMAIC LETTER HE"
+            }, 
+            {
+                "charcode": "0x10845", 
+                "title": "IMPERIAL ARAMAIC LETTER WAW"
+            }, 
+            {
+                "charcode": "0x10846", 
+                "title": "IMPERIAL ARAMAIC LETTER ZAYIN"
+            }, 
+            {
+                "charcode": "0x10847", 
+                "title": "IMPERIAL ARAMAIC LETTER HETH"
+            }, 
+            {
+                "charcode": "0x10848", 
+                "title": "IMPERIAL ARAMAIC LETTER TETH"
+            }, 
+            {
+                "charcode": "0x10849", 
+                "title": "IMPERIAL ARAMAIC LETTER YODH"
+            }, 
+            {
+                "charcode": "0x1084a", 
+                "title": "IMPERIAL ARAMAIC LETTER KAPH"
+            }, 
+            {
+                "charcode": "0x1084b", 
+                "title": "IMPERIAL ARAMAIC LETTER LAMEDH"
+            }, 
+            {
+                "charcode": "0x1084c", 
+                "title": "IMPERIAL ARAMAIC LETTER MEM"
+            }, 
+            {
+                "charcode": "0x1084d", 
+                "title": "IMPERIAL ARAMAIC LETTER NUN"
+            }, 
+            {
+                "charcode": "0x1084e", 
+                "title": "IMPERIAL ARAMAIC LETTER SAMEKH"
+            }, 
+            {
+                "charcode": "0x1084f", 
+                "title": "IMPERIAL ARAMAIC LETTER AYIN"
+            }, 
+            {
+                "charcode": "0x10850", 
+                "title": "IMPERIAL ARAMAIC LETTER PE"
+            }, 
+            {
+                "charcode": "0x10851", 
+                "title": "IMPERIAL ARAMAIC LETTER SADHE"
+            }, 
+            {
+                "charcode": "0x10852", 
+                "title": "IMPERIAL ARAMAIC LETTER QOPH"
+            }, 
+            {
+                "charcode": "0x10853", 
+                "title": "IMPERIAL ARAMAIC LETTER RESH"
+            }, 
+            {
+                "charcode": "0x10854", 
+                "title": "IMPERIAL ARAMAIC LETTER SHIN"
+            }, 
+            {
+                "charcode": "0x10855", 
+                "title": "IMPERIAL ARAMAIC LETTER TAW"
+            }, 
+            {
+                "charcode": "0x10857", 
+                "title": "IMPERIAL ARAMAIC SECTION SIGN"
+            }, 
+            {
+                "charcode": "0x10858", 
+                "title": "IMPERIAL ARAMAIC NUMBER ONE"
+            }, 
+            {
+                "charcode": "0x10859", 
+                "title": "IMPERIAL ARAMAIC NUMBER TWO"
+            }, 
+            {
+                "charcode": "0x1085a", 
+                "title": "IMPERIAL ARAMAIC NUMBER THREE"
+            }, 
+            {
+                "charcode": "0x1085b", 
+                "title": "IMPERIAL ARAMAIC NUMBER TEN"
+            }, 
+            {
+                "charcode": "0x1085c", 
+                "title": "IMPERIAL ARAMAIC NUMBER TWENTY"
+            }, 
+            {
+                "charcode": "0x1085d", 
+                "title": "IMPERIAL ARAMAIC NUMBER ONE HUNDRED"
+            }, 
+            {
+                "charcode": "0x1085e", 
+                "title": "IMPERIAL ARAMAIC NUMBER ONE THOUSAND"
+            }
+        ], 
+        "name": "Imperial Aramaic"
+    }
+]

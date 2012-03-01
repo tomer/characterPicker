@@ -1,0 +1,111 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x20a0", 
+                "title": "EURO-CURRENCY SIGN"
+            }, 
+            {
+                "charcode": "0x20a1", 
+                "title": "COLON SIGN"
+            }, 
+            {
+                "charcode": "0x20a2", 
+                "title": "CRUZEIRO SIGN"
+            }, 
+            {
+                "charcode": "0x20a3", 
+                "title": "FRENCH FRANC SIGN"
+            }, 
+            {
+                "charcode": "0x20a4", 
+                "title": "LIRA SIGN"
+            }, 
+            {
+                "charcode": "0x20a5", 
+                "title": "MILL SIGN"
+            }, 
+            {
+                "charcode": "0x20a6", 
+                "title": "NAIRA SIGN"
+            }, 
+            {
+                "charcode": "0x20a7", 
+                "title": "PESETA SIGN"
+            }, 
+            {
+                "charcode": "0x20a8", 
+                "title": "RUPEE SIGN"
+            }, 
+            {
+                "charcode": "0x20a9", 
+                "title": "WON SIGN"
+            }, 
+            {
+                "charcode": "0x20aa", 
+                "title": "NEW SHEQEL SIGN"
+            }, 
+            {
+                "charcode": "0x20ab", 
+                "title": "DONG SIGN"
+            }, 
+            {
+                "charcode": "0x20ac", 
+                "title": "EURO SIGN"
+            }, 
+            {
+                "charcode": "0x20ad", 
+                "title": "KIP SIGN"
+            }, 
+            {
+                "charcode": "0x20ae", 
+                "title": "TUGRIK SIGN"
+            }, 
+            {
+                "charcode": "0x20af", 
+                "title": "DRACHMA SIGN"
+            }, 
+            {
+                "charcode": "0x20b0", 
+                "title": "GERMAN PENNY SIGN"
+            }, 
+            {
+                "charcode": "0x20b1", 
+                "title": "PESO SIGN"
+            }, 
+            {
+                "charcode": "0x20b2", 
+                "title": "GUARANI SIGN"
+            }, 
+            {
+                "charcode": "0x20b3", 
+                "title": "AUSTRAL SIGN"
+            }, 
+            {
+                "charcode": "0x20b4", 
+                "title": "HRYVNIA SIGN"
+            }, 
+            {
+                "charcode": "0x20b5", 
+                "title": "CEDI SIGN"
+            }, 
+            {
+                "charcode": "0x20b6", 
+                "title": "LIVRE TOURNOIS SIGN"
+            }, 
+            {
+                "charcode": "0x20b7", 
+                "title": "SPESMILO SIGN"
+            }, 
+            {
+                "charcode": "0x20b8", 
+                "title": "TENGE SIGN"
+            }, 
+            {
+                "charcode": "0x20b9", 
+                "title": "INDIAN RUPEE SIGN"
+            }
+        ], 
+        "name": "Currency Symbols"
+    }
+]

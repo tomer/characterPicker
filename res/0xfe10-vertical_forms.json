@@ -1,0 +1,47 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xfe10", 
+                "title": "PRESENTATION FORM FOR VERTICAL COMMA"
+            }, 
+            {
+                "charcode": "0xfe11", 
+                "title": "PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC COMMA"
+            }, 
+            {
+                "charcode": "0xfe12", 
+                "title": "PRESENTATION FORM FOR VERTICAL IDEOGRAPHIC FULL STOP"
+            }, 
+            {
+                "charcode": "0xfe13", 
+                "title": "PRESENTATION FORM FOR VERTICAL COLON"
+            }, 
+            {
+                "charcode": "0xfe14", 
+                "title": "PRESENTATION FORM FOR VERTICAL SEMICOLON"
+            }, 
+            {
+                "charcode": "0xfe15", 
+                "title": "PRESENTATION FORM FOR VERTICAL EXCLAMATION MARK"
+            }, 
+            {
+                "charcode": "0xfe16", 
+                "title": "PRESENTATION FORM FOR VERTICAL QUESTION MARK"
+            }, 
+            {
+                "charcode": "0xfe17", 
+                "title": "PRESENTATION FORM FOR VERTICAL LEFT WHITE LENTICULAR BRACKET"
+            }, 
+            {
+                "charcode": "0xfe18", 
+                "title": "PRESENTATION FORM FOR VERTICAL RIGHT WHITE LENTICULAR BRAKCET"
+            }, 
+            {
+                "charcode": "0xfe19", 
+                "title": "PRESENTATION FORM FOR VERTICAL HORIZONTAL ELLIPSIS"
+            }
+        ], 
+        "name": "Vertical Forms"
+    }
+]

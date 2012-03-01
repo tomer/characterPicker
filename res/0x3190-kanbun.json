@@ -1,0 +1,67 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x3190", 
+                "title": "IDEOGRAPHIC ANNOTATION LINKING MARK"
+            }, 
+            {
+                "charcode": "0x3191", 
+                "title": "IDEOGRAPHIC ANNOTATION REVERSE MARK"
+            }, 
+            {
+                "charcode": "0x3192", 
+                "title": "IDEOGRAPHIC ANNOTATION ONE MARK"
+            }, 
+            {
+                "charcode": "0x3193", 
+                "title": "IDEOGRAPHIC ANNOTATION TWO MARK"
+            }, 
+            {
+                "charcode": "0x3194", 
+                "title": "IDEOGRAPHIC ANNOTATION THREE MARK"
+            }, 
+            {
+                "charcode": "0x3195", 
+                "title": "IDEOGRAPHIC ANNOTATION FOUR MARK"
+            }, 
+            {
+                "charcode": "0x3196", 
+                "title": "IDEOGRAPHIC ANNOTATION TOP MARK"
+            }, 
+            {
+                "charcode": "0x3197", 
+                "title": "IDEOGRAPHIC ANNOTATION MIDDLE MARK"
+            }, 
+            {
+                "charcode": "0x3198", 
+                "title": "IDEOGRAPHIC ANNOTATION BOTTOM MARK"
+            }, 
+            {
+                "charcode": "0x3199", 
+                "title": "IDEOGRAPHIC ANNOTATION FIRST MARK"
+            }, 
+            {
+                "charcode": "0x319a", 
+                "title": "IDEOGRAPHIC ANNOTATION SECOND MARK"
+            }, 
+            {
+                "charcode": "0x319b", 
+                "title": "IDEOGRAPHIC ANNOTATION THIRD MARK"
+            }, 
+            {
+                "charcode": "0x319c", 
+                "title": "IDEOGRAPHIC ANNOTATION FOURTH MARK"
+            }, 
+            {
+                "charcode": "0x319d", 
+                "title": "IDEOGRAPHIC ANNOTATION HEAVEN MARK"
+            }, 
+            {
+                "charcode": "0x319e", 
+                "title": "IDEOGRAPHIC ANNOTATION EARTH MARK"
+            }
+        ], 
+        "name": "Kanbun"
+    }
+]

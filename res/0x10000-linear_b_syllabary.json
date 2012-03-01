@@ -1,0 +1,359 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x10000", 
+                "title": "LINEAR B SYLLABLE B008 A"
+            }, 
+            {
+                "charcode": "0x10001", 
+                "title": "LINEAR B SYLLABLE B038 E"
+            }, 
+            {
+                "charcode": "0x10002", 
+                "title": "LINEAR B SYLLABLE B028 I"
+            }, 
+            {
+                "charcode": "0x10003", 
+                "title": "LINEAR B SYLLABLE B061 O"
+            }, 
+            {
+                "charcode": "0x10004", 
+                "title": "LINEAR B SYLLABLE B010 U"
+            }, 
+            {
+                "charcode": "0x10005", 
+                "title": "LINEAR B SYLLABLE B001 DA"
+            }, 
+            {
+                "charcode": "0x10006", 
+                "title": "LINEAR B SYLLABLE B045 DE"
+            }, 
+            {
+                "charcode": "0x10007", 
+                "title": "LINEAR B SYLLABLE B007 DI"
+            }, 
+            {
+                "charcode": "0x10008", 
+                "title": "LINEAR B SYLLABLE B014 DO"
+            }, 
+            {
+                "charcode": "0x10009", 
+                "title": "LINEAR B SYLLABLE B051 DU"
+            }, 
+            {
+                "charcode": "0x1000a", 
+                "title": "LINEAR B SYLLABLE B057 JA"
+            }, 
+            {
+                "charcode": "0x1000b", 
+                "title": "LINEAR B SYLLABLE B046 JE"
+            }, 
+            {
+                "charcode": "0x1000d", 
+                "title": "LINEAR B SYLLABLE B036 JO"
+            }, 
+            {
+                "charcode": "0x1000e", 
+                "title": "LINEAR B SYLLABLE B065 JU"
+            }, 
+            {
+                "charcode": "0x1000f", 
+                "title": "LINEAR B SYLLABLE B077 KA"
+            }, 
+            {
+                "charcode": "0x10010", 
+                "title": "LINEAR B SYLLABLE B044 KE"
+            }, 
+            {
+                "charcode": "0x10011", 
+                "title": "LINEAR B SYLLABLE B067 KI"
+            }, 
+            {
+                "charcode": "0x10012", 
+                "title": "LINEAR B SYLLABLE B070 KO"
+            }, 
+            {
+                "charcode": "0x10013", 
+                "title": "LINEAR B SYLLABLE B081 KU"
+            }, 
+            {
+                "charcode": "0x10014", 
+                "title": "LINEAR B SYLLABLE B080 MA"
+            }, 
+            {
+                "charcode": "0x10015", 
+                "title": "LINEAR B SYLLABLE B013 ME"
+            }, 
+            {
+                "charcode": "0x10016", 
+                "title": "LINEAR B SYLLABLE B073 MI"
+            }, 
+            {
+                "charcode": "0x10017", 
+                "title": "LINEAR B SYLLABLE B015 MO"
+            }, 
+            {
+                "charcode": "0x10018", 
+                "title": "LINEAR B SYLLABLE B023 MU"
+            }, 
+            {
+                "charcode": "0x10019", 
+                "title": "LINEAR B SYLLABLE B006 NA"
+            }, 
+            {
+                "charcode": "0x1001a", 
+                "title": "LINEAR B SYLLABLE B024 NE"
+            }, 
+            {
+                "charcode": "0x1001b", 
+                "title": "LINEAR B SYLLABLE B030 NI"
+            }, 
+            {
+                "charcode": "0x1001c", 
+                "title": "LINEAR B SYLLABLE B052 NO"
+            }, 
+            {
+                "charcode": "0x1001d", 
+                "title": "LINEAR B SYLLABLE B055 NU"
+            }, 
+            {
+                "charcode": "0x1001e", 
+                "title": "LINEAR B SYLLABLE B003 PA"
+            }, 
+            {
+                "charcode": "0x1001f", 
+                "title": "LINEAR B SYLLABLE B072 PE"
+            }, 
+            {
+                "charcode": "0x10020", 
+                "title": "LINEAR B SYLLABLE B039 PI"
+            }, 
+            {
+                "charcode": "0x10021", 
+                "title": "LINEAR B SYLLABLE B011 PO"
+            }, 
+            {
+                "charcode": "0x10022", 
+                "title": "LINEAR B SYLLABLE B050 PU"
+            }, 
+            {
+                "charcode": "0x10023", 
+                "title": "LINEAR B SYLLABLE B016 QA"
+            }, 
+            {
+                "charcode": "0x10024", 
+                "title": "LINEAR B SYLLABLE B078 QE"
+            }, 
+            {
+                "charcode": "0x10025", 
+                "title": "LINEAR B SYLLABLE B021 QI"
+            }, 
+            {
+                "charcode": "0x10026", 
+                "title": "LINEAR B SYLLABLE B032 QO"
+            }, 
+            {
+                "charcode": "0x10028", 
+                "title": "LINEAR B SYLLABLE B060 RA"
+            }, 
+            {
+                "charcode": "0x10029", 
+                "title": "LINEAR B SYLLABLE B027 RE"
+            }, 
+            {
+                "charcode": "0x1002a", 
+                "title": "LINEAR B SYLLABLE B053 RI"
+            }, 
+            {
+                "charcode": "0x1002b", 
+                "title": "LINEAR B SYLLABLE B002 RO"
+            }, 
+            {
+                "charcode": "0x1002c", 
+                "title": "LINEAR B SYLLABLE B026 RU"
+            }, 
+            {
+                "charcode": "0x1002d", 
+                "title": "LINEAR B SYLLABLE B031 SA"
+            }, 
+            {
+                "charcode": "0x1002e", 
+                "title": "LINEAR B SYLLABLE B009 SE"
+            }, 
+            {
+                "charcode": "0x1002f", 
+                "title": "LINEAR B SYLLABLE B041 SI"
+            }, 
+            {
+                "charcode": "0x10030", 
+                "title": "LINEAR B SYLLABLE B012 SO"
+            }, 
+            {
+                "charcode": "0x10031", 
+                "title": "LINEAR B SYLLABLE B058 SU"
+            }, 
+            {
+                "charcode": "0x10032", 
+                "title": "LINEAR B SYLLABLE B059 TA"
+            }, 
+            {
+                "charcode": "0x10033", 
+                "title": "LINEAR B SYLLABLE B004 TE"
+            }, 
+            {
+                "charcode": "0x10034", 
+                "title": "LINEAR B SYLLABLE B037 TI"
+            }, 
+            {
+                "charcode": "0x10035", 
+                "title": "LINEAR B SYLLABLE B005 TO"
+            }, 
+            {
+                "charcode": "0x10036", 
+                "title": "LINEAR B SYLLABLE B069 TU"
+            }, 
+            {
+                "charcode": "0x10037", 
+                "title": "LINEAR B SYLLABLE B054 WA"
+            }, 
+            {
+                "charcode": "0x10038", 
+                "title": "LINEAR B SYLLABLE B075 WE"
+            }, 
+            {
+                "charcode": "0x10039", 
+                "title": "LINEAR B SYLLABLE B040 WI"
+            }, 
+            {
+                "charcode": "0x1003a", 
+                "title": "LINEAR B SYLLABLE B042 WO"
+            }, 
+            {
+                "charcode": "0x1003c", 
+                "title": "LINEAR B SYLLABLE B017 ZA"
+            }, 
+            {
+                "charcode": "0x1003d", 
+                "title": "LINEAR B SYLLABLE B074 ZE"
+            }, 
+            {
+                "charcode": "0x1003f", 
+                "title": "LINEAR B SYLLABLE B020 ZO"
+            }, 
+            {
+                "charcode": "0x10040", 
+                "title": "LINEAR B SYLLABLE B025 A2"
+            }, 
+            {
+                "charcode": "0x10041", 
+                "title": "LINEAR B SYLLABLE B043 A3"
+            }, 
+            {
+                "charcode": "0x10042", 
+                "title": "LINEAR B SYLLABLE B085 AU"
+            }, 
+            {
+                "charcode": "0x10043", 
+                "title": "LINEAR B SYLLABLE B071 DWE"
+            }, 
+            {
+                "charcode": "0x10044", 
+                "title": "LINEAR B SYLLABLE B090 DWO"
+            }, 
+            {
+                "charcode": "0x10045", 
+                "title": "LINEAR B SYLLABLE B048 NWA"
+            }, 
+            {
+                "charcode": "0x10046", 
+                "title": "LINEAR B SYLLABLE B029 PU2"
+            }, 
+            {
+                "charcode": "0x10047", 
+                "title": "LINEAR B SYLLABLE B062 PTE"
+            }, 
+            {
+                "charcode": "0x10048", 
+                "title": "LINEAR B SYLLABLE B076 RA2"
+            }, 
+            {
+                "charcode": "0x10049", 
+                "title": "LINEAR B SYLLABLE B033 RA3"
+            }, 
+            {
+                "charcode": "0x1004a", 
+                "title": "LINEAR B SYLLABLE B068 RO2"
+            }, 
+            {
+                "charcode": "0x1004b", 
+                "title": "LINEAR B SYLLABLE B066 TA2"
+            }, 
+            {
+                "charcode": "0x1004c", 
+                "title": "LINEAR B SYLLABLE B087 TWE"
+            }, 
+            {
+                "charcode": "0x1004d", 
+                "title": "LINEAR B SYLLABLE B091 TWO"
+            }, 
+            {
+                "charcode": "0x10050", 
+                "title": "LINEAR B SYMBOL B018"
+            }, 
+            {
+                "charcode": "0x10051", 
+                "title": "LINEAR B SYMBOL B019"
+            }, 
+            {
+                "charcode": "0x10052", 
+                "title": "LINEAR B SYMBOL B022"
+            }, 
+            {
+                "charcode": "0x10053", 
+                "title": "LINEAR B SYMBOL B034"
+            }, 
+            {
+                "charcode": "0x10054", 
+                "title": "LINEAR B SYMBOL B047"
+            }, 
+            {
+                "charcode": "0x10055", 
+                "title": "LINEAR B SYMBOL B049"
+            }, 
+            {
+                "charcode": "0x10056", 
+                "title": "LINEAR B SYMBOL B056"
+            }, 
+            {
+                "charcode": "0x10057", 
+                "title": "LINEAR B SYMBOL B063"
+            }, 
+            {
+                "charcode": "0x10058", 
+                "title": "LINEAR B SYMBOL B064"
+            }, 
+            {
+                "charcode": "0x10059", 
+                "title": "LINEAR B SYMBOL B079"
+            }, 
+            {
+                "charcode": "0x1005a", 
+                "title": "LINEAR B SYMBOL B082"
+            }, 
+            {
+                "charcode": "0x1005b", 
+                "title": "LINEAR B SYMBOL B083"
+            }, 
+            {
+                "charcode": "0x1005c", 
+                "title": "LINEAR B SYMBOL B086"
+            }, 
+            {
+                "charcode": "0x1005d", 
+                "title": "LINEAR B SYMBOL B089"
+            }
+        ], 
+        "name": "Linear B Syllabary"
+    }
+]

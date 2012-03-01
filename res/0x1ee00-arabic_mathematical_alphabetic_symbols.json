@@ -1,0 +1,579 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1ee00", 
+                "title": "ARABIC MATHEMATICAL ALEF"
+            }, 
+            {
+                "charcode": "0x1ee01", 
+                "title": "ARABIC MATHEMATICAL BEH"
+            }, 
+            {
+                "charcode": "0x1ee02", 
+                "title": "ARABIC MATHEMATICAL JEEM"
+            }, 
+            {
+                "charcode": "0x1ee03", 
+                "title": "ARABIC MATHEMATICAL DAL"
+            }, 
+            {
+                "charcode": "0x1ee05", 
+                "title": "ARABIC MATHEMATICAL WAW"
+            }, 
+            {
+                "charcode": "0x1ee06", 
+                "title": "ARABIC MATHEMATICAL ZAIN"
+            }, 
+            {
+                "charcode": "0x1ee07", 
+                "title": "ARABIC MATHEMATICAL HAH"
+            }, 
+            {
+                "charcode": "0x1ee08", 
+                "title": "ARABIC MATHEMATICAL TAH"
+            }, 
+            {
+                "charcode": "0x1ee09", 
+                "title": "ARABIC MATHEMATICAL YEH"
+            }, 
+            {
+                "charcode": "0x1ee0a", 
+                "title": "ARABIC MATHEMATICAL KAF"
+            }, 
+            {
+                "charcode": "0x1ee0b", 
+                "title": "ARABIC MATHEMATICAL LAM"
+            }, 
+            {
+                "charcode": "0x1ee0c", 
+                "title": "ARABIC MATHEMATICAL MEEM"
+            }, 
+            {
+                "charcode": "0x1ee0d", 
+                "title": "ARABIC MATHEMATICAL NOON"
+            }, 
+            {
+                "charcode": "0x1ee0e", 
+                "title": "ARABIC MATHEMATICAL SEEN"
+            }, 
+            {
+                "charcode": "0x1ee0f", 
+                "title": "ARABIC MATHEMATICAL AIN"
+            }, 
+            {
+                "charcode": "0x1ee10", 
+                "title": "ARABIC MATHEMATICAL FEH"
+            }, 
+            {
+                "charcode": "0x1ee11", 
+                "title": "ARABIC MATHEMATICAL SAD"
+            }, 
+            {
+                "charcode": "0x1ee12", 
+                "title": "ARABIC MATHEMATICAL QAF"
+            }, 
+            {
+                "charcode": "0x1ee13", 
+                "title": "ARABIC MATHEMATICAL REH"
+            }, 
+            {
+                "charcode": "0x1ee14", 
+                "title": "ARABIC MATHEMATICAL SHEEN"
+            }, 
+            {
+                "charcode": "0x1ee15", 
+                "title": "ARABIC MATHEMATICAL TEH"
+            }, 
+            {
+                "charcode": "0x1ee16", 
+                "title": "ARABIC MATHEMATICAL THEH"
+            }, 
+            {
+                "charcode": "0x1ee17", 
+                "title": "ARABIC MATHEMATICAL KHAH"
+            }, 
+            {
+                "charcode": "0x1ee18", 
+                "title": "ARABIC MATHEMATICAL THAL"
+            }, 
+            {
+                "charcode": "0x1ee19", 
+                "title": "ARABIC MATHEMATICAL DAD"
+            }, 
+            {
+                "charcode": "0x1ee1a", 
+                "title": "ARABIC MATHEMATICAL ZAH"
+            }, 
+            {
+                "charcode": "0x1ee1b", 
+                "title": "ARABIC MATHEMATICAL GHAIN"
+            }, 
+            {
+                "charcode": "0x1ee1c", 
+                "title": "ARABIC MATHEMATICAL DOTLESS BEH"
+            }, 
+            {
+                "charcode": "0x1ee1d", 
+                "title": "ARABIC MATHEMATICAL DOTLESS NOON"
+            }, 
+            {
+                "charcode": "0x1ee1e", 
+                "title": "ARABIC MATHEMATICAL DOTLESS FEH"
+            }, 
+            {
+                "charcode": "0x1ee1f", 
+                "title": "ARABIC MATHEMATICAL DOTLESS QAF"
+            }, 
+            {
+                "charcode": "0x1ee21", 
+                "title": "ARABIC MATHEMATICAL INITIAL BEH"
+            }, 
+            {
+                "charcode": "0x1ee22", 
+                "title": "ARABIC MATHEMATICAL INITIAL JEEM"
+            }, 
+            {
+                "charcode": "0x1ee24", 
+                "title": "ARABIC MATHEMATICAL INITIAL HEH"
+            }, 
+            {
+                "charcode": "0x1ee27", 
+                "title": "ARABIC MATHEMATICAL INITIAL HAH"
+            }, 
+            {
+                "charcode": "0x1ee29", 
+                "title": "ARABIC MATHEMATICAL INITIAL YEH"
+            }, 
+            {
+                "charcode": "0x1ee2a", 
+                "title": "ARABIC MATHEMATICAL INITIAL KAF"
+            }, 
+            {
+                "charcode": "0x1ee2b", 
+                "title": "ARABIC MATHEMATICAL INITIAL LAM"
+            }, 
+            {
+                "charcode": "0x1ee2c", 
+                "title": "ARABIC MATHEMATICAL INITIAL MEEM"
+            }, 
+            {
+                "charcode": "0x1ee2d", 
+                "title": "ARABIC MATHEMATICAL INITIAL NOON"
+            }, 
+            {
+                "charcode": "0x1ee2e", 
+                "title": "ARABIC MATHEMATICAL INITIAL SEEN"
+            }, 
+            {
+                "charcode": "0x1ee2f", 
+                "title": "ARABIC MATHEMATICAL INITIAL AIN"
+            }, 
+            {
+                "charcode": "0x1ee30", 
+                "title": "ARABIC MATHEMATICAL INITIAL FEH"
+            }, 
+            {
+                "charcode": "0x1ee31", 
+                "title": "ARABIC MATHEMATICAL INITIAL SAD"
+            }, 
+            {
+                "charcode": "0x1ee32", 
+                "title": "ARABIC MATHEMATICAL INITIAL QAF"
+            }, 
+            {
+                "charcode": "0x1ee34", 
+                "title": "ARABIC MATHEMATICAL INITIAL SHEEN"
+            }, 
+            {
+                "charcode": "0x1ee35", 
+                "title": "ARABIC MATHEMATICAL INITIAL TEH"
+            }, 
+            {
+                "charcode": "0x1ee36", 
+                "title": "ARABIC MATHEMATICAL INITIAL THEH"
+            }, 
+            {
+                "charcode": "0x1ee37", 
+                "title": "ARABIC MATHEMATICAL INITIAL KHAH"
+            }, 
+            {
+                "charcode": "0x1ee39", 
+                "title": "ARABIC MATHEMATICAL INITIAL DAD"
+            }, 
+            {
+                "charcode": "0x1ee3b", 
+                "title": "ARABIC MATHEMATICAL INITIAL GHAIN"
+            }, 
+            {
+                "charcode": "0x1ee42", 
+                "title": "ARABIC MATHEMATICAL TAILED JEEM"
+            }, 
+            {
+                "charcode": "0x1ee47", 
+                "title": "ARABIC MATHEMATICAL TAILED HAH"
+            }, 
+            {
+                "charcode": "0x1ee49", 
+                "title": "ARABIC MATHEMATICAL TAILED YEH"
+            }, 
+            {
+                "charcode": "0x1ee4b", 
+                "title": "ARABIC MATHEMATICAL TAILED LAM"
+            }, 
+            {
+                "charcode": "0x1ee4d", 
+                "title": "ARABIC MATHEMATICAL TAILED NOON"
+            }, 
+            {
+                "charcode": "0x1ee4e", 
+                "title": "ARABIC MATHEMATICAL TAILED SEEN"
+            }, 
+            {
+                "charcode": "0x1ee4f", 
+                "title": "ARABIC MATHEMATICAL TAILED AIN"
+            }, 
+            {
+                "charcode": "0x1ee51", 
+                "title": "ARABIC MATHEMATICAL TAILED SAD"
+            }, 
+            {
+                "charcode": "0x1ee52", 
+                "title": "ARABIC MATHEMATICAL TAILED QAF"
+            }, 
+            {
+                "charcode": "0x1ee54", 
+                "title": "ARABIC MATHEMATICAL TAILED SHEEN"
+            }, 
+            {
+                "charcode": "0x1ee57", 
+                "title": "ARABIC MATHEMATICAL TAILED KHAH"
+            }, 
+            {
+                "charcode": "0x1ee59", 
+                "title": "ARABIC MATHEMATICAL TAILED DAD"
+            }, 
+            {
+                "charcode": "0x1ee5b", 
+                "title": "ARABIC MATHEMATICAL TAILED GHAIN"
+            }, 
+            {
+                "charcode": "0x1ee5d", 
+                "title": "ARABIC MATHEMATICAL TAILED DOTLESS NOON"
+            }, 
+            {
+                "charcode": "0x1ee5f", 
+                "title": "ARABIC MATHEMATICAL TAILED DOTLESS QAF"
+            }, 
+            {
+                "charcode": "0x1ee61", 
+                "title": "ARABIC MATHEMATICAL STRETCHED BEH"
+            }, 
+            {
+                "charcode": "0x1ee62", 
+                "title": "ARABIC MATHEMATICAL STRETCHED JEEM"
+            }, 
+            {
+                "charcode": "0x1ee64", 
+                "title": "ARABIC MATHEMATICAL STRETCHED HEH"
+            }, 
+            {
+                "charcode": "0x1ee67", 
+                "title": "ARABIC MATHEMATICAL STRETCHED HAH"
+            }, 
+            {
+                "charcode": "0x1ee68", 
+                "title": "ARABIC MATHEMATICAL STRETCHED TAH"
+            }, 
+            {
+                "charcode": "0x1ee69", 
+                "title": "ARABIC MATHEMATICAL STRETCHED YEH"
+            }, 
+            {
+                "charcode": "0x1ee6a", 
+                "title": "ARABIC MATHEMATICAL STRETCHED KAF"
+            }, 
+            {
+                "charcode": "0x1ee6c", 
+                "title": "ARABIC MATHEMATICAL STRETCHED MEEM"
+            }, 
+            {
+                "charcode": "0x1ee6d", 
+                "title": "ARABIC MATHEMATICAL STRETCHED NOON"
+            }, 
+            {
+                "charcode": "0x1ee6e", 
+                "title": "ARABIC MATHEMATICAL STRETCHED SEEN"
+            }, 
+            {
+                "charcode": "0x1ee6f", 
+                "title": "ARABIC MATHEMATICAL STRETCHED AIN"
+            }, 
+            {
+                "charcode": "0x1ee70", 
+                "title": "ARABIC MATHEMATICAL STRETCHED FEH"
+            }, 
+            {
+                "charcode": "0x1ee71", 
+                "title": "ARABIC MATHEMATICAL STRETCHED SAD"
+            }, 
+            {
+                "charcode": "0x1ee72", 
+                "title": "ARABIC MATHEMATICAL STRETCHED QAF"
+            }, 
+            {
+                "charcode": "0x1ee74", 
+                "title": "ARABIC MATHEMATICAL STRETCHED SHEEN"
+            }, 
+            {
+                "charcode": "0x1ee75", 
+                "title": "ARABIC MATHEMATICAL STRETCHED TEH"
+            }, 
+            {
+                "charcode": "0x1ee76", 
+                "title": "ARABIC MATHEMATICAL STRETCHED THEH"
+            }, 
+            {
+                "charcode": "0x1ee77", 
+                "title": "ARABIC MATHEMATICAL STRETCHED KHAH"
+            }, 
+            {
+                "charcode": "0x1ee79", 
+                "title": "ARABIC MATHEMATICAL STRETCHED DAD"
+            }, 
+            {
+                "charcode": "0x1ee7a", 
+                "title": "ARABIC MATHEMATICAL STRETCHED ZAH"
+            }, 
+            {
+                "charcode": "0x1ee7b", 
+                "title": "ARABIC MATHEMATICAL STRETCHED GHAIN"
+            }, 
+            {
+                "charcode": "0x1ee7c", 
+                "title": "ARABIC MATHEMATICAL STRETCHED DOTLESS BEH"
+            }, 
+            {
+                "charcode": "0x1ee7e", 
+                "title": "ARABIC MATHEMATICAL STRETCHED DOTLESS FEH"
+            }, 
+            {
+                "charcode": "0x1ee80", 
+                "title": "ARABIC MATHEMATICAL LOOPED ALEF"
+            }, 
+            {
+                "charcode": "0x1ee81", 
+                "title": "ARABIC MATHEMATICAL LOOPED BEH"
+            }, 
+            {
+                "charcode": "0x1ee82", 
+                "title": "ARABIC MATHEMATICAL LOOPED JEEM"
+            }, 
+            {
+                "charcode": "0x1ee83", 
+                "title": "ARABIC MATHEMATICAL LOOPED DAL"
+            }, 
+            {
+                "charcode": "0x1ee84", 
+                "title": "ARABIC MATHEMATICAL LOOPED HEH"
+            }, 
+            {
+                "charcode": "0x1ee85", 
+                "title": "ARABIC MATHEMATICAL LOOPED WAW"
+            }, 
+            {
+                "charcode": "0x1ee86", 
+                "title": "ARABIC MATHEMATICAL LOOPED ZAIN"
+            }, 
+            {
+                "charcode": "0x1ee87", 
+                "title": "ARABIC MATHEMATICAL LOOPED HAH"
+            }, 
+            {
+                "charcode": "0x1ee88", 
+                "title": "ARABIC MATHEMATICAL LOOPED TAH"
+            }, 
+            {
+                "charcode": "0x1ee89", 
+                "title": "ARABIC MATHEMATICAL LOOPED YEH"
+            }, 
+            {
+                "charcode": "0x1ee8b", 
+                "title": "ARABIC MATHEMATICAL LOOPED LAM"
+            }, 
+            {
+                "charcode": "0x1ee8c", 
+                "title": "ARABIC MATHEMATICAL LOOPED MEEM"
+            }, 
+            {
+                "charcode": "0x1ee8d", 
+                "title": "ARABIC MATHEMATICAL LOOPED NOON"
+            }, 
+            {
+                "charcode": "0x1ee8e", 
+                "title": "ARABIC MATHEMATICAL LOOPED SEEN"
+            }, 
+            {
+                "charcode": "0x1ee8f", 
+                "title": "ARABIC MATHEMATICAL LOOPED AIN"
+            }, 
+            {
+                "charcode": "0x1ee90", 
+                "title": "ARABIC MATHEMATICAL LOOPED FEH"
+            }, 
+            {
+                "charcode": "0x1ee91", 
+                "title": "ARABIC MATHEMATICAL LOOPED SAD"
+            }, 
+            {
+                "charcode": "0x1ee92", 
+                "title": "ARABIC MATHEMATICAL LOOPED QAF"
+            }, 
+            {
+                "charcode": "0x1ee93", 
+                "title": "ARABIC MATHEMATICAL LOOPED REH"
+            }, 
+            {
+                "charcode": "0x1ee94", 
+                "title": "ARABIC MATHEMATICAL LOOPED SHEEN"
+            }, 
+            {
+                "charcode": "0x1ee95", 
+                "title": "ARABIC MATHEMATICAL LOOPED TEH"
+            }, 
+            {
+                "charcode": "0x1ee96", 
+                "title": "ARABIC MATHEMATICAL LOOPED THEH"
+            }, 
+            {
+                "charcode": "0x1ee97", 
+                "title": "ARABIC MATHEMATICAL LOOPED KHAH"
+            }, 
+            {
+                "charcode": "0x1ee98", 
+                "title": "ARABIC MATHEMATICAL LOOPED THAL"
+            }, 
+            {
+                "charcode": "0x1ee99", 
+                "title": "ARABIC MATHEMATICAL LOOPED DAD"
+            }, 
+            {
+                "charcode": "0x1ee9a", 
+                "title": "ARABIC MATHEMATICAL LOOPED ZAH"
+            }, 
+            {
+                "charcode": "0x1ee9b", 
+                "title": "ARABIC MATHEMATICAL LOOPED GHAIN"
+            }, 
+            {
+                "charcode": "0x1eea1", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK BEH"
+            }, 
+            {
+                "charcode": "0x1eea2", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK JEEM"
+            }, 
+            {
+                "charcode": "0x1eea3", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK DAL"
+            }, 
+            {
+                "charcode": "0x1eea5", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK WAW"
+            }, 
+            {
+                "charcode": "0x1eea6", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK ZAIN"
+            }, 
+            {
+                "charcode": "0x1eea7", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK HAH"
+            }, 
+            {
+                "charcode": "0x1eea8", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK TAH"
+            }, 
+            {
+                "charcode": "0x1eea9", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK YEH"
+            }, 
+            {
+                "charcode": "0x1eeab", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK LAM"
+            }, 
+            {
+                "charcode": "0x1eeac", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK MEEM"
+            }, 
+            {
+                "charcode": "0x1eead", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK NOON"
+            }, 
+            {
+                "charcode": "0x1eeae", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK SEEN"
+            }, 
+            {
+                "charcode": "0x1eeaf", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK AIN"
+            }, 
+            {
+                "charcode": "0x1eeb0", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK FEH"
+            }, 
+            {
+                "charcode": "0x1eeb1", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK SAD"
+            }, 
+            {
+                "charcode": "0x1eeb2", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK QAF"
+            }, 
+            {
+                "charcode": "0x1eeb3", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK REH"
+            }, 
+            {
+                "charcode": "0x1eeb4", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK SHEEN"
+            }, 
+            {
+                "charcode": "0x1eeb5", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK TEH"
+            }, 
+            {
+                "charcode": "0x1eeb6", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK THEH"
+            }, 
+            {
+                "charcode": "0x1eeb7", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK KHAH"
+            }, 
+            {
+                "charcode": "0x1eeb8", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK THAL"
+            }, 
+            {
+                "charcode": "0x1eeb9", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK DAD"
+            }, 
+            {
+                "charcode": "0x1eeba", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK ZAH"
+            }, 
+            {
+                "charcode": "0x1eebb", 
+                "title": "ARABIC MATHEMATICAL DOUBLE-STRUCK GHAIN"
+            }, 
+            {
+                "charcode": "0x1eef0", 
+                "title": "ARABIC MATHEMATICAL OPERATOR MEEM WITH HAH WITH TATWEEL"
+            }, 
+            {
+                "charcode": "0x1eef1", 
+                "title": "ARABIC MATHEMATICAL OPERATOR HAH WITH DAL"
+            }
+        ], 
+        "name": "Arabic Mathematical Alphabetic Symbols"
+    }
+]

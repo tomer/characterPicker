@@ -1,0 +1,387 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x250", 
+                "title": "LATIN SMALL LETTER TURNED A"
+            }, 
+            {
+                "charcode": "0x251", 
+                "title": "LATIN SMALL LETTER ALPHA"
+            }, 
+            {
+                "charcode": "0x252", 
+                "title": "LATIN SMALL LETTER TURNED ALPHA"
+            }, 
+            {
+                "charcode": "0x253", 
+                "title": "LATIN SMALL LETTER B WITH HOOK"
+            }, 
+            {
+                "charcode": "0x254", 
+                "title": "LATIN SMALL LETTER OPEN O"
+            }, 
+            {
+                "charcode": "0x255", 
+                "title": "LATIN SMALL LETTER C WITH CURL"
+            }, 
+            {
+                "charcode": "0x256", 
+                "title": "LATIN SMALL LETTER D WITH TAIL"
+            }, 
+            {
+                "charcode": "0x257", 
+                "title": "LATIN SMALL LETTER D WITH HOOK"
+            }, 
+            {
+                "charcode": "0x258", 
+                "title": "LATIN SMALL LETTER REVERSED E"
+            }, 
+            {
+                "charcode": "0x259", 
+                "title": "LATIN SMALL LETTER SCHWA"
+            }, 
+            {
+                "charcode": "0x25a", 
+                "title": "LATIN SMALL LETTER SCHWA WITH HOOK"
+            }, 
+            {
+                "charcode": "0x25b", 
+                "title": "LATIN SMALL LETTER OPEN E"
+            }, 
+            {
+                "charcode": "0x25c", 
+                "title": "LATIN SMALL LETTER REVERSED OPEN E"
+            }, 
+            {
+                "charcode": "0x25d", 
+                "title": "LATIN SMALL LETTER REVERSED OPEN E WITH HOOK"
+            }, 
+            {
+                "charcode": "0x25e", 
+                "title": "LATIN SMALL LETTER CLOSED REVERSED OPEN E"
+            }, 
+            {
+                "charcode": "0x25f", 
+                "title": "LATIN SMALL LETTER DOTLESS J WITH STROKE"
+            }, 
+            {
+                "charcode": "0x260", 
+                "title": "LATIN SMALL LETTER G WITH HOOK"
+            }, 
+            {
+                "charcode": "0x261", 
+                "title": "LATIN SMALL LETTER SCRIPT G"
+            }, 
+            {
+                "charcode": "0x262", 
+                "title": "LATIN LETTER SMALL CAPITAL G"
+            }, 
+            {
+                "charcode": "0x263", 
+                "title": "LATIN SMALL LETTER GAMMA"
+            }, 
+            {
+                "charcode": "0x264", 
+                "title": "LATIN SMALL LETTER RAMS HORN"
+            }, 
+            {
+                "charcode": "0x265", 
+                "title": "LATIN SMALL LETTER TURNED H"
+            }, 
+            {
+                "charcode": "0x266", 
+                "title": "LATIN SMALL LETTER H WITH HOOK"
+            }, 
+            {
+                "charcode": "0x267", 
+                "title": "LATIN SMALL LETTER HENG WITH HOOK"
+            }, 
+            {
+                "charcode": "0x268", 
+                "title": "LATIN SMALL LETTER I WITH STROKE"
+            }, 
+            {
+                "charcode": "0x269", 
+                "title": "LATIN SMALL LETTER IOTA"
+            }, 
+            {
+                "charcode": "0x26a", 
+                "title": "LATIN LETTER SMALL CAPITAL I"
+            }, 
+            {
+                "charcode": "0x26b", 
+                "title": "LATIN SMALL LETTER L WITH MIDDLE TILDE"
+            }, 
+            {
+                "charcode": "0x26c", 
+                "title": "LATIN SMALL LETTER L WITH BELT"
+            }, 
+            {
+                "charcode": "0x26d", 
+                "title": "LATIN SMALL LETTER L WITH RETROFLEX HOOK"
+            }, 
+            {
+                "charcode": "0x26e", 
+                "title": "LATIN SMALL LETTER LEZH"
+            }, 
+            {
+                "charcode": "0x26f", 
+                "title": "LATIN SMALL LETTER TURNED M"
+            }, 
+            {
+                "charcode": "0x270", 
+                "title": "LATIN SMALL LETTER TURNED M WITH LONG LEG"
+            }, 
+            {
+                "charcode": "0x271", 
+                "title": "LATIN SMALL LETTER M WITH HOOK"
+            }, 
+            {
+                "charcode": "0x272", 
+                "title": "LATIN SMALL LETTER N WITH LEFT HOOK"
+            }, 
+            {
+                "charcode": "0x273", 
+                "title": "LATIN SMALL LETTER N WITH RETROFLEX HOOK"
+            }, 
+            {
+                "charcode": "0x274", 
+                "title": "LATIN LETTER SMALL CAPITAL N"
+            }, 
+            {
+                "charcode": "0x275", 
+                "title": "LATIN SMALL LETTER BARRED O"
+            }, 
+            {
+                "charcode": "0x276", 
+                "title": "LATIN LETTER SMALL CAPITAL OE"
+            }, 
+            {
+                "charcode": "0x277", 
+                "title": "LATIN SMALL LETTER CLOSED OMEGA"
+            }, 
+            {
+                "charcode": "0x278", 
+                "title": "LATIN SMALL LETTER PHI"
+            }, 
+            {
+                "charcode": "0x279", 
+                "title": "LATIN SMALL LETTER TURNED R"
+            }, 
+            {
+                "charcode": "0x27a", 
+                "title": "LATIN SMALL LETTER TURNED R WITH LONG LEG"
+            }, 
+            {
+                "charcode": "0x27b", 
+                "title": "LATIN SMALL LETTER TURNED R WITH HOOK"
+            }, 
+            {
+                "charcode": "0x27c", 
+                "title": "LATIN SMALL LETTER R WITH LONG LEG"
+            }, 
+            {
+                "charcode": "0x27d", 
+                "title": "LATIN SMALL LETTER R WITH TAIL"
+            }, 
+            {
+                "charcode": "0x27e", 
+                "title": "LATIN SMALL LETTER R WITH FISHHOOK"
+            }, 
+            {
+                "charcode": "0x27f", 
+                "title": "LATIN SMALL LETTER REVERSED R WITH FISHHOOK"
+            }, 
+            {
+                "charcode": "0x280", 
+                "title": "LATIN LETTER SMALL CAPITAL R"
+            }, 
+            {
+                "charcode": "0x281", 
+                "title": "LATIN LETTER SMALL CAPITAL INVERTED R"
+            }, 
+            {
+                "charcode": "0x282", 
+                "title": "LATIN SMALL LETTER S WITH HOOK"
+            }, 
+            {
+                "charcode": "0x283", 
+                "title": "LATIN SMALL LETTER ESH"
+            }, 
+            {
+                "charcode": "0x284", 
+                "title": "LATIN SMALL LETTER DOTLESS J WITH STROKE AND HOOK"
+            }, 
+            {
+                "charcode": "0x285", 
+                "title": "LATIN SMALL LETTER SQUAT REVERSED ESH"
+            }, 
+            {
+                "charcode": "0x286", 
+                "title": "LATIN SMALL LETTER ESH WITH CURL"
+            }, 
+            {
+                "charcode": "0x287", 
+                "title": "LATIN SMALL LETTER TURNED T"
+            }, 
+            {
+                "charcode": "0x288", 
+                "title": "LATIN SMALL LETTER T WITH RETROFLEX HOOK"
+            }, 
+            {
+                "charcode": "0x289", 
+                "title": "LATIN SMALL LETTER U BAR"
+            }, 
+            {
+                "charcode": "0x28a", 
+                "title": "LATIN SMALL LETTER UPSILON"
+            }, 
+            {
+                "charcode": "0x28b", 
+                "title": "LATIN SMALL LETTER V WITH HOOK"
+            }, 
+            {
+                "charcode": "0x28c", 
+                "title": "LATIN SMALL LETTER TURNED V"
+            }, 
+            {
+                "charcode": "0x28d", 
+                "title": "LATIN SMALL LETTER TURNED W"
+            }, 
+            {
+                "charcode": "0x28e", 
+                "title": "LATIN SMALL LETTER TURNED Y"
+            }, 
+            {
+                "charcode": "0x28f", 
+                "title": "LATIN LETTER SMALL CAPITAL Y"
+            }, 
+            {
+                "charcode": "0x290", 
+                "title": "LATIN SMALL LETTER Z WITH RETROFLEX HOOK"
+            }, 
+            {
+                "charcode": "0x291", 
+                "title": "LATIN SMALL LETTER Z WITH CURL"
+            }, 
+            {
+                "charcode": "0x292", 
+                "title": "LATIN SMALL LETTER EZH"
+            }, 
+            {
+                "charcode": "0x293", 
+                "title": "LATIN SMALL LETTER EZH WITH CURL"
+            }, 
+            {
+                "charcode": "0x294", 
+                "title": "LATIN LETTER GLOTTAL STOP"
+            }, 
+            {
+                "charcode": "0x295", 
+                "title": "LATIN LETTER PHARYNGEAL VOICED FRICATIVE"
+            }, 
+            {
+                "charcode": "0x296", 
+                "title": "LATIN LETTER INVERTED GLOTTAL STOP"
+            }, 
+            {
+                "charcode": "0x297", 
+                "title": "LATIN LETTER STRETCHED C"
+            }, 
+            {
+                "charcode": "0x298", 
+                "title": "LATIN LETTER BILABIAL CLICK"
+            }, 
+            {
+                "charcode": "0x299", 
+                "title": "LATIN LETTER SMALL CAPITAL B"
+            }, 
+            {
+                "charcode": "0x29a", 
+                "title": "LATIN SMALL LETTER CLOSED OPEN E"
+            }, 
+            {
+                "charcode": "0x29b", 
+                "title": "LATIN LETTER SMALL CAPITAL G WITH HOOK"
+            }, 
+            {
+                "charcode": "0x29c", 
+                "title": "LATIN LETTER SMALL CAPITAL H"
+            }, 
+            {
+                "charcode": "0x29d", 
+                "title": "LATIN SMALL LETTER J WITH CROSSED-TAIL"
+            }, 
+            {
+                "charcode": "0x29e", 
+                "title": "LATIN SMALL LETTER TURNED K"
+            }, 
+            {
+                "charcode": "0x29f", 
+                "title": "LATIN LETTER SMALL CAPITAL L"
+            }, 
+            {
+                "charcode": "0x2a0", 
+                "title": "LATIN SMALL LETTER Q WITH HOOK"
+            }, 
+            {
+                "charcode": "0x2a1", 
+                "title": "LATIN LETTER GLOTTAL STOP WITH STROKE"
+            }, 
+            {
+                "charcode": "0x2a2", 
+                "title": "LATIN LETTER REVERSED GLOTTAL STOP WITH STROKE"
+            }, 
+            {
+                "charcode": "0x2a3", 
+                "title": "LATIN SMALL LETTER DZ DIGRAPH"
+            }, 
+            {
+                "charcode": "0x2a4", 
+                "title": "LATIN SMALL LETTER DEZH DIGRAPH"
+            }, 
+            {
+                "charcode": "0x2a5", 
+                "title": "LATIN SMALL LETTER DZ DIGRAPH WITH CURL"
+            }, 
+            {
+                "charcode": "0x2a6", 
+                "title": "LATIN SMALL LETTER TS DIGRAPH"
+            }, 
+            {
+                "charcode": "0x2a7", 
+                "title": "LATIN SMALL LETTER TESH DIGRAPH"
+            }, 
+            {
+                "charcode": "0x2a8", 
+                "title": "LATIN SMALL LETTER TC DIGRAPH WITH CURL"
+            }, 
+            {
+                "charcode": "0x2a9", 
+                "title": "LATIN SMALL LETTER FENG DIGRAPH"
+            }, 
+            {
+                "charcode": "0x2aa", 
+                "title": "LATIN SMALL LETTER LS DIGRAPH"
+            }, 
+            {
+                "charcode": "0x2ab", 
+                "title": "LATIN SMALL LETTER LZ DIGRAPH"
+            }, 
+            {
+                "charcode": "0x2ac", 
+                "title": "LATIN LETTER BILABIAL PERCUSSIVE"
+            }, 
+            {
+                "charcode": "0x2ad", 
+                "title": "LATIN LETTER BIDENTAL PERCUSSIVE"
+            }, 
+            {
+                "charcode": "0x2ae", 
+                "title": "LATIN SMALL LETTER TURNED H WITH FISHHOOK"
+            }
+        ], 
+        "name": "IPA Extensions"
+    }
+]

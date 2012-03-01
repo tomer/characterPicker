@@ -1,0 +1,231 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x10100", 
+                "title": "AEGEAN WORD SEPARATOR LINE"
+            }, 
+            {
+                "charcode": "0x10101", 
+                "title": "AEGEAN WORD SEPARATOR DOT"
+            }, 
+            {
+                "charcode": "0x10102", 
+                "title": "AEGEAN CHECK MARK"
+            }, 
+            {
+                "charcode": "0x10107", 
+                "title": "AEGEAN NUMBER ONE"
+            }, 
+            {
+                "charcode": "0x10108", 
+                "title": "AEGEAN NUMBER TWO"
+            }, 
+            {
+                "charcode": "0x10109", 
+                "title": "AEGEAN NUMBER THREE"
+            }, 
+            {
+                "charcode": "0x1010a", 
+                "title": "AEGEAN NUMBER FOUR"
+            }, 
+            {
+                "charcode": "0x1010b", 
+                "title": "AEGEAN NUMBER FIVE"
+            }, 
+            {
+                "charcode": "0x1010c", 
+                "title": "AEGEAN NUMBER SIX"
+            }, 
+            {
+                "charcode": "0x1010d", 
+                "title": "AEGEAN NUMBER SEVEN"
+            }, 
+            {
+                "charcode": "0x1010e", 
+                "title": "AEGEAN NUMBER EIGHT"
+            }, 
+            {
+                "charcode": "0x1010f", 
+                "title": "AEGEAN NUMBER NINE"
+            }, 
+            {
+                "charcode": "0x10110", 
+                "title": "AEGEAN NUMBER TEN"
+            }, 
+            {
+                "charcode": "0x10111", 
+                "title": "AEGEAN NUMBER TWENTY"
+            }, 
+            {
+                "charcode": "0x10112", 
+                "title": "AEGEAN NUMBER THIRTY"
+            }, 
+            {
+                "charcode": "0x10113", 
+                "title": "AEGEAN NUMBER FORTY"
+            }, 
+            {
+                "charcode": "0x10114", 
+                "title": "AEGEAN NUMBER FIFTY"
+            }, 
+            {
+                "charcode": "0x10115", 
+                "title": "AEGEAN NUMBER SIXTY"
+            }, 
+            {
+                "charcode": "0x10116", 
+                "title": "AEGEAN NUMBER SEVENTY"
+            }, 
+            {
+                "charcode": "0x10117", 
+                "title": "AEGEAN NUMBER EIGHTY"
+            }, 
+            {
+                "charcode": "0x10118", 
+                "title": "AEGEAN NUMBER NINETY"
+            }, 
+            {
+                "charcode": "0x10119", 
+                "title": "AEGEAN NUMBER ONE HUNDRED"
+            }, 
+            {
+                "charcode": "0x1011a", 
+                "title": "AEGEAN NUMBER TWO HUNDRED"
+            }, 
+            {
+                "charcode": "0x1011b", 
+                "title": "AEGEAN NUMBER THREE HUNDRED"
+            }, 
+            {
+                "charcode": "0x1011c", 
+                "title": "AEGEAN NUMBER FOUR HUNDRED"
+            }, 
+            {
+                "charcode": "0x1011d", 
+                "title": "AEGEAN NUMBER FIVE HUNDRED"
+            }, 
+            {
+                "charcode": "0x1011e", 
+                "title": "AEGEAN NUMBER SIX HUNDRED"
+            }, 
+            {
+                "charcode": "0x1011f", 
+                "title": "AEGEAN NUMBER SEVEN HUNDRED"
+            }, 
+            {
+                "charcode": "0x10120", 
+                "title": "AEGEAN NUMBER EIGHT HUNDRED"
+            }, 
+            {
+                "charcode": "0x10121", 
+                "title": "AEGEAN NUMBER NINE HUNDRED"
+            }, 
+            {
+                "charcode": "0x10122", 
+                "title": "AEGEAN NUMBER ONE THOUSAND"
+            }, 
+            {
+                "charcode": "0x10123", 
+                "title": "AEGEAN NUMBER TWO THOUSAND"
+            }, 
+            {
+                "charcode": "0x10124", 
+                "title": "AEGEAN NUMBER THREE THOUSAND"
+            }, 
+            {
+                "charcode": "0x10125", 
+                "title": "AEGEAN NUMBER FOUR THOUSAND"
+            }, 
+            {
+                "charcode": "0x10126", 
+                "title": "AEGEAN NUMBER FIVE THOUSAND"
+            }, 
+            {
+                "charcode": "0x10127", 
+                "title": "AEGEAN NUMBER SIX THOUSAND"
+            }, 
+            {
+                "charcode": "0x10128", 
+                "title": "AEGEAN NUMBER SEVEN THOUSAND"
+            }, 
+            {
+                "charcode": "0x10129", 
+                "title": "AEGEAN NUMBER EIGHT THOUSAND"
+            }, 
+            {
+                "charcode": "0x1012a", 
+                "title": "AEGEAN NUMBER NINE THOUSAND"
+            }, 
+            {
+                "charcode": "0x1012b", 
+                "title": "AEGEAN NUMBER TEN THOUSAND"
+            }, 
+            {
+                "charcode": "0x1012c", 
+                "title": "AEGEAN NUMBER TWENTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x1012d", 
+                "title": "AEGEAN NUMBER THIRTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x1012e", 
+                "title": "AEGEAN NUMBER FORTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x1012f", 
+                "title": "AEGEAN NUMBER FIFTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x10130", 
+                "title": "AEGEAN NUMBER SIXTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x10131", 
+                "title": "AEGEAN NUMBER SEVENTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x10132", 
+                "title": "AEGEAN NUMBER EIGHTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x10133", 
+                "title": "AEGEAN NUMBER NINETY THOUSAND"
+            }, 
+            {
+                "charcode": "0x10137", 
+                "title": "AEGEAN WEIGHT BASE UNIT"
+            }, 
+            {
+                "charcode": "0x10138", 
+                "title": "AEGEAN WEIGHT FIRST SUBUNIT"
+            }, 
+            {
+                "charcode": "0x10139", 
+                "title": "AEGEAN WEIGHT SECOND SUBUNIT"
+            }, 
+            {
+                "charcode": "0x1013a", 
+                "title": "AEGEAN WEIGHT THIRD SUBUNIT"
+            }, 
+            {
+                "charcode": "0x1013b", 
+                "title": "AEGEAN WEIGHT FOURTH SUBUNIT"
+            }, 
+            {
+                "charcode": "0x1013c", 
+                "title": "AEGEAN DRY MEASURE FIRST SUBUNIT"
+            }, 
+            {
+                "charcode": "0x1013d", 
+                "title": "AEGEAN LIQUID MEASURE FIRST SUBUNIT"
+            }, 
+            {
+                "charcode": "0x1013e", 
+                "title": "AEGEAN MEASURE SECOND SUBUNIT"
+            }
+        ], 
+        "name": "Aegean Numbers"
+    }
+]

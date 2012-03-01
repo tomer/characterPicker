@@ -1,0 +1,499 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x10080", 
+                "title": "LINEAR B IDEOGRAM B100 MAN"
+            }, 
+            {
+                "charcode": "0x10081", 
+                "title": "LINEAR B IDEOGRAM B102 WOMAN"
+            }, 
+            {
+                "charcode": "0x10082", 
+                "title": "LINEAR B IDEOGRAM B104 DEER"
+            }, 
+            {
+                "charcode": "0x10083", 
+                "title": "LINEAR B IDEOGRAM B105 EQUID"
+            }, 
+            {
+                "charcode": "0x10084", 
+                "title": "LINEAR B IDEOGRAM B105F MARE"
+            }, 
+            {
+                "charcode": "0x10085", 
+                "title": "LINEAR B IDEOGRAM B105M STALLION"
+            }, 
+            {
+                "charcode": "0x10086", 
+                "title": "LINEAR B IDEOGRAM B106F EWE"
+            }, 
+            {
+                "charcode": "0x10087", 
+                "title": "LINEAR B IDEOGRAM B106M RAM"
+            }, 
+            {
+                "charcode": "0x10088", 
+                "title": "LINEAR B IDEOGRAM B107F SHE-GOAT"
+            }, 
+            {
+                "charcode": "0x10089", 
+                "title": "LINEAR B IDEOGRAM B107M HE-GOAT"
+            }, 
+            {
+                "charcode": "0x1008a", 
+                "title": "LINEAR B IDEOGRAM B108F SOW"
+            }, 
+            {
+                "charcode": "0x1008b", 
+                "title": "LINEAR B IDEOGRAM B108M BOAR"
+            }, 
+            {
+                "charcode": "0x1008c", 
+                "title": "LINEAR B IDEOGRAM B109F COW"
+            }, 
+            {
+                "charcode": "0x1008d", 
+                "title": "LINEAR B IDEOGRAM B109M BULL"
+            }, 
+            {
+                "charcode": "0x1008e", 
+                "title": "LINEAR B IDEOGRAM B120 WHEAT"
+            }, 
+            {
+                "charcode": "0x1008f", 
+                "title": "LINEAR B IDEOGRAM B121 BARLEY"
+            }, 
+            {
+                "charcode": "0x10090", 
+                "title": "LINEAR B IDEOGRAM B122 OLIVE"
+            }, 
+            {
+                "charcode": "0x10091", 
+                "title": "LINEAR B IDEOGRAM B123 SPICE"
+            }, 
+            {
+                "charcode": "0x10092", 
+                "title": "LINEAR B IDEOGRAM B125 CYPERUS"
+            }, 
+            {
+                "charcode": "0x10093", 
+                "title": "LINEAR B MONOGRAM B127 KAPO"
+            }, 
+            {
+                "charcode": "0x10094", 
+                "title": "LINEAR B MONOGRAM B128 KANAKO"
+            }, 
+            {
+                "charcode": "0x10095", 
+                "title": "LINEAR B IDEOGRAM B130 OIL"
+            }, 
+            {
+                "charcode": "0x10096", 
+                "title": "LINEAR B IDEOGRAM B131 WINE"
+            }, 
+            {
+                "charcode": "0x10097", 
+                "title": "LINEAR B IDEOGRAM B132"
+            }, 
+            {
+                "charcode": "0x10098", 
+                "title": "LINEAR B MONOGRAM B133 AREPA"
+            }, 
+            {
+                "charcode": "0x10099", 
+                "title": "LINEAR B MONOGRAM B135 MERI"
+            }, 
+            {
+                "charcode": "0x1009a", 
+                "title": "LINEAR B IDEOGRAM B140 BRONZE"
+            }, 
+            {
+                "charcode": "0x1009b", 
+                "title": "LINEAR B IDEOGRAM B141 GOLD"
+            }, 
+            {
+                "charcode": "0x1009c", 
+                "title": "LINEAR B IDEOGRAM B142"
+            }, 
+            {
+                "charcode": "0x1009d", 
+                "title": "LINEAR B IDEOGRAM B145 WOOL"
+            }, 
+            {
+                "charcode": "0x1009e", 
+                "title": "LINEAR B IDEOGRAM B146"
+            }, 
+            {
+                "charcode": "0x1009f", 
+                "title": "LINEAR B IDEOGRAM B150"
+            }, 
+            {
+                "charcode": "0x100a0", 
+                "title": "LINEAR B IDEOGRAM B151 HORN"
+            }, 
+            {
+                "charcode": "0x100a1", 
+                "title": "LINEAR B IDEOGRAM B152"
+            }, 
+            {
+                "charcode": "0x100a2", 
+                "title": "LINEAR B IDEOGRAM B153"
+            }, 
+            {
+                "charcode": "0x100a3", 
+                "title": "LINEAR B IDEOGRAM B154"
+            }, 
+            {
+                "charcode": "0x100a4", 
+                "title": "LINEAR B MONOGRAM B156 TURO2"
+            }, 
+            {
+                "charcode": "0x100a5", 
+                "title": "LINEAR B IDEOGRAM B157"
+            }, 
+            {
+                "charcode": "0x100a6", 
+                "title": "LINEAR B IDEOGRAM B158"
+            }, 
+            {
+                "charcode": "0x100a7", 
+                "title": "LINEAR B IDEOGRAM B159 CLOTH"
+            }, 
+            {
+                "charcode": "0x100a8", 
+                "title": "LINEAR B IDEOGRAM B160"
+            }, 
+            {
+                "charcode": "0x100a9", 
+                "title": "LINEAR B IDEOGRAM B161"
+            }, 
+            {
+                "charcode": "0x100aa", 
+                "title": "LINEAR B IDEOGRAM B162 GARMENT"
+            }, 
+            {
+                "charcode": "0x100ab", 
+                "title": "LINEAR B IDEOGRAM B163 ARMOUR"
+            }, 
+            {
+                "charcode": "0x100ac", 
+                "title": "LINEAR B IDEOGRAM B164"
+            }, 
+            {
+                "charcode": "0x100ad", 
+                "title": "LINEAR B IDEOGRAM B165"
+            }, 
+            {
+                "charcode": "0x100ae", 
+                "title": "LINEAR B IDEOGRAM B166"
+            }, 
+            {
+                "charcode": "0x100af", 
+                "title": "LINEAR B IDEOGRAM B167"
+            }, 
+            {
+                "charcode": "0x100b0", 
+                "title": "LINEAR B IDEOGRAM B168"
+            }, 
+            {
+                "charcode": "0x100b1", 
+                "title": "LINEAR B IDEOGRAM B169"
+            }, 
+            {
+                "charcode": "0x100b2", 
+                "title": "LINEAR B IDEOGRAM B170"
+            }, 
+            {
+                "charcode": "0x100b3", 
+                "title": "LINEAR B IDEOGRAM B171"
+            }, 
+            {
+                "charcode": "0x100b4", 
+                "title": "LINEAR B IDEOGRAM B172"
+            }, 
+            {
+                "charcode": "0x100b5", 
+                "title": "LINEAR B IDEOGRAM B173 MONTH"
+            }, 
+            {
+                "charcode": "0x100b6", 
+                "title": "LINEAR B IDEOGRAM B174"
+            }, 
+            {
+                "charcode": "0x100b7", 
+                "title": "LINEAR B IDEOGRAM B176 TREE"
+            }, 
+            {
+                "charcode": "0x100b8", 
+                "title": "LINEAR B IDEOGRAM B177"
+            }, 
+            {
+                "charcode": "0x100b9", 
+                "title": "LINEAR B IDEOGRAM B178"
+            }, 
+            {
+                "charcode": "0x100ba", 
+                "title": "LINEAR B IDEOGRAM B179"
+            }, 
+            {
+                "charcode": "0x100bb", 
+                "title": "LINEAR B IDEOGRAM B180"
+            }, 
+            {
+                "charcode": "0x100bc", 
+                "title": "LINEAR B IDEOGRAM B181"
+            }, 
+            {
+                "charcode": "0x100bd", 
+                "title": "LINEAR B IDEOGRAM B182"
+            }, 
+            {
+                "charcode": "0x100be", 
+                "title": "LINEAR B IDEOGRAM B183"
+            }, 
+            {
+                "charcode": "0x100bf", 
+                "title": "LINEAR B IDEOGRAM B184"
+            }, 
+            {
+                "charcode": "0x100c0", 
+                "title": "LINEAR B IDEOGRAM B185"
+            }, 
+            {
+                "charcode": "0x100c1", 
+                "title": "LINEAR B IDEOGRAM B189"
+            }, 
+            {
+                "charcode": "0x100c2", 
+                "title": "LINEAR B IDEOGRAM B190"
+            }, 
+            {
+                "charcode": "0x100c3", 
+                "title": "LINEAR B IDEOGRAM B191 HELMET"
+            }, 
+            {
+                "charcode": "0x100c4", 
+                "title": "LINEAR B IDEOGRAM B220 FOOTSTOOL"
+            }, 
+            {
+                "charcode": "0x100c5", 
+                "title": "LINEAR B IDEOGRAM B225 BATHTUB"
+            }, 
+            {
+                "charcode": "0x100c6", 
+                "title": "LINEAR B IDEOGRAM B230 SPEAR"
+            }, 
+            {
+                "charcode": "0x100c7", 
+                "title": "LINEAR B IDEOGRAM B231 ARROW"
+            }, 
+            {
+                "charcode": "0x100c8", 
+                "title": "LINEAR B IDEOGRAM B232"
+            }, 
+            {
+                "charcode": "0x100c9", 
+                "title": "LINEAR B IDEOGRAM B233 SWORD"
+            }, 
+            {
+                "charcode": "0x100ca", 
+                "title": "LINEAR B IDEOGRAM B234"
+            }, 
+            {
+                "charcode": "0x100cb", 
+                "title": "LINEAR B IDEOGRAM B236"
+            }, 
+            {
+                "charcode": "0x100cc", 
+                "title": "LINEAR B IDEOGRAM B240 WHEELED CHARIOT"
+            }, 
+            {
+                "charcode": "0x100cd", 
+                "title": "LINEAR B IDEOGRAM B241 CHARIOT"
+            }, 
+            {
+                "charcode": "0x100ce", 
+                "title": "LINEAR B IDEOGRAM B242 CHARIOT FRAME"
+            }, 
+            {
+                "charcode": "0x100cf", 
+                "title": "LINEAR B IDEOGRAM B243 WHEEL"
+            }, 
+            {
+                "charcode": "0x100d0", 
+                "title": "LINEAR B IDEOGRAM B245"
+            }, 
+            {
+                "charcode": "0x100d1", 
+                "title": "LINEAR B IDEOGRAM B246"
+            }, 
+            {
+                "charcode": "0x100d2", 
+                "title": "LINEAR B MONOGRAM B247 DIPTE"
+            }, 
+            {
+                "charcode": "0x100d3", 
+                "title": "LINEAR B IDEOGRAM B248"
+            }, 
+            {
+                "charcode": "0x100d4", 
+                "title": "LINEAR B IDEOGRAM B249"
+            }, 
+            {
+                "charcode": "0x100d5", 
+                "title": "LINEAR B IDEOGRAM B251"
+            }, 
+            {
+                "charcode": "0x100d6", 
+                "title": "LINEAR B IDEOGRAM B252"
+            }, 
+            {
+                "charcode": "0x100d7", 
+                "title": "LINEAR B IDEOGRAM B253"
+            }, 
+            {
+                "charcode": "0x100d8", 
+                "title": "LINEAR B IDEOGRAM B254 DART"
+            }, 
+            {
+                "charcode": "0x100d9", 
+                "title": "LINEAR B IDEOGRAM B255"
+            }, 
+            {
+                "charcode": "0x100da", 
+                "title": "LINEAR B IDEOGRAM B256"
+            }, 
+            {
+                "charcode": "0x100db", 
+                "title": "LINEAR B IDEOGRAM B257"
+            }, 
+            {
+                "charcode": "0x100dc", 
+                "title": "LINEAR B IDEOGRAM B258"
+            }, 
+            {
+                "charcode": "0x100dd", 
+                "title": "LINEAR B IDEOGRAM B259"
+            }, 
+            {
+                "charcode": "0x100de", 
+                "title": "LINEAR B IDEOGRAM VESSEL B155"
+            }, 
+            {
+                "charcode": "0x100df", 
+                "title": "LINEAR B IDEOGRAM VESSEL B200"
+            }, 
+            {
+                "charcode": "0x100e0", 
+                "title": "LINEAR B IDEOGRAM VESSEL B201"
+            }, 
+            {
+                "charcode": "0x100e1", 
+                "title": "LINEAR B IDEOGRAM VESSEL B202"
+            }, 
+            {
+                "charcode": "0x100e2", 
+                "title": "LINEAR B IDEOGRAM VESSEL B203"
+            }, 
+            {
+                "charcode": "0x100e3", 
+                "title": "LINEAR B IDEOGRAM VESSEL B204"
+            }, 
+            {
+                "charcode": "0x100e4", 
+                "title": "LINEAR B IDEOGRAM VESSEL B205"
+            }, 
+            {
+                "charcode": "0x100e5", 
+                "title": "LINEAR B IDEOGRAM VESSEL B206"
+            }, 
+            {
+                "charcode": "0x100e6", 
+                "title": "LINEAR B IDEOGRAM VESSEL B207"
+            }, 
+            {
+                "charcode": "0x100e7", 
+                "title": "LINEAR B IDEOGRAM VESSEL B208"
+            }, 
+            {
+                "charcode": "0x100e8", 
+                "title": "LINEAR B IDEOGRAM VESSEL B209"
+            }, 
+            {
+                "charcode": "0x100e9", 
+                "title": "LINEAR B IDEOGRAM VESSEL B210"
+            }, 
+            {
+                "charcode": "0x100ea", 
+                "title": "LINEAR B IDEOGRAM VESSEL B211"
+            }, 
+            {
+                "charcode": "0x100eb", 
+                "title": "LINEAR B IDEOGRAM VESSEL B212"
+            }, 
+            {
+                "charcode": "0x100ec", 
+                "title": "LINEAR B IDEOGRAM VESSEL B213"
+            }, 
+            {
+                "charcode": "0x100ed", 
+                "title": "LINEAR B IDEOGRAM VESSEL B214"
+            }, 
+            {
+                "charcode": "0x100ee", 
+                "title": "LINEAR B IDEOGRAM VESSEL B215"
+            }, 
+            {
+                "charcode": "0x100ef", 
+                "title": "LINEAR B IDEOGRAM VESSEL B216"
+            }, 
+            {
+                "charcode": "0x100f0", 
+                "title": "LINEAR B IDEOGRAM VESSEL B217"
+            }, 
+            {
+                "charcode": "0x100f1", 
+                "title": "LINEAR B IDEOGRAM VESSEL B218"
+            }, 
+            {
+                "charcode": "0x100f2", 
+                "title": "LINEAR B IDEOGRAM VESSEL B219"
+            }, 
+            {
+                "charcode": "0x100f3", 
+                "title": "LINEAR B IDEOGRAM VESSEL B221"
+            }, 
+            {
+                "charcode": "0x100f4", 
+                "title": "LINEAR B IDEOGRAM VESSEL B222"
+            }, 
+            {
+                "charcode": "0x100f5", 
+                "title": "LINEAR B IDEOGRAM VESSEL B226"
+            }, 
+            {
+                "charcode": "0x100f6", 
+                "title": "LINEAR B IDEOGRAM VESSEL B227"
+            }, 
+            {
+                "charcode": "0x100f7", 
+                "title": "LINEAR B IDEOGRAM VESSEL B228"
+            }, 
+            {
+                "charcode": "0x100f8", 
+                "title": "LINEAR B IDEOGRAM VESSEL B229"
+            }, 
+            {
+                "charcode": "0x100f9", 
+                "title": "LINEAR B IDEOGRAM VESSEL B250"
+            }, 
+            {
+                "charcode": "0x100fa", 
+                "title": "LINEAR B IDEOGRAM VESSEL B305"
+            }
+        ], 
+        "name": "Linear B Ideograms"
+    }
+]

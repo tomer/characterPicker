@@ -1,0 +1,355 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2b00", 
+                "title": "NORTH EAST WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x2b01", 
+                "title": "NORTH WEST WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x2b02", 
+                "title": "SOUTH EAST WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x2b03", 
+                "title": "SOUTH WEST WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x2b04", 
+                "title": "LEFT RIGHT WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x2b05", 
+                "title": "LEFTWARDS BLACK ARROW"
+            }, 
+            {
+                "charcode": "0x2b06", 
+                "title": "UPWARDS BLACK ARROW"
+            }, 
+            {
+                "charcode": "0x2b07", 
+                "title": "DOWNWARDS BLACK ARROW"
+            }, 
+            {
+                "charcode": "0x2b08", 
+                "title": "NORTH EAST BLACK ARROW"
+            }, 
+            {
+                "charcode": "0x2b09", 
+                "title": "NORTH WEST BLACK ARROW"
+            }, 
+            {
+                "charcode": "0x2b0a", 
+                "title": "SOUTH EAST BLACK ARROW"
+            }, 
+            {
+                "charcode": "0x2b0b", 
+                "title": "SOUTH WEST BLACK ARROW"
+            }, 
+            {
+                "charcode": "0x2b0c", 
+                "title": "LEFT RIGHT BLACK ARROW"
+            }, 
+            {
+                "charcode": "0x2b0d", 
+                "title": "UP DOWN BLACK ARROW"
+            }, 
+            {
+                "charcode": "0x2b0e", 
+                "title": "RIGHTWARDS ARROW WITH TIP DOWNWARDS"
+            }, 
+            {
+                "charcode": "0x2b0f", 
+                "title": "RIGHTWARDS ARROW WITH TIP UPWARDS"
+            }, 
+            {
+                "charcode": "0x2b10", 
+                "title": "LEFTWARDS ARROW WITH TIP DOWNWARDS"
+            }, 
+            {
+                "charcode": "0x2b11", 
+                "title": "LEFTWARDS ARROW WITH TIP UPWARDS"
+            }, 
+            {
+                "charcode": "0x2b12", 
+                "title": "SQUARE WITH TOP HALF BLACK"
+            }, 
+            {
+                "charcode": "0x2b13", 
+                "title": "SQUARE WITH BOTTOM HALF BLACK"
+            }, 
+            {
+                "charcode": "0x2b14", 
+                "title": "SQUARE WITH UPPER RIGHT DIAGONAL HALF BLACK"
+            }, 
+            {
+                "charcode": "0x2b15", 
+                "title": "SQUARE WITH LOWER LEFT DIAGONAL HALF BLACK"
+            }, 
+            {
+                "charcode": "0x2b16", 
+                "title": "DIAMOND WITH LEFT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x2b17", 
+                "title": "DIAMOND WITH RIGHT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x2b18", 
+                "title": "DIAMOND WITH TOP HALF BLACK"
+            }, 
+            {
+                "charcode": "0x2b19", 
+                "title": "DIAMOND WITH BOTTOM HALF BLACK"
+            }, 
+            {
+                "charcode": "0x2b1a", 
+                "title": "DOTTED SQUARE"
+            }, 
+            {
+                "charcode": "0x2b1b", 
+                "title": "BLACK LARGE SQUARE"
+            }, 
+            {
+                "charcode": "0x2b1c", 
+                "title": "WHITE LARGE SQUARE"
+            }, 
+            {
+                "charcode": "0x2b1d", 
+                "title": "BLACK VERY SMALL SQUARE"
+            }, 
+            {
+                "charcode": "0x2b1e", 
+                "title": "WHITE VERY SMALL SQUARE"
+            }, 
+            {
+                "charcode": "0x2b1f", 
+                "title": "BLACK PENTAGON"
+            }, 
+            {
+                "charcode": "0x2b20", 
+                "title": "WHITE PENTAGON"
+            }, 
+            {
+                "charcode": "0x2b21", 
+                "title": "WHITE HEXAGON"
+            }, 
+            {
+                "charcode": "0x2b22", 
+                "title": "BLACK HEXAGON"
+            }, 
+            {
+                "charcode": "0x2b23", 
+                "title": "HORIZONTAL BLACK HEXAGON"
+            }, 
+            {
+                "charcode": "0x2b24", 
+                "title": "BLACK LARGE CIRCLE"
+            }, 
+            {
+                "charcode": "0x2b25", 
+                "title": "BLACK MEDIUM DIAMOND"
+            }, 
+            {
+                "charcode": "0x2b26", 
+                "title": "WHITE MEDIUM DIAMOND"
+            }, 
+            {
+                "charcode": "0x2b27", 
+                "title": "BLACK MEDIUM LOZENGE"
+            }, 
+            {
+                "charcode": "0x2b28", 
+                "title": "WHITE MEDIUM LOZENGE"
+            }, 
+            {
+                "charcode": "0x2b29", 
+                "title": "BLACK SMALL DIAMOND"
+            }, 
+            {
+                "charcode": "0x2b2a", 
+                "title": "BLACK SMALL LOZENGE"
+            }, 
+            {
+                "charcode": "0x2b2b", 
+                "title": "WHITE SMALL LOZENGE"
+            }, 
+            {
+                "charcode": "0x2b2c", 
+                "title": "BLACK HORIZONTAL ELLIPSE"
+            }, 
+            {
+                "charcode": "0x2b2d", 
+                "title": "WHITE HORIZONTAL ELLIPSE"
+            }, 
+            {
+                "charcode": "0x2b2e", 
+                "title": "BLACK VERTICAL ELLIPSE"
+            }, 
+            {
+                "charcode": "0x2b2f", 
+                "title": "WHITE VERTICAL ELLIPSE"
+            }, 
+            {
+                "charcode": "0x2b30", 
+                "title": "LEFT ARROW WITH SMALL CIRCLE"
+            }, 
+            {
+                "charcode": "0x2b31", 
+                "title": "THREE LEFTWARDS ARROWS"
+            }, 
+            {
+                "charcode": "0x2b32", 
+                "title": "LEFT ARROW WITH CIRCLED PLUS"
+            }, 
+            {
+                "charcode": "0x2b33", 
+                "title": "LONG LEFTWARDS SQUIGGLE ARROW"
+            }, 
+            {
+                "charcode": "0x2b34", 
+                "title": "LEFTWARDS TWO-HEADED ARROW WITH VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2b35", 
+                "title": "LEFTWARDS TWO-HEADED ARROW WITH DOUBLE VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2b36", 
+                "title": "LEFTWARDS TWO-HEADED ARROW FROM BAR"
+            }, 
+            {
+                "charcode": "0x2b37", 
+                "title": "LEFTWARDS TWO-HEADED TRIPLE DASH ARROW"
+            }, 
+            {
+                "charcode": "0x2b38", 
+                "title": "LEFTWARDS ARROW WITH DOTTED STEM"
+            }, 
+            {
+                "charcode": "0x2b39", 
+                "title": "LEFTWARDS ARROW WITH TAIL WITH VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2b3a", 
+                "title": "LEFTWARDS ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2b3b", 
+                "title": "LEFTWARDS TWO-HEADED ARROW WITH TAIL"
+            }, 
+            {
+                "charcode": "0x2b3c", 
+                "title": "LEFTWARDS TWO-HEADED ARROW WITH TAIL WITH VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2b3d", 
+                "title": "LEFTWARDS TWO-HEADED ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2b3e", 
+                "title": "LEFTWARDS ARROW THROUGH X"
+            }, 
+            {
+                "charcode": "0x2b3f", 
+                "title": "WAVE ARROW POINTING DIRECTLY LEFT"
+            }, 
+            {
+                "charcode": "0x2b40", 
+                "title": "EQUALS SIGN ABOVE LEFTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2b41", 
+                "title": "REVERSE TILDE OPERATOR ABOVE LEFTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2b42", 
+                "title": "LEFTWARDS ARROW ABOVE REVERSE ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2b43", 
+                "title": "RIGHTWARDS ARROW THROUGH GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2b44", 
+                "title": "RIGHTWARDS ARROW THROUGH SUPERSET"
+            }, 
+            {
+                "charcode": "0x2b45", 
+                "title": "LEFTWARDS QUADRUPLE ARROW"
+            }, 
+            {
+                "charcode": "0x2b46", 
+                "title": "RIGHTWARDS QUADRUPLE ARROW"
+            }, 
+            {
+                "charcode": "0x2b47", 
+                "title": "REVERSE TILDE OPERATOR ABOVE RIGHTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2b48", 
+                "title": "RIGHTWARDS ARROW ABOVE REVERSE ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2b49", 
+                "title": "TILDE OPERATOR ABOVE LEFTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2b4a", 
+                "title": "LEFTWARDS ARROW ABOVE ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2b4b", 
+                "title": "LEFTWARDS ARROW ABOVE REVERSE TILDE OPERATOR"
+            }, 
+            {
+                "charcode": "0x2b4c", 
+                "title": "RIGHTWARDS ARROW ABOVE REVERSE TILDE OPERATOR"
+            }, 
+            {
+                "charcode": "0x2b50", 
+                "title": "WHITE MEDIUM STAR"
+            }, 
+            {
+                "charcode": "0x2b51", 
+                "title": "BLACK SMALL STAR"
+            }, 
+            {
+                "charcode": "0x2b52", 
+                "title": "WHITE SMALL STAR"
+            }, 
+            {
+                "charcode": "0x2b53", 
+                "title": "BLACK RIGHT-POINTING PENTAGON"
+            }, 
+            {
+                "charcode": "0x2b54", 
+                "title": "WHITE RIGHT-POINTING PENTAGON"
+            }, 
+            {
+                "charcode": "0x2b55", 
+                "title": "HEAVY LARGE CIRCLE"
+            }, 
+            {
+                "charcode": "0x2b56", 
+                "title": "HEAVY OVAL WITH OVAL INSIDE"
+            }, 
+            {
+                "charcode": "0x2b57", 
+                "title": "HEAVY CIRCLE WITH CIRCLE INSIDE"
+            }, 
+            {
+                "charcode": "0x2b58", 
+                "title": "HEAVY CIRCLE"
+            }, 
+            {
+                "charcode": "0x2b59", 
+                "title": "HEAVY CIRCLED SALTIRE"
+            }
+        ], 
+        "name": "Miscellaneous Symbols and Arrows"
+    }
+]

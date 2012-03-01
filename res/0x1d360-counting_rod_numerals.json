@@ -1,0 +1,79 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1d360", 
+                "title": "COUNTING ROD UNIT DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x1d361", 
+                "title": "COUNTING ROD UNIT DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x1d362", 
+                "title": "COUNTING ROD UNIT DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x1d363", 
+                "title": "COUNTING ROD UNIT DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x1d364", 
+                "title": "COUNTING ROD UNIT DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x1d365", 
+                "title": "COUNTING ROD UNIT DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x1d366", 
+                "title": "COUNTING ROD UNIT DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x1d367", 
+                "title": "COUNTING ROD UNIT DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x1d368", 
+                "title": "COUNTING ROD UNIT DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x1d369", 
+                "title": "COUNTING ROD TENS DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x1d36a", 
+                "title": "COUNTING ROD TENS DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x1d36b", 
+                "title": "COUNTING ROD TENS DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x1d36c", 
+                "title": "COUNTING ROD TENS DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x1d36d", 
+                "title": "COUNTING ROD TENS DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x1d36e", 
+                "title": "COUNTING ROD TENS DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x1d36f", 
+                "title": "COUNTING ROD TENS DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x1d370", 
+                "title": "COUNTING ROD TENS DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x1d371", 
+                "title": "COUNTING ROD TENS DIGIT NINE"
+            }
+        ], 
+        "name": "Counting Rod Numerals"
+    }
+]
