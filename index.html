@@ -1,7 +1,7 @@
 <!doctype html>
 <html manifest="manifest.appcache">
 	<head>
-		<title>Emoji character picker</title>
+		<title>Character Picker</title>
 		<meta charset="utf-8"/>
 		<style>
 @font-face {
@@ -12,7 +12,8 @@
 html {overflow-y: scroll;}
 body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 #input {font-size: 200%; width:100%}
-#buttons button { font-size: 400%; background: none; border: none;}
+#buttons button { font-size: 400%; background: none; border: none; min-width: 1ex}
+div.big { font-size: 200%; text-align: center; }
 /*#buttons { height: 20em; overflow: scroll; padding: 25px;}*/
 #buttons button:hover {color:blue; text-shadow:0 0 30px yellow , 0 0 70px yellow;}
 #buttons h2 { border-top: 1px solid silver; }
@@ -87,12 +88,44 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 			function addButtonsSeparator() {
 				document.getElementById("buttons").appendChild(document.createElement("hr"));
 			}
+			
+			function loadFileList(filename) {
+			    var list = null;
+			    
+			    var http_request = new XMLHttpRequest();
+			    http_request.open("GET", filename, true);
+			    http_request.onreadystatechange = function() {
+			        var done = 4, ok = 200;
+			        if (http_request.readyState = done && http_request.status == ok) {
+			            list = JSON.parse(http_request.responseText);
+			            
+			            for (var i in list) {
+			                addOption(list[i]);
+			            }
+			        }
+					else if (http_request.readyState == done && http_request.status != ok) 
+						window.alert ("Unable to load file "+ filename +", returned error code "+ http_request.status);
+				}
+				http_request.send(null);
+			}    
+
+            function addOption(item) {
+                element = document.createElement('option');
+                element.value = item['filename'];
+                element.textContent = item['title']
+                document.getElementById('blockSelection').appendChild(element)
+            }
 
 			function loadCharactersMap(filename) {
+			
+			    var stateObj = { 'charMap': filename };
+                history.pushState(stateObj, filename, "?load="+ filename);
+			
+			
 				var list = null;
 
 				var http_request = new XMLHttpRequest();
-				http_request.open("GET", filename, true);
+				http_request.open("GET", "res/"+ filename, true);
 				http_request.onreadystatechange = function () {
 					var done = 4, ok = 200;
 					if (http_request.readyState == done && http_request.status == ok) {
@@ -135,6 +168,7 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
             
 			function start() { 
 				updateInputLength();
+				loadFileList('res/list.json');
 				var queryString = getQueryString();				
 				
 				var filename = queryString['load'];
@@ -158,16 +192,12 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
         <label for="blockSelection">Active keymap:</label>
         <select id="blockSelection" onchange="loadSelectedBlock(document.getElementById('blockSelection'));">
             <option value=""></option>
-            <option value="emoji.json">Standard emoji</option>
-            <option value="emojiFull.json" selected>Full emoji block</option>
-            <option value="1f300.json">1f300</option>
         </select>
 	
 	Input length: <span id="length"></span> <span id="value"></span>
 	
 	<div id="buttons">
-               <button onclick="addCharacterToCursorPosition('☺')">☺</button>
-               <button onclick="addCharacterToCursorPosition('☹')">☹</button>
+               <div class="big">Please select keymap above to start</div>
 	</div>
 	<p>CC-BY-SA <a href="http://tomercohen.com">Tomer Cohen</a>, 2011. Source code available on <a href="https://github.com/tomer/characterPicker">github</a>.</p>
 	<p>Symbola font borrowed from <a href="http://users.teilar.gr/~g1951d">http://users.teilar.gr/~g1951d</a>.
