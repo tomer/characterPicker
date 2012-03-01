@@ -1,0 +1,77 @@
+[
+	{"name":"Faces", "content":
+		[
+			{"charcode":"0x1F601", "title":"GRINNING FACE WITH SMILING EYES"},
+			{"charcode":"0x1F602", "title":"FACE WITH TEARS OF JOY"},
+			{"charcode":"0x1F603", "title":"SMILING FACE WITH OPEN MOUTH"},
+			{"charcode":"0x1F604", "title":"SMILING FACE WITH OPEN MOUTH AND SMILING EYES"},
+			{"charcode":"0x1F605", "title":"SMILING FACE WITH OPEN MOUTH AND COLD SWEAT"},
+			{"charcode":"0x1F606", "title":"SMILING FACE WITH OPEN MOUTH AND TIGHTLY-CLOSED EYES"},
+			{"charcode":"0x1F607", "title":"SMILING FACE WITH HALO"},
+			{"charcode":"0x1F608", "title":"SMILING FACE WITH HORNS"},
+			{"charcode":"0x1F609", "title":"WINKING FACE"},
+			{"charcode":"0x1F60A", "title":"SMILING FACE WITH SMILING EYES"},
+			{"charcode":"0x1F60B", "title":"FACE SAVOURING DELICIOUS FOOD"},
+			{"charcode":"0x1F60C", "title":"RELIEVED FACE"},
+			{"charcode":"0x1F60D", "title":"SMILING FACE WITH HEART-SHAPED EYES"},
+			{"charcode":"0x1F60E", "title":"SMILING FACE WITH SUNGLASSES"},
+			{"charcode":"0x1F60F", "title":"SMIRKING FACE"},
+			{"charcode":"0x1F610", "title":"NEUTRAL FACE"},
+			{"charcode":"0x1F612", "title":"UNAMUSED FACE"},
+			{"charcode":"0x1F613", "title":"FACE WITH COLD SWEAT"},
+			{"charcode":"0x1F614", "title":"PENSIVE FACE"},
+			{"charcode":"0x1F616", "title":"CONFOUNDED FACE"},
+			{"charcode":"0x1F618", "title":"FACE THROWING A KISS"},
+			{"charcode":"0x1F61A", "title":"KISSING FACE WITH CLOSED EYES"},
+			{"charcode":"0x1F61C", "title":"FACE WITH STUCK-OUT TONGUE AND WINKING EYE"},
+			{"charcode":"0x1F61D", "title":"FACE WITH STUCK-OUT TONGUE AND TIGHTLY-CLOSED EYES"},
+			{"charcode":"0x1F61E", "title":"DISAPPOINTED FACE"},
+			{"charcode":"0x1F620", "title":"ANGRY FACE"},
+			{"charcode":"0x1F621", "title":"POUTING FACE"},
+			{"charcode":"0x1F622", "title":"CRYING FACE"},
+			{"charcode":"0x1F623", "title":"PERSEVERING FACE"},
+			{"charcode":"0x1F624", "title":"FACE WITH LOOK OF TRIUMPH"},
+			{"charcode":"0x1F625", "title":"DISAPPOINTED BUT RELIEVED FACE"},
+			{"charcode":"0x1F628", "title":"FEARFUL FACE"},
+			{"charcode":"0x1F629", "title":"WEARY FACE"},
+			{"charcode":"0x1F62A", "title":"SLEEPY FACE"},
+			{"charcode":"0x1F62B", "title":"TIRED FACE"},
+			{"charcode":"0x1F62D", "title":"LOUDLY CRYING FACE"},
+			{"charcode":"0x1F630", "title":"FACE WITH OPEN MOUTH AND COLD SWEAT"},
+			{"charcode":"0x1F631", "title":"FACE SCREAMING IN FEAR"},
+			{"charcode":"0x1F632", "title":"ASTONISHED FACE"},
+			{"charcode":"0x1F633", "title":"FLUSHED FACE"},
+			{"charcode":"0x1F635", "title":"DIZZY FACE"},
+			{"charcode":"0x1F636", "title":"FACE WITHOUT MOUTH"},
+			{"charcode":"0x1F637", "title":"FACE WITH MEDICAL MASK"}
+		]
+	},
+	{"name":"Cat faces", "content":
+		[
+			{"charcode":"0x1F638", "title":"GRINNING CAT FACE WITH SMILING EYES"},
+			{"charcode":"0x1F639", "title":"CAT FACE WITH TEARS OF JOY"},
+			{"charcode":"0x1F63A", "title":"SMILING CAT FACE WITH OPEN MOUTH"},
+			{"charcode":"0x1F63B", "title":"SMILING CAT FACE WITH HEART-SHAPED EYES"},
+			{"charcode":"0x1F63C", "title":"CAT FACE WITH WRY SMILE"},
+			{"charcode":"0x1F63D", "title":"KISSING CAT FACE WITH CLOSED EYES"},
+			{"charcode":"0x1F63E", "title":"POUTING CAT FACE"},
+			{"charcode":"0x1F63F", "title":"CRYING CAT FACE"},
+			{"charcode":"0x1F640", "title":"WEARY CAT FACE"}
+		]
+	},
+	{"name":"Gesture symbols", "content":
+		[
+			{"charcode":"0x1F645", "title":"FACE WITH NO GOOD GESTURE"},
+			{"charcode":"0x1F646", "title":"FACE WITH OK GESTURE"},
+			{"charcode":"0x1F647", "title":"PERSON BOWING DEEPLY"},
+			{"charcode":"0x1F648", "title":"SEE-NO-EVIL MONKEY"},
+			{"charcode":"0x1F649", "title":"HEAR-NO-EVIL MONKEY"},
+			{"charcode":"0x1F64A", "title":"SPEAK-NO-EVIL MONKEY"},
+			{"charcode":"0x1F64B", "title":"HAPPY PERSON RAISING ONE HAND"},
+			{"charcode":"0x1F64C", "title":"PERSON RAISING BOTH HANDS IN CELEBRATION"},
+			{"charcode":"0x1F64D", "title":"PERSON FROWNING"},
+			{"charcode":"0x1F64E", "title":"PERSON WITH POUTING FACE"},
+			{"charcode":"0x1F64F", "title":"PERSON WITH FOLDED HANDS"}
+		]
+	}
+]
