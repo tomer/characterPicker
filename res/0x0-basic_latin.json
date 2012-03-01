@@ -1,0 +1,515 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x0", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x1", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x2", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x3", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x4", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x5", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x6", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x7", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x8", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x9", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0xa", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0xb", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0xc", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0xd", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0xe", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0xf", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x10", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x11", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x12", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x13", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x14", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x15", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x16", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x17", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x18", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x19", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x1a", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x1b", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x1c", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x1d", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x1e", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x1f", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x20", 
+                "title": "SPACE"
+            }, 
+            {
+                "charcode": "0x21", 
+                "title": "EXCLAMATION MARK"
+            }, 
+            {
+                "charcode": "0x22", 
+                "title": "QUOTATION MARK"
+            }, 
+            {
+                "charcode": "0x23", 
+                "title": "NUMBER SIGN"
+            }, 
+            {
+                "charcode": "0x24", 
+                "title": "DOLLAR SIGN"
+            }, 
+            {
+                "charcode": "0x25", 
+                "title": "PERCENT SIGN"
+            }, 
+            {
+                "charcode": "0x26", 
+                "title": "AMPERSAND"
+            }, 
+            {
+                "charcode": "0x27", 
+                "title": "APOSTROPHE"
+            }, 
+            {
+                "charcode": "0x28", 
+                "title": "LEFT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0x29", 
+                "title": "RIGHT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0x2a", 
+                "title": "ASTERISK"
+            }, 
+            {
+                "charcode": "0x2b", 
+                "title": "PLUS SIGN"
+            }, 
+            {
+                "charcode": "0x2c", 
+                "title": "COMMA"
+            }, 
+            {
+                "charcode": "0x2d", 
+                "title": "HYPHEN-MINUS"
+            }, 
+            {
+                "charcode": "0x2e", 
+                "title": "FULL STOP"
+            }, 
+            {
+                "charcode": "0x2f", 
+                "title": "SOLIDUS"
+            }, 
+            {
+                "charcode": "0x30", 
+                "title": "DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x31", 
+                "title": "DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x32", 
+                "title": "DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x33", 
+                "title": "DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x34", 
+                "title": "DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x35", 
+                "title": "DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x36", 
+                "title": "DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x37", 
+                "title": "DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x38", 
+                "title": "DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x39", 
+                "title": "DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x3a", 
+                "title": "COLON"
+            }, 
+            {
+                "charcode": "0x3b", 
+                "title": "SEMICOLON"
+            }, 
+            {
+                "charcode": "0x3c", 
+                "title": "LESS-THAN SIGN"
+            }, 
+            {
+                "charcode": "0x3d", 
+                "title": "EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x3e", 
+                "title": "GREATER-THAN SIGN"
+            }, 
+            {
+                "charcode": "0x3f", 
+                "title": "QUESTION MARK"
+            }, 
+            {
+                "charcode": "0x40", 
+                "title": "COMMERCIAL AT"
+            }, 
+            {
+                "charcode": "0x41", 
+                "title": "LATIN CAPITAL LETTER A"
+            }, 
+            {
+                "charcode": "0x42", 
+                "title": "LATIN CAPITAL LETTER B"
+            }, 
+            {
+                "charcode": "0x43", 
+                "title": "LATIN CAPITAL LETTER C"
+            }, 
+            {
+                "charcode": "0x44", 
+                "title": "LATIN CAPITAL LETTER D"
+            }, 
+            {
+                "charcode": "0x45", 
+                "title": "LATIN CAPITAL LETTER E"
+            }, 
+            {
+                "charcode": "0x46", 
+                "title": "LATIN CAPITAL LETTER F"
+            }, 
+            {
+                "charcode": "0x47", 
+                "title": "LATIN CAPITAL LETTER G"
+            }, 
+            {
+                "charcode": "0x48", 
+                "title": "LATIN CAPITAL LETTER H"
+            }, 
+            {
+                "charcode": "0x49", 
+                "title": "LATIN CAPITAL LETTER I"
+            }, 
+            {
+                "charcode": "0x4a", 
+                "title": "LATIN CAPITAL LETTER J"
+            }, 
+            {
+                "charcode": "0x4b", 
+                "title": "LATIN CAPITAL LETTER K"
+            }, 
+            {
+                "charcode": "0x4c", 
+                "title": "LATIN CAPITAL LETTER L"
+            }, 
+            {
+                "charcode": "0x4d", 
+                "title": "LATIN CAPITAL LETTER M"
+            }, 
+            {
+                "charcode": "0x4e", 
+                "title": "LATIN CAPITAL LETTER N"
+            }, 
+            {
+                "charcode": "0x4f", 
+                "title": "LATIN CAPITAL LETTER O"
+            }, 
+            {
+                "charcode": "0x50", 
+                "title": "LATIN CAPITAL LETTER P"
+            }, 
+            {
+                "charcode": "0x51", 
+                "title": "LATIN CAPITAL LETTER Q"
+            }, 
+            {
+                "charcode": "0x52", 
+                "title": "LATIN CAPITAL LETTER R"
+            }, 
+            {
+                "charcode": "0x53", 
+                "title": "LATIN CAPITAL LETTER S"
+            }, 
+            {
+                "charcode": "0x54", 
+                "title": "LATIN CAPITAL LETTER T"
+            }, 
+            {
+                "charcode": "0x55", 
+                "title": "LATIN CAPITAL LETTER U"
+            }, 
+            {
+                "charcode": "0x56", 
+                "title": "LATIN CAPITAL LETTER V"
+            }, 
+            {
+                "charcode": "0x57", 
+                "title": "LATIN CAPITAL LETTER W"
+            }, 
+            {
+                "charcode": "0x58", 
+                "title": "LATIN CAPITAL LETTER X"
+            }, 
+            {
+                "charcode": "0x59", 
+                "title": "LATIN CAPITAL LETTER Y"
+            }, 
+            {
+                "charcode": "0x5a", 
+                "title": "LATIN CAPITAL LETTER Z"
+            }, 
+            {
+                "charcode": "0x5b", 
+                "title": "LEFT SQUARE BRACKET"
+            }, 
+            {
+                "charcode": "0x5c", 
+                "title": "REVERSE SOLIDUS"
+            }, 
+            {
+                "charcode": "0x5d", 
+                "title": "RIGHT SQUARE BRACKET"
+            }, 
+            {
+                "charcode": "0x5e", 
+                "title": "CIRCUMFLEX ACCENT"
+            }, 
+            {
+                "charcode": "0x5f", 
+                "title": "LOW LINE"
+            }, 
+            {
+                "charcode": "0x60", 
+                "title": "GRAVE ACCENT"
+            }, 
+            {
+                "charcode": "0x61", 
+                "title": "LATIN SMALL LETTER A"
+            }, 
+            {
+                "charcode": "0x62", 
+                "title": "LATIN SMALL LETTER B"
+            }, 
+            {
+                "charcode": "0x63", 
+                "title": "LATIN SMALL LETTER C"
+            }, 
+            {
+                "charcode": "0x64", 
+                "title": "LATIN SMALL LETTER D"
+            }, 
+            {
+                "charcode": "0x65", 
+                "title": "LATIN SMALL LETTER E"
+            }, 
+            {
+                "charcode": "0x66", 
+                "title": "LATIN SMALL LETTER F"
+            }, 
+            {
+                "charcode": "0x67", 
+                "title": "LATIN SMALL LETTER G"
+            }, 
+            {
+                "charcode": "0x68", 
+                "title": "LATIN SMALL LETTER H"
+            }, 
+            {
+                "charcode": "0x69", 
+                "title": "LATIN SMALL LETTER I"
+            }, 
+            {
+                "charcode": "0x6a", 
+                "title": "LATIN SMALL LETTER J"
+            }, 
+            {
+                "charcode": "0x6b", 
+                "title": "LATIN SMALL LETTER K"
+            }, 
+            {
+                "charcode": "0x6c", 
+                "title": "LATIN SMALL LETTER L"
+            }, 
+            {
+                "charcode": "0x6d", 
+                "title": "LATIN SMALL LETTER M"
+            }, 
+            {
+                "charcode": "0x6e", 
+                "title": "LATIN SMALL LETTER N"
+            }, 
+            {
+                "charcode": "0x6f", 
+                "title": "LATIN SMALL LETTER O"
+            }, 
+            {
+                "charcode": "0x70", 
+                "title": "LATIN SMALL LETTER P"
+            }, 
+            {
+                "charcode": "0x71", 
+                "title": "LATIN SMALL LETTER Q"
+            }, 
+            {
+                "charcode": "0x72", 
+                "title": "LATIN SMALL LETTER R"
+            }, 
+            {
+                "charcode": "0x73", 
+                "title": "LATIN SMALL LETTER S"
+            }, 
+            {
+                "charcode": "0x74", 
+                "title": "LATIN SMALL LETTER T"
+            }, 
+            {
+                "charcode": "0x75", 
+                "title": "LATIN SMALL LETTER U"
+            }, 
+            {
+                "charcode": "0x76", 
+                "title": "LATIN SMALL LETTER V"
+            }, 
+            {
+                "charcode": "0x77", 
+                "title": "LATIN SMALL LETTER W"
+            }, 
+            {
+                "charcode": "0x78", 
+                "title": "LATIN SMALL LETTER X"
+            }, 
+            {
+                "charcode": "0x79", 
+                "title": "LATIN SMALL LETTER Y"
+            }, 
+            {
+                "charcode": "0x7a", 
+                "title": "LATIN SMALL LETTER Z"
+            }, 
+            {
+                "charcode": "0x7b", 
+                "title": "LEFT CURLY BRACKET"
+            }, 
+            {
+                "charcode": "0x7c", 
+                "title": "VERTICAL LINE"
+            }, 
+            {
+                "charcode": "0x7d", 
+                "title": "RIGHT CURLY BRACKET"
+            }, 
+            {
+                "charcode": "0x7e", 
+                "title": "TILDE"
+            }
+        ], 
+        "name": "Basic Latin"
+    }
+]

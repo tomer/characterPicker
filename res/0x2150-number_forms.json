@@ -1,0 +1,239 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2150", 
+                "title": "VULGAR FRACTION ONE SEVENTH"
+            }, 
+            {
+                "charcode": "0x2151", 
+                "title": "VULGAR FRACTION ONE NINTH"
+            }, 
+            {
+                "charcode": "0x2152", 
+                "title": "VULGAR FRACTION ONE TENTH"
+            }, 
+            {
+                "charcode": "0x2153", 
+                "title": "VULGAR FRACTION ONE THIRD"
+            }, 
+            {
+                "charcode": "0x2154", 
+                "title": "VULGAR FRACTION TWO THIRDS"
+            }, 
+            {
+                "charcode": "0x2155", 
+                "title": "VULGAR FRACTION ONE FIFTH"
+            }, 
+            {
+                "charcode": "0x2156", 
+                "title": "VULGAR FRACTION TWO FIFTHS"
+            }, 
+            {
+                "charcode": "0x2157", 
+                "title": "VULGAR FRACTION THREE FIFTHS"
+            }, 
+            {
+                "charcode": "0x2158", 
+                "title": "VULGAR FRACTION FOUR FIFTHS"
+            }, 
+            {
+                "charcode": "0x2159", 
+                "title": "VULGAR FRACTION ONE SIXTH"
+            }, 
+            {
+                "charcode": "0x215a", 
+                "title": "VULGAR FRACTION FIVE SIXTHS"
+            }, 
+            {
+                "charcode": "0x215b", 
+                "title": "VULGAR FRACTION ONE EIGHTH"
+            }, 
+            {
+                "charcode": "0x215c", 
+                "title": "VULGAR FRACTION THREE EIGHTHS"
+            }, 
+            {
+                "charcode": "0x215d", 
+                "title": "VULGAR FRACTION FIVE EIGHTHS"
+            }, 
+            {
+                "charcode": "0x215e", 
+                "title": "VULGAR FRACTION SEVEN EIGHTHS"
+            }, 
+            {
+                "charcode": "0x215f", 
+                "title": "FRACTION NUMERATOR ONE"
+            }, 
+            {
+                "charcode": "0x2160", 
+                "title": "ROMAN NUMERAL ONE"
+            }, 
+            {
+                "charcode": "0x2161", 
+                "title": "ROMAN NUMERAL TWO"
+            }, 
+            {
+                "charcode": "0x2162", 
+                "title": "ROMAN NUMERAL THREE"
+            }, 
+            {
+                "charcode": "0x2163", 
+                "title": "ROMAN NUMERAL FOUR"
+            }, 
+            {
+                "charcode": "0x2164", 
+                "title": "ROMAN NUMERAL FIVE"
+            }, 
+            {
+                "charcode": "0x2165", 
+                "title": "ROMAN NUMERAL SIX"
+            }, 
+            {
+                "charcode": "0x2166", 
+                "title": "ROMAN NUMERAL SEVEN"
+            }, 
+            {
+                "charcode": "0x2167", 
+                "title": "ROMAN NUMERAL EIGHT"
+            }, 
+            {
+                "charcode": "0x2168", 
+                "title": "ROMAN NUMERAL NINE"
+            }, 
+            {
+                "charcode": "0x2169", 
+                "title": "ROMAN NUMERAL TEN"
+            }, 
+            {
+                "charcode": "0x216a", 
+                "title": "ROMAN NUMERAL ELEVEN"
+            }, 
+            {
+                "charcode": "0x216b", 
+                "title": "ROMAN NUMERAL TWELVE"
+            }, 
+            {
+                "charcode": "0x216c", 
+                "title": "ROMAN NUMERAL FIFTY"
+            }, 
+            {
+                "charcode": "0x216d", 
+                "title": "ROMAN NUMERAL ONE HUNDRED"
+            }, 
+            {
+                "charcode": "0x216e", 
+                "title": "ROMAN NUMERAL FIVE HUNDRED"
+            }, 
+            {
+                "charcode": "0x216f", 
+                "title": "ROMAN NUMERAL ONE THOUSAND"
+            }, 
+            {
+                "charcode": "0x2170", 
+                "title": "SMALL ROMAN NUMERAL ONE"
+            }, 
+            {
+                "charcode": "0x2171", 
+                "title": "SMALL ROMAN NUMERAL TWO"
+            }, 
+            {
+                "charcode": "0x2172", 
+                "title": "SMALL ROMAN NUMERAL THREE"
+            }, 
+            {
+                "charcode": "0x2173", 
+                "title": "SMALL ROMAN NUMERAL FOUR"
+            }, 
+            {
+                "charcode": "0x2174", 
+                "title": "SMALL ROMAN NUMERAL FIVE"
+            }, 
+            {
+                "charcode": "0x2175", 
+                "title": "SMALL ROMAN NUMERAL SIX"
+            }, 
+            {
+                "charcode": "0x2176", 
+                "title": "SMALL ROMAN NUMERAL SEVEN"
+            }, 
+            {
+                "charcode": "0x2177", 
+                "title": "SMALL ROMAN NUMERAL EIGHT"
+            }, 
+            {
+                "charcode": "0x2178", 
+                "title": "SMALL ROMAN NUMERAL NINE"
+            }, 
+            {
+                "charcode": "0x2179", 
+                "title": "SMALL ROMAN NUMERAL TEN"
+            }, 
+            {
+                "charcode": "0x217a", 
+                "title": "SMALL ROMAN NUMERAL ELEVEN"
+            }, 
+            {
+                "charcode": "0x217b", 
+                "title": "SMALL ROMAN NUMERAL TWELVE"
+            }, 
+            {
+                "charcode": "0x217c", 
+                "title": "SMALL ROMAN NUMERAL FIFTY"
+            }, 
+            {
+                "charcode": "0x217d", 
+                "title": "SMALL ROMAN NUMERAL ONE HUNDRED"
+            }, 
+            {
+                "charcode": "0x217e", 
+                "title": "SMALL ROMAN NUMERAL FIVE HUNDRED"
+            }, 
+            {
+                "charcode": "0x217f", 
+                "title": "SMALL ROMAN NUMERAL ONE THOUSAND"
+            }, 
+            {
+                "charcode": "0x2180", 
+                "title": "ROMAN NUMERAL ONE THOUSAND C D"
+            }, 
+            {
+                "charcode": "0x2181", 
+                "title": "ROMAN NUMERAL FIVE THOUSAND"
+            }, 
+            {
+                "charcode": "0x2182", 
+                "title": "ROMAN NUMERAL TEN THOUSAND"
+            }, 
+            {
+                "charcode": "0x2183", 
+                "title": "ROMAN NUMERAL REVERSED ONE HUNDRED"
+            }, 
+            {
+                "charcode": "0x2184", 
+                "title": "LATIN SMALL LETTER REVERSED C"
+            }, 
+            {
+                "charcode": "0x2185", 
+                "title": "ROMAN NUMERAL SIX LATE FORM"
+            }, 
+            {
+                "charcode": "0x2186", 
+                "title": "ROMAN NUMERAL FIFTY EARLY FORM"
+            }, 
+            {
+                "charcode": "0x2187", 
+                "title": "ROMAN NUMERAL FIFTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x2188", 
+                "title": "ROMAN NUMERAL ONE HUNDRED THOUSAND"
+            }, 
+            {
+                "charcode": "0x2189", 
+                "title": "VULGAR FRACTION ZERO THIRDS"
+            }
+        ], 
+        "name": "Number Forms"
+    }
+]

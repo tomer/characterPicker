@@ -1,0 +1,1023 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x3200", 
+                "title": "PARENTHESIZED HANGUL KIYEOK"
+            }, 
+            {
+                "charcode": "0x3201", 
+                "title": "PARENTHESIZED HANGUL NIEUN"
+            }, 
+            {
+                "charcode": "0x3202", 
+                "title": "PARENTHESIZED HANGUL TIKEUT"
+            }, 
+            {
+                "charcode": "0x3203", 
+                "title": "PARENTHESIZED HANGUL RIEUL"
+            }, 
+            {
+                "charcode": "0x3204", 
+                "title": "PARENTHESIZED HANGUL MIEUM"
+            }, 
+            {
+                "charcode": "0x3205", 
+                "title": "PARENTHESIZED HANGUL PIEUP"
+            }, 
+            {
+                "charcode": "0x3206", 
+                "title": "PARENTHESIZED HANGUL SIOS"
+            }, 
+            {
+                "charcode": "0x3207", 
+                "title": "PARENTHESIZED HANGUL IEUNG"
+            }, 
+            {
+                "charcode": "0x3208", 
+                "title": "PARENTHESIZED HANGUL CIEUC"
+            }, 
+            {
+                "charcode": "0x3209", 
+                "title": "PARENTHESIZED HANGUL CHIEUCH"
+            }, 
+            {
+                "charcode": "0x320a", 
+                "title": "PARENTHESIZED HANGUL KHIEUKH"
+            }, 
+            {
+                "charcode": "0x320b", 
+                "title": "PARENTHESIZED HANGUL THIEUTH"
+            }, 
+            {
+                "charcode": "0x320c", 
+                "title": "PARENTHESIZED HANGUL PHIEUPH"
+            }, 
+            {
+                "charcode": "0x320d", 
+                "title": "PARENTHESIZED HANGUL HIEUH"
+            }, 
+            {
+                "charcode": "0x320e", 
+                "title": "PARENTHESIZED HANGUL KIYEOK A"
+            }, 
+            {
+                "charcode": "0x320f", 
+                "title": "PARENTHESIZED HANGUL NIEUN A"
+            }, 
+            {
+                "charcode": "0x3210", 
+                "title": "PARENTHESIZED HANGUL TIKEUT A"
+            }, 
+            {
+                "charcode": "0x3211", 
+                "title": "PARENTHESIZED HANGUL RIEUL A"
+            }, 
+            {
+                "charcode": "0x3212", 
+                "title": "PARENTHESIZED HANGUL MIEUM A"
+            }, 
+            {
+                "charcode": "0x3213", 
+                "title": "PARENTHESIZED HANGUL PIEUP A"
+            }, 
+            {
+                "charcode": "0x3214", 
+                "title": "PARENTHESIZED HANGUL SIOS A"
+            }, 
+            {
+                "charcode": "0x3215", 
+                "title": "PARENTHESIZED HANGUL IEUNG A"
+            }, 
+            {
+                "charcode": "0x3216", 
+                "title": "PARENTHESIZED HANGUL CIEUC A"
+            }, 
+            {
+                "charcode": "0x3217", 
+                "title": "PARENTHESIZED HANGUL CHIEUCH A"
+            }, 
+            {
+                "charcode": "0x3218", 
+                "title": "PARENTHESIZED HANGUL KHIEUKH A"
+            }, 
+            {
+                "charcode": "0x3219", 
+                "title": "PARENTHESIZED HANGUL THIEUTH A"
+            }, 
+            {
+                "charcode": "0x321a", 
+                "title": "PARENTHESIZED HANGUL PHIEUPH A"
+            }, 
+            {
+                "charcode": "0x321b", 
+                "title": "PARENTHESIZED HANGUL HIEUH A"
+            }, 
+            {
+                "charcode": "0x321c", 
+                "title": "PARENTHESIZED HANGUL CIEUC U"
+            }, 
+            {
+                "charcode": "0x321d", 
+                "title": "PARENTHESIZED KOREAN CHARACTER OJEON"
+            }, 
+            {
+                "charcode": "0x321e", 
+                "title": "PARENTHESIZED KOREAN CHARACTER O HU"
+            }, 
+            {
+                "charcode": "0x3220", 
+                "title": "PARENTHESIZED IDEOGRAPH ONE"
+            }, 
+            {
+                "charcode": "0x3221", 
+                "title": "PARENTHESIZED IDEOGRAPH TWO"
+            }, 
+            {
+                "charcode": "0x3222", 
+                "title": "PARENTHESIZED IDEOGRAPH THREE"
+            }, 
+            {
+                "charcode": "0x3223", 
+                "title": "PARENTHESIZED IDEOGRAPH FOUR"
+            }, 
+            {
+                "charcode": "0x3224", 
+                "title": "PARENTHESIZED IDEOGRAPH FIVE"
+            }, 
+            {
+                "charcode": "0x3225", 
+                "title": "PARENTHESIZED IDEOGRAPH SIX"
+            }, 
+            {
+                "charcode": "0x3226", 
+                "title": "PARENTHESIZED IDEOGRAPH SEVEN"
+            }, 
+            {
+                "charcode": "0x3227", 
+                "title": "PARENTHESIZED IDEOGRAPH EIGHT"
+            }, 
+            {
+                "charcode": "0x3228", 
+                "title": "PARENTHESIZED IDEOGRAPH NINE"
+            }, 
+            {
+                "charcode": "0x3229", 
+                "title": "PARENTHESIZED IDEOGRAPH TEN"
+            }, 
+            {
+                "charcode": "0x322a", 
+                "title": "PARENTHESIZED IDEOGRAPH MOON"
+            }, 
+            {
+                "charcode": "0x322b", 
+                "title": "PARENTHESIZED IDEOGRAPH FIRE"
+            }, 
+            {
+                "charcode": "0x322c", 
+                "title": "PARENTHESIZED IDEOGRAPH WATER"
+            }, 
+            {
+                "charcode": "0x322d", 
+                "title": "PARENTHESIZED IDEOGRAPH WOOD"
+            }, 
+            {
+                "charcode": "0x322e", 
+                "title": "PARENTHESIZED IDEOGRAPH METAL"
+            }, 
+            {
+                "charcode": "0x322f", 
+                "title": "PARENTHESIZED IDEOGRAPH EARTH"
+            }, 
+            {
+                "charcode": "0x3230", 
+                "title": "PARENTHESIZED IDEOGRAPH SUN"
+            }, 
+            {
+                "charcode": "0x3231", 
+                "title": "PARENTHESIZED IDEOGRAPH STOCK"
+            }, 
+            {
+                "charcode": "0x3232", 
+                "title": "PARENTHESIZED IDEOGRAPH HAVE"
+            }, 
+            {
+                "charcode": "0x3233", 
+                "title": "PARENTHESIZED IDEOGRAPH SOCIETY"
+            }, 
+            {
+                "charcode": "0x3234", 
+                "title": "PARENTHESIZED IDEOGRAPH NAME"
+            }, 
+            {
+                "charcode": "0x3235", 
+                "title": "PARENTHESIZED IDEOGRAPH SPECIAL"
+            }, 
+            {
+                "charcode": "0x3236", 
+                "title": "PARENTHESIZED IDEOGRAPH FINANCIAL"
+            }, 
+            {
+                "charcode": "0x3237", 
+                "title": "PARENTHESIZED IDEOGRAPH CONGRATULATION"
+            }, 
+            {
+                "charcode": "0x3238", 
+                "title": "PARENTHESIZED IDEOGRAPH LABOR"
+            }, 
+            {
+                "charcode": "0x3239", 
+                "title": "PARENTHESIZED IDEOGRAPH REPRESENT"
+            }, 
+            {
+                "charcode": "0x323a", 
+                "title": "PARENTHESIZED IDEOGRAPH CALL"
+            }, 
+            {
+                "charcode": "0x323b", 
+                "title": "PARENTHESIZED IDEOGRAPH STUDY"
+            }, 
+            {
+                "charcode": "0x323c", 
+                "title": "PARENTHESIZED IDEOGRAPH SUPERVISE"
+            }, 
+            {
+                "charcode": "0x323d", 
+                "title": "PARENTHESIZED IDEOGRAPH ENTERPRISE"
+            }, 
+            {
+                "charcode": "0x323e", 
+                "title": "PARENTHESIZED IDEOGRAPH RESOURCE"
+            }, 
+            {
+                "charcode": "0x323f", 
+                "title": "PARENTHESIZED IDEOGRAPH ALLIANCE"
+            }, 
+            {
+                "charcode": "0x3240", 
+                "title": "PARENTHESIZED IDEOGRAPH FESTIVAL"
+            }, 
+            {
+                "charcode": "0x3241", 
+                "title": "PARENTHESIZED IDEOGRAPH REST"
+            }, 
+            {
+                "charcode": "0x3242", 
+                "title": "PARENTHESIZED IDEOGRAPH SELF"
+            }, 
+            {
+                "charcode": "0x3243", 
+                "title": "PARENTHESIZED IDEOGRAPH REACH"
+            }, 
+            {
+                "charcode": "0x3244", 
+                "title": "CIRCLED IDEOGRAPH QUESTION"
+            }, 
+            {
+                "charcode": "0x3245", 
+                "title": "CIRCLED IDEOGRAPH KINDERGARTEN"
+            }, 
+            {
+                "charcode": "0x3246", 
+                "title": "CIRCLED IDEOGRAPH SCHOOL"
+            }, 
+            {
+                "charcode": "0x3247", 
+                "title": "CIRCLED IDEOGRAPH KOTO"
+            }, 
+            {
+                "charcode": "0x3248", 
+                "title": "CIRCLED NUMBER TEN ON BLACK SQUARE"
+            }, 
+            {
+                "charcode": "0x3249", 
+                "title": "CIRCLED NUMBER TWENTY ON BLACK SQUARE"
+            }, 
+            {
+                "charcode": "0x324a", 
+                "title": "CIRCLED NUMBER THIRTY ON BLACK SQUARE"
+            }, 
+            {
+                "charcode": "0x324b", 
+                "title": "CIRCLED NUMBER FORTY ON BLACK SQUARE"
+            }, 
+            {
+                "charcode": "0x324c", 
+                "title": "CIRCLED NUMBER FIFTY ON BLACK SQUARE"
+            }, 
+            {
+                "charcode": "0x324d", 
+                "title": "CIRCLED NUMBER SIXTY ON BLACK SQUARE"
+            }, 
+            {
+                "charcode": "0x324e", 
+                "title": "CIRCLED NUMBER SEVENTY ON BLACK SQUARE"
+            }, 
+            {
+                "charcode": "0x324f", 
+                "title": "CIRCLED NUMBER EIGHTY ON BLACK SQUARE"
+            }, 
+            {
+                "charcode": "0x3250", 
+                "title": "PARTNERSHIP SIGN"
+            }, 
+            {
+                "charcode": "0x3251", 
+                "title": "CIRCLED NUMBER TWENTY ONE"
+            }, 
+            {
+                "charcode": "0x3252", 
+                "title": "CIRCLED NUMBER TWENTY TWO"
+            }, 
+            {
+                "charcode": "0x3253", 
+                "title": "CIRCLED NUMBER TWENTY THREE"
+            }, 
+            {
+                "charcode": "0x3254", 
+                "title": "CIRCLED NUMBER TWENTY FOUR"
+            }, 
+            {
+                "charcode": "0x3255", 
+                "title": "CIRCLED NUMBER TWENTY FIVE"
+            }, 
+            {
+                "charcode": "0x3256", 
+                "title": "CIRCLED NUMBER TWENTY SIX"
+            }, 
+            {
+                "charcode": "0x3257", 
+                "title": "CIRCLED NUMBER TWENTY SEVEN"
+            }, 
+            {
+                "charcode": "0x3258", 
+                "title": "CIRCLED NUMBER TWENTY EIGHT"
+            }, 
+            {
+                "charcode": "0x3259", 
+                "title": "CIRCLED NUMBER TWENTY NINE"
+            }, 
+            {
+                "charcode": "0x325a", 
+                "title": "CIRCLED NUMBER THIRTY"
+            }, 
+            {
+                "charcode": "0x325b", 
+                "title": "CIRCLED NUMBER THIRTY ONE"
+            }, 
+            {
+                "charcode": "0x325c", 
+                "title": "CIRCLED NUMBER THIRTY TWO"
+            }, 
+            {
+                "charcode": "0x325d", 
+                "title": "CIRCLED NUMBER THIRTY THREE"
+            }, 
+            {
+                "charcode": "0x325e", 
+                "title": "CIRCLED NUMBER THIRTY FOUR"
+            }, 
+            {
+                "charcode": "0x325f", 
+                "title": "CIRCLED NUMBER THIRTY FIVE"
+            }, 
+            {
+                "charcode": "0x3260", 
+                "title": "CIRCLED HANGUL KIYEOK"
+            }, 
+            {
+                "charcode": "0x3261", 
+                "title": "CIRCLED HANGUL NIEUN"
+            }, 
+            {
+                "charcode": "0x3262", 
+                "title": "CIRCLED HANGUL TIKEUT"
+            }, 
+            {
+                "charcode": "0x3263", 
+                "title": "CIRCLED HANGUL RIEUL"
+            }, 
+            {
+                "charcode": "0x3264", 
+                "title": "CIRCLED HANGUL MIEUM"
+            }, 
+            {
+                "charcode": "0x3265", 
+                "title": "CIRCLED HANGUL PIEUP"
+            }, 
+            {
+                "charcode": "0x3266", 
+                "title": "CIRCLED HANGUL SIOS"
+            }, 
+            {
+                "charcode": "0x3267", 
+                "title": "CIRCLED HANGUL IEUNG"
+            }, 
+            {
+                "charcode": "0x3268", 
+                "title": "CIRCLED HANGUL CIEUC"
+            }, 
+            {
+                "charcode": "0x3269", 
+                "title": "CIRCLED HANGUL CHIEUCH"
+            }, 
+            {
+                "charcode": "0x326a", 
+                "title": "CIRCLED HANGUL KHIEUKH"
+            }, 
+            {
+                "charcode": "0x326b", 
+                "title": "CIRCLED HANGUL THIEUTH"
+            }, 
+            {
+                "charcode": "0x326c", 
+                "title": "CIRCLED HANGUL PHIEUPH"
+            }, 
+            {
+                "charcode": "0x326d", 
+                "title": "CIRCLED HANGUL HIEUH"
+            }, 
+            {
+                "charcode": "0x326e", 
+                "title": "CIRCLED HANGUL KIYEOK A"
+            }, 
+            {
+                "charcode": "0x326f", 
+                "title": "CIRCLED HANGUL NIEUN A"
+            }, 
+            {
+                "charcode": "0x3270", 
+                "title": "CIRCLED HANGUL TIKEUT A"
+            }, 
+            {
+                "charcode": "0x3271", 
+                "title": "CIRCLED HANGUL RIEUL A"
+            }, 
+            {
+                "charcode": "0x3272", 
+                "title": "CIRCLED HANGUL MIEUM A"
+            }, 
+            {
+                "charcode": "0x3273", 
+                "title": "CIRCLED HANGUL PIEUP A"
+            }, 
+            {
+                "charcode": "0x3274", 
+                "title": "CIRCLED HANGUL SIOS A"
+            }, 
+            {
+                "charcode": "0x3275", 
+                "title": "CIRCLED HANGUL IEUNG A"
+            }, 
+            {
+                "charcode": "0x3276", 
+                "title": "CIRCLED HANGUL CIEUC A"
+            }, 
+            {
+                "charcode": "0x3277", 
+                "title": "CIRCLED HANGUL CHIEUCH A"
+            }, 
+            {
+                "charcode": "0x3278", 
+                "title": "CIRCLED HANGUL KHIEUKH A"
+            }, 
+            {
+                "charcode": "0x3279", 
+                "title": "CIRCLED HANGUL THIEUTH A"
+            }, 
+            {
+                "charcode": "0x327a", 
+                "title": "CIRCLED HANGUL PHIEUPH A"
+            }, 
+            {
+                "charcode": "0x327b", 
+                "title": "CIRCLED HANGUL HIEUH A"
+            }, 
+            {
+                "charcode": "0x327c", 
+                "title": "CIRCLED KOREAN CHARACTER CHAMKO"
+            }, 
+            {
+                "charcode": "0x327d", 
+                "title": "CIRCLED KOREAN CHARACTER JUEUI"
+            }, 
+            {
+                "charcode": "0x327e", 
+                "title": "CIRCLED HANGUL IEUNG U"
+            }, 
+            {
+                "charcode": "0x327f", 
+                "title": "KOREAN STANDARD SYMBOL"
+            }, 
+            {
+                "charcode": "0x3280", 
+                "title": "CIRCLED IDEOGRAPH ONE"
+            }, 
+            {
+                "charcode": "0x3281", 
+                "title": "CIRCLED IDEOGRAPH TWO"
+            }, 
+            {
+                "charcode": "0x3282", 
+                "title": "CIRCLED IDEOGRAPH THREE"
+            }, 
+            {
+                "charcode": "0x3283", 
+                "title": "CIRCLED IDEOGRAPH FOUR"
+            }, 
+            {
+                "charcode": "0x3284", 
+                "title": "CIRCLED IDEOGRAPH FIVE"
+            }, 
+            {
+                "charcode": "0x3285", 
+                "title": "CIRCLED IDEOGRAPH SIX"
+            }, 
+            {
+                "charcode": "0x3286", 
+                "title": "CIRCLED IDEOGRAPH SEVEN"
+            }, 
+            {
+                "charcode": "0x3287", 
+                "title": "CIRCLED IDEOGRAPH EIGHT"
+            }, 
+            {
+                "charcode": "0x3288", 
+                "title": "CIRCLED IDEOGRAPH NINE"
+            }, 
+            {
+                "charcode": "0x3289", 
+                "title": "CIRCLED IDEOGRAPH TEN"
+            }, 
+            {
+                "charcode": "0x328a", 
+                "title": "CIRCLED IDEOGRAPH MOON"
+            }, 
+            {
+                "charcode": "0x328b", 
+                "title": "CIRCLED IDEOGRAPH FIRE"
+            }, 
+            {
+                "charcode": "0x328c", 
+                "title": "CIRCLED IDEOGRAPH WATER"
+            }, 
+            {
+                "charcode": "0x328d", 
+                "title": "CIRCLED IDEOGRAPH WOOD"
+            }, 
+            {
+                "charcode": "0x328e", 
+                "title": "CIRCLED IDEOGRAPH METAL"
+            }, 
+            {
+                "charcode": "0x328f", 
+                "title": "CIRCLED IDEOGRAPH EARTH"
+            }, 
+            {
+                "charcode": "0x3290", 
+                "title": "CIRCLED IDEOGRAPH SUN"
+            }, 
+            {
+                "charcode": "0x3291", 
+                "title": "CIRCLED IDEOGRAPH STOCK"
+            }, 
+            {
+                "charcode": "0x3292", 
+                "title": "CIRCLED IDEOGRAPH HAVE"
+            }, 
+            {
+                "charcode": "0x3293", 
+                "title": "CIRCLED IDEOGRAPH SOCIETY"
+            }, 
+            {
+                "charcode": "0x3294", 
+                "title": "CIRCLED IDEOGRAPH NAME"
+            }, 
+            {
+                "charcode": "0x3295", 
+                "title": "CIRCLED IDEOGRAPH SPECIAL"
+            }, 
+            {
+                "charcode": "0x3296", 
+                "title": "CIRCLED IDEOGRAPH FINANCIAL"
+            }, 
+            {
+                "charcode": "0x3297", 
+                "title": "CIRCLED IDEOGRAPH CONGRATULATION"
+            }, 
+            {
+                "charcode": "0x3298", 
+                "title": "CIRCLED IDEOGRAPH LABOR"
+            }, 
+            {
+                "charcode": "0x3299", 
+                "title": "CIRCLED IDEOGRAPH SECRET"
+            }, 
+            {
+                "charcode": "0x329a", 
+                "title": "CIRCLED IDEOGRAPH MALE"
+            }, 
+            {
+                "charcode": "0x329b", 
+                "title": "CIRCLED IDEOGRAPH FEMALE"
+            }, 
+            {
+                "charcode": "0x329c", 
+                "title": "CIRCLED IDEOGRAPH SUITABLE"
+            }, 
+            {
+                "charcode": "0x329d", 
+                "title": "CIRCLED IDEOGRAPH EXCELLENT"
+            }, 
+            {
+                "charcode": "0x329e", 
+                "title": "CIRCLED IDEOGRAPH PRINT"
+            }, 
+            {
+                "charcode": "0x329f", 
+                "title": "CIRCLED IDEOGRAPH ATTENTION"
+            }, 
+            {
+                "charcode": "0x32a0", 
+                "title": "CIRCLED IDEOGRAPH ITEM"
+            }, 
+            {
+                "charcode": "0x32a1", 
+                "title": "CIRCLED IDEOGRAPH REST"
+            }, 
+            {
+                "charcode": "0x32a2", 
+                "title": "CIRCLED IDEOGRAPH COPY"
+            }, 
+            {
+                "charcode": "0x32a3", 
+                "title": "CIRCLED IDEOGRAPH CORRECT"
+            }, 
+            {
+                "charcode": "0x32a4", 
+                "title": "CIRCLED IDEOGRAPH HIGH"
+            }, 
+            {
+                "charcode": "0x32a5", 
+                "title": "CIRCLED IDEOGRAPH CENTRE"
+            }, 
+            {
+                "charcode": "0x32a6", 
+                "title": "CIRCLED IDEOGRAPH LOW"
+            }, 
+            {
+                "charcode": "0x32a7", 
+                "title": "CIRCLED IDEOGRAPH LEFT"
+            }, 
+            {
+                "charcode": "0x32a8", 
+                "title": "CIRCLED IDEOGRAPH RIGHT"
+            }, 
+            {
+                "charcode": "0x32a9", 
+                "title": "CIRCLED IDEOGRAPH MEDICINE"
+            }, 
+            {
+                "charcode": "0x32aa", 
+                "title": "CIRCLED IDEOGRAPH RELIGION"
+            }, 
+            {
+                "charcode": "0x32ab", 
+                "title": "CIRCLED IDEOGRAPH STUDY"
+            }, 
+            {
+                "charcode": "0x32ac", 
+                "title": "CIRCLED IDEOGRAPH SUPERVISE"
+            }, 
+            {
+                "charcode": "0x32ad", 
+                "title": "CIRCLED IDEOGRAPH ENTERPRISE"
+            }, 
+            {
+                "charcode": "0x32ae", 
+                "title": "CIRCLED IDEOGRAPH RESOURCE"
+            }, 
+            {
+                "charcode": "0x32af", 
+                "title": "CIRCLED IDEOGRAPH ALLIANCE"
+            }, 
+            {
+                "charcode": "0x32b0", 
+                "title": "CIRCLED IDEOGRAPH NIGHT"
+            }, 
+            {
+                "charcode": "0x32b1", 
+                "title": "CIRCLED NUMBER THIRTY SIX"
+            }, 
+            {
+                "charcode": "0x32b2", 
+                "title": "CIRCLED NUMBER THIRTY SEVEN"
+            }, 
+            {
+                "charcode": "0x32b3", 
+                "title": "CIRCLED NUMBER THIRTY EIGHT"
+            }, 
+            {
+                "charcode": "0x32b4", 
+                "title": "CIRCLED NUMBER THIRTY NINE"
+            }, 
+            {
+                "charcode": "0x32b5", 
+                "title": "CIRCLED NUMBER FORTY"
+            }, 
+            {
+                "charcode": "0x32b6", 
+                "title": "CIRCLED NUMBER FORTY ONE"
+            }, 
+            {
+                "charcode": "0x32b7", 
+                "title": "CIRCLED NUMBER FORTY TWO"
+            }, 
+            {
+                "charcode": "0x32b8", 
+                "title": "CIRCLED NUMBER FORTY THREE"
+            }, 
+            {
+                "charcode": "0x32b9", 
+                "title": "CIRCLED NUMBER FORTY FOUR"
+            }, 
+            {
+                "charcode": "0x32ba", 
+                "title": "CIRCLED NUMBER FORTY FIVE"
+            }, 
+            {
+                "charcode": "0x32bb", 
+                "title": "CIRCLED NUMBER FORTY SIX"
+            }, 
+            {
+                "charcode": "0x32bc", 
+                "title": "CIRCLED NUMBER FORTY SEVEN"
+            }, 
+            {
+                "charcode": "0x32bd", 
+                "title": "CIRCLED NUMBER FORTY EIGHT"
+            }, 
+            {
+                "charcode": "0x32be", 
+                "title": "CIRCLED NUMBER FORTY NINE"
+            }, 
+            {
+                "charcode": "0x32bf", 
+                "title": "CIRCLED NUMBER FIFTY"
+            }, 
+            {
+                "charcode": "0x32c0", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JANUARY"
+            }, 
+            {
+                "charcode": "0x32c1", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR FEBRUARY"
+            }, 
+            {
+                "charcode": "0x32c2", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR MARCH"
+            }, 
+            {
+                "charcode": "0x32c3", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR APRIL"
+            }, 
+            {
+                "charcode": "0x32c4", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR MAY"
+            }, 
+            {
+                "charcode": "0x32c5", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JUNE"
+            }, 
+            {
+                "charcode": "0x32c6", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JULY"
+            }, 
+            {
+                "charcode": "0x32c7", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR AUGUST"
+            }, 
+            {
+                "charcode": "0x32c8", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR SEPTEMBER"
+            }, 
+            {
+                "charcode": "0x32c9", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR OCTOBER"
+            }, 
+            {
+                "charcode": "0x32ca", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR NOVEMBER"
+            }, 
+            {
+                "charcode": "0x32cb", 
+                "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DECEMBER"
+            }, 
+            {
+                "charcode": "0x32cc", 
+                "title": "SQUARE HG"
+            }, 
+            {
+                "charcode": "0x32cd", 
+                "title": "SQUARE ERG"
+            }, 
+            {
+                "charcode": "0x32ce", 
+                "title": "SQUARE EV"
+            }, 
+            {
+                "charcode": "0x32cf", 
+                "title": "LIMITED LIABILITY SIGN"
+            }, 
+            {
+                "charcode": "0x32d0", 
+                "title": "CIRCLED KATAKANA A"
+            }, 
+            {
+                "charcode": "0x32d1", 
+                "title": "CIRCLED KATAKANA I"
+            }, 
+            {
+                "charcode": "0x32d2", 
+                "title": "CIRCLED KATAKANA U"
+            }, 
+            {
+                "charcode": "0x32d3", 
+                "title": "CIRCLED KATAKANA E"
+            }, 
+            {
+                "charcode": "0x32d4", 
+                "title": "CIRCLED KATAKANA O"
+            }, 
+            {
+                "charcode": "0x32d5", 
+                "title": "CIRCLED KATAKANA KA"
+            }, 
+            {
+                "charcode": "0x32d6", 
+                "title": "CIRCLED KATAKANA KI"
+            }, 
+            {
+                "charcode": "0x32d7", 
+                "title": "CIRCLED KATAKANA KU"
+            }, 
+            {
+                "charcode": "0x32d8", 
+                "title": "CIRCLED KATAKANA KE"
+            }, 
+            {
+                "charcode": "0x32d9", 
+                "title": "CIRCLED KATAKANA KO"
+            }, 
+            {
+                "charcode": "0x32da", 
+                "title": "CIRCLED KATAKANA SA"
+            }, 
+            {
+                "charcode": "0x32db", 
+                "title": "CIRCLED KATAKANA SI"
+            }, 
+            {
+                "charcode": "0x32dc", 
+                "title": "CIRCLED KATAKANA SU"
+            }, 
+            {
+                "charcode": "0x32dd", 
+                "title": "CIRCLED KATAKANA SE"
+            }, 
+            {
+                "charcode": "0x32de", 
+                "title": "CIRCLED KATAKANA SO"
+            }, 
+            {
+                "charcode": "0x32df", 
+                "title": "CIRCLED KATAKANA TA"
+            }, 
+            {
+                "charcode": "0x32e0", 
+                "title": "CIRCLED KATAKANA TI"
+            }, 
+            {
+                "charcode": "0x32e1", 
+                "title": "CIRCLED KATAKANA TU"
+            }, 
+            {
+                "charcode": "0x32e2", 
+                "title": "CIRCLED KATAKANA TE"
+            }, 
+            {
+                "charcode": "0x32e3", 
+                "title": "CIRCLED KATAKANA TO"
+            }, 
+            {
+                "charcode": "0x32e4", 
+                "title": "CIRCLED KATAKANA NA"
+            }, 
+            {
+                "charcode": "0x32e5", 
+                "title": "CIRCLED KATAKANA NI"
+            }, 
+            {
+                "charcode": "0x32e6", 
+                "title": "CIRCLED KATAKANA NU"
+            }, 
+            {
+                "charcode": "0x32e7", 
+                "title": "CIRCLED KATAKANA NE"
+            }, 
+            {
+                "charcode": "0x32e8", 
+                "title": "CIRCLED KATAKANA NO"
+            }, 
+            {
+                "charcode": "0x32e9", 
+                "title": "CIRCLED KATAKANA HA"
+            }, 
+            {
+                "charcode": "0x32ea", 
+                "title": "CIRCLED KATAKANA HI"
+            }, 
+            {
+                "charcode": "0x32eb", 
+                "title": "CIRCLED KATAKANA HU"
+            }, 
+            {
+                "charcode": "0x32ec", 
+                "title": "CIRCLED KATAKANA HE"
+            }, 
+            {
+                "charcode": "0x32ed", 
+                "title": "CIRCLED KATAKANA HO"
+            }, 
+            {
+                "charcode": "0x32ee", 
+                "title": "CIRCLED KATAKANA MA"
+            }, 
+            {
+                "charcode": "0x32ef", 
+                "title": "CIRCLED KATAKANA MI"
+            }, 
+            {
+                "charcode": "0x32f0", 
+                "title": "CIRCLED KATAKANA MU"
+            }, 
+            {
+                "charcode": "0x32f1", 
+                "title": "CIRCLED KATAKANA ME"
+            }, 
+            {
+                "charcode": "0x32f2", 
+                "title": "CIRCLED KATAKANA MO"
+            }, 
+            {
+                "charcode": "0x32f3", 
+                "title": "CIRCLED KATAKANA YA"
+            }, 
+            {
+                "charcode": "0x32f4", 
+                "title": "CIRCLED KATAKANA YU"
+            }, 
+            {
+                "charcode": "0x32f5", 
+                "title": "CIRCLED KATAKANA YO"
+            }, 
+            {
+                "charcode": "0x32f6", 
+                "title": "CIRCLED KATAKANA RA"
+            }, 
+            {
+                "charcode": "0x32f7", 
+                "title": "CIRCLED KATAKANA RI"
+            }, 
+            {
+                "charcode": "0x32f8", 
+                "title": "CIRCLED KATAKANA RU"
+            }, 
+            {
+                "charcode": "0x32f9", 
+                "title": "CIRCLED KATAKANA RE"
+            }, 
+            {
+                "charcode": "0x32fa", 
+                "title": "CIRCLED KATAKANA RO"
+            }, 
+            {
+                "charcode": "0x32fb", 
+                "title": "CIRCLED KATAKANA WA"
+            }, 
+            {
+                "charcode": "0x32fc", 
+                "title": "CIRCLED KATAKANA WI"
+            }, 
+            {
+                "charcode": "0x32fd", 
+                "title": "CIRCLED KATAKANA WE"
+            }, 
+            {
+                "charcode": "0x32fe", 
+                "title": "CIRCLED KATAKANA WO"
+            }
+        ], 
+        "name": "Enclosed CJK Letters and Months"
+    }
+]

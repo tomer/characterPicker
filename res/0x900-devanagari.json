@@ -1,0 +1,511 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x900", 
+                "title": "DEVANAGARI SIGN INVERTED CANDRABINDU"
+            }, 
+            {
+                "charcode": "0x901", 
+                "title": "DEVANAGARI SIGN CANDRABINDU"
+            }, 
+            {
+                "charcode": "0x902", 
+                "title": "DEVANAGARI SIGN ANUSVARA"
+            }, 
+            {
+                "charcode": "0x903", 
+                "title": "DEVANAGARI SIGN VISARGA"
+            }, 
+            {
+                "charcode": "0x904", 
+                "title": "DEVANAGARI LETTER SHORT A"
+            }, 
+            {
+                "charcode": "0x905", 
+                "title": "DEVANAGARI LETTER A"
+            }, 
+            {
+                "charcode": "0x906", 
+                "title": "DEVANAGARI LETTER AA"
+            }, 
+            {
+                "charcode": "0x907", 
+                "title": "DEVANAGARI LETTER I"
+            }, 
+            {
+                "charcode": "0x908", 
+                "title": "DEVANAGARI LETTER II"
+            }, 
+            {
+                "charcode": "0x909", 
+                "title": "DEVANAGARI LETTER U"
+            }, 
+            {
+                "charcode": "0x90a", 
+                "title": "DEVANAGARI LETTER UU"
+            }, 
+            {
+                "charcode": "0x90b", 
+                "title": "DEVANAGARI LETTER VOCALIC R"
+            }, 
+            {
+                "charcode": "0x90c", 
+                "title": "DEVANAGARI LETTER VOCALIC L"
+            }, 
+            {
+                "charcode": "0x90d", 
+                "title": "DEVANAGARI LETTER CANDRA E"
+            }, 
+            {
+                "charcode": "0x90e", 
+                "title": "DEVANAGARI LETTER SHORT E"
+            }, 
+            {
+                "charcode": "0x90f", 
+                "title": "DEVANAGARI LETTER E"
+            }, 
+            {
+                "charcode": "0x910", 
+                "title": "DEVANAGARI LETTER AI"
+            }, 
+            {
+                "charcode": "0x911", 
+                "title": "DEVANAGARI LETTER CANDRA O"
+            }, 
+            {
+                "charcode": "0x912", 
+                "title": "DEVANAGARI LETTER SHORT O"
+            }, 
+            {
+                "charcode": "0x913", 
+                "title": "DEVANAGARI LETTER O"
+            }, 
+            {
+                "charcode": "0x914", 
+                "title": "DEVANAGARI LETTER AU"
+            }, 
+            {
+                "charcode": "0x915", 
+                "title": "DEVANAGARI LETTER KA"
+            }, 
+            {
+                "charcode": "0x916", 
+                "title": "DEVANAGARI LETTER KHA"
+            }, 
+            {
+                "charcode": "0x917", 
+                "title": "DEVANAGARI LETTER GA"
+            }, 
+            {
+                "charcode": "0x918", 
+                "title": "DEVANAGARI LETTER GHA"
+            }, 
+            {
+                "charcode": "0x919", 
+                "title": "DEVANAGARI LETTER NGA"
+            }, 
+            {
+                "charcode": "0x91a", 
+                "title": "DEVANAGARI LETTER CA"
+            }, 
+            {
+                "charcode": "0x91b", 
+                "title": "DEVANAGARI LETTER CHA"
+            }, 
+            {
+                "charcode": "0x91c", 
+                "title": "DEVANAGARI LETTER JA"
+            }, 
+            {
+                "charcode": "0x91d", 
+                "title": "DEVANAGARI LETTER JHA"
+            }, 
+            {
+                "charcode": "0x91e", 
+                "title": "DEVANAGARI LETTER NYA"
+            }, 
+            {
+                "charcode": "0x91f", 
+                "title": "DEVANAGARI LETTER TTA"
+            }, 
+            {
+                "charcode": "0x920", 
+                "title": "DEVANAGARI LETTER TTHA"
+            }, 
+            {
+                "charcode": "0x921", 
+                "title": "DEVANAGARI LETTER DDA"
+            }, 
+            {
+                "charcode": "0x922", 
+                "title": "DEVANAGARI LETTER DDHA"
+            }, 
+            {
+                "charcode": "0x923", 
+                "title": "DEVANAGARI LETTER NNA"
+            }, 
+            {
+                "charcode": "0x924", 
+                "title": "DEVANAGARI LETTER TA"
+            }, 
+            {
+                "charcode": "0x925", 
+                "title": "DEVANAGARI LETTER THA"
+            }, 
+            {
+                "charcode": "0x926", 
+                "title": "DEVANAGARI LETTER DA"
+            }, 
+            {
+                "charcode": "0x927", 
+                "title": "DEVANAGARI LETTER DHA"
+            }, 
+            {
+                "charcode": "0x928", 
+                "title": "DEVANAGARI LETTER NA"
+            }, 
+            {
+                "charcode": "0x929", 
+                "title": "DEVANAGARI LETTER NNNA"
+            }, 
+            {
+                "charcode": "0x92a", 
+                "title": "DEVANAGARI LETTER PA"
+            }, 
+            {
+                "charcode": "0x92b", 
+                "title": "DEVANAGARI LETTER PHA"
+            }, 
+            {
+                "charcode": "0x92c", 
+                "title": "DEVANAGARI LETTER BA"
+            }, 
+            {
+                "charcode": "0x92d", 
+                "title": "DEVANAGARI LETTER BHA"
+            }, 
+            {
+                "charcode": "0x92e", 
+                "title": "DEVANAGARI LETTER MA"
+            }, 
+            {
+                "charcode": "0x92f", 
+                "title": "DEVANAGARI LETTER YA"
+            }, 
+            {
+                "charcode": "0x930", 
+                "title": "DEVANAGARI LETTER RA"
+            }, 
+            {
+                "charcode": "0x931", 
+                "title": "DEVANAGARI LETTER RRA"
+            }, 
+            {
+                "charcode": "0x932", 
+                "title": "DEVANAGARI LETTER LA"
+            }, 
+            {
+                "charcode": "0x933", 
+                "title": "DEVANAGARI LETTER LLA"
+            }, 
+            {
+                "charcode": "0x934", 
+                "title": "DEVANAGARI LETTER LLLA"
+            }, 
+            {
+                "charcode": "0x935", 
+                "title": "DEVANAGARI LETTER VA"
+            }, 
+            {
+                "charcode": "0x936", 
+                "title": "DEVANAGARI LETTER SHA"
+            }, 
+            {
+                "charcode": "0x937", 
+                "title": "DEVANAGARI LETTER SSA"
+            }, 
+            {
+                "charcode": "0x938", 
+                "title": "DEVANAGARI LETTER SA"
+            }, 
+            {
+                "charcode": "0x939", 
+                "title": "DEVANAGARI LETTER HA"
+            }, 
+            {
+                "charcode": "0x93a", 
+                "title": "DEVANAGARI VOWEL SIGN OE"
+            }, 
+            {
+                "charcode": "0x93b", 
+                "title": "DEVANAGARI VOWEL SIGN OOE"
+            }, 
+            {
+                "charcode": "0x93c", 
+                "title": "DEVANAGARI SIGN NUKTA"
+            }, 
+            {
+                "charcode": "0x93d", 
+                "title": "DEVANAGARI SIGN AVAGRAHA"
+            }, 
+            {
+                "charcode": "0x93e", 
+                "title": "DEVANAGARI VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0x93f", 
+                "title": "DEVANAGARI VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0x940", 
+                "title": "DEVANAGARI VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0x941", 
+                "title": "DEVANAGARI VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0x942", 
+                "title": "DEVANAGARI VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0x943", 
+                "title": "DEVANAGARI VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "charcode": "0x944", 
+                "title": "DEVANAGARI VOWEL SIGN VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x945", 
+                "title": "DEVANAGARI VOWEL SIGN CANDRA E"
+            }, 
+            {
+                "charcode": "0x946", 
+                "title": "DEVANAGARI VOWEL SIGN SHORT E"
+            }, 
+            {
+                "charcode": "0x947", 
+                "title": "DEVANAGARI VOWEL SIGN E"
+            }, 
+            {
+                "charcode": "0x948", 
+                "title": "DEVANAGARI VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0x949", 
+                "title": "DEVANAGARI VOWEL SIGN CANDRA O"
+            }, 
+            {
+                "charcode": "0x94a", 
+                "title": "DEVANAGARI VOWEL SIGN SHORT O"
+            }, 
+            {
+                "charcode": "0x94b", 
+                "title": "DEVANAGARI VOWEL SIGN O"
+            }, 
+            {
+                "charcode": "0x94c", 
+                "title": "DEVANAGARI VOWEL SIGN AU"
+            }, 
+            {
+                "charcode": "0x94d", 
+                "title": "DEVANAGARI SIGN VIRAMA"
+            }, 
+            {
+                "charcode": "0x94e", 
+                "title": "DEVANAGARI VOWEL SIGN PRISHTHAMATRA E"
+            }, 
+            {
+                "charcode": "0x94f", 
+                "title": "DEVANAGARI VOWEL SIGN AW"
+            }, 
+            {
+                "charcode": "0x950", 
+                "title": "DEVANAGARI OM"
+            }, 
+            {
+                "charcode": "0x951", 
+                "title": "DEVANAGARI STRESS SIGN UDATTA"
+            }, 
+            {
+                "charcode": "0x952", 
+                "title": "DEVANAGARI STRESS SIGN ANUDATTA"
+            }, 
+            {
+                "charcode": "0x953", 
+                "title": "DEVANAGARI GRAVE ACCENT"
+            }, 
+            {
+                "charcode": "0x954", 
+                "title": "DEVANAGARI ACUTE ACCENT"
+            }, 
+            {
+                "charcode": "0x955", 
+                "title": "DEVANAGARI VOWEL SIGN CANDRA LONG E"
+            }, 
+            {
+                "charcode": "0x956", 
+                "title": "DEVANAGARI VOWEL SIGN UE"
+            }, 
+            {
+                "charcode": "0x957", 
+                "title": "DEVANAGARI VOWEL SIGN UUE"
+            }, 
+            {
+                "charcode": "0x958", 
+                "title": "DEVANAGARI LETTER QA"
+            }, 
+            {
+                "charcode": "0x959", 
+                "title": "DEVANAGARI LETTER KHHA"
+            }, 
+            {
+                "charcode": "0x95a", 
+                "title": "DEVANAGARI LETTER GHHA"
+            }, 
+            {
+                "charcode": "0x95b", 
+                "title": "DEVANAGARI LETTER ZA"
+            }, 
+            {
+                "charcode": "0x95c", 
+                "title": "DEVANAGARI LETTER DDDHA"
+            }, 
+            {
+                "charcode": "0x95d", 
+                "title": "DEVANAGARI LETTER RHA"
+            }, 
+            {
+                "charcode": "0x95e", 
+                "title": "DEVANAGARI LETTER FA"
+            }, 
+            {
+                "charcode": "0x95f", 
+                "title": "DEVANAGARI LETTER YYA"
+            }, 
+            {
+                "charcode": "0x960", 
+                "title": "DEVANAGARI LETTER VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x961", 
+                "title": "DEVANAGARI LETTER VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x962", 
+                "title": "DEVANAGARI VOWEL SIGN VOCALIC L"
+            }, 
+            {
+                "charcode": "0x963", 
+                "title": "DEVANAGARI VOWEL SIGN VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x964", 
+                "title": "DEVANAGARI DANDA"
+            }, 
+            {
+                "charcode": "0x965", 
+                "title": "DEVANAGARI DOUBLE DANDA"
+            }, 
+            {
+                "charcode": "0x966", 
+                "title": "DEVANAGARI DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x967", 
+                "title": "DEVANAGARI DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x968", 
+                "title": "DEVANAGARI DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x969", 
+                "title": "DEVANAGARI DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x96a", 
+                "title": "DEVANAGARI DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x96b", 
+                "title": "DEVANAGARI DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x96c", 
+                "title": "DEVANAGARI DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x96d", 
+                "title": "DEVANAGARI DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x96e", 
+                "title": "DEVANAGARI DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x96f", 
+                "title": "DEVANAGARI DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x970", 
+                "title": "DEVANAGARI ABBREVIATION SIGN"
+            }, 
+            {
+                "charcode": "0x971", 
+                "title": "DEVANAGARI SIGN HIGH SPACING DOT"
+            }, 
+            {
+                "charcode": "0x972", 
+                "title": "DEVANAGARI LETTER CANDRA A"
+            }, 
+            {
+                "charcode": "0x973", 
+                "title": "DEVANAGARI LETTER OE"
+            }, 
+            {
+                "charcode": "0x974", 
+                "title": "DEVANAGARI LETTER OOE"
+            }, 
+            {
+                "charcode": "0x975", 
+                "title": "DEVANAGARI LETTER AW"
+            }, 
+            {
+                "charcode": "0x976", 
+                "title": "DEVANAGARI LETTER UE"
+            }, 
+            {
+                "charcode": "0x977", 
+                "title": "DEVANAGARI LETTER UUE"
+            }, 
+            {
+                "charcode": "0x979", 
+                "title": "DEVANAGARI LETTER ZHA"
+            }, 
+            {
+                "charcode": "0x97a", 
+                "title": "DEVANAGARI LETTER HEAVY YA"
+            }, 
+            {
+                "charcode": "0x97b", 
+                "title": "DEVANAGARI LETTER GGA"
+            }, 
+            {
+                "charcode": "0x97c", 
+                "title": "DEVANAGARI LETTER JJA"
+            }, 
+            {
+                "charcode": "0x97d", 
+                "title": "DEVANAGARI LETTER GLOTTAL STOP"
+            }, 
+            {
+                "charcode": "0x97e", 
+                "title": "DEVANAGARI LETTER DDDA"
+            }
+        ], 
+        "name": "Devanagari"
+    }
+]

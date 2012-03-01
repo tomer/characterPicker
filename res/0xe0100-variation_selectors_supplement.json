@@ -1,0 +1,963 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xe0100", 
+                "title": "VARIATION SELECTOR-17"
+            }, 
+            {
+                "charcode": "0xe0101", 
+                "title": "VARIATION SELECTOR-18"
+            }, 
+            {
+                "charcode": "0xe0102", 
+                "title": "VARIATION SELECTOR-19"
+            }, 
+            {
+                "charcode": "0xe0103", 
+                "title": "VARIATION SELECTOR-20"
+            }, 
+            {
+                "charcode": "0xe0104", 
+                "title": "VARIATION SELECTOR-21"
+            }, 
+            {
+                "charcode": "0xe0105", 
+                "title": "VARIATION SELECTOR-22"
+            }, 
+            {
+                "charcode": "0xe0106", 
+                "title": "VARIATION SELECTOR-23"
+            }, 
+            {
+                "charcode": "0xe0107", 
+                "title": "VARIATION SELECTOR-24"
+            }, 
+            {
+                "charcode": "0xe0108", 
+                "title": "VARIATION SELECTOR-25"
+            }, 
+            {
+                "charcode": "0xe0109", 
+                "title": "VARIATION SELECTOR-26"
+            }, 
+            {
+                "charcode": "0xe010a", 
+                "title": "VARIATION SELECTOR-27"
+            }, 
+            {
+                "charcode": "0xe010b", 
+                "title": "VARIATION SELECTOR-28"
+            }, 
+            {
+                "charcode": "0xe010c", 
+                "title": "VARIATION SELECTOR-29"
+            }, 
+            {
+                "charcode": "0xe010d", 
+                "title": "VARIATION SELECTOR-30"
+            }, 
+            {
+                "charcode": "0xe010e", 
+                "title": "VARIATION SELECTOR-31"
+            }, 
+            {
+                "charcode": "0xe010f", 
+                "title": "VARIATION SELECTOR-32"
+            }, 
+            {
+                "charcode": "0xe0110", 
+                "title": "VARIATION SELECTOR-33"
+            }, 
+            {
+                "charcode": "0xe0111", 
+                "title": "VARIATION SELECTOR-34"
+            }, 
+            {
+                "charcode": "0xe0112", 
+                "title": "VARIATION SELECTOR-35"
+            }, 
+            {
+                "charcode": "0xe0113", 
+                "title": "VARIATION SELECTOR-36"
+            }, 
+            {
+                "charcode": "0xe0114", 
+                "title": "VARIATION SELECTOR-37"
+            }, 
+            {
+                "charcode": "0xe0115", 
+                "title": "VARIATION SELECTOR-38"
+            }, 
+            {
+                "charcode": "0xe0116", 
+                "title": "VARIATION SELECTOR-39"
+            }, 
+            {
+                "charcode": "0xe0117", 
+                "title": "VARIATION SELECTOR-40"
+            }, 
+            {
+                "charcode": "0xe0118", 
+                "title": "VARIATION SELECTOR-41"
+            }, 
+            {
+                "charcode": "0xe0119", 
+                "title": "VARIATION SELECTOR-42"
+            }, 
+            {
+                "charcode": "0xe011a", 
+                "title": "VARIATION SELECTOR-43"
+            }, 
+            {
+                "charcode": "0xe011b", 
+                "title": "VARIATION SELECTOR-44"
+            }, 
+            {
+                "charcode": "0xe011c", 
+                "title": "VARIATION SELECTOR-45"
+            }, 
+            {
+                "charcode": "0xe011d", 
+                "title": "VARIATION SELECTOR-46"
+            }, 
+            {
+                "charcode": "0xe011e", 
+                "title": "VARIATION SELECTOR-47"
+            }, 
+            {
+                "charcode": "0xe011f", 
+                "title": "VARIATION SELECTOR-48"
+            }, 
+            {
+                "charcode": "0xe0120", 
+                "title": "VARIATION SELECTOR-49"
+            }, 
+            {
+                "charcode": "0xe0121", 
+                "title": "VARIATION SELECTOR-50"
+            }, 
+            {
+                "charcode": "0xe0122", 
+                "title": "VARIATION SELECTOR-51"
+            }, 
+            {
+                "charcode": "0xe0123", 
+                "title": "VARIATION SELECTOR-52"
+            }, 
+            {
+                "charcode": "0xe0124", 
+                "title": "VARIATION SELECTOR-53"
+            }, 
+            {
+                "charcode": "0xe0125", 
+                "title": "VARIATION SELECTOR-54"
+            }, 
+            {
+                "charcode": "0xe0126", 
+                "title": "VARIATION SELECTOR-55"
+            }, 
+            {
+                "charcode": "0xe0127", 
+                "title": "VARIATION SELECTOR-56"
+            }, 
+            {
+                "charcode": "0xe0128", 
+                "title": "VARIATION SELECTOR-57"
+            }, 
+            {
+                "charcode": "0xe0129", 
+                "title": "VARIATION SELECTOR-58"
+            }, 
+            {
+                "charcode": "0xe012a", 
+                "title": "VARIATION SELECTOR-59"
+            }, 
+            {
+                "charcode": "0xe012b", 
+                "title": "VARIATION SELECTOR-60"
+            }, 
+            {
+                "charcode": "0xe012c", 
+                "title": "VARIATION SELECTOR-61"
+            }, 
+            {
+                "charcode": "0xe012d", 
+                "title": "VARIATION SELECTOR-62"
+            }, 
+            {
+                "charcode": "0xe012e", 
+                "title": "VARIATION SELECTOR-63"
+            }, 
+            {
+                "charcode": "0xe012f", 
+                "title": "VARIATION SELECTOR-64"
+            }, 
+            {
+                "charcode": "0xe0130", 
+                "title": "VARIATION SELECTOR-65"
+            }, 
+            {
+                "charcode": "0xe0131", 
+                "title": "VARIATION SELECTOR-66"
+            }, 
+            {
+                "charcode": "0xe0132", 
+                "title": "VARIATION SELECTOR-67"
+            }, 
+            {
+                "charcode": "0xe0133", 
+                "title": "VARIATION SELECTOR-68"
+            }, 
+            {
+                "charcode": "0xe0134", 
+                "title": "VARIATION SELECTOR-69"
+            }, 
+            {
+                "charcode": "0xe0135", 
+                "title": "VARIATION SELECTOR-70"
+            }, 
+            {
+                "charcode": "0xe0136", 
+                "title": "VARIATION SELECTOR-71"
+            }, 
+            {
+                "charcode": "0xe0137", 
+                "title": "VARIATION SELECTOR-72"
+            }, 
+            {
+                "charcode": "0xe0138", 
+                "title": "VARIATION SELECTOR-73"
+            }, 
+            {
+                "charcode": "0xe0139", 
+                "title": "VARIATION SELECTOR-74"
+            }, 
+            {
+                "charcode": "0xe013a", 
+                "title": "VARIATION SELECTOR-75"
+            }, 
+            {
+                "charcode": "0xe013b", 
+                "title": "VARIATION SELECTOR-76"
+            }, 
+            {
+                "charcode": "0xe013c", 
+                "title": "VARIATION SELECTOR-77"
+            }, 
+            {
+                "charcode": "0xe013d", 
+                "title": "VARIATION SELECTOR-78"
+            }, 
+            {
+                "charcode": "0xe013e", 
+                "title": "VARIATION SELECTOR-79"
+            }, 
+            {
+                "charcode": "0xe013f", 
+                "title": "VARIATION SELECTOR-80"
+            }, 
+            {
+                "charcode": "0xe0140", 
+                "title": "VARIATION SELECTOR-81"
+            }, 
+            {
+                "charcode": "0xe0141", 
+                "title": "VARIATION SELECTOR-82"
+            }, 
+            {
+                "charcode": "0xe0142", 
+                "title": "VARIATION SELECTOR-83"
+            }, 
+            {
+                "charcode": "0xe0143", 
+                "title": "VARIATION SELECTOR-84"
+            }, 
+            {
+                "charcode": "0xe0144", 
+                "title": "VARIATION SELECTOR-85"
+            }, 
+            {
+                "charcode": "0xe0145", 
+                "title": "VARIATION SELECTOR-86"
+            }, 
+            {
+                "charcode": "0xe0146", 
+                "title": "VARIATION SELECTOR-87"
+            }, 
+            {
+                "charcode": "0xe0147", 
+                "title": "VARIATION SELECTOR-88"
+            }, 
+            {
+                "charcode": "0xe0148", 
+                "title": "VARIATION SELECTOR-89"
+            }, 
+            {
+                "charcode": "0xe0149", 
+                "title": "VARIATION SELECTOR-90"
+            }, 
+            {
+                "charcode": "0xe014a", 
+                "title": "VARIATION SELECTOR-91"
+            }, 
+            {
+                "charcode": "0xe014b", 
+                "title": "VARIATION SELECTOR-92"
+            }, 
+            {
+                "charcode": "0xe014c", 
+                "title": "VARIATION SELECTOR-93"
+            }, 
+            {
+                "charcode": "0xe014d", 
+                "title": "VARIATION SELECTOR-94"
+            }, 
+            {
+                "charcode": "0xe014e", 
+                "title": "VARIATION SELECTOR-95"
+            }, 
+            {
+                "charcode": "0xe014f", 
+                "title": "VARIATION SELECTOR-96"
+            }, 
+            {
+                "charcode": "0xe0150", 
+                "title": "VARIATION SELECTOR-97"
+            }, 
+            {
+                "charcode": "0xe0151", 
+                "title": "VARIATION SELECTOR-98"
+            }, 
+            {
+                "charcode": "0xe0152", 
+                "title": "VARIATION SELECTOR-99"
+            }, 
+            {
+                "charcode": "0xe0153", 
+                "title": "VARIATION SELECTOR-100"
+            }, 
+            {
+                "charcode": "0xe0154", 
+                "title": "VARIATION SELECTOR-101"
+            }, 
+            {
+                "charcode": "0xe0155", 
+                "title": "VARIATION SELECTOR-102"
+            }, 
+            {
+                "charcode": "0xe0156", 
+                "title": "VARIATION SELECTOR-103"
+            }, 
+            {
+                "charcode": "0xe0157", 
+                "title": "VARIATION SELECTOR-104"
+            }, 
+            {
+                "charcode": "0xe0158", 
+                "title": "VARIATION SELECTOR-105"
+            }, 
+            {
+                "charcode": "0xe0159", 
+                "title": "VARIATION SELECTOR-106"
+            }, 
+            {
+                "charcode": "0xe015a", 
+                "title": "VARIATION SELECTOR-107"
+            }, 
+            {
+                "charcode": "0xe015b", 
+                "title": "VARIATION SELECTOR-108"
+            }, 
+            {
+                "charcode": "0xe015c", 
+                "title": "VARIATION SELECTOR-109"
+            }, 
+            {
+                "charcode": "0xe015d", 
+                "title": "VARIATION SELECTOR-110"
+            }, 
+            {
+                "charcode": "0xe015e", 
+                "title": "VARIATION SELECTOR-111"
+            }, 
+            {
+                "charcode": "0xe015f", 
+                "title": "VARIATION SELECTOR-112"
+            }, 
+            {
+                "charcode": "0xe0160", 
+                "title": "VARIATION SELECTOR-113"
+            }, 
+            {
+                "charcode": "0xe0161", 
+                "title": "VARIATION SELECTOR-114"
+            }, 
+            {
+                "charcode": "0xe0162", 
+                "title": "VARIATION SELECTOR-115"
+            }, 
+            {
+                "charcode": "0xe0163", 
+                "title": "VARIATION SELECTOR-116"
+            }, 
+            {
+                "charcode": "0xe0164", 
+                "title": "VARIATION SELECTOR-117"
+            }, 
+            {
+                "charcode": "0xe0165", 
+                "title": "VARIATION SELECTOR-118"
+            }, 
+            {
+                "charcode": "0xe0166", 
+                "title": "VARIATION SELECTOR-119"
+            }, 
+            {
+                "charcode": "0xe0167", 
+                "title": "VARIATION SELECTOR-120"
+            }, 
+            {
+                "charcode": "0xe0168", 
+                "title": "VARIATION SELECTOR-121"
+            }, 
+            {
+                "charcode": "0xe0169", 
+                "title": "VARIATION SELECTOR-122"
+            }, 
+            {
+                "charcode": "0xe016a", 
+                "title": "VARIATION SELECTOR-123"
+            }, 
+            {
+                "charcode": "0xe016b", 
+                "title": "VARIATION SELECTOR-124"
+            }, 
+            {
+                "charcode": "0xe016c", 
+                "title": "VARIATION SELECTOR-125"
+            }, 
+            {
+                "charcode": "0xe016d", 
+                "title": "VARIATION SELECTOR-126"
+            }, 
+            {
+                "charcode": "0xe016e", 
+                "title": "VARIATION SELECTOR-127"
+            }, 
+            {
+                "charcode": "0xe016f", 
+                "title": "VARIATION SELECTOR-128"
+            }, 
+            {
+                "charcode": "0xe0170", 
+                "title": "VARIATION SELECTOR-129"
+            }, 
+            {
+                "charcode": "0xe0171", 
+                "title": "VARIATION SELECTOR-130"
+            }, 
+            {
+                "charcode": "0xe0172", 
+                "title": "VARIATION SELECTOR-131"
+            }, 
+            {
+                "charcode": "0xe0173", 
+                "title": "VARIATION SELECTOR-132"
+            }, 
+            {
+                "charcode": "0xe0174", 
+                "title": "VARIATION SELECTOR-133"
+            }, 
+            {
+                "charcode": "0xe0175", 
+                "title": "VARIATION SELECTOR-134"
+            }, 
+            {
+                "charcode": "0xe0176", 
+                "title": "VARIATION SELECTOR-135"
+            }, 
+            {
+                "charcode": "0xe0177", 
+                "title": "VARIATION SELECTOR-136"
+            }, 
+            {
+                "charcode": "0xe0178", 
+                "title": "VARIATION SELECTOR-137"
+            }, 
+            {
+                "charcode": "0xe0179", 
+                "title": "VARIATION SELECTOR-138"
+            }, 
+            {
+                "charcode": "0xe017a", 
+                "title": "VARIATION SELECTOR-139"
+            }, 
+            {
+                "charcode": "0xe017b", 
+                "title": "VARIATION SELECTOR-140"
+            }, 
+            {
+                "charcode": "0xe017c", 
+                "title": "VARIATION SELECTOR-141"
+            }, 
+            {
+                "charcode": "0xe017d", 
+                "title": "VARIATION SELECTOR-142"
+            }, 
+            {
+                "charcode": "0xe017e", 
+                "title": "VARIATION SELECTOR-143"
+            }, 
+            {
+                "charcode": "0xe017f", 
+                "title": "VARIATION SELECTOR-144"
+            }, 
+            {
+                "charcode": "0xe0180", 
+                "title": "VARIATION SELECTOR-145"
+            }, 
+            {
+                "charcode": "0xe0181", 
+                "title": "VARIATION SELECTOR-146"
+            }, 
+            {
+                "charcode": "0xe0182", 
+                "title": "VARIATION SELECTOR-147"
+            }, 
+            {
+                "charcode": "0xe0183", 
+                "title": "VARIATION SELECTOR-148"
+            }, 
+            {
+                "charcode": "0xe0184", 
+                "title": "VARIATION SELECTOR-149"
+            }, 
+            {
+                "charcode": "0xe0185", 
+                "title": "VARIATION SELECTOR-150"
+            }, 
+            {
+                "charcode": "0xe0186", 
+                "title": "VARIATION SELECTOR-151"
+            }, 
+            {
+                "charcode": "0xe0187", 
+                "title": "VARIATION SELECTOR-152"
+            }, 
+            {
+                "charcode": "0xe0188", 
+                "title": "VARIATION SELECTOR-153"
+            }, 
+            {
+                "charcode": "0xe0189", 
+                "title": "VARIATION SELECTOR-154"
+            }, 
+            {
+                "charcode": "0xe018a", 
+                "title": "VARIATION SELECTOR-155"
+            }, 
+            {
+                "charcode": "0xe018b", 
+                "title": "VARIATION SELECTOR-156"
+            }, 
+            {
+                "charcode": "0xe018c", 
+                "title": "VARIATION SELECTOR-157"
+            }, 
+            {
+                "charcode": "0xe018d", 
+                "title": "VARIATION SELECTOR-158"
+            }, 
+            {
+                "charcode": "0xe018e", 
+                "title": "VARIATION SELECTOR-159"
+            }, 
+            {
+                "charcode": "0xe018f", 
+                "title": "VARIATION SELECTOR-160"
+            }, 
+            {
+                "charcode": "0xe0190", 
+                "title": "VARIATION SELECTOR-161"
+            }, 
+            {
+                "charcode": "0xe0191", 
+                "title": "VARIATION SELECTOR-162"
+            }, 
+            {
+                "charcode": "0xe0192", 
+                "title": "VARIATION SELECTOR-163"
+            }, 
+            {
+                "charcode": "0xe0193", 
+                "title": "VARIATION SELECTOR-164"
+            }, 
+            {
+                "charcode": "0xe0194", 
+                "title": "VARIATION SELECTOR-165"
+            }, 
+            {
+                "charcode": "0xe0195", 
+                "title": "VARIATION SELECTOR-166"
+            }, 
+            {
+                "charcode": "0xe0196", 
+                "title": "VARIATION SELECTOR-167"
+            }, 
+            {
+                "charcode": "0xe0197", 
+                "title": "VARIATION SELECTOR-168"
+            }, 
+            {
+                "charcode": "0xe0198", 
+                "title": "VARIATION SELECTOR-169"
+            }, 
+            {
+                "charcode": "0xe0199", 
+                "title": "VARIATION SELECTOR-170"
+            }, 
+            {
+                "charcode": "0xe019a", 
+                "title": "VARIATION SELECTOR-171"
+            }, 
+            {
+                "charcode": "0xe019b", 
+                "title": "VARIATION SELECTOR-172"
+            }, 
+            {
+                "charcode": "0xe019c", 
+                "title": "VARIATION SELECTOR-173"
+            }, 
+            {
+                "charcode": "0xe019d", 
+                "title": "VARIATION SELECTOR-174"
+            }, 
+            {
+                "charcode": "0xe019e", 
+                "title": "VARIATION SELECTOR-175"
+            }, 
+            {
+                "charcode": "0xe019f", 
+                "title": "VARIATION SELECTOR-176"
+            }, 
+            {
+                "charcode": "0xe01a0", 
+                "title": "VARIATION SELECTOR-177"
+            }, 
+            {
+                "charcode": "0xe01a1", 
+                "title": "VARIATION SELECTOR-178"
+            }, 
+            {
+                "charcode": "0xe01a2", 
+                "title": "VARIATION SELECTOR-179"
+            }, 
+            {
+                "charcode": "0xe01a3", 
+                "title": "VARIATION SELECTOR-180"
+            }, 
+            {
+                "charcode": "0xe01a4", 
+                "title": "VARIATION SELECTOR-181"
+            }, 
+            {
+                "charcode": "0xe01a5", 
+                "title": "VARIATION SELECTOR-182"
+            }, 
+            {
+                "charcode": "0xe01a6", 
+                "title": "VARIATION SELECTOR-183"
+            }, 
+            {
+                "charcode": "0xe01a7", 
+                "title": "VARIATION SELECTOR-184"
+            }, 
+            {
+                "charcode": "0xe01a8", 
+                "title": "VARIATION SELECTOR-185"
+            }, 
+            {
+                "charcode": "0xe01a9", 
+                "title": "VARIATION SELECTOR-186"
+            }, 
+            {
+                "charcode": "0xe01aa", 
+                "title": "VARIATION SELECTOR-187"
+            }, 
+            {
+                "charcode": "0xe01ab", 
+                "title": "VARIATION SELECTOR-188"
+            }, 
+            {
+                "charcode": "0xe01ac", 
+                "title": "VARIATION SELECTOR-189"
+            }, 
+            {
+                "charcode": "0xe01ad", 
+                "title": "VARIATION SELECTOR-190"
+            }, 
+            {
+                "charcode": "0xe01ae", 
+                "title": "VARIATION SELECTOR-191"
+            }, 
+            {
+                "charcode": "0xe01af", 
+                "title": "VARIATION SELECTOR-192"
+            }, 
+            {
+                "charcode": "0xe01b0", 
+                "title": "VARIATION SELECTOR-193"
+            }, 
+            {
+                "charcode": "0xe01b1", 
+                "title": "VARIATION SELECTOR-194"
+            }, 
+            {
+                "charcode": "0xe01b2", 
+                "title": "VARIATION SELECTOR-195"
+            }, 
+            {
+                "charcode": "0xe01b3", 
+                "title": "VARIATION SELECTOR-196"
+            }, 
+            {
+                "charcode": "0xe01b4", 
+                "title": "VARIATION SELECTOR-197"
+            }, 
+            {
+                "charcode": "0xe01b5", 
+                "title": "VARIATION SELECTOR-198"
+            }, 
+            {
+                "charcode": "0xe01b6", 
+                "title": "VARIATION SELECTOR-199"
+            }, 
+            {
+                "charcode": "0xe01b7", 
+                "title": "VARIATION SELECTOR-200"
+            }, 
+            {
+                "charcode": "0xe01b8", 
+                "title": "VARIATION SELECTOR-201"
+            }, 
+            {
+                "charcode": "0xe01b9", 
+                "title": "VARIATION SELECTOR-202"
+            }, 
+            {
+                "charcode": "0xe01ba", 
+                "title": "VARIATION SELECTOR-203"
+            }, 
+            {
+                "charcode": "0xe01bb", 
+                "title": "VARIATION SELECTOR-204"
+            }, 
+            {
+                "charcode": "0xe01bc", 
+                "title": "VARIATION SELECTOR-205"
+            }, 
+            {
+                "charcode": "0xe01bd", 
+                "title": "VARIATION SELECTOR-206"
+            }, 
+            {
+                "charcode": "0xe01be", 
+                "title": "VARIATION SELECTOR-207"
+            }, 
+            {
+                "charcode": "0xe01bf", 
+                "title": "VARIATION SELECTOR-208"
+            }, 
+            {
+                "charcode": "0xe01c0", 
+                "title": "VARIATION SELECTOR-209"
+            }, 
+            {
+                "charcode": "0xe01c1", 
+                "title": "VARIATION SELECTOR-210"
+            }, 
+            {
+                "charcode": "0xe01c2", 
+                "title": "VARIATION SELECTOR-211"
+            }, 
+            {
+                "charcode": "0xe01c3", 
+                "title": "VARIATION SELECTOR-212"
+            }, 
+            {
+                "charcode": "0xe01c4", 
+                "title": "VARIATION SELECTOR-213"
+            }, 
+            {
+                "charcode": "0xe01c5", 
+                "title": "VARIATION SELECTOR-214"
+            }, 
+            {
+                "charcode": "0xe01c6", 
+                "title": "VARIATION SELECTOR-215"
+            }, 
+            {
+                "charcode": "0xe01c7", 
+                "title": "VARIATION SELECTOR-216"
+            }, 
+            {
+                "charcode": "0xe01c8", 
+                "title": "VARIATION SELECTOR-217"
+            }, 
+            {
+                "charcode": "0xe01c9", 
+                "title": "VARIATION SELECTOR-218"
+            }, 
+            {
+                "charcode": "0xe01ca", 
+                "title": "VARIATION SELECTOR-219"
+            }, 
+            {
+                "charcode": "0xe01cb", 
+                "title": "VARIATION SELECTOR-220"
+            }, 
+            {
+                "charcode": "0xe01cc", 
+                "title": "VARIATION SELECTOR-221"
+            }, 
+            {
+                "charcode": "0xe01cd", 
+                "title": "VARIATION SELECTOR-222"
+            }, 
+            {
+                "charcode": "0xe01ce", 
+                "title": "VARIATION SELECTOR-223"
+            }, 
+            {
+                "charcode": "0xe01cf", 
+                "title": "VARIATION SELECTOR-224"
+            }, 
+            {
+                "charcode": "0xe01d0", 
+                "title": "VARIATION SELECTOR-225"
+            }, 
+            {
+                "charcode": "0xe01d1", 
+                "title": "VARIATION SELECTOR-226"
+            }, 
+            {
+                "charcode": "0xe01d2", 
+                "title": "VARIATION SELECTOR-227"
+            }, 
+            {
+                "charcode": "0xe01d3", 
+                "title": "VARIATION SELECTOR-228"
+            }, 
+            {
+                "charcode": "0xe01d4", 
+                "title": "VARIATION SELECTOR-229"
+            }, 
+            {
+                "charcode": "0xe01d5", 
+                "title": "VARIATION SELECTOR-230"
+            }, 
+            {
+                "charcode": "0xe01d6", 
+                "title": "VARIATION SELECTOR-231"
+            }, 
+            {
+                "charcode": "0xe01d7", 
+                "title": "VARIATION SELECTOR-232"
+            }, 
+            {
+                "charcode": "0xe01d8", 
+                "title": "VARIATION SELECTOR-233"
+            }, 
+            {
+                "charcode": "0xe01d9", 
+                "title": "VARIATION SELECTOR-234"
+            }, 
+            {
+                "charcode": "0xe01da", 
+                "title": "VARIATION SELECTOR-235"
+            }, 
+            {
+                "charcode": "0xe01db", 
+                "title": "VARIATION SELECTOR-236"
+            }, 
+            {
+                "charcode": "0xe01dc", 
+                "title": "VARIATION SELECTOR-237"
+            }, 
+            {
+                "charcode": "0xe01dd", 
+                "title": "VARIATION SELECTOR-238"
+            }, 
+            {
+                "charcode": "0xe01de", 
+                "title": "VARIATION SELECTOR-239"
+            }, 
+            {
+                "charcode": "0xe01df", 
+                "title": "VARIATION SELECTOR-240"
+            }, 
+            {
+                "charcode": "0xe01e0", 
+                "title": "VARIATION SELECTOR-241"
+            }, 
+            {
+                "charcode": "0xe01e1", 
+                "title": "VARIATION SELECTOR-242"
+            }, 
+            {
+                "charcode": "0xe01e2", 
+                "title": "VARIATION SELECTOR-243"
+            }, 
+            {
+                "charcode": "0xe01e3", 
+                "title": "VARIATION SELECTOR-244"
+            }, 
+            {
+                "charcode": "0xe01e4", 
+                "title": "VARIATION SELECTOR-245"
+            }, 
+            {
+                "charcode": "0xe01e5", 
+                "title": "VARIATION SELECTOR-246"
+            }, 
+            {
+                "charcode": "0xe01e6", 
+                "title": "VARIATION SELECTOR-247"
+            }, 
+            {
+                "charcode": "0xe01e7", 
+                "title": "VARIATION SELECTOR-248"
+            }, 
+            {
+                "charcode": "0xe01e8", 
+                "title": "VARIATION SELECTOR-249"
+            }, 
+            {
+                "charcode": "0xe01e9", 
+                "title": "VARIATION SELECTOR-250"
+            }, 
+            {
+                "charcode": "0xe01ea", 
+                "title": "VARIATION SELECTOR-251"
+            }, 
+            {
+                "charcode": "0xe01eb", 
+                "title": "VARIATION SELECTOR-252"
+            }, 
+            {
+                "charcode": "0xe01ec", 
+                "title": "VARIATION SELECTOR-253"
+            }, 
+            {
+                "charcode": "0xe01ed", 
+                "title": "VARIATION SELECTOR-254"
+            }, 
+            {
+                "charcode": "0xe01ee", 
+                "title": "VARIATION SELECTOR-255"
+            }
+        ], 
+        "name": "Variation Selectors Supplement"
+    }
+]

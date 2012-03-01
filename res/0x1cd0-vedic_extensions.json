@@ -1,0 +1,163 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1cd0", 
+                "title": "VEDIC TONE KARSHANA"
+            }, 
+            {
+                "charcode": "0x1cd1", 
+                "title": "VEDIC TONE SHARA"
+            }, 
+            {
+                "charcode": "0x1cd2", 
+                "title": "VEDIC TONE PRENKHA"
+            }, 
+            {
+                "charcode": "0x1cd3", 
+                "title": "VEDIC SIGN NIHSHVASA"
+            }, 
+            {
+                "charcode": "0x1cd4", 
+                "title": "VEDIC SIGN YAJURVEDIC MIDLINE SVARITA"
+            }, 
+            {
+                "charcode": "0x1cd5", 
+                "title": "VEDIC TONE YAJURVEDIC AGGRAVATED INDEPENDENT SVARITA"
+            }, 
+            {
+                "charcode": "0x1cd6", 
+                "title": "VEDIC TONE YAJURVEDIC INDEPENDENT SVARITA"
+            }, 
+            {
+                "charcode": "0x1cd7", 
+                "title": "VEDIC TONE YAJURVEDIC KATHAKA INDEPENDENT SVARITA"
+            }, 
+            {
+                "charcode": "0x1cd8", 
+                "title": "VEDIC TONE CANDRA BELOW"
+            }, 
+            {
+                "charcode": "0x1cd9", 
+                "title": "VEDIC TONE YAJURVEDIC KATHAKA INDEPENDENT SVARITA SCHROEDER"
+            }, 
+            {
+                "charcode": "0x1cda", 
+                "title": "VEDIC TONE DOUBLE SVARITA"
+            }, 
+            {
+                "charcode": "0x1cdb", 
+                "title": "VEDIC TONE TRIPLE SVARITA"
+            }, 
+            {
+                "charcode": "0x1cdc", 
+                "title": "VEDIC TONE KATHAKA ANUDATTA"
+            }, 
+            {
+                "charcode": "0x1cdd", 
+                "title": "VEDIC TONE DOT BELOW"
+            }, 
+            {
+                "charcode": "0x1cde", 
+                "title": "VEDIC TONE TWO DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x1cdf", 
+                "title": "VEDIC TONE THREE DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x1ce0", 
+                "title": "VEDIC TONE RIGVEDIC KASHMIRI INDEPENDENT SVARITA"
+            }, 
+            {
+                "charcode": "0x1ce1", 
+                "title": "VEDIC TONE ATHARVAVEDIC INDEPENDENT SVARITA"
+            }, 
+            {
+                "charcode": "0x1ce2", 
+                "title": "VEDIC SIGN VISARGA SVARITA"
+            }, 
+            {
+                "charcode": "0x1ce3", 
+                "title": "VEDIC SIGN VISARGA UDATTA"
+            }, 
+            {
+                "charcode": "0x1ce4", 
+                "title": "VEDIC SIGN REVERSED VISARGA UDATTA"
+            }, 
+            {
+                "charcode": "0x1ce5", 
+                "title": "VEDIC SIGN VISARGA ANUDATTA"
+            }, 
+            {
+                "charcode": "0x1ce6", 
+                "title": "VEDIC SIGN REVERSED VISARGA ANUDATTA"
+            }, 
+            {
+                "charcode": "0x1ce7", 
+                "title": "VEDIC SIGN VISARGA UDATTA WITH TAIL"
+            }, 
+            {
+                "charcode": "0x1ce8", 
+                "title": "VEDIC SIGN VISARGA ANUDATTA WITH TAIL"
+            }, 
+            {
+                "charcode": "0x1ce9", 
+                "title": "VEDIC SIGN ANUSVARA ANTARGOMUKHA"
+            }, 
+            {
+                "charcode": "0x1cea", 
+                "title": "VEDIC SIGN ANUSVARA BAHIRGOMUKHA"
+            }, 
+            {
+                "charcode": "0x1ceb", 
+                "title": "VEDIC SIGN ANUSVARA VAMAGOMUKHA"
+            }, 
+            {
+                "charcode": "0x1cec", 
+                "title": "VEDIC SIGN ANUSVARA VAMAGOMUKHA WITH TAIL"
+            }, 
+            {
+                "charcode": "0x1ced", 
+                "title": "VEDIC SIGN TIRYAK"
+            }, 
+            {
+                "charcode": "0x1cee", 
+                "title": "VEDIC SIGN HEXIFORM LONG ANUSVARA"
+            }, 
+            {
+                "charcode": "0x1cef", 
+                "title": "VEDIC SIGN LONG ANUSVARA"
+            }, 
+            {
+                "charcode": "0x1cf0", 
+                "title": "VEDIC SIGN RTHANG LONG ANUSVARA"
+            }, 
+            {
+                "charcode": "0x1cf1", 
+                "title": "VEDIC SIGN ANUSVARA UBHAYATO MUKHA"
+            }, 
+            {
+                "charcode": "0x1cf2", 
+                "title": "VEDIC SIGN ARDHAVISARGA"
+            }, 
+            {
+                "charcode": "0x1cf3", 
+                "title": "VEDIC SIGN ROTATED ARDHAVISARGA"
+            }, 
+            {
+                "charcode": "0x1cf4", 
+                "title": "VEDIC TONE CANDRA ABOVE"
+            }, 
+            {
+                "charcode": "0x1cf5", 
+                "title": "VEDIC SIGN JIHVAMULIYA"
+            }, 
+            {
+                "charcode": "0x1cf6", 
+                "title": "VEDIC SIGN UPADHMANIYA"
+            }
+        ], 
+        "name": "Vedic Extensions"
+    }
+]

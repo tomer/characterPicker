@@ -1,0 +1,47 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xa830", 
+                "title": "NORTH INDIC FRACTION ONE QUARTER"
+            }, 
+            {
+                "charcode": "0xa831", 
+                "title": "NORTH INDIC FRACTION ONE HALF"
+            }, 
+            {
+                "charcode": "0xa832", 
+                "title": "NORTH INDIC FRACTION THREE QUARTERS"
+            }, 
+            {
+                "charcode": "0xa833", 
+                "title": "NORTH INDIC FRACTION ONE SIXTEENTH"
+            }, 
+            {
+                "charcode": "0xa834", 
+                "title": "NORTH INDIC FRACTION ONE EIGHTH"
+            }, 
+            {
+                "charcode": "0xa835", 
+                "title": "NORTH INDIC FRACTION THREE SIXTEENTHS"
+            }, 
+            {
+                "charcode": "0xa836", 
+                "title": "NORTH INDIC QUARTER MARK"
+            }, 
+            {
+                "charcode": "0xa837", 
+                "title": "NORTH INDIC PLACEHOLDER MARK"
+            }, 
+            {
+                "charcode": "0xa838", 
+                "title": "NORTH INDIC RUPEE MARK"
+            }, 
+            {
+                "charcode": "0xa839", 
+                "title": "NORTH INDIC QUANTITY MARK"
+            }
+        ], 
+        "name": "Common Indic Number Forms"
+    }
+]

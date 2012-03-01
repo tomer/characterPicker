@@ -1,0 +1,247 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2e00", 
+                "title": "RIGHT ANGLE SUBSTITUTION MARKER"
+            }, 
+            {
+                "charcode": "0x2e01", 
+                "title": "RIGHT ANGLE DOTTED SUBSTITUTION MARKER"
+            }, 
+            {
+                "charcode": "0x2e02", 
+                "title": "LEFT SUBSTITUTION BRACKET"
+            }, 
+            {
+                "charcode": "0x2e03", 
+                "title": "RIGHT SUBSTITUTION BRACKET"
+            }, 
+            {
+                "charcode": "0x2e04", 
+                "title": "LEFT DOTTED SUBSTITUTION BRACKET"
+            }, 
+            {
+                "charcode": "0x2e05", 
+                "title": "RIGHT DOTTED SUBSTITUTION BRACKET"
+            }, 
+            {
+                "charcode": "0x2e06", 
+                "title": "RAISED INTERPOLATION MARKER"
+            }, 
+            {
+                "charcode": "0x2e07", 
+                "title": "RAISED DOTTED INTERPOLATION MARKER"
+            }, 
+            {
+                "charcode": "0x2e08", 
+                "title": "DOTTED TRANSPOSITION MARKER"
+            }, 
+            {
+                "charcode": "0x2e09", 
+                "title": "LEFT TRANSPOSITION BRACKET"
+            }, 
+            {
+                "charcode": "0x2e0a", 
+                "title": "RIGHT TRANSPOSITION BRACKET"
+            }, 
+            {
+                "charcode": "0x2e0b", 
+                "title": "RAISED SQUARE"
+            }, 
+            {
+                "charcode": "0x2e0c", 
+                "title": "LEFT RAISED OMISSION BRACKET"
+            }, 
+            {
+                "charcode": "0x2e0d", 
+                "title": "RIGHT RAISED OMISSION BRACKET"
+            }, 
+            {
+                "charcode": "0x2e0e", 
+                "title": "EDITORIAL CORONIS"
+            }, 
+            {
+                "charcode": "0x2e0f", 
+                "title": "PARAGRAPHOS"
+            }, 
+            {
+                "charcode": "0x2e10", 
+                "title": "FORKED PARAGRAPHOS"
+            }, 
+            {
+                "charcode": "0x2e11", 
+                "title": "REVERSED FORKED PARAGRAPHOS"
+            }, 
+            {
+                "charcode": "0x2e12", 
+                "title": "HYPODIASTOLE"
+            }, 
+            {
+                "charcode": "0x2e13", 
+                "title": "DOTTED OBELOS"
+            }, 
+            {
+                "charcode": "0x2e14", 
+                "title": "DOWNWARDS ANCORA"
+            }, 
+            {
+                "charcode": "0x2e15", 
+                "title": "UPWARDS ANCORA"
+            }, 
+            {
+                "charcode": "0x2e16", 
+                "title": "DOTTED RIGHT-POINTING ANGLE"
+            }, 
+            {
+                "charcode": "0x2e17", 
+                "title": "DOUBLE OBLIQUE HYPHEN"
+            }, 
+            {
+                "charcode": "0x2e18", 
+                "title": "INVERTED INTERROBANG"
+            }, 
+            {
+                "charcode": "0x2e19", 
+                "title": "PALM BRANCH"
+            }, 
+            {
+                "charcode": "0x2e1a", 
+                "title": "HYPHEN WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0x2e1b", 
+                "title": "TILDE WITH RING ABOVE"
+            }, 
+            {
+                "charcode": "0x2e1c", 
+                "title": "LEFT LOW PARAPHRASE BRACKET"
+            }, 
+            {
+                "charcode": "0x2e1d", 
+                "title": "RIGHT LOW PARAPHRASE BRACKET"
+            }, 
+            {
+                "charcode": "0x2e1e", 
+                "title": "TILDE WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x2e1f", 
+                "title": "TILDE WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x2e20", 
+                "title": "LEFT VERTICAL BAR WITH QUILL"
+            }, 
+            {
+                "charcode": "0x2e21", 
+                "title": "RIGHT VERTICAL BAR WITH QUILL"
+            }, 
+            {
+                "charcode": "0x2e22", 
+                "title": "TOP LEFT HALF BRACKET"
+            }, 
+            {
+                "charcode": "0x2e23", 
+                "title": "TOP RIGHT HALF BRACKET"
+            }, 
+            {
+                "charcode": "0x2e24", 
+                "title": "BOTTOM LEFT HALF BRACKET"
+            }, 
+            {
+                "charcode": "0x2e25", 
+                "title": "BOTTOM RIGHT HALF BRACKET"
+            }, 
+            {
+                "charcode": "0x2e26", 
+                "title": "LEFT SIDEWAYS U BRACKET"
+            }, 
+            {
+                "charcode": "0x2e27", 
+                "title": "RIGHT SIDEWAYS U BRACKET"
+            }, 
+            {
+                "charcode": "0x2e28", 
+                "title": "LEFT DOUBLE PARENTHESIS"
+            }, 
+            {
+                "charcode": "0x2e29", 
+                "title": "RIGHT DOUBLE PARENTHESIS"
+            }, 
+            {
+                "charcode": "0x2e2a", 
+                "title": "TWO DOTS OVER ONE DOT PUNCTUATION"
+            }, 
+            {
+                "charcode": "0x2e2b", 
+                "title": "ONE DOT OVER TWO DOTS PUNCTUATION"
+            }, 
+            {
+                "charcode": "0x2e2c", 
+                "title": "SQUARED FOUR DOT PUNCTUATION"
+            }, 
+            {
+                "charcode": "0x2e2d", 
+                "title": "FIVE DOT MARK"
+            }, 
+            {
+                "charcode": "0x2e2e", 
+                "title": "REVERSED QUESTION MARK"
+            }, 
+            {
+                "charcode": "0x2e2f", 
+                "title": "VERTICAL TILDE"
+            }, 
+            {
+                "charcode": "0x2e30", 
+                "title": "RING POINT"
+            }, 
+            {
+                "charcode": "0x2e31", 
+                "title": "WORD SEPARATOR MIDDLE DOT"
+            }, 
+            {
+                "charcode": "0x2e32", 
+                "title": "TURNED COMMA"
+            }, 
+            {
+                "charcode": "0x2e33", 
+                "title": "RAISED DOT"
+            }, 
+            {
+                "charcode": "0x2e34", 
+                "title": "RAISED COMMA"
+            }, 
+            {
+                "charcode": "0x2e35", 
+                "title": "TURNED SEMICOLON"
+            }, 
+            {
+                "charcode": "0x2e36", 
+                "title": "DAGGER WITH LEFT GUARD"
+            }, 
+            {
+                "charcode": "0x2e37", 
+                "title": "DAGGER WITH RIGHT GUARD"
+            }, 
+            {
+                "charcode": "0x2e38", 
+                "title": "TURNED DAGGER"
+            }, 
+            {
+                "charcode": "0x2e39", 
+                "title": "TOP HALF SECTION SIGN"
+            }, 
+            {
+                "charcode": "0x2e3a", 
+                "title": "TWO-EM DASH"
+            }, 
+            {
+                "charcode": "0x2e3b", 
+                "title": "THREE-EM DASH"
+            }
+        ], 
+        "name": "Supplemental Punctuation"
+    }
+]

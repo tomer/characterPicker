@@ -1,0 +1,131 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2c60", 
+                "title": "LATIN CAPITAL LETTER L WITH DOUBLE BAR"
+            }, 
+            {
+                "charcode": "0x2c61", 
+                "title": "LATIN SMALL LETTER L WITH DOUBLE BAR"
+            }, 
+            {
+                "charcode": "0x2c62", 
+                "title": "LATIN CAPITAL LETTER L WITH MIDDLE TILDE"
+            }, 
+            {
+                "charcode": "0x2c63", 
+                "title": "LATIN CAPITAL LETTER P WITH STROKE"
+            }, 
+            {
+                "charcode": "0x2c64", 
+                "title": "LATIN CAPITAL LETTER R WITH TAIL"
+            }, 
+            {
+                "charcode": "0x2c65", 
+                "title": "LATIN SMALL LETTER A WITH STROKE"
+            }, 
+            {
+                "charcode": "0x2c66", 
+                "title": "LATIN SMALL LETTER T WITH DIAGONAL STROKE"
+            }, 
+            {
+                "charcode": "0x2c67", 
+                "title": "LATIN CAPITAL LETTER H WITH DESCENDER"
+            }, 
+            {
+                "charcode": "0x2c68", 
+                "title": "LATIN SMALL LETTER H WITH DESCENDER"
+            }, 
+            {
+                "charcode": "0x2c69", 
+                "title": "LATIN CAPITAL LETTER K WITH DESCENDER"
+            }, 
+            {
+                "charcode": "0x2c6a", 
+                "title": "LATIN SMALL LETTER K WITH DESCENDER"
+            }, 
+            {
+                "charcode": "0x2c6b", 
+                "title": "LATIN CAPITAL LETTER Z WITH DESCENDER"
+            }, 
+            {
+                "charcode": "0x2c6c", 
+                "title": "LATIN SMALL LETTER Z WITH DESCENDER"
+            }, 
+            {
+                "charcode": "0x2c6d", 
+                "title": "LATIN CAPITAL LETTER ALPHA"
+            }, 
+            {
+                "charcode": "0x2c6e", 
+                "title": "LATIN CAPITAL LETTER M WITH HOOK"
+            }, 
+            {
+                "charcode": "0x2c6f", 
+                "title": "LATIN CAPITAL LETTER TURNED A"
+            }, 
+            {
+                "charcode": "0x2c70", 
+                "title": "LATIN CAPITAL LETTER TURNED ALPHA"
+            }, 
+            {
+                "charcode": "0x2c71", 
+                "title": "LATIN SMALL LETTER V WITH RIGHT HOOK"
+            }, 
+            {
+                "charcode": "0x2c72", 
+                "title": "LATIN CAPITAL LETTER W WITH HOOK"
+            }, 
+            {
+                "charcode": "0x2c73", 
+                "title": "LATIN SMALL LETTER W WITH HOOK"
+            }, 
+            {
+                "charcode": "0x2c74", 
+                "title": "LATIN SMALL LETTER V WITH CURL"
+            }, 
+            {
+                "charcode": "0x2c75", 
+                "title": "LATIN CAPITAL LETTER HALF H"
+            }, 
+            {
+                "charcode": "0x2c76", 
+                "title": "LATIN SMALL LETTER HALF H"
+            }, 
+            {
+                "charcode": "0x2c77", 
+                "title": "LATIN SMALL LETTER TAILLESS PHI"
+            }, 
+            {
+                "charcode": "0x2c78", 
+                "title": "LATIN SMALL LETTER E WITH NOTCH"
+            }, 
+            {
+                "charcode": "0x2c79", 
+                "title": "LATIN SMALL LETTER TURNED R WITH TAIL"
+            }, 
+            {
+                "charcode": "0x2c7a", 
+                "title": "LATIN SMALL LETTER O WITH LOW RING INSIDE"
+            }, 
+            {
+                "charcode": "0x2c7b", 
+                "title": "LATIN LETTER SMALL CAPITAL TURNED E"
+            }, 
+            {
+                "charcode": "0x2c7c", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER J"
+            }, 
+            {
+                "charcode": "0x2c7d", 
+                "title": "MODIFIER LETTER CAPITAL V"
+            }, 
+            {
+                "charcode": "0x2c7e", 
+                "title": "LATIN CAPITAL LETTER S WITH SWASH TAIL"
+            }
+        ], 
+        "name": "Latin Extended-C"
+    }
+]

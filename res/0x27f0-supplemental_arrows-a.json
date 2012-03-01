@@ -1,0 +1,67 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x27f0", 
+                "title": "UPWARDS QUADRUPLE ARROW"
+            }, 
+            {
+                "charcode": "0x27f1", 
+                "title": "DOWNWARDS QUADRUPLE ARROW"
+            }, 
+            {
+                "charcode": "0x27f2", 
+                "title": "ANTICLOCKWISE GAPPED CIRCLE ARROW"
+            }, 
+            {
+                "charcode": "0x27f3", 
+                "title": "CLOCKWISE GAPPED CIRCLE ARROW"
+            }, 
+            {
+                "charcode": "0x27f4", 
+                "title": "RIGHT ARROW WITH CIRCLED PLUS"
+            }, 
+            {
+                "charcode": "0x27f5", 
+                "title": "LONG LEFTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x27f6", 
+                "title": "LONG RIGHTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x27f7", 
+                "title": "LONG LEFT RIGHT ARROW"
+            }, 
+            {
+                "charcode": "0x27f8", 
+                "title": "LONG LEFTWARDS DOUBLE ARROW"
+            }, 
+            {
+                "charcode": "0x27f9", 
+                "title": "LONG RIGHTWARDS DOUBLE ARROW"
+            }, 
+            {
+                "charcode": "0x27fa", 
+                "title": "LONG LEFT RIGHT DOUBLE ARROW"
+            }, 
+            {
+                "charcode": "0x27fb", 
+                "title": "LONG LEFTWARDS ARROW FROM BAR"
+            }, 
+            {
+                "charcode": "0x27fc", 
+                "title": "LONG RIGHTWARDS ARROW FROM BAR"
+            }, 
+            {
+                "charcode": "0x27fd", 
+                "title": "LONG LEFTWARDS DOUBLE ARROW FROM BAR"
+            }, 
+            {
+                "charcode": "0x27fe", 
+                "title": "LONG RIGHTWARDS DOUBLE ARROW FROM BAR"
+            }
+        ], 
+        "name": "Supplemental Arrows-A"
+    }
+]

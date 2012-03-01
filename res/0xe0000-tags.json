@@ -1,0 +1,391 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xe0001", 
+                "title": "LANGUAGE TAG"
+            }, 
+            {
+                "charcode": "0xe0020", 
+                "title": "TAG SPACE"
+            }, 
+            {
+                "charcode": "0xe0021", 
+                "title": "TAG EXCLAMATION MARK"
+            }, 
+            {
+                "charcode": "0xe0022", 
+                "title": "TAG QUOTATION MARK"
+            }, 
+            {
+                "charcode": "0xe0023", 
+                "title": "TAG NUMBER SIGN"
+            }, 
+            {
+                "charcode": "0xe0024", 
+                "title": "TAG DOLLAR SIGN"
+            }, 
+            {
+                "charcode": "0xe0025", 
+                "title": "TAG PERCENT SIGN"
+            }, 
+            {
+                "charcode": "0xe0026", 
+                "title": "TAG AMPERSAND"
+            }, 
+            {
+                "charcode": "0xe0027", 
+                "title": "TAG APOSTROPHE"
+            }, 
+            {
+                "charcode": "0xe0028", 
+                "title": "TAG LEFT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0xe0029", 
+                "title": "TAG RIGHT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0xe002a", 
+                "title": "TAG ASTERISK"
+            }, 
+            {
+                "charcode": "0xe002b", 
+                "title": "TAG PLUS SIGN"
+            }, 
+            {
+                "charcode": "0xe002c", 
+                "title": "TAG COMMA"
+            }, 
+            {
+                "charcode": "0xe002d", 
+                "title": "TAG HYPHEN-MINUS"
+            }, 
+            {
+                "charcode": "0xe002e", 
+                "title": "TAG FULL STOP"
+            }, 
+            {
+                "charcode": "0xe002f", 
+                "title": "TAG SOLIDUS"
+            }, 
+            {
+                "charcode": "0xe0030", 
+                "title": "TAG DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0xe0031", 
+                "title": "TAG DIGIT ONE"
+            }, 
+            {
+                "charcode": "0xe0032", 
+                "title": "TAG DIGIT TWO"
+            }, 
+            {
+                "charcode": "0xe0033", 
+                "title": "TAG DIGIT THREE"
+            }, 
+            {
+                "charcode": "0xe0034", 
+                "title": "TAG DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0xe0035", 
+                "title": "TAG DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0xe0036", 
+                "title": "TAG DIGIT SIX"
+            }, 
+            {
+                "charcode": "0xe0037", 
+                "title": "TAG DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0xe0038", 
+                "title": "TAG DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0xe0039", 
+                "title": "TAG DIGIT NINE"
+            }, 
+            {
+                "charcode": "0xe003a", 
+                "title": "TAG COLON"
+            }, 
+            {
+                "charcode": "0xe003b", 
+                "title": "TAG SEMICOLON"
+            }, 
+            {
+                "charcode": "0xe003c", 
+                "title": "TAG LESS-THAN SIGN"
+            }, 
+            {
+                "charcode": "0xe003d", 
+                "title": "TAG EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0xe003e", 
+                "title": "TAG GREATER-THAN SIGN"
+            }, 
+            {
+                "charcode": "0xe003f", 
+                "title": "TAG QUESTION MARK"
+            }, 
+            {
+                "charcode": "0xe0040", 
+                "title": "TAG COMMERCIAL AT"
+            }, 
+            {
+                "charcode": "0xe0041", 
+                "title": "TAG LATIN CAPITAL LETTER A"
+            }, 
+            {
+                "charcode": "0xe0042", 
+                "title": "TAG LATIN CAPITAL LETTER B"
+            }, 
+            {
+                "charcode": "0xe0043", 
+                "title": "TAG LATIN CAPITAL LETTER C"
+            }, 
+            {
+                "charcode": "0xe0044", 
+                "title": "TAG LATIN CAPITAL LETTER D"
+            }, 
+            {
+                "charcode": "0xe0045", 
+                "title": "TAG LATIN CAPITAL LETTER E"
+            }, 
+            {
+                "charcode": "0xe0046", 
+                "title": "TAG LATIN CAPITAL LETTER F"
+            }, 
+            {
+                "charcode": "0xe0047", 
+                "title": "TAG LATIN CAPITAL LETTER G"
+            }, 
+            {
+                "charcode": "0xe0048", 
+                "title": "TAG LATIN CAPITAL LETTER H"
+            }, 
+            {
+                "charcode": "0xe0049", 
+                "title": "TAG LATIN CAPITAL LETTER I"
+            }, 
+            {
+                "charcode": "0xe004a", 
+                "title": "TAG LATIN CAPITAL LETTER J"
+            }, 
+            {
+                "charcode": "0xe004b", 
+                "title": "TAG LATIN CAPITAL LETTER K"
+            }, 
+            {
+                "charcode": "0xe004c", 
+                "title": "TAG LATIN CAPITAL LETTER L"
+            }, 
+            {
+                "charcode": "0xe004d", 
+                "title": "TAG LATIN CAPITAL LETTER M"
+            }, 
+            {
+                "charcode": "0xe004e", 
+                "title": "TAG LATIN CAPITAL LETTER N"
+            }, 
+            {
+                "charcode": "0xe004f", 
+                "title": "TAG LATIN CAPITAL LETTER O"
+            }, 
+            {
+                "charcode": "0xe0050", 
+                "title": "TAG LATIN CAPITAL LETTER P"
+            }, 
+            {
+                "charcode": "0xe0051", 
+                "title": "TAG LATIN CAPITAL LETTER Q"
+            }, 
+            {
+                "charcode": "0xe0052", 
+                "title": "TAG LATIN CAPITAL LETTER R"
+            }, 
+            {
+                "charcode": "0xe0053", 
+                "title": "TAG LATIN CAPITAL LETTER S"
+            }, 
+            {
+                "charcode": "0xe0054", 
+                "title": "TAG LATIN CAPITAL LETTER T"
+            }, 
+            {
+                "charcode": "0xe0055", 
+                "title": "TAG LATIN CAPITAL LETTER U"
+            }, 
+            {
+                "charcode": "0xe0056", 
+                "title": "TAG LATIN CAPITAL LETTER V"
+            }, 
+            {
+                "charcode": "0xe0057", 
+                "title": "TAG LATIN CAPITAL LETTER W"
+            }, 
+            {
+                "charcode": "0xe0058", 
+                "title": "TAG LATIN CAPITAL LETTER X"
+            }, 
+            {
+                "charcode": "0xe0059", 
+                "title": "TAG LATIN CAPITAL LETTER Y"
+            }, 
+            {
+                "charcode": "0xe005a", 
+                "title": "TAG LATIN CAPITAL LETTER Z"
+            }, 
+            {
+                "charcode": "0xe005b", 
+                "title": "TAG LEFT SQUARE BRACKET"
+            }, 
+            {
+                "charcode": "0xe005c", 
+                "title": "TAG REVERSE SOLIDUS"
+            }, 
+            {
+                "charcode": "0xe005d", 
+                "title": "TAG RIGHT SQUARE BRACKET"
+            }, 
+            {
+                "charcode": "0xe005e", 
+                "title": "TAG CIRCUMFLEX ACCENT"
+            }, 
+            {
+                "charcode": "0xe005f", 
+                "title": "TAG LOW LINE"
+            }, 
+            {
+                "charcode": "0xe0060", 
+                "title": "TAG GRAVE ACCENT"
+            }, 
+            {
+                "charcode": "0xe0061", 
+                "title": "TAG LATIN SMALL LETTER A"
+            }, 
+            {
+                "charcode": "0xe0062", 
+                "title": "TAG LATIN SMALL LETTER B"
+            }, 
+            {
+                "charcode": "0xe0063", 
+                "title": "TAG LATIN SMALL LETTER C"
+            }, 
+            {
+                "charcode": "0xe0064", 
+                "title": "TAG LATIN SMALL LETTER D"
+            }, 
+            {
+                "charcode": "0xe0065", 
+                "title": "TAG LATIN SMALL LETTER E"
+            }, 
+            {
+                "charcode": "0xe0066", 
+                "title": "TAG LATIN SMALL LETTER F"
+            }, 
+            {
+                "charcode": "0xe0067", 
+                "title": "TAG LATIN SMALL LETTER G"
+            }, 
+            {
+                "charcode": "0xe0068", 
+                "title": "TAG LATIN SMALL LETTER H"
+            }, 
+            {
+                "charcode": "0xe0069", 
+                "title": "TAG LATIN SMALL LETTER I"
+            }, 
+            {
+                "charcode": "0xe006a", 
+                "title": "TAG LATIN SMALL LETTER J"
+            }, 
+            {
+                "charcode": "0xe006b", 
+                "title": "TAG LATIN SMALL LETTER K"
+            }, 
+            {
+                "charcode": "0xe006c", 
+                "title": "TAG LATIN SMALL LETTER L"
+            }, 
+            {
+                "charcode": "0xe006d", 
+                "title": "TAG LATIN SMALL LETTER M"
+            }, 
+            {
+                "charcode": "0xe006e", 
+                "title": "TAG LATIN SMALL LETTER N"
+            }, 
+            {
+                "charcode": "0xe006f", 
+                "title": "TAG LATIN SMALL LETTER O"
+            }, 
+            {
+                "charcode": "0xe0070", 
+                "title": "TAG LATIN SMALL LETTER P"
+            }, 
+            {
+                "charcode": "0xe0071", 
+                "title": "TAG LATIN SMALL LETTER Q"
+            }, 
+            {
+                "charcode": "0xe0072", 
+                "title": "TAG LATIN SMALL LETTER R"
+            }, 
+            {
+                "charcode": "0xe0073", 
+                "title": "TAG LATIN SMALL LETTER S"
+            }, 
+            {
+                "charcode": "0xe0074", 
+                "title": "TAG LATIN SMALL LETTER T"
+            }, 
+            {
+                "charcode": "0xe0075", 
+                "title": "TAG LATIN SMALL LETTER U"
+            }, 
+            {
+                "charcode": "0xe0076", 
+                "title": "TAG LATIN SMALL LETTER V"
+            }, 
+            {
+                "charcode": "0xe0077", 
+                "title": "TAG LATIN SMALL LETTER W"
+            }, 
+            {
+                "charcode": "0xe0078", 
+                "title": "TAG LATIN SMALL LETTER X"
+            }, 
+            {
+                "charcode": "0xe0079", 
+                "title": "TAG LATIN SMALL LETTER Y"
+            }, 
+            {
+                "charcode": "0xe007a", 
+                "title": "TAG LATIN SMALL LETTER Z"
+            }, 
+            {
+                "charcode": "0xe007b", 
+                "title": "TAG LEFT CURLY BRACKET"
+            }, 
+            {
+                "charcode": "0xe007c", 
+                "title": "TAG VERTICAL LINE"
+            }, 
+            {
+                "charcode": "0xe007d", 
+                "title": "TAG RIGHT CURLY BRACKET"
+            }, 
+            {
+                "charcode": "0xe007e", 
+                "title": "TAG TILDE"
+            }
+        ], 
+        "name": "Tags"
+    }
+]

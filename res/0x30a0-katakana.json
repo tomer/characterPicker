@@ -1,0 +1,387 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x30a0", 
+                "title": "KATAKANA-HIRAGANA DOUBLE HYPHEN"
+            }, 
+            {
+                "charcode": "0x30a1", 
+                "title": "KATAKANA LETTER SMALL A"
+            }, 
+            {
+                "charcode": "0x30a2", 
+                "title": "KATAKANA LETTER A"
+            }, 
+            {
+                "charcode": "0x30a3", 
+                "title": "KATAKANA LETTER SMALL I"
+            }, 
+            {
+                "charcode": "0x30a4", 
+                "title": "KATAKANA LETTER I"
+            }, 
+            {
+                "charcode": "0x30a5", 
+                "title": "KATAKANA LETTER SMALL U"
+            }, 
+            {
+                "charcode": "0x30a6", 
+                "title": "KATAKANA LETTER U"
+            }, 
+            {
+                "charcode": "0x30a7", 
+                "title": "KATAKANA LETTER SMALL E"
+            }, 
+            {
+                "charcode": "0x30a8", 
+                "title": "KATAKANA LETTER E"
+            }, 
+            {
+                "charcode": "0x30a9", 
+                "title": "KATAKANA LETTER SMALL O"
+            }, 
+            {
+                "charcode": "0x30aa", 
+                "title": "KATAKANA LETTER O"
+            }, 
+            {
+                "charcode": "0x30ab", 
+                "title": "KATAKANA LETTER KA"
+            }, 
+            {
+                "charcode": "0x30ac", 
+                "title": "KATAKANA LETTER GA"
+            }, 
+            {
+                "charcode": "0x30ad", 
+                "title": "KATAKANA LETTER KI"
+            }, 
+            {
+                "charcode": "0x30ae", 
+                "title": "KATAKANA LETTER GI"
+            }, 
+            {
+                "charcode": "0x30af", 
+                "title": "KATAKANA LETTER KU"
+            }, 
+            {
+                "charcode": "0x30b0", 
+                "title": "KATAKANA LETTER GU"
+            }, 
+            {
+                "charcode": "0x30b1", 
+                "title": "KATAKANA LETTER KE"
+            }, 
+            {
+                "charcode": "0x30b2", 
+                "title": "KATAKANA LETTER GE"
+            }, 
+            {
+                "charcode": "0x30b3", 
+                "title": "KATAKANA LETTER KO"
+            }, 
+            {
+                "charcode": "0x30b4", 
+                "title": "KATAKANA LETTER GO"
+            }, 
+            {
+                "charcode": "0x30b5", 
+                "title": "KATAKANA LETTER SA"
+            }, 
+            {
+                "charcode": "0x30b6", 
+                "title": "KATAKANA LETTER ZA"
+            }, 
+            {
+                "charcode": "0x30b7", 
+                "title": "KATAKANA LETTER SI"
+            }, 
+            {
+                "charcode": "0x30b8", 
+                "title": "KATAKANA LETTER ZI"
+            }, 
+            {
+                "charcode": "0x30b9", 
+                "title": "KATAKANA LETTER SU"
+            }, 
+            {
+                "charcode": "0x30ba", 
+                "title": "KATAKANA LETTER ZU"
+            }, 
+            {
+                "charcode": "0x30bb", 
+                "title": "KATAKANA LETTER SE"
+            }, 
+            {
+                "charcode": "0x30bc", 
+                "title": "KATAKANA LETTER ZE"
+            }, 
+            {
+                "charcode": "0x30bd", 
+                "title": "KATAKANA LETTER SO"
+            }, 
+            {
+                "charcode": "0x30be", 
+                "title": "KATAKANA LETTER ZO"
+            }, 
+            {
+                "charcode": "0x30bf", 
+                "title": "KATAKANA LETTER TA"
+            }, 
+            {
+                "charcode": "0x30c0", 
+                "title": "KATAKANA LETTER DA"
+            }, 
+            {
+                "charcode": "0x30c1", 
+                "title": "KATAKANA LETTER TI"
+            }, 
+            {
+                "charcode": "0x30c2", 
+                "title": "KATAKANA LETTER DI"
+            }, 
+            {
+                "charcode": "0x30c3", 
+                "title": "KATAKANA LETTER SMALL TU"
+            }, 
+            {
+                "charcode": "0x30c4", 
+                "title": "KATAKANA LETTER TU"
+            }, 
+            {
+                "charcode": "0x30c5", 
+                "title": "KATAKANA LETTER DU"
+            }, 
+            {
+                "charcode": "0x30c6", 
+                "title": "KATAKANA LETTER TE"
+            }, 
+            {
+                "charcode": "0x30c7", 
+                "title": "KATAKANA LETTER DE"
+            }, 
+            {
+                "charcode": "0x30c8", 
+                "title": "KATAKANA LETTER TO"
+            }, 
+            {
+                "charcode": "0x30c9", 
+                "title": "KATAKANA LETTER DO"
+            }, 
+            {
+                "charcode": "0x30ca", 
+                "title": "KATAKANA LETTER NA"
+            }, 
+            {
+                "charcode": "0x30cb", 
+                "title": "KATAKANA LETTER NI"
+            }, 
+            {
+                "charcode": "0x30cc", 
+                "title": "KATAKANA LETTER NU"
+            }, 
+            {
+                "charcode": "0x30cd", 
+                "title": "KATAKANA LETTER NE"
+            }, 
+            {
+                "charcode": "0x30ce", 
+                "title": "KATAKANA LETTER NO"
+            }, 
+            {
+                "charcode": "0x30cf", 
+                "title": "KATAKANA LETTER HA"
+            }, 
+            {
+                "charcode": "0x30d0", 
+                "title": "KATAKANA LETTER BA"
+            }, 
+            {
+                "charcode": "0x30d1", 
+                "title": "KATAKANA LETTER PA"
+            }, 
+            {
+                "charcode": "0x30d2", 
+                "title": "KATAKANA LETTER HI"
+            }, 
+            {
+                "charcode": "0x30d3", 
+                "title": "KATAKANA LETTER BI"
+            }, 
+            {
+                "charcode": "0x30d4", 
+                "title": "KATAKANA LETTER PI"
+            }, 
+            {
+                "charcode": "0x30d5", 
+                "title": "KATAKANA LETTER HU"
+            }, 
+            {
+                "charcode": "0x30d6", 
+                "title": "KATAKANA LETTER BU"
+            }, 
+            {
+                "charcode": "0x30d7", 
+                "title": "KATAKANA LETTER PU"
+            }, 
+            {
+                "charcode": "0x30d8", 
+                "title": "KATAKANA LETTER HE"
+            }, 
+            {
+                "charcode": "0x30d9", 
+                "title": "KATAKANA LETTER BE"
+            }, 
+            {
+                "charcode": "0x30da", 
+                "title": "KATAKANA LETTER PE"
+            }, 
+            {
+                "charcode": "0x30db", 
+                "title": "KATAKANA LETTER HO"
+            }, 
+            {
+                "charcode": "0x30dc", 
+                "title": "KATAKANA LETTER BO"
+            }, 
+            {
+                "charcode": "0x30dd", 
+                "title": "KATAKANA LETTER PO"
+            }, 
+            {
+                "charcode": "0x30de", 
+                "title": "KATAKANA LETTER MA"
+            }, 
+            {
+                "charcode": "0x30df", 
+                "title": "KATAKANA LETTER MI"
+            }, 
+            {
+                "charcode": "0x30e0", 
+                "title": "KATAKANA LETTER MU"
+            }, 
+            {
+                "charcode": "0x30e1", 
+                "title": "KATAKANA LETTER ME"
+            }, 
+            {
+                "charcode": "0x30e2", 
+                "title": "KATAKANA LETTER MO"
+            }, 
+            {
+                "charcode": "0x30e3", 
+                "title": "KATAKANA LETTER SMALL YA"
+            }, 
+            {
+                "charcode": "0x30e4", 
+                "title": "KATAKANA LETTER YA"
+            }, 
+            {
+                "charcode": "0x30e5", 
+                "title": "KATAKANA LETTER SMALL YU"
+            }, 
+            {
+                "charcode": "0x30e6", 
+                "title": "KATAKANA LETTER YU"
+            }, 
+            {
+                "charcode": "0x30e7", 
+                "title": "KATAKANA LETTER SMALL YO"
+            }, 
+            {
+                "charcode": "0x30e8", 
+                "title": "KATAKANA LETTER YO"
+            }, 
+            {
+                "charcode": "0x30e9", 
+                "title": "KATAKANA LETTER RA"
+            }, 
+            {
+                "charcode": "0x30ea", 
+                "title": "KATAKANA LETTER RI"
+            }, 
+            {
+                "charcode": "0x30eb", 
+                "title": "KATAKANA LETTER RU"
+            }, 
+            {
+                "charcode": "0x30ec", 
+                "title": "KATAKANA LETTER RE"
+            }, 
+            {
+                "charcode": "0x30ed", 
+                "title": "KATAKANA LETTER RO"
+            }, 
+            {
+                "charcode": "0x30ee", 
+                "title": "KATAKANA LETTER SMALL WA"
+            }, 
+            {
+                "charcode": "0x30ef", 
+                "title": "KATAKANA LETTER WA"
+            }, 
+            {
+                "charcode": "0x30f0", 
+                "title": "KATAKANA LETTER WI"
+            }, 
+            {
+                "charcode": "0x30f1", 
+                "title": "KATAKANA LETTER WE"
+            }, 
+            {
+                "charcode": "0x30f2", 
+                "title": "KATAKANA LETTER WO"
+            }, 
+            {
+                "charcode": "0x30f3", 
+                "title": "KATAKANA LETTER N"
+            }, 
+            {
+                "charcode": "0x30f4", 
+                "title": "KATAKANA LETTER VU"
+            }, 
+            {
+                "charcode": "0x30f5", 
+                "title": "KATAKANA LETTER SMALL KA"
+            }, 
+            {
+                "charcode": "0x30f6", 
+                "title": "KATAKANA LETTER SMALL KE"
+            }, 
+            {
+                "charcode": "0x30f7", 
+                "title": "KATAKANA LETTER VA"
+            }, 
+            {
+                "charcode": "0x30f8", 
+                "title": "KATAKANA LETTER VI"
+            }, 
+            {
+                "charcode": "0x30f9", 
+                "title": "KATAKANA LETTER VE"
+            }, 
+            {
+                "charcode": "0x30fa", 
+                "title": "KATAKANA LETTER VO"
+            }, 
+            {
+                "charcode": "0x30fb", 
+                "title": "KATAKANA MIDDLE DOT"
+            }, 
+            {
+                "charcode": "0x30fc", 
+                "title": "KATAKANA-HIRAGANA PROLONGED SOUND MARK"
+            }, 
+            {
+                "charcode": "0x30fd", 
+                "title": "KATAKANA ITERATION MARK"
+            }, 
+            {
+                "charcode": "0x30fe", 
+                "title": "KATAKANA VOICED ITERATION MARK"
+            }
+        ], 
+        "name": "Katakana"
+    }
+]

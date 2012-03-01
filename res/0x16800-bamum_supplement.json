@@ -1,0 +1,2283 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x16800", 
+                "title": "BAMUM LETTER PHASE-A NGKUE MFON"
+            }, 
+            {
+                "charcode": "0x16801", 
+                "title": "BAMUM LETTER PHASE-A GBIEE FON"
+            }, 
+            {
+                "charcode": "0x16802", 
+                "title": "BAMUM LETTER PHASE-A PON MFON PIPAEMGBIEE"
+            }, 
+            {
+                "charcode": "0x16803", 
+                "title": "BAMUM LETTER PHASE-A PON MFON PIPAEMBA"
+            }, 
+            {
+                "charcode": "0x16804", 
+                "title": "BAMUM LETTER PHASE-A NAA MFON"
+            }, 
+            {
+                "charcode": "0x16805", 
+                "title": "BAMUM LETTER PHASE-A SHUENSHUET"
+            }, 
+            {
+                "charcode": "0x16806", 
+                "title": "BAMUM LETTER PHASE-A TITA MFON"
+            }, 
+            {
+                "charcode": "0x16807", 
+                "title": "BAMUM LETTER PHASE-A NZA MFON"
+            }, 
+            {
+                "charcode": "0x16808", 
+                "title": "BAMUM LETTER PHASE-A SHINDA PA NJI"
+            }, 
+            {
+                "charcode": "0x16809", 
+                "title": "BAMUM LETTER PHASE-A PON PA NJI PIPAEMGBIEE"
+            }, 
+            {
+                "charcode": "0x1680a", 
+                "title": "BAMUM LETTER PHASE-A PON PA NJI PIPAEMBA"
+            }, 
+            {
+                "charcode": "0x1680b", 
+                "title": "BAMUM LETTER PHASE-A MAEMBGBIEE"
+            }, 
+            {
+                "charcode": "0x1680c", 
+                "title": "BAMUM LETTER PHASE-A TU MAEMBA"
+            }, 
+            {
+                "charcode": "0x1680d", 
+                "title": "BAMUM LETTER PHASE-A NGANGU"
+            }, 
+            {
+                "charcode": "0x1680e", 
+                "title": "BAMUM LETTER PHASE-A MAEMVEUX"
+            }, 
+            {
+                "charcode": "0x1680f", 
+                "title": "BAMUM LETTER PHASE-A MANSUAE"
+            }, 
+            {
+                "charcode": "0x16810", 
+                "title": "BAMUM LETTER PHASE-A MVEUAENGAM"
+            }, 
+            {
+                "charcode": "0x16811", 
+                "title": "BAMUM LETTER PHASE-A SEUNYAM"
+            }, 
+            {
+                "charcode": "0x16812", 
+                "title": "BAMUM LETTER PHASE-A NTOQPEN"
+            }, 
+            {
+                "charcode": "0x16813", 
+                "title": "BAMUM LETTER PHASE-A KEUKEUTNDA"
+            }, 
+            {
+                "charcode": "0x16814", 
+                "title": "BAMUM LETTER PHASE-A NKINDI"
+            }, 
+            {
+                "charcode": "0x16815", 
+                "title": "BAMUM LETTER PHASE-A SUU"
+            }, 
+            {
+                "charcode": "0x16816", 
+                "title": "BAMUM LETTER PHASE-A NGKUENZEUM"
+            }, 
+            {
+                "charcode": "0x16817", 
+                "title": "BAMUM LETTER PHASE-A LAPAQ"
+            }, 
+            {
+                "charcode": "0x16818", 
+                "title": "BAMUM LETTER PHASE-A LET KUT"
+            }, 
+            {
+                "charcode": "0x16819", 
+                "title": "BAMUM LETTER PHASE-A NTAP MFAA"
+            }, 
+            {
+                "charcode": "0x1681a", 
+                "title": "BAMUM LETTER PHASE-A MAEKEUP"
+            }, 
+            {
+                "charcode": "0x1681b", 
+                "title": "BAMUM LETTER PHASE-A PASHAE"
+            }, 
+            {
+                "charcode": "0x1681c", 
+                "title": "BAMUM LETTER PHASE-A GHEUAERAE"
+            }, 
+            {
+                "charcode": "0x1681d", 
+                "title": "BAMUM LETTER PHASE-A PAMSHAE"
+            }, 
+            {
+                "charcode": "0x1681e", 
+                "title": "BAMUM LETTER PHASE-A MON NGGEUAET"
+            }, 
+            {
+                "charcode": "0x1681f", 
+                "title": "BAMUM LETTER PHASE-A NZUN MEUT"
+            }, 
+            {
+                "charcode": "0x16820", 
+                "title": "BAMUM LETTER PHASE-A U YUQ NAE"
+            }, 
+            {
+                "charcode": "0x16821", 
+                "title": "BAMUM LETTER PHASE-A GHEUAEGHEUAE"
+            }, 
+            {
+                "charcode": "0x16822", 
+                "title": "BAMUM LETTER PHASE-A NTAP NTAA"
+            }, 
+            {
+                "charcode": "0x16823", 
+                "title": "BAMUM LETTER PHASE-A SISA"
+            }, 
+            {
+                "charcode": "0x16824", 
+                "title": "BAMUM LETTER PHASE-A MGBASA"
+            }, 
+            {
+                "charcode": "0x16825", 
+                "title": "BAMUM LETTER PHASE-A MEUNJOMNDEUQ"
+            }, 
+            {
+                "charcode": "0x16826", 
+                "title": "BAMUM LETTER PHASE-A MOOMPUQ"
+            }, 
+            {
+                "charcode": "0x16827", 
+                "title": "BAMUM LETTER PHASE-A KAFA"
+            }, 
+            {
+                "charcode": "0x16828", 
+                "title": "BAMUM LETTER PHASE-A PA LEERAEWA"
+            }, 
+            {
+                "charcode": "0x16829", 
+                "title": "BAMUM LETTER PHASE-A NDA LEERAEWA"
+            }, 
+            {
+                "charcode": "0x1682a", 
+                "title": "BAMUM LETTER PHASE-A PET"
+            }, 
+            {
+                "charcode": "0x1682b", 
+                "title": "BAMUM LETTER PHASE-A MAEMKPEN"
+            }, 
+            {
+                "charcode": "0x1682c", 
+                "title": "BAMUM LETTER PHASE-A NIKA"
+            }, 
+            {
+                "charcode": "0x1682d", 
+                "title": "BAMUM LETTER PHASE-A PUP"
+            }, 
+            {
+                "charcode": "0x1682e", 
+                "title": "BAMUM LETTER PHASE-A TUAEP"
+            }, 
+            {
+                "charcode": "0x1682f", 
+                "title": "BAMUM LETTER PHASE-A LUAEP"
+            }, 
+            {
+                "charcode": "0x16830", 
+                "title": "BAMUM LETTER PHASE-A SONJAM"
+            }, 
+            {
+                "charcode": "0x16831", 
+                "title": "BAMUM LETTER PHASE-A TEUTEUWEN"
+            }, 
+            {
+                "charcode": "0x16832", 
+                "title": "BAMUM LETTER PHASE-A MAENYI"
+            }, 
+            {
+                "charcode": "0x16833", 
+                "title": "BAMUM LETTER PHASE-A KET"
+            }, 
+            {
+                "charcode": "0x16834", 
+                "title": "BAMUM LETTER PHASE-A NDAANGGEUAET"
+            }, 
+            {
+                "charcode": "0x16835", 
+                "title": "BAMUM LETTER PHASE-A KUOQ"
+            }, 
+            {
+                "charcode": "0x16836", 
+                "title": "BAMUM LETTER PHASE-A MOOMEUT"
+            }, 
+            {
+                "charcode": "0x16837", 
+                "title": "BAMUM LETTER PHASE-A SHUM"
+            }, 
+            {
+                "charcode": "0x16838", 
+                "title": "BAMUM LETTER PHASE-A LOMMAE"
+            }, 
+            {
+                "charcode": "0x16839", 
+                "title": "BAMUM LETTER PHASE-A FIRI"
+            }, 
+            {
+                "charcode": "0x1683a", 
+                "title": "BAMUM LETTER PHASE-A ROM"
+            }, 
+            {
+                "charcode": "0x1683b", 
+                "title": "BAMUM LETTER PHASE-A KPOQ"
+            }, 
+            {
+                "charcode": "0x1683c", 
+                "title": "BAMUM LETTER PHASE-A SOQ"
+            }, 
+            {
+                "charcode": "0x1683d", 
+                "title": "BAMUM LETTER PHASE-A MAP PIEET"
+            }, 
+            {
+                "charcode": "0x1683e", 
+                "title": "BAMUM LETTER PHASE-A SHIRAE"
+            }, 
+            {
+                "charcode": "0x1683f", 
+                "title": "BAMUM LETTER PHASE-A NTAP"
+            }, 
+            {
+                "charcode": "0x16840", 
+                "title": "BAMUM LETTER PHASE-A SHOQ NSHUT YUM"
+            }, 
+            {
+                "charcode": "0x16841", 
+                "title": "BAMUM LETTER PHASE-A NYIT MONGKEUAEQ"
+            }, 
+            {
+                "charcode": "0x16842", 
+                "title": "BAMUM LETTER PHASE-A PAARAE"
+            }, 
+            {
+                "charcode": "0x16843", 
+                "title": "BAMUM LETTER PHASE-A NKAARAE"
+            }, 
+            {
+                "charcode": "0x16844", 
+                "title": "BAMUM LETTER PHASE-A UNKNOWN"
+            }, 
+            {
+                "charcode": "0x16845", 
+                "title": "BAMUM LETTER PHASE-A NGGEN"
+            }, 
+            {
+                "charcode": "0x16846", 
+                "title": "BAMUM LETTER PHASE-A MAESI"
+            }, 
+            {
+                "charcode": "0x16847", 
+                "title": "BAMUM LETTER PHASE-A NJAM"
+            }, 
+            {
+                "charcode": "0x16848", 
+                "title": "BAMUM LETTER PHASE-A MBANYI"
+            }, 
+            {
+                "charcode": "0x16849", 
+                "title": "BAMUM LETTER PHASE-A NYET"
+            }, 
+            {
+                "charcode": "0x1684a", 
+                "title": "BAMUM LETTER PHASE-A TEUAEN"
+            }, 
+            {
+                "charcode": "0x1684b", 
+                "title": "BAMUM LETTER PHASE-A SOT"
+            }, 
+            {
+                "charcode": "0x1684c", 
+                "title": "BAMUM LETTER PHASE-A PAAM"
+            }, 
+            {
+                "charcode": "0x1684d", 
+                "title": "BAMUM LETTER PHASE-A NSHIEE"
+            }, 
+            {
+                "charcode": "0x1684e", 
+                "title": "BAMUM LETTER PHASE-A MAEM"
+            }, 
+            {
+                "charcode": "0x1684f", 
+                "title": "BAMUM LETTER PHASE-A NYI"
+            }, 
+            {
+                "charcode": "0x16850", 
+                "title": "BAMUM LETTER PHASE-A KAQ"
+            }, 
+            {
+                "charcode": "0x16851", 
+                "title": "BAMUM LETTER PHASE-A NSHA"
+            }, 
+            {
+                "charcode": "0x16852", 
+                "title": "BAMUM LETTER PHASE-A VEE"
+            }, 
+            {
+                "charcode": "0x16853", 
+                "title": "BAMUM LETTER PHASE-A LU"
+            }, 
+            {
+                "charcode": "0x16854", 
+                "title": "BAMUM LETTER PHASE-A NEN"
+            }, 
+            {
+                "charcode": "0x16855", 
+                "title": "BAMUM LETTER PHASE-A NAQ"
+            }, 
+            {
+                "charcode": "0x16856", 
+                "title": "BAMUM LETTER PHASE-A MBAQ"
+            }, 
+            {
+                "charcode": "0x16857", 
+                "title": "BAMUM LETTER PHASE-B NSHUET"
+            }, 
+            {
+                "charcode": "0x16858", 
+                "title": "BAMUM LETTER PHASE-B TU MAEMGBIEE"
+            }, 
+            {
+                "charcode": "0x16859", 
+                "title": "BAMUM LETTER PHASE-B SIEE"
+            }, 
+            {
+                "charcode": "0x1685a", 
+                "title": "BAMUM LETTER PHASE-B SET TU"
+            }, 
+            {
+                "charcode": "0x1685b", 
+                "title": "BAMUM LETTER PHASE-B LOM NTEUM"
+            }, 
+            {
+                "charcode": "0x1685c", 
+                "title": "BAMUM LETTER PHASE-B MBA MAELEE"
+            }, 
+            {
+                "charcode": "0x1685d", 
+                "title": "BAMUM LETTER PHASE-B KIEEM"
+            }, 
+            {
+                "charcode": "0x1685e", 
+                "title": "BAMUM LETTER PHASE-B YEURAE"
+            }, 
+            {
+                "charcode": "0x1685f", 
+                "title": "BAMUM LETTER PHASE-B MBAARAE"
+            }, 
+            {
+                "charcode": "0x16860", 
+                "title": "BAMUM LETTER PHASE-B KAM"
+            }, 
+            {
+                "charcode": "0x16861", 
+                "title": "BAMUM LETTER PHASE-B PEESHI"
+            }, 
+            {
+                "charcode": "0x16862", 
+                "title": "BAMUM LETTER PHASE-B YAFU LEERAEWA"
+            }, 
+            {
+                "charcode": "0x16863", 
+                "title": "BAMUM LETTER PHASE-B LAM NSHUT NYAM"
+            }, 
+            {
+                "charcode": "0x16864", 
+                "title": "BAMUM LETTER PHASE-B NTIEE SHEUOQ"
+            }, 
+            {
+                "charcode": "0x16865", 
+                "title": "BAMUM LETTER PHASE-B NDU NJAA"
+            }, 
+            {
+                "charcode": "0x16866", 
+                "title": "BAMUM LETTER PHASE-B GHEUGHEUAEM"
+            }, 
+            {
+                "charcode": "0x16867", 
+                "title": "BAMUM LETTER PHASE-B PIT"
+            }, 
+            {
+                "charcode": "0x16868", 
+                "title": "BAMUM LETTER PHASE-B TU NSIEE"
+            }, 
+            {
+                "charcode": "0x16869", 
+                "title": "BAMUM LETTER PHASE-B SHET NJAQ"
+            }, 
+            {
+                "charcode": "0x1686a", 
+                "title": "BAMUM LETTER PHASE-B SHEUAEQTU"
+            }, 
+            {
+                "charcode": "0x1686b", 
+                "title": "BAMUM LETTER PHASE-B MFON TEUAEQ"
+            }, 
+            {
+                "charcode": "0x1686c", 
+                "title": "BAMUM LETTER PHASE-B MBIT MBAAKET"
+            }, 
+            {
+                "charcode": "0x1686d", 
+                "title": "BAMUM LETTER PHASE-B NYI NTEUM"
+            }, 
+            {
+                "charcode": "0x1686e", 
+                "title": "BAMUM LETTER PHASE-B KEUPUQ"
+            }, 
+            {
+                "charcode": "0x1686f", 
+                "title": "BAMUM LETTER PHASE-B GHEUGHEN"
+            }, 
+            {
+                "charcode": "0x16870", 
+                "title": "BAMUM LETTER PHASE-B KEUYEUX"
+            }, 
+            {
+                "charcode": "0x16871", 
+                "title": "BAMUM LETTER PHASE-B LAANAE"
+            }, 
+            {
+                "charcode": "0x16872", 
+                "title": "BAMUM LETTER PHASE-B PARUM"
+            }, 
+            {
+                "charcode": "0x16873", 
+                "title": "BAMUM LETTER PHASE-B VEUM"
+            }, 
+            {
+                "charcode": "0x16874", 
+                "title": "BAMUM LETTER PHASE-B NGKINDI MVOP"
+            }, 
+            {
+                "charcode": "0x16875", 
+                "title": "BAMUM LETTER PHASE-B NGGEU MBU"
+            }, 
+            {
+                "charcode": "0x16876", 
+                "title": "BAMUM LETTER PHASE-B WUAET"
+            }, 
+            {
+                "charcode": "0x16877", 
+                "title": "BAMUM LETTER PHASE-B SAKEUAE"
+            }, 
+            {
+                "charcode": "0x16878", 
+                "title": "BAMUM LETTER PHASE-B TAAM"
+            }, 
+            {
+                "charcode": "0x16879", 
+                "title": "BAMUM LETTER PHASE-B MEUQ"
+            }, 
+            {
+                "charcode": "0x1687a", 
+                "title": "BAMUM LETTER PHASE-B NGGUOQ"
+            }, 
+            {
+                "charcode": "0x1687b", 
+                "title": "BAMUM LETTER PHASE-B NGGUOQ LARGE"
+            }, 
+            {
+                "charcode": "0x1687c", 
+                "title": "BAMUM LETTER PHASE-B MFIYAQ"
+            }, 
+            {
+                "charcode": "0x1687d", 
+                "title": "BAMUM LETTER PHASE-B SUE"
+            }, 
+            {
+                "charcode": "0x1687e", 
+                "title": "BAMUM LETTER PHASE-B MBEURI"
+            }, 
+            {
+                "charcode": "0x1687f", 
+                "title": "BAMUM LETTER PHASE-B MONTIEEN"
+            }, 
+            {
+                "charcode": "0x16880", 
+                "title": "BAMUM LETTER PHASE-B NYAEMAE"
+            }, 
+            {
+                "charcode": "0x16881", 
+                "title": "BAMUM LETTER PHASE-B PUNGAAM"
+            }, 
+            {
+                "charcode": "0x16882", 
+                "title": "BAMUM LETTER PHASE-B MEUT NGGEET"
+            }, 
+            {
+                "charcode": "0x16883", 
+                "title": "BAMUM LETTER PHASE-B FEUX"
+            }, 
+            {
+                "charcode": "0x16884", 
+                "title": "BAMUM LETTER PHASE-B MBUOQ"
+            }, 
+            {
+                "charcode": "0x16885", 
+                "title": "BAMUM LETTER PHASE-B FEE"
+            }, 
+            {
+                "charcode": "0x16886", 
+                "title": "BAMUM LETTER PHASE-B KEUAEM"
+            }, 
+            {
+                "charcode": "0x16887", 
+                "title": "BAMUM LETTER PHASE-B MA NJEUAENA"
+            }, 
+            {
+                "charcode": "0x16888", 
+                "title": "BAMUM LETTER PHASE-B MA NJUQA"
+            }, 
+            {
+                "charcode": "0x16889", 
+                "title": "BAMUM LETTER PHASE-B LET"
+            }, 
+            {
+                "charcode": "0x1688a", 
+                "title": "BAMUM LETTER PHASE-B NGGAAM"
+            }, 
+            {
+                "charcode": "0x1688b", 
+                "title": "BAMUM LETTER PHASE-B NSEN"
+            }, 
+            {
+                "charcode": "0x1688c", 
+                "title": "BAMUM LETTER PHASE-B MA"
+            }, 
+            {
+                "charcode": "0x1688d", 
+                "title": "BAMUM LETTER PHASE-B KIQ"
+            }, 
+            {
+                "charcode": "0x1688e", 
+                "title": "BAMUM LETTER PHASE-B NGOM"
+            }, 
+            {
+                "charcode": "0x1688f", 
+                "title": "BAMUM LETTER PHASE-C NGKUE MAEMBA"
+            }, 
+            {
+                "charcode": "0x16890", 
+                "title": "BAMUM LETTER PHASE-C NZA"
+            }, 
+            {
+                "charcode": "0x16891", 
+                "title": "BAMUM LETTER PHASE-C YUM"
+            }, 
+            {
+                "charcode": "0x16892", 
+                "title": "BAMUM LETTER PHASE-C WANGKUOQ"
+            }, 
+            {
+                "charcode": "0x16893", 
+                "title": "BAMUM LETTER PHASE-C NGGEN"
+            }, 
+            {
+                "charcode": "0x16894", 
+                "title": "BAMUM LETTER PHASE-C NDEUAEREE"
+            }, 
+            {
+                "charcode": "0x16895", 
+                "title": "BAMUM LETTER PHASE-C NGKAQ"
+            }, 
+            {
+                "charcode": "0x16896", 
+                "title": "BAMUM LETTER PHASE-C GHARAE"
+            }, 
+            {
+                "charcode": "0x16897", 
+                "title": "BAMUM LETTER PHASE-C MBEEKEET"
+            }, 
+            {
+                "charcode": "0x16898", 
+                "title": "BAMUM LETTER PHASE-C GBAYI"
+            }, 
+            {
+                "charcode": "0x16899", 
+                "title": "BAMUM LETTER PHASE-C NYIR MKPARAQ MEUN"
+            }, 
+            {
+                "charcode": "0x1689a", 
+                "title": "BAMUM LETTER PHASE-C NTU MBIT"
+            }, 
+            {
+                "charcode": "0x1689b", 
+                "title": "BAMUM LETTER PHASE-C MBEUM"
+            }, 
+            {
+                "charcode": "0x1689c", 
+                "title": "BAMUM LETTER PHASE-C PIRIEEN"
+            }, 
+            {
+                "charcode": "0x1689d", 
+                "title": "BAMUM LETTER PHASE-C NDOMBU"
+            }, 
+            {
+                "charcode": "0x1689e", 
+                "title": "BAMUM LETTER PHASE-C MBAA CABBAGE-TREE"
+            }, 
+            {
+                "charcode": "0x1689f", 
+                "title": "BAMUM LETTER PHASE-C KEUSHEUAEP"
+            }, 
+            {
+                "charcode": "0x168a0", 
+                "title": "BAMUM LETTER PHASE-C GHAP"
+            }, 
+            {
+                "charcode": "0x168a1", 
+                "title": "BAMUM LETTER PHASE-C KEUKAQ"
+            }, 
+            {
+                "charcode": "0x168a2", 
+                "title": "BAMUM LETTER PHASE-C YU MUOMAE"
+            }, 
+            {
+                "charcode": "0x168a3", 
+                "title": "BAMUM LETTER PHASE-C NZEUM"
+            }, 
+            {
+                "charcode": "0x168a4", 
+                "title": "BAMUM LETTER PHASE-C MBUE"
+            }, 
+            {
+                "charcode": "0x168a5", 
+                "title": "BAMUM LETTER PHASE-C NSEUAEN"
+            }, 
+            {
+                "charcode": "0x168a6", 
+                "title": "BAMUM LETTER PHASE-C MBIT"
+            }, 
+            {
+                "charcode": "0x168a7", 
+                "title": "BAMUM LETTER PHASE-C YEUQ"
+            }, 
+            {
+                "charcode": "0x168a8", 
+                "title": "BAMUM LETTER PHASE-C KPARAQ"
+            }, 
+            {
+                "charcode": "0x168a9", 
+                "title": "BAMUM LETTER PHASE-C KAA"
+            }, 
+            {
+                "charcode": "0x168aa", 
+                "title": "BAMUM LETTER PHASE-C SEUX"
+            }, 
+            {
+                "charcode": "0x168ab", 
+                "title": "BAMUM LETTER PHASE-C NDIDA"
+            }, 
+            {
+                "charcode": "0x168ac", 
+                "title": "BAMUM LETTER PHASE-C TAASHAE"
+            }, 
+            {
+                "charcode": "0x168ad", 
+                "title": "BAMUM LETTER PHASE-C NJUEQ"
+            }, 
+            {
+                "charcode": "0x168ae", 
+                "title": "BAMUM LETTER PHASE-C TITA YUE"
+            }, 
+            {
+                "charcode": "0x168af", 
+                "title": "BAMUM LETTER PHASE-C SUAET"
+            }, 
+            {
+                "charcode": "0x168b0", 
+                "title": "BAMUM LETTER PHASE-C NGGUAEN NYAM"
+            }, 
+            {
+                "charcode": "0x168b1", 
+                "title": "BAMUM LETTER PHASE-C VEUX"
+            }, 
+            {
+                "charcode": "0x168b2", 
+                "title": "BAMUM LETTER PHASE-C NANSANAQ"
+            }, 
+            {
+                "charcode": "0x168b3", 
+                "title": "BAMUM LETTER PHASE-C MA KEUAERI"
+            }, 
+            {
+                "charcode": "0x168b4", 
+                "title": "BAMUM LETTER PHASE-C NTAA"
+            }, 
+            {
+                "charcode": "0x168b5", 
+                "title": "BAMUM LETTER PHASE-C NGGUON"
+            }, 
+            {
+                "charcode": "0x168b6", 
+                "title": "BAMUM LETTER PHASE-C LAP"
+            }, 
+            {
+                "charcode": "0x168b7", 
+                "title": "BAMUM LETTER PHASE-C MBIRIEEN"
+            }, 
+            {
+                "charcode": "0x168b8", 
+                "title": "BAMUM LETTER PHASE-C MGBASAQ"
+            }, 
+            {
+                "charcode": "0x168b9", 
+                "title": "BAMUM LETTER PHASE-C NTEUNGBA"
+            }, 
+            {
+                "charcode": "0x168ba", 
+                "title": "BAMUM LETTER PHASE-C TEUTEUX"
+            }, 
+            {
+                "charcode": "0x168bb", 
+                "title": "BAMUM LETTER PHASE-C NGGUM"
+            }, 
+            {
+                "charcode": "0x168bc", 
+                "title": "BAMUM LETTER PHASE-C FUE"
+            }, 
+            {
+                "charcode": "0x168bd", 
+                "title": "BAMUM LETTER PHASE-C NDEUT"
+            }, 
+            {
+                "charcode": "0x168be", 
+                "title": "BAMUM LETTER PHASE-C NSA"
+            }, 
+            {
+                "charcode": "0x168bf", 
+                "title": "BAMUM LETTER PHASE-C NSHAQ"
+            }, 
+            {
+                "charcode": "0x168c0", 
+                "title": "BAMUM LETTER PHASE-C BUNG"
+            }, 
+            {
+                "charcode": "0x168c1", 
+                "title": "BAMUM LETTER PHASE-C VEUAEPEN"
+            }, 
+            {
+                "charcode": "0x168c2", 
+                "title": "BAMUM LETTER PHASE-C MBERAE"
+            }, 
+            {
+                "charcode": "0x168c3", 
+                "title": "BAMUM LETTER PHASE-C RU"
+            }, 
+            {
+                "charcode": "0x168c4", 
+                "title": "BAMUM LETTER PHASE-C NJAEM"
+            }, 
+            {
+                "charcode": "0x168c5", 
+                "title": "BAMUM LETTER PHASE-C LAM"
+            }, 
+            {
+                "charcode": "0x168c6", 
+                "title": "BAMUM LETTER PHASE-C TITUAEP"
+            }, 
+            {
+                "charcode": "0x168c7", 
+                "title": "BAMUM LETTER PHASE-C NSUOT NGOM"
+            }, 
+            {
+                "charcode": "0x168c8", 
+                "title": "BAMUM LETTER PHASE-C NJEEEE"
+            }, 
+            {
+                "charcode": "0x168c9", 
+                "title": "BAMUM LETTER PHASE-C KET"
+            }, 
+            {
+                "charcode": "0x168ca", 
+                "title": "BAMUM LETTER PHASE-C NGGU"
+            }, 
+            {
+                "charcode": "0x168cb", 
+                "title": "BAMUM LETTER PHASE-C MAESI"
+            }, 
+            {
+                "charcode": "0x168cc", 
+                "title": "BAMUM LETTER PHASE-C MBUAEM"
+            }, 
+            {
+                "charcode": "0x168cd", 
+                "title": "BAMUM LETTER PHASE-C LU"
+            }, 
+            {
+                "charcode": "0x168ce", 
+                "title": "BAMUM LETTER PHASE-C KUT"
+            }, 
+            {
+                "charcode": "0x168cf", 
+                "title": "BAMUM LETTER PHASE-C NJAM"
+            }, 
+            {
+                "charcode": "0x168d0", 
+                "title": "BAMUM LETTER PHASE-C NGOM"
+            }, 
+            {
+                "charcode": "0x168d1", 
+                "title": "BAMUM LETTER PHASE-C WUP"
+            }, 
+            {
+                "charcode": "0x168d2", 
+                "title": "BAMUM LETTER PHASE-C NGGUEET"
+            }, 
+            {
+                "charcode": "0x168d3", 
+                "title": "BAMUM LETTER PHASE-C NSOM"
+            }, 
+            {
+                "charcode": "0x168d4", 
+                "title": "BAMUM LETTER PHASE-C NTEN"
+            }, 
+            {
+                "charcode": "0x168d5", 
+                "title": "BAMUM LETTER PHASE-C KUOP NKAARAE"
+            }, 
+            {
+                "charcode": "0x168d6", 
+                "title": "BAMUM LETTER PHASE-C NSUN"
+            }, 
+            {
+                "charcode": "0x168d7", 
+                "title": "BAMUM LETTER PHASE-C NDAM"
+            }, 
+            {
+                "charcode": "0x168d8", 
+                "title": "BAMUM LETTER PHASE-C MA NSIEE"
+            }, 
+            {
+                "charcode": "0x168d9", 
+                "title": "BAMUM LETTER PHASE-C YAA"
+            }, 
+            {
+                "charcode": "0x168da", 
+                "title": "BAMUM LETTER PHASE-C NDAP"
+            }, 
+            {
+                "charcode": "0x168db", 
+                "title": "BAMUM LETTER PHASE-C SHUEQ"
+            }, 
+            {
+                "charcode": "0x168dc", 
+                "title": "BAMUM LETTER PHASE-C SETFON"
+            }, 
+            {
+                "charcode": "0x168dd", 
+                "title": "BAMUM LETTER PHASE-C MBI"
+            }, 
+            {
+                "charcode": "0x168de", 
+                "title": "BAMUM LETTER PHASE-C MAEMBA"
+            }, 
+            {
+                "charcode": "0x168df", 
+                "title": "BAMUM LETTER PHASE-C MBANYI"
+            }, 
+            {
+                "charcode": "0x168e0", 
+                "title": "BAMUM LETTER PHASE-C KEUSEUX"
+            }, 
+            {
+                "charcode": "0x168e1", 
+                "title": "BAMUM LETTER PHASE-C MBEUX"
+            }, 
+            {
+                "charcode": "0x168e2", 
+                "title": "BAMUM LETTER PHASE-C KEUM"
+            }, 
+            {
+                "charcode": "0x168e3", 
+                "title": "BAMUM LETTER PHASE-C MBAA PICKET"
+            }, 
+            {
+                "charcode": "0x168e4", 
+                "title": "BAMUM LETTER PHASE-C YUWOQ"
+            }, 
+            {
+                "charcode": "0x168e5", 
+                "title": "BAMUM LETTER PHASE-C NJEUX"
+            }, 
+            {
+                "charcode": "0x168e6", 
+                "title": "BAMUM LETTER PHASE-C MIEE"
+            }, 
+            {
+                "charcode": "0x168e7", 
+                "title": "BAMUM LETTER PHASE-C MUAE"
+            }, 
+            {
+                "charcode": "0x168e8", 
+                "title": "BAMUM LETTER PHASE-C SHIQ"
+            }, 
+            {
+                "charcode": "0x168e9", 
+                "title": "BAMUM LETTER PHASE-C KEN LAW"
+            }, 
+            {
+                "charcode": "0x168ea", 
+                "title": "BAMUM LETTER PHASE-C KEN FATIGUE"
+            }, 
+            {
+                "charcode": "0x168eb", 
+                "title": "BAMUM LETTER PHASE-C NGAQ"
+            }, 
+            {
+                "charcode": "0x168ec", 
+                "title": "BAMUM LETTER PHASE-C NAQ"
+            }, 
+            {
+                "charcode": "0x168ed", 
+                "title": "BAMUM LETTER PHASE-C LIQ"
+            }, 
+            {
+                "charcode": "0x168ee", 
+                "title": "BAMUM LETTER PHASE-C PIN"
+            }, 
+            {
+                "charcode": "0x168ef", 
+                "title": "BAMUM LETTER PHASE-C PEN"
+            }, 
+            {
+                "charcode": "0x168f0", 
+                "title": "BAMUM LETTER PHASE-C TET"
+            }, 
+            {
+                "charcode": "0x168f1", 
+                "title": "BAMUM LETTER PHASE-D MBUO"
+            }, 
+            {
+                "charcode": "0x168f2", 
+                "title": "BAMUM LETTER PHASE-D WAP"
+            }, 
+            {
+                "charcode": "0x168f3", 
+                "title": "BAMUM LETTER PHASE-D NJI"
+            }, 
+            {
+                "charcode": "0x168f4", 
+                "title": "BAMUM LETTER PHASE-D MFON"
+            }, 
+            {
+                "charcode": "0x168f5", 
+                "title": "BAMUM LETTER PHASE-D NJIEE"
+            }, 
+            {
+                "charcode": "0x168f6", 
+                "title": "BAMUM LETTER PHASE-D LIEE"
+            }, 
+            {
+                "charcode": "0x168f7", 
+                "title": "BAMUM LETTER PHASE-D NJEUT"
+            }, 
+            {
+                "charcode": "0x168f8", 
+                "title": "BAMUM LETTER PHASE-D NSHEE"
+            }, 
+            {
+                "charcode": "0x168f9", 
+                "title": "BAMUM LETTER PHASE-D NGGAAMAE"
+            }, 
+            {
+                "charcode": "0x168fa", 
+                "title": "BAMUM LETTER PHASE-D NYAM"
+            }, 
+            {
+                "charcode": "0x168fb", 
+                "title": "BAMUM LETTER PHASE-D WUAEN"
+            }, 
+            {
+                "charcode": "0x168fc", 
+                "title": "BAMUM LETTER PHASE-D NGKUN"
+            }, 
+            {
+                "charcode": "0x168fd", 
+                "title": "BAMUM LETTER PHASE-D SHEE"
+            }, 
+            {
+                "charcode": "0x168fe", 
+                "title": "BAMUM LETTER PHASE-D NGKAP"
+            }, 
+            {
+                "charcode": "0x168ff", 
+                "title": "BAMUM LETTER PHASE-D KEUAETMEUN"
+            }, 
+            {
+                "charcode": "0x16900", 
+                "title": "BAMUM LETTER PHASE-D TEUT"
+            }, 
+            {
+                "charcode": "0x16901", 
+                "title": "BAMUM LETTER PHASE-D SHEUAE"
+            }, 
+            {
+                "charcode": "0x16902", 
+                "title": "BAMUM LETTER PHASE-D NJAP"
+            }, 
+            {
+                "charcode": "0x16903", 
+                "title": "BAMUM LETTER PHASE-D SUE"
+            }, 
+            {
+                "charcode": "0x16904", 
+                "title": "BAMUM LETTER PHASE-D KET"
+            }, 
+            {
+                "charcode": "0x16905", 
+                "title": "BAMUM LETTER PHASE-D YAEMMAE"
+            }, 
+            {
+                "charcode": "0x16906", 
+                "title": "BAMUM LETTER PHASE-D KUOM"
+            }, 
+            {
+                "charcode": "0x16907", 
+                "title": "BAMUM LETTER PHASE-D SAP"
+            }, 
+            {
+                "charcode": "0x16908", 
+                "title": "BAMUM LETTER PHASE-D MFEUT"
+            }, 
+            {
+                "charcode": "0x16909", 
+                "title": "BAMUM LETTER PHASE-D NDEUX"
+            }, 
+            {
+                "charcode": "0x1690a", 
+                "title": "BAMUM LETTER PHASE-D MALEERI"
+            }, 
+            {
+                "charcode": "0x1690b", 
+                "title": "BAMUM LETTER PHASE-D MEUT"
+            }, 
+            {
+                "charcode": "0x1690c", 
+                "title": "BAMUM LETTER PHASE-D SEUAEQ"
+            }, 
+            {
+                "charcode": "0x1690d", 
+                "title": "BAMUM LETTER PHASE-D YEN"
+            }, 
+            {
+                "charcode": "0x1690e", 
+                "title": "BAMUM LETTER PHASE-D NJEUAEM"
+            }, 
+            {
+                "charcode": "0x1690f", 
+                "title": "BAMUM LETTER PHASE-D KEUOT MBUAE"
+            }, 
+            {
+                "charcode": "0x16910", 
+                "title": "BAMUM LETTER PHASE-D NGKEURI"
+            }, 
+            {
+                "charcode": "0x16911", 
+                "title": "BAMUM LETTER PHASE-D TU"
+            }, 
+            {
+                "charcode": "0x16912", 
+                "title": "BAMUM LETTER PHASE-D GHAA"
+            }, 
+            {
+                "charcode": "0x16913", 
+                "title": "BAMUM LETTER PHASE-D NGKYEE"
+            }, 
+            {
+                "charcode": "0x16914", 
+                "title": "BAMUM LETTER PHASE-D FEUFEUAET"
+            }, 
+            {
+                "charcode": "0x16915", 
+                "title": "BAMUM LETTER PHASE-D NDEE"
+            }, 
+            {
+                "charcode": "0x16916", 
+                "title": "BAMUM LETTER PHASE-D MGBOFUM"
+            }, 
+            {
+                "charcode": "0x16917", 
+                "title": "BAMUM LETTER PHASE-D LEUAEP"
+            }, 
+            {
+                "charcode": "0x16918", 
+                "title": "BAMUM LETTER PHASE-D NDON"
+            }, 
+            {
+                "charcode": "0x16919", 
+                "title": "BAMUM LETTER PHASE-D MONI"
+            }, 
+            {
+                "charcode": "0x1691a", 
+                "title": "BAMUM LETTER PHASE-D MGBEUN"
+            }, 
+            {
+                "charcode": "0x1691b", 
+                "title": "BAMUM LETTER PHASE-D PUUT"
+            }, 
+            {
+                "charcode": "0x1691c", 
+                "title": "BAMUM LETTER PHASE-D MGBIEE"
+            }, 
+            {
+                "charcode": "0x1691d", 
+                "title": "BAMUM LETTER PHASE-D MFO"
+            }, 
+            {
+                "charcode": "0x1691e", 
+                "title": "BAMUM LETTER PHASE-D LUM"
+            }, 
+            {
+                "charcode": "0x1691f", 
+                "title": "BAMUM LETTER PHASE-D NSIEEP"
+            }, 
+            {
+                "charcode": "0x16920", 
+                "title": "BAMUM LETTER PHASE-D MBAA"
+            }, 
+            {
+                "charcode": "0x16921", 
+                "title": "BAMUM LETTER PHASE-D KWAET"
+            }, 
+            {
+                "charcode": "0x16922", 
+                "title": "BAMUM LETTER PHASE-D NYET"
+            }, 
+            {
+                "charcode": "0x16923", 
+                "title": "BAMUM LETTER PHASE-D TEUAEN"
+            }, 
+            {
+                "charcode": "0x16924", 
+                "title": "BAMUM LETTER PHASE-D SOT"
+            }, 
+            {
+                "charcode": "0x16925", 
+                "title": "BAMUM LETTER PHASE-D YUWOQ"
+            }, 
+            {
+                "charcode": "0x16926", 
+                "title": "BAMUM LETTER PHASE-D KEUM"
+            }, 
+            {
+                "charcode": "0x16927", 
+                "title": "BAMUM LETTER PHASE-D RAEM"
+            }, 
+            {
+                "charcode": "0x16928", 
+                "title": "BAMUM LETTER PHASE-D TEEEE"
+            }, 
+            {
+                "charcode": "0x16929", 
+                "title": "BAMUM LETTER PHASE-D NGKEUAEQ"
+            }, 
+            {
+                "charcode": "0x1692a", 
+                "title": "BAMUM LETTER PHASE-D MFEUAE"
+            }, 
+            {
+                "charcode": "0x1692b", 
+                "title": "BAMUM LETTER PHASE-D NSIEET"
+            }, 
+            {
+                "charcode": "0x1692c", 
+                "title": "BAMUM LETTER PHASE-D KEUP"
+            }, 
+            {
+                "charcode": "0x1692d", 
+                "title": "BAMUM LETTER PHASE-D PIP"
+            }, 
+            {
+                "charcode": "0x1692e", 
+                "title": "BAMUM LETTER PHASE-D PEUTAE"
+            }, 
+            {
+                "charcode": "0x1692f", 
+                "title": "BAMUM LETTER PHASE-D NYUE"
+            }, 
+            {
+                "charcode": "0x16930", 
+                "title": "BAMUM LETTER PHASE-D LET"
+            }, 
+            {
+                "charcode": "0x16931", 
+                "title": "BAMUM LETTER PHASE-D NGGAAM"
+            }, 
+            {
+                "charcode": "0x16932", 
+                "title": "BAMUM LETTER PHASE-D MFIEE"
+            }, 
+            {
+                "charcode": "0x16933", 
+                "title": "BAMUM LETTER PHASE-D NGGWAEN"
+            }, 
+            {
+                "charcode": "0x16934", 
+                "title": "BAMUM LETTER PHASE-D YUOM"
+            }, 
+            {
+                "charcode": "0x16935", 
+                "title": "BAMUM LETTER PHASE-D PAP"
+            }, 
+            {
+                "charcode": "0x16936", 
+                "title": "BAMUM LETTER PHASE-D YUOP"
+            }, 
+            {
+                "charcode": "0x16937", 
+                "title": "BAMUM LETTER PHASE-D NDAM"
+            }, 
+            {
+                "charcode": "0x16938", 
+                "title": "BAMUM LETTER PHASE-D NTEUM"
+            }, 
+            {
+                "charcode": "0x16939", 
+                "title": "BAMUM LETTER PHASE-D SUAE"
+            }, 
+            {
+                "charcode": "0x1693a", 
+                "title": "BAMUM LETTER PHASE-D KUN"
+            }, 
+            {
+                "charcode": "0x1693b", 
+                "title": "BAMUM LETTER PHASE-D NGGEUX"
+            }, 
+            {
+                "charcode": "0x1693c", 
+                "title": "BAMUM LETTER PHASE-D NGKIEE"
+            }, 
+            {
+                "charcode": "0x1693d", 
+                "title": "BAMUM LETTER PHASE-D TUOT"
+            }, 
+            {
+                "charcode": "0x1693e", 
+                "title": "BAMUM LETTER PHASE-D MEUN"
+            }, 
+            {
+                "charcode": "0x1693f", 
+                "title": "BAMUM LETTER PHASE-D KUQ"
+            }, 
+            {
+                "charcode": "0x16940", 
+                "title": "BAMUM LETTER PHASE-D NSUM"
+            }, 
+            {
+                "charcode": "0x16941", 
+                "title": "BAMUM LETTER PHASE-D TEUN"
+            }, 
+            {
+                "charcode": "0x16942", 
+                "title": "BAMUM LETTER PHASE-D MAENJET"
+            }, 
+            {
+                "charcode": "0x16943", 
+                "title": "BAMUM LETTER PHASE-D NGGAP"
+            }, 
+            {
+                "charcode": "0x16944", 
+                "title": "BAMUM LETTER PHASE-D LEUM"
+            }, 
+            {
+                "charcode": "0x16945", 
+                "title": "BAMUM LETTER PHASE-D NGGUOM"
+            }, 
+            {
+                "charcode": "0x16946", 
+                "title": "BAMUM LETTER PHASE-D NSHUT"
+            }, 
+            {
+                "charcode": "0x16947", 
+                "title": "BAMUM LETTER PHASE-D NJUEQ"
+            }, 
+            {
+                "charcode": "0x16948", 
+                "title": "BAMUM LETTER PHASE-D GHEUAE"
+            }, 
+            {
+                "charcode": "0x16949", 
+                "title": "BAMUM LETTER PHASE-D KU"
+            }, 
+            {
+                "charcode": "0x1694a", 
+                "title": "BAMUM LETTER PHASE-D REN OLD"
+            }, 
+            {
+                "charcode": "0x1694b", 
+                "title": "BAMUM LETTER PHASE-D TAE"
+            }, 
+            {
+                "charcode": "0x1694c", 
+                "title": "BAMUM LETTER PHASE-D TOQ"
+            }, 
+            {
+                "charcode": "0x1694d", 
+                "title": "BAMUM LETTER PHASE-D NYI"
+            }, 
+            {
+                "charcode": "0x1694e", 
+                "title": "BAMUM LETTER PHASE-D RII"
+            }, 
+            {
+                "charcode": "0x1694f", 
+                "title": "BAMUM LETTER PHASE-D LEEEE"
+            }, 
+            {
+                "charcode": "0x16950", 
+                "title": "BAMUM LETTER PHASE-D MEEEE"
+            }, 
+            {
+                "charcode": "0x16951", 
+                "title": "BAMUM LETTER PHASE-D M"
+            }, 
+            {
+                "charcode": "0x16952", 
+                "title": "BAMUM LETTER PHASE-D SUU"
+            }, 
+            {
+                "charcode": "0x16953", 
+                "title": "BAMUM LETTER PHASE-D MU"
+            }, 
+            {
+                "charcode": "0x16954", 
+                "title": "BAMUM LETTER PHASE-D SHII"
+            }, 
+            {
+                "charcode": "0x16955", 
+                "title": "BAMUM LETTER PHASE-D SHEUX"
+            }, 
+            {
+                "charcode": "0x16956", 
+                "title": "BAMUM LETTER PHASE-D KYEE"
+            }, 
+            {
+                "charcode": "0x16957", 
+                "title": "BAMUM LETTER PHASE-D NU"
+            }, 
+            {
+                "charcode": "0x16958", 
+                "title": "BAMUM LETTER PHASE-D SHU"
+            }, 
+            {
+                "charcode": "0x16959", 
+                "title": "BAMUM LETTER PHASE-D NTEE"
+            }, 
+            {
+                "charcode": "0x1695a", 
+                "title": "BAMUM LETTER PHASE-D PEE"
+            }, 
+            {
+                "charcode": "0x1695b", 
+                "title": "BAMUM LETTER PHASE-D NI"
+            }, 
+            {
+                "charcode": "0x1695c", 
+                "title": "BAMUM LETTER PHASE-D SHOQ"
+            }, 
+            {
+                "charcode": "0x1695d", 
+                "title": "BAMUM LETTER PHASE-D PUQ"
+            }, 
+            {
+                "charcode": "0x1695e", 
+                "title": "BAMUM LETTER PHASE-D MVOP"
+            }, 
+            {
+                "charcode": "0x1695f", 
+                "title": "BAMUM LETTER PHASE-D LOQ"
+            }, 
+            {
+                "charcode": "0x16960", 
+                "title": "BAMUM LETTER PHASE-D REN MUCH"
+            }, 
+            {
+                "charcode": "0x16961", 
+                "title": "BAMUM LETTER PHASE-D TI"
+            }, 
+            {
+                "charcode": "0x16962", 
+                "title": "BAMUM LETTER PHASE-D NTUU"
+            }, 
+            {
+                "charcode": "0x16963", 
+                "title": "BAMUM LETTER PHASE-D MBAA SEVEN"
+            }, 
+            {
+                "charcode": "0x16964", 
+                "title": "BAMUM LETTER PHASE-D SAQ"
+            }, 
+            {
+                "charcode": "0x16965", 
+                "title": "BAMUM LETTER PHASE-D FAA"
+            }, 
+            {
+                "charcode": "0x16966", 
+                "title": "BAMUM LETTER PHASE-E NDAP"
+            }, 
+            {
+                "charcode": "0x16967", 
+                "title": "BAMUM LETTER PHASE-E TOON"
+            }, 
+            {
+                "charcode": "0x16968", 
+                "title": "BAMUM LETTER PHASE-E MBEUM"
+            }, 
+            {
+                "charcode": "0x16969", 
+                "title": "BAMUM LETTER PHASE-E LAP"
+            }, 
+            {
+                "charcode": "0x1696a", 
+                "title": "BAMUM LETTER PHASE-E VOM"
+            }, 
+            {
+                "charcode": "0x1696b", 
+                "title": "BAMUM LETTER PHASE-E LOON"
+            }, 
+            {
+                "charcode": "0x1696c", 
+                "title": "BAMUM LETTER PHASE-E PAA"
+            }, 
+            {
+                "charcode": "0x1696d", 
+                "title": "BAMUM LETTER PHASE-E SOM"
+            }, 
+            {
+                "charcode": "0x1696e", 
+                "title": "BAMUM LETTER PHASE-E RAQ"
+            }, 
+            {
+                "charcode": "0x1696f", 
+                "title": "BAMUM LETTER PHASE-E NSHUOP"
+            }, 
+            {
+                "charcode": "0x16970", 
+                "title": "BAMUM LETTER PHASE-E NDUN"
+            }, 
+            {
+                "charcode": "0x16971", 
+                "title": "BAMUM LETTER PHASE-E PUAE"
+            }, 
+            {
+                "charcode": "0x16972", 
+                "title": "BAMUM LETTER PHASE-E TAM"
+            }, 
+            {
+                "charcode": "0x16973", 
+                "title": "BAMUM LETTER PHASE-E NGKA"
+            }, 
+            {
+                "charcode": "0x16974", 
+                "title": "BAMUM LETTER PHASE-E KPEUX"
+            }, 
+            {
+                "charcode": "0x16975", 
+                "title": "BAMUM LETTER PHASE-E WUO"
+            }, 
+            {
+                "charcode": "0x16976", 
+                "title": "BAMUM LETTER PHASE-E SEE"
+            }, 
+            {
+                "charcode": "0x16977", 
+                "title": "BAMUM LETTER PHASE-E NGGEUAET"
+            }, 
+            {
+                "charcode": "0x16978", 
+                "title": "BAMUM LETTER PHASE-E PAAM"
+            }, 
+            {
+                "charcode": "0x16979", 
+                "title": "BAMUM LETTER PHASE-E TOO"
+            }, 
+            {
+                "charcode": "0x1697a", 
+                "title": "BAMUM LETTER PHASE-E KUOP"
+            }, 
+            {
+                "charcode": "0x1697b", 
+                "title": "BAMUM LETTER PHASE-E LOM"
+            }, 
+            {
+                "charcode": "0x1697c", 
+                "title": "BAMUM LETTER PHASE-E NSHIEE"
+            }, 
+            {
+                "charcode": "0x1697d", 
+                "title": "BAMUM LETTER PHASE-E NGOP"
+            }, 
+            {
+                "charcode": "0x1697e", 
+                "title": "BAMUM LETTER PHASE-E MAEM"
+            }, 
+            {
+                "charcode": "0x1697f", 
+                "title": "BAMUM LETTER PHASE-E NGKEUX"
+            }, 
+            {
+                "charcode": "0x16980", 
+                "title": "BAMUM LETTER PHASE-E NGOQ"
+            }, 
+            {
+                "charcode": "0x16981", 
+                "title": "BAMUM LETTER PHASE-E NSHUE"
+            }, 
+            {
+                "charcode": "0x16982", 
+                "title": "BAMUM LETTER PHASE-E RIMGBA"
+            }, 
+            {
+                "charcode": "0x16983", 
+                "title": "BAMUM LETTER PHASE-E NJEUX"
+            }, 
+            {
+                "charcode": "0x16984", 
+                "title": "BAMUM LETTER PHASE-E PEEM"
+            }, 
+            {
+                "charcode": "0x16985", 
+                "title": "BAMUM LETTER PHASE-E SAA"
+            }, 
+            {
+                "charcode": "0x16986", 
+                "title": "BAMUM LETTER PHASE-E NGGURAE"
+            }, 
+            {
+                "charcode": "0x16987", 
+                "title": "BAMUM LETTER PHASE-E MGBA"
+            }, 
+            {
+                "charcode": "0x16988", 
+                "title": "BAMUM LETTER PHASE-E GHEUX"
+            }, 
+            {
+                "charcode": "0x16989", 
+                "title": "BAMUM LETTER PHASE-E NGKEUAEM"
+            }, 
+            {
+                "charcode": "0x1698a", 
+                "title": "BAMUM LETTER PHASE-E NJAEMLI"
+            }, 
+            {
+                "charcode": "0x1698b", 
+                "title": "BAMUM LETTER PHASE-E MAP"
+            }, 
+            {
+                "charcode": "0x1698c", 
+                "title": "BAMUM LETTER PHASE-E LOOT"
+            }, 
+            {
+                "charcode": "0x1698d", 
+                "title": "BAMUM LETTER PHASE-E NGGEEEE"
+            }, 
+            {
+                "charcode": "0x1698e", 
+                "title": "BAMUM LETTER PHASE-E NDIQ"
+            }, 
+            {
+                "charcode": "0x1698f", 
+                "title": "BAMUM LETTER PHASE-E TAEN NTEUM"
+            }, 
+            {
+                "charcode": "0x16990", 
+                "title": "BAMUM LETTER PHASE-E SET"
+            }, 
+            {
+                "charcode": "0x16991", 
+                "title": "BAMUM LETTER PHASE-E PUM"
+            }, 
+            {
+                "charcode": "0x16992", 
+                "title": "BAMUM LETTER PHASE-E NDAA SOFTNESS"
+            }, 
+            {
+                "charcode": "0x16993", 
+                "title": "BAMUM LETTER PHASE-E NGGUAESHAE NYAM"
+            }, 
+            {
+                "charcode": "0x16994", 
+                "title": "BAMUM LETTER PHASE-E YIEE"
+            }, 
+            {
+                "charcode": "0x16995", 
+                "title": "BAMUM LETTER PHASE-E GHEUN"
+            }, 
+            {
+                "charcode": "0x16996", 
+                "title": "BAMUM LETTER PHASE-E TUAE"
+            }, 
+            {
+                "charcode": "0x16997", 
+                "title": "BAMUM LETTER PHASE-E YEUAE"
+            }, 
+            {
+                "charcode": "0x16998", 
+                "title": "BAMUM LETTER PHASE-E PO"
+            }, 
+            {
+                "charcode": "0x16999", 
+                "title": "BAMUM LETTER PHASE-E TUMAE"
+            }, 
+            {
+                "charcode": "0x1699a", 
+                "title": "BAMUM LETTER PHASE-E KEUAE"
+            }, 
+            {
+                "charcode": "0x1699b", 
+                "title": "BAMUM LETTER PHASE-E SUAEN"
+            }, 
+            {
+                "charcode": "0x1699c", 
+                "title": "BAMUM LETTER PHASE-E TEUAEQ"
+            }, 
+            {
+                "charcode": "0x1699d", 
+                "title": "BAMUM LETTER PHASE-E VEUAE"
+            }, 
+            {
+                "charcode": "0x1699e", 
+                "title": "BAMUM LETTER PHASE-E WEUX"
+            }, 
+            {
+                "charcode": "0x1699f", 
+                "title": "BAMUM LETTER PHASE-E LAAM"
+            }, 
+            {
+                "charcode": "0x169a0", 
+                "title": "BAMUM LETTER PHASE-E PU"
+            }, 
+            {
+                "charcode": "0x169a1", 
+                "title": "BAMUM LETTER PHASE-E TAAQ"
+            }, 
+            {
+                "charcode": "0x169a2", 
+                "title": "BAMUM LETTER PHASE-E GHAAMAE"
+            }, 
+            {
+                "charcode": "0x169a3", 
+                "title": "BAMUM LETTER PHASE-E NGEUREUT"
+            }, 
+            {
+                "charcode": "0x169a4", 
+                "title": "BAMUM LETTER PHASE-E SHEUAEQ"
+            }, 
+            {
+                "charcode": "0x169a5", 
+                "title": "BAMUM LETTER PHASE-E MGBEN"
+            }, 
+            {
+                "charcode": "0x169a6", 
+                "title": "BAMUM LETTER PHASE-E MBEE"
+            }, 
+            {
+                "charcode": "0x169a7", 
+                "title": "BAMUM LETTER PHASE-E NZAQ"
+            }, 
+            {
+                "charcode": "0x169a8", 
+                "title": "BAMUM LETTER PHASE-E NKOM"
+            }, 
+            {
+                "charcode": "0x169a9", 
+                "title": "BAMUM LETTER PHASE-E GBET"
+            }, 
+            {
+                "charcode": "0x169aa", 
+                "title": "BAMUM LETTER PHASE-E TUM"
+            }, 
+            {
+                "charcode": "0x169ab", 
+                "title": "BAMUM LETTER PHASE-E KUET"
+            }, 
+            {
+                "charcode": "0x169ac", 
+                "title": "BAMUM LETTER PHASE-E YAP"
+            }, 
+            {
+                "charcode": "0x169ad", 
+                "title": "BAMUM LETTER PHASE-E NYI CLEAVER"
+            }, 
+            {
+                "charcode": "0x169ae", 
+                "title": "BAMUM LETTER PHASE-E YIT"
+            }, 
+            {
+                "charcode": "0x169af", 
+                "title": "BAMUM LETTER PHASE-E MFEUQ"
+            }, 
+            {
+                "charcode": "0x169b0", 
+                "title": "BAMUM LETTER PHASE-E NDIAQ"
+            }, 
+            {
+                "charcode": "0x169b1", 
+                "title": "BAMUM LETTER PHASE-E PIEEQ"
+            }, 
+            {
+                "charcode": "0x169b2", 
+                "title": "BAMUM LETTER PHASE-E YUEQ"
+            }, 
+            {
+                "charcode": "0x169b3", 
+                "title": "BAMUM LETTER PHASE-E LEUAEM"
+            }, 
+            {
+                "charcode": "0x169b4", 
+                "title": "BAMUM LETTER PHASE-E FUE"
+            }, 
+            {
+                "charcode": "0x169b5", 
+                "title": "BAMUM LETTER PHASE-E GBEUX"
+            }, 
+            {
+                "charcode": "0x169b6", 
+                "title": "BAMUM LETTER PHASE-E NGKUP"
+            }, 
+            {
+                "charcode": "0x169b7", 
+                "title": "BAMUM LETTER PHASE-E KET"
+            }, 
+            {
+                "charcode": "0x169b8", 
+                "title": "BAMUM LETTER PHASE-E MAE"
+            }, 
+            {
+                "charcode": "0x169b9", 
+                "title": "BAMUM LETTER PHASE-E NGKAAMI"
+            }, 
+            {
+                "charcode": "0x169ba", 
+                "title": "BAMUM LETTER PHASE-E GHET"
+            }, 
+            {
+                "charcode": "0x169bb", 
+                "title": "BAMUM LETTER PHASE-E FA"
+            }, 
+            {
+                "charcode": "0x169bc", 
+                "title": "BAMUM LETTER PHASE-E NTUM"
+            }, 
+            {
+                "charcode": "0x169bd", 
+                "title": "BAMUM LETTER PHASE-E PEUT"
+            }, 
+            {
+                "charcode": "0x169be", 
+                "title": "BAMUM LETTER PHASE-E YEUM"
+            }, 
+            {
+                "charcode": "0x169bf", 
+                "title": "BAMUM LETTER PHASE-E NGGEUAE"
+            }, 
+            {
+                "charcode": "0x169c0", 
+                "title": "BAMUM LETTER PHASE-E NYI BETWEEN"
+            }, 
+            {
+                "charcode": "0x169c1", 
+                "title": "BAMUM LETTER PHASE-E NZUQ"
+            }, 
+            {
+                "charcode": "0x169c2", 
+                "title": "BAMUM LETTER PHASE-E POON"
+            }, 
+            {
+                "charcode": "0x169c3", 
+                "title": "BAMUM LETTER PHASE-E MIEE"
+            }, 
+            {
+                "charcode": "0x169c4", 
+                "title": "BAMUM LETTER PHASE-E FUET"
+            }, 
+            {
+                "charcode": "0x169c5", 
+                "title": "BAMUM LETTER PHASE-E NAE"
+            }, 
+            {
+                "charcode": "0x169c6", 
+                "title": "BAMUM LETTER PHASE-E MUAE"
+            }, 
+            {
+                "charcode": "0x169c7", 
+                "title": "BAMUM LETTER PHASE-E GHEUAE"
+            }, 
+            {
+                "charcode": "0x169c8", 
+                "title": "BAMUM LETTER PHASE-E FU I"
+            }, 
+            {
+                "charcode": "0x169c9", 
+                "title": "BAMUM LETTER PHASE-E MVI"
+            }, 
+            {
+                "charcode": "0x169ca", 
+                "title": "BAMUM LETTER PHASE-E PUAQ"
+            }, 
+            {
+                "charcode": "0x169cb", 
+                "title": "BAMUM LETTER PHASE-E NGKUM"
+            }, 
+            {
+                "charcode": "0x169cc", 
+                "title": "BAMUM LETTER PHASE-E KUT"
+            }, 
+            {
+                "charcode": "0x169cd", 
+                "title": "BAMUM LETTER PHASE-E PIET"
+            }, 
+            {
+                "charcode": "0x169ce", 
+                "title": "BAMUM LETTER PHASE-E NTAP"
+            }, 
+            {
+                "charcode": "0x169cf", 
+                "title": "BAMUM LETTER PHASE-E YEUAET"
+            }, 
+            {
+                "charcode": "0x169d0", 
+                "title": "BAMUM LETTER PHASE-E NGGUP"
+            }, 
+            {
+                "charcode": "0x169d1", 
+                "title": "BAMUM LETTER PHASE-E PA PEOPLE"
+            }, 
+            {
+                "charcode": "0x169d2", 
+                "title": "BAMUM LETTER PHASE-E FU CALL"
+            }, 
+            {
+                "charcode": "0x169d3", 
+                "title": "BAMUM LETTER PHASE-E FOM"
+            }, 
+            {
+                "charcode": "0x169d4", 
+                "title": "BAMUM LETTER PHASE-E NJEE"
+            }, 
+            {
+                "charcode": "0x169d5", 
+                "title": "BAMUM LETTER PHASE-E A"
+            }, 
+            {
+                "charcode": "0x169d6", 
+                "title": "BAMUM LETTER PHASE-E TOQ"
+            }, 
+            {
+                "charcode": "0x169d7", 
+                "title": "BAMUM LETTER PHASE-E O"
+            }, 
+            {
+                "charcode": "0x169d8", 
+                "title": "BAMUM LETTER PHASE-E I"
+            }, 
+            {
+                "charcode": "0x169d9", 
+                "title": "BAMUM LETTER PHASE-E LAQ"
+            }, 
+            {
+                "charcode": "0x169da", 
+                "title": "BAMUM LETTER PHASE-E PA PLURAL"
+            }, 
+            {
+                "charcode": "0x169db", 
+                "title": "BAMUM LETTER PHASE-E TAA"
+            }, 
+            {
+                "charcode": "0x169dc", 
+                "title": "BAMUM LETTER PHASE-E TAQ"
+            }, 
+            {
+                "charcode": "0x169dd", 
+                "title": "BAMUM LETTER PHASE-E NDAA MY HOUSE"
+            }, 
+            {
+                "charcode": "0x169de", 
+                "title": "BAMUM LETTER PHASE-E SHIQ"
+            }, 
+            {
+                "charcode": "0x169df", 
+                "title": "BAMUM LETTER PHASE-E YEUX"
+            }, 
+            {
+                "charcode": "0x169e0", 
+                "title": "BAMUM LETTER PHASE-E NGUAE"
+            }, 
+            {
+                "charcode": "0x169e1", 
+                "title": "BAMUM LETTER PHASE-E YUAEN"
+            }, 
+            {
+                "charcode": "0x169e2", 
+                "title": "BAMUM LETTER PHASE-E YOQ SWIMMING"
+            }, 
+            {
+                "charcode": "0x169e3", 
+                "title": "BAMUM LETTER PHASE-E YOQ COVER"
+            }, 
+            {
+                "charcode": "0x169e4", 
+                "title": "BAMUM LETTER PHASE-E YUQ"
+            }, 
+            {
+                "charcode": "0x169e5", 
+                "title": "BAMUM LETTER PHASE-E YUN"
+            }, 
+            {
+                "charcode": "0x169e6", 
+                "title": "BAMUM LETTER PHASE-E KEUX"
+            }, 
+            {
+                "charcode": "0x169e7", 
+                "title": "BAMUM LETTER PHASE-E PEUX"
+            }, 
+            {
+                "charcode": "0x169e8", 
+                "title": "BAMUM LETTER PHASE-E NJEE EPOCH"
+            }, 
+            {
+                "charcode": "0x169e9", 
+                "title": "BAMUM LETTER PHASE-E PUE"
+            }, 
+            {
+                "charcode": "0x169ea", 
+                "title": "BAMUM LETTER PHASE-E WUE"
+            }, 
+            {
+                "charcode": "0x169eb", 
+                "title": "BAMUM LETTER PHASE-E FEE"
+            }, 
+            {
+                "charcode": "0x169ec", 
+                "title": "BAMUM LETTER PHASE-E VEE"
+            }, 
+            {
+                "charcode": "0x169ed", 
+                "title": "BAMUM LETTER PHASE-E LU"
+            }, 
+            {
+                "charcode": "0x169ee", 
+                "title": "BAMUM LETTER PHASE-E MI"
+            }, 
+            {
+                "charcode": "0x169ef", 
+                "title": "BAMUM LETTER PHASE-E REUX"
+            }, 
+            {
+                "charcode": "0x169f0", 
+                "title": "BAMUM LETTER PHASE-E RAE"
+            }, 
+            {
+                "charcode": "0x169f1", 
+                "title": "BAMUM LETTER PHASE-E NGUAET"
+            }, 
+            {
+                "charcode": "0x169f2", 
+                "title": "BAMUM LETTER PHASE-E NGA"
+            }, 
+            {
+                "charcode": "0x169f3", 
+                "title": "BAMUM LETTER PHASE-E SHO"
+            }, 
+            {
+                "charcode": "0x169f4", 
+                "title": "BAMUM LETTER PHASE-E SHOQ"
+            }, 
+            {
+                "charcode": "0x169f5", 
+                "title": "BAMUM LETTER PHASE-E FU REMEDY"
+            }, 
+            {
+                "charcode": "0x169f6", 
+                "title": "BAMUM LETTER PHASE-E NA"
+            }, 
+            {
+                "charcode": "0x169f7", 
+                "title": "BAMUM LETTER PHASE-E PI"
+            }, 
+            {
+                "charcode": "0x169f8", 
+                "title": "BAMUM LETTER PHASE-E LOQ"
+            }, 
+            {
+                "charcode": "0x169f9", 
+                "title": "BAMUM LETTER PHASE-E KO"
+            }, 
+            {
+                "charcode": "0x169fa", 
+                "title": "BAMUM LETTER PHASE-E MEN"
+            }, 
+            {
+                "charcode": "0x169fb", 
+                "title": "BAMUM LETTER PHASE-E MA"
+            }, 
+            {
+                "charcode": "0x169fc", 
+                "title": "BAMUM LETTER PHASE-E MAQ"
+            }, 
+            {
+                "charcode": "0x169fd", 
+                "title": "BAMUM LETTER PHASE-E TEU"
+            }, 
+            {
+                "charcode": "0x169fe", 
+                "title": "BAMUM LETTER PHASE-E KI"
+            }, 
+            {
+                "charcode": "0x169ff", 
+                "title": "BAMUM LETTER PHASE-E MON"
+            }, 
+            {
+                "charcode": "0x16a00", 
+                "title": "BAMUM LETTER PHASE-E TEN"
+            }, 
+            {
+                "charcode": "0x16a01", 
+                "title": "BAMUM LETTER PHASE-E FAQ"
+            }, 
+            {
+                "charcode": "0x16a02", 
+                "title": "BAMUM LETTER PHASE-E GHOM"
+            }, 
+            {
+                "charcode": "0x16a03", 
+                "title": "BAMUM LETTER PHASE-F KA"
+            }, 
+            {
+                "charcode": "0x16a04", 
+                "title": "BAMUM LETTER PHASE-F U"
+            }, 
+            {
+                "charcode": "0x16a05", 
+                "title": "BAMUM LETTER PHASE-F KU"
+            }, 
+            {
+                "charcode": "0x16a06", 
+                "title": "BAMUM LETTER PHASE-F EE"
+            }, 
+            {
+                "charcode": "0x16a07", 
+                "title": "BAMUM LETTER PHASE-F REE"
+            }, 
+            {
+                "charcode": "0x16a08", 
+                "title": "BAMUM LETTER PHASE-F TAE"
+            }, 
+            {
+                "charcode": "0x16a09", 
+                "title": "BAMUM LETTER PHASE-F NYI"
+            }, 
+            {
+                "charcode": "0x16a0a", 
+                "title": "BAMUM LETTER PHASE-F LA"
+            }, 
+            {
+                "charcode": "0x16a0b", 
+                "title": "BAMUM LETTER PHASE-F RII"
+            }, 
+            {
+                "charcode": "0x16a0c", 
+                "title": "BAMUM LETTER PHASE-F RIEE"
+            }, 
+            {
+                "charcode": "0x16a0d", 
+                "title": "BAMUM LETTER PHASE-F MEEEE"
+            }, 
+            {
+                "charcode": "0x16a0e", 
+                "title": "BAMUM LETTER PHASE-F TAA"
+            }, 
+            {
+                "charcode": "0x16a0f", 
+                "title": "BAMUM LETTER PHASE-F NDAA"
+            }, 
+            {
+                "charcode": "0x16a10", 
+                "title": "BAMUM LETTER PHASE-F NJAEM"
+            }, 
+            {
+                "charcode": "0x16a11", 
+                "title": "BAMUM LETTER PHASE-F M"
+            }, 
+            {
+                "charcode": "0x16a12", 
+                "title": "BAMUM LETTER PHASE-F SUU"
+            }, 
+            {
+                "charcode": "0x16a13", 
+                "title": "BAMUM LETTER PHASE-F SHII"
+            }, 
+            {
+                "charcode": "0x16a14", 
+                "title": "BAMUM LETTER PHASE-F SI"
+            }, 
+            {
+                "charcode": "0x16a15", 
+                "title": "BAMUM LETTER PHASE-F SEUX"
+            }, 
+            {
+                "charcode": "0x16a16", 
+                "title": "BAMUM LETTER PHASE-F KYEE"
+            }, 
+            {
+                "charcode": "0x16a17", 
+                "title": "BAMUM LETTER PHASE-F KET"
+            }, 
+            {
+                "charcode": "0x16a18", 
+                "title": "BAMUM LETTER PHASE-F NUAE"
+            }, 
+            {
+                "charcode": "0x16a19", 
+                "title": "BAMUM LETTER PHASE-F NU"
+            }, 
+            {
+                "charcode": "0x16a1a", 
+                "title": "BAMUM LETTER PHASE-F NJUAE"
+            }, 
+            {
+                "charcode": "0x16a1b", 
+                "title": "BAMUM LETTER PHASE-F YOQ"
+            }, 
+            {
+                "charcode": "0x16a1c", 
+                "title": "BAMUM LETTER PHASE-F SHU"
+            }, 
+            {
+                "charcode": "0x16a1d", 
+                "title": "BAMUM LETTER PHASE-F YA"
+            }, 
+            {
+                "charcode": "0x16a1e", 
+                "title": "BAMUM LETTER PHASE-F NSHA"
+            }, 
+            {
+                "charcode": "0x16a1f", 
+                "title": "BAMUM LETTER PHASE-F PEUX"
+            }, 
+            {
+                "charcode": "0x16a20", 
+                "title": "BAMUM LETTER PHASE-F NTEE"
+            }, 
+            {
+                "charcode": "0x16a21", 
+                "title": "BAMUM LETTER PHASE-F WUE"
+            }, 
+            {
+                "charcode": "0x16a22", 
+                "title": "BAMUM LETTER PHASE-F PEE"
+            }, 
+            {
+                "charcode": "0x16a23", 
+                "title": "BAMUM LETTER PHASE-F RU"
+            }, 
+            {
+                "charcode": "0x16a24", 
+                "title": "BAMUM LETTER PHASE-F NI"
+            }, 
+            {
+                "charcode": "0x16a25", 
+                "title": "BAMUM LETTER PHASE-F REUX"
+            }, 
+            {
+                "charcode": "0x16a26", 
+                "title": "BAMUM LETTER PHASE-F KEN"
+            }, 
+            {
+                "charcode": "0x16a27", 
+                "title": "BAMUM LETTER PHASE-F NGKWAEN"
+            }, 
+            {
+                "charcode": "0x16a28", 
+                "title": "BAMUM LETTER PHASE-F NGGA"
+            }, 
+            {
+                "charcode": "0x16a29", 
+                "title": "BAMUM LETTER PHASE-F SHO"
+            }, 
+            {
+                "charcode": "0x16a2a", 
+                "title": "BAMUM LETTER PHASE-F PUAE"
+            }, 
+            {
+                "charcode": "0x16a2b", 
+                "title": "BAMUM LETTER PHASE-F FOM"
+            }, 
+            {
+                "charcode": "0x16a2c", 
+                "title": "BAMUM LETTER PHASE-F WA"
+            }, 
+            {
+                "charcode": "0x16a2d", 
+                "title": "BAMUM LETTER PHASE-F LI"
+            }, 
+            {
+                "charcode": "0x16a2e", 
+                "title": "BAMUM LETTER PHASE-F LOQ"
+            }, 
+            {
+                "charcode": "0x16a2f", 
+                "title": "BAMUM LETTER PHASE-F KO"
+            }, 
+            {
+                "charcode": "0x16a30", 
+                "title": "BAMUM LETTER PHASE-F MBEN"
+            }, 
+            {
+                "charcode": "0x16a31", 
+                "title": "BAMUM LETTER PHASE-F REN"
+            }, 
+            {
+                "charcode": "0x16a32", 
+                "title": "BAMUM LETTER PHASE-F MA"
+            }, 
+            {
+                "charcode": "0x16a33", 
+                "title": "BAMUM LETTER PHASE-F MO"
+            }, 
+            {
+                "charcode": "0x16a34", 
+                "title": "BAMUM LETTER PHASE-F MBAA"
+            }, 
+            {
+                "charcode": "0x16a35", 
+                "title": "BAMUM LETTER PHASE-F TET"
+            }, 
+            {
+                "charcode": "0x16a36", 
+                "title": "BAMUM LETTER PHASE-F KPA"
+            }, 
+            {
+                "charcode": "0x16a37", 
+                "title": "BAMUM LETTER PHASE-F SAMBA"
+            }, 
+            {
+                "charcode": "0x16a38", 
+                "title": "BAMUM LETTER PHASE-F VUEQ"
+            }
+        ], 
+        "name": "Bamum Supplement"
+    }
+]

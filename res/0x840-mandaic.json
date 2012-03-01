@@ -1,0 +1,123 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x840", 
+                "title": "MANDAIC LETTER HALQA"
+            }, 
+            {
+                "charcode": "0x841", 
+                "title": "MANDAIC LETTER AB"
+            }, 
+            {
+                "charcode": "0x842", 
+                "title": "MANDAIC LETTER AG"
+            }, 
+            {
+                "charcode": "0x843", 
+                "title": "MANDAIC LETTER AD"
+            }, 
+            {
+                "charcode": "0x844", 
+                "title": "MANDAIC LETTER AH"
+            }, 
+            {
+                "charcode": "0x845", 
+                "title": "MANDAIC LETTER USHENNA"
+            }, 
+            {
+                "charcode": "0x846", 
+                "title": "MANDAIC LETTER AZ"
+            }, 
+            {
+                "charcode": "0x847", 
+                "title": "MANDAIC LETTER IT"
+            }, 
+            {
+                "charcode": "0x848", 
+                "title": "MANDAIC LETTER ATT"
+            }, 
+            {
+                "charcode": "0x849", 
+                "title": "MANDAIC LETTER AKSA"
+            }, 
+            {
+                "charcode": "0x84a", 
+                "title": "MANDAIC LETTER AK"
+            }, 
+            {
+                "charcode": "0x84b", 
+                "title": "MANDAIC LETTER AL"
+            }, 
+            {
+                "charcode": "0x84c", 
+                "title": "MANDAIC LETTER AM"
+            }, 
+            {
+                "charcode": "0x84d", 
+                "title": "MANDAIC LETTER AN"
+            }, 
+            {
+                "charcode": "0x84e", 
+                "title": "MANDAIC LETTER AS"
+            }, 
+            {
+                "charcode": "0x84f", 
+                "title": "MANDAIC LETTER IN"
+            }, 
+            {
+                "charcode": "0x850", 
+                "title": "MANDAIC LETTER AP"
+            }, 
+            {
+                "charcode": "0x851", 
+                "title": "MANDAIC LETTER ASZ"
+            }, 
+            {
+                "charcode": "0x852", 
+                "title": "MANDAIC LETTER AQ"
+            }, 
+            {
+                "charcode": "0x853", 
+                "title": "MANDAIC LETTER AR"
+            }, 
+            {
+                "charcode": "0x854", 
+                "title": "MANDAIC LETTER ASH"
+            }, 
+            {
+                "charcode": "0x855", 
+                "title": "MANDAIC LETTER AT"
+            }, 
+            {
+                "charcode": "0x856", 
+                "title": "MANDAIC LETTER DUSHENNA"
+            }, 
+            {
+                "charcode": "0x857", 
+                "title": "MANDAIC LETTER KAD"
+            }, 
+            {
+                "charcode": "0x858", 
+                "title": "MANDAIC LETTER AIN"
+            }, 
+            {
+                "charcode": "0x859", 
+                "title": "MANDAIC AFFRICATION MARK"
+            }, 
+            {
+                "charcode": "0x85a", 
+                "title": "MANDAIC VOCALIZATION MARK"
+            }, 
+            {
+                "charcode": "0x85b", 
+                "title": "MANDAIC GEMINATION MARK"
+            }, 
+            {
+                "charcode": "0x85e", 
+                "title": "MANDAIC PUNCTUATION"
+            }
+        ], 
+        "name": "Mandaic"
+    }
+]

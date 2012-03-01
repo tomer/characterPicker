@@ -1,0 +1,67 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x31f0", 
+                "title": "KATAKANA LETTER SMALL KU"
+            }, 
+            {
+                "charcode": "0x31f1", 
+                "title": "KATAKANA LETTER SMALL SI"
+            }, 
+            {
+                "charcode": "0x31f2", 
+                "title": "KATAKANA LETTER SMALL SU"
+            }, 
+            {
+                "charcode": "0x31f3", 
+                "title": "KATAKANA LETTER SMALL TO"
+            }, 
+            {
+                "charcode": "0x31f4", 
+                "title": "KATAKANA LETTER SMALL NU"
+            }, 
+            {
+                "charcode": "0x31f5", 
+                "title": "KATAKANA LETTER SMALL HA"
+            }, 
+            {
+                "charcode": "0x31f6", 
+                "title": "KATAKANA LETTER SMALL HI"
+            }, 
+            {
+                "charcode": "0x31f7", 
+                "title": "KATAKANA LETTER SMALL HU"
+            }, 
+            {
+                "charcode": "0x31f8", 
+                "title": "KATAKANA LETTER SMALL HE"
+            }, 
+            {
+                "charcode": "0x31f9", 
+                "title": "KATAKANA LETTER SMALL HO"
+            }, 
+            {
+                "charcode": "0x31fa", 
+                "title": "KATAKANA LETTER SMALL MU"
+            }, 
+            {
+                "charcode": "0x31fb", 
+                "title": "KATAKANA LETTER SMALL RA"
+            }, 
+            {
+                "charcode": "0x31fc", 
+                "title": "KATAKANA LETTER SMALL RI"
+            }, 
+            {
+                "charcode": "0x31fd", 
+                "title": "KATAKANA LETTER SMALL RU"
+            }, 
+            {
+                "charcode": "0x31fe", 
+                "title": "KATAKANA LETTER SMALL RE"
+            }
+        ], 
+        "name": "Katakana Phonetic Extensions"
+    }
+]

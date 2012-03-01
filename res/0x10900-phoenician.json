@@ -1,0 +1,119 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x10900", 
+                "title": "PHOENICIAN LETTER ALF"
+            }, 
+            {
+                "charcode": "0x10901", 
+                "title": "PHOENICIAN LETTER BET"
+            }, 
+            {
+                "charcode": "0x10902", 
+                "title": "PHOENICIAN LETTER GAML"
+            }, 
+            {
+                "charcode": "0x10903", 
+                "title": "PHOENICIAN LETTER DELT"
+            }, 
+            {
+                "charcode": "0x10904", 
+                "title": "PHOENICIAN LETTER HE"
+            }, 
+            {
+                "charcode": "0x10905", 
+                "title": "PHOENICIAN LETTER WAU"
+            }, 
+            {
+                "charcode": "0x10906", 
+                "title": "PHOENICIAN LETTER ZAI"
+            }, 
+            {
+                "charcode": "0x10907", 
+                "title": "PHOENICIAN LETTER HET"
+            }, 
+            {
+                "charcode": "0x10908", 
+                "title": "PHOENICIAN LETTER TET"
+            }, 
+            {
+                "charcode": "0x10909", 
+                "title": "PHOENICIAN LETTER YOD"
+            }, 
+            {
+                "charcode": "0x1090a", 
+                "title": "PHOENICIAN LETTER KAF"
+            }, 
+            {
+                "charcode": "0x1090b", 
+                "title": "PHOENICIAN LETTER LAMD"
+            }, 
+            {
+                "charcode": "0x1090c", 
+                "title": "PHOENICIAN LETTER MEM"
+            }, 
+            {
+                "charcode": "0x1090d", 
+                "title": "PHOENICIAN LETTER NUN"
+            }, 
+            {
+                "charcode": "0x1090e", 
+                "title": "PHOENICIAN LETTER SEMK"
+            }, 
+            {
+                "charcode": "0x1090f", 
+                "title": "PHOENICIAN LETTER AIN"
+            }, 
+            {
+                "charcode": "0x10910", 
+                "title": "PHOENICIAN LETTER PE"
+            }, 
+            {
+                "charcode": "0x10911", 
+                "title": "PHOENICIAN LETTER SADE"
+            }, 
+            {
+                "charcode": "0x10912", 
+                "title": "PHOENICIAN LETTER QOF"
+            }, 
+            {
+                "charcode": "0x10913", 
+                "title": "PHOENICIAN LETTER ROSH"
+            }, 
+            {
+                "charcode": "0x10914", 
+                "title": "PHOENICIAN LETTER SHIN"
+            }, 
+            {
+                "charcode": "0x10915", 
+                "title": "PHOENICIAN LETTER TAU"
+            }, 
+            {
+                "charcode": "0x10916", 
+                "title": "PHOENICIAN NUMBER ONE"
+            }, 
+            {
+                "charcode": "0x10917", 
+                "title": "PHOENICIAN NUMBER TEN"
+            }, 
+            {
+                "charcode": "0x10918", 
+                "title": "PHOENICIAN NUMBER TWENTY"
+            }, 
+            {
+                "charcode": "0x10919", 
+                "title": "PHOENICIAN NUMBER ONE HUNDRED"
+            }, 
+            {
+                "charcode": "0x1091a", 
+                "title": "PHOENICIAN NUMBER TWO"
+            }, 
+            {
+                "charcode": "0x1091b", 
+                "title": "PHOENICIAN NUMBER THREE"
+            }
+        ], 
+        "name": "Phoenician"
+    }
+]

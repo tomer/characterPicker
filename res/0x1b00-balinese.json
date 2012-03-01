@@ -1,0 +1,491 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1b00", 
+                "title": "BALINESE SIGN ULU RICEM"
+            }, 
+            {
+                "charcode": "0x1b01", 
+                "title": "BALINESE SIGN ULU CANDRA"
+            }, 
+            {
+                "charcode": "0x1b02", 
+                "title": "BALINESE SIGN CECEK"
+            }, 
+            {
+                "charcode": "0x1b03", 
+                "title": "BALINESE SIGN SURANG"
+            }, 
+            {
+                "charcode": "0x1b04", 
+                "title": "BALINESE SIGN BISAH"
+            }, 
+            {
+                "charcode": "0x1b05", 
+                "title": "BALINESE LETTER AKARA"
+            }, 
+            {
+                "charcode": "0x1b06", 
+                "title": "BALINESE LETTER AKARA TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b07", 
+                "title": "BALINESE LETTER IKARA"
+            }, 
+            {
+                "charcode": "0x1b08", 
+                "title": "BALINESE LETTER IKARA TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b09", 
+                "title": "BALINESE LETTER UKARA"
+            }, 
+            {
+                "charcode": "0x1b0a", 
+                "title": "BALINESE LETTER UKARA TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b0b", 
+                "title": "BALINESE LETTER RA REPA"
+            }, 
+            {
+                "charcode": "0x1b0c", 
+                "title": "BALINESE LETTER RA REPA TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b0d", 
+                "title": "BALINESE LETTER LA LENGA"
+            }, 
+            {
+                "charcode": "0x1b0e", 
+                "title": "BALINESE LETTER LA LENGA TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b0f", 
+                "title": "BALINESE LETTER EKARA"
+            }, 
+            {
+                "charcode": "0x1b10", 
+                "title": "BALINESE LETTER AIKARA"
+            }, 
+            {
+                "charcode": "0x1b11", 
+                "title": "BALINESE LETTER OKARA"
+            }, 
+            {
+                "charcode": "0x1b12", 
+                "title": "BALINESE LETTER OKARA TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b13", 
+                "title": "BALINESE LETTER KA"
+            }, 
+            {
+                "charcode": "0x1b14", 
+                "title": "BALINESE LETTER KA MAHAPRANA"
+            }, 
+            {
+                "charcode": "0x1b15", 
+                "title": "BALINESE LETTER GA"
+            }, 
+            {
+                "charcode": "0x1b16", 
+                "title": "BALINESE LETTER GA GORA"
+            }, 
+            {
+                "charcode": "0x1b17", 
+                "title": "BALINESE LETTER NGA"
+            }, 
+            {
+                "charcode": "0x1b18", 
+                "title": "BALINESE LETTER CA"
+            }, 
+            {
+                "charcode": "0x1b19", 
+                "title": "BALINESE LETTER CA LACA"
+            }, 
+            {
+                "charcode": "0x1b1a", 
+                "title": "BALINESE LETTER JA"
+            }, 
+            {
+                "charcode": "0x1b1b", 
+                "title": "BALINESE LETTER JA JERA"
+            }, 
+            {
+                "charcode": "0x1b1c", 
+                "title": "BALINESE LETTER NYA"
+            }, 
+            {
+                "charcode": "0x1b1d", 
+                "title": "BALINESE LETTER TA LATIK"
+            }, 
+            {
+                "charcode": "0x1b1e", 
+                "title": "BALINESE LETTER TA MURDA MAHAPRANA"
+            }, 
+            {
+                "charcode": "0x1b1f", 
+                "title": "BALINESE LETTER DA MURDA ALPAPRANA"
+            }, 
+            {
+                "charcode": "0x1b20", 
+                "title": "BALINESE LETTER DA MURDA MAHAPRANA"
+            }, 
+            {
+                "charcode": "0x1b21", 
+                "title": "BALINESE LETTER NA RAMBAT"
+            }, 
+            {
+                "charcode": "0x1b22", 
+                "title": "BALINESE LETTER TA"
+            }, 
+            {
+                "charcode": "0x1b23", 
+                "title": "BALINESE LETTER TA TAWA"
+            }, 
+            {
+                "charcode": "0x1b24", 
+                "title": "BALINESE LETTER DA"
+            }, 
+            {
+                "charcode": "0x1b25", 
+                "title": "BALINESE LETTER DA MADU"
+            }, 
+            {
+                "charcode": "0x1b26", 
+                "title": "BALINESE LETTER NA"
+            }, 
+            {
+                "charcode": "0x1b27", 
+                "title": "BALINESE LETTER PA"
+            }, 
+            {
+                "charcode": "0x1b28", 
+                "title": "BALINESE LETTER PA KAPAL"
+            }, 
+            {
+                "charcode": "0x1b29", 
+                "title": "BALINESE LETTER BA"
+            }, 
+            {
+                "charcode": "0x1b2a", 
+                "title": "BALINESE LETTER BA KEMBANG"
+            }, 
+            {
+                "charcode": "0x1b2b", 
+                "title": "BALINESE LETTER MA"
+            }, 
+            {
+                "charcode": "0x1b2c", 
+                "title": "BALINESE LETTER YA"
+            }, 
+            {
+                "charcode": "0x1b2d", 
+                "title": "BALINESE LETTER RA"
+            }, 
+            {
+                "charcode": "0x1b2e", 
+                "title": "BALINESE LETTER LA"
+            }, 
+            {
+                "charcode": "0x1b2f", 
+                "title": "BALINESE LETTER WA"
+            }, 
+            {
+                "charcode": "0x1b30", 
+                "title": "BALINESE LETTER SA SAGA"
+            }, 
+            {
+                "charcode": "0x1b31", 
+                "title": "BALINESE LETTER SA SAPA"
+            }, 
+            {
+                "charcode": "0x1b32", 
+                "title": "BALINESE LETTER SA"
+            }, 
+            {
+                "charcode": "0x1b33", 
+                "title": "BALINESE LETTER HA"
+            }, 
+            {
+                "charcode": "0x1b34", 
+                "title": "BALINESE SIGN REREKAN"
+            }, 
+            {
+                "charcode": "0x1b35", 
+                "title": "BALINESE VOWEL SIGN TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b36", 
+                "title": "BALINESE VOWEL SIGN ULU"
+            }, 
+            {
+                "charcode": "0x1b37", 
+                "title": "BALINESE VOWEL SIGN ULU SARI"
+            }, 
+            {
+                "charcode": "0x1b38", 
+                "title": "BALINESE VOWEL SIGN SUKU"
+            }, 
+            {
+                "charcode": "0x1b39", 
+                "title": "BALINESE VOWEL SIGN SUKU ILUT"
+            }, 
+            {
+                "charcode": "0x1b3a", 
+                "title": "BALINESE VOWEL SIGN RA REPA"
+            }, 
+            {
+                "charcode": "0x1b3b", 
+                "title": "BALINESE VOWEL SIGN RA REPA TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b3c", 
+                "title": "BALINESE VOWEL SIGN LA LENGA"
+            }, 
+            {
+                "charcode": "0x1b3d", 
+                "title": "BALINESE VOWEL SIGN LA LENGA TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b3e", 
+                "title": "BALINESE VOWEL SIGN TALING"
+            }, 
+            {
+                "charcode": "0x1b3f", 
+                "title": "BALINESE VOWEL SIGN TALING REPA"
+            }, 
+            {
+                "charcode": "0x1b40", 
+                "title": "BALINESE VOWEL SIGN TALING TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b41", 
+                "title": "BALINESE VOWEL SIGN TALING REPA TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b42", 
+                "title": "BALINESE VOWEL SIGN PEPET"
+            }, 
+            {
+                "charcode": "0x1b43", 
+                "title": "BALINESE VOWEL SIGN PEPET TEDUNG"
+            }, 
+            {
+                "charcode": "0x1b44", 
+                "title": "BALINESE ADEG ADEG"
+            }, 
+            {
+                "charcode": "0x1b45", 
+                "title": "BALINESE LETTER KAF SASAK"
+            }, 
+            {
+                "charcode": "0x1b46", 
+                "title": "BALINESE LETTER KHOT SASAK"
+            }, 
+            {
+                "charcode": "0x1b47", 
+                "title": "BALINESE LETTER TZIR SASAK"
+            }, 
+            {
+                "charcode": "0x1b48", 
+                "title": "BALINESE LETTER EF SASAK"
+            }, 
+            {
+                "charcode": "0x1b49", 
+                "title": "BALINESE LETTER VE SASAK"
+            }, 
+            {
+                "charcode": "0x1b4a", 
+                "title": "BALINESE LETTER ZAL SASAK"
+            }, 
+            {
+                "charcode": "0x1b4b", 
+                "title": "BALINESE LETTER ASYURA SASAK"
+            }, 
+            {
+                "charcode": "0x1b50", 
+                "title": "BALINESE DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x1b51", 
+                "title": "BALINESE DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x1b52", 
+                "title": "BALINESE DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x1b53", 
+                "title": "BALINESE DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x1b54", 
+                "title": "BALINESE DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x1b55", 
+                "title": "BALINESE DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x1b56", 
+                "title": "BALINESE DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x1b57", 
+                "title": "BALINESE DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x1b58", 
+                "title": "BALINESE DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x1b59", 
+                "title": "BALINESE DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x1b5a", 
+                "title": "BALINESE PANTI"
+            }, 
+            {
+                "charcode": "0x1b5b", 
+                "title": "BALINESE PAMADA"
+            }, 
+            {
+                "charcode": "0x1b5c", 
+                "title": "BALINESE WINDU"
+            }, 
+            {
+                "charcode": "0x1b5d", 
+                "title": "BALINESE CARIK PAMUNGKAH"
+            }, 
+            {
+                "charcode": "0x1b5e", 
+                "title": "BALINESE CARIK SIKI"
+            }, 
+            {
+                "charcode": "0x1b5f", 
+                "title": "BALINESE CARIK PAREREN"
+            }, 
+            {
+                "charcode": "0x1b60", 
+                "title": "BALINESE PAMENENG"
+            }, 
+            {
+                "charcode": "0x1b61", 
+                "title": "BALINESE MUSICAL SYMBOL DONG"
+            }, 
+            {
+                "charcode": "0x1b62", 
+                "title": "BALINESE MUSICAL SYMBOL DENG"
+            }, 
+            {
+                "charcode": "0x1b63", 
+                "title": "BALINESE MUSICAL SYMBOL DUNG"
+            }, 
+            {
+                "charcode": "0x1b64", 
+                "title": "BALINESE MUSICAL SYMBOL DANG"
+            }, 
+            {
+                "charcode": "0x1b65", 
+                "title": "BALINESE MUSICAL SYMBOL DANG SURANG"
+            }, 
+            {
+                "charcode": "0x1b66", 
+                "title": "BALINESE MUSICAL SYMBOL DING"
+            }, 
+            {
+                "charcode": "0x1b67", 
+                "title": "BALINESE MUSICAL SYMBOL DAENG"
+            }, 
+            {
+                "charcode": "0x1b68", 
+                "title": "BALINESE MUSICAL SYMBOL DEUNG"
+            }, 
+            {
+                "charcode": "0x1b69", 
+                "title": "BALINESE MUSICAL SYMBOL DAING"
+            }, 
+            {
+                "charcode": "0x1b6a", 
+                "title": "BALINESE MUSICAL SYMBOL DANG GEDE"
+            }, 
+            {
+                "charcode": "0x1b6b", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING TEGEH"
+            }, 
+            {
+                "charcode": "0x1b6c", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING ENDEP"
+            }, 
+            {
+                "charcode": "0x1b6d", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING KEMPUL"
+            }, 
+            {
+                "charcode": "0x1b6e", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING KEMPLI"
+            }, 
+            {
+                "charcode": "0x1b6f", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING JEGOGAN"
+            }, 
+            {
+                "charcode": "0x1b70", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING KEMPUL WITH JEGOGAN"
+            }, 
+            {
+                "charcode": "0x1b71", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING KEMPLI WITH JEGOGAN"
+            }, 
+            {
+                "charcode": "0x1b72", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING BENDE"
+            }, 
+            {
+                "charcode": "0x1b73", 
+                "title": "BALINESE MUSICAL SYMBOL COMBINING GONG"
+            }, 
+            {
+                "charcode": "0x1b74", 
+                "title": "BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DUG"
+            }, 
+            {
+                "charcode": "0x1b75", 
+                "title": "BALINESE MUSICAL SYMBOL RIGHT-HAND OPEN DAG"
+            }, 
+            {
+                "charcode": "0x1b76", 
+                "title": "BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TUK"
+            }, 
+            {
+                "charcode": "0x1b77", 
+                "title": "BALINESE MUSICAL SYMBOL RIGHT-HAND CLOSED TAK"
+            }, 
+            {
+                "charcode": "0x1b78", 
+                "title": "BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PANG"
+            }, 
+            {
+                "charcode": "0x1b79", 
+                "title": "BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PUNG"
+            }, 
+            {
+                "charcode": "0x1b7a", 
+                "title": "BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLAK"
+            }, 
+            {
+                "charcode": "0x1b7b", 
+                "title": "BALINESE MUSICAL SYMBOL LEFT-HAND CLOSED PLUK"
+            }, 
+            {
+                "charcode": "0x1b7c", 
+                "title": "BALINESE MUSICAL SYMBOL LEFT-HAND OPEN PING"
+            }
+        ], 
+        "name": "Balinese"
+    }
+]

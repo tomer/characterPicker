@@ -1,0 +1,195 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x27c0", 
+                "title": "THREE DIMENSIONAL ANGLE"
+            }, 
+            {
+                "charcode": "0x27c1", 
+                "title": "WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE"
+            }, 
+            {
+                "charcode": "0x27c2", 
+                "title": "PERPENDICULAR"
+            }, 
+            {
+                "charcode": "0x27c3", 
+                "title": "OPEN SUBSET"
+            }, 
+            {
+                "charcode": "0x27c4", 
+                "title": "OPEN SUPERSET"
+            }, 
+            {
+                "charcode": "0x27c5", 
+                "title": "LEFT S-SHAPED BAG DELIMITER"
+            }, 
+            {
+                "charcode": "0x27c6", 
+                "title": "RIGHT S-SHAPED BAG DELIMITER"
+            }, 
+            {
+                "charcode": "0x27c7", 
+                "title": "OR WITH DOT INSIDE"
+            }, 
+            {
+                "charcode": "0x27c8", 
+                "title": "REVERSE SOLIDUS PRECEDING SUBSET"
+            }, 
+            {
+                "charcode": "0x27c9", 
+                "title": "SUPERSET PRECEDING SOLIDUS"
+            }, 
+            {
+                "charcode": "0x27ca", 
+                "title": "VERTICAL BAR WITH HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x27cb", 
+                "title": "MATHEMATICAL RISING DIAGONAL"
+            }, 
+            {
+                "charcode": "0x27cc", 
+                "title": "LONG DIVISION"
+            }, 
+            {
+                "charcode": "0x27cd", 
+                "title": "MATHEMATICAL FALLING DIAGONAL"
+            }, 
+            {
+                "charcode": "0x27ce", 
+                "title": "SQUARED LOGICAL AND"
+            }, 
+            {
+                "charcode": "0x27cf", 
+                "title": "SQUARED LOGICAL OR"
+            }, 
+            {
+                "charcode": "0x27d0", 
+                "title": "WHITE DIAMOND WITH CENTRED DOT"
+            }, 
+            {
+                "charcode": "0x27d1", 
+                "title": "AND WITH DOT"
+            }, 
+            {
+                "charcode": "0x27d2", 
+                "title": "ELEMENT OF OPENING UPWARDS"
+            }, 
+            {
+                "charcode": "0x27d3", 
+                "title": "LOWER RIGHT CORNER WITH DOT"
+            }, 
+            {
+                "charcode": "0x27d4", 
+                "title": "UPPER LEFT CORNER WITH DOT"
+            }, 
+            {
+                "charcode": "0x27d5", 
+                "title": "LEFT OUTER JOIN"
+            }, 
+            {
+                "charcode": "0x27d6", 
+                "title": "RIGHT OUTER JOIN"
+            }, 
+            {
+                "charcode": "0x27d7", 
+                "title": "FULL OUTER JOIN"
+            }, 
+            {
+                "charcode": "0x27d8", 
+                "title": "LARGE UP TACK"
+            }, 
+            {
+                "charcode": "0x27d9", 
+                "title": "LARGE DOWN TACK"
+            }, 
+            {
+                "charcode": "0x27da", 
+                "title": "LEFT AND RIGHT DOUBLE TURNSTILE"
+            }, 
+            {
+                "charcode": "0x27db", 
+                "title": "LEFT AND RIGHT TACK"
+            }, 
+            {
+                "charcode": "0x27dc", 
+                "title": "LEFT MULTIMAP"
+            }, 
+            {
+                "charcode": "0x27dd", 
+                "title": "LONG RIGHT TACK"
+            }, 
+            {
+                "charcode": "0x27de", 
+                "title": "LONG LEFT TACK"
+            }, 
+            {
+                "charcode": "0x27df", 
+                "title": "UP TACK WITH CIRCLE ABOVE"
+            }, 
+            {
+                "charcode": "0x27e0", 
+                "title": "LOZENGE DIVIDED BY HORIZONTAL RULE"
+            }, 
+            {
+                "charcode": "0x27e1", 
+                "title": "WHITE CONCAVE-SIDED DIAMOND"
+            }, 
+            {
+                "charcode": "0x27e2", 
+                "title": "WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK"
+            }, 
+            {
+                "charcode": "0x27e3", 
+                "title": "WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK"
+            }, 
+            {
+                "charcode": "0x27e4", 
+                "title": "WHITE SQUARE WITH LEFTWARDS TICK"
+            }, 
+            {
+                "charcode": "0x27e5", 
+                "title": "WHITE SQUARE WITH RIGHTWARDS TICK"
+            }, 
+            {
+                "charcode": "0x27e6", 
+                "title": "MATHEMATICAL LEFT WHITE SQUARE BRACKET"
+            }, 
+            {
+                "charcode": "0x27e7", 
+                "title": "MATHEMATICAL RIGHT WHITE SQUARE BRACKET"
+            }, 
+            {
+                "charcode": "0x27e8", 
+                "title": "MATHEMATICAL LEFT ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0x27e9", 
+                "title": "MATHEMATICAL RIGHT ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0x27ea", 
+                "title": "MATHEMATICAL LEFT DOUBLE ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0x27eb", 
+                "title": "MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0x27ec", 
+                "title": "MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0x27ed", 
+                "title": "MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0x27ee", 
+                "title": "MATHEMATICAL LEFT FLATTENED PARENTHESIS"
+            }
+        ], 
+        "name": "Miscellaneous Mathematical Symbols-A"
+    }
+]

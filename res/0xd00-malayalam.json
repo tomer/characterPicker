@@ -1,0 +1,395 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xd02", 
+                "title": "MALAYALAM SIGN ANUSVARA"
+            }, 
+            {
+                "charcode": "0xd03", 
+                "title": "MALAYALAM SIGN VISARGA"
+            }, 
+            {
+                "charcode": "0xd05", 
+                "title": "MALAYALAM LETTER A"
+            }, 
+            {
+                "charcode": "0xd06", 
+                "title": "MALAYALAM LETTER AA"
+            }, 
+            {
+                "charcode": "0xd07", 
+                "title": "MALAYALAM LETTER I"
+            }, 
+            {
+                "charcode": "0xd08", 
+                "title": "MALAYALAM LETTER II"
+            }, 
+            {
+                "charcode": "0xd09", 
+                "title": "MALAYALAM LETTER U"
+            }, 
+            {
+                "charcode": "0xd0a", 
+                "title": "MALAYALAM LETTER UU"
+            }, 
+            {
+                "charcode": "0xd0b", 
+                "title": "MALAYALAM LETTER VOCALIC R"
+            }, 
+            {
+                "charcode": "0xd0c", 
+                "title": "MALAYALAM LETTER VOCALIC L"
+            }, 
+            {
+                "charcode": "0xd0e", 
+                "title": "MALAYALAM LETTER E"
+            }, 
+            {
+                "charcode": "0xd0f", 
+                "title": "MALAYALAM LETTER EE"
+            }, 
+            {
+                "charcode": "0xd10", 
+                "title": "MALAYALAM LETTER AI"
+            }, 
+            {
+                "charcode": "0xd12", 
+                "title": "MALAYALAM LETTER O"
+            }, 
+            {
+                "charcode": "0xd13", 
+                "title": "MALAYALAM LETTER OO"
+            }, 
+            {
+                "charcode": "0xd14", 
+                "title": "MALAYALAM LETTER AU"
+            }, 
+            {
+                "charcode": "0xd15", 
+                "title": "MALAYALAM LETTER KA"
+            }, 
+            {
+                "charcode": "0xd16", 
+                "title": "MALAYALAM LETTER KHA"
+            }, 
+            {
+                "charcode": "0xd17", 
+                "title": "MALAYALAM LETTER GA"
+            }, 
+            {
+                "charcode": "0xd18", 
+                "title": "MALAYALAM LETTER GHA"
+            }, 
+            {
+                "charcode": "0xd19", 
+                "title": "MALAYALAM LETTER NGA"
+            }, 
+            {
+                "charcode": "0xd1a", 
+                "title": "MALAYALAM LETTER CA"
+            }, 
+            {
+                "charcode": "0xd1b", 
+                "title": "MALAYALAM LETTER CHA"
+            }, 
+            {
+                "charcode": "0xd1c", 
+                "title": "MALAYALAM LETTER JA"
+            }, 
+            {
+                "charcode": "0xd1d", 
+                "title": "MALAYALAM LETTER JHA"
+            }, 
+            {
+                "charcode": "0xd1e", 
+                "title": "MALAYALAM LETTER NYA"
+            }, 
+            {
+                "charcode": "0xd1f", 
+                "title": "MALAYALAM LETTER TTA"
+            }, 
+            {
+                "charcode": "0xd20", 
+                "title": "MALAYALAM LETTER TTHA"
+            }, 
+            {
+                "charcode": "0xd21", 
+                "title": "MALAYALAM LETTER DDA"
+            }, 
+            {
+                "charcode": "0xd22", 
+                "title": "MALAYALAM LETTER DDHA"
+            }, 
+            {
+                "charcode": "0xd23", 
+                "title": "MALAYALAM LETTER NNA"
+            }, 
+            {
+                "charcode": "0xd24", 
+                "title": "MALAYALAM LETTER TA"
+            }, 
+            {
+                "charcode": "0xd25", 
+                "title": "MALAYALAM LETTER THA"
+            }, 
+            {
+                "charcode": "0xd26", 
+                "title": "MALAYALAM LETTER DA"
+            }, 
+            {
+                "charcode": "0xd27", 
+                "title": "MALAYALAM LETTER DHA"
+            }, 
+            {
+                "charcode": "0xd28", 
+                "title": "MALAYALAM LETTER NA"
+            }, 
+            {
+                "charcode": "0xd29", 
+                "title": "MALAYALAM LETTER NNNA"
+            }, 
+            {
+                "charcode": "0xd2a", 
+                "title": "MALAYALAM LETTER PA"
+            }, 
+            {
+                "charcode": "0xd2b", 
+                "title": "MALAYALAM LETTER PHA"
+            }, 
+            {
+                "charcode": "0xd2c", 
+                "title": "MALAYALAM LETTER BA"
+            }, 
+            {
+                "charcode": "0xd2d", 
+                "title": "MALAYALAM LETTER BHA"
+            }, 
+            {
+                "charcode": "0xd2e", 
+                "title": "MALAYALAM LETTER MA"
+            }, 
+            {
+                "charcode": "0xd2f", 
+                "title": "MALAYALAM LETTER YA"
+            }, 
+            {
+                "charcode": "0xd30", 
+                "title": "MALAYALAM LETTER RA"
+            }, 
+            {
+                "charcode": "0xd31", 
+                "title": "MALAYALAM LETTER RRA"
+            }, 
+            {
+                "charcode": "0xd32", 
+                "title": "MALAYALAM LETTER LA"
+            }, 
+            {
+                "charcode": "0xd33", 
+                "title": "MALAYALAM LETTER LLA"
+            }, 
+            {
+                "charcode": "0xd34", 
+                "title": "MALAYALAM LETTER LLLA"
+            }, 
+            {
+                "charcode": "0xd35", 
+                "title": "MALAYALAM LETTER VA"
+            }, 
+            {
+                "charcode": "0xd36", 
+                "title": "MALAYALAM LETTER SHA"
+            }, 
+            {
+                "charcode": "0xd37", 
+                "title": "MALAYALAM LETTER SSA"
+            }, 
+            {
+                "charcode": "0xd38", 
+                "title": "MALAYALAM LETTER SA"
+            }, 
+            {
+                "charcode": "0xd39", 
+                "title": "MALAYALAM LETTER HA"
+            }, 
+            {
+                "charcode": "0xd3a", 
+                "title": "MALAYALAM LETTER TTTA"
+            }, 
+            {
+                "charcode": "0xd3d", 
+                "title": "MALAYALAM SIGN AVAGRAHA"
+            }, 
+            {
+                "charcode": "0xd3e", 
+                "title": "MALAYALAM VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0xd3f", 
+                "title": "MALAYALAM VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0xd40", 
+                "title": "MALAYALAM VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0xd41", 
+                "title": "MALAYALAM VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0xd42", 
+                "title": "MALAYALAM VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0xd43", 
+                "title": "MALAYALAM VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "charcode": "0xd44", 
+                "title": "MALAYALAM VOWEL SIGN VOCALIC RR"
+            }, 
+            {
+                "charcode": "0xd46", 
+                "title": "MALAYALAM VOWEL SIGN E"
+            }, 
+            {
+                "charcode": "0xd47", 
+                "title": "MALAYALAM VOWEL SIGN EE"
+            }, 
+            {
+                "charcode": "0xd48", 
+                "title": "MALAYALAM VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0xd4a", 
+                "title": "MALAYALAM VOWEL SIGN O"
+            }, 
+            {
+                "charcode": "0xd4b", 
+                "title": "MALAYALAM VOWEL SIGN OO"
+            }, 
+            {
+                "charcode": "0xd4c", 
+                "title": "MALAYALAM VOWEL SIGN AU"
+            }, 
+            {
+                "charcode": "0xd4d", 
+                "title": "MALAYALAM SIGN VIRAMA"
+            }, 
+            {
+                "charcode": "0xd4e", 
+                "title": "MALAYALAM LETTER DOT REPH"
+            }, 
+            {
+                "charcode": "0xd57", 
+                "title": "MALAYALAM AU LENGTH MARK"
+            }, 
+            {
+                "charcode": "0xd60", 
+                "title": "MALAYALAM LETTER VOCALIC RR"
+            }, 
+            {
+                "charcode": "0xd61", 
+                "title": "MALAYALAM LETTER VOCALIC LL"
+            }, 
+            {
+                "charcode": "0xd62", 
+                "title": "MALAYALAM VOWEL SIGN VOCALIC L"
+            }, 
+            {
+                "charcode": "0xd63", 
+                "title": "MALAYALAM VOWEL SIGN VOCALIC LL"
+            }, 
+            {
+                "charcode": "0xd66", 
+                "title": "MALAYALAM DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0xd67", 
+                "title": "MALAYALAM DIGIT ONE"
+            }, 
+            {
+                "charcode": "0xd68", 
+                "title": "MALAYALAM DIGIT TWO"
+            }, 
+            {
+                "charcode": "0xd69", 
+                "title": "MALAYALAM DIGIT THREE"
+            }, 
+            {
+                "charcode": "0xd6a", 
+                "title": "MALAYALAM DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0xd6b", 
+                "title": "MALAYALAM DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0xd6c", 
+                "title": "MALAYALAM DIGIT SIX"
+            }, 
+            {
+                "charcode": "0xd6d", 
+                "title": "MALAYALAM DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0xd6e", 
+                "title": "MALAYALAM DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0xd6f", 
+                "title": "MALAYALAM DIGIT NINE"
+            }, 
+            {
+                "charcode": "0xd70", 
+                "title": "MALAYALAM NUMBER TEN"
+            }, 
+            {
+                "charcode": "0xd71", 
+                "title": "MALAYALAM NUMBER ONE HUNDRED"
+            }, 
+            {
+                "charcode": "0xd72", 
+                "title": "MALAYALAM NUMBER ONE THOUSAND"
+            }, 
+            {
+                "charcode": "0xd73", 
+                "title": "MALAYALAM FRACTION ONE QUARTER"
+            }, 
+            {
+                "charcode": "0xd74", 
+                "title": "MALAYALAM FRACTION ONE HALF"
+            }, 
+            {
+                "charcode": "0xd75", 
+                "title": "MALAYALAM FRACTION THREE QUARTERS"
+            }, 
+            {
+                "charcode": "0xd79", 
+                "title": "MALAYALAM DATE MARK"
+            }, 
+            {
+                "charcode": "0xd7a", 
+                "title": "MALAYALAM LETTER CHILLU NN"
+            }, 
+            {
+                "charcode": "0xd7b", 
+                "title": "MALAYALAM LETTER CHILLU N"
+            }, 
+            {
+                "charcode": "0xd7c", 
+                "title": "MALAYALAM LETTER CHILLU RR"
+            }, 
+            {
+                "charcode": "0xd7d", 
+                "title": "MALAYALAM LETTER CHILLU L"
+            }, 
+            {
+                "charcode": "0xd7e", 
+                "title": "MALAYALAM LETTER CHILLU LL"
+            }
+        ], 
+        "name": "Malayalam"
+    }
+]

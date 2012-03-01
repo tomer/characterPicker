@@ -1,0 +1,515 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2980", 
+                "title": "TRIPLE VERTICAL BAR DELIMITER"
+            }, 
+            {
+                "charcode": "0x2981", 
+                "title": "Z NOTATION SPOT"
+            }, 
+            {
+                "charcode": "0x2982", 
+                "title": "Z NOTATION TYPE COLON"
+            }, 
+            {
+                "charcode": "0x2983", 
+                "title": "LEFT WHITE CURLY BRACKET"
+            }, 
+            {
+                "charcode": "0x2984", 
+                "title": "RIGHT WHITE CURLY BRACKET"
+            }, 
+            {
+                "charcode": "0x2985", 
+                "title": "LEFT WHITE PARENTHESIS"
+            }, 
+            {
+                "charcode": "0x2986", 
+                "title": "RIGHT WHITE PARENTHESIS"
+            }, 
+            {
+                "charcode": "0x2987", 
+                "title": "Z NOTATION LEFT IMAGE BRACKET"
+            }, 
+            {
+                "charcode": "0x2988", 
+                "title": "Z NOTATION RIGHT IMAGE BRACKET"
+            }, 
+            {
+                "charcode": "0x2989", 
+                "title": "Z NOTATION LEFT BINDING BRACKET"
+            }, 
+            {
+                "charcode": "0x298a", 
+                "title": "Z NOTATION RIGHT BINDING BRACKET"
+            }, 
+            {
+                "charcode": "0x298b", 
+                "title": "LEFT SQUARE BRACKET WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x298c", 
+                "title": "RIGHT SQUARE BRACKET WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x298d", 
+                "title": "LEFT SQUARE BRACKET WITH TICK IN TOP CORNER"
+            }, 
+            {
+                "charcode": "0x298e", 
+                "title": "RIGHT SQUARE BRACKET WITH TICK IN BOTTOM CORNER"
+            }, 
+            {
+                "charcode": "0x298f", 
+                "title": "LEFT SQUARE BRACKET WITH TICK IN BOTTOM CORNER"
+            }, 
+            {
+                "charcode": "0x2990", 
+                "title": "RIGHT SQUARE BRACKET WITH TICK IN TOP CORNER"
+            }, 
+            {
+                "charcode": "0x2991", 
+                "title": "LEFT ANGLE BRACKET WITH DOT"
+            }, 
+            {
+                "charcode": "0x2992", 
+                "title": "RIGHT ANGLE BRACKET WITH DOT"
+            }, 
+            {
+                "charcode": "0x2993", 
+                "title": "LEFT ARC LESS-THAN BRACKET"
+            }, 
+            {
+                "charcode": "0x2994", 
+                "title": "RIGHT ARC GREATER-THAN BRACKET"
+            }, 
+            {
+                "charcode": "0x2995", 
+                "title": "DOUBLE LEFT ARC GREATER-THAN BRACKET"
+            }, 
+            {
+                "charcode": "0x2996", 
+                "title": "DOUBLE RIGHT ARC LESS-THAN BRACKET"
+            }, 
+            {
+                "charcode": "0x2997", 
+                "title": "LEFT BLACK TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0x2998", 
+                "title": "RIGHT BLACK TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0x2999", 
+                "title": "DOTTED FENCE"
+            }, 
+            {
+                "charcode": "0x299a", 
+                "title": "VERTICAL ZIGZAG LINE"
+            }, 
+            {
+                "charcode": "0x299b", 
+                "title": "MEASURED ANGLE OPENING LEFT"
+            }, 
+            {
+                "charcode": "0x299c", 
+                "title": "RIGHT ANGLE VARIANT WITH SQUARE"
+            }, 
+            {
+                "charcode": "0x299d", 
+                "title": "MEASURED RIGHT ANGLE WITH DOT"
+            }, 
+            {
+                "charcode": "0x299e", 
+                "title": "ANGLE WITH S INSIDE"
+            }, 
+            {
+                "charcode": "0x299f", 
+                "title": "ACUTE ANGLE"
+            }, 
+            {
+                "charcode": "0x29a0", 
+                "title": "SPHERICAL ANGLE OPENING LEFT"
+            }, 
+            {
+                "charcode": "0x29a1", 
+                "title": "SPHERICAL ANGLE OPENING UP"
+            }, 
+            {
+                "charcode": "0x29a2", 
+                "title": "TURNED ANGLE"
+            }, 
+            {
+                "charcode": "0x29a3", 
+                "title": "REVERSED ANGLE"
+            }, 
+            {
+                "charcode": "0x29a4", 
+                "title": "ANGLE WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x29a5", 
+                "title": "REVERSED ANGLE WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x29a6", 
+                "title": "OBLIQUE ANGLE OPENING UP"
+            }, 
+            {
+                "charcode": "0x29a7", 
+                "title": "OBLIQUE ANGLE OPENING DOWN"
+            }, 
+            {
+                "charcode": "0x29a8", 
+                "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND RIGHT"
+            }, 
+            {
+                "charcode": "0x29a9", 
+                "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND LEFT"
+            }, 
+            {
+                "charcode": "0x29aa", 
+                "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND RIGHT"
+            }, 
+            {
+                "charcode": "0x29ab", 
+                "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND LEFT"
+            }, 
+            {
+                "charcode": "0x29ac", 
+                "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND UP"
+            }, 
+            {
+                "charcode": "0x29ad", 
+                "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND UP"
+            }, 
+            {
+                "charcode": "0x29ae", 
+                "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND DOWN"
+            }, 
+            {
+                "charcode": "0x29af", 
+                "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND DOWN"
+            }, 
+            {
+                "charcode": "0x29b0", 
+                "title": "REVERSED EMPTY SET"
+            }, 
+            {
+                "charcode": "0x29b1", 
+                "title": "EMPTY SET WITH OVERBAR"
+            }, 
+            {
+                "charcode": "0x29b2", 
+                "title": "EMPTY SET WITH SMALL CIRCLE ABOVE"
+            }, 
+            {
+                "charcode": "0x29b3", 
+                "title": "EMPTY SET WITH RIGHT ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x29b4", 
+                "title": "EMPTY SET WITH LEFT ARROW ABOVE"
+            }, 
+            {
+                "charcode": "0x29b5", 
+                "title": "CIRCLE WITH HORIZONTAL BAR"
+            }, 
+            {
+                "charcode": "0x29b6", 
+                "title": "CIRCLED VERTICAL BAR"
+            }, 
+            {
+                "charcode": "0x29b7", 
+                "title": "CIRCLED PARALLEL"
+            }, 
+            {
+                "charcode": "0x29b8", 
+                "title": "CIRCLED REVERSE SOLIDUS"
+            }, 
+            {
+                "charcode": "0x29b9", 
+                "title": "CIRCLED PERPENDICULAR"
+            }, 
+            {
+                "charcode": "0x29ba", 
+                "title": "CIRCLE DIVIDED BY HORIZONTAL BAR AND TOP HALF DIVIDED BY VERTICAL BAR"
+            }, 
+            {
+                "charcode": "0x29bb", 
+                "title": "CIRCLE WITH SUPERIMPOSED X"
+            }, 
+            {
+                "charcode": "0x29bc", 
+                "title": "CIRCLED ANTICLOCKWISE-ROTATED DIVISION SIGN"
+            }, 
+            {
+                "charcode": "0x29bd", 
+                "title": "UP ARROW THROUGH CIRCLE"
+            }, 
+            {
+                "charcode": "0x29be", 
+                "title": "CIRCLED WHITE BULLET"
+            }, 
+            {
+                "charcode": "0x29bf", 
+                "title": "CIRCLED BULLET"
+            }, 
+            {
+                "charcode": "0x29c0", 
+                "title": "CIRCLED LESS-THAN"
+            }, 
+            {
+                "charcode": "0x29c1", 
+                "title": "CIRCLED GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x29c2", 
+                "title": "CIRCLE WITH SMALL CIRCLE TO THE RIGHT"
+            }, 
+            {
+                "charcode": "0x29c3", 
+                "title": "CIRCLE WITH TWO HORIZONTAL STROKES TO THE RIGHT"
+            }, 
+            {
+                "charcode": "0x29c4", 
+                "title": "SQUARED RISING DIAGONAL SLASH"
+            }, 
+            {
+                "charcode": "0x29c5", 
+                "title": "SQUARED FALLING DIAGONAL SLASH"
+            }, 
+            {
+                "charcode": "0x29c6", 
+                "title": "SQUARED ASTERISK"
+            }, 
+            {
+                "charcode": "0x29c7", 
+                "title": "SQUARED SMALL CIRCLE"
+            }, 
+            {
+                "charcode": "0x29c8", 
+                "title": "SQUARED SQUARE"
+            }, 
+            {
+                "charcode": "0x29c9", 
+                "title": "TWO JOINED SQUARES"
+            }, 
+            {
+                "charcode": "0x29ca", 
+                "title": "TRIANGLE WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x29cb", 
+                "title": "TRIANGLE WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x29cc", 
+                "title": "S IN TRIANGLE"
+            }, 
+            {
+                "charcode": "0x29cd", 
+                "title": "TRIANGLE WITH SERIFS AT BOTTOM"
+            }, 
+            {
+                "charcode": "0x29ce", 
+                "title": "RIGHT TRIANGLE ABOVE LEFT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x29cf", 
+                "title": "LEFT TRIANGLE BESIDE VERTICAL BAR"
+            }, 
+            {
+                "charcode": "0x29d0", 
+                "title": "VERTICAL BAR BESIDE RIGHT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x29d1", 
+                "title": "BOWTIE WITH LEFT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x29d2", 
+                "title": "BOWTIE WITH RIGHT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x29d3", 
+                "title": "BLACK BOWTIE"
+            }, 
+            {
+                "charcode": "0x29d4", 
+                "title": "TIMES WITH LEFT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x29d5", 
+                "title": "TIMES WITH RIGHT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x29d6", 
+                "title": "WHITE HOURGLASS"
+            }, 
+            {
+                "charcode": "0x29d7", 
+                "title": "BLACK HOURGLASS"
+            }, 
+            {
+                "charcode": "0x29d8", 
+                "title": "LEFT WIGGLY FENCE"
+            }, 
+            {
+                "charcode": "0x29d9", 
+                "title": "RIGHT WIGGLY FENCE"
+            }, 
+            {
+                "charcode": "0x29da", 
+                "title": "LEFT DOUBLE WIGGLY FENCE"
+            }, 
+            {
+                "charcode": "0x29db", 
+                "title": "RIGHT DOUBLE WIGGLY FENCE"
+            }, 
+            {
+                "charcode": "0x29dc", 
+                "title": "INCOMPLETE INFINITY"
+            }, 
+            {
+                "charcode": "0x29dd", 
+                "title": "TIE OVER INFINITY"
+            }, 
+            {
+                "charcode": "0x29de", 
+                "title": "INFINITY NEGATED WITH VERTICAL BAR"
+            }, 
+            {
+                "charcode": "0x29df", 
+                "title": "DOUBLE-ENDED MULTIMAP"
+            }, 
+            {
+                "charcode": "0x29e0", 
+                "title": "SQUARE WITH CONTOURED OUTLINE"
+            }, 
+            {
+                "charcode": "0x29e1", 
+                "title": "INCREASES AS"
+            }, 
+            {
+                "charcode": "0x29e2", 
+                "title": "SHUFFLE PRODUCT"
+            }, 
+            {
+                "charcode": "0x29e3", 
+                "title": "EQUALS SIGN AND SLANTED PARALLEL"
+            }, 
+            {
+                "charcode": "0x29e4", 
+                "title": "EQUALS SIGN AND SLANTED PARALLEL WITH TILDE ABOVE"
+            }, 
+            {
+                "charcode": "0x29e5", 
+                "title": "IDENTICAL TO AND SLANTED PARALLEL"
+            }, 
+            {
+                "charcode": "0x29e6", 
+                "title": "GLEICH STARK"
+            }, 
+            {
+                "charcode": "0x29e7", 
+                "title": "THERMODYNAMIC"
+            }, 
+            {
+                "charcode": "0x29e8", 
+                "title": "DOWN-POINTING TRIANGLE WITH LEFT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x29e9", 
+                "title": "DOWN-POINTING TRIANGLE WITH RIGHT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x29ea", 
+                "title": "BLACK DIAMOND WITH DOWN ARROW"
+            }, 
+            {
+                "charcode": "0x29eb", 
+                "title": "BLACK LOZENGE"
+            }, 
+            {
+                "charcode": "0x29ec", 
+                "title": "WHITE CIRCLE WITH DOWN ARROW"
+            }, 
+            {
+                "charcode": "0x29ed", 
+                "title": "BLACK CIRCLE WITH DOWN ARROW"
+            }, 
+            {
+                "charcode": "0x29ee", 
+                "title": "ERROR-BARRED WHITE SQUARE"
+            }, 
+            {
+                "charcode": "0x29ef", 
+                "title": "ERROR-BARRED BLACK SQUARE"
+            }, 
+            {
+                "charcode": "0x29f0", 
+                "title": "ERROR-BARRED WHITE DIAMOND"
+            }, 
+            {
+                "charcode": "0x29f1", 
+                "title": "ERROR-BARRED BLACK DIAMOND"
+            }, 
+            {
+                "charcode": "0x29f2", 
+                "title": "ERROR-BARRED WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x29f3", 
+                "title": "ERROR-BARRED BLACK CIRCLE"
+            }, 
+            {
+                "charcode": "0x29f4", 
+                "title": "RULE-DELAYED"
+            }, 
+            {
+                "charcode": "0x29f5", 
+                "title": "REVERSE SOLIDUS OPERATOR"
+            }, 
+            {
+                "charcode": "0x29f6", 
+                "title": "SOLIDUS WITH OVERBAR"
+            }, 
+            {
+                "charcode": "0x29f7", 
+                "title": "REVERSE SOLIDUS WITH HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x29f8", 
+                "title": "BIG SOLIDUS"
+            }, 
+            {
+                "charcode": "0x29f9", 
+                "title": "BIG REVERSE SOLIDUS"
+            }, 
+            {
+                "charcode": "0x29fa", 
+                "title": "DOUBLE PLUS"
+            }, 
+            {
+                "charcode": "0x29fb", 
+                "title": "TRIPLE PLUS"
+            }, 
+            {
+                "charcode": "0x29fc", 
+                "title": "LEFT-POINTING CURVED ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0x29fd", 
+                "title": "RIGHT-POINTING CURVED ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0x29fe", 
+                "title": "TINY"
+            }
+        ], 
+        "name": "Miscellaneous Mathematical Symbols-B"
+    }
+]

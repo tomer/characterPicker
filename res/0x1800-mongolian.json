@@ -1,0 +1,631 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1800", 
+                "title": "MONGOLIAN BIRGA"
+            }, 
+            {
+                "charcode": "0x1801", 
+                "title": "MONGOLIAN ELLIPSIS"
+            }, 
+            {
+                "charcode": "0x1802", 
+                "title": "MONGOLIAN COMMA"
+            }, 
+            {
+                "charcode": "0x1803", 
+                "title": "MONGOLIAN FULL STOP"
+            }, 
+            {
+                "charcode": "0x1804", 
+                "title": "MONGOLIAN COLON"
+            }, 
+            {
+                "charcode": "0x1805", 
+                "title": "MONGOLIAN FOUR DOTS"
+            }, 
+            {
+                "charcode": "0x1806", 
+                "title": "MONGOLIAN TODO SOFT HYPHEN"
+            }, 
+            {
+                "charcode": "0x1807", 
+                "title": "MONGOLIAN SIBE SYLLABLE BOUNDARY MARKER"
+            }, 
+            {
+                "charcode": "0x1808", 
+                "title": "MONGOLIAN MANCHU COMMA"
+            }, 
+            {
+                "charcode": "0x1809", 
+                "title": "MONGOLIAN MANCHU FULL STOP"
+            }, 
+            {
+                "charcode": "0x180a", 
+                "title": "MONGOLIAN NIRUGU"
+            }, 
+            {
+                "charcode": "0x180b", 
+                "title": "MONGOLIAN FREE VARIATION SELECTOR ONE"
+            }, 
+            {
+                "charcode": "0x180c", 
+                "title": "MONGOLIAN FREE VARIATION SELECTOR TWO"
+            }, 
+            {
+                "charcode": "0x180d", 
+                "title": "MONGOLIAN FREE VARIATION SELECTOR THREE"
+            }, 
+            {
+                "charcode": "0x180e", 
+                "title": "MONGOLIAN VOWEL SEPARATOR"
+            }, 
+            {
+                "charcode": "0x1810", 
+                "title": "MONGOLIAN DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x1811", 
+                "title": "MONGOLIAN DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x1812", 
+                "title": "MONGOLIAN DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x1813", 
+                "title": "MONGOLIAN DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x1814", 
+                "title": "MONGOLIAN DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x1815", 
+                "title": "MONGOLIAN DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x1816", 
+                "title": "MONGOLIAN DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x1817", 
+                "title": "MONGOLIAN DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x1818", 
+                "title": "MONGOLIAN DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x1819", 
+                "title": "MONGOLIAN DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x1820", 
+                "title": "MONGOLIAN LETTER A"
+            }, 
+            {
+                "charcode": "0x1821", 
+                "title": "MONGOLIAN LETTER E"
+            }, 
+            {
+                "charcode": "0x1822", 
+                "title": "MONGOLIAN LETTER I"
+            }, 
+            {
+                "charcode": "0x1823", 
+                "title": "MONGOLIAN LETTER O"
+            }, 
+            {
+                "charcode": "0x1824", 
+                "title": "MONGOLIAN LETTER U"
+            }, 
+            {
+                "charcode": "0x1825", 
+                "title": "MONGOLIAN LETTER OE"
+            }, 
+            {
+                "charcode": "0x1826", 
+                "title": "MONGOLIAN LETTER UE"
+            }, 
+            {
+                "charcode": "0x1827", 
+                "title": "MONGOLIAN LETTER EE"
+            }, 
+            {
+                "charcode": "0x1828", 
+                "title": "MONGOLIAN LETTER NA"
+            }, 
+            {
+                "charcode": "0x1829", 
+                "title": "MONGOLIAN LETTER ANG"
+            }, 
+            {
+                "charcode": "0x182a", 
+                "title": "MONGOLIAN LETTER BA"
+            }, 
+            {
+                "charcode": "0x182b", 
+                "title": "MONGOLIAN LETTER PA"
+            }, 
+            {
+                "charcode": "0x182c", 
+                "title": "MONGOLIAN LETTER QA"
+            }, 
+            {
+                "charcode": "0x182d", 
+                "title": "MONGOLIAN LETTER GA"
+            }, 
+            {
+                "charcode": "0x182e", 
+                "title": "MONGOLIAN LETTER MA"
+            }, 
+            {
+                "charcode": "0x182f", 
+                "title": "MONGOLIAN LETTER LA"
+            }, 
+            {
+                "charcode": "0x1830", 
+                "title": "MONGOLIAN LETTER SA"
+            }, 
+            {
+                "charcode": "0x1831", 
+                "title": "MONGOLIAN LETTER SHA"
+            }, 
+            {
+                "charcode": "0x1832", 
+                "title": "MONGOLIAN LETTER TA"
+            }, 
+            {
+                "charcode": "0x1833", 
+                "title": "MONGOLIAN LETTER DA"
+            }, 
+            {
+                "charcode": "0x1834", 
+                "title": "MONGOLIAN LETTER CHA"
+            }, 
+            {
+                "charcode": "0x1835", 
+                "title": "MONGOLIAN LETTER JA"
+            }, 
+            {
+                "charcode": "0x1836", 
+                "title": "MONGOLIAN LETTER YA"
+            }, 
+            {
+                "charcode": "0x1837", 
+                "title": "MONGOLIAN LETTER RA"
+            }, 
+            {
+                "charcode": "0x1838", 
+                "title": "MONGOLIAN LETTER WA"
+            }, 
+            {
+                "charcode": "0x1839", 
+                "title": "MONGOLIAN LETTER FA"
+            }, 
+            {
+                "charcode": "0x183a", 
+                "title": "MONGOLIAN LETTER KA"
+            }, 
+            {
+                "charcode": "0x183b", 
+                "title": "MONGOLIAN LETTER KHA"
+            }, 
+            {
+                "charcode": "0x183c", 
+                "title": "MONGOLIAN LETTER TSA"
+            }, 
+            {
+                "charcode": "0x183d", 
+                "title": "MONGOLIAN LETTER ZA"
+            }, 
+            {
+                "charcode": "0x183e", 
+                "title": "MONGOLIAN LETTER HAA"
+            }, 
+            {
+                "charcode": "0x183f", 
+                "title": "MONGOLIAN LETTER ZRA"
+            }, 
+            {
+                "charcode": "0x1840", 
+                "title": "MONGOLIAN LETTER LHA"
+            }, 
+            {
+                "charcode": "0x1841", 
+                "title": "MONGOLIAN LETTER ZHI"
+            }, 
+            {
+                "charcode": "0x1842", 
+                "title": "MONGOLIAN LETTER CHI"
+            }, 
+            {
+                "charcode": "0x1843", 
+                "title": "MONGOLIAN LETTER TODO LONG VOWEL SIGN"
+            }, 
+            {
+                "charcode": "0x1844", 
+                "title": "MONGOLIAN LETTER TODO E"
+            }, 
+            {
+                "charcode": "0x1845", 
+                "title": "MONGOLIAN LETTER TODO I"
+            }, 
+            {
+                "charcode": "0x1846", 
+                "title": "MONGOLIAN LETTER TODO O"
+            }, 
+            {
+                "charcode": "0x1847", 
+                "title": "MONGOLIAN LETTER TODO U"
+            }, 
+            {
+                "charcode": "0x1848", 
+                "title": "MONGOLIAN LETTER TODO OE"
+            }, 
+            {
+                "charcode": "0x1849", 
+                "title": "MONGOLIAN LETTER TODO UE"
+            }, 
+            {
+                "charcode": "0x184a", 
+                "title": "MONGOLIAN LETTER TODO ANG"
+            }, 
+            {
+                "charcode": "0x184b", 
+                "title": "MONGOLIAN LETTER TODO BA"
+            }, 
+            {
+                "charcode": "0x184c", 
+                "title": "MONGOLIAN LETTER TODO PA"
+            }, 
+            {
+                "charcode": "0x184d", 
+                "title": "MONGOLIAN LETTER TODO QA"
+            }, 
+            {
+                "charcode": "0x184e", 
+                "title": "MONGOLIAN LETTER TODO GA"
+            }, 
+            {
+                "charcode": "0x184f", 
+                "title": "MONGOLIAN LETTER TODO MA"
+            }, 
+            {
+                "charcode": "0x1850", 
+                "title": "MONGOLIAN LETTER TODO TA"
+            }, 
+            {
+                "charcode": "0x1851", 
+                "title": "MONGOLIAN LETTER TODO DA"
+            }, 
+            {
+                "charcode": "0x1852", 
+                "title": "MONGOLIAN LETTER TODO CHA"
+            }, 
+            {
+                "charcode": "0x1853", 
+                "title": "MONGOLIAN LETTER TODO JA"
+            }, 
+            {
+                "charcode": "0x1854", 
+                "title": "MONGOLIAN LETTER TODO TSA"
+            }, 
+            {
+                "charcode": "0x1855", 
+                "title": "MONGOLIAN LETTER TODO YA"
+            }, 
+            {
+                "charcode": "0x1856", 
+                "title": "MONGOLIAN LETTER TODO WA"
+            }, 
+            {
+                "charcode": "0x1857", 
+                "title": "MONGOLIAN LETTER TODO KA"
+            }, 
+            {
+                "charcode": "0x1858", 
+                "title": "MONGOLIAN LETTER TODO GAA"
+            }, 
+            {
+                "charcode": "0x1859", 
+                "title": "MONGOLIAN LETTER TODO HAA"
+            }, 
+            {
+                "charcode": "0x185a", 
+                "title": "MONGOLIAN LETTER TODO JIA"
+            }, 
+            {
+                "charcode": "0x185b", 
+                "title": "MONGOLIAN LETTER TODO NIA"
+            }, 
+            {
+                "charcode": "0x185c", 
+                "title": "MONGOLIAN LETTER TODO DZA"
+            }, 
+            {
+                "charcode": "0x185d", 
+                "title": "MONGOLIAN LETTER SIBE E"
+            }, 
+            {
+                "charcode": "0x185e", 
+                "title": "MONGOLIAN LETTER SIBE I"
+            }, 
+            {
+                "charcode": "0x185f", 
+                "title": "MONGOLIAN LETTER SIBE IY"
+            }, 
+            {
+                "charcode": "0x1860", 
+                "title": "MONGOLIAN LETTER SIBE UE"
+            }, 
+            {
+                "charcode": "0x1861", 
+                "title": "MONGOLIAN LETTER SIBE U"
+            }, 
+            {
+                "charcode": "0x1862", 
+                "title": "MONGOLIAN LETTER SIBE ANG"
+            }, 
+            {
+                "charcode": "0x1863", 
+                "title": "MONGOLIAN LETTER SIBE KA"
+            }, 
+            {
+                "charcode": "0x1864", 
+                "title": "MONGOLIAN LETTER SIBE GA"
+            }, 
+            {
+                "charcode": "0x1865", 
+                "title": "MONGOLIAN LETTER SIBE HA"
+            }, 
+            {
+                "charcode": "0x1866", 
+                "title": "MONGOLIAN LETTER SIBE PA"
+            }, 
+            {
+                "charcode": "0x1867", 
+                "title": "MONGOLIAN LETTER SIBE SHA"
+            }, 
+            {
+                "charcode": "0x1868", 
+                "title": "MONGOLIAN LETTER SIBE TA"
+            }, 
+            {
+                "charcode": "0x1869", 
+                "title": "MONGOLIAN LETTER SIBE DA"
+            }, 
+            {
+                "charcode": "0x186a", 
+                "title": "MONGOLIAN LETTER SIBE JA"
+            }, 
+            {
+                "charcode": "0x186b", 
+                "title": "MONGOLIAN LETTER SIBE FA"
+            }, 
+            {
+                "charcode": "0x186c", 
+                "title": "MONGOLIAN LETTER SIBE GAA"
+            }, 
+            {
+                "charcode": "0x186d", 
+                "title": "MONGOLIAN LETTER SIBE HAA"
+            }, 
+            {
+                "charcode": "0x186e", 
+                "title": "MONGOLIAN LETTER SIBE TSA"
+            }, 
+            {
+                "charcode": "0x186f", 
+                "title": "MONGOLIAN LETTER SIBE ZA"
+            }, 
+            {
+                "charcode": "0x1870", 
+                "title": "MONGOLIAN LETTER SIBE RAA"
+            }, 
+            {
+                "charcode": "0x1871", 
+                "title": "MONGOLIAN LETTER SIBE CHA"
+            }, 
+            {
+                "charcode": "0x1872", 
+                "title": "MONGOLIAN LETTER SIBE ZHA"
+            }, 
+            {
+                "charcode": "0x1873", 
+                "title": "MONGOLIAN LETTER MANCHU I"
+            }, 
+            {
+                "charcode": "0x1874", 
+                "title": "MONGOLIAN LETTER MANCHU KA"
+            }, 
+            {
+                "charcode": "0x1875", 
+                "title": "MONGOLIAN LETTER MANCHU RA"
+            }, 
+            {
+                "charcode": "0x1876", 
+                "title": "MONGOLIAN LETTER MANCHU FA"
+            }, 
+            {
+                "charcode": "0x1877", 
+                "title": "MONGOLIAN LETTER MANCHU ZHA"
+            }, 
+            {
+                "charcode": "0x1880", 
+                "title": "MONGOLIAN LETTER ALI GALI ANUSVARA ONE"
+            }, 
+            {
+                "charcode": "0x1881", 
+                "title": "MONGOLIAN LETTER ALI GALI VISARGA ONE"
+            }, 
+            {
+                "charcode": "0x1882", 
+                "title": "MONGOLIAN LETTER ALI GALI DAMARU"
+            }, 
+            {
+                "charcode": "0x1883", 
+                "title": "MONGOLIAN LETTER ALI GALI UBADAMA"
+            }, 
+            {
+                "charcode": "0x1884", 
+                "title": "MONGOLIAN LETTER ALI GALI INVERTED UBADAMA"
+            }, 
+            {
+                "charcode": "0x1885", 
+                "title": "MONGOLIAN LETTER ALI GALI BALUDA"
+            }, 
+            {
+                "charcode": "0x1886", 
+                "title": "MONGOLIAN LETTER ALI GALI THREE BALUDA"
+            }, 
+            {
+                "charcode": "0x1887", 
+                "title": "MONGOLIAN LETTER ALI GALI A"
+            }, 
+            {
+                "charcode": "0x1888", 
+                "title": "MONGOLIAN LETTER ALI GALI I"
+            }, 
+            {
+                "charcode": "0x1889", 
+                "title": "MONGOLIAN LETTER ALI GALI KA"
+            }, 
+            {
+                "charcode": "0x188a", 
+                "title": "MONGOLIAN LETTER ALI GALI NGA"
+            }, 
+            {
+                "charcode": "0x188b", 
+                "title": "MONGOLIAN LETTER ALI GALI CA"
+            }, 
+            {
+                "charcode": "0x188c", 
+                "title": "MONGOLIAN LETTER ALI GALI TTA"
+            }, 
+            {
+                "charcode": "0x188d", 
+                "title": "MONGOLIAN LETTER ALI GALI TTHA"
+            }, 
+            {
+                "charcode": "0x188e", 
+                "title": "MONGOLIAN LETTER ALI GALI DDA"
+            }, 
+            {
+                "charcode": "0x188f", 
+                "title": "MONGOLIAN LETTER ALI GALI NNA"
+            }, 
+            {
+                "charcode": "0x1890", 
+                "title": "MONGOLIAN LETTER ALI GALI TA"
+            }, 
+            {
+                "charcode": "0x1891", 
+                "title": "MONGOLIAN LETTER ALI GALI DA"
+            }, 
+            {
+                "charcode": "0x1892", 
+                "title": "MONGOLIAN LETTER ALI GALI PA"
+            }, 
+            {
+                "charcode": "0x1893", 
+                "title": "MONGOLIAN LETTER ALI GALI PHA"
+            }, 
+            {
+                "charcode": "0x1894", 
+                "title": "MONGOLIAN LETTER ALI GALI SSA"
+            }, 
+            {
+                "charcode": "0x1895", 
+                "title": "MONGOLIAN LETTER ALI GALI ZHA"
+            }, 
+            {
+                "charcode": "0x1896", 
+                "title": "MONGOLIAN LETTER ALI GALI ZA"
+            }, 
+            {
+                "charcode": "0x1897", 
+                "title": "MONGOLIAN LETTER ALI GALI AH"
+            }, 
+            {
+                "charcode": "0x1898", 
+                "title": "MONGOLIAN LETTER TODO ALI GALI TA"
+            }, 
+            {
+                "charcode": "0x1899", 
+                "title": "MONGOLIAN LETTER TODO ALI GALI ZHA"
+            }, 
+            {
+                "charcode": "0x189a", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI GHA"
+            }, 
+            {
+                "charcode": "0x189b", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI NGA"
+            }, 
+            {
+                "charcode": "0x189c", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI CA"
+            }, 
+            {
+                "charcode": "0x189d", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI JHA"
+            }, 
+            {
+                "charcode": "0x189e", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI TTA"
+            }, 
+            {
+                "charcode": "0x189f", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI DDHA"
+            }, 
+            {
+                "charcode": "0x18a0", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI TA"
+            }, 
+            {
+                "charcode": "0x18a1", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI DHA"
+            }, 
+            {
+                "charcode": "0x18a2", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI SSA"
+            }, 
+            {
+                "charcode": "0x18a3", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI CYA"
+            }, 
+            {
+                "charcode": "0x18a4", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI ZHA"
+            }, 
+            {
+                "charcode": "0x18a5", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI ZA"
+            }, 
+            {
+                "charcode": "0x18a6", 
+                "title": "MONGOLIAN LETTER ALI GALI HALF U"
+            }, 
+            {
+                "charcode": "0x18a7", 
+                "title": "MONGOLIAN LETTER ALI GALI HALF YA"
+            }, 
+            {
+                "charcode": "0x18a8", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI BHA"
+            }, 
+            {
+                "charcode": "0x18a9", 
+                "title": "MONGOLIAN LETTER ALI GALI DAGALGA"
+            }, 
+            {
+                "charcode": "0x18aa", 
+                "title": "MONGOLIAN LETTER MANCHU ALI GALI LHA"
+            }
+        ], 
+        "name": "Mongolian"
+    }
+]

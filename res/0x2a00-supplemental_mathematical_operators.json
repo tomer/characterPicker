@@ -1,0 +1,1027 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2a00", 
+                "title": "N-ARY CIRCLED DOT OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a01", 
+                "title": "N-ARY CIRCLED PLUS OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a02", 
+                "title": "N-ARY CIRCLED TIMES OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a03", 
+                "title": "N-ARY UNION OPERATOR WITH DOT"
+            }, 
+            {
+                "charcode": "0x2a04", 
+                "title": "N-ARY UNION OPERATOR WITH PLUS"
+            }, 
+            {
+                "charcode": "0x2a05", 
+                "title": "N-ARY SQUARE INTERSECTION OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a06", 
+                "title": "N-ARY SQUARE UNION OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a07", 
+                "title": "TWO LOGICAL AND OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a08", 
+                "title": "TWO LOGICAL OR OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a09", 
+                "title": "N-ARY TIMES OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a0a", 
+                "title": "MODULO TWO SUM"
+            }, 
+            {
+                "charcode": "0x2a0b", 
+                "title": "SUMMATION WITH INTEGRAL"
+            }, 
+            {
+                "charcode": "0x2a0c", 
+                "title": "QUADRUPLE INTEGRAL OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a0d", 
+                "title": "FINITE PART INTEGRAL"
+            }, 
+            {
+                "charcode": "0x2a0e", 
+                "title": "INTEGRAL WITH DOUBLE STROKE"
+            }, 
+            {
+                "charcode": "0x2a0f", 
+                "title": "INTEGRAL AVERAGE WITH SLASH"
+            }, 
+            {
+                "charcode": "0x2a10", 
+                "title": "CIRCULATION FUNCTION"
+            }, 
+            {
+                "charcode": "0x2a11", 
+                "title": "ANTICLOCKWISE INTEGRATION"
+            }, 
+            {
+                "charcode": "0x2a12", 
+                "title": "LINE INTEGRATION WITH RECTANGULAR PATH AROUND POLE"
+            }, 
+            {
+                "charcode": "0x2a13", 
+                "title": "LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE"
+            }, 
+            {
+                "charcode": "0x2a14", 
+                "title": "LINE INTEGRATION NOT INCLUDING THE POLE"
+            }, 
+            {
+                "charcode": "0x2a15", 
+                "title": "INTEGRAL AROUND A POINT OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a16", 
+                "title": "QUATERNION INTEGRAL OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a17", 
+                "title": "INTEGRAL WITH LEFTWARDS ARROW WITH HOOK"
+            }, 
+            {
+                "charcode": "0x2a18", 
+                "title": "INTEGRAL WITH TIMES SIGN"
+            }, 
+            {
+                "charcode": "0x2a19", 
+                "title": "INTEGRAL WITH INTERSECTION"
+            }, 
+            {
+                "charcode": "0x2a1a", 
+                "title": "INTEGRAL WITH UNION"
+            }, 
+            {
+                "charcode": "0x2a1b", 
+                "title": "INTEGRAL WITH OVERBAR"
+            }, 
+            {
+                "charcode": "0x2a1c", 
+                "title": "INTEGRAL WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x2a1d", 
+                "title": "JOIN"
+            }, 
+            {
+                "charcode": "0x2a1e", 
+                "title": "LARGE LEFT TRIANGLE OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a1f", 
+                "title": "Z NOTATION SCHEMA COMPOSITION"
+            }, 
+            {
+                "charcode": "0x2a20", 
+                "title": "Z NOTATION SCHEMA PIPING"
+            }, 
+            {
+                "charcode": "0x2a21", 
+                "title": "Z NOTATION SCHEMA PROJECTION"
+            }, 
+            {
+                "charcode": "0x2a22", 
+                "title": "PLUS SIGN WITH SMALL CIRCLE ABOVE"
+            }, 
+            {
+                "charcode": "0x2a23", 
+                "title": "PLUS SIGN WITH CIRCUMFLEX ACCENT ABOVE"
+            }, 
+            {
+                "charcode": "0x2a24", 
+                "title": "PLUS SIGN WITH TILDE ABOVE"
+            }, 
+            {
+                "charcode": "0x2a25", 
+                "title": "PLUS SIGN WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x2a26", 
+                "title": "PLUS SIGN WITH TILDE BELOW"
+            }, 
+            {
+                "charcode": "0x2a27", 
+                "title": "PLUS SIGN WITH SUBSCRIPT TWO"
+            }, 
+            {
+                "charcode": "0x2a28", 
+                "title": "PLUS SIGN WITH BLACK TRIANGLE"
+            }, 
+            {
+                "charcode": "0x2a29", 
+                "title": "MINUS SIGN WITH COMMA ABOVE"
+            }, 
+            {
+                "charcode": "0x2a2a", 
+                "title": "MINUS SIGN WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x2a2b", 
+                "title": "MINUS SIGN WITH FALLING DOTS"
+            }, 
+            {
+                "charcode": "0x2a2c", 
+                "title": "MINUS SIGN WITH RISING DOTS"
+            }, 
+            {
+                "charcode": "0x2a2d", 
+                "title": "PLUS SIGN IN LEFT HALF CIRCLE"
+            }, 
+            {
+                "charcode": "0x2a2e", 
+                "title": "PLUS SIGN IN RIGHT HALF CIRCLE"
+            }, 
+            {
+                "charcode": "0x2a2f", 
+                "title": "VECTOR OR CROSS PRODUCT"
+            }, 
+            {
+                "charcode": "0x2a30", 
+                "title": "MULTIPLICATION SIGN WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x2a31", 
+                "title": "MULTIPLICATION SIGN WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x2a32", 
+                "title": "SEMIDIRECT PRODUCT WITH BOTTOM CLOSED"
+            }, 
+            {
+                "charcode": "0x2a33", 
+                "title": "SMASH PRODUCT"
+            }, 
+            {
+                "charcode": "0x2a34", 
+                "title": "MULTIPLICATION SIGN IN LEFT HALF CIRCLE"
+            }, 
+            {
+                "charcode": "0x2a35", 
+                "title": "MULTIPLICATION SIGN IN RIGHT HALF CIRCLE"
+            }, 
+            {
+                "charcode": "0x2a36", 
+                "title": "CIRCLED MULTIPLICATION SIGN WITH CIRCUMFLEX ACCENT"
+            }, 
+            {
+                "charcode": "0x2a37", 
+                "title": "MULTIPLICATION SIGN IN DOUBLE CIRCLE"
+            }, 
+            {
+                "charcode": "0x2a38", 
+                "title": "CIRCLED DIVISION SIGN"
+            }, 
+            {
+                "charcode": "0x2a39", 
+                "title": "PLUS SIGN IN TRIANGLE"
+            }, 
+            {
+                "charcode": "0x2a3a", 
+                "title": "MINUS SIGN IN TRIANGLE"
+            }, 
+            {
+                "charcode": "0x2a3b", 
+                "title": "MULTIPLICATION SIGN IN TRIANGLE"
+            }, 
+            {
+                "charcode": "0x2a3c", 
+                "title": "INTERIOR PRODUCT"
+            }, 
+            {
+                "charcode": "0x2a3d", 
+                "title": "RIGHTHAND INTERIOR PRODUCT"
+            }, 
+            {
+                "charcode": "0x2a3e", 
+                "title": "Z NOTATION RELATIONAL COMPOSITION"
+            }, 
+            {
+                "charcode": "0x2a3f", 
+                "title": "AMALGAMATION OR COPRODUCT"
+            }, 
+            {
+                "charcode": "0x2a40", 
+                "title": "INTERSECTION WITH DOT"
+            }, 
+            {
+                "charcode": "0x2a41", 
+                "title": "UNION WITH MINUS SIGN"
+            }, 
+            {
+                "charcode": "0x2a42", 
+                "title": "UNION WITH OVERBAR"
+            }, 
+            {
+                "charcode": "0x2a43", 
+                "title": "INTERSECTION WITH OVERBAR"
+            }, 
+            {
+                "charcode": "0x2a44", 
+                "title": "INTERSECTION WITH LOGICAL AND"
+            }, 
+            {
+                "charcode": "0x2a45", 
+                "title": "UNION WITH LOGICAL OR"
+            }, 
+            {
+                "charcode": "0x2a46", 
+                "title": "UNION ABOVE INTERSECTION"
+            }, 
+            {
+                "charcode": "0x2a47", 
+                "title": "INTERSECTION ABOVE UNION"
+            }, 
+            {
+                "charcode": "0x2a48", 
+                "title": "UNION ABOVE BAR ABOVE INTERSECTION"
+            }, 
+            {
+                "charcode": "0x2a49", 
+                "title": "INTERSECTION ABOVE BAR ABOVE UNION"
+            }, 
+            {
+                "charcode": "0x2a4a", 
+                "title": "UNION BESIDE AND JOINED WITH UNION"
+            }, 
+            {
+                "charcode": "0x2a4b", 
+                "title": "INTERSECTION BESIDE AND JOINED WITH INTERSECTION"
+            }, 
+            {
+                "charcode": "0x2a4c", 
+                "title": "CLOSED UNION WITH SERIFS"
+            }, 
+            {
+                "charcode": "0x2a4d", 
+                "title": "CLOSED INTERSECTION WITH SERIFS"
+            }, 
+            {
+                "charcode": "0x2a4e", 
+                "title": "DOUBLE SQUARE INTERSECTION"
+            }, 
+            {
+                "charcode": "0x2a4f", 
+                "title": "DOUBLE SQUARE UNION"
+            }, 
+            {
+                "charcode": "0x2a50", 
+                "title": "CLOSED UNION WITH SERIFS AND SMASH PRODUCT"
+            }, 
+            {
+                "charcode": "0x2a51", 
+                "title": "LOGICAL AND WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x2a52", 
+                "title": "LOGICAL OR WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x2a53", 
+                "title": "DOUBLE LOGICAL AND"
+            }, 
+            {
+                "charcode": "0x2a54", 
+                "title": "DOUBLE LOGICAL OR"
+            }, 
+            {
+                "charcode": "0x2a55", 
+                "title": "TWO INTERSECTING LOGICAL AND"
+            }, 
+            {
+                "charcode": "0x2a56", 
+                "title": "TWO INTERSECTING LOGICAL OR"
+            }, 
+            {
+                "charcode": "0x2a57", 
+                "title": "SLOPING LARGE OR"
+            }, 
+            {
+                "charcode": "0x2a58", 
+                "title": "SLOPING LARGE AND"
+            }, 
+            {
+                "charcode": "0x2a59", 
+                "title": "LOGICAL OR OVERLAPPING LOGICAL AND"
+            }, 
+            {
+                "charcode": "0x2a5a", 
+                "title": "LOGICAL AND WITH MIDDLE STEM"
+            }, 
+            {
+                "charcode": "0x2a5b", 
+                "title": "LOGICAL OR WITH MIDDLE STEM"
+            }, 
+            {
+                "charcode": "0x2a5c", 
+                "title": "LOGICAL AND WITH HORIZONTAL DASH"
+            }, 
+            {
+                "charcode": "0x2a5d", 
+                "title": "LOGICAL OR WITH HORIZONTAL DASH"
+            }, 
+            {
+                "charcode": "0x2a5e", 
+                "title": "LOGICAL AND WITH DOUBLE OVERBAR"
+            }, 
+            {
+                "charcode": "0x2a5f", 
+                "title": "LOGICAL AND WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x2a60", 
+                "title": "LOGICAL AND WITH DOUBLE UNDERBAR"
+            }, 
+            {
+                "charcode": "0x2a61", 
+                "title": "SMALL VEE WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x2a62", 
+                "title": "LOGICAL OR WITH DOUBLE OVERBAR"
+            }, 
+            {
+                "charcode": "0x2a63", 
+                "title": "LOGICAL OR WITH DOUBLE UNDERBAR"
+            }, 
+            {
+                "charcode": "0x2a64", 
+                "title": "Z NOTATION DOMAIN ANTIRESTRICTION"
+            }, 
+            {
+                "charcode": "0x2a65", 
+                "title": "Z NOTATION RANGE ANTIRESTRICTION"
+            }, 
+            {
+                "charcode": "0x2a66", 
+                "title": "EQUALS SIGN WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x2a67", 
+                "title": "IDENTICAL WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x2a68", 
+                "title": "TRIPLE HORIZONTAL BAR WITH DOUBLE VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2a69", 
+                "title": "TRIPLE HORIZONTAL BAR WITH TRIPLE VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2a6a", 
+                "title": "TILDE OPERATOR WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x2a6b", 
+                "title": "TILDE OPERATOR WITH RISING DOTS"
+            }, 
+            {
+                "charcode": "0x2a6c", 
+                "title": "SIMILAR MINUS SIMILAR"
+            }, 
+            {
+                "charcode": "0x2a6d", 
+                "title": "CONGRUENT WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x2a6e", 
+                "title": "EQUALS WITH ASTERISK"
+            }, 
+            {
+                "charcode": "0x2a6f", 
+                "title": "ALMOST EQUAL TO WITH CIRCUMFLEX ACCENT"
+            }, 
+            {
+                "charcode": "0x2a70", 
+                "title": "APPROXIMATELY EQUAL OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2a71", 
+                "title": "EQUALS SIGN ABOVE PLUS SIGN"
+            }, 
+            {
+                "charcode": "0x2a72", 
+                "title": "PLUS SIGN ABOVE EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x2a73", 
+                "title": "EQUALS SIGN ABOVE TILDE OPERATOR"
+            }, 
+            {
+                "charcode": "0x2a74", 
+                "title": "DOUBLE COLON EQUAL"
+            }, 
+            {
+                "charcode": "0x2a75", 
+                "title": "TWO CONSECUTIVE EQUALS SIGNS"
+            }, 
+            {
+                "charcode": "0x2a76", 
+                "title": "THREE CONSECUTIVE EQUALS SIGNS"
+            }, 
+            {
+                "charcode": "0x2a77", 
+                "title": "EQUALS SIGN WITH TWO DOTS ABOVE AND TWO DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x2a78", 
+                "title": "EQUIVALENT WITH FOUR DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x2a79", 
+                "title": "LESS-THAN WITH CIRCLE INSIDE"
+            }, 
+            {
+                "charcode": "0x2a7a", 
+                "title": "GREATER-THAN WITH CIRCLE INSIDE"
+            }, 
+            {
+                "charcode": "0x2a7b", 
+                "title": "LESS-THAN WITH QUESTION MARK ABOVE"
+            }, 
+            {
+                "charcode": "0x2a7c", 
+                "title": "GREATER-THAN WITH QUESTION MARK ABOVE"
+            }, 
+            {
+                "charcode": "0x2a7d", 
+                "title": "LESS-THAN OR SLANTED EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2a7e", 
+                "title": "GREATER-THAN OR SLANTED EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2a7f", 
+                "title": "LESS-THAN OR SLANTED EQUAL TO WITH DOT INSIDE"
+            }, 
+            {
+                "charcode": "0x2a80", 
+                "title": "GREATER-THAN OR SLANTED EQUAL TO WITH DOT INSIDE"
+            }, 
+            {
+                "charcode": "0x2a81", 
+                "title": "LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x2a82", 
+                "title": "GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x2a83", 
+                "title": "LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE RIGHT"
+            }, 
+            {
+                "charcode": "0x2a84", 
+                "title": "GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE LEFT"
+            }, 
+            {
+                "charcode": "0x2a85", 
+                "title": "LESS-THAN OR APPROXIMATE"
+            }, 
+            {
+                "charcode": "0x2a86", 
+                "title": "GREATER-THAN OR APPROXIMATE"
+            }, 
+            {
+                "charcode": "0x2a87", 
+                "title": "LESS-THAN AND SINGLE-LINE NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2a88", 
+                "title": "GREATER-THAN AND SINGLE-LINE NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2a89", 
+                "title": "LESS-THAN AND NOT APPROXIMATE"
+            }, 
+            {
+                "charcode": "0x2a8a", 
+                "title": "GREATER-THAN AND NOT APPROXIMATE"
+            }, 
+            {
+                "charcode": "0x2a8b", 
+                "title": "LESS-THAN ABOVE DOUBLE-LINE EQUAL ABOVE GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2a8c", 
+                "title": "GREATER-THAN ABOVE DOUBLE-LINE EQUAL ABOVE LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2a8d", 
+                "title": "LESS-THAN ABOVE SIMILAR OR EQUAL"
+            }, 
+            {
+                "charcode": "0x2a8e", 
+                "title": "GREATER-THAN ABOVE SIMILAR OR EQUAL"
+            }, 
+            {
+                "charcode": "0x2a8f", 
+                "title": "LESS-THAN ABOVE SIMILAR ABOVE GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2a90", 
+                "title": "GREATER-THAN ABOVE SIMILAR ABOVE LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2a91", 
+                "title": "LESS-THAN ABOVE GREATER-THAN ABOVE DOUBLE-LINE EQUAL"
+            }, 
+            {
+                "charcode": "0x2a92", 
+                "title": "GREATER-THAN ABOVE LESS-THAN ABOVE DOUBLE-LINE EQUAL"
+            }, 
+            {
+                "charcode": "0x2a93", 
+                "title": "LESS-THAN ABOVE SLANTED EQUAL ABOVE GREATER-THAN ABOVE SLANTED EQUAL"
+            }, 
+            {
+                "charcode": "0x2a94", 
+                "title": "GREATER-THAN ABOVE SLANTED EQUAL ABOVE LESS-THAN ABOVE SLANTED EQUAL"
+            }, 
+            {
+                "charcode": "0x2a95", 
+                "title": "SLANTED EQUAL TO OR LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2a96", 
+                "title": "SLANTED EQUAL TO OR GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2a97", 
+                "title": "SLANTED EQUAL TO OR LESS-THAN WITH DOT INSIDE"
+            }, 
+            {
+                "charcode": "0x2a98", 
+                "title": "SLANTED EQUAL TO OR GREATER-THAN WITH DOT INSIDE"
+            }, 
+            {
+                "charcode": "0x2a99", 
+                "title": "DOUBLE-LINE EQUAL TO OR LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2a9a", 
+                "title": "DOUBLE-LINE EQUAL TO OR GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2a9b", 
+                "title": "DOUBLE-LINE SLANTED EQUAL TO OR LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2a9c", 
+                "title": "DOUBLE-LINE SLANTED EQUAL TO OR GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2a9d", 
+                "title": "SIMILAR OR LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2a9e", 
+                "title": "SIMILAR OR GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2a9f", 
+                "title": "SIMILAR ABOVE LESS-THAN ABOVE EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x2aa0", 
+                "title": "SIMILAR ABOVE GREATER-THAN ABOVE EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x2aa1", 
+                "title": "DOUBLE NESTED LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2aa2", 
+                "title": "DOUBLE NESTED GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2aa3", 
+                "title": "DOUBLE NESTED LESS-THAN WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x2aa4", 
+                "title": "GREATER-THAN OVERLAPPING LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2aa5", 
+                "title": "GREATER-THAN BESIDE LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2aa6", 
+                "title": "LESS-THAN CLOSED BY CURVE"
+            }, 
+            {
+                "charcode": "0x2aa7", 
+                "title": "GREATER-THAN CLOSED BY CURVE"
+            }, 
+            {
+                "charcode": "0x2aa8", 
+                "title": "LESS-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL"
+            }, 
+            {
+                "charcode": "0x2aa9", 
+                "title": "GREATER-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL"
+            }, 
+            {
+                "charcode": "0x2aaa", 
+                "title": "SMALLER THAN"
+            }, 
+            {
+                "charcode": "0x2aab", 
+                "title": "LARGER THAN"
+            }, 
+            {
+                "charcode": "0x2aac", 
+                "title": "SMALLER THAN OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2aad", 
+                "title": "LARGER THAN OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2aae", 
+                "title": "EQUALS SIGN WITH BUMPY ABOVE"
+            }, 
+            {
+                "charcode": "0x2aaf", 
+                "title": "PRECEDES ABOVE SINGLE-LINE EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x2ab0", 
+                "title": "SUCCEEDS ABOVE SINGLE-LINE EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x2ab1", 
+                "title": "PRECEDES ABOVE SINGLE-LINE NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2ab2", 
+                "title": "SUCCEEDS ABOVE SINGLE-LINE NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2ab3", 
+                "title": "PRECEDES ABOVE EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x2ab4", 
+                "title": "SUCCEEDS ABOVE EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x2ab5", 
+                "title": "PRECEDES ABOVE NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2ab6", 
+                "title": "SUCCEEDS ABOVE NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2ab7", 
+                "title": "PRECEDES ABOVE ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2ab8", 
+                "title": "SUCCEEDS ABOVE ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2ab9", 
+                "title": "PRECEDES ABOVE NOT ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2aba", 
+                "title": "SUCCEEDS ABOVE NOT ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2abb", 
+                "title": "DOUBLE PRECEDES"
+            }, 
+            {
+                "charcode": "0x2abc", 
+                "title": "DOUBLE SUCCEEDS"
+            }, 
+            {
+                "charcode": "0x2abd", 
+                "title": "SUBSET WITH DOT"
+            }, 
+            {
+                "charcode": "0x2abe", 
+                "title": "SUPERSET WITH DOT"
+            }, 
+            {
+                "charcode": "0x2abf", 
+                "title": "SUBSET WITH PLUS SIGN BELOW"
+            }, 
+            {
+                "charcode": "0x2ac0", 
+                "title": "SUPERSET WITH PLUS SIGN BELOW"
+            }, 
+            {
+                "charcode": "0x2ac1", 
+                "title": "SUBSET WITH MULTIPLICATION SIGN BELOW"
+            }, 
+            {
+                "charcode": "0x2ac2", 
+                "title": "SUPERSET WITH MULTIPLICATION SIGN BELOW"
+            }, 
+            {
+                "charcode": "0x2ac3", 
+                "title": "SUBSET OF OR EQUAL TO WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x2ac4", 
+                "title": "SUPERSET OF OR EQUAL TO WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x2ac5", 
+                "title": "SUBSET OF ABOVE EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x2ac6", 
+                "title": "SUPERSET OF ABOVE EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x2ac7", 
+                "title": "SUBSET OF ABOVE TILDE OPERATOR"
+            }, 
+            {
+                "charcode": "0x2ac8", 
+                "title": "SUPERSET OF ABOVE TILDE OPERATOR"
+            }, 
+            {
+                "charcode": "0x2ac9", 
+                "title": "SUBSET OF ABOVE ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2aca", 
+                "title": "SUPERSET OF ABOVE ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2acb", 
+                "title": "SUBSET OF ABOVE NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2acc", 
+                "title": "SUPERSET OF ABOVE NOT EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2acd", 
+                "title": "SQUARE LEFT OPEN BOX OPERATOR"
+            }, 
+            {
+                "charcode": "0x2ace", 
+                "title": "SQUARE RIGHT OPEN BOX OPERATOR"
+            }, 
+            {
+                "charcode": "0x2acf", 
+                "title": "CLOSED SUBSET"
+            }, 
+            {
+                "charcode": "0x2ad0", 
+                "title": "CLOSED SUPERSET"
+            }, 
+            {
+                "charcode": "0x2ad1", 
+                "title": "CLOSED SUBSET OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2ad2", 
+                "title": "CLOSED SUPERSET OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2ad3", 
+                "title": "SUBSET ABOVE SUPERSET"
+            }, 
+            {
+                "charcode": "0x2ad4", 
+                "title": "SUPERSET ABOVE SUBSET"
+            }, 
+            {
+                "charcode": "0x2ad5", 
+                "title": "SUBSET ABOVE SUBSET"
+            }, 
+            {
+                "charcode": "0x2ad6", 
+                "title": "SUPERSET ABOVE SUPERSET"
+            }, 
+            {
+                "charcode": "0x2ad7", 
+                "title": "SUPERSET BESIDE SUBSET"
+            }, 
+            {
+                "charcode": "0x2ad8", 
+                "title": "SUPERSET BESIDE AND JOINED BY DASH WITH SUBSET"
+            }, 
+            {
+                "charcode": "0x2ad9", 
+                "title": "ELEMENT OF OPENING DOWNWARDS"
+            }, 
+            {
+                "charcode": "0x2ada", 
+                "title": "PITCHFORK WITH TEE TOP"
+            }, 
+            {
+                "charcode": "0x2adb", 
+                "title": "TRANSVERSAL INTERSECTION"
+            }, 
+            {
+                "charcode": "0x2adc", 
+                "title": "FORKING"
+            }, 
+            {
+                "charcode": "0x2add", 
+                "title": "NONFORKING"
+            }, 
+            {
+                "charcode": "0x2ade", 
+                "title": "SHORT LEFT TACK"
+            }, 
+            {
+                "charcode": "0x2adf", 
+                "title": "SHORT DOWN TACK"
+            }, 
+            {
+                "charcode": "0x2ae0", 
+                "title": "SHORT UP TACK"
+            }, 
+            {
+                "charcode": "0x2ae1", 
+                "title": "PERPENDICULAR WITH S"
+            }, 
+            {
+                "charcode": "0x2ae2", 
+                "title": "VERTICAL BAR TRIPLE RIGHT TURNSTILE"
+            }, 
+            {
+                "charcode": "0x2ae3", 
+                "title": "DOUBLE VERTICAL BAR LEFT TURNSTILE"
+            }, 
+            {
+                "charcode": "0x2ae4", 
+                "title": "VERTICAL BAR DOUBLE LEFT TURNSTILE"
+            }, 
+            {
+                "charcode": "0x2ae5", 
+                "title": "DOUBLE VERTICAL BAR DOUBLE LEFT TURNSTILE"
+            }, 
+            {
+                "charcode": "0x2ae6", 
+                "title": "LONG DASH FROM LEFT MEMBER OF DOUBLE VERTICAL"
+            }, 
+            {
+                "charcode": "0x2ae7", 
+                "title": "SHORT DOWN TACK WITH OVERBAR"
+            }, 
+            {
+                "charcode": "0x2ae8", 
+                "title": "SHORT UP TACK WITH UNDERBAR"
+            }, 
+            {
+                "charcode": "0x2ae9", 
+                "title": "SHORT UP TACK ABOVE SHORT DOWN TACK"
+            }, 
+            {
+                "charcode": "0x2aea", 
+                "title": "DOUBLE DOWN TACK"
+            }, 
+            {
+                "charcode": "0x2aeb", 
+                "title": "DOUBLE UP TACK"
+            }, 
+            {
+                "charcode": "0x2aec", 
+                "title": "DOUBLE STROKE NOT SIGN"
+            }, 
+            {
+                "charcode": "0x2aed", 
+                "title": "REVERSED DOUBLE STROKE NOT SIGN"
+            }, 
+            {
+                "charcode": "0x2aee", 
+                "title": "DOES NOT DIVIDE WITH REVERSED NEGATION SLASH"
+            }, 
+            {
+                "charcode": "0x2aef", 
+                "title": "VERTICAL LINE WITH CIRCLE ABOVE"
+            }, 
+            {
+                "charcode": "0x2af0", 
+                "title": "VERTICAL LINE WITH CIRCLE BELOW"
+            }, 
+            {
+                "charcode": "0x2af1", 
+                "title": "DOWN TACK WITH CIRCLE BELOW"
+            }, 
+            {
+                "charcode": "0x2af2", 
+                "title": "PARALLEL WITH HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x2af3", 
+                "title": "PARALLEL WITH TILDE OPERATOR"
+            }, 
+            {
+                "charcode": "0x2af4", 
+                "title": "TRIPLE VERTICAL BAR BINARY RELATION"
+            }, 
+            {
+                "charcode": "0x2af5", 
+                "title": "TRIPLE VERTICAL BAR WITH HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x2af6", 
+                "title": "TRIPLE COLON OPERATOR"
+            }, 
+            {
+                "charcode": "0x2af7", 
+                "title": "TRIPLE NESTED LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2af8", 
+                "title": "TRIPLE NESTED GREATER-THAN"
+            }, 
+            {
+                "charcode": "0x2af9", 
+                "title": "DOUBLE-LINE SLANTED LESS-THAN OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2afa", 
+                "title": "DOUBLE-LINE SLANTED GREATER-THAN OR EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2afb", 
+                "title": "TRIPLE SOLIDUS BINARY RELATION"
+            }, 
+            {
+                "charcode": "0x2afc", 
+                "title": "LARGE TRIPLE VERTICAL BAR OPERATOR"
+            }, 
+            {
+                "charcode": "0x2afd", 
+                "title": "DOUBLE SOLIDUS OPERATOR"
+            }, 
+            {
+                "charcode": "0x2afe", 
+                "title": "WHITE VERTICAL BAR"
+            }
+        ], 
+        "name": "Supplemental Mathematical Operators"
+    }
+]

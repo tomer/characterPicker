@@ -1,0 +1,343 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xa81", 
+                "title": "GUJARATI SIGN CANDRABINDU"
+            }, 
+            {
+                "charcode": "0xa82", 
+                "title": "GUJARATI SIGN ANUSVARA"
+            }, 
+            {
+                "charcode": "0xa83", 
+                "title": "GUJARATI SIGN VISARGA"
+            }, 
+            {
+                "charcode": "0xa85", 
+                "title": "GUJARATI LETTER A"
+            }, 
+            {
+                "charcode": "0xa86", 
+                "title": "GUJARATI LETTER AA"
+            }, 
+            {
+                "charcode": "0xa87", 
+                "title": "GUJARATI LETTER I"
+            }, 
+            {
+                "charcode": "0xa88", 
+                "title": "GUJARATI LETTER II"
+            }, 
+            {
+                "charcode": "0xa89", 
+                "title": "GUJARATI LETTER U"
+            }, 
+            {
+                "charcode": "0xa8a", 
+                "title": "GUJARATI LETTER UU"
+            }, 
+            {
+                "charcode": "0xa8b", 
+                "title": "GUJARATI LETTER VOCALIC R"
+            }, 
+            {
+                "charcode": "0xa8c", 
+                "title": "GUJARATI LETTER VOCALIC L"
+            }, 
+            {
+                "charcode": "0xa8d", 
+                "title": "GUJARATI VOWEL CANDRA E"
+            }, 
+            {
+                "charcode": "0xa8f", 
+                "title": "GUJARATI LETTER E"
+            }, 
+            {
+                "charcode": "0xa90", 
+                "title": "GUJARATI LETTER AI"
+            }, 
+            {
+                "charcode": "0xa91", 
+                "title": "GUJARATI VOWEL CANDRA O"
+            }, 
+            {
+                "charcode": "0xa93", 
+                "title": "GUJARATI LETTER O"
+            }, 
+            {
+                "charcode": "0xa94", 
+                "title": "GUJARATI LETTER AU"
+            }, 
+            {
+                "charcode": "0xa95", 
+                "title": "GUJARATI LETTER KA"
+            }, 
+            {
+                "charcode": "0xa96", 
+                "title": "GUJARATI LETTER KHA"
+            }, 
+            {
+                "charcode": "0xa97", 
+                "title": "GUJARATI LETTER GA"
+            }, 
+            {
+                "charcode": "0xa98", 
+                "title": "GUJARATI LETTER GHA"
+            }, 
+            {
+                "charcode": "0xa99", 
+                "title": "GUJARATI LETTER NGA"
+            }, 
+            {
+                "charcode": "0xa9a", 
+                "title": "GUJARATI LETTER CA"
+            }, 
+            {
+                "charcode": "0xa9b", 
+                "title": "GUJARATI LETTER CHA"
+            }, 
+            {
+                "charcode": "0xa9c", 
+                "title": "GUJARATI LETTER JA"
+            }, 
+            {
+                "charcode": "0xa9d", 
+                "title": "GUJARATI LETTER JHA"
+            }, 
+            {
+                "charcode": "0xa9e", 
+                "title": "GUJARATI LETTER NYA"
+            }, 
+            {
+                "charcode": "0xa9f", 
+                "title": "GUJARATI LETTER TTA"
+            }, 
+            {
+                "charcode": "0xaa0", 
+                "title": "GUJARATI LETTER TTHA"
+            }, 
+            {
+                "charcode": "0xaa1", 
+                "title": "GUJARATI LETTER DDA"
+            }, 
+            {
+                "charcode": "0xaa2", 
+                "title": "GUJARATI LETTER DDHA"
+            }, 
+            {
+                "charcode": "0xaa3", 
+                "title": "GUJARATI LETTER NNA"
+            }, 
+            {
+                "charcode": "0xaa4", 
+                "title": "GUJARATI LETTER TA"
+            }, 
+            {
+                "charcode": "0xaa5", 
+                "title": "GUJARATI LETTER THA"
+            }, 
+            {
+                "charcode": "0xaa6", 
+                "title": "GUJARATI LETTER DA"
+            }, 
+            {
+                "charcode": "0xaa7", 
+                "title": "GUJARATI LETTER DHA"
+            }, 
+            {
+                "charcode": "0xaa8", 
+                "title": "GUJARATI LETTER NA"
+            }, 
+            {
+                "charcode": "0xaaa", 
+                "title": "GUJARATI LETTER PA"
+            }, 
+            {
+                "charcode": "0xaab", 
+                "title": "GUJARATI LETTER PHA"
+            }, 
+            {
+                "charcode": "0xaac", 
+                "title": "GUJARATI LETTER BA"
+            }, 
+            {
+                "charcode": "0xaad", 
+                "title": "GUJARATI LETTER BHA"
+            }, 
+            {
+                "charcode": "0xaae", 
+                "title": "GUJARATI LETTER MA"
+            }, 
+            {
+                "charcode": "0xaaf", 
+                "title": "GUJARATI LETTER YA"
+            }, 
+            {
+                "charcode": "0xab0", 
+                "title": "GUJARATI LETTER RA"
+            }, 
+            {
+                "charcode": "0xab2", 
+                "title": "GUJARATI LETTER LA"
+            }, 
+            {
+                "charcode": "0xab3", 
+                "title": "GUJARATI LETTER LLA"
+            }, 
+            {
+                "charcode": "0xab5", 
+                "title": "GUJARATI LETTER VA"
+            }, 
+            {
+                "charcode": "0xab6", 
+                "title": "GUJARATI LETTER SHA"
+            }, 
+            {
+                "charcode": "0xab7", 
+                "title": "GUJARATI LETTER SSA"
+            }, 
+            {
+                "charcode": "0xab8", 
+                "title": "GUJARATI LETTER SA"
+            }, 
+            {
+                "charcode": "0xab9", 
+                "title": "GUJARATI LETTER HA"
+            }, 
+            {
+                "charcode": "0xabc", 
+                "title": "GUJARATI SIGN NUKTA"
+            }, 
+            {
+                "charcode": "0xabd", 
+                "title": "GUJARATI SIGN AVAGRAHA"
+            }, 
+            {
+                "charcode": "0xabe", 
+                "title": "GUJARATI VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0xabf", 
+                "title": "GUJARATI VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0xac0", 
+                "title": "GUJARATI VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0xac1", 
+                "title": "GUJARATI VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0xac2", 
+                "title": "GUJARATI VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0xac3", 
+                "title": "GUJARATI VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "charcode": "0xac4", 
+                "title": "GUJARATI VOWEL SIGN VOCALIC RR"
+            }, 
+            {
+                "charcode": "0xac5", 
+                "title": "GUJARATI VOWEL SIGN CANDRA E"
+            }, 
+            {
+                "charcode": "0xac7", 
+                "title": "GUJARATI VOWEL SIGN E"
+            }, 
+            {
+                "charcode": "0xac8", 
+                "title": "GUJARATI VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0xac9", 
+                "title": "GUJARATI VOWEL SIGN CANDRA O"
+            }, 
+            {
+                "charcode": "0xacb", 
+                "title": "GUJARATI VOWEL SIGN O"
+            }, 
+            {
+                "charcode": "0xacc", 
+                "title": "GUJARATI VOWEL SIGN AU"
+            }, 
+            {
+                "charcode": "0xacd", 
+                "title": "GUJARATI SIGN VIRAMA"
+            }, 
+            {
+                "charcode": "0xad0", 
+                "title": "GUJARATI OM"
+            }, 
+            {
+                "charcode": "0xae0", 
+                "title": "GUJARATI LETTER VOCALIC RR"
+            }, 
+            {
+                "charcode": "0xae1", 
+                "title": "GUJARATI LETTER VOCALIC LL"
+            }, 
+            {
+                "charcode": "0xae2", 
+                "title": "GUJARATI VOWEL SIGN VOCALIC L"
+            }, 
+            {
+                "charcode": "0xae3", 
+                "title": "GUJARATI VOWEL SIGN VOCALIC LL"
+            }, 
+            {
+                "charcode": "0xae6", 
+                "title": "GUJARATI DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0xae7", 
+                "title": "GUJARATI DIGIT ONE"
+            }, 
+            {
+                "charcode": "0xae8", 
+                "title": "GUJARATI DIGIT TWO"
+            }, 
+            {
+                "charcode": "0xae9", 
+                "title": "GUJARATI DIGIT THREE"
+            }, 
+            {
+                "charcode": "0xaea", 
+                "title": "GUJARATI DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0xaeb", 
+                "title": "GUJARATI DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0xaec", 
+                "title": "GUJARATI DIGIT SIX"
+            }, 
+            {
+                "charcode": "0xaed", 
+                "title": "GUJARATI DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0xaee", 
+                "title": "GUJARATI DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0xaef", 
+                "title": "GUJARATI DIGIT NINE"
+            }, 
+            {
+                "charcode": "0xaf0", 
+                "title": "GUJARATI ABBREVIATION SIGN"
+            }, 
+            {
+                "charcode": "0xaf1", 
+                "title": "GUJARATI RUPEE SIGN"
+            }
+        ], 
+        "name": "Gujarati"
+    }
+]

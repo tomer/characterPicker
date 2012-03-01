@@ -1,0 +1,2563 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1400", 
+                "title": "CANADIAN SYLLABICS HYPHEN"
+            }, 
+            {
+                "charcode": "0x1401", 
+                "title": "CANADIAN SYLLABICS E"
+            }, 
+            {
+                "charcode": "0x1402", 
+                "title": "CANADIAN SYLLABICS AAI"
+            }, 
+            {
+                "charcode": "0x1403", 
+                "title": "CANADIAN SYLLABICS I"
+            }, 
+            {
+                "charcode": "0x1404", 
+                "title": "CANADIAN SYLLABICS II"
+            }, 
+            {
+                "charcode": "0x1405", 
+                "title": "CANADIAN SYLLABICS O"
+            }, 
+            {
+                "charcode": "0x1406", 
+                "title": "CANADIAN SYLLABICS OO"
+            }, 
+            {
+                "charcode": "0x1407", 
+                "title": "CANADIAN SYLLABICS Y-CREE OO"
+            }, 
+            {
+                "charcode": "0x1408", 
+                "title": "CANADIAN SYLLABICS CARRIER EE"
+            }, 
+            {
+                "charcode": "0x1409", 
+                "title": "CANADIAN SYLLABICS CARRIER I"
+            }, 
+            {
+                "charcode": "0x140a", 
+                "title": "CANADIAN SYLLABICS A"
+            }, 
+            {
+                "charcode": "0x140b", 
+                "title": "CANADIAN SYLLABICS AA"
+            }, 
+            {
+                "charcode": "0x140c", 
+                "title": "CANADIAN SYLLABICS WE"
+            }, 
+            {
+                "charcode": "0x140d", 
+                "title": "CANADIAN SYLLABICS WEST-CREE WE"
+            }, 
+            {
+                "charcode": "0x140e", 
+                "title": "CANADIAN SYLLABICS WI"
+            }, 
+            {
+                "charcode": "0x140f", 
+                "title": "CANADIAN SYLLABICS WEST-CREE WI"
+            }, 
+            {
+                "charcode": "0x1410", 
+                "title": "CANADIAN SYLLABICS WII"
+            }, 
+            {
+                "charcode": "0x1411", 
+                "title": "CANADIAN SYLLABICS WEST-CREE WII"
+            }, 
+            {
+                "charcode": "0x1412", 
+                "title": "CANADIAN SYLLABICS WO"
+            }, 
+            {
+                "charcode": "0x1413", 
+                "title": "CANADIAN SYLLABICS WEST-CREE WO"
+            }, 
+            {
+                "charcode": "0x1414", 
+                "title": "CANADIAN SYLLABICS WOO"
+            }, 
+            {
+                "charcode": "0x1415", 
+                "title": "CANADIAN SYLLABICS WEST-CREE WOO"
+            }, 
+            {
+                "charcode": "0x1416", 
+                "title": "CANADIAN SYLLABICS NASKAPI WOO"
+            }, 
+            {
+                "charcode": "0x1417", 
+                "title": "CANADIAN SYLLABICS WA"
+            }, 
+            {
+                "charcode": "0x1418", 
+                "title": "CANADIAN SYLLABICS WEST-CREE WA"
+            }, 
+            {
+                "charcode": "0x1419", 
+                "title": "CANADIAN SYLLABICS WAA"
+            }, 
+            {
+                "charcode": "0x141a", 
+                "title": "CANADIAN SYLLABICS WEST-CREE WAA"
+            }, 
+            {
+                "charcode": "0x141b", 
+                "title": "CANADIAN SYLLABICS NASKAPI WAA"
+            }, 
+            {
+                "charcode": "0x141c", 
+                "title": "CANADIAN SYLLABICS AI"
+            }, 
+            {
+                "charcode": "0x141d", 
+                "title": "CANADIAN SYLLABICS Y-CREE W"
+            }, 
+            {
+                "charcode": "0x141e", 
+                "title": "CANADIAN SYLLABICS GLOTTAL STOP"
+            }, 
+            {
+                "charcode": "0x141f", 
+                "title": "CANADIAN SYLLABICS FINAL ACUTE"
+            }, 
+            {
+                "charcode": "0x1420", 
+                "title": "CANADIAN SYLLABICS FINAL GRAVE"
+            }, 
+            {
+                "charcode": "0x1421", 
+                "title": "CANADIAN SYLLABICS FINAL BOTTOM HALF RING"
+            }, 
+            {
+                "charcode": "0x1422", 
+                "title": "CANADIAN SYLLABICS FINAL TOP HALF RING"
+            }, 
+            {
+                "charcode": "0x1423", 
+                "title": "CANADIAN SYLLABICS FINAL RIGHT HALF RING"
+            }, 
+            {
+                "charcode": "0x1424", 
+                "title": "CANADIAN SYLLABICS FINAL RING"
+            }, 
+            {
+                "charcode": "0x1425", 
+                "title": "CANADIAN SYLLABICS FINAL DOUBLE ACUTE"
+            }, 
+            {
+                "charcode": "0x1426", 
+                "title": "CANADIAN SYLLABICS FINAL DOUBLE SHORT VERTICAL STROKES"
+            }, 
+            {
+                "charcode": "0x1427", 
+                "title": "CANADIAN SYLLABICS FINAL MIDDLE DOT"
+            }, 
+            {
+                "charcode": "0x1428", 
+                "title": "CANADIAN SYLLABICS FINAL SHORT HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x1429", 
+                "title": "CANADIAN SYLLABICS FINAL PLUS"
+            }, 
+            {
+                "charcode": "0x142a", 
+                "title": "CANADIAN SYLLABICS FINAL DOWN TACK"
+            }, 
+            {
+                "charcode": "0x142b", 
+                "title": "CANADIAN SYLLABICS EN"
+            }, 
+            {
+                "charcode": "0x142c", 
+                "title": "CANADIAN SYLLABICS IN"
+            }, 
+            {
+                "charcode": "0x142d", 
+                "title": "CANADIAN SYLLABICS ON"
+            }, 
+            {
+                "charcode": "0x142e", 
+                "title": "CANADIAN SYLLABICS AN"
+            }, 
+            {
+                "charcode": "0x142f", 
+                "title": "CANADIAN SYLLABICS PE"
+            }, 
+            {
+                "charcode": "0x1430", 
+                "title": "CANADIAN SYLLABICS PAAI"
+            }, 
+            {
+                "charcode": "0x1431", 
+                "title": "CANADIAN SYLLABICS PI"
+            }, 
+            {
+                "charcode": "0x1432", 
+                "title": "CANADIAN SYLLABICS PII"
+            }, 
+            {
+                "charcode": "0x1433", 
+                "title": "CANADIAN SYLLABICS PO"
+            }, 
+            {
+                "charcode": "0x1434", 
+                "title": "CANADIAN SYLLABICS POO"
+            }, 
+            {
+                "charcode": "0x1435", 
+                "title": "CANADIAN SYLLABICS Y-CREE POO"
+            }, 
+            {
+                "charcode": "0x1436", 
+                "title": "CANADIAN SYLLABICS CARRIER HEE"
+            }, 
+            {
+                "charcode": "0x1437", 
+                "title": "CANADIAN SYLLABICS CARRIER HI"
+            }, 
+            {
+                "charcode": "0x1438", 
+                "title": "CANADIAN SYLLABICS PA"
+            }, 
+            {
+                "charcode": "0x1439", 
+                "title": "CANADIAN SYLLABICS PAA"
+            }, 
+            {
+                "charcode": "0x143a", 
+                "title": "CANADIAN SYLLABICS PWE"
+            }, 
+            {
+                "charcode": "0x143b", 
+                "title": "CANADIAN SYLLABICS WEST-CREE PWE"
+            }, 
+            {
+                "charcode": "0x143c", 
+                "title": "CANADIAN SYLLABICS PWI"
+            }, 
+            {
+                "charcode": "0x143d", 
+                "title": "CANADIAN SYLLABICS WEST-CREE PWI"
+            }, 
+            {
+                "charcode": "0x143e", 
+                "title": "CANADIAN SYLLABICS PWII"
+            }, 
+            {
+                "charcode": "0x143f", 
+                "title": "CANADIAN SYLLABICS WEST-CREE PWII"
+            }, 
+            {
+                "charcode": "0x1440", 
+                "title": "CANADIAN SYLLABICS PWO"
+            }, 
+            {
+                "charcode": "0x1441", 
+                "title": "CANADIAN SYLLABICS WEST-CREE PWO"
+            }, 
+            {
+                "charcode": "0x1442", 
+                "title": "CANADIAN SYLLABICS PWOO"
+            }, 
+            {
+                "charcode": "0x1443", 
+                "title": "CANADIAN SYLLABICS WEST-CREE PWOO"
+            }, 
+            {
+                "charcode": "0x1444", 
+                "title": "CANADIAN SYLLABICS PWA"
+            }, 
+            {
+                "charcode": "0x1445", 
+                "title": "CANADIAN SYLLABICS WEST-CREE PWA"
+            }, 
+            {
+                "charcode": "0x1446", 
+                "title": "CANADIAN SYLLABICS PWAA"
+            }, 
+            {
+                "charcode": "0x1447", 
+                "title": "CANADIAN SYLLABICS WEST-CREE PWAA"
+            }, 
+            {
+                "charcode": "0x1448", 
+                "title": "CANADIAN SYLLABICS Y-CREE PWAA"
+            }, 
+            {
+                "charcode": "0x1449", 
+                "title": "CANADIAN SYLLABICS P"
+            }, 
+            {
+                "charcode": "0x144a", 
+                "title": "CANADIAN SYLLABICS WEST-CREE P"
+            }, 
+            {
+                "charcode": "0x144b", 
+                "title": "CANADIAN SYLLABICS CARRIER H"
+            }, 
+            {
+                "charcode": "0x144c", 
+                "title": "CANADIAN SYLLABICS TE"
+            }, 
+            {
+                "charcode": "0x144d", 
+                "title": "CANADIAN SYLLABICS TAAI"
+            }, 
+            {
+                "charcode": "0x144e", 
+                "title": "CANADIAN SYLLABICS TI"
+            }, 
+            {
+                "charcode": "0x144f", 
+                "title": "CANADIAN SYLLABICS TII"
+            }, 
+            {
+                "charcode": "0x1450", 
+                "title": "CANADIAN SYLLABICS TO"
+            }, 
+            {
+                "charcode": "0x1451", 
+                "title": "CANADIAN SYLLABICS TOO"
+            }, 
+            {
+                "charcode": "0x1452", 
+                "title": "CANADIAN SYLLABICS Y-CREE TOO"
+            }, 
+            {
+                "charcode": "0x1453", 
+                "title": "CANADIAN SYLLABICS CARRIER DEE"
+            }, 
+            {
+                "charcode": "0x1454", 
+                "title": "CANADIAN SYLLABICS CARRIER DI"
+            }, 
+            {
+                "charcode": "0x1455", 
+                "title": "CANADIAN SYLLABICS TA"
+            }, 
+            {
+                "charcode": "0x1456", 
+                "title": "CANADIAN SYLLABICS TAA"
+            }, 
+            {
+                "charcode": "0x1457", 
+                "title": "CANADIAN SYLLABICS TWE"
+            }, 
+            {
+                "charcode": "0x1458", 
+                "title": "CANADIAN SYLLABICS WEST-CREE TWE"
+            }, 
+            {
+                "charcode": "0x1459", 
+                "title": "CANADIAN SYLLABICS TWI"
+            }, 
+            {
+                "charcode": "0x145a", 
+                "title": "CANADIAN SYLLABICS WEST-CREE TWI"
+            }, 
+            {
+                "charcode": "0x145b", 
+                "title": "CANADIAN SYLLABICS TWII"
+            }, 
+            {
+                "charcode": "0x145c", 
+                "title": "CANADIAN SYLLABICS WEST-CREE TWII"
+            }, 
+            {
+                "charcode": "0x145d", 
+                "title": "CANADIAN SYLLABICS TWO"
+            }, 
+            {
+                "charcode": "0x145e", 
+                "title": "CANADIAN SYLLABICS WEST-CREE TWO"
+            }, 
+            {
+                "charcode": "0x145f", 
+                "title": "CANADIAN SYLLABICS TWOO"
+            }, 
+            {
+                "charcode": "0x1460", 
+                "title": "CANADIAN SYLLABICS WEST-CREE TWOO"
+            }, 
+            {
+                "charcode": "0x1461", 
+                "title": "CANADIAN SYLLABICS TWA"
+            }, 
+            {
+                "charcode": "0x1462", 
+                "title": "CANADIAN SYLLABICS WEST-CREE TWA"
+            }, 
+            {
+                "charcode": "0x1463", 
+                "title": "CANADIAN SYLLABICS TWAA"
+            }, 
+            {
+                "charcode": "0x1464", 
+                "title": "CANADIAN SYLLABICS WEST-CREE TWAA"
+            }, 
+            {
+                "charcode": "0x1465", 
+                "title": "CANADIAN SYLLABICS NASKAPI TWAA"
+            }, 
+            {
+                "charcode": "0x1466", 
+                "title": "CANADIAN SYLLABICS T"
+            }, 
+            {
+                "charcode": "0x1467", 
+                "title": "CANADIAN SYLLABICS TTE"
+            }, 
+            {
+                "charcode": "0x1468", 
+                "title": "CANADIAN SYLLABICS TTI"
+            }, 
+            {
+                "charcode": "0x1469", 
+                "title": "CANADIAN SYLLABICS TTO"
+            }, 
+            {
+                "charcode": "0x146a", 
+                "title": "CANADIAN SYLLABICS TTA"
+            }, 
+            {
+                "charcode": "0x146b", 
+                "title": "CANADIAN SYLLABICS KE"
+            }, 
+            {
+                "charcode": "0x146c", 
+                "title": "CANADIAN SYLLABICS KAAI"
+            }, 
+            {
+                "charcode": "0x146d", 
+                "title": "CANADIAN SYLLABICS KI"
+            }, 
+            {
+                "charcode": "0x146e", 
+                "title": "CANADIAN SYLLABICS KII"
+            }, 
+            {
+                "charcode": "0x146f", 
+                "title": "CANADIAN SYLLABICS KO"
+            }, 
+            {
+                "charcode": "0x1470", 
+                "title": "CANADIAN SYLLABICS KOO"
+            }, 
+            {
+                "charcode": "0x1471", 
+                "title": "CANADIAN SYLLABICS Y-CREE KOO"
+            }, 
+            {
+                "charcode": "0x1472", 
+                "title": "CANADIAN SYLLABICS KA"
+            }, 
+            {
+                "charcode": "0x1473", 
+                "title": "CANADIAN SYLLABICS KAA"
+            }, 
+            {
+                "charcode": "0x1474", 
+                "title": "CANADIAN SYLLABICS KWE"
+            }, 
+            {
+                "charcode": "0x1475", 
+                "title": "CANADIAN SYLLABICS WEST-CREE KWE"
+            }, 
+            {
+                "charcode": "0x1476", 
+                "title": "CANADIAN SYLLABICS KWI"
+            }, 
+            {
+                "charcode": "0x1477", 
+                "title": "CANADIAN SYLLABICS WEST-CREE KWI"
+            }, 
+            {
+                "charcode": "0x1478", 
+                "title": "CANADIAN SYLLABICS KWII"
+            }, 
+            {
+                "charcode": "0x1479", 
+                "title": "CANADIAN SYLLABICS WEST-CREE KWII"
+            }, 
+            {
+                "charcode": "0x147a", 
+                "title": "CANADIAN SYLLABICS KWO"
+            }, 
+            {
+                "charcode": "0x147b", 
+                "title": "CANADIAN SYLLABICS WEST-CREE KWO"
+            }, 
+            {
+                "charcode": "0x147c", 
+                "title": "CANADIAN SYLLABICS KWOO"
+            }, 
+            {
+                "charcode": "0x147d", 
+                "title": "CANADIAN SYLLABICS WEST-CREE KWOO"
+            }, 
+            {
+                "charcode": "0x147e", 
+                "title": "CANADIAN SYLLABICS KWA"
+            }, 
+            {
+                "charcode": "0x147f", 
+                "title": "CANADIAN SYLLABICS WEST-CREE KWA"
+            }, 
+            {
+                "charcode": "0x1480", 
+                "title": "CANADIAN SYLLABICS KWAA"
+            }, 
+            {
+                "charcode": "0x1481", 
+                "title": "CANADIAN SYLLABICS WEST-CREE KWAA"
+            }, 
+            {
+                "charcode": "0x1482", 
+                "title": "CANADIAN SYLLABICS NASKAPI KWAA"
+            }, 
+            {
+                "charcode": "0x1483", 
+                "title": "CANADIAN SYLLABICS K"
+            }, 
+            {
+                "charcode": "0x1484", 
+                "title": "CANADIAN SYLLABICS KW"
+            }, 
+            {
+                "charcode": "0x1485", 
+                "title": "CANADIAN SYLLABICS SOUTH-SLAVEY KEH"
+            }, 
+            {
+                "charcode": "0x1486", 
+                "title": "CANADIAN SYLLABICS SOUTH-SLAVEY KIH"
+            }, 
+            {
+                "charcode": "0x1487", 
+                "title": "CANADIAN SYLLABICS SOUTH-SLAVEY KOH"
+            }, 
+            {
+                "charcode": "0x1488", 
+                "title": "CANADIAN SYLLABICS SOUTH-SLAVEY KAH"
+            }, 
+            {
+                "charcode": "0x1489", 
+                "title": "CANADIAN SYLLABICS CE"
+            }, 
+            {
+                "charcode": "0x148a", 
+                "title": "CANADIAN SYLLABICS CAAI"
+            }, 
+            {
+                "charcode": "0x148b", 
+                "title": "CANADIAN SYLLABICS CI"
+            }, 
+            {
+                "charcode": "0x148c", 
+                "title": "CANADIAN SYLLABICS CII"
+            }, 
+            {
+                "charcode": "0x148d", 
+                "title": "CANADIAN SYLLABICS CO"
+            }, 
+            {
+                "charcode": "0x148e", 
+                "title": "CANADIAN SYLLABICS COO"
+            }, 
+            {
+                "charcode": "0x148f", 
+                "title": "CANADIAN SYLLABICS Y-CREE COO"
+            }, 
+            {
+                "charcode": "0x1490", 
+                "title": "CANADIAN SYLLABICS CA"
+            }, 
+            {
+                "charcode": "0x1491", 
+                "title": "CANADIAN SYLLABICS CAA"
+            }, 
+            {
+                "charcode": "0x1492", 
+                "title": "CANADIAN SYLLABICS CWE"
+            }, 
+            {
+                "charcode": "0x1493", 
+                "title": "CANADIAN SYLLABICS WEST-CREE CWE"
+            }, 
+            {
+                "charcode": "0x1494", 
+                "title": "CANADIAN SYLLABICS CWI"
+            }, 
+            {
+                "charcode": "0x1495", 
+                "title": "CANADIAN SYLLABICS WEST-CREE CWI"
+            }, 
+            {
+                "charcode": "0x1496", 
+                "title": "CANADIAN SYLLABICS CWII"
+            }, 
+            {
+                "charcode": "0x1497", 
+                "title": "CANADIAN SYLLABICS WEST-CREE CWII"
+            }, 
+            {
+                "charcode": "0x1498", 
+                "title": "CANADIAN SYLLABICS CWO"
+            }, 
+            {
+                "charcode": "0x1499", 
+                "title": "CANADIAN SYLLABICS WEST-CREE CWO"
+            }, 
+            {
+                "charcode": "0x149a", 
+                "title": "CANADIAN SYLLABICS CWOO"
+            }, 
+            {
+                "charcode": "0x149b", 
+                "title": "CANADIAN SYLLABICS WEST-CREE CWOO"
+            }, 
+            {
+                "charcode": "0x149c", 
+                "title": "CANADIAN SYLLABICS CWA"
+            }, 
+            {
+                "charcode": "0x149d", 
+                "title": "CANADIAN SYLLABICS WEST-CREE CWA"
+            }, 
+            {
+                "charcode": "0x149e", 
+                "title": "CANADIAN SYLLABICS CWAA"
+            }, 
+            {
+                "charcode": "0x149f", 
+                "title": "CANADIAN SYLLABICS WEST-CREE CWAA"
+            }, 
+            {
+                "charcode": "0x14a0", 
+                "title": "CANADIAN SYLLABICS NASKAPI CWAA"
+            }, 
+            {
+                "charcode": "0x14a1", 
+                "title": "CANADIAN SYLLABICS C"
+            }, 
+            {
+                "charcode": "0x14a2", 
+                "title": "CANADIAN SYLLABICS SAYISI TH"
+            }, 
+            {
+                "charcode": "0x14a3", 
+                "title": "CANADIAN SYLLABICS ME"
+            }, 
+            {
+                "charcode": "0x14a4", 
+                "title": "CANADIAN SYLLABICS MAAI"
+            }, 
+            {
+                "charcode": "0x14a5", 
+                "title": "CANADIAN SYLLABICS MI"
+            }, 
+            {
+                "charcode": "0x14a6", 
+                "title": "CANADIAN SYLLABICS MII"
+            }, 
+            {
+                "charcode": "0x14a7", 
+                "title": "CANADIAN SYLLABICS MO"
+            }, 
+            {
+                "charcode": "0x14a8", 
+                "title": "CANADIAN SYLLABICS MOO"
+            }, 
+            {
+                "charcode": "0x14a9", 
+                "title": "CANADIAN SYLLABICS Y-CREE MOO"
+            }, 
+            {
+                "charcode": "0x14aa", 
+                "title": "CANADIAN SYLLABICS MA"
+            }, 
+            {
+                "charcode": "0x14ab", 
+                "title": "CANADIAN SYLLABICS MAA"
+            }, 
+            {
+                "charcode": "0x14ac", 
+                "title": "CANADIAN SYLLABICS MWE"
+            }, 
+            {
+                "charcode": "0x14ad", 
+                "title": "CANADIAN SYLLABICS WEST-CREE MWE"
+            }, 
+            {
+                "charcode": "0x14ae", 
+                "title": "CANADIAN SYLLABICS MWI"
+            }, 
+            {
+                "charcode": "0x14af", 
+                "title": "CANADIAN SYLLABICS WEST-CREE MWI"
+            }, 
+            {
+                "charcode": "0x14b0", 
+                "title": "CANADIAN SYLLABICS MWII"
+            }, 
+            {
+                "charcode": "0x14b1", 
+                "title": "CANADIAN SYLLABICS WEST-CREE MWII"
+            }, 
+            {
+                "charcode": "0x14b2", 
+                "title": "CANADIAN SYLLABICS MWO"
+            }, 
+            {
+                "charcode": "0x14b3", 
+                "title": "CANADIAN SYLLABICS WEST-CREE MWO"
+            }, 
+            {
+                "charcode": "0x14b4", 
+                "title": "CANADIAN SYLLABICS MWOO"
+            }, 
+            {
+                "charcode": "0x14b5", 
+                "title": "CANADIAN SYLLABICS WEST-CREE MWOO"
+            }, 
+            {
+                "charcode": "0x14b6", 
+                "title": "CANADIAN SYLLABICS MWA"
+            }, 
+            {
+                "charcode": "0x14b7", 
+                "title": "CANADIAN SYLLABICS WEST-CREE MWA"
+            }, 
+            {
+                "charcode": "0x14b8", 
+                "title": "CANADIAN SYLLABICS MWAA"
+            }, 
+            {
+                "charcode": "0x14b9", 
+                "title": "CANADIAN SYLLABICS WEST-CREE MWAA"
+            }, 
+            {
+                "charcode": "0x14ba", 
+                "title": "CANADIAN SYLLABICS NASKAPI MWAA"
+            }, 
+            {
+                "charcode": "0x14bb", 
+                "title": "CANADIAN SYLLABICS M"
+            }, 
+            {
+                "charcode": "0x14bc", 
+                "title": "CANADIAN SYLLABICS WEST-CREE M"
+            }, 
+            {
+                "charcode": "0x14bd", 
+                "title": "CANADIAN SYLLABICS MH"
+            }, 
+            {
+                "charcode": "0x14be", 
+                "title": "CANADIAN SYLLABICS ATHAPASCAN M"
+            }, 
+            {
+                "charcode": "0x14bf", 
+                "title": "CANADIAN SYLLABICS SAYISI M"
+            }, 
+            {
+                "charcode": "0x14c0", 
+                "title": "CANADIAN SYLLABICS NE"
+            }, 
+            {
+                "charcode": "0x14c1", 
+                "title": "CANADIAN SYLLABICS NAAI"
+            }, 
+            {
+                "charcode": "0x14c2", 
+                "title": "CANADIAN SYLLABICS NI"
+            }, 
+            {
+                "charcode": "0x14c3", 
+                "title": "CANADIAN SYLLABICS NII"
+            }, 
+            {
+                "charcode": "0x14c4", 
+                "title": "CANADIAN SYLLABICS NO"
+            }, 
+            {
+                "charcode": "0x14c5", 
+                "title": "CANADIAN SYLLABICS NOO"
+            }, 
+            {
+                "charcode": "0x14c6", 
+                "title": "CANADIAN SYLLABICS Y-CREE NOO"
+            }, 
+            {
+                "charcode": "0x14c7", 
+                "title": "CANADIAN SYLLABICS NA"
+            }, 
+            {
+                "charcode": "0x14c8", 
+                "title": "CANADIAN SYLLABICS NAA"
+            }, 
+            {
+                "charcode": "0x14c9", 
+                "title": "CANADIAN SYLLABICS NWE"
+            }, 
+            {
+                "charcode": "0x14ca", 
+                "title": "CANADIAN SYLLABICS WEST-CREE NWE"
+            }, 
+            {
+                "charcode": "0x14cb", 
+                "title": "CANADIAN SYLLABICS NWA"
+            }, 
+            {
+                "charcode": "0x14cc", 
+                "title": "CANADIAN SYLLABICS WEST-CREE NWA"
+            }, 
+            {
+                "charcode": "0x14cd", 
+                "title": "CANADIAN SYLLABICS NWAA"
+            }, 
+            {
+                "charcode": "0x14ce", 
+                "title": "CANADIAN SYLLABICS WEST-CREE NWAA"
+            }, 
+            {
+                "charcode": "0x14cf", 
+                "title": "CANADIAN SYLLABICS NASKAPI NWAA"
+            }, 
+            {
+                "charcode": "0x14d0", 
+                "title": "CANADIAN SYLLABICS N"
+            }, 
+            {
+                "charcode": "0x14d1", 
+                "title": "CANADIAN SYLLABICS CARRIER NG"
+            }, 
+            {
+                "charcode": "0x14d2", 
+                "title": "CANADIAN SYLLABICS NH"
+            }, 
+            {
+                "charcode": "0x14d3", 
+                "title": "CANADIAN SYLLABICS LE"
+            }, 
+            {
+                "charcode": "0x14d4", 
+                "title": "CANADIAN SYLLABICS LAAI"
+            }, 
+            {
+                "charcode": "0x14d5", 
+                "title": "CANADIAN SYLLABICS LI"
+            }, 
+            {
+                "charcode": "0x14d6", 
+                "title": "CANADIAN SYLLABICS LII"
+            }, 
+            {
+                "charcode": "0x14d7", 
+                "title": "CANADIAN SYLLABICS LO"
+            }, 
+            {
+                "charcode": "0x14d8", 
+                "title": "CANADIAN SYLLABICS LOO"
+            }, 
+            {
+                "charcode": "0x14d9", 
+                "title": "CANADIAN SYLLABICS Y-CREE LOO"
+            }, 
+            {
+                "charcode": "0x14da", 
+                "title": "CANADIAN SYLLABICS LA"
+            }, 
+            {
+                "charcode": "0x14db", 
+                "title": "CANADIAN SYLLABICS LAA"
+            }, 
+            {
+                "charcode": "0x14dc", 
+                "title": "CANADIAN SYLLABICS LWE"
+            }, 
+            {
+                "charcode": "0x14dd", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LWE"
+            }, 
+            {
+                "charcode": "0x14de", 
+                "title": "CANADIAN SYLLABICS LWI"
+            }, 
+            {
+                "charcode": "0x14df", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LWI"
+            }, 
+            {
+                "charcode": "0x14e0", 
+                "title": "CANADIAN SYLLABICS LWII"
+            }, 
+            {
+                "charcode": "0x14e1", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LWII"
+            }, 
+            {
+                "charcode": "0x14e2", 
+                "title": "CANADIAN SYLLABICS LWO"
+            }, 
+            {
+                "charcode": "0x14e3", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LWO"
+            }, 
+            {
+                "charcode": "0x14e4", 
+                "title": "CANADIAN SYLLABICS LWOO"
+            }, 
+            {
+                "charcode": "0x14e5", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LWOO"
+            }, 
+            {
+                "charcode": "0x14e6", 
+                "title": "CANADIAN SYLLABICS LWA"
+            }, 
+            {
+                "charcode": "0x14e7", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LWA"
+            }, 
+            {
+                "charcode": "0x14e8", 
+                "title": "CANADIAN SYLLABICS LWAA"
+            }, 
+            {
+                "charcode": "0x14e9", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LWAA"
+            }, 
+            {
+                "charcode": "0x14ea", 
+                "title": "CANADIAN SYLLABICS L"
+            }, 
+            {
+                "charcode": "0x14eb", 
+                "title": "CANADIAN SYLLABICS WEST-CREE L"
+            }, 
+            {
+                "charcode": "0x14ec", 
+                "title": "CANADIAN SYLLABICS MEDIAL L"
+            }, 
+            {
+                "charcode": "0x14ed", 
+                "title": "CANADIAN SYLLABICS SE"
+            }, 
+            {
+                "charcode": "0x14ee", 
+                "title": "CANADIAN SYLLABICS SAAI"
+            }, 
+            {
+                "charcode": "0x14ef", 
+                "title": "CANADIAN SYLLABICS SI"
+            }, 
+            {
+                "charcode": "0x14f0", 
+                "title": "CANADIAN SYLLABICS SII"
+            }, 
+            {
+                "charcode": "0x14f1", 
+                "title": "CANADIAN SYLLABICS SO"
+            }, 
+            {
+                "charcode": "0x14f2", 
+                "title": "CANADIAN SYLLABICS SOO"
+            }, 
+            {
+                "charcode": "0x14f3", 
+                "title": "CANADIAN SYLLABICS Y-CREE SOO"
+            }, 
+            {
+                "charcode": "0x14f4", 
+                "title": "CANADIAN SYLLABICS SA"
+            }, 
+            {
+                "charcode": "0x14f5", 
+                "title": "CANADIAN SYLLABICS SAA"
+            }, 
+            {
+                "charcode": "0x14f6", 
+                "title": "CANADIAN SYLLABICS SWE"
+            }, 
+            {
+                "charcode": "0x14f7", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SWE"
+            }, 
+            {
+                "charcode": "0x14f8", 
+                "title": "CANADIAN SYLLABICS SWI"
+            }, 
+            {
+                "charcode": "0x14f9", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SWI"
+            }, 
+            {
+                "charcode": "0x14fa", 
+                "title": "CANADIAN SYLLABICS SWII"
+            }, 
+            {
+                "charcode": "0x14fb", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SWII"
+            }, 
+            {
+                "charcode": "0x14fc", 
+                "title": "CANADIAN SYLLABICS SWO"
+            }, 
+            {
+                "charcode": "0x14fd", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SWO"
+            }, 
+            {
+                "charcode": "0x14fe", 
+                "title": "CANADIAN SYLLABICS SWOO"
+            }, 
+            {
+                "charcode": "0x14ff", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SWOO"
+            }, 
+            {
+                "charcode": "0x1500", 
+                "title": "CANADIAN SYLLABICS SWA"
+            }, 
+            {
+                "charcode": "0x1501", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SWA"
+            }, 
+            {
+                "charcode": "0x1502", 
+                "title": "CANADIAN SYLLABICS SWAA"
+            }, 
+            {
+                "charcode": "0x1503", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SWAA"
+            }, 
+            {
+                "charcode": "0x1504", 
+                "title": "CANADIAN SYLLABICS NASKAPI SWAA"
+            }, 
+            {
+                "charcode": "0x1505", 
+                "title": "CANADIAN SYLLABICS S"
+            }, 
+            {
+                "charcode": "0x1506", 
+                "title": "CANADIAN SYLLABICS ATHAPASCAN S"
+            }, 
+            {
+                "charcode": "0x1507", 
+                "title": "CANADIAN SYLLABICS SW"
+            }, 
+            {
+                "charcode": "0x1508", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT S"
+            }, 
+            {
+                "charcode": "0x1509", 
+                "title": "CANADIAN SYLLABICS MOOSE-CREE SK"
+            }, 
+            {
+                "charcode": "0x150a", 
+                "title": "CANADIAN SYLLABICS NASKAPI SKW"
+            }, 
+            {
+                "charcode": "0x150b", 
+                "title": "CANADIAN SYLLABICS NASKAPI S-W"
+            }, 
+            {
+                "charcode": "0x150c", 
+                "title": "CANADIAN SYLLABICS NASKAPI SPWA"
+            }, 
+            {
+                "charcode": "0x150d", 
+                "title": "CANADIAN SYLLABICS NASKAPI STWA"
+            }, 
+            {
+                "charcode": "0x150e", 
+                "title": "CANADIAN SYLLABICS NASKAPI SKWA"
+            }, 
+            {
+                "charcode": "0x150f", 
+                "title": "CANADIAN SYLLABICS NASKAPI SCWA"
+            }, 
+            {
+                "charcode": "0x1510", 
+                "title": "CANADIAN SYLLABICS SHE"
+            }, 
+            {
+                "charcode": "0x1511", 
+                "title": "CANADIAN SYLLABICS SHI"
+            }, 
+            {
+                "charcode": "0x1512", 
+                "title": "CANADIAN SYLLABICS SHII"
+            }, 
+            {
+                "charcode": "0x1513", 
+                "title": "CANADIAN SYLLABICS SHO"
+            }, 
+            {
+                "charcode": "0x1514", 
+                "title": "CANADIAN SYLLABICS SHOO"
+            }, 
+            {
+                "charcode": "0x1515", 
+                "title": "CANADIAN SYLLABICS SHA"
+            }, 
+            {
+                "charcode": "0x1516", 
+                "title": "CANADIAN SYLLABICS SHAA"
+            }, 
+            {
+                "charcode": "0x1517", 
+                "title": "CANADIAN SYLLABICS SHWE"
+            }, 
+            {
+                "charcode": "0x1518", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SHWE"
+            }, 
+            {
+                "charcode": "0x1519", 
+                "title": "CANADIAN SYLLABICS SHWI"
+            }, 
+            {
+                "charcode": "0x151a", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SHWI"
+            }, 
+            {
+                "charcode": "0x151b", 
+                "title": "CANADIAN SYLLABICS SHWII"
+            }, 
+            {
+                "charcode": "0x151c", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SHWII"
+            }, 
+            {
+                "charcode": "0x151d", 
+                "title": "CANADIAN SYLLABICS SHWO"
+            }, 
+            {
+                "charcode": "0x151e", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SHWO"
+            }, 
+            {
+                "charcode": "0x151f", 
+                "title": "CANADIAN SYLLABICS SHWOO"
+            }, 
+            {
+                "charcode": "0x1520", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SHWOO"
+            }, 
+            {
+                "charcode": "0x1521", 
+                "title": "CANADIAN SYLLABICS SHWA"
+            }, 
+            {
+                "charcode": "0x1522", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SHWA"
+            }, 
+            {
+                "charcode": "0x1523", 
+                "title": "CANADIAN SYLLABICS SHWAA"
+            }, 
+            {
+                "charcode": "0x1524", 
+                "title": "CANADIAN SYLLABICS WEST-CREE SHWAA"
+            }, 
+            {
+                "charcode": "0x1525", 
+                "title": "CANADIAN SYLLABICS SH"
+            }, 
+            {
+                "charcode": "0x1526", 
+                "title": "CANADIAN SYLLABICS YE"
+            }, 
+            {
+                "charcode": "0x1527", 
+                "title": "CANADIAN SYLLABICS YAAI"
+            }, 
+            {
+                "charcode": "0x1528", 
+                "title": "CANADIAN SYLLABICS YI"
+            }, 
+            {
+                "charcode": "0x1529", 
+                "title": "CANADIAN SYLLABICS YII"
+            }, 
+            {
+                "charcode": "0x152a", 
+                "title": "CANADIAN SYLLABICS YO"
+            }, 
+            {
+                "charcode": "0x152b", 
+                "title": "CANADIAN SYLLABICS YOO"
+            }, 
+            {
+                "charcode": "0x152c", 
+                "title": "CANADIAN SYLLABICS Y-CREE YOO"
+            }, 
+            {
+                "charcode": "0x152d", 
+                "title": "CANADIAN SYLLABICS YA"
+            }, 
+            {
+                "charcode": "0x152e", 
+                "title": "CANADIAN SYLLABICS YAA"
+            }, 
+            {
+                "charcode": "0x152f", 
+                "title": "CANADIAN SYLLABICS YWE"
+            }, 
+            {
+                "charcode": "0x1530", 
+                "title": "CANADIAN SYLLABICS WEST-CREE YWE"
+            }, 
+            {
+                "charcode": "0x1531", 
+                "title": "CANADIAN SYLLABICS YWI"
+            }, 
+            {
+                "charcode": "0x1532", 
+                "title": "CANADIAN SYLLABICS WEST-CREE YWI"
+            }, 
+            {
+                "charcode": "0x1533", 
+                "title": "CANADIAN SYLLABICS YWII"
+            }, 
+            {
+                "charcode": "0x1534", 
+                "title": "CANADIAN SYLLABICS WEST-CREE YWII"
+            }, 
+            {
+                "charcode": "0x1535", 
+                "title": "CANADIAN SYLLABICS YWO"
+            }, 
+            {
+                "charcode": "0x1536", 
+                "title": "CANADIAN SYLLABICS WEST-CREE YWO"
+            }, 
+            {
+                "charcode": "0x1537", 
+                "title": "CANADIAN SYLLABICS YWOO"
+            }, 
+            {
+                "charcode": "0x1538", 
+                "title": "CANADIAN SYLLABICS WEST-CREE YWOO"
+            }, 
+            {
+                "charcode": "0x1539", 
+                "title": "CANADIAN SYLLABICS YWA"
+            }, 
+            {
+                "charcode": "0x153a", 
+                "title": "CANADIAN SYLLABICS WEST-CREE YWA"
+            }, 
+            {
+                "charcode": "0x153b", 
+                "title": "CANADIAN SYLLABICS YWAA"
+            }, 
+            {
+                "charcode": "0x153c", 
+                "title": "CANADIAN SYLLABICS WEST-CREE YWAA"
+            }, 
+            {
+                "charcode": "0x153d", 
+                "title": "CANADIAN SYLLABICS NASKAPI YWAA"
+            }, 
+            {
+                "charcode": "0x153e", 
+                "title": "CANADIAN SYLLABICS Y"
+            }, 
+            {
+                "charcode": "0x153f", 
+                "title": "CANADIAN SYLLABICS BIBLE-CREE Y"
+            }, 
+            {
+                "charcode": "0x1540", 
+                "title": "CANADIAN SYLLABICS WEST-CREE Y"
+            }, 
+            {
+                "charcode": "0x1541", 
+                "title": "CANADIAN SYLLABICS SAYISI YI"
+            }, 
+            {
+                "charcode": "0x1542", 
+                "title": "CANADIAN SYLLABICS RE"
+            }, 
+            {
+                "charcode": "0x1543", 
+                "title": "CANADIAN SYLLABICS R-CREE RE"
+            }, 
+            {
+                "charcode": "0x1544", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LE"
+            }, 
+            {
+                "charcode": "0x1545", 
+                "title": "CANADIAN SYLLABICS RAAI"
+            }, 
+            {
+                "charcode": "0x1546", 
+                "title": "CANADIAN SYLLABICS RI"
+            }, 
+            {
+                "charcode": "0x1547", 
+                "title": "CANADIAN SYLLABICS RII"
+            }, 
+            {
+                "charcode": "0x1548", 
+                "title": "CANADIAN SYLLABICS RO"
+            }, 
+            {
+                "charcode": "0x1549", 
+                "title": "CANADIAN SYLLABICS ROO"
+            }, 
+            {
+                "charcode": "0x154a", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LO"
+            }, 
+            {
+                "charcode": "0x154b", 
+                "title": "CANADIAN SYLLABICS RA"
+            }, 
+            {
+                "charcode": "0x154c", 
+                "title": "CANADIAN SYLLABICS RAA"
+            }, 
+            {
+                "charcode": "0x154d", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LA"
+            }, 
+            {
+                "charcode": "0x154e", 
+                "title": "CANADIAN SYLLABICS RWAA"
+            }, 
+            {
+                "charcode": "0x154f", 
+                "title": "CANADIAN SYLLABICS WEST-CREE RWAA"
+            }, 
+            {
+                "charcode": "0x1550", 
+                "title": "CANADIAN SYLLABICS R"
+            }, 
+            {
+                "charcode": "0x1551", 
+                "title": "CANADIAN SYLLABICS WEST-CREE R"
+            }, 
+            {
+                "charcode": "0x1552", 
+                "title": "CANADIAN SYLLABICS MEDIAL R"
+            }, 
+            {
+                "charcode": "0x1553", 
+                "title": "CANADIAN SYLLABICS FE"
+            }, 
+            {
+                "charcode": "0x1554", 
+                "title": "CANADIAN SYLLABICS FAAI"
+            }, 
+            {
+                "charcode": "0x1555", 
+                "title": "CANADIAN SYLLABICS FI"
+            }, 
+            {
+                "charcode": "0x1556", 
+                "title": "CANADIAN SYLLABICS FII"
+            }, 
+            {
+                "charcode": "0x1557", 
+                "title": "CANADIAN SYLLABICS FO"
+            }, 
+            {
+                "charcode": "0x1558", 
+                "title": "CANADIAN SYLLABICS FOO"
+            }, 
+            {
+                "charcode": "0x1559", 
+                "title": "CANADIAN SYLLABICS FA"
+            }, 
+            {
+                "charcode": "0x155a", 
+                "title": "CANADIAN SYLLABICS FAA"
+            }, 
+            {
+                "charcode": "0x155b", 
+                "title": "CANADIAN SYLLABICS FWAA"
+            }, 
+            {
+                "charcode": "0x155c", 
+                "title": "CANADIAN SYLLABICS WEST-CREE FWAA"
+            }, 
+            {
+                "charcode": "0x155d", 
+                "title": "CANADIAN SYLLABICS F"
+            }, 
+            {
+                "charcode": "0x155e", 
+                "title": "CANADIAN SYLLABICS THE"
+            }, 
+            {
+                "charcode": "0x155f", 
+                "title": "CANADIAN SYLLABICS N-CREE THE"
+            }, 
+            {
+                "charcode": "0x1560", 
+                "title": "CANADIAN SYLLABICS THI"
+            }, 
+            {
+                "charcode": "0x1561", 
+                "title": "CANADIAN SYLLABICS N-CREE THI"
+            }, 
+            {
+                "charcode": "0x1562", 
+                "title": "CANADIAN SYLLABICS THII"
+            }, 
+            {
+                "charcode": "0x1563", 
+                "title": "CANADIAN SYLLABICS N-CREE THII"
+            }, 
+            {
+                "charcode": "0x1564", 
+                "title": "CANADIAN SYLLABICS THO"
+            }, 
+            {
+                "charcode": "0x1565", 
+                "title": "CANADIAN SYLLABICS THOO"
+            }, 
+            {
+                "charcode": "0x1566", 
+                "title": "CANADIAN SYLLABICS THA"
+            }, 
+            {
+                "charcode": "0x1567", 
+                "title": "CANADIAN SYLLABICS THAA"
+            }, 
+            {
+                "charcode": "0x1568", 
+                "title": "CANADIAN SYLLABICS THWAA"
+            }, 
+            {
+                "charcode": "0x1569", 
+                "title": "CANADIAN SYLLABICS WEST-CREE THWAA"
+            }, 
+            {
+                "charcode": "0x156a", 
+                "title": "CANADIAN SYLLABICS TH"
+            }, 
+            {
+                "charcode": "0x156b", 
+                "title": "CANADIAN SYLLABICS TTHE"
+            }, 
+            {
+                "charcode": "0x156c", 
+                "title": "CANADIAN SYLLABICS TTHI"
+            }, 
+            {
+                "charcode": "0x156d", 
+                "title": "CANADIAN SYLLABICS TTHO"
+            }, 
+            {
+                "charcode": "0x156e", 
+                "title": "CANADIAN SYLLABICS TTHA"
+            }, 
+            {
+                "charcode": "0x156f", 
+                "title": "CANADIAN SYLLABICS TTH"
+            }, 
+            {
+                "charcode": "0x1570", 
+                "title": "CANADIAN SYLLABICS TYE"
+            }, 
+            {
+                "charcode": "0x1571", 
+                "title": "CANADIAN SYLLABICS TYI"
+            }, 
+            {
+                "charcode": "0x1572", 
+                "title": "CANADIAN SYLLABICS TYO"
+            }, 
+            {
+                "charcode": "0x1573", 
+                "title": "CANADIAN SYLLABICS TYA"
+            }, 
+            {
+                "charcode": "0x1574", 
+                "title": "CANADIAN SYLLABICS NUNAVIK HE"
+            }, 
+            {
+                "charcode": "0x1575", 
+                "title": "CANADIAN SYLLABICS NUNAVIK HI"
+            }, 
+            {
+                "charcode": "0x1576", 
+                "title": "CANADIAN SYLLABICS NUNAVIK HII"
+            }, 
+            {
+                "charcode": "0x1577", 
+                "title": "CANADIAN SYLLABICS NUNAVIK HO"
+            }, 
+            {
+                "charcode": "0x1578", 
+                "title": "CANADIAN SYLLABICS NUNAVIK HOO"
+            }, 
+            {
+                "charcode": "0x1579", 
+                "title": "CANADIAN SYLLABICS NUNAVIK HA"
+            }, 
+            {
+                "charcode": "0x157a", 
+                "title": "CANADIAN SYLLABICS NUNAVIK HAA"
+            }, 
+            {
+                "charcode": "0x157b", 
+                "title": "CANADIAN SYLLABICS NUNAVIK H"
+            }, 
+            {
+                "charcode": "0x157c", 
+                "title": "CANADIAN SYLLABICS NUNAVUT H"
+            }, 
+            {
+                "charcode": "0x157d", 
+                "title": "CANADIAN SYLLABICS HK"
+            }, 
+            {
+                "charcode": "0x157e", 
+                "title": "CANADIAN SYLLABICS QAAI"
+            }, 
+            {
+                "charcode": "0x157f", 
+                "title": "CANADIAN SYLLABICS QI"
+            }, 
+            {
+                "charcode": "0x1580", 
+                "title": "CANADIAN SYLLABICS QII"
+            }, 
+            {
+                "charcode": "0x1581", 
+                "title": "CANADIAN SYLLABICS QO"
+            }, 
+            {
+                "charcode": "0x1582", 
+                "title": "CANADIAN SYLLABICS QOO"
+            }, 
+            {
+                "charcode": "0x1583", 
+                "title": "CANADIAN SYLLABICS QA"
+            }, 
+            {
+                "charcode": "0x1584", 
+                "title": "CANADIAN SYLLABICS QAA"
+            }, 
+            {
+                "charcode": "0x1585", 
+                "title": "CANADIAN SYLLABICS Q"
+            }, 
+            {
+                "charcode": "0x1586", 
+                "title": "CANADIAN SYLLABICS TLHE"
+            }, 
+            {
+                "charcode": "0x1587", 
+                "title": "CANADIAN SYLLABICS TLHI"
+            }, 
+            {
+                "charcode": "0x1588", 
+                "title": "CANADIAN SYLLABICS TLHO"
+            }, 
+            {
+                "charcode": "0x1589", 
+                "title": "CANADIAN SYLLABICS TLHA"
+            }, 
+            {
+                "charcode": "0x158a", 
+                "title": "CANADIAN SYLLABICS WEST-CREE RE"
+            }, 
+            {
+                "charcode": "0x158b", 
+                "title": "CANADIAN SYLLABICS WEST-CREE RI"
+            }, 
+            {
+                "charcode": "0x158c", 
+                "title": "CANADIAN SYLLABICS WEST-CREE RO"
+            }, 
+            {
+                "charcode": "0x158d", 
+                "title": "CANADIAN SYLLABICS WEST-CREE RA"
+            }, 
+            {
+                "charcode": "0x158e", 
+                "title": "CANADIAN SYLLABICS NGAAI"
+            }, 
+            {
+                "charcode": "0x158f", 
+                "title": "CANADIAN SYLLABICS NGI"
+            }, 
+            {
+                "charcode": "0x1590", 
+                "title": "CANADIAN SYLLABICS NGII"
+            }, 
+            {
+                "charcode": "0x1591", 
+                "title": "CANADIAN SYLLABICS NGO"
+            }, 
+            {
+                "charcode": "0x1592", 
+                "title": "CANADIAN SYLLABICS NGOO"
+            }, 
+            {
+                "charcode": "0x1593", 
+                "title": "CANADIAN SYLLABICS NGA"
+            }, 
+            {
+                "charcode": "0x1594", 
+                "title": "CANADIAN SYLLABICS NGAA"
+            }, 
+            {
+                "charcode": "0x1595", 
+                "title": "CANADIAN SYLLABICS NG"
+            }, 
+            {
+                "charcode": "0x1596", 
+                "title": "CANADIAN SYLLABICS NNG"
+            }, 
+            {
+                "charcode": "0x1597", 
+                "title": "CANADIAN SYLLABICS SAYISI SHE"
+            }, 
+            {
+                "charcode": "0x1598", 
+                "title": "CANADIAN SYLLABICS SAYISI SHI"
+            }, 
+            {
+                "charcode": "0x1599", 
+                "title": "CANADIAN SYLLABICS SAYISI SHO"
+            }, 
+            {
+                "charcode": "0x159a", 
+                "title": "CANADIAN SYLLABICS SAYISI SHA"
+            }, 
+            {
+                "charcode": "0x159b", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE THE"
+            }, 
+            {
+                "charcode": "0x159c", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE THI"
+            }, 
+            {
+                "charcode": "0x159d", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE THO"
+            }, 
+            {
+                "charcode": "0x159e", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE THA"
+            }, 
+            {
+                "charcode": "0x159f", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE TH"
+            }, 
+            {
+                "charcode": "0x15a0", 
+                "title": "CANADIAN SYLLABICS LHI"
+            }, 
+            {
+                "charcode": "0x15a1", 
+                "title": "CANADIAN SYLLABICS LHII"
+            }, 
+            {
+                "charcode": "0x15a2", 
+                "title": "CANADIAN SYLLABICS LHO"
+            }, 
+            {
+                "charcode": "0x15a3", 
+                "title": "CANADIAN SYLLABICS LHOO"
+            }, 
+            {
+                "charcode": "0x15a4", 
+                "title": "CANADIAN SYLLABICS LHA"
+            }, 
+            {
+                "charcode": "0x15a5", 
+                "title": "CANADIAN SYLLABICS LHAA"
+            }, 
+            {
+                "charcode": "0x15a6", 
+                "title": "CANADIAN SYLLABICS LH"
+            }, 
+            {
+                "charcode": "0x15a7", 
+                "title": "CANADIAN SYLLABICS TH-CREE THE"
+            }, 
+            {
+                "charcode": "0x15a8", 
+                "title": "CANADIAN SYLLABICS TH-CREE THI"
+            }, 
+            {
+                "charcode": "0x15a9", 
+                "title": "CANADIAN SYLLABICS TH-CREE THII"
+            }, 
+            {
+                "charcode": "0x15aa", 
+                "title": "CANADIAN SYLLABICS TH-CREE THO"
+            }, 
+            {
+                "charcode": "0x15ab", 
+                "title": "CANADIAN SYLLABICS TH-CREE THOO"
+            }, 
+            {
+                "charcode": "0x15ac", 
+                "title": "CANADIAN SYLLABICS TH-CREE THA"
+            }, 
+            {
+                "charcode": "0x15ad", 
+                "title": "CANADIAN SYLLABICS TH-CREE THAA"
+            }, 
+            {
+                "charcode": "0x15ae", 
+                "title": "CANADIAN SYLLABICS TH-CREE TH"
+            }, 
+            {
+                "charcode": "0x15af", 
+                "title": "CANADIAN SYLLABICS AIVILIK B"
+            }, 
+            {
+                "charcode": "0x15b0", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT E"
+            }, 
+            {
+                "charcode": "0x15b1", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT I"
+            }, 
+            {
+                "charcode": "0x15b2", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT O"
+            }, 
+            {
+                "charcode": "0x15b3", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT A"
+            }, 
+            {
+                "charcode": "0x15b4", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT WE"
+            }, 
+            {
+                "charcode": "0x15b5", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT WI"
+            }, 
+            {
+                "charcode": "0x15b6", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT WO"
+            }, 
+            {
+                "charcode": "0x15b7", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT WA"
+            }, 
+            {
+                "charcode": "0x15b8", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT NE"
+            }, 
+            {
+                "charcode": "0x15b9", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT NI"
+            }, 
+            {
+                "charcode": "0x15ba", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT NO"
+            }, 
+            {
+                "charcode": "0x15bb", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT NA"
+            }, 
+            {
+                "charcode": "0x15bc", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT KE"
+            }, 
+            {
+                "charcode": "0x15bd", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT KI"
+            }, 
+            {
+                "charcode": "0x15be", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT KO"
+            }, 
+            {
+                "charcode": "0x15bf", 
+                "title": "CANADIAN SYLLABICS BLACKFOOT KA"
+            }, 
+            {
+                "charcode": "0x15c0", 
+                "title": "CANADIAN SYLLABICS SAYISI HE"
+            }, 
+            {
+                "charcode": "0x15c1", 
+                "title": "CANADIAN SYLLABICS SAYISI HI"
+            }, 
+            {
+                "charcode": "0x15c2", 
+                "title": "CANADIAN SYLLABICS SAYISI HO"
+            }, 
+            {
+                "charcode": "0x15c3", 
+                "title": "CANADIAN SYLLABICS SAYISI HA"
+            }, 
+            {
+                "charcode": "0x15c4", 
+                "title": "CANADIAN SYLLABICS CARRIER GHU"
+            }, 
+            {
+                "charcode": "0x15c5", 
+                "title": "CANADIAN SYLLABICS CARRIER GHO"
+            }, 
+            {
+                "charcode": "0x15c6", 
+                "title": "CANADIAN SYLLABICS CARRIER GHE"
+            }, 
+            {
+                "charcode": "0x15c7", 
+                "title": "CANADIAN SYLLABICS CARRIER GHEE"
+            }, 
+            {
+                "charcode": "0x15c8", 
+                "title": "CANADIAN SYLLABICS CARRIER GHI"
+            }, 
+            {
+                "charcode": "0x15c9", 
+                "title": "CANADIAN SYLLABICS CARRIER GHA"
+            }, 
+            {
+                "charcode": "0x15ca", 
+                "title": "CANADIAN SYLLABICS CARRIER RU"
+            }, 
+            {
+                "charcode": "0x15cb", 
+                "title": "CANADIAN SYLLABICS CARRIER RO"
+            }, 
+            {
+                "charcode": "0x15cc", 
+                "title": "CANADIAN SYLLABICS CARRIER RE"
+            }, 
+            {
+                "charcode": "0x15cd", 
+                "title": "CANADIAN SYLLABICS CARRIER REE"
+            }, 
+            {
+                "charcode": "0x15ce", 
+                "title": "CANADIAN SYLLABICS CARRIER RI"
+            }, 
+            {
+                "charcode": "0x15cf", 
+                "title": "CANADIAN SYLLABICS CARRIER RA"
+            }, 
+            {
+                "charcode": "0x15d0", 
+                "title": "CANADIAN SYLLABICS CARRIER WU"
+            }, 
+            {
+                "charcode": "0x15d1", 
+                "title": "CANADIAN SYLLABICS CARRIER WO"
+            }, 
+            {
+                "charcode": "0x15d2", 
+                "title": "CANADIAN SYLLABICS CARRIER WE"
+            }, 
+            {
+                "charcode": "0x15d3", 
+                "title": "CANADIAN SYLLABICS CARRIER WEE"
+            }, 
+            {
+                "charcode": "0x15d4", 
+                "title": "CANADIAN SYLLABICS CARRIER WI"
+            }, 
+            {
+                "charcode": "0x15d5", 
+                "title": "CANADIAN SYLLABICS CARRIER WA"
+            }, 
+            {
+                "charcode": "0x15d6", 
+                "title": "CANADIAN SYLLABICS CARRIER HWU"
+            }, 
+            {
+                "charcode": "0x15d7", 
+                "title": "CANADIAN SYLLABICS CARRIER HWO"
+            }, 
+            {
+                "charcode": "0x15d8", 
+                "title": "CANADIAN SYLLABICS CARRIER HWE"
+            }, 
+            {
+                "charcode": "0x15d9", 
+                "title": "CANADIAN SYLLABICS CARRIER HWEE"
+            }, 
+            {
+                "charcode": "0x15da", 
+                "title": "CANADIAN SYLLABICS CARRIER HWI"
+            }, 
+            {
+                "charcode": "0x15db", 
+                "title": "CANADIAN SYLLABICS CARRIER HWA"
+            }, 
+            {
+                "charcode": "0x15dc", 
+                "title": "CANADIAN SYLLABICS CARRIER THU"
+            }, 
+            {
+                "charcode": "0x15dd", 
+                "title": "CANADIAN SYLLABICS CARRIER THO"
+            }, 
+            {
+                "charcode": "0x15de", 
+                "title": "CANADIAN SYLLABICS CARRIER THE"
+            }, 
+            {
+                "charcode": "0x15df", 
+                "title": "CANADIAN SYLLABICS CARRIER THEE"
+            }, 
+            {
+                "charcode": "0x15e0", 
+                "title": "CANADIAN SYLLABICS CARRIER THI"
+            }, 
+            {
+                "charcode": "0x15e1", 
+                "title": "CANADIAN SYLLABICS CARRIER THA"
+            }, 
+            {
+                "charcode": "0x15e2", 
+                "title": "CANADIAN SYLLABICS CARRIER TTU"
+            }, 
+            {
+                "charcode": "0x15e3", 
+                "title": "CANADIAN SYLLABICS CARRIER TTO"
+            }, 
+            {
+                "charcode": "0x15e4", 
+                "title": "CANADIAN SYLLABICS CARRIER TTE"
+            }, 
+            {
+                "charcode": "0x15e5", 
+                "title": "CANADIAN SYLLABICS CARRIER TTEE"
+            }, 
+            {
+                "charcode": "0x15e6", 
+                "title": "CANADIAN SYLLABICS CARRIER TTI"
+            }, 
+            {
+                "charcode": "0x15e7", 
+                "title": "CANADIAN SYLLABICS CARRIER TTA"
+            }, 
+            {
+                "charcode": "0x15e8", 
+                "title": "CANADIAN SYLLABICS CARRIER PU"
+            }, 
+            {
+                "charcode": "0x15e9", 
+                "title": "CANADIAN SYLLABICS CARRIER PO"
+            }, 
+            {
+                "charcode": "0x15ea", 
+                "title": "CANADIAN SYLLABICS CARRIER PE"
+            }, 
+            {
+                "charcode": "0x15eb", 
+                "title": "CANADIAN SYLLABICS CARRIER PEE"
+            }, 
+            {
+                "charcode": "0x15ec", 
+                "title": "CANADIAN SYLLABICS CARRIER PI"
+            }, 
+            {
+                "charcode": "0x15ed", 
+                "title": "CANADIAN SYLLABICS CARRIER PA"
+            }, 
+            {
+                "charcode": "0x15ee", 
+                "title": "CANADIAN SYLLABICS CARRIER P"
+            }, 
+            {
+                "charcode": "0x15ef", 
+                "title": "CANADIAN SYLLABICS CARRIER GU"
+            }, 
+            {
+                "charcode": "0x15f0", 
+                "title": "CANADIAN SYLLABICS CARRIER GO"
+            }, 
+            {
+                "charcode": "0x15f1", 
+                "title": "CANADIAN SYLLABICS CARRIER GE"
+            }, 
+            {
+                "charcode": "0x15f2", 
+                "title": "CANADIAN SYLLABICS CARRIER GEE"
+            }, 
+            {
+                "charcode": "0x15f3", 
+                "title": "CANADIAN SYLLABICS CARRIER GI"
+            }, 
+            {
+                "charcode": "0x15f4", 
+                "title": "CANADIAN SYLLABICS CARRIER GA"
+            }, 
+            {
+                "charcode": "0x15f5", 
+                "title": "CANADIAN SYLLABICS CARRIER KHU"
+            }, 
+            {
+                "charcode": "0x15f6", 
+                "title": "CANADIAN SYLLABICS CARRIER KHO"
+            }, 
+            {
+                "charcode": "0x15f7", 
+                "title": "CANADIAN SYLLABICS CARRIER KHE"
+            }, 
+            {
+                "charcode": "0x15f8", 
+                "title": "CANADIAN SYLLABICS CARRIER KHEE"
+            }, 
+            {
+                "charcode": "0x15f9", 
+                "title": "CANADIAN SYLLABICS CARRIER KHI"
+            }, 
+            {
+                "charcode": "0x15fa", 
+                "title": "CANADIAN SYLLABICS CARRIER KHA"
+            }, 
+            {
+                "charcode": "0x15fb", 
+                "title": "CANADIAN SYLLABICS CARRIER KKU"
+            }, 
+            {
+                "charcode": "0x15fc", 
+                "title": "CANADIAN SYLLABICS CARRIER KKO"
+            }, 
+            {
+                "charcode": "0x15fd", 
+                "title": "CANADIAN SYLLABICS CARRIER KKE"
+            }, 
+            {
+                "charcode": "0x15fe", 
+                "title": "CANADIAN SYLLABICS CARRIER KKEE"
+            }, 
+            {
+                "charcode": "0x15ff", 
+                "title": "CANADIAN SYLLABICS CARRIER KKI"
+            }, 
+            {
+                "charcode": "0x1600", 
+                "title": "CANADIAN SYLLABICS CARRIER KKA"
+            }, 
+            {
+                "charcode": "0x1601", 
+                "title": "CANADIAN SYLLABICS CARRIER KK"
+            }, 
+            {
+                "charcode": "0x1602", 
+                "title": "CANADIAN SYLLABICS CARRIER NU"
+            }, 
+            {
+                "charcode": "0x1603", 
+                "title": "CANADIAN SYLLABICS CARRIER NO"
+            }, 
+            {
+                "charcode": "0x1604", 
+                "title": "CANADIAN SYLLABICS CARRIER NE"
+            }, 
+            {
+                "charcode": "0x1605", 
+                "title": "CANADIAN SYLLABICS CARRIER NEE"
+            }, 
+            {
+                "charcode": "0x1606", 
+                "title": "CANADIAN SYLLABICS CARRIER NI"
+            }, 
+            {
+                "charcode": "0x1607", 
+                "title": "CANADIAN SYLLABICS CARRIER NA"
+            }, 
+            {
+                "charcode": "0x1608", 
+                "title": "CANADIAN SYLLABICS CARRIER MU"
+            }, 
+            {
+                "charcode": "0x1609", 
+                "title": "CANADIAN SYLLABICS CARRIER MO"
+            }, 
+            {
+                "charcode": "0x160a", 
+                "title": "CANADIAN SYLLABICS CARRIER ME"
+            }, 
+            {
+                "charcode": "0x160b", 
+                "title": "CANADIAN SYLLABICS CARRIER MEE"
+            }, 
+            {
+                "charcode": "0x160c", 
+                "title": "CANADIAN SYLLABICS CARRIER MI"
+            }, 
+            {
+                "charcode": "0x160d", 
+                "title": "CANADIAN SYLLABICS CARRIER MA"
+            }, 
+            {
+                "charcode": "0x160e", 
+                "title": "CANADIAN SYLLABICS CARRIER YU"
+            }, 
+            {
+                "charcode": "0x160f", 
+                "title": "CANADIAN SYLLABICS CARRIER YO"
+            }, 
+            {
+                "charcode": "0x1610", 
+                "title": "CANADIAN SYLLABICS CARRIER YE"
+            }, 
+            {
+                "charcode": "0x1611", 
+                "title": "CANADIAN SYLLABICS CARRIER YEE"
+            }, 
+            {
+                "charcode": "0x1612", 
+                "title": "CANADIAN SYLLABICS CARRIER YI"
+            }, 
+            {
+                "charcode": "0x1613", 
+                "title": "CANADIAN SYLLABICS CARRIER YA"
+            }, 
+            {
+                "charcode": "0x1614", 
+                "title": "CANADIAN SYLLABICS CARRIER JU"
+            }, 
+            {
+                "charcode": "0x1615", 
+                "title": "CANADIAN SYLLABICS SAYISI JU"
+            }, 
+            {
+                "charcode": "0x1616", 
+                "title": "CANADIAN SYLLABICS CARRIER JO"
+            }, 
+            {
+                "charcode": "0x1617", 
+                "title": "CANADIAN SYLLABICS CARRIER JE"
+            }, 
+            {
+                "charcode": "0x1618", 
+                "title": "CANADIAN SYLLABICS CARRIER JEE"
+            }, 
+            {
+                "charcode": "0x1619", 
+                "title": "CANADIAN SYLLABICS CARRIER JI"
+            }, 
+            {
+                "charcode": "0x161a", 
+                "title": "CANADIAN SYLLABICS SAYISI JI"
+            }, 
+            {
+                "charcode": "0x161b", 
+                "title": "CANADIAN SYLLABICS CARRIER JA"
+            }, 
+            {
+                "charcode": "0x161c", 
+                "title": "CANADIAN SYLLABICS CARRIER JJU"
+            }, 
+            {
+                "charcode": "0x161d", 
+                "title": "CANADIAN SYLLABICS CARRIER JJO"
+            }, 
+            {
+                "charcode": "0x161e", 
+                "title": "CANADIAN SYLLABICS CARRIER JJE"
+            }, 
+            {
+                "charcode": "0x161f", 
+                "title": "CANADIAN SYLLABICS CARRIER JJEE"
+            }, 
+            {
+                "charcode": "0x1620", 
+                "title": "CANADIAN SYLLABICS CARRIER JJI"
+            }, 
+            {
+                "charcode": "0x1621", 
+                "title": "CANADIAN SYLLABICS CARRIER JJA"
+            }, 
+            {
+                "charcode": "0x1622", 
+                "title": "CANADIAN SYLLABICS CARRIER LU"
+            }, 
+            {
+                "charcode": "0x1623", 
+                "title": "CANADIAN SYLLABICS CARRIER LO"
+            }, 
+            {
+                "charcode": "0x1624", 
+                "title": "CANADIAN SYLLABICS CARRIER LE"
+            }, 
+            {
+                "charcode": "0x1625", 
+                "title": "CANADIAN SYLLABICS CARRIER LEE"
+            }, 
+            {
+                "charcode": "0x1626", 
+                "title": "CANADIAN SYLLABICS CARRIER LI"
+            }, 
+            {
+                "charcode": "0x1627", 
+                "title": "CANADIAN SYLLABICS CARRIER LA"
+            }, 
+            {
+                "charcode": "0x1628", 
+                "title": "CANADIAN SYLLABICS CARRIER DLU"
+            }, 
+            {
+                "charcode": "0x1629", 
+                "title": "CANADIAN SYLLABICS CARRIER DLO"
+            }, 
+            {
+                "charcode": "0x162a", 
+                "title": "CANADIAN SYLLABICS CARRIER DLE"
+            }, 
+            {
+                "charcode": "0x162b", 
+                "title": "CANADIAN SYLLABICS CARRIER DLEE"
+            }, 
+            {
+                "charcode": "0x162c", 
+                "title": "CANADIAN SYLLABICS CARRIER DLI"
+            }, 
+            {
+                "charcode": "0x162d", 
+                "title": "CANADIAN SYLLABICS CARRIER DLA"
+            }, 
+            {
+                "charcode": "0x162e", 
+                "title": "CANADIAN SYLLABICS CARRIER LHU"
+            }, 
+            {
+                "charcode": "0x162f", 
+                "title": "CANADIAN SYLLABICS CARRIER LHO"
+            }, 
+            {
+                "charcode": "0x1630", 
+                "title": "CANADIAN SYLLABICS CARRIER LHE"
+            }, 
+            {
+                "charcode": "0x1631", 
+                "title": "CANADIAN SYLLABICS CARRIER LHEE"
+            }, 
+            {
+                "charcode": "0x1632", 
+                "title": "CANADIAN SYLLABICS CARRIER LHI"
+            }, 
+            {
+                "charcode": "0x1633", 
+                "title": "CANADIAN SYLLABICS CARRIER LHA"
+            }, 
+            {
+                "charcode": "0x1634", 
+                "title": "CANADIAN SYLLABICS CARRIER TLHU"
+            }, 
+            {
+                "charcode": "0x1635", 
+                "title": "CANADIAN SYLLABICS CARRIER TLHO"
+            }, 
+            {
+                "charcode": "0x1636", 
+                "title": "CANADIAN SYLLABICS CARRIER TLHE"
+            }, 
+            {
+                "charcode": "0x1637", 
+                "title": "CANADIAN SYLLABICS CARRIER TLHEE"
+            }, 
+            {
+                "charcode": "0x1638", 
+                "title": "CANADIAN SYLLABICS CARRIER TLHI"
+            }, 
+            {
+                "charcode": "0x1639", 
+                "title": "CANADIAN SYLLABICS CARRIER TLHA"
+            }, 
+            {
+                "charcode": "0x163a", 
+                "title": "CANADIAN SYLLABICS CARRIER TLU"
+            }, 
+            {
+                "charcode": "0x163b", 
+                "title": "CANADIAN SYLLABICS CARRIER TLO"
+            }, 
+            {
+                "charcode": "0x163c", 
+                "title": "CANADIAN SYLLABICS CARRIER TLE"
+            }, 
+            {
+                "charcode": "0x163d", 
+                "title": "CANADIAN SYLLABICS CARRIER TLEE"
+            }, 
+            {
+                "charcode": "0x163e", 
+                "title": "CANADIAN SYLLABICS CARRIER TLI"
+            }, 
+            {
+                "charcode": "0x163f", 
+                "title": "CANADIAN SYLLABICS CARRIER TLA"
+            }, 
+            {
+                "charcode": "0x1640", 
+                "title": "CANADIAN SYLLABICS CARRIER ZU"
+            }, 
+            {
+                "charcode": "0x1641", 
+                "title": "CANADIAN SYLLABICS CARRIER ZO"
+            }, 
+            {
+                "charcode": "0x1642", 
+                "title": "CANADIAN SYLLABICS CARRIER ZE"
+            }, 
+            {
+                "charcode": "0x1643", 
+                "title": "CANADIAN SYLLABICS CARRIER ZEE"
+            }, 
+            {
+                "charcode": "0x1644", 
+                "title": "CANADIAN SYLLABICS CARRIER ZI"
+            }, 
+            {
+                "charcode": "0x1645", 
+                "title": "CANADIAN SYLLABICS CARRIER ZA"
+            }, 
+            {
+                "charcode": "0x1646", 
+                "title": "CANADIAN SYLLABICS CARRIER Z"
+            }, 
+            {
+                "charcode": "0x1647", 
+                "title": "CANADIAN SYLLABICS CARRIER INITIAL Z"
+            }, 
+            {
+                "charcode": "0x1648", 
+                "title": "CANADIAN SYLLABICS CARRIER DZU"
+            }, 
+            {
+                "charcode": "0x1649", 
+                "title": "CANADIAN SYLLABICS CARRIER DZO"
+            }, 
+            {
+                "charcode": "0x164a", 
+                "title": "CANADIAN SYLLABICS CARRIER DZE"
+            }, 
+            {
+                "charcode": "0x164b", 
+                "title": "CANADIAN SYLLABICS CARRIER DZEE"
+            }, 
+            {
+                "charcode": "0x164c", 
+                "title": "CANADIAN SYLLABICS CARRIER DZI"
+            }, 
+            {
+                "charcode": "0x164d", 
+                "title": "CANADIAN SYLLABICS CARRIER DZA"
+            }, 
+            {
+                "charcode": "0x164e", 
+                "title": "CANADIAN SYLLABICS CARRIER SU"
+            }, 
+            {
+                "charcode": "0x164f", 
+                "title": "CANADIAN SYLLABICS CARRIER SO"
+            }, 
+            {
+                "charcode": "0x1650", 
+                "title": "CANADIAN SYLLABICS CARRIER SE"
+            }, 
+            {
+                "charcode": "0x1651", 
+                "title": "CANADIAN SYLLABICS CARRIER SEE"
+            }, 
+            {
+                "charcode": "0x1652", 
+                "title": "CANADIAN SYLLABICS CARRIER SI"
+            }, 
+            {
+                "charcode": "0x1653", 
+                "title": "CANADIAN SYLLABICS CARRIER SA"
+            }, 
+            {
+                "charcode": "0x1654", 
+                "title": "CANADIAN SYLLABICS CARRIER SHU"
+            }, 
+            {
+                "charcode": "0x1655", 
+                "title": "CANADIAN SYLLABICS CARRIER SHO"
+            }, 
+            {
+                "charcode": "0x1656", 
+                "title": "CANADIAN SYLLABICS CARRIER SHE"
+            }, 
+            {
+                "charcode": "0x1657", 
+                "title": "CANADIAN SYLLABICS CARRIER SHEE"
+            }, 
+            {
+                "charcode": "0x1658", 
+                "title": "CANADIAN SYLLABICS CARRIER SHI"
+            }, 
+            {
+                "charcode": "0x1659", 
+                "title": "CANADIAN SYLLABICS CARRIER SHA"
+            }, 
+            {
+                "charcode": "0x165a", 
+                "title": "CANADIAN SYLLABICS CARRIER SH"
+            }, 
+            {
+                "charcode": "0x165b", 
+                "title": "CANADIAN SYLLABICS CARRIER TSU"
+            }, 
+            {
+                "charcode": "0x165c", 
+                "title": "CANADIAN SYLLABICS CARRIER TSO"
+            }, 
+            {
+                "charcode": "0x165d", 
+                "title": "CANADIAN SYLLABICS CARRIER TSE"
+            }, 
+            {
+                "charcode": "0x165e", 
+                "title": "CANADIAN SYLLABICS CARRIER TSEE"
+            }, 
+            {
+                "charcode": "0x165f", 
+                "title": "CANADIAN SYLLABICS CARRIER TSI"
+            }, 
+            {
+                "charcode": "0x1660", 
+                "title": "CANADIAN SYLLABICS CARRIER TSA"
+            }, 
+            {
+                "charcode": "0x1661", 
+                "title": "CANADIAN SYLLABICS CARRIER CHU"
+            }, 
+            {
+                "charcode": "0x1662", 
+                "title": "CANADIAN SYLLABICS CARRIER CHO"
+            }, 
+            {
+                "charcode": "0x1663", 
+                "title": "CANADIAN SYLLABICS CARRIER CHE"
+            }, 
+            {
+                "charcode": "0x1664", 
+                "title": "CANADIAN SYLLABICS CARRIER CHEE"
+            }, 
+            {
+                "charcode": "0x1665", 
+                "title": "CANADIAN SYLLABICS CARRIER CHI"
+            }, 
+            {
+                "charcode": "0x1666", 
+                "title": "CANADIAN SYLLABICS CARRIER CHA"
+            }, 
+            {
+                "charcode": "0x1667", 
+                "title": "CANADIAN SYLLABICS CARRIER TTSU"
+            }, 
+            {
+                "charcode": "0x1668", 
+                "title": "CANADIAN SYLLABICS CARRIER TTSO"
+            }, 
+            {
+                "charcode": "0x1669", 
+                "title": "CANADIAN SYLLABICS CARRIER TTSE"
+            }, 
+            {
+                "charcode": "0x166a", 
+                "title": "CANADIAN SYLLABICS CARRIER TTSEE"
+            }, 
+            {
+                "charcode": "0x166b", 
+                "title": "CANADIAN SYLLABICS CARRIER TTSI"
+            }, 
+            {
+                "charcode": "0x166c", 
+                "title": "CANADIAN SYLLABICS CARRIER TTSA"
+            }, 
+            {
+                "charcode": "0x166d", 
+                "title": "CANADIAN SYLLABICS CHI SIGN"
+            }, 
+            {
+                "charcode": "0x166e", 
+                "title": "CANADIAN SYLLABICS FULL STOP"
+            }, 
+            {
+                "charcode": "0x166f", 
+                "title": "CANADIAN SYLLABICS QAI"
+            }, 
+            {
+                "charcode": "0x1670", 
+                "title": "CANADIAN SYLLABICS NGAI"
+            }, 
+            {
+                "charcode": "0x1671", 
+                "title": "CANADIAN SYLLABICS NNGI"
+            }, 
+            {
+                "charcode": "0x1672", 
+                "title": "CANADIAN SYLLABICS NNGII"
+            }, 
+            {
+                "charcode": "0x1673", 
+                "title": "CANADIAN SYLLABICS NNGO"
+            }, 
+            {
+                "charcode": "0x1674", 
+                "title": "CANADIAN SYLLABICS NNGOO"
+            }, 
+            {
+                "charcode": "0x1675", 
+                "title": "CANADIAN SYLLABICS NNGA"
+            }, 
+            {
+                "charcode": "0x1676", 
+                "title": "CANADIAN SYLLABICS NNGAA"
+            }, 
+            {
+                "charcode": "0x1677", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE THWEE"
+            }, 
+            {
+                "charcode": "0x1678", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE THWI"
+            }, 
+            {
+                "charcode": "0x1679", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE THWII"
+            }, 
+            {
+                "charcode": "0x167a", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE THWO"
+            }, 
+            {
+                "charcode": "0x167b", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE THWOO"
+            }, 
+            {
+                "charcode": "0x167c", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE THWA"
+            }, 
+            {
+                "charcode": "0x167d", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE THWAA"
+            }, 
+            {
+                "charcode": "0x167e", 
+                "title": "CANADIAN SYLLABICS WOODS-CREE FINAL TH"
+            }
+        ], 
+        "name": "Unified Canadian Aboriginal Syllabics"
+    }
+]

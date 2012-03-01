@@ -1,0 +1,275 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xe81", 
+                "title": "LAO LETTER KO"
+            }, 
+            {
+                "charcode": "0xe82", 
+                "title": "LAO LETTER KHO SUNG"
+            }, 
+            {
+                "charcode": "0xe84", 
+                "title": "LAO LETTER KHO TAM"
+            }, 
+            {
+                "charcode": "0xe87", 
+                "title": "LAO LETTER NGO"
+            }, 
+            {
+                "charcode": "0xe88", 
+                "title": "LAO LETTER CO"
+            }, 
+            {
+                "charcode": "0xe8a", 
+                "title": "LAO LETTER SO TAM"
+            }, 
+            {
+                "charcode": "0xe8d", 
+                "title": "LAO LETTER NYO"
+            }, 
+            {
+                "charcode": "0xe94", 
+                "title": "LAO LETTER DO"
+            }, 
+            {
+                "charcode": "0xe95", 
+                "title": "LAO LETTER TO"
+            }, 
+            {
+                "charcode": "0xe96", 
+                "title": "LAO LETTER THO SUNG"
+            }, 
+            {
+                "charcode": "0xe97", 
+                "title": "LAO LETTER THO TAM"
+            }, 
+            {
+                "charcode": "0xe99", 
+                "title": "LAO LETTER NO"
+            }, 
+            {
+                "charcode": "0xe9a", 
+                "title": "LAO LETTER BO"
+            }, 
+            {
+                "charcode": "0xe9b", 
+                "title": "LAO LETTER PO"
+            }, 
+            {
+                "charcode": "0xe9c", 
+                "title": "LAO LETTER PHO SUNG"
+            }, 
+            {
+                "charcode": "0xe9d", 
+                "title": "LAO LETTER FO TAM"
+            }, 
+            {
+                "charcode": "0xe9e", 
+                "title": "LAO LETTER PHO TAM"
+            }, 
+            {
+                "charcode": "0xe9f", 
+                "title": "LAO LETTER FO SUNG"
+            }, 
+            {
+                "charcode": "0xea1", 
+                "title": "LAO LETTER MO"
+            }, 
+            {
+                "charcode": "0xea2", 
+                "title": "LAO LETTER YO"
+            }, 
+            {
+                "charcode": "0xea3", 
+                "title": "LAO LETTER LO LING"
+            }, 
+            {
+                "charcode": "0xea5", 
+                "title": "LAO LETTER LO LOOT"
+            }, 
+            {
+                "charcode": "0xea7", 
+                "title": "LAO LETTER WO"
+            }, 
+            {
+                "charcode": "0xeaa", 
+                "title": "LAO LETTER SO SUNG"
+            }, 
+            {
+                "charcode": "0xeab", 
+                "title": "LAO LETTER HO SUNG"
+            }, 
+            {
+                "charcode": "0xead", 
+                "title": "LAO LETTER O"
+            }, 
+            {
+                "charcode": "0xeae", 
+                "title": "LAO LETTER HO TAM"
+            }, 
+            {
+                "charcode": "0xeaf", 
+                "title": "LAO ELLIPSIS"
+            }, 
+            {
+                "charcode": "0xeb0", 
+                "title": "LAO VOWEL SIGN A"
+            }, 
+            {
+                "charcode": "0xeb1", 
+                "title": "LAO VOWEL SIGN MAI KAN"
+            }, 
+            {
+                "charcode": "0xeb2", 
+                "title": "LAO VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0xeb3", 
+                "title": "LAO VOWEL SIGN AM"
+            }, 
+            {
+                "charcode": "0xeb4", 
+                "title": "LAO VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0xeb5", 
+                "title": "LAO VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0xeb6", 
+                "title": "LAO VOWEL SIGN Y"
+            }, 
+            {
+                "charcode": "0xeb7", 
+                "title": "LAO VOWEL SIGN YY"
+            }, 
+            {
+                "charcode": "0xeb8", 
+                "title": "LAO VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0xeb9", 
+                "title": "LAO VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0xebb", 
+                "title": "LAO VOWEL SIGN MAI KON"
+            }, 
+            {
+                "charcode": "0xebc", 
+                "title": "LAO SEMIVOWEL SIGN LO"
+            }, 
+            {
+                "charcode": "0xebd", 
+                "title": "LAO SEMIVOWEL SIGN NYO"
+            }, 
+            {
+                "charcode": "0xec0", 
+                "title": "LAO VOWEL SIGN E"
+            }, 
+            {
+                "charcode": "0xec1", 
+                "title": "LAO VOWEL SIGN EI"
+            }, 
+            {
+                "charcode": "0xec2", 
+                "title": "LAO VOWEL SIGN O"
+            }, 
+            {
+                "charcode": "0xec3", 
+                "title": "LAO VOWEL SIGN AY"
+            }, 
+            {
+                "charcode": "0xec4", 
+                "title": "LAO VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0xec6", 
+                "title": "LAO KO LA"
+            }, 
+            {
+                "charcode": "0xec8", 
+                "title": "LAO TONE MAI EK"
+            }, 
+            {
+                "charcode": "0xec9", 
+                "title": "LAO TONE MAI THO"
+            }, 
+            {
+                "charcode": "0xeca", 
+                "title": "LAO TONE MAI TI"
+            }, 
+            {
+                "charcode": "0xecb", 
+                "title": "LAO TONE MAI CATAWA"
+            }, 
+            {
+                "charcode": "0xecc", 
+                "title": "LAO CANCELLATION MARK"
+            }, 
+            {
+                "charcode": "0xecd", 
+                "title": "LAO NIGGAHITA"
+            }, 
+            {
+                "charcode": "0xed0", 
+                "title": "LAO DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0xed1", 
+                "title": "LAO DIGIT ONE"
+            }, 
+            {
+                "charcode": "0xed2", 
+                "title": "LAO DIGIT TWO"
+            }, 
+            {
+                "charcode": "0xed3", 
+                "title": "LAO DIGIT THREE"
+            }, 
+            {
+                "charcode": "0xed4", 
+                "title": "LAO DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0xed5", 
+                "title": "LAO DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0xed6", 
+                "title": "LAO DIGIT SIX"
+            }, 
+            {
+                "charcode": "0xed7", 
+                "title": "LAO DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0xed8", 
+                "title": "LAO DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0xed9", 
+                "title": "LAO DIGIT NINE"
+            }, 
+            {
+                "charcode": "0xedc", 
+                "title": "LAO HO NO"
+            }, 
+            {
+                "charcode": "0xedd", 
+                "title": "LAO HO MO"
+            }, 
+            {
+                "charcode": "0xede", 
+                "title": "LAO LETTER KHMU GO"
+            }, 
+            {
+                "charcode": "0xedf", 
+                "title": "LAO LETTER KHMU NYO"
+            }
+        ], 
+        "name": "Lao"
+    }
+]

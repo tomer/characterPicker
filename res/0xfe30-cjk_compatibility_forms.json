@@ -1,0 +1,131 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xfe30", 
+                "title": "PRESENTATION FORM FOR VERTICAL TWO DOT LEADER"
+            }, 
+            {
+                "charcode": "0xfe31", 
+                "title": "PRESENTATION FORM FOR VERTICAL EM DASH"
+            }, 
+            {
+                "charcode": "0xfe32", 
+                "title": "PRESENTATION FORM FOR VERTICAL EN DASH"
+            }, 
+            {
+                "charcode": "0xfe33", 
+                "title": "PRESENTATION FORM FOR VERTICAL LOW LINE"
+            }, 
+            {
+                "charcode": "0xfe34", 
+                "title": "PRESENTATION FORM FOR VERTICAL WAVY LOW LINE"
+            }, 
+            {
+                "charcode": "0xfe35", 
+                "title": "PRESENTATION FORM FOR VERTICAL LEFT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0xfe36", 
+                "title": "PRESENTATION FORM FOR VERTICAL RIGHT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0xfe37", 
+                "title": "PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET"
+            }, 
+            {
+                "charcode": "0xfe38", 
+                "title": "PRESENTATION FORM FOR VERTICAL RIGHT CURLY BRACKET"
+            }, 
+            {
+                "charcode": "0xfe39", 
+                "title": "PRESENTATION FORM FOR VERTICAL LEFT TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0xfe3a", 
+                "title": "PRESENTATION FORM FOR VERTICAL RIGHT TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0xfe3b", 
+                "title": "PRESENTATION FORM FOR VERTICAL LEFT BLACK LENTICULAR BRACKET"
+            }, 
+            {
+                "charcode": "0xfe3c", 
+                "title": "PRESENTATION FORM FOR VERTICAL RIGHT BLACK LENTICULAR BRACKET"
+            }, 
+            {
+                "charcode": "0xfe3d", 
+                "title": "PRESENTATION FORM FOR VERTICAL LEFT DOUBLE ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0xfe3e", 
+                "title": "PRESENTATION FORM FOR VERTICAL RIGHT DOUBLE ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0xfe3f", 
+                "title": "PRESENTATION FORM FOR VERTICAL LEFT ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0xfe40", 
+                "title": "PRESENTATION FORM FOR VERTICAL RIGHT ANGLE BRACKET"
+            }, 
+            {
+                "charcode": "0xfe41", 
+                "title": "PRESENTATION FORM FOR VERTICAL LEFT CORNER BRACKET"
+            }, 
+            {
+                "charcode": "0xfe42", 
+                "title": "PRESENTATION FORM FOR VERTICAL RIGHT CORNER BRACKET"
+            }, 
+            {
+                "charcode": "0xfe43", 
+                "title": "PRESENTATION FORM FOR VERTICAL LEFT WHITE CORNER BRACKET"
+            }, 
+            {
+                "charcode": "0xfe44", 
+                "title": "PRESENTATION FORM FOR VERTICAL RIGHT WHITE CORNER BRACKET"
+            }, 
+            {
+                "charcode": "0xfe45", 
+                "title": "SESAME DOT"
+            }, 
+            {
+                "charcode": "0xfe46", 
+                "title": "WHITE SESAME DOT"
+            }, 
+            {
+                "charcode": "0xfe47", 
+                "title": "PRESENTATION FORM FOR VERTICAL LEFT SQUARE BRACKET"
+            }, 
+            {
+                "charcode": "0xfe48", 
+                "title": "PRESENTATION FORM FOR VERTICAL RIGHT SQUARE BRACKET"
+            }, 
+            {
+                "charcode": "0xfe49", 
+                "title": "DASHED OVERLINE"
+            }, 
+            {
+                "charcode": "0xfe4a", 
+                "title": "CENTRELINE OVERLINE"
+            }, 
+            {
+                "charcode": "0xfe4b", 
+                "title": "WAVY OVERLINE"
+            }, 
+            {
+                "charcode": "0xfe4c", 
+                "title": "DOUBLE WAVY OVERLINE"
+            }, 
+            {
+                "charcode": "0xfe4d", 
+                "title": "DASHED LOW LINE"
+            }, 
+            {
+                "charcode": "0xfe4e", 
+                "title": "CENTRELINE LOW LINE"
+            }
+        ], 
+        "name": "CJK Compatibility Forms"
+    }
+]

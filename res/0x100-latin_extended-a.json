@@ -1,0 +1,515 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x100", 
+                "title": "LATIN CAPITAL LETTER A WITH MACRON"
+            }, 
+            {
+                "charcode": "0x101", 
+                "title": "LATIN SMALL LETTER A WITH MACRON"
+            }, 
+            {
+                "charcode": "0x102", 
+                "title": "LATIN CAPITAL LETTER A WITH BREVE"
+            }, 
+            {
+                "charcode": "0x103", 
+                "title": "LATIN SMALL LETTER A WITH BREVE"
+            }, 
+            {
+                "charcode": "0x104", 
+                "title": "LATIN CAPITAL LETTER A WITH OGONEK"
+            }, 
+            {
+                "charcode": "0x105", 
+                "title": "LATIN SMALL LETTER A WITH OGONEK"
+            }, 
+            {
+                "charcode": "0x106", 
+                "title": "LATIN CAPITAL LETTER C WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x107", 
+                "title": "LATIN SMALL LETTER C WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x108", 
+                "title": "LATIN CAPITAL LETTER C WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x109", 
+                "title": "LATIN SMALL LETTER C WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x10a", 
+                "title": "LATIN CAPITAL LETTER C WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x10b", 
+                "title": "LATIN SMALL LETTER C WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x10c", 
+                "title": "LATIN CAPITAL LETTER C WITH CARON"
+            }, 
+            {
+                "charcode": "0x10d", 
+                "title": "LATIN SMALL LETTER C WITH CARON"
+            }, 
+            {
+                "charcode": "0x10e", 
+                "title": "LATIN CAPITAL LETTER D WITH CARON"
+            }, 
+            {
+                "charcode": "0x10f", 
+                "title": "LATIN SMALL LETTER D WITH CARON"
+            }, 
+            {
+                "charcode": "0x110", 
+                "title": "LATIN CAPITAL LETTER D WITH STROKE"
+            }, 
+            {
+                "charcode": "0x111", 
+                "title": "LATIN SMALL LETTER D WITH STROKE"
+            }, 
+            {
+                "charcode": "0x112", 
+                "title": "LATIN CAPITAL LETTER E WITH MACRON"
+            }, 
+            {
+                "charcode": "0x113", 
+                "title": "LATIN SMALL LETTER E WITH MACRON"
+            }, 
+            {
+                "charcode": "0x114", 
+                "title": "LATIN CAPITAL LETTER E WITH BREVE"
+            }, 
+            {
+                "charcode": "0x115", 
+                "title": "LATIN SMALL LETTER E WITH BREVE"
+            }, 
+            {
+                "charcode": "0x116", 
+                "title": "LATIN CAPITAL LETTER E WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x117", 
+                "title": "LATIN SMALL LETTER E WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x118", 
+                "title": "LATIN CAPITAL LETTER E WITH OGONEK"
+            }, 
+            {
+                "charcode": "0x119", 
+                "title": "LATIN SMALL LETTER E WITH OGONEK"
+            }, 
+            {
+                "charcode": "0x11a", 
+                "title": "LATIN CAPITAL LETTER E WITH CARON"
+            }, 
+            {
+                "charcode": "0x11b", 
+                "title": "LATIN SMALL LETTER E WITH CARON"
+            }, 
+            {
+                "charcode": "0x11c", 
+                "title": "LATIN CAPITAL LETTER G WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x11d", 
+                "title": "LATIN SMALL LETTER G WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x11e", 
+                "title": "LATIN CAPITAL LETTER G WITH BREVE"
+            }, 
+            {
+                "charcode": "0x11f", 
+                "title": "LATIN SMALL LETTER G WITH BREVE"
+            }, 
+            {
+                "charcode": "0x120", 
+                "title": "LATIN CAPITAL LETTER G WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x121", 
+                "title": "LATIN SMALL LETTER G WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x122", 
+                "title": "LATIN CAPITAL LETTER G WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x123", 
+                "title": "LATIN SMALL LETTER G WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x124", 
+                "title": "LATIN CAPITAL LETTER H WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x125", 
+                "title": "LATIN SMALL LETTER H WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x126", 
+                "title": "LATIN CAPITAL LETTER H WITH STROKE"
+            }, 
+            {
+                "charcode": "0x127", 
+                "title": "LATIN SMALL LETTER H WITH STROKE"
+            }, 
+            {
+                "charcode": "0x128", 
+                "title": "LATIN CAPITAL LETTER I WITH TILDE"
+            }, 
+            {
+                "charcode": "0x129", 
+                "title": "LATIN SMALL LETTER I WITH TILDE"
+            }, 
+            {
+                "charcode": "0x12a", 
+                "title": "LATIN CAPITAL LETTER I WITH MACRON"
+            }, 
+            {
+                "charcode": "0x12b", 
+                "title": "LATIN SMALL LETTER I WITH MACRON"
+            }, 
+            {
+                "charcode": "0x12c", 
+                "title": "LATIN CAPITAL LETTER I WITH BREVE"
+            }, 
+            {
+                "charcode": "0x12d", 
+                "title": "LATIN SMALL LETTER I WITH BREVE"
+            }, 
+            {
+                "charcode": "0x12e", 
+                "title": "LATIN CAPITAL LETTER I WITH OGONEK"
+            }, 
+            {
+                "charcode": "0x12f", 
+                "title": "LATIN SMALL LETTER I WITH OGONEK"
+            }, 
+            {
+                "charcode": "0x130", 
+                "title": "LATIN CAPITAL LETTER I WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x131", 
+                "title": "LATIN SMALL LETTER DOTLESS I"
+            }, 
+            {
+                "charcode": "0x132", 
+                "title": "LATIN CAPITAL LIGATURE IJ"
+            }, 
+            {
+                "charcode": "0x133", 
+                "title": "LATIN SMALL LIGATURE IJ"
+            }, 
+            {
+                "charcode": "0x134", 
+                "title": "LATIN CAPITAL LETTER J WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x135", 
+                "title": "LATIN SMALL LETTER J WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x136", 
+                "title": "LATIN CAPITAL LETTER K WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x137", 
+                "title": "LATIN SMALL LETTER K WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x138", 
+                "title": "LATIN SMALL LETTER KRA"
+            }, 
+            {
+                "charcode": "0x139", 
+                "title": "LATIN CAPITAL LETTER L WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x13a", 
+                "title": "LATIN SMALL LETTER L WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x13b", 
+                "title": "LATIN CAPITAL LETTER L WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x13c", 
+                "title": "LATIN SMALL LETTER L WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x13d", 
+                "title": "LATIN CAPITAL LETTER L WITH CARON"
+            }, 
+            {
+                "charcode": "0x13e", 
+                "title": "LATIN SMALL LETTER L WITH CARON"
+            }, 
+            {
+                "charcode": "0x13f", 
+                "title": "LATIN CAPITAL LETTER L WITH MIDDLE DOT"
+            }, 
+            {
+                "charcode": "0x140", 
+                "title": "LATIN SMALL LETTER L WITH MIDDLE DOT"
+            }, 
+            {
+                "charcode": "0x141", 
+                "title": "LATIN CAPITAL LETTER L WITH STROKE"
+            }, 
+            {
+                "charcode": "0x142", 
+                "title": "LATIN SMALL LETTER L WITH STROKE"
+            }, 
+            {
+                "charcode": "0x143", 
+                "title": "LATIN CAPITAL LETTER N WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x144", 
+                "title": "LATIN SMALL LETTER N WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x145", 
+                "title": "LATIN CAPITAL LETTER N WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x146", 
+                "title": "LATIN SMALL LETTER N WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x147", 
+                "title": "LATIN CAPITAL LETTER N WITH CARON"
+            }, 
+            {
+                "charcode": "0x148", 
+                "title": "LATIN SMALL LETTER N WITH CARON"
+            }, 
+            {
+                "charcode": "0x149", 
+                "title": "LATIN SMALL LETTER N PRECEDED BY APOSTROPHE"
+            }, 
+            {
+                "charcode": "0x14a", 
+                "title": "LATIN CAPITAL LETTER ENG"
+            }, 
+            {
+                "charcode": "0x14b", 
+                "title": "LATIN SMALL LETTER ENG"
+            }, 
+            {
+                "charcode": "0x14c", 
+                "title": "LATIN CAPITAL LETTER O WITH MACRON"
+            }, 
+            {
+                "charcode": "0x14d", 
+                "title": "LATIN SMALL LETTER O WITH MACRON"
+            }, 
+            {
+                "charcode": "0x14e", 
+                "title": "LATIN CAPITAL LETTER O WITH BREVE"
+            }, 
+            {
+                "charcode": "0x14f", 
+                "title": "LATIN SMALL LETTER O WITH BREVE"
+            }, 
+            {
+                "charcode": "0x150", 
+                "title": "LATIN CAPITAL LETTER O WITH DOUBLE ACUTE"
+            }, 
+            {
+                "charcode": "0x151", 
+                "title": "LATIN SMALL LETTER O WITH DOUBLE ACUTE"
+            }, 
+            {
+                "charcode": "0x152", 
+                "title": "LATIN CAPITAL LIGATURE OE"
+            }, 
+            {
+                "charcode": "0x153", 
+                "title": "LATIN SMALL LIGATURE OE"
+            }, 
+            {
+                "charcode": "0x154", 
+                "title": "LATIN CAPITAL LETTER R WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x155", 
+                "title": "LATIN SMALL LETTER R WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x156", 
+                "title": "LATIN CAPITAL LETTER R WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x157", 
+                "title": "LATIN SMALL LETTER R WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x158", 
+                "title": "LATIN CAPITAL LETTER R WITH CARON"
+            }, 
+            {
+                "charcode": "0x159", 
+                "title": "LATIN SMALL LETTER R WITH CARON"
+            }, 
+            {
+                "charcode": "0x15a", 
+                "title": "LATIN CAPITAL LETTER S WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x15b", 
+                "title": "LATIN SMALL LETTER S WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x15c", 
+                "title": "LATIN CAPITAL LETTER S WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x15d", 
+                "title": "LATIN SMALL LETTER S WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x15e", 
+                "title": "LATIN CAPITAL LETTER S WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x15f", 
+                "title": "LATIN SMALL LETTER S WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x160", 
+                "title": "LATIN CAPITAL LETTER S WITH CARON"
+            }, 
+            {
+                "charcode": "0x161", 
+                "title": "LATIN SMALL LETTER S WITH CARON"
+            }, 
+            {
+                "charcode": "0x162", 
+                "title": "LATIN CAPITAL LETTER T WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x163", 
+                "title": "LATIN SMALL LETTER T WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0x164", 
+                "title": "LATIN CAPITAL LETTER T WITH CARON"
+            }, 
+            {
+                "charcode": "0x165", 
+                "title": "LATIN SMALL LETTER T WITH CARON"
+            }, 
+            {
+                "charcode": "0x166", 
+                "title": "LATIN CAPITAL LETTER T WITH STROKE"
+            }, 
+            {
+                "charcode": "0x167", 
+                "title": "LATIN SMALL LETTER T WITH STROKE"
+            }, 
+            {
+                "charcode": "0x168", 
+                "title": "LATIN CAPITAL LETTER U WITH TILDE"
+            }, 
+            {
+                "charcode": "0x169", 
+                "title": "LATIN SMALL LETTER U WITH TILDE"
+            }, 
+            {
+                "charcode": "0x16a", 
+                "title": "LATIN CAPITAL LETTER U WITH MACRON"
+            }, 
+            {
+                "charcode": "0x16b", 
+                "title": "LATIN SMALL LETTER U WITH MACRON"
+            }, 
+            {
+                "charcode": "0x16c", 
+                "title": "LATIN CAPITAL LETTER U WITH BREVE"
+            }, 
+            {
+                "charcode": "0x16d", 
+                "title": "LATIN SMALL LETTER U WITH BREVE"
+            }, 
+            {
+                "charcode": "0x16e", 
+                "title": "LATIN CAPITAL LETTER U WITH RING ABOVE"
+            }, 
+            {
+                "charcode": "0x16f", 
+                "title": "LATIN SMALL LETTER U WITH RING ABOVE"
+            }, 
+            {
+                "charcode": "0x170", 
+                "title": "LATIN CAPITAL LETTER U WITH DOUBLE ACUTE"
+            }, 
+            {
+                "charcode": "0x171", 
+                "title": "LATIN SMALL LETTER U WITH DOUBLE ACUTE"
+            }, 
+            {
+                "charcode": "0x172", 
+                "title": "LATIN CAPITAL LETTER U WITH OGONEK"
+            }, 
+            {
+                "charcode": "0x173", 
+                "title": "LATIN SMALL LETTER U WITH OGONEK"
+            }, 
+            {
+                "charcode": "0x174", 
+                "title": "LATIN CAPITAL LETTER W WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x175", 
+                "title": "LATIN SMALL LETTER W WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x176", 
+                "title": "LATIN CAPITAL LETTER Y WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x177", 
+                "title": "LATIN SMALL LETTER Y WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0x178", 
+                "title": "LATIN CAPITAL LETTER Y WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0x179", 
+                "title": "LATIN CAPITAL LETTER Z WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x17a", 
+                "title": "LATIN SMALL LETTER Z WITH ACUTE"
+            }, 
+            {
+                "charcode": "0x17b", 
+                "title": "LATIN CAPITAL LETTER Z WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x17c", 
+                "title": "LATIN SMALL LETTER Z WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x17d", 
+                "title": "LATIN CAPITAL LETTER Z WITH CARON"
+            }, 
+            {
+                "charcode": "0x17e", 
+                "title": "LATIN SMALL LETTER Z WITH CARON"
+            }
+        ], 
+        "name": "Latin Extended-A"
+    }
+]

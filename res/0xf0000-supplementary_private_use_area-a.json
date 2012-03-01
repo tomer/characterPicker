@@ -1,0 +1,15 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xf0000", 
+                "title": "<Plane 15 Private Use, First>"
+            }, 
+            {
+                "charcode": "0xffffd", 
+                "title": "<Plane 15 Private Use, Last>"
+            }
+        ], 
+        "name": "Supplementary Private Use Area-A"
+    }
+]

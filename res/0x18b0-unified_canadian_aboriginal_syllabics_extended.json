@@ -1,0 +1,287 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x18b0", 
+                "title": "CANADIAN SYLLABICS OY"
+            }, 
+            {
+                "charcode": "0x18b1", 
+                "title": "CANADIAN SYLLABICS AY"
+            }, 
+            {
+                "charcode": "0x18b2", 
+                "title": "CANADIAN SYLLABICS AAY"
+            }, 
+            {
+                "charcode": "0x18b3", 
+                "title": "CANADIAN SYLLABICS WAY"
+            }, 
+            {
+                "charcode": "0x18b4", 
+                "title": "CANADIAN SYLLABICS POY"
+            }, 
+            {
+                "charcode": "0x18b5", 
+                "title": "CANADIAN SYLLABICS PAY"
+            }, 
+            {
+                "charcode": "0x18b6", 
+                "title": "CANADIAN SYLLABICS PWOY"
+            }, 
+            {
+                "charcode": "0x18b7", 
+                "title": "CANADIAN SYLLABICS TAY"
+            }, 
+            {
+                "charcode": "0x18b8", 
+                "title": "CANADIAN SYLLABICS KAY"
+            }, 
+            {
+                "charcode": "0x18b9", 
+                "title": "CANADIAN SYLLABICS KWAY"
+            }, 
+            {
+                "charcode": "0x18ba", 
+                "title": "CANADIAN SYLLABICS MAY"
+            }, 
+            {
+                "charcode": "0x18bb", 
+                "title": "CANADIAN SYLLABICS NOY"
+            }, 
+            {
+                "charcode": "0x18bc", 
+                "title": "CANADIAN SYLLABICS NAY"
+            }, 
+            {
+                "charcode": "0x18bd", 
+                "title": "CANADIAN SYLLABICS LAY"
+            }, 
+            {
+                "charcode": "0x18be", 
+                "title": "CANADIAN SYLLABICS SOY"
+            }, 
+            {
+                "charcode": "0x18bf", 
+                "title": "CANADIAN SYLLABICS SAY"
+            }, 
+            {
+                "charcode": "0x18c0", 
+                "title": "CANADIAN SYLLABICS SHOY"
+            }, 
+            {
+                "charcode": "0x18c1", 
+                "title": "CANADIAN SYLLABICS SHAY"
+            }, 
+            {
+                "charcode": "0x18c2", 
+                "title": "CANADIAN SYLLABICS SHWOY"
+            }, 
+            {
+                "charcode": "0x18c3", 
+                "title": "CANADIAN SYLLABICS YOY"
+            }, 
+            {
+                "charcode": "0x18c4", 
+                "title": "CANADIAN SYLLABICS YAY"
+            }, 
+            {
+                "charcode": "0x18c5", 
+                "title": "CANADIAN SYLLABICS RAY"
+            }, 
+            {
+                "charcode": "0x18c6", 
+                "title": "CANADIAN SYLLABICS NWI"
+            }, 
+            {
+                "charcode": "0x18c7", 
+                "title": "CANADIAN SYLLABICS OJIBWAY NWI"
+            }, 
+            {
+                "charcode": "0x18c8", 
+                "title": "CANADIAN SYLLABICS NWII"
+            }, 
+            {
+                "charcode": "0x18c9", 
+                "title": "CANADIAN SYLLABICS OJIBWAY NWII"
+            }, 
+            {
+                "charcode": "0x18ca", 
+                "title": "CANADIAN SYLLABICS NWO"
+            }, 
+            {
+                "charcode": "0x18cb", 
+                "title": "CANADIAN SYLLABICS OJIBWAY NWO"
+            }, 
+            {
+                "charcode": "0x18cc", 
+                "title": "CANADIAN SYLLABICS NWOO"
+            }, 
+            {
+                "charcode": "0x18cd", 
+                "title": "CANADIAN SYLLABICS OJIBWAY NWOO"
+            }, 
+            {
+                "charcode": "0x18ce", 
+                "title": "CANADIAN SYLLABICS RWEE"
+            }, 
+            {
+                "charcode": "0x18cf", 
+                "title": "CANADIAN SYLLABICS RWI"
+            }, 
+            {
+                "charcode": "0x18d0", 
+                "title": "CANADIAN SYLLABICS RWII"
+            }, 
+            {
+                "charcode": "0x18d1", 
+                "title": "CANADIAN SYLLABICS RWO"
+            }, 
+            {
+                "charcode": "0x18d2", 
+                "title": "CANADIAN SYLLABICS RWOO"
+            }, 
+            {
+                "charcode": "0x18d3", 
+                "title": "CANADIAN SYLLABICS RWA"
+            }, 
+            {
+                "charcode": "0x18d4", 
+                "title": "CANADIAN SYLLABICS OJIBWAY P"
+            }, 
+            {
+                "charcode": "0x18d5", 
+                "title": "CANADIAN SYLLABICS OJIBWAY T"
+            }, 
+            {
+                "charcode": "0x18d6", 
+                "title": "CANADIAN SYLLABICS OJIBWAY K"
+            }, 
+            {
+                "charcode": "0x18d7", 
+                "title": "CANADIAN SYLLABICS OJIBWAY C"
+            }, 
+            {
+                "charcode": "0x18d8", 
+                "title": "CANADIAN SYLLABICS OJIBWAY M"
+            }, 
+            {
+                "charcode": "0x18d9", 
+                "title": "CANADIAN SYLLABICS OJIBWAY N"
+            }, 
+            {
+                "charcode": "0x18da", 
+                "title": "CANADIAN SYLLABICS OJIBWAY S"
+            }, 
+            {
+                "charcode": "0x18db", 
+                "title": "CANADIAN SYLLABICS OJIBWAY SH"
+            }, 
+            {
+                "charcode": "0x18dc", 
+                "title": "CANADIAN SYLLABICS EASTERN W"
+            }, 
+            {
+                "charcode": "0x18dd", 
+                "title": "CANADIAN SYLLABICS WESTERN W"
+            }, 
+            {
+                "charcode": "0x18de", 
+                "title": "CANADIAN SYLLABICS FINAL SMALL RING"
+            }, 
+            {
+                "charcode": "0x18df", 
+                "title": "CANADIAN SYLLABICS FINAL RAISED DOT"
+            }, 
+            {
+                "charcode": "0x18e0", 
+                "title": "CANADIAN SYLLABICS R-CREE RWE"
+            }, 
+            {
+                "charcode": "0x18e1", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LOO"
+            }, 
+            {
+                "charcode": "0x18e2", 
+                "title": "CANADIAN SYLLABICS WEST-CREE LAA"
+            }, 
+            {
+                "charcode": "0x18e3", 
+                "title": "CANADIAN SYLLABICS THWE"
+            }, 
+            {
+                "charcode": "0x18e4", 
+                "title": "CANADIAN SYLLABICS THWA"
+            }, 
+            {
+                "charcode": "0x18e5", 
+                "title": "CANADIAN SYLLABICS TTHWE"
+            }, 
+            {
+                "charcode": "0x18e6", 
+                "title": "CANADIAN SYLLABICS TTHOO"
+            }, 
+            {
+                "charcode": "0x18e7", 
+                "title": "CANADIAN SYLLABICS TTHAA"
+            }, 
+            {
+                "charcode": "0x18e8", 
+                "title": "CANADIAN SYLLABICS TLHWE"
+            }, 
+            {
+                "charcode": "0x18e9", 
+                "title": "CANADIAN SYLLABICS TLHOO"
+            }, 
+            {
+                "charcode": "0x18ea", 
+                "title": "CANADIAN SYLLABICS SAYISI SHWE"
+            }, 
+            {
+                "charcode": "0x18eb", 
+                "title": "CANADIAN SYLLABICS SAYISI SHOO"
+            }, 
+            {
+                "charcode": "0x18ec", 
+                "title": "CANADIAN SYLLABICS SAYISI HOO"
+            }, 
+            {
+                "charcode": "0x18ed", 
+                "title": "CANADIAN SYLLABICS CARRIER GWU"
+            }, 
+            {
+                "charcode": "0x18ee", 
+                "title": "CANADIAN SYLLABICS CARRIER DENE GEE"
+            }, 
+            {
+                "charcode": "0x18ef", 
+                "title": "CANADIAN SYLLABICS CARRIER GAA"
+            }, 
+            {
+                "charcode": "0x18f0", 
+                "title": "CANADIAN SYLLABICS CARRIER GWA"
+            }, 
+            {
+                "charcode": "0x18f1", 
+                "title": "CANADIAN SYLLABICS SAYISI JUU"
+            }, 
+            {
+                "charcode": "0x18f2", 
+                "title": "CANADIAN SYLLABICS CARRIER JWA"
+            }, 
+            {
+                "charcode": "0x18f3", 
+                "title": "CANADIAN SYLLABICS BEAVER DENE L"
+            }, 
+            {
+                "charcode": "0x18f4", 
+                "title": "CANADIAN SYLLABICS BEAVER DENE R"
+            }, 
+            {
+                "charcode": "0x18f5", 
+                "title": "CANADIAN SYLLABICS CARRIER DENTAL S"
+            }
+        ], 
+        "name": "Unified Canadian Aboriginal Syllabics Extended"
+    }
+]

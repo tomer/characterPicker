@@ -1,0 +1,79 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1760", 
+                "title": "TAGBANWA LETTER A"
+            }, 
+            {
+                "charcode": "0x1761", 
+                "title": "TAGBANWA LETTER I"
+            }, 
+            {
+                "charcode": "0x1762", 
+                "title": "TAGBANWA LETTER U"
+            }, 
+            {
+                "charcode": "0x1763", 
+                "title": "TAGBANWA LETTER KA"
+            }, 
+            {
+                "charcode": "0x1764", 
+                "title": "TAGBANWA LETTER GA"
+            }, 
+            {
+                "charcode": "0x1765", 
+                "title": "TAGBANWA LETTER NGA"
+            }, 
+            {
+                "charcode": "0x1766", 
+                "title": "TAGBANWA LETTER TA"
+            }, 
+            {
+                "charcode": "0x1767", 
+                "title": "TAGBANWA LETTER DA"
+            }, 
+            {
+                "charcode": "0x1768", 
+                "title": "TAGBANWA LETTER NA"
+            }, 
+            {
+                "charcode": "0x1769", 
+                "title": "TAGBANWA LETTER PA"
+            }, 
+            {
+                "charcode": "0x176a", 
+                "title": "TAGBANWA LETTER BA"
+            }, 
+            {
+                "charcode": "0x176b", 
+                "title": "TAGBANWA LETTER MA"
+            }, 
+            {
+                "charcode": "0x176c", 
+                "title": "TAGBANWA LETTER YA"
+            }, 
+            {
+                "charcode": "0x176e", 
+                "title": "TAGBANWA LETTER LA"
+            }, 
+            {
+                "charcode": "0x176f", 
+                "title": "TAGBANWA LETTER WA"
+            }, 
+            {
+                "charcode": "0x1770", 
+                "title": "TAGBANWA LETTER SA"
+            }, 
+            {
+                "charcode": "0x1772", 
+                "title": "TAGBANWA VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0x1773", 
+                "title": "TAGBANWA VOWEL SIGN U"
+            }
+        ], 
+        "name": "Tagbanwa"
+    }
+]

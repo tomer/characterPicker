@@ -1,0 +1,387 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x25a0", 
+                "title": "BLACK SQUARE"
+            }, 
+            {
+                "charcode": "0x25a1", 
+                "title": "WHITE SQUARE"
+            }, 
+            {
+                "charcode": "0x25a2", 
+                "title": "WHITE SQUARE WITH ROUNDED CORNERS"
+            }, 
+            {
+                "charcode": "0x25a3", 
+                "title": "WHITE SQUARE CONTAINING BLACK SMALL SQUARE"
+            }, 
+            {
+                "charcode": "0x25a4", 
+                "title": "SQUARE WITH HORIZONTAL FILL"
+            }, 
+            {
+                "charcode": "0x25a5", 
+                "title": "SQUARE WITH VERTICAL FILL"
+            }, 
+            {
+                "charcode": "0x25a6", 
+                "title": "SQUARE WITH ORTHOGONAL CROSSHATCH FILL"
+            }, 
+            {
+                "charcode": "0x25a7", 
+                "title": "SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL"
+            }, 
+            {
+                "charcode": "0x25a8", 
+                "title": "SQUARE WITH UPPER RIGHT TO LOWER LEFT FILL"
+            }, 
+            {
+                "charcode": "0x25a9", 
+                "title": "SQUARE WITH DIAGONAL CROSSHATCH FILL"
+            }, 
+            {
+                "charcode": "0x25aa", 
+                "title": "BLACK SMALL SQUARE"
+            }, 
+            {
+                "charcode": "0x25ab", 
+                "title": "WHITE SMALL SQUARE"
+            }, 
+            {
+                "charcode": "0x25ac", 
+                "title": "BLACK RECTANGLE"
+            }, 
+            {
+                "charcode": "0x25ad", 
+                "title": "WHITE RECTANGLE"
+            }, 
+            {
+                "charcode": "0x25ae", 
+                "title": "BLACK VERTICAL RECTANGLE"
+            }, 
+            {
+                "charcode": "0x25af", 
+                "title": "WHITE VERTICAL RECTANGLE"
+            }, 
+            {
+                "charcode": "0x25b0", 
+                "title": "BLACK PARALLELOGRAM"
+            }, 
+            {
+                "charcode": "0x25b1", 
+                "title": "WHITE PARALLELOGRAM"
+            }, 
+            {
+                "charcode": "0x25b2", 
+                "title": "BLACK UP-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25b3", 
+                "title": "WHITE UP-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25b4", 
+                "title": "BLACK UP-POINTING SMALL TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25b5", 
+                "title": "WHITE UP-POINTING SMALL TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25b6", 
+                "title": "BLACK RIGHT-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25b7", 
+                "title": "WHITE RIGHT-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25b8", 
+                "title": "BLACK RIGHT-POINTING SMALL TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25b9", 
+                "title": "WHITE RIGHT-POINTING SMALL TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25ba", 
+                "title": "BLACK RIGHT-POINTING POINTER"
+            }, 
+            {
+                "charcode": "0x25bb", 
+                "title": "WHITE RIGHT-POINTING POINTER"
+            }, 
+            {
+                "charcode": "0x25bc", 
+                "title": "BLACK DOWN-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25bd", 
+                "title": "WHITE DOWN-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25be", 
+                "title": "BLACK DOWN-POINTING SMALL TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25bf", 
+                "title": "WHITE DOWN-POINTING SMALL TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25c0", 
+                "title": "BLACK LEFT-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25c1", 
+                "title": "WHITE LEFT-POINTING TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25c2", 
+                "title": "BLACK LEFT-POINTING SMALL TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25c3", 
+                "title": "WHITE LEFT-POINTING SMALL TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25c4", 
+                "title": "BLACK LEFT-POINTING POINTER"
+            }, 
+            {
+                "charcode": "0x25c5", 
+                "title": "WHITE LEFT-POINTING POINTER"
+            }, 
+            {
+                "charcode": "0x25c6", 
+                "title": "BLACK DIAMOND"
+            }, 
+            {
+                "charcode": "0x25c7", 
+                "title": "WHITE DIAMOND"
+            }, 
+            {
+                "charcode": "0x25c8", 
+                "title": "WHITE DIAMOND CONTAINING BLACK SMALL DIAMOND"
+            }, 
+            {
+                "charcode": "0x25c9", 
+                "title": "FISHEYE"
+            }, 
+            {
+                "charcode": "0x25ca", 
+                "title": "LOZENGE"
+            }, 
+            {
+                "charcode": "0x25cb", 
+                "title": "WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x25cc", 
+                "title": "DOTTED CIRCLE"
+            }, 
+            {
+                "charcode": "0x25cd", 
+                "title": "CIRCLE WITH VERTICAL FILL"
+            }, 
+            {
+                "charcode": "0x25ce", 
+                "title": "BULLSEYE"
+            }, 
+            {
+                "charcode": "0x25cf", 
+                "title": "BLACK CIRCLE"
+            }, 
+            {
+                "charcode": "0x25d0", 
+                "title": "CIRCLE WITH LEFT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x25d1", 
+                "title": "CIRCLE WITH RIGHT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x25d2", 
+                "title": "CIRCLE WITH LOWER HALF BLACK"
+            }, 
+            {
+                "charcode": "0x25d3", 
+                "title": "CIRCLE WITH UPPER HALF BLACK"
+            }, 
+            {
+                "charcode": "0x25d4", 
+                "title": "CIRCLE WITH UPPER RIGHT QUADRANT BLACK"
+            }, 
+            {
+                "charcode": "0x25d5", 
+                "title": "CIRCLE WITH ALL BUT UPPER LEFT QUADRANT BLACK"
+            }, 
+            {
+                "charcode": "0x25d6", 
+                "title": "LEFT HALF BLACK CIRCLE"
+            }, 
+            {
+                "charcode": "0x25d7", 
+                "title": "RIGHT HALF BLACK CIRCLE"
+            }, 
+            {
+                "charcode": "0x25d8", 
+                "title": "INVERSE BULLET"
+            }, 
+            {
+                "charcode": "0x25d9", 
+                "title": "INVERSE WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x25da", 
+                "title": "UPPER HALF INVERSE WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x25db", 
+                "title": "LOWER HALF INVERSE WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x25dc", 
+                "title": "UPPER LEFT QUADRANT CIRCULAR ARC"
+            }, 
+            {
+                "charcode": "0x25dd", 
+                "title": "UPPER RIGHT QUADRANT CIRCULAR ARC"
+            }, 
+            {
+                "charcode": "0x25de", 
+                "title": "LOWER RIGHT QUADRANT CIRCULAR ARC"
+            }, 
+            {
+                "charcode": "0x25df", 
+                "title": "LOWER LEFT QUADRANT CIRCULAR ARC"
+            }, 
+            {
+                "charcode": "0x25e0", 
+                "title": "UPPER HALF CIRCLE"
+            }, 
+            {
+                "charcode": "0x25e1", 
+                "title": "LOWER HALF CIRCLE"
+            }, 
+            {
+                "charcode": "0x25e2", 
+                "title": "BLACK LOWER RIGHT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25e3", 
+                "title": "BLACK LOWER LEFT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25e4", 
+                "title": "BLACK UPPER LEFT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25e5", 
+                "title": "BLACK UPPER RIGHT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25e6", 
+                "title": "WHITE BULLET"
+            }, 
+            {
+                "charcode": "0x25e7", 
+                "title": "SQUARE WITH LEFT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x25e8", 
+                "title": "SQUARE WITH RIGHT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x25e9", 
+                "title": "SQUARE WITH UPPER LEFT DIAGONAL HALF BLACK"
+            }, 
+            {
+                "charcode": "0x25ea", 
+                "title": "SQUARE WITH LOWER RIGHT DIAGONAL HALF BLACK"
+            }, 
+            {
+                "charcode": "0x25eb", 
+                "title": "WHITE SQUARE WITH VERTICAL BISECTING LINE"
+            }, 
+            {
+                "charcode": "0x25ec", 
+                "title": "WHITE UP-POINTING TRIANGLE WITH DOT"
+            }, 
+            {
+                "charcode": "0x25ed", 
+                "title": "UP-POINTING TRIANGLE WITH LEFT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x25ee", 
+                "title": "UP-POINTING TRIANGLE WITH RIGHT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x25ef", 
+                "title": "LARGE CIRCLE"
+            }, 
+            {
+                "charcode": "0x25f0", 
+                "title": "WHITE SQUARE WITH UPPER LEFT QUADRANT"
+            }, 
+            {
+                "charcode": "0x25f1", 
+                "title": "WHITE SQUARE WITH LOWER LEFT QUADRANT"
+            }, 
+            {
+                "charcode": "0x25f2", 
+                "title": "WHITE SQUARE WITH LOWER RIGHT QUADRANT"
+            }, 
+            {
+                "charcode": "0x25f3", 
+                "title": "WHITE SQUARE WITH UPPER RIGHT QUADRANT"
+            }, 
+            {
+                "charcode": "0x25f4", 
+                "title": "WHITE CIRCLE WITH UPPER LEFT QUADRANT"
+            }, 
+            {
+                "charcode": "0x25f5", 
+                "title": "WHITE CIRCLE WITH LOWER LEFT QUADRANT"
+            }, 
+            {
+                "charcode": "0x25f6", 
+                "title": "WHITE CIRCLE WITH LOWER RIGHT QUADRANT"
+            }, 
+            {
+                "charcode": "0x25f7", 
+                "title": "WHITE CIRCLE WITH UPPER RIGHT QUADRANT"
+            }, 
+            {
+                "charcode": "0x25f8", 
+                "title": "UPPER LEFT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25f9", 
+                "title": "UPPER RIGHT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25fa", 
+                "title": "LOWER LEFT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x25fb", 
+                "title": "WHITE MEDIUM SQUARE"
+            }, 
+            {
+                "charcode": "0x25fc", 
+                "title": "BLACK MEDIUM SQUARE"
+            }, 
+            {
+                "charcode": "0x25fd", 
+                "title": "WHITE MEDIUM SMALL SQUARE"
+            }, 
+            {
+                "charcode": "0x25fe", 
+                "title": "BLACK MEDIUM SMALL SQUARE"
+            }
+        ], 
+        "name": "Geometric Shapes"
+    }
+]

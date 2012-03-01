@@ -1,0 +1,27 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xfff9", 
+                "title": "INTERLINEAR ANNOTATION ANCHOR"
+            }, 
+            {
+                "charcode": "0xfffa", 
+                "title": "INTERLINEAR ANNOTATION SEPARATOR"
+            }, 
+            {
+                "charcode": "0xfffb", 
+                "title": "INTERLINEAR ANNOTATION TERMINATOR"
+            }, 
+            {
+                "charcode": "0xfffc", 
+                "title": "OBJECT REPLACEMENT CHARACTER"
+            }, 
+            {
+                "charcode": "0xfffd", 
+                "title": "REPLACEMENT CHARACTER"
+            }
+        ], 
+        "name": "Specials"
+    }
+]

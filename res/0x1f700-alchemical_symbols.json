@@ -1,0 +1,471 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1f700", 
+                "title": "ALCHEMICAL SYMBOL FOR QUINTESSENCE"
+            }, 
+            {
+                "charcode": "0x1f701", 
+                "title": "ALCHEMICAL SYMBOL FOR AIR"
+            }, 
+            {
+                "charcode": "0x1f702", 
+                "title": "ALCHEMICAL SYMBOL FOR FIRE"
+            }, 
+            {
+                "charcode": "0x1f703", 
+                "title": "ALCHEMICAL SYMBOL FOR EARTH"
+            }, 
+            {
+                "charcode": "0x1f704", 
+                "title": "ALCHEMICAL SYMBOL FOR WATER"
+            }, 
+            {
+                "charcode": "0x1f705", 
+                "title": "ALCHEMICAL SYMBOL FOR AQUAFORTIS"
+            }, 
+            {
+                "charcode": "0x1f706", 
+                "title": "ALCHEMICAL SYMBOL FOR AQUA REGIA"
+            }, 
+            {
+                "charcode": "0x1f707", 
+                "title": "ALCHEMICAL SYMBOL FOR AQUA REGIA-2"
+            }, 
+            {
+                "charcode": "0x1f708", 
+                "title": "ALCHEMICAL SYMBOL FOR AQUA VITAE"
+            }, 
+            {
+                "charcode": "0x1f709", 
+                "title": "ALCHEMICAL SYMBOL FOR AQUA VITAE-2"
+            }, 
+            {
+                "charcode": "0x1f70a", 
+                "title": "ALCHEMICAL SYMBOL FOR VINEGAR"
+            }, 
+            {
+                "charcode": "0x1f70b", 
+                "title": "ALCHEMICAL SYMBOL FOR VINEGAR-2"
+            }, 
+            {
+                "charcode": "0x1f70c", 
+                "title": "ALCHEMICAL SYMBOL FOR VINEGAR-3"
+            }, 
+            {
+                "charcode": "0x1f70d", 
+                "title": "ALCHEMICAL SYMBOL FOR SULFUR"
+            }, 
+            {
+                "charcode": "0x1f70e", 
+                "title": "ALCHEMICAL SYMBOL FOR PHILOSOPHERS SULFUR"
+            }, 
+            {
+                "charcode": "0x1f70f", 
+                "title": "ALCHEMICAL SYMBOL FOR BLACK SULFUR"
+            }, 
+            {
+                "charcode": "0x1f710", 
+                "title": "ALCHEMICAL SYMBOL FOR MERCURY SUBLIMATE"
+            }, 
+            {
+                "charcode": "0x1f711", 
+                "title": "ALCHEMICAL SYMBOL FOR MERCURY SUBLIMATE-2"
+            }, 
+            {
+                "charcode": "0x1f712", 
+                "title": "ALCHEMICAL SYMBOL FOR MERCURY SUBLIMATE-3"
+            }, 
+            {
+                "charcode": "0x1f713", 
+                "title": "ALCHEMICAL SYMBOL FOR CINNABAR"
+            }, 
+            {
+                "charcode": "0x1f714", 
+                "title": "ALCHEMICAL SYMBOL FOR SALT"
+            }, 
+            {
+                "charcode": "0x1f715", 
+                "title": "ALCHEMICAL SYMBOL FOR NITRE"
+            }, 
+            {
+                "charcode": "0x1f716", 
+                "title": "ALCHEMICAL SYMBOL FOR VITRIOL"
+            }, 
+            {
+                "charcode": "0x1f717", 
+                "title": "ALCHEMICAL SYMBOL FOR VITRIOL-2"
+            }, 
+            {
+                "charcode": "0x1f718", 
+                "title": "ALCHEMICAL SYMBOL FOR ROCK SALT"
+            }, 
+            {
+                "charcode": "0x1f719", 
+                "title": "ALCHEMICAL SYMBOL FOR ROCK SALT-2"
+            }, 
+            {
+                "charcode": "0x1f71a", 
+                "title": "ALCHEMICAL SYMBOL FOR GOLD"
+            }, 
+            {
+                "charcode": "0x1f71b", 
+                "title": "ALCHEMICAL SYMBOL FOR SILVER"
+            }, 
+            {
+                "charcode": "0x1f71c", 
+                "title": "ALCHEMICAL SYMBOL FOR IRON ORE"
+            }, 
+            {
+                "charcode": "0x1f71d", 
+                "title": "ALCHEMICAL SYMBOL FOR IRON ORE-2"
+            }, 
+            {
+                "charcode": "0x1f71e", 
+                "title": "ALCHEMICAL SYMBOL FOR CROCUS OF IRON"
+            }, 
+            {
+                "charcode": "0x1f71f", 
+                "title": "ALCHEMICAL SYMBOL FOR REGULUS OF IRON"
+            }, 
+            {
+                "charcode": "0x1f720", 
+                "title": "ALCHEMICAL SYMBOL FOR COPPER ORE"
+            }, 
+            {
+                "charcode": "0x1f721", 
+                "title": "ALCHEMICAL SYMBOL FOR IRON-COPPER ORE"
+            }, 
+            {
+                "charcode": "0x1f722", 
+                "title": "ALCHEMICAL SYMBOL FOR SUBLIMATE OF COPPER"
+            }, 
+            {
+                "charcode": "0x1f723", 
+                "title": "ALCHEMICAL SYMBOL FOR CROCUS OF COPPER"
+            }, 
+            {
+                "charcode": "0x1f724", 
+                "title": "ALCHEMICAL SYMBOL FOR CROCUS OF COPPER-2"
+            }, 
+            {
+                "charcode": "0x1f725", 
+                "title": "ALCHEMICAL SYMBOL FOR COPPER ANTIMONIATE"
+            }, 
+            {
+                "charcode": "0x1f726", 
+                "title": "ALCHEMICAL SYMBOL FOR SALT OF COPPER ANTIMONIATE"
+            }, 
+            {
+                "charcode": "0x1f727", 
+                "title": "ALCHEMICAL SYMBOL FOR SUBLIMATE OF SALT OF COPPER"
+            }, 
+            {
+                "charcode": "0x1f728", 
+                "title": "ALCHEMICAL SYMBOL FOR VERDIGRIS"
+            }, 
+            {
+                "charcode": "0x1f729", 
+                "title": "ALCHEMICAL SYMBOL FOR TIN ORE"
+            }, 
+            {
+                "charcode": "0x1f72a", 
+                "title": "ALCHEMICAL SYMBOL FOR LEAD ORE"
+            }, 
+            {
+                "charcode": "0x1f72b", 
+                "title": "ALCHEMICAL SYMBOL FOR ANTIMONY ORE"
+            }, 
+            {
+                "charcode": "0x1f72c", 
+                "title": "ALCHEMICAL SYMBOL FOR SUBLIMATE OF ANTIMONY"
+            }, 
+            {
+                "charcode": "0x1f72d", 
+                "title": "ALCHEMICAL SYMBOL FOR SALT OF ANTIMONY"
+            }, 
+            {
+                "charcode": "0x1f72e", 
+                "title": "ALCHEMICAL SYMBOL FOR SUBLIMATE OF SALT OF ANTIMONY"
+            }, 
+            {
+                "charcode": "0x1f72f", 
+                "title": "ALCHEMICAL SYMBOL FOR VINEGAR OF ANTIMONY"
+            }, 
+            {
+                "charcode": "0x1f730", 
+                "title": "ALCHEMICAL SYMBOL FOR REGULUS OF ANTIMONY"
+            }, 
+            {
+                "charcode": "0x1f731", 
+                "title": "ALCHEMICAL SYMBOL FOR REGULUS OF ANTIMONY-2"
+            }, 
+            {
+                "charcode": "0x1f732", 
+                "title": "ALCHEMICAL SYMBOL FOR REGULUS"
+            }, 
+            {
+                "charcode": "0x1f733", 
+                "title": "ALCHEMICAL SYMBOL FOR REGULUS-2"
+            }, 
+            {
+                "charcode": "0x1f734", 
+                "title": "ALCHEMICAL SYMBOL FOR REGULUS-3"
+            }, 
+            {
+                "charcode": "0x1f735", 
+                "title": "ALCHEMICAL SYMBOL FOR REGULUS-4"
+            }, 
+            {
+                "charcode": "0x1f736", 
+                "title": "ALCHEMICAL SYMBOL FOR ALKALI"
+            }, 
+            {
+                "charcode": "0x1f737", 
+                "title": "ALCHEMICAL SYMBOL FOR ALKALI-2"
+            }, 
+            {
+                "charcode": "0x1f738", 
+                "title": "ALCHEMICAL SYMBOL FOR MARCASITE"
+            }, 
+            {
+                "charcode": "0x1f739", 
+                "title": "ALCHEMICAL SYMBOL FOR SAL-AMMONIAC"
+            }, 
+            {
+                "charcode": "0x1f73a", 
+                "title": "ALCHEMICAL SYMBOL FOR ARSENIC"
+            }, 
+            {
+                "charcode": "0x1f73b", 
+                "title": "ALCHEMICAL SYMBOL FOR REALGAR"
+            }, 
+            {
+                "charcode": "0x1f73c", 
+                "title": "ALCHEMICAL SYMBOL FOR REALGAR-2"
+            }, 
+            {
+                "charcode": "0x1f73d", 
+                "title": "ALCHEMICAL SYMBOL FOR AURIPIGMENT"
+            }, 
+            {
+                "charcode": "0x1f73e", 
+                "title": "ALCHEMICAL SYMBOL FOR BISMUTH ORE"
+            }, 
+            {
+                "charcode": "0x1f73f", 
+                "title": "ALCHEMICAL SYMBOL FOR TARTAR"
+            }, 
+            {
+                "charcode": "0x1f740", 
+                "title": "ALCHEMICAL SYMBOL FOR TARTAR-2"
+            }, 
+            {
+                "charcode": "0x1f741", 
+                "title": "ALCHEMICAL SYMBOL FOR QUICK LIME"
+            }, 
+            {
+                "charcode": "0x1f742", 
+                "title": "ALCHEMICAL SYMBOL FOR BORAX"
+            }, 
+            {
+                "charcode": "0x1f743", 
+                "title": "ALCHEMICAL SYMBOL FOR BORAX-2"
+            }, 
+            {
+                "charcode": "0x1f744", 
+                "title": "ALCHEMICAL SYMBOL FOR BORAX-3"
+            }, 
+            {
+                "charcode": "0x1f745", 
+                "title": "ALCHEMICAL SYMBOL FOR ALUM"
+            }, 
+            {
+                "charcode": "0x1f746", 
+                "title": "ALCHEMICAL SYMBOL FOR OIL"
+            }, 
+            {
+                "charcode": "0x1f747", 
+                "title": "ALCHEMICAL SYMBOL FOR SPIRIT"
+            }, 
+            {
+                "charcode": "0x1f748", 
+                "title": "ALCHEMICAL SYMBOL FOR TINCTURE"
+            }, 
+            {
+                "charcode": "0x1f749", 
+                "title": "ALCHEMICAL SYMBOL FOR GUM"
+            }, 
+            {
+                "charcode": "0x1f74a", 
+                "title": "ALCHEMICAL SYMBOL FOR WAX"
+            }, 
+            {
+                "charcode": "0x1f74b", 
+                "title": "ALCHEMICAL SYMBOL FOR POWDER"
+            }, 
+            {
+                "charcode": "0x1f74c", 
+                "title": "ALCHEMICAL SYMBOL FOR CALX"
+            }, 
+            {
+                "charcode": "0x1f74d", 
+                "title": "ALCHEMICAL SYMBOL FOR TUTTY"
+            }, 
+            {
+                "charcode": "0x1f74e", 
+                "title": "ALCHEMICAL SYMBOL FOR CAPUT MORTUUM"
+            }, 
+            {
+                "charcode": "0x1f74f", 
+                "title": "ALCHEMICAL SYMBOL FOR SCEPTER OF JOVE"
+            }, 
+            {
+                "charcode": "0x1f750", 
+                "title": "ALCHEMICAL SYMBOL FOR CADUCEUS"
+            }, 
+            {
+                "charcode": "0x1f751", 
+                "title": "ALCHEMICAL SYMBOL FOR TRIDENT"
+            }, 
+            {
+                "charcode": "0x1f752", 
+                "title": "ALCHEMICAL SYMBOL FOR STARRED TRIDENT"
+            }, 
+            {
+                "charcode": "0x1f753", 
+                "title": "ALCHEMICAL SYMBOL FOR LODESTONE"
+            }, 
+            {
+                "charcode": "0x1f754", 
+                "title": "ALCHEMICAL SYMBOL FOR SOAP"
+            }, 
+            {
+                "charcode": "0x1f755", 
+                "title": "ALCHEMICAL SYMBOL FOR URINE"
+            }, 
+            {
+                "charcode": "0x1f756", 
+                "title": "ALCHEMICAL SYMBOL FOR HORSE DUNG"
+            }, 
+            {
+                "charcode": "0x1f757", 
+                "title": "ALCHEMICAL SYMBOL FOR ASHES"
+            }, 
+            {
+                "charcode": "0x1f758", 
+                "title": "ALCHEMICAL SYMBOL FOR POT ASHES"
+            }, 
+            {
+                "charcode": "0x1f759", 
+                "title": "ALCHEMICAL SYMBOL FOR BRICK"
+            }, 
+            {
+                "charcode": "0x1f75a", 
+                "title": "ALCHEMICAL SYMBOL FOR POWDERED BRICK"
+            }, 
+            {
+                "charcode": "0x1f75b", 
+                "title": "ALCHEMICAL SYMBOL FOR AMALGAM"
+            }, 
+            {
+                "charcode": "0x1f75c", 
+                "title": "ALCHEMICAL SYMBOL FOR STRATUM SUPER STRATUM"
+            }, 
+            {
+                "charcode": "0x1f75d", 
+                "title": "ALCHEMICAL SYMBOL FOR STRATUM SUPER STRATUM-2"
+            }, 
+            {
+                "charcode": "0x1f75e", 
+                "title": "ALCHEMICAL SYMBOL FOR SUBLIMATION"
+            }, 
+            {
+                "charcode": "0x1f75f", 
+                "title": "ALCHEMICAL SYMBOL FOR PRECIPITATE"
+            }, 
+            {
+                "charcode": "0x1f760", 
+                "title": "ALCHEMICAL SYMBOL FOR DISTILL"
+            }, 
+            {
+                "charcode": "0x1f761", 
+                "title": "ALCHEMICAL SYMBOL FOR DISSOLVE"
+            }, 
+            {
+                "charcode": "0x1f762", 
+                "title": "ALCHEMICAL SYMBOL FOR DISSOLVE-2"
+            }, 
+            {
+                "charcode": "0x1f763", 
+                "title": "ALCHEMICAL SYMBOL FOR PURIFY"
+            }, 
+            {
+                "charcode": "0x1f764", 
+                "title": "ALCHEMICAL SYMBOL FOR PUTREFACTION"
+            }, 
+            {
+                "charcode": "0x1f765", 
+                "title": "ALCHEMICAL SYMBOL FOR CRUCIBLE"
+            }, 
+            {
+                "charcode": "0x1f766", 
+                "title": "ALCHEMICAL SYMBOL FOR CRUCIBLE-2"
+            }, 
+            {
+                "charcode": "0x1f767", 
+                "title": "ALCHEMICAL SYMBOL FOR CRUCIBLE-3"
+            }, 
+            {
+                "charcode": "0x1f768", 
+                "title": "ALCHEMICAL SYMBOL FOR CRUCIBLE-4"
+            }, 
+            {
+                "charcode": "0x1f769", 
+                "title": "ALCHEMICAL SYMBOL FOR CRUCIBLE-5"
+            }, 
+            {
+                "charcode": "0x1f76a", 
+                "title": "ALCHEMICAL SYMBOL FOR ALEMBIC"
+            }, 
+            {
+                "charcode": "0x1f76b", 
+                "title": "ALCHEMICAL SYMBOL FOR BATH OF MARY"
+            }, 
+            {
+                "charcode": "0x1f76c", 
+                "title": "ALCHEMICAL SYMBOL FOR BATH OF VAPOURS"
+            }, 
+            {
+                "charcode": "0x1f76d", 
+                "title": "ALCHEMICAL SYMBOL FOR RETORT"
+            }, 
+            {
+                "charcode": "0x1f76e", 
+                "title": "ALCHEMICAL SYMBOL FOR HOUR"
+            }, 
+            {
+                "charcode": "0x1f76f", 
+                "title": "ALCHEMICAL SYMBOL FOR NIGHT"
+            }, 
+            {
+                "charcode": "0x1f770", 
+                "title": "ALCHEMICAL SYMBOL FOR DAY-NIGHT"
+            }, 
+            {
+                "charcode": "0x1f771", 
+                "title": "ALCHEMICAL SYMBOL FOR MONTH"
+            }, 
+            {
+                "charcode": "0x1f772", 
+                "title": "ALCHEMICAL SYMBOL FOR HALF DRAM"
+            }, 
+            {
+                "charcode": "0x1f773", 
+                "title": "ALCHEMICAL SYMBOL FOR HALF OUNCE"
+            }
+        ], 
+        "name": "Alchemical Symbols"
+    }
+]

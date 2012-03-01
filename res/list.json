@@ -1,0 +1,1102 @@
+{
+    "Aegean Numbers": {
+        "filename": "0x10100-aegean_numbers.json", 
+        "start": 65792, 
+        "title": "Aegean Numbers"
+    }, 
+    "Alchemical Symbols": {
+        "filename": "0x1f700-alchemical_symbols.json", 
+        "start": 128768, 
+        "title": "Alchemical Symbols"
+    }, 
+    "Alphabetic Presentation Forms": {
+        "filename": "0xfb00-alphabetic_presentation_forms.json", 
+        "start": 64256, 
+        "title": "Alphabetic Presentation Forms"
+    }, 
+    "Ancient Greek Musical Notation": {
+        "filename": "0x1d200-ancient_greek_musical_notation.json", 
+        "start": 119296, 
+        "title": "Ancient Greek Musical Notation"
+    }, 
+    "Ancient Greek Numbers": {
+        "filename": "0x10140-ancient_greek_numbers.json", 
+        "start": 65856, 
+        "title": "Ancient Greek Numbers"
+    }, 
+    "Ancient Symbols": {
+        "filename": "0x10190-ancient_symbols.json", 
+        "start": 65936, 
+        "title": "Ancient Symbols"
+    }, 
+    "Arabic": {
+        "filename": "0x600-arabic.json", 
+        "start": 1536, 
+        "title": "Arabic"
+    }, 
+    "Arabic Extended-A": {
+        "filename": "0x8a0-arabic_extended-a.json", 
+        "start": 2208, 
+        "title": "Arabic Extended-A"
+    }, 
+    "Arabic Mathematical Alphabetic Symbols": {
+        "filename": "0x1ee00-arabic_mathematical_alphabetic_symbols.json", 
+        "start": 126464, 
+        "title": "Arabic Mathematical Alphabetic Symbols"
+    }, 
+    "Arabic Presentation Forms-A": {
+        "filename": "0xfb50-arabic_presentation_forms-a.json", 
+        "start": 64336, 
+        "title": "Arabic Presentation Forms-A"
+    }, 
+    "Arabic Presentation Forms-B": {
+        "filename": "0xfe70-arabic_presentation_forms-b.json", 
+        "start": 65136, 
+        "title": "Arabic Presentation Forms-B"
+    }, 
+    "Arabic Supplement": {
+        "filename": "0x750-arabic_supplement.json", 
+        "start": 1872, 
+        "title": "Arabic Supplement"
+    }, 
+    "Armenian": {
+        "filename": "0x530-armenian.json", 
+        "start": 1328, 
+        "title": "Armenian"
+    }, 
+    "Arrows": {
+        "filename": "0x2190-arrows.json", 
+        "start": 8592, 
+        "title": "Arrows"
+    }, 
+    "Avestan": {
+        "filename": "0x10b00-avestan.json", 
+        "start": 68352, 
+        "title": "Avestan"
+    }, 
+    "Balinese": {
+        "filename": "0x1b00-balinese.json", 
+        "start": 6912, 
+        "title": "Balinese"
+    }, 
+    "Bamum": {
+        "filename": "0xa6a0-bamum.json", 
+        "start": 42656, 
+        "title": "Bamum"
+    }, 
+    "Bamum Supplement": {
+        "filename": "0x16800-bamum_supplement.json", 
+        "start": 92160, 
+        "title": "Bamum Supplement"
+    }, 
+    "Basic Latin": {
+        "filename": "0x0-basic_latin.json", 
+        "start": 0, 
+        "title": "Basic Latin"
+    }, 
+    "Batak": {
+        "filename": "0x1bc0-batak.json", 
+        "start": 7104, 
+        "title": "Batak"
+    }, 
+    "Bengali": {
+        "filename": "0x980-bengali.json", 
+        "start": 2432, 
+        "title": "Bengali"
+    }, 
+    "Block Elements": {
+        "filename": "0x2580-block_elements.json", 
+        "start": 9600, 
+        "title": "Block Elements"
+    }, 
+    "Bopomofo": {
+        "filename": "0x3100-bopomofo.json", 
+        "start": 12544, 
+        "title": "Bopomofo"
+    }, 
+    "Bopomofo Extended": {
+        "filename": "0x31a0-bopomofo_extended.json", 
+        "start": 12704, 
+        "title": "Bopomofo Extended"
+    }, 
+    "Box Drawing": {
+        "filename": "0x2500-box_drawing.json", 
+        "start": 9472, 
+        "title": "Box Drawing"
+    }, 
+    "Brahmi": {
+        "filename": "0x11000-brahmi.json", 
+        "start": 69632, 
+        "title": "Brahmi"
+    }, 
+    "Braille Patterns": {
+        "filename": "0x2800-braille_patterns.json", 
+        "start": 10240, 
+        "title": "Braille Patterns"
+    }, 
+    "Buginese": {
+        "filename": "0x1a00-buginese.json", 
+        "start": 6656, 
+        "title": "Buginese"
+    }, 
+    "Buhid": {
+        "filename": "0x1740-buhid.json", 
+        "start": 5952, 
+        "title": "Buhid"
+    }, 
+    "Byzantine Musical Symbols": {
+        "filename": "0x1d000-byzantine_musical_symbols.json", 
+        "start": 118784, 
+        "title": "Byzantine Musical Symbols"
+    }, 
+    "CJK Compatibility": {
+        "filename": "0x3300-cjk_compatibility.json", 
+        "start": 13056, 
+        "title": "CJK Compatibility"
+    }, 
+    "CJK Compatibility Forms": {
+        "filename": "0xfe30-cjk_compatibility_forms.json", 
+        "start": 65072, 
+        "title": "CJK Compatibility Forms"
+    }, 
+    "CJK Compatibility Ideographs": {
+        "filename": "0xf900-cjk_compatibility_ideographs.json", 
+        "start": 63744, 
+        "title": "CJK Compatibility Ideographs"
+    }, 
+    "CJK Compatibility Ideographs Supplement": {
+        "filename": "0x2f800-cjk_compatibility_ideographs_supplement.json", 
+        "start": 194560, 
+        "title": "CJK Compatibility Ideographs Supplement"
+    }, 
+    "CJK Radicals Supplement": {
+        "filename": "0x2e80-cjk_radicals_supplement.json", 
+        "start": 11904, 
+        "title": "CJK Radicals Supplement"
+    }, 
+    "CJK Strokes": {
+        "filename": "0x31c0-cjk_strokes.json", 
+        "start": 12736, 
+        "title": "CJK Strokes"
+    }, 
+    "CJK Symbols and Punctuation": {
+        "filename": "0x3000-cjk_symbols_and_punctuation.json", 
+        "start": 12288, 
+        "title": "CJK Symbols and Punctuation"
+    }, 
+    "CJK Unified Ideographs": {
+        "filename": "0x4e00-cjk_unified_ideographs.json", 
+        "start": 19968, 
+        "title": "CJK Unified Ideographs"
+    }, 
+    "CJK Unified Ideographs Extension A": {
+        "filename": "0x3400-cjk_unified_ideographs_extension_a.json", 
+        "start": 13312, 
+        "title": "CJK Unified Ideographs Extension A"
+    }, 
+    "CJK Unified Ideographs Extension B": {
+        "filename": "0x20000-cjk_unified_ideographs_extension_b.json", 
+        "start": 131072, 
+        "title": "CJK Unified Ideographs Extension B"
+    }, 
+    "CJK Unified Ideographs Extension C": {
+        "filename": "0x2a700-cjk_unified_ideographs_extension_c.json", 
+        "start": 173824, 
+        "title": "CJK Unified Ideographs Extension C"
+    }, 
+    "CJK Unified Ideographs Extension D": {
+        "filename": "0x2b740-cjk_unified_ideographs_extension_d.json", 
+        "start": 177984, 
+        "title": "CJK Unified Ideographs Extension D"
+    }, 
+    "Carian": {
+        "filename": "0x102a0-carian.json", 
+        "start": 66208, 
+        "title": "Carian"
+    }, 
+    "Chakma": {
+        "filename": "0x11100-chakma.json", 
+        "start": 69888, 
+        "title": "Chakma"
+    }, 
+    "Cham": {
+        "filename": "0xaa00-cham.json", 
+        "start": 43520, 
+        "title": "Cham"
+    }, 
+    "Cherokee": {
+        "filename": "0x13a0-cherokee.json", 
+        "start": 5024, 
+        "title": "Cherokee"
+    }, 
+    "Combining Diacritical Marks": {
+        "filename": "0x300-combining_diacritical_marks.json", 
+        "start": 768, 
+        "title": "Combining Diacritical Marks"
+    }, 
+    "Combining Diacritical Marks Supplement": {
+        "filename": "0x1dc0-combining_diacritical_marks_supplement.json", 
+        "start": 7616, 
+        "title": "Combining Diacritical Marks Supplement"
+    }, 
+    "Combining Diacritical Marks for Symbols": {
+        "filename": "0x20d0-combining_diacritical_marks_for_symbols.json", 
+        "start": 8400, 
+        "title": "Combining Diacritical Marks for Symbols"
+    }, 
+    "Combining Half Marks": {
+        "filename": "0xfe20-combining_half_marks.json", 
+        "start": 65056, 
+        "title": "Combining Half Marks"
+    }, 
+    "Common Indic Number Forms": {
+        "filename": "0xa830-common_indic_number_forms.json", 
+        "start": 43056, 
+        "title": "Common Indic Number Forms"
+    }, 
+    "Control Pictures": {
+        "filename": "0x2400-control_pictures.json", 
+        "start": 9216, 
+        "title": "Control Pictures"
+    }, 
+    "Coptic": {
+        "filename": "0x2c80-coptic.json", 
+        "start": 11392, 
+        "title": "Coptic"
+    }, 
+    "Counting Rod Numerals": {
+        "filename": "0x1d360-counting_rod_numerals.json", 
+        "start": 119648, 
+        "title": "Counting Rod Numerals"
+    }, 
+    "Cuneiform": {
+        "filename": "0x12000-cuneiform.json", 
+        "start": 73728, 
+        "title": "Cuneiform"
+    }, 
+    "Cuneiform Numbers and Punctuation": {
+        "filename": "0x12400-cuneiform_numbers_and_punctuation.json", 
+        "start": 74752, 
+        "title": "Cuneiform Numbers and Punctuation"
+    }, 
+    "Currency Symbols": {
+        "filename": "0x20a0-currency_symbols.json", 
+        "start": 8352, 
+        "title": "Currency Symbols"
+    }, 
+    "Cypriot Syllabary": {
+        "filename": "0x10800-cypriot_syllabary.json", 
+        "start": 67584, 
+        "title": "Cypriot Syllabary"
+    }, 
+    "Cyrillic": {
+        "filename": "0x400-cyrillic.json", 
+        "start": 1024, 
+        "title": "Cyrillic"
+    }, 
+    "Cyrillic Extended-A": {
+        "filename": "0x2de0-cyrillic_extended-a.json", 
+        "start": 11744, 
+        "title": "Cyrillic Extended-A"
+    }, 
+    "Cyrillic Extended-B": {
+        "filename": "0xa640-cyrillic_extended-b.json", 
+        "start": 42560, 
+        "title": "Cyrillic Extended-B"
+    }, 
+    "Cyrillic Supplement": {
+        "filename": "0x500-cyrillic_supplement.json", 
+        "start": 1280, 
+        "title": "Cyrillic Supplement"
+    }, 
+    "Deseret": {
+        "filename": "0x10400-deseret.json", 
+        "start": 66560, 
+        "title": "Deseret"
+    }, 
+    "Devanagari": {
+        "filename": "0x900-devanagari.json", 
+        "start": 2304, 
+        "title": "Devanagari"
+    }, 
+    "Devanagari Extended": {
+        "filename": "0xa8e0-devanagari_extended.json", 
+        "start": 43232, 
+        "title": "Devanagari Extended"
+    }, 
+    "Dingbats": {
+        "filename": "0x2700-dingbats.json", 
+        "start": 9984, 
+        "title": "Dingbats"
+    }, 
+    "Domino Tiles": {
+        "filename": "0x1f030-domino_tiles.json", 
+        "start": 127024, 
+        "title": "Domino Tiles"
+    }, 
+    "Egyptian Hieroglyphs": {
+        "filename": "0x13000-egyptian_hieroglyphs.json", 
+        "start": 77824, 
+        "title": "Egyptian Hieroglyphs"
+    }, 
+    "Emoticons": {
+        "filename": "0x1f600-emoticons.json", 
+        "start": 128512, 
+        "title": "Emoticons"
+    }, 
+    "Enclosed Alphanumeric Supplement": {
+        "filename": "0x1f100-enclosed_alphanumeric_supplement.json", 
+        "start": 127232, 
+        "title": "Enclosed Alphanumeric Supplement"
+    }, 
+    "Enclosed Alphanumerics": {
+        "filename": "0x2460-enclosed_alphanumerics.json", 
+        "start": 9312, 
+        "title": "Enclosed Alphanumerics"
+    }, 
+    "Enclosed CJK Letters and Months": {
+        "filename": "0x3200-enclosed_cjk_letters_and_months.json", 
+        "start": 12800, 
+        "title": "Enclosed CJK Letters and Months"
+    }, 
+    "Enclosed Ideographic Supplement": {
+        "filename": "0x1f200-enclosed_ideographic_supplement.json", 
+        "start": 127488, 
+        "title": "Enclosed Ideographic Supplement"
+    }, 
+    "Ethiopic": {
+        "filename": "0x1200-ethiopic.json", 
+        "start": 4608, 
+        "title": "Ethiopic"
+    }, 
+    "Ethiopic Extended": {
+        "filename": "0x2d80-ethiopic_extended.json", 
+        "start": 11648, 
+        "title": "Ethiopic Extended"
+    }, 
+    "Ethiopic Extended-A": {
+        "filename": "0xab00-ethiopic_extended-a.json", 
+        "start": 43776, 
+        "title": "Ethiopic Extended-A"
+    }, 
+    "Ethiopic Supplement": {
+        "filename": "0x1380-ethiopic_supplement.json", 
+        "start": 4992, 
+        "title": "Ethiopic Supplement"
+    }, 
+    "General Punctuation": {
+        "filename": "0x2000-general_punctuation.json", 
+        "start": 8192, 
+        "title": "General Punctuation"
+    }, 
+    "Geometric Shapes": {
+        "filename": "0x25a0-geometric_shapes.json", 
+        "start": 9632, 
+        "title": "Geometric Shapes"
+    }, 
+    "Georgian": {
+        "filename": "0x10a0-georgian.json", 
+        "start": 4256, 
+        "title": "Georgian"
+    }, 
+    "Georgian Supplement": {
+        "filename": "0x2d00-georgian_supplement.json", 
+        "start": 11520, 
+        "title": "Georgian Supplement"
+    }, 
+    "Glagolitic": {
+        "filename": "0x2c00-glagolitic.json", 
+        "start": 11264, 
+        "title": "Glagolitic"
+    }, 
+    "Gothic": {
+        "filename": "0x10330-gothic.json", 
+        "start": 66352, 
+        "title": "Gothic"
+    }, 
+    "Greek Extended": {
+        "filename": "0x1f00-greek_extended.json", 
+        "start": 7936, 
+        "title": "Greek Extended"
+    }, 
+    "Greek and Coptic": {
+        "filename": "0x370-greek_and_coptic.json", 
+        "start": 880, 
+        "title": "Greek and Coptic"
+    }, 
+    "Gujarati": {
+        "filename": "0xa80-gujarati.json", 
+        "start": 2688, 
+        "title": "Gujarati"
+    }, 
+    "Gurmukhi": {
+        "filename": "0xa00-gurmukhi.json", 
+        "start": 2560, 
+        "title": "Gurmukhi"
+    }, 
+    "Halfwidth and Fullwidth Forms": {
+        "filename": "0xff00-halfwidth_and_fullwidth_forms.json", 
+        "start": 65280, 
+        "title": "Halfwidth and Fullwidth Forms"
+    }, 
+    "Hangul Compatibility Jamo": {
+        "filename": "0x3130-hangul_compatibility_jamo.json", 
+        "start": 12592, 
+        "title": "Hangul Compatibility Jamo"
+    }, 
+    "Hangul Jamo": {
+        "filename": "0x1100-hangul_jamo.json", 
+        "start": 4352, 
+        "title": "Hangul Jamo"
+    }, 
+    "Hangul Jamo Extended-A": {
+        "filename": "0xa960-hangul_jamo_extended-a.json", 
+        "start": 43360, 
+        "title": "Hangul Jamo Extended-A"
+    }, 
+    "Hangul Jamo Extended-B": {
+        "filename": "0xd7b0-hangul_jamo_extended-b.json", 
+        "start": 55216, 
+        "title": "Hangul Jamo Extended-B"
+    }, 
+    "Hangul Syllables": {
+        "filename": "0xac00-hangul_syllables.json", 
+        "start": 44032, 
+        "title": "Hangul Syllables"
+    }, 
+    "Hanunoo": {
+        "filename": "0x1720-hanunoo.json", 
+        "start": 5920, 
+        "title": "Hanunoo"
+    }, 
+    "Hebrew": {
+        "filename": "0x590-hebrew.json", 
+        "start": 1424, 
+        "title": "Hebrew"
+    }, 
+    "High Private Use Surrogates": {
+        "filename": "0xdb80-high_private_use_surrogates.json", 
+        "start": 56192, 
+        "title": "High Private Use Surrogates"
+    }, 
+    "High Surrogates": {
+        "filename": "0xd800-high_surrogates.json", 
+        "start": 55296, 
+        "title": "High Surrogates"
+    }, 
+    "Hiragana": {
+        "filename": "0x3040-hiragana.json", 
+        "start": 12352, 
+        "title": "Hiragana"
+    }, 
+    "IPA Extensions": {
+        "filename": "0x250-ipa_extensions.json", 
+        "start": 592, 
+        "title": "IPA Extensions"
+    }, 
+    "Ideographic Description Characters": {
+        "filename": "0x2ff0-ideographic_description_characters.json", 
+        "start": 12272, 
+        "title": "Ideographic Description Characters"
+    }, 
+    "Imperial Aramaic": {
+        "filename": "0x10840-imperial_aramaic.json", 
+        "start": 67648, 
+        "title": "Imperial Aramaic"
+    }, 
+    "Inscriptional Pahlavi": {
+        "filename": "0x10b60-inscriptional_pahlavi.json", 
+        "start": 68448, 
+        "title": "Inscriptional Pahlavi"
+    }, 
+    "Inscriptional Parthian": {
+        "filename": "0x10b40-inscriptional_parthian.json", 
+        "start": 68416, 
+        "title": "Inscriptional Parthian"
+    }, 
+    "Javanese": {
+        "filename": "0xa980-javanese.json", 
+        "start": 43392, 
+        "title": "Javanese"
+    }, 
+    "Kaithi": {
+        "filename": "0x11080-kaithi.json", 
+        "start": 69760, 
+        "title": "Kaithi"
+    }, 
+    "Kana Supplement": {
+        "filename": "0x1b000-kana_supplement.json", 
+        "start": 110592, 
+        "title": "Kana Supplement"
+    }, 
+    "Kanbun": {
+        "filename": "0x3190-kanbun.json", 
+        "start": 12688, 
+        "title": "Kanbun"
+    }, 
+    "Kangxi Radicals": {
+        "filename": "0x2f00-kangxi_radicals.json", 
+        "start": 12032, 
+        "title": "Kangxi Radicals"
+    }, 
+    "Kannada": {
+        "filename": "0xc80-kannada.json", 
+        "start": 3200, 
+        "title": "Kannada"
+    }, 
+    "Katakana": {
+        "filename": "0x30a0-katakana.json", 
+        "start": 12448, 
+        "title": "Katakana"
+    }, 
+    "Katakana Phonetic Extensions": {
+        "filename": "0x31f0-katakana_phonetic_extensions.json", 
+        "start": 12784, 
+        "title": "Katakana Phonetic Extensions"
+    }, 
+    "Kayah Li": {
+        "filename": "0xa900-kayah_li.json", 
+        "start": 43264, 
+        "title": "Kayah Li"
+    }, 
+    "Kharoshthi": {
+        "filename": "0x10a00-kharoshthi.json", 
+        "start": 68096, 
+        "title": "Kharoshthi"
+    }, 
+    "Khmer": {
+        "filename": "0x1780-khmer.json", 
+        "start": 6016, 
+        "title": "Khmer"
+    }, 
+    "Khmer Symbols": {
+        "filename": "0x19e0-khmer_symbols.json", 
+        "start": 6624, 
+        "title": "Khmer Symbols"
+    }, 
+    "Lao": {
+        "filename": "0xe80-lao.json", 
+        "start": 3712, 
+        "title": "Lao"
+    }, 
+    "Latin Extended Additional": {
+        "filename": "0x1e00-latin_extended_additional.json", 
+        "start": 7680, 
+        "title": "Latin Extended Additional"
+    }, 
+    "Latin Extended-A": {
+        "filename": "0x100-latin_extended-a.json", 
+        "start": 256, 
+        "title": "Latin Extended-A"
+    }, 
+    "Latin Extended-B": {
+        "filename": "0x180-latin_extended-b.json", 
+        "start": 384, 
+        "title": "Latin Extended-B"
+    }, 
+    "Latin Extended-C": {
+        "filename": "0x2c60-latin_extended-c.json", 
+        "start": 11360, 
+        "title": "Latin Extended-C"
+    }, 
+    "Latin Extended-D": {
+        "filename": "0xa720-latin_extended-d.json", 
+        "start": 42784, 
+        "title": "Latin Extended-D"
+    }, 
+    "Latin-1 Supplement": {
+        "filename": "0x80-latin-1_supplement.json", 
+        "start": 128, 
+        "title": "Latin-1 Supplement"
+    }, 
+    "Lepcha": {
+        "filename": "0x1c00-lepcha.json", 
+        "start": 7168, 
+        "title": "Lepcha"
+    }, 
+    "Letterlike Symbols": {
+        "filename": "0x2100-letterlike_symbols.json", 
+        "start": 8448, 
+        "title": "Letterlike Symbols"
+    }, 
+    "Limbu": {
+        "filename": "0x1900-limbu.json", 
+        "start": 6400, 
+        "title": "Limbu"
+    }, 
+    "Linear B Ideograms": {
+        "filename": "0x10080-linear_b_ideograms.json", 
+        "start": 65664, 
+        "title": "Linear B Ideograms"
+    }, 
+    "Linear B Syllabary": {
+        "filename": "0x10000-linear_b_syllabary.json", 
+        "start": 65536, 
+        "title": "Linear B Syllabary"
+    }, 
+    "Lisu": {
+        "filename": "0xa4d0-lisu.json", 
+        "start": 42192, 
+        "title": "Lisu"
+    }, 
+    "Low Surrogates": {
+        "filename": "0xdc00-low_surrogates.json", 
+        "start": 56320, 
+        "title": "Low Surrogates"
+    }, 
+    "Lycian": {
+        "filename": "0x10280-lycian.json", 
+        "start": 66176, 
+        "title": "Lycian"
+    }, 
+    "Lydian": {
+        "filename": "0x10920-lydian.json", 
+        "start": 67872, 
+        "title": "Lydian"
+    }, 
+    "Mahjong Tiles": {
+        "filename": "0x1f000-mahjong_tiles.json", 
+        "start": 126976, 
+        "title": "Mahjong Tiles"
+    }, 
+    "Malayalam": {
+        "filename": "0xd00-malayalam.json", 
+        "start": 3328, 
+        "title": "Malayalam"
+    }, 
+    "Mandaic": {
+        "filename": "0x840-mandaic.json", 
+        "start": 2112, 
+        "title": "Mandaic"
+    }, 
+    "Mathematical Alphanumeric Symbols": {
+        "filename": "0x1d400-mathematical_alphanumeric_symbols.json", 
+        "start": 119808, 
+        "title": "Mathematical Alphanumeric Symbols"
+    }, 
+    "Mathematical Operators": {
+        "filename": "0x2200-mathematical_operators.json", 
+        "start": 8704, 
+        "title": "Mathematical Operators"
+    }, 
+    "Meetei Mayek": {
+        "filename": "0xabc0-meetei_mayek.json", 
+        "start": 43968, 
+        "title": "Meetei Mayek"
+    }, 
+    "Meetei Mayek Extensions": {
+        "filename": "0xaae0-meetei_mayek_extensions.json", 
+        "start": 43744, 
+        "title": "Meetei Mayek Extensions"
+    }, 
+    "Meroitic Cursive": {
+        "filename": "0x109a0-meroitic_cursive.json", 
+        "start": 68000, 
+        "title": "Meroitic Cursive"
+    }, 
+    "Meroitic Hieroglyphs": {
+        "filename": "0x10980-meroitic_hieroglyphs.json", 
+        "start": 67968, 
+        "title": "Meroitic Hieroglyphs"
+    }, 
+    "Miao": {
+        "filename": "0x16f00-miao.json", 
+        "start": 93952, 
+        "title": "Miao"
+    }, 
+    "Miscellaneous Mathematical Symbols-A": {
+        "filename": "0x27c0-miscellaneous_mathematical_symbols-a.json", 
+        "start": 10176, 
+        "title": "Miscellaneous Mathematical Symbols-A"
+    }, 
+    "Miscellaneous Mathematical Symbols-B": {
+        "filename": "0x2980-miscellaneous_mathematical_symbols-b.json", 
+        "start": 10624, 
+        "title": "Miscellaneous Mathematical Symbols-B"
+    }, 
+    "Miscellaneous Symbols": {
+        "filename": "0x2600-miscellaneous_symbols.json", 
+        "start": 9728, 
+        "title": "Miscellaneous Symbols"
+    }, 
+    "Miscellaneous Symbols And Pictographs": {
+        "filename": "0x1f300-miscellaneous_symbols_and_pictographs.json", 
+        "start": 127744, 
+        "title": "Miscellaneous Symbols And Pictographs"
+    }, 
+    "Miscellaneous Symbols and Arrows": {
+        "filename": "0x2b00-miscellaneous_symbols_and_arrows.json", 
+        "start": 11008, 
+        "title": "Miscellaneous Symbols and Arrows"
+    }, 
+    "Miscellaneous Technical": {
+        "filename": "0x2300-miscellaneous_technical.json", 
+        "start": 8960, 
+        "title": "Miscellaneous Technical"
+    }, 
+    "Modifier Tone Letters": {
+        "filename": "0xa700-modifier_tone_letters.json", 
+        "start": 42752, 
+        "title": "Modifier Tone Letters"
+    }, 
+    "Mongolian": {
+        "filename": "0x1800-mongolian.json", 
+        "start": 6144, 
+        "title": "Mongolian"
+    }, 
+    "Musical Symbols": {
+        "filename": "0x1d100-musical_symbols.json", 
+        "start": 119040, 
+        "title": "Musical Symbols"
+    }, 
+    "Myanmar": {
+        "filename": "0x1000-myanmar.json", 
+        "start": 4096, 
+        "title": "Myanmar"
+    }, 
+    "Myanmar Extended-A": {
+        "filename": "0xaa60-myanmar_extended-a.json", 
+        "start": 43616, 
+        "title": "Myanmar Extended-A"
+    }, 
+    "NKo": {
+        "filename": "0x7c0-nko.json", 
+        "start": 1984, 
+        "title": "NKo"
+    }, 
+    "New Tai Lue": {
+        "filename": "0x1980-new_tai_lue.json", 
+        "start": 6528, 
+        "title": "New Tai Lue"
+    }, 
+    "Number Forms": {
+        "filename": "0x2150-number_forms.json", 
+        "start": 8528, 
+        "title": "Number Forms"
+    }, 
+    "Ogham": {
+        "filename": "0x1680-ogham.json", 
+        "start": 5760, 
+        "title": "Ogham"
+    }, 
+    "Ol Chiki": {
+        "filename": "0x1c50-ol_chiki.json", 
+        "start": 7248, 
+        "title": "Ol Chiki"
+    }, 
+    "Old Italic": {
+        "filename": "0x10300-old_italic.json", 
+        "start": 66304, 
+        "title": "Old Italic"
+    }, 
+    "Old Persian": {
+        "filename": "0x103a0-old_persian.json", 
+        "start": 66464, 
+        "title": "Old Persian"
+    }, 
+    "Old South Arabian": {
+        "filename": "0x10a60-old_south_arabian.json", 
+        "start": 68192, 
+        "title": "Old South Arabian"
+    }, 
+    "Old Turkic": {
+        "filename": "0x10c00-old_turkic.json", 
+        "start": 68608, 
+        "title": "Old Turkic"
+    }, 
+    "Optical Character Recognition": {
+        "filename": "0x2440-optical_character_recognition.json", 
+        "start": 9280, 
+        "title": "Optical Character Recognition"
+    }, 
+    "Oriya": {
+        "filename": "0xb00-oriya.json", 
+        "start": 2816, 
+        "title": "Oriya"
+    }, 
+    "Osmanya": {
+        "filename": "0x10480-osmanya.json", 
+        "start": 66688, 
+        "title": "Osmanya"
+    }, 
+    "Phags-pa": {
+        "filename": "0xa840-phags-pa.json", 
+        "start": 43072, 
+        "title": "Phags-pa"
+    }, 
+    "Phaistos Disc": {
+        "filename": "0x101d0-phaistos_disc.json", 
+        "start": 66000, 
+        "title": "Phaistos Disc"
+    }, 
+    "Phoenician": {
+        "filename": "0x10900-phoenician.json", 
+        "start": 67840, 
+        "title": "Phoenician"
+    }, 
+    "Phonetic Extensions": {
+        "filename": "0x1d00-phonetic_extensions.json", 
+        "start": 7424, 
+        "title": "Phonetic Extensions"
+    }, 
+    "Phonetic Extensions Supplement": {
+        "filename": "0x1d80-phonetic_extensions_supplement.json", 
+        "start": 7552, 
+        "title": "Phonetic Extensions Supplement"
+    }, 
+    "Playing Cards": {
+        "filename": "0x1f0a0-playing_cards.json", 
+        "start": 127136, 
+        "title": "Playing Cards"
+    }, 
+    "Private Use Area": {
+        "filename": "0xe000-private_use_area.json", 
+        "start": 57344, 
+        "title": "Private Use Area"
+    }, 
+    "Rejang": {
+        "filename": "0xa930-rejang.json", 
+        "start": 43312, 
+        "title": "Rejang"
+    }, 
+    "Rumi Numeral Symbols": {
+        "filename": "0x10e60-rumi_numeral_symbols.json", 
+        "start": 69216, 
+        "title": "Rumi Numeral Symbols"
+    }, 
+    "Runic": {
+        "filename": "0x16a0-runic.json", 
+        "start": 5792, 
+        "title": "Runic"
+    }, 
+    "Samaritan": {
+        "filename": "0x800-samaritan.json", 
+        "start": 2048, 
+        "title": "Samaritan"
+    }, 
+    "Saurashtra": {
+        "filename": "0xa880-saurashtra.json", 
+        "start": 43136, 
+        "title": "Saurashtra"
+    }, 
+    "Sharada": {
+        "filename": "0x11180-sharada.json", 
+        "start": 70016, 
+        "title": "Sharada"
+    }, 
+    "Shavian": {
+        "filename": "0x10450-shavian.json", 
+        "start": 66640, 
+        "title": "Shavian"
+    }, 
+    "Sinhala": {
+        "filename": "0xd80-sinhala.json", 
+        "start": 3456, 
+        "title": "Sinhala"
+    }, 
+    "Small Form Variants": {
+        "filename": "0xfe50-small_form_variants.json", 
+        "start": 65104, 
+        "title": "Small Form Variants"
+    }, 
+    "Sora Sompeng": {
+        "filename": "0x110d0-sora_sompeng.json", 
+        "start": 69840, 
+        "title": "Sora Sompeng"
+    }, 
+    "Spacing Modifier Letters": {
+        "filename": "0x2b0-spacing_modifier_letters.json", 
+        "start": 688, 
+        "title": "Spacing Modifier Letters"
+    }, 
+    "Specials": {
+        "filename": "0xfff0-specials.json", 
+        "start": 65520, 
+        "title": "Specials"
+    }, 
+    "Sundanese": {
+        "filename": "0x1b80-sundanese.json", 
+        "start": 7040, 
+        "title": "Sundanese"
+    }, 
+    "Sundanese Supplement": {
+        "filename": "0x1cc0-sundanese_supplement.json", 
+        "start": 7360, 
+        "title": "Sundanese Supplement"
+    }, 
+    "Superscripts and Subscripts": {
+        "filename": "0x2070-superscripts_and_subscripts.json", 
+        "start": 8304, 
+        "title": "Superscripts and Subscripts"
+    }, 
+    "Supplemental Arrows-A": {
+        "filename": "0x27f0-supplemental_arrows-a.json", 
+        "start": 10224, 
+        "title": "Supplemental Arrows-A"
+    }, 
+    "Supplemental Arrows-B": {
+        "filename": "0x2900-supplemental_arrows-b.json", 
+        "start": 10496, 
+        "title": "Supplemental Arrows-B"
+    }, 
+    "Supplemental Mathematical Operators": {
+        "filename": "0x2a00-supplemental_mathematical_operators.json", 
+        "start": 10752, 
+        "title": "Supplemental Mathematical Operators"
+    }, 
+    "Supplemental Punctuation": {
+        "filename": "0x2e00-supplemental_punctuation.json", 
+        "start": 11776, 
+        "title": "Supplemental Punctuation"
+    }, 
+    "Supplementary Private Use Area-A": {
+        "filename": "0xf0000-supplementary_private_use_area-a.json", 
+        "start": 983040, 
+        "title": "Supplementary Private Use Area-A"
+    }, 
+    "Supplementary Private Use Area-B": {
+        "filename": "0x100000-supplementary_private_use_area-b.json", 
+        "start": 1048576, 
+        "title": "Supplementary Private Use Area-B"
+    }, 
+    "Syloti Nagri": {
+        "filename": "0xa800-syloti_nagri.json", 
+        "start": 43008, 
+        "title": "Syloti Nagri"
+    }, 
+    "Syriac": {
+        "filename": "0x700-syriac.json", 
+        "start": 1792, 
+        "title": "Syriac"
+    }, 
+    "Tagalog": {
+        "filename": "0x1700-tagalog.json", 
+        "start": 5888, 
+        "title": "Tagalog"
+    }, 
+    "Tagbanwa": {
+        "filename": "0x1760-tagbanwa.json", 
+        "start": 5984, 
+        "title": "Tagbanwa"
+    }, 
+    "Tags": {
+        "filename": "0xe0000-tags.json", 
+        "start": 917504, 
+        "title": "Tags"
+    }, 
+    "Tai Le": {
+        "filename": "0x1950-tai_le.json", 
+        "start": 6480, 
+        "title": "Tai Le"
+    }, 
+    "Tai Tham": {
+        "filename": "0x1a20-tai_tham.json", 
+        "start": 6688, 
+        "title": "Tai Tham"
+    }, 
+    "Tai Viet": {
+        "filename": "0xaa80-tai_viet.json", 
+        "start": 43648, 
+        "title": "Tai Viet"
+    }, 
+    "Tai Xuan Jing Symbols": {
+        "filename": "0x1d300-tai_xuan_jing_symbols.json", 
+        "start": 119552, 
+        "title": "Tai Xuan Jing Symbols"
+    }, 
+    "Takri": {
+        "filename": "0x11680-takri.json", 
+        "start": 71296, 
+        "title": "Takri"
+    }, 
+    "Tamil": {
+        "filename": "0xb80-tamil.json", 
+        "start": 2944, 
+        "title": "Tamil"
+    }, 
+    "Telugu": {
+        "filename": "0xc00-telugu.json", 
+        "start": 3072, 
+        "title": "Telugu"
+    }, 
+    "Thaana": {
+        "filename": "0x780-thaana.json", 
+        "start": 1920, 
+        "title": "Thaana"
+    }, 
+    "Thai": {
+        "filename": "0xe00-thai.json", 
+        "start": 3584, 
+        "title": "Thai"
+    }, 
+    "Tibetan": {
+        "filename": "0xf00-tibetan.json", 
+        "start": 3840, 
+        "title": "Tibetan"
+    }, 
+    "Tifinagh": {
+        "filename": "0x2d30-tifinagh.json", 
+        "start": 11568, 
+        "title": "Tifinagh"
+    }, 
+    "Transport And Map Symbols": {
+        "filename": "0x1f680-transport_and_map_symbols.json", 
+        "start": 128640, 
+        "title": "Transport And Map Symbols"
+    }, 
+    "Ugaritic": {
+        "filename": "0x10380-ugaritic.json", 
+        "start": 66432, 
+        "title": "Ugaritic"
+    }, 
+    "Unified Canadian Aboriginal Syllabics": {
+        "filename": "0x1400-unified_canadian_aboriginal_syllabics.json", 
+        "start": 5120, 
+        "title": "Unified Canadian Aboriginal Syllabics"
+    }, 
+    "Unified Canadian Aboriginal Syllabics Extended": {
+        "filename": "0x18b0-unified_canadian_aboriginal_syllabics_extended.json", 
+        "start": 6320, 
+        "title": "Unified Canadian Aboriginal Syllabics Extended"
+    }, 
+    "Vai": {
+        "filename": "0xa500-vai.json", 
+        "start": 42240, 
+        "title": "Vai"
+    }, 
+    "Variation Selectors": {
+        "filename": "0xfe00-variation_selectors.json", 
+        "start": 65024, 
+        "title": "Variation Selectors"
+    }, 
+    "Variation Selectors Supplement": {
+        "filename": "0xe0100-variation_selectors_supplement.json", 
+        "start": 917760, 
+        "title": "Variation Selectors Supplement"
+    }, 
+    "Vedic Extensions": {
+        "filename": "0x1cd0-vedic_extensions.json", 
+        "start": 7376, 
+        "title": "Vedic Extensions"
+    }, 
+    "Vertical Forms": {
+        "filename": "0xfe10-vertical_forms.json", 
+        "start": 65040, 
+        "title": "Vertical Forms"
+    }, 
+    "Yi Radicals": {
+        "filename": "0xa490-yi_radicals.json", 
+        "start": 42128, 
+        "title": "Yi Radicals"
+    }, 
+    "Yi Syllables": {
+        "filename": "0xa000-yi_syllables.json", 
+        "start": 40960, 
+        "title": "Yi Syllables"
+    }, 
+    "Yijing Hexagram Symbols": {
+        "filename": "0x4dc0-yijing_hexagram_symbols.json", 
+        "start": 19904, 
+        "title": "Yijing Hexagram Symbols"
+    }
+}

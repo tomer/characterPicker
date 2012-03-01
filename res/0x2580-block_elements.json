@@ -1,0 +1,131 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2580", 
+                "title": "UPPER HALF BLOCK"
+            }, 
+            {
+                "charcode": "0x2581", 
+                "title": "LOWER ONE EIGHTH BLOCK"
+            }, 
+            {
+                "charcode": "0x2582", 
+                "title": "LOWER ONE QUARTER BLOCK"
+            }, 
+            {
+                "charcode": "0x2583", 
+                "title": "LOWER THREE EIGHTHS BLOCK"
+            }, 
+            {
+                "charcode": "0x2584", 
+                "title": "LOWER HALF BLOCK"
+            }, 
+            {
+                "charcode": "0x2585", 
+                "title": "LOWER FIVE EIGHTHS BLOCK"
+            }, 
+            {
+                "charcode": "0x2586", 
+                "title": "LOWER THREE QUARTERS BLOCK"
+            }, 
+            {
+                "charcode": "0x2587", 
+                "title": "LOWER SEVEN EIGHTHS BLOCK"
+            }, 
+            {
+                "charcode": "0x2588", 
+                "title": "FULL BLOCK"
+            }, 
+            {
+                "charcode": "0x2589", 
+                "title": "LEFT SEVEN EIGHTHS BLOCK"
+            }, 
+            {
+                "charcode": "0x258a", 
+                "title": "LEFT THREE QUARTERS BLOCK"
+            }, 
+            {
+                "charcode": "0x258b", 
+                "title": "LEFT FIVE EIGHTHS BLOCK"
+            }, 
+            {
+                "charcode": "0x258c", 
+                "title": "LEFT HALF BLOCK"
+            }, 
+            {
+                "charcode": "0x258d", 
+                "title": "LEFT THREE EIGHTHS BLOCK"
+            }, 
+            {
+                "charcode": "0x258e", 
+                "title": "LEFT ONE QUARTER BLOCK"
+            }, 
+            {
+                "charcode": "0x258f", 
+                "title": "LEFT ONE EIGHTH BLOCK"
+            }, 
+            {
+                "charcode": "0x2590", 
+                "title": "RIGHT HALF BLOCK"
+            }, 
+            {
+                "charcode": "0x2591", 
+                "title": "LIGHT SHADE"
+            }, 
+            {
+                "charcode": "0x2592", 
+                "title": "MEDIUM SHADE"
+            }, 
+            {
+                "charcode": "0x2593", 
+                "title": "DARK SHADE"
+            }, 
+            {
+                "charcode": "0x2594", 
+                "title": "UPPER ONE EIGHTH BLOCK"
+            }, 
+            {
+                "charcode": "0x2595", 
+                "title": "RIGHT ONE EIGHTH BLOCK"
+            }, 
+            {
+                "charcode": "0x2596", 
+                "title": "QUADRANT LOWER LEFT"
+            }, 
+            {
+                "charcode": "0x2597", 
+                "title": "QUADRANT LOWER RIGHT"
+            }, 
+            {
+                "charcode": "0x2598", 
+                "title": "QUADRANT UPPER LEFT"
+            }, 
+            {
+                "charcode": "0x2599", 
+                "title": "QUADRANT UPPER LEFT AND LOWER LEFT AND LOWER RIGHT"
+            }, 
+            {
+                "charcode": "0x259a", 
+                "title": "QUADRANT UPPER LEFT AND LOWER RIGHT"
+            }, 
+            {
+                "charcode": "0x259b", 
+                "title": "QUADRANT UPPER LEFT AND UPPER RIGHT AND LOWER LEFT"
+            }, 
+            {
+                "charcode": "0x259c", 
+                "title": "QUADRANT UPPER LEFT AND UPPER RIGHT AND LOWER RIGHT"
+            }, 
+            {
+                "charcode": "0x259d", 
+                "title": "QUADRANT UPPER RIGHT"
+            }, 
+            {
+                "charcode": "0x259e", 
+                "title": "QUADRANT UPPER RIGHT AND LOWER LEFT"
+            }
+        ], 
+        "name": "Block Elements"
+    }
+]

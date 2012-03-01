@@ -1,0 +1,123 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xa960", 
+                "title": "HANGUL CHOSEONG TIKEUT-MIEUM"
+            }, 
+            {
+                "charcode": "0xa961", 
+                "title": "HANGUL CHOSEONG TIKEUT-PIEUP"
+            }, 
+            {
+                "charcode": "0xa962", 
+                "title": "HANGUL CHOSEONG TIKEUT-SIOS"
+            }, 
+            {
+                "charcode": "0xa963", 
+                "title": "HANGUL CHOSEONG TIKEUT-CIEUC"
+            }, 
+            {
+                "charcode": "0xa964", 
+                "title": "HANGUL CHOSEONG RIEUL-KIYEOK"
+            }, 
+            {
+                "charcode": "0xa965", 
+                "title": "HANGUL CHOSEONG RIEUL-SSANGKIYEOK"
+            }, 
+            {
+                "charcode": "0xa966", 
+                "title": "HANGUL CHOSEONG RIEUL-TIKEUT"
+            }, 
+            {
+                "charcode": "0xa967", 
+                "title": "HANGUL CHOSEONG RIEUL-SSANGTIKEUT"
+            }, 
+            {
+                "charcode": "0xa968", 
+                "title": "HANGUL CHOSEONG RIEUL-MIEUM"
+            }, 
+            {
+                "charcode": "0xa969", 
+                "title": "HANGUL CHOSEONG RIEUL-PIEUP"
+            }, 
+            {
+                "charcode": "0xa96a", 
+                "title": "HANGUL CHOSEONG RIEUL-SSANGPIEUP"
+            }, 
+            {
+                "charcode": "0xa96b", 
+                "title": "HANGUL CHOSEONG RIEUL-KAPYEOUNPIEUP"
+            }, 
+            {
+                "charcode": "0xa96c", 
+                "title": "HANGUL CHOSEONG RIEUL-SIOS"
+            }, 
+            {
+                "charcode": "0xa96d", 
+                "title": "HANGUL CHOSEONG RIEUL-CIEUC"
+            }, 
+            {
+                "charcode": "0xa96e", 
+                "title": "HANGUL CHOSEONG RIEUL-KHIEUKH"
+            }, 
+            {
+                "charcode": "0xa96f", 
+                "title": "HANGUL CHOSEONG MIEUM-KIYEOK"
+            }, 
+            {
+                "charcode": "0xa970", 
+                "title": "HANGUL CHOSEONG MIEUM-TIKEUT"
+            }, 
+            {
+                "charcode": "0xa971", 
+                "title": "HANGUL CHOSEONG MIEUM-SIOS"
+            }, 
+            {
+                "charcode": "0xa972", 
+                "title": "HANGUL CHOSEONG PIEUP-SIOS-THIEUTH"
+            }, 
+            {
+                "charcode": "0xa973", 
+                "title": "HANGUL CHOSEONG PIEUP-KHIEUKH"
+            }, 
+            {
+                "charcode": "0xa974", 
+                "title": "HANGUL CHOSEONG PIEUP-HIEUH"
+            }, 
+            {
+                "charcode": "0xa975", 
+                "title": "HANGUL CHOSEONG SSANGSIOS-PIEUP"
+            }, 
+            {
+                "charcode": "0xa976", 
+                "title": "HANGUL CHOSEONG IEUNG-RIEUL"
+            }, 
+            {
+                "charcode": "0xa977", 
+                "title": "HANGUL CHOSEONG IEUNG-HIEUH"
+            }, 
+            {
+                "charcode": "0xa978", 
+                "title": "HANGUL CHOSEONG SSANGCIEUC-HIEUH"
+            }, 
+            {
+                "charcode": "0xa979", 
+                "title": "HANGUL CHOSEONG SSANGTHIEUTH"
+            }, 
+            {
+                "charcode": "0xa97a", 
+                "title": "HANGUL CHOSEONG PHIEUPH-HIEUH"
+            }, 
+            {
+                "charcode": "0xa97b", 
+                "title": "HANGUL CHOSEONG HIEUH-SIOS"
+            }, 
+            {
+                "charcode": "0xa97c", 
+                "title": "HANGUL CHOSEONG SSANGYEORINHIEUH"
+            }
+        ], 
+        "name": "Hangul Jamo Extended-A"
+    }
+]

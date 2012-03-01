@@ -1,0 +1,515 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2900", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW WITH VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2901", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW WITH DOUBLE VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2902", 
+                "title": "LEFTWARDS DOUBLE ARROW WITH VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2903", 
+                "title": "RIGHTWARDS DOUBLE ARROW WITH VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2904", 
+                "title": "LEFT RIGHT DOUBLE ARROW WITH VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2905", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW FROM BAR"
+            }, 
+            {
+                "charcode": "0x2906", 
+                "title": "LEFTWARDS DOUBLE ARROW FROM BAR"
+            }, 
+            {
+                "charcode": "0x2907", 
+                "title": "RIGHTWARDS DOUBLE ARROW FROM BAR"
+            }, 
+            {
+                "charcode": "0x2908", 
+                "title": "DOWNWARDS ARROW WITH HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x2909", 
+                "title": "UPWARDS ARROW WITH HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x290a", 
+                "title": "UPWARDS TRIPLE ARROW"
+            }, 
+            {
+                "charcode": "0x290b", 
+                "title": "DOWNWARDS TRIPLE ARROW"
+            }, 
+            {
+                "charcode": "0x290c", 
+                "title": "LEFTWARDS DOUBLE DASH ARROW"
+            }, 
+            {
+                "charcode": "0x290d", 
+                "title": "RIGHTWARDS DOUBLE DASH ARROW"
+            }, 
+            {
+                "charcode": "0x290e", 
+                "title": "LEFTWARDS TRIPLE DASH ARROW"
+            }, 
+            {
+                "charcode": "0x290f", 
+                "title": "RIGHTWARDS TRIPLE DASH ARROW"
+            }, 
+            {
+                "charcode": "0x2910", 
+                "title": "RIGHTWARDS TWO-HEADED TRIPLE DASH ARROW"
+            }, 
+            {
+                "charcode": "0x2911", 
+                "title": "RIGHTWARDS ARROW WITH DOTTED STEM"
+            }, 
+            {
+                "charcode": "0x2912", 
+                "title": "UPWARDS ARROW TO BAR"
+            }, 
+            {
+                "charcode": "0x2913", 
+                "title": "DOWNWARDS ARROW TO BAR"
+            }, 
+            {
+                "charcode": "0x2914", 
+                "title": "RIGHTWARDS ARROW WITH TAIL WITH VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2915", 
+                "title": "RIGHTWARDS ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2916", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW WITH TAIL"
+            }, 
+            {
+                "charcode": "0x2917", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW WITH TAIL WITH VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2918", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE"
+            }, 
+            {
+                "charcode": "0x2919", 
+                "title": "LEFTWARDS ARROW-TAIL"
+            }, 
+            {
+                "charcode": "0x291a", 
+                "title": "RIGHTWARDS ARROW-TAIL"
+            }, 
+            {
+                "charcode": "0x291b", 
+                "title": "LEFTWARDS DOUBLE ARROW-TAIL"
+            }, 
+            {
+                "charcode": "0x291c", 
+                "title": "RIGHTWARDS DOUBLE ARROW-TAIL"
+            }, 
+            {
+                "charcode": "0x291d", 
+                "title": "LEFTWARDS ARROW TO BLACK DIAMOND"
+            }, 
+            {
+                "charcode": "0x291e", 
+                "title": "RIGHTWARDS ARROW TO BLACK DIAMOND"
+            }, 
+            {
+                "charcode": "0x291f", 
+                "title": "LEFTWARDS ARROW FROM BAR TO BLACK DIAMOND"
+            }, 
+            {
+                "charcode": "0x2920", 
+                "title": "RIGHTWARDS ARROW FROM BAR TO BLACK DIAMOND"
+            }, 
+            {
+                "charcode": "0x2921", 
+                "title": "NORTH WEST AND SOUTH EAST ARROW"
+            }, 
+            {
+                "charcode": "0x2922", 
+                "title": "NORTH EAST AND SOUTH WEST ARROW"
+            }, 
+            {
+                "charcode": "0x2923", 
+                "title": "NORTH WEST ARROW WITH HOOK"
+            }, 
+            {
+                "charcode": "0x2924", 
+                "title": "NORTH EAST ARROW WITH HOOK"
+            }, 
+            {
+                "charcode": "0x2925", 
+                "title": "SOUTH EAST ARROW WITH HOOK"
+            }, 
+            {
+                "charcode": "0x2926", 
+                "title": "SOUTH WEST ARROW WITH HOOK"
+            }, 
+            {
+                "charcode": "0x2927", 
+                "title": "NORTH WEST ARROW AND NORTH EAST ARROW"
+            }, 
+            {
+                "charcode": "0x2928", 
+                "title": "NORTH EAST ARROW AND SOUTH EAST ARROW"
+            }, 
+            {
+                "charcode": "0x2929", 
+                "title": "SOUTH EAST ARROW AND SOUTH WEST ARROW"
+            }, 
+            {
+                "charcode": "0x292a", 
+                "title": "SOUTH WEST ARROW AND NORTH WEST ARROW"
+            }, 
+            {
+                "charcode": "0x292b", 
+                "title": "RISING DIAGONAL CROSSING FALLING DIAGONAL"
+            }, 
+            {
+                "charcode": "0x292c", 
+                "title": "FALLING DIAGONAL CROSSING RISING DIAGONAL"
+            }, 
+            {
+                "charcode": "0x292d", 
+                "title": "SOUTH EAST ARROW CROSSING NORTH EAST ARROW"
+            }, 
+            {
+                "charcode": "0x292e", 
+                "title": "NORTH EAST ARROW CROSSING SOUTH EAST ARROW"
+            }, 
+            {
+                "charcode": "0x292f", 
+                "title": "FALLING DIAGONAL CROSSING NORTH EAST ARROW"
+            }, 
+            {
+                "charcode": "0x2930", 
+                "title": "RISING DIAGONAL CROSSING SOUTH EAST ARROW"
+            }, 
+            {
+                "charcode": "0x2931", 
+                "title": "NORTH EAST ARROW CROSSING NORTH WEST ARROW"
+            }, 
+            {
+                "charcode": "0x2932", 
+                "title": "NORTH WEST ARROW CROSSING NORTH EAST ARROW"
+            }, 
+            {
+                "charcode": "0x2933", 
+                "title": "WAVE ARROW POINTING DIRECTLY RIGHT"
+            }, 
+            {
+                "charcode": "0x2934", 
+                "title": "ARROW POINTING RIGHTWARDS THEN CURVING UPWARDS"
+            }, 
+            {
+                "charcode": "0x2935", 
+                "title": "ARROW POINTING RIGHTWARDS THEN CURVING DOWNWARDS"
+            }, 
+            {
+                "charcode": "0x2936", 
+                "title": "ARROW POINTING DOWNWARDS THEN CURVING LEFTWARDS"
+            }, 
+            {
+                "charcode": "0x2937", 
+                "title": "ARROW POINTING DOWNWARDS THEN CURVING RIGHTWARDS"
+            }, 
+            {
+                "charcode": "0x2938", 
+                "title": "RIGHT-SIDE ARC CLOCKWISE ARROW"
+            }, 
+            {
+                "charcode": "0x2939", 
+                "title": "LEFT-SIDE ARC ANTICLOCKWISE ARROW"
+            }, 
+            {
+                "charcode": "0x293a", 
+                "title": "TOP ARC ANTICLOCKWISE ARROW"
+            }, 
+            {
+                "charcode": "0x293b", 
+                "title": "BOTTOM ARC ANTICLOCKWISE ARROW"
+            }, 
+            {
+                "charcode": "0x293c", 
+                "title": "TOP ARC CLOCKWISE ARROW WITH MINUS"
+            }, 
+            {
+                "charcode": "0x293d", 
+                "title": "TOP ARC ANTICLOCKWISE ARROW WITH PLUS"
+            }, 
+            {
+                "charcode": "0x293e", 
+                "title": "LOWER RIGHT SEMICIRCULAR CLOCKWISE ARROW"
+            }, 
+            {
+                "charcode": "0x293f", 
+                "title": "LOWER LEFT SEMICIRCULAR ANTICLOCKWISE ARROW"
+            }, 
+            {
+                "charcode": "0x2940", 
+                "title": "ANTICLOCKWISE CLOSED CIRCLE ARROW"
+            }, 
+            {
+                "charcode": "0x2941", 
+                "title": "CLOCKWISE CLOSED CIRCLE ARROW"
+            }, 
+            {
+                "charcode": "0x2942", 
+                "title": "RIGHTWARDS ARROW ABOVE SHORT LEFTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2943", 
+                "title": "LEFTWARDS ARROW ABOVE SHORT RIGHTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2944", 
+                "title": "SHORT RIGHTWARDS ARROW ABOVE LEFTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2945", 
+                "title": "RIGHTWARDS ARROW WITH PLUS BELOW"
+            }, 
+            {
+                "charcode": "0x2946", 
+                "title": "LEFTWARDS ARROW WITH PLUS BELOW"
+            }, 
+            {
+                "charcode": "0x2947", 
+                "title": "RIGHTWARDS ARROW THROUGH X"
+            }, 
+            {
+                "charcode": "0x2948", 
+                "title": "LEFT RIGHT ARROW THROUGH SMALL CIRCLE"
+            }, 
+            {
+                "charcode": "0x2949", 
+                "title": "UPWARDS TWO-HEADED ARROW FROM SMALL CIRCLE"
+            }, 
+            {
+                "charcode": "0x294a", 
+                "title": "LEFT BARB UP RIGHT BARB DOWN HARPOON"
+            }, 
+            {
+                "charcode": "0x294b", 
+                "title": "LEFT BARB DOWN RIGHT BARB UP HARPOON"
+            }, 
+            {
+                "charcode": "0x294c", 
+                "title": "UP BARB RIGHT DOWN BARB LEFT HARPOON"
+            }, 
+            {
+                "charcode": "0x294d", 
+                "title": "UP BARB LEFT DOWN BARB RIGHT HARPOON"
+            }, 
+            {
+                "charcode": "0x294e", 
+                "title": "LEFT BARB UP RIGHT BARB UP HARPOON"
+            }, 
+            {
+                "charcode": "0x294f", 
+                "title": "UP BARB RIGHT DOWN BARB RIGHT HARPOON"
+            }, 
+            {
+                "charcode": "0x2950", 
+                "title": "LEFT BARB DOWN RIGHT BARB DOWN HARPOON"
+            }, 
+            {
+                "charcode": "0x2951", 
+                "title": "UP BARB LEFT DOWN BARB LEFT HARPOON"
+            }, 
+            {
+                "charcode": "0x2952", 
+                "title": "LEFTWARDS HARPOON WITH BARB UP TO BAR"
+            }, 
+            {
+                "charcode": "0x2953", 
+                "title": "RIGHTWARDS HARPOON WITH BARB UP TO BAR"
+            }, 
+            {
+                "charcode": "0x2954", 
+                "title": "UPWARDS HARPOON WITH BARB RIGHT TO BAR"
+            }, 
+            {
+                "charcode": "0x2955", 
+                "title": "DOWNWARDS HARPOON WITH BARB RIGHT TO BAR"
+            }, 
+            {
+                "charcode": "0x2956", 
+                "title": "LEFTWARDS HARPOON WITH BARB DOWN TO BAR"
+            }, 
+            {
+                "charcode": "0x2957", 
+                "title": "RIGHTWARDS HARPOON WITH BARB DOWN TO BAR"
+            }, 
+            {
+                "charcode": "0x2958", 
+                "title": "UPWARDS HARPOON WITH BARB LEFT TO BAR"
+            }, 
+            {
+                "charcode": "0x2959", 
+                "title": "DOWNWARDS HARPOON WITH BARB LEFT TO BAR"
+            }, 
+            {
+                "charcode": "0x295a", 
+                "title": "LEFTWARDS HARPOON WITH BARB UP FROM BAR"
+            }, 
+            {
+                "charcode": "0x295b", 
+                "title": "RIGHTWARDS HARPOON WITH BARB UP FROM BAR"
+            }, 
+            {
+                "charcode": "0x295c", 
+                "title": "UPWARDS HARPOON WITH BARB RIGHT FROM BAR"
+            }, 
+            {
+                "charcode": "0x295d", 
+                "title": "DOWNWARDS HARPOON WITH BARB RIGHT FROM BAR"
+            }, 
+            {
+                "charcode": "0x295e", 
+                "title": "LEFTWARDS HARPOON WITH BARB DOWN FROM BAR"
+            }, 
+            {
+                "charcode": "0x295f", 
+                "title": "RIGHTWARDS HARPOON WITH BARB DOWN FROM BAR"
+            }, 
+            {
+                "charcode": "0x2960", 
+                "title": "UPWARDS HARPOON WITH BARB LEFT FROM BAR"
+            }, 
+            {
+                "charcode": "0x2961", 
+                "title": "DOWNWARDS HARPOON WITH BARB LEFT FROM BAR"
+            }, 
+            {
+                "charcode": "0x2962", 
+                "title": "LEFTWARDS HARPOON WITH BARB UP ABOVE LEFTWARDS HARPOON WITH BARB DOWN"
+            }, 
+            {
+                "charcode": "0x2963", 
+                "title": "UPWARDS HARPOON WITH BARB LEFT BESIDE UPWARDS HARPOON WITH BARB RIGHT"
+            }, 
+            {
+                "charcode": "0x2964", 
+                "title": "RIGHTWARDS HARPOON WITH BARB UP ABOVE RIGHTWARDS HARPOON WITH BARB DOWN"
+            }, 
+            {
+                "charcode": "0x2965", 
+                "title": "DOWNWARDS HARPOON WITH BARB LEFT BESIDE DOWNWARDS HARPOON WITH BARB RIGHT"
+            }, 
+            {
+                "charcode": "0x2966", 
+                "title": "LEFTWARDS HARPOON WITH BARB UP ABOVE RIGHTWARDS HARPOON WITH BARB UP"
+            }, 
+            {
+                "charcode": "0x2967", 
+                "title": "LEFTWARDS HARPOON WITH BARB DOWN ABOVE RIGHTWARDS HARPOON WITH BARB DOWN"
+            }, 
+            {
+                "charcode": "0x2968", 
+                "title": "RIGHTWARDS HARPOON WITH BARB UP ABOVE LEFTWARDS HARPOON WITH BARB UP"
+            }, 
+            {
+                "charcode": "0x2969", 
+                "title": "RIGHTWARDS HARPOON WITH BARB DOWN ABOVE LEFTWARDS HARPOON WITH BARB DOWN"
+            }, 
+            {
+                "charcode": "0x296a", 
+                "title": "LEFTWARDS HARPOON WITH BARB UP ABOVE LONG DASH"
+            }, 
+            {
+                "charcode": "0x296b", 
+                "title": "LEFTWARDS HARPOON WITH BARB DOWN BELOW LONG DASH"
+            }, 
+            {
+                "charcode": "0x296c", 
+                "title": "RIGHTWARDS HARPOON WITH BARB UP ABOVE LONG DASH"
+            }, 
+            {
+                "charcode": "0x296d", 
+                "title": "RIGHTWARDS HARPOON WITH BARB DOWN BELOW LONG DASH"
+            }, 
+            {
+                "charcode": "0x296e", 
+                "title": "UPWARDS HARPOON WITH BARB LEFT BESIDE DOWNWARDS HARPOON WITH BARB RIGHT"
+            }, 
+            {
+                "charcode": "0x296f", 
+                "title": "DOWNWARDS HARPOON WITH BARB LEFT BESIDE UPWARDS HARPOON WITH BARB RIGHT"
+            }, 
+            {
+                "charcode": "0x2970", 
+                "title": "RIGHT DOUBLE ARROW WITH ROUNDED HEAD"
+            }, 
+            {
+                "charcode": "0x2971", 
+                "title": "EQUALS SIGN ABOVE RIGHTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2972", 
+                "title": "TILDE OPERATOR ABOVE RIGHTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2973", 
+                "title": "LEFTWARDS ARROW ABOVE TILDE OPERATOR"
+            }, 
+            {
+                "charcode": "0x2974", 
+                "title": "RIGHTWARDS ARROW ABOVE TILDE OPERATOR"
+            }, 
+            {
+                "charcode": "0x2975", 
+                "title": "RIGHTWARDS ARROW ABOVE ALMOST EQUAL TO"
+            }, 
+            {
+                "charcode": "0x2976", 
+                "title": "LESS-THAN ABOVE LEFTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2977", 
+                "title": "LEFTWARDS ARROW THROUGH LESS-THAN"
+            }, 
+            {
+                "charcode": "0x2978", 
+                "title": "GREATER-THAN ABOVE RIGHTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2979", 
+                "title": "SUBSET ABOVE RIGHTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x297a", 
+                "title": "LEFTWARDS ARROW THROUGH SUBSET"
+            }, 
+            {
+                "charcode": "0x297b", 
+                "title": "SUPERSET ABOVE LEFTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x297c", 
+                "title": "LEFT FISH TAIL"
+            }, 
+            {
+                "charcode": "0x297d", 
+                "title": "RIGHT FISH TAIL"
+            }, 
+            {
+                "charcode": "0x297e", 
+                "title": "UP FISH TAIL"
+            }
+        ], 
+        "name": "Supplemental Arrows-B"
+    }
+]

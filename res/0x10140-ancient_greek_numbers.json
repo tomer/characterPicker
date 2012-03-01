@@ -1,0 +1,307 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x10140", 
+                "title": "GREEK ACROPHONIC ATTIC ONE QUARTER"
+            }, 
+            {
+                "charcode": "0x10141", 
+                "title": "GREEK ACROPHONIC ATTIC ONE HALF"
+            }, 
+            {
+                "charcode": "0x10142", 
+                "title": "GREEK ACROPHONIC ATTIC ONE DRACHMA"
+            }, 
+            {
+                "charcode": "0x10143", 
+                "title": "GREEK ACROPHONIC ATTIC FIVE"
+            }, 
+            {
+                "charcode": "0x10144", 
+                "title": "GREEK ACROPHONIC ATTIC FIFTY"
+            }, 
+            {
+                "charcode": "0x10145", 
+                "title": "GREEK ACROPHONIC ATTIC FIVE HUNDRED"
+            }, 
+            {
+                "charcode": "0x10146", 
+                "title": "GREEK ACROPHONIC ATTIC FIVE THOUSAND"
+            }, 
+            {
+                "charcode": "0x10147", 
+                "title": "GREEK ACROPHONIC ATTIC FIFTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x10148", 
+                "title": "GREEK ACROPHONIC ATTIC FIVE TALENTS"
+            }, 
+            {
+                "charcode": "0x10149", 
+                "title": "GREEK ACROPHONIC ATTIC TEN TALENTS"
+            }, 
+            {
+                "charcode": "0x1014a", 
+                "title": "GREEK ACROPHONIC ATTIC FIFTY TALENTS"
+            }, 
+            {
+                "charcode": "0x1014b", 
+                "title": "GREEK ACROPHONIC ATTIC ONE HUNDRED TALENTS"
+            }, 
+            {
+                "charcode": "0x1014c", 
+                "title": "GREEK ACROPHONIC ATTIC FIVE HUNDRED TALENTS"
+            }, 
+            {
+                "charcode": "0x1014d", 
+                "title": "GREEK ACROPHONIC ATTIC ONE THOUSAND TALENTS"
+            }, 
+            {
+                "charcode": "0x1014e", 
+                "title": "GREEK ACROPHONIC ATTIC FIVE THOUSAND TALENTS"
+            }, 
+            {
+                "charcode": "0x1014f", 
+                "title": "GREEK ACROPHONIC ATTIC FIVE STATERS"
+            }, 
+            {
+                "charcode": "0x10150", 
+                "title": "GREEK ACROPHONIC ATTIC TEN STATERS"
+            }, 
+            {
+                "charcode": "0x10151", 
+                "title": "GREEK ACROPHONIC ATTIC FIFTY STATERS"
+            }, 
+            {
+                "charcode": "0x10152", 
+                "title": "GREEK ACROPHONIC ATTIC ONE HUNDRED STATERS"
+            }, 
+            {
+                "charcode": "0x10153", 
+                "title": "GREEK ACROPHONIC ATTIC FIVE HUNDRED STATERS"
+            }, 
+            {
+                "charcode": "0x10154", 
+                "title": "GREEK ACROPHONIC ATTIC ONE THOUSAND STATERS"
+            }, 
+            {
+                "charcode": "0x10155", 
+                "title": "GREEK ACROPHONIC ATTIC TEN THOUSAND STATERS"
+            }, 
+            {
+                "charcode": "0x10156", 
+                "title": "GREEK ACROPHONIC ATTIC FIFTY THOUSAND STATERS"
+            }, 
+            {
+                "charcode": "0x10157", 
+                "title": "GREEK ACROPHONIC ATTIC TEN MNAS"
+            }, 
+            {
+                "charcode": "0x10158", 
+                "title": "GREEK ACROPHONIC HERAEUM ONE PLETHRON"
+            }, 
+            {
+                "charcode": "0x10159", 
+                "title": "GREEK ACROPHONIC THESPIAN ONE"
+            }, 
+            {
+                "charcode": "0x1015a", 
+                "title": "GREEK ACROPHONIC HERMIONIAN ONE"
+            }, 
+            {
+                "charcode": "0x1015b", 
+                "title": "GREEK ACROPHONIC EPIDAUREAN TWO"
+            }, 
+            {
+                "charcode": "0x1015c", 
+                "title": "GREEK ACROPHONIC THESPIAN TWO"
+            }, 
+            {
+                "charcode": "0x1015d", 
+                "title": "GREEK ACROPHONIC CYRENAIC TWO DRACHMAS"
+            }, 
+            {
+                "charcode": "0x1015e", 
+                "title": "GREEK ACROPHONIC EPIDAUREAN TWO DRACHMAS"
+            }, 
+            {
+                "charcode": "0x1015f", 
+                "title": "GREEK ACROPHONIC TROEZENIAN FIVE"
+            }, 
+            {
+                "charcode": "0x10160", 
+                "title": "GREEK ACROPHONIC TROEZENIAN TEN"
+            }, 
+            {
+                "charcode": "0x10161", 
+                "title": "GREEK ACROPHONIC TROEZENIAN TEN ALTERNATE FORM"
+            }, 
+            {
+                "charcode": "0x10162", 
+                "title": "GREEK ACROPHONIC HERMIONIAN TEN"
+            }, 
+            {
+                "charcode": "0x10163", 
+                "title": "GREEK ACROPHONIC MESSENIAN TEN"
+            }, 
+            {
+                "charcode": "0x10164", 
+                "title": "GREEK ACROPHONIC THESPIAN TEN"
+            }, 
+            {
+                "charcode": "0x10165", 
+                "title": "GREEK ACROPHONIC THESPIAN THIRTY"
+            }, 
+            {
+                "charcode": "0x10166", 
+                "title": "GREEK ACROPHONIC TROEZENIAN FIFTY"
+            }, 
+            {
+                "charcode": "0x10167", 
+                "title": "GREEK ACROPHONIC TROEZENIAN FIFTY ALTERNATE FORM"
+            }, 
+            {
+                "charcode": "0x10168", 
+                "title": "GREEK ACROPHONIC HERMIONIAN FIFTY"
+            }, 
+            {
+                "charcode": "0x10169", 
+                "title": "GREEK ACROPHONIC THESPIAN FIFTY"
+            }, 
+            {
+                "charcode": "0x1016a", 
+                "title": "GREEK ACROPHONIC THESPIAN ONE HUNDRED"
+            }, 
+            {
+                "charcode": "0x1016b", 
+                "title": "GREEK ACROPHONIC THESPIAN THREE HUNDRED"
+            }, 
+            {
+                "charcode": "0x1016c", 
+                "title": "GREEK ACROPHONIC EPIDAUREAN FIVE HUNDRED"
+            }, 
+            {
+                "charcode": "0x1016d", 
+                "title": "GREEK ACROPHONIC TROEZENIAN FIVE HUNDRED"
+            }, 
+            {
+                "charcode": "0x1016e", 
+                "title": "GREEK ACROPHONIC THESPIAN FIVE HUNDRED"
+            }, 
+            {
+                "charcode": "0x1016f", 
+                "title": "GREEK ACROPHONIC CARYSTIAN FIVE HUNDRED"
+            }, 
+            {
+                "charcode": "0x10170", 
+                "title": "GREEK ACROPHONIC NAXIAN FIVE HUNDRED"
+            }, 
+            {
+                "charcode": "0x10171", 
+                "title": "GREEK ACROPHONIC THESPIAN ONE THOUSAND"
+            }, 
+            {
+                "charcode": "0x10172", 
+                "title": "GREEK ACROPHONIC THESPIAN FIVE THOUSAND"
+            }, 
+            {
+                "charcode": "0x10173", 
+                "title": "GREEK ACROPHONIC DELPHIC FIVE MNAS"
+            }, 
+            {
+                "charcode": "0x10174", 
+                "title": "GREEK ACROPHONIC STRATIAN FIFTY MNAS"
+            }, 
+            {
+                "charcode": "0x10175", 
+                "title": "GREEK ONE HALF SIGN"
+            }, 
+            {
+                "charcode": "0x10176", 
+                "title": "GREEK ONE HALF SIGN ALTERNATE FORM"
+            }, 
+            {
+                "charcode": "0x10177", 
+                "title": "GREEK TWO THIRDS SIGN"
+            }, 
+            {
+                "charcode": "0x10178", 
+                "title": "GREEK THREE QUARTERS SIGN"
+            }, 
+            {
+                "charcode": "0x10179", 
+                "title": "GREEK YEAR SIGN"
+            }, 
+            {
+                "charcode": "0x1017a", 
+                "title": "GREEK TALENT SIGN"
+            }, 
+            {
+                "charcode": "0x1017b", 
+                "title": "GREEK DRACHMA SIGN"
+            }, 
+            {
+                "charcode": "0x1017c", 
+                "title": "GREEK OBOL SIGN"
+            }, 
+            {
+                "charcode": "0x1017d", 
+                "title": "GREEK TWO OBOLS SIGN"
+            }, 
+            {
+                "charcode": "0x1017e", 
+                "title": "GREEK THREE OBOLS SIGN"
+            }, 
+            {
+                "charcode": "0x1017f", 
+                "title": "GREEK FOUR OBOLS SIGN"
+            }, 
+            {
+                "charcode": "0x10180", 
+                "title": "GREEK FIVE OBOLS SIGN"
+            }, 
+            {
+                "charcode": "0x10181", 
+                "title": "GREEK METRETES SIGN"
+            }, 
+            {
+                "charcode": "0x10182", 
+                "title": "GREEK KYATHOS BASE SIGN"
+            }, 
+            {
+                "charcode": "0x10183", 
+                "title": "GREEK LITRA SIGN"
+            }, 
+            {
+                "charcode": "0x10184", 
+                "title": "GREEK OUNKIA SIGN"
+            }, 
+            {
+                "charcode": "0x10185", 
+                "title": "GREEK XESTES SIGN"
+            }, 
+            {
+                "charcode": "0x10186", 
+                "title": "GREEK ARTABE SIGN"
+            }, 
+            {
+                "charcode": "0x10187", 
+                "title": "GREEK AROURA SIGN"
+            }, 
+            {
+                "charcode": "0x10188", 
+                "title": "GREEK GRAMMA SIGN"
+            }, 
+            {
+                "charcode": "0x10189", 
+                "title": "GREEK TRYBLION BASE SIGN"
+            }, 
+            {
+                "charcode": "0x1018a", 
+                "title": "GREEK ZERO SIGN"
+            }
+        ], 
+        "name": "Ancient Greek Numbers"
+    }
+]

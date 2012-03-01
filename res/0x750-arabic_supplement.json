@@ -1,0 +1,195 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x750", 
+                "title": "ARABIC LETTER BEH WITH THREE DOTS HORIZONTALLY BELOW"
+            }, 
+            {
+                "charcode": "0x751", 
+                "title": "ARABIC LETTER BEH WITH DOT BELOW AND THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x752", 
+                "title": "ARABIC LETTER BEH WITH THREE DOTS POINTING UPWARDS BELOW"
+            }, 
+            {
+                "charcode": "0x753", 
+                "title": "ARABIC LETTER BEH WITH THREE DOTS POINTING UPWARDS BELOW AND TWO DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x754", 
+                "title": "ARABIC LETTER BEH WITH TWO DOTS BELOW AND DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x755", 
+                "title": "ARABIC LETTER BEH WITH INVERTED SMALL V BELOW"
+            }, 
+            {
+                "charcode": "0x756", 
+                "title": "ARABIC LETTER BEH WITH SMALL V"
+            }, 
+            {
+                "charcode": "0x757", 
+                "title": "ARABIC LETTER HAH WITH TWO DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x758", 
+                "title": "ARABIC LETTER HAH WITH THREE DOTS POINTING UPWARDS BELOW"
+            }, 
+            {
+                "charcode": "0x759", 
+                "title": "ARABIC LETTER DAL WITH TWO DOTS VERTICALLY BELOW AND SMALL TAH"
+            }, 
+            {
+                "charcode": "0x75a", 
+                "title": "ARABIC LETTER DAL WITH INVERTED SMALL V BELOW"
+            }, 
+            {
+                "charcode": "0x75b", 
+                "title": "ARABIC LETTER REH WITH STROKE"
+            }, 
+            {
+                "charcode": "0x75c", 
+                "title": "ARABIC LETTER SEEN WITH FOUR DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x75d", 
+                "title": "ARABIC LETTER AIN WITH TWO DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x75e", 
+                "title": "ARABIC LETTER AIN WITH THREE DOTS POINTING DOWNWARDS ABOVE"
+            }, 
+            {
+                "charcode": "0x75f", 
+                "title": "ARABIC LETTER AIN WITH TWO DOTS VERTICALLY ABOVE"
+            }, 
+            {
+                "charcode": "0x760", 
+                "title": "ARABIC LETTER FEH WITH TWO DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x761", 
+                "title": "ARABIC LETTER FEH WITH THREE DOTS POINTING UPWARDS BELOW"
+            }, 
+            {
+                "charcode": "0x762", 
+                "title": "ARABIC LETTER KEHEH WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x763", 
+                "title": "ARABIC LETTER KEHEH WITH THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x764", 
+                "title": "ARABIC LETTER KEHEH WITH THREE DOTS POINTING UPWARDS BELOW"
+            }, 
+            {
+                "charcode": "0x765", 
+                "title": "ARABIC LETTER MEEM WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x766", 
+                "title": "ARABIC LETTER MEEM WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x767", 
+                "title": "ARABIC LETTER NOON WITH TWO DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x768", 
+                "title": "ARABIC LETTER NOON WITH SMALL TAH"
+            }, 
+            {
+                "charcode": "0x769", 
+                "title": "ARABIC LETTER NOON WITH SMALL V"
+            }, 
+            {
+                "charcode": "0x76a", 
+                "title": "ARABIC LETTER LAM WITH BAR"
+            }, 
+            {
+                "charcode": "0x76b", 
+                "title": "ARABIC LETTER REH WITH TWO DOTS VERTICALLY ABOVE"
+            }, 
+            {
+                "charcode": "0x76c", 
+                "title": "ARABIC LETTER REH WITH HAMZA ABOVE"
+            }, 
+            {
+                "charcode": "0x76d", 
+                "title": "ARABIC LETTER SEEN WITH TWO DOTS VERTICALLY ABOVE"
+            }, 
+            {
+                "charcode": "0x76e", 
+                "title": "ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH BELOW"
+            }, 
+            {
+                "charcode": "0x76f", 
+                "title": "ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH AND TWO DOTS"
+            }, 
+            {
+                "charcode": "0x770", 
+                "title": "ARABIC LETTER SEEN WITH SMALL ARABIC LETTER TAH AND TWO DOTS"
+            }, 
+            {
+                "charcode": "0x771", 
+                "title": "ARABIC LETTER REH WITH SMALL ARABIC LETTER TAH AND TWO DOTS"
+            }, 
+            {
+                "charcode": "0x772", 
+                "title": "ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH ABOVE"
+            }, 
+            {
+                "charcode": "0x773", 
+                "title": "ARABIC LETTER ALEF WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE"
+            }, 
+            {
+                "charcode": "0x774", 
+                "title": "ARABIC LETTER ALEF WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE"
+            }, 
+            {
+                "charcode": "0x775", 
+                "title": "ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE"
+            }, 
+            {
+                "charcode": "0x776", 
+                "title": "ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE"
+            }, 
+            {
+                "charcode": "0x777", 
+                "title": "ARABIC LETTER FARSI YEH WITH EXTENDED ARABIC-INDIC DIGIT FOUR BELOW"
+            }, 
+            {
+                "charcode": "0x778", 
+                "title": "ARABIC LETTER WAW WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE"
+            }, 
+            {
+                "charcode": "0x779", 
+                "title": "ARABIC LETTER WAW WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE"
+            }, 
+            {
+                "charcode": "0x77a", 
+                "title": "ARABIC LETTER YEH BARREE WITH EXTENDED ARABIC-INDIC DIGIT TWO ABOVE"
+            }, 
+            {
+                "charcode": "0x77b", 
+                "title": "ARABIC LETTER YEH BARREE WITH EXTENDED ARABIC-INDIC DIGIT THREE ABOVE"
+            }, 
+            {
+                "charcode": "0x77c", 
+                "title": "ARABIC LETTER HAH WITH EXTENDED ARABIC-INDIC DIGIT FOUR BELOW"
+            }, 
+            {
+                "charcode": "0x77d", 
+                "title": "ARABIC LETTER SEEN WITH EXTENDED ARABIC-INDIC DIGIT FOUR ABOVE"
+            }, 
+            {
+                "charcode": "0x77e", 
+                "title": "ARABIC LETTER SEEN WITH INVERTED V"
+            }
+        ], 
+        "name": "Arabic Supplement"
+    }
+]

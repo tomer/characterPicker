@@ -1,0 +1,175 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2070", 
+                "title": "SUPERSCRIPT ZERO"
+            }, 
+            {
+                "charcode": "0x2071", 
+                "title": "SUPERSCRIPT LATIN SMALL LETTER I"
+            }, 
+            {
+                "charcode": "0x2074", 
+                "title": "SUPERSCRIPT FOUR"
+            }, 
+            {
+                "charcode": "0x2075", 
+                "title": "SUPERSCRIPT FIVE"
+            }, 
+            {
+                "charcode": "0x2076", 
+                "title": "SUPERSCRIPT SIX"
+            }, 
+            {
+                "charcode": "0x2077", 
+                "title": "SUPERSCRIPT SEVEN"
+            }, 
+            {
+                "charcode": "0x2078", 
+                "title": "SUPERSCRIPT EIGHT"
+            }, 
+            {
+                "charcode": "0x2079", 
+                "title": "SUPERSCRIPT NINE"
+            }, 
+            {
+                "charcode": "0x207a", 
+                "title": "SUPERSCRIPT PLUS SIGN"
+            }, 
+            {
+                "charcode": "0x207b", 
+                "title": "SUPERSCRIPT MINUS"
+            }, 
+            {
+                "charcode": "0x207c", 
+                "title": "SUPERSCRIPT EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x207d", 
+                "title": "SUPERSCRIPT LEFT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0x207e", 
+                "title": "SUPERSCRIPT RIGHT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0x207f", 
+                "title": "SUPERSCRIPT LATIN SMALL LETTER N"
+            }, 
+            {
+                "charcode": "0x2080", 
+                "title": "SUBSCRIPT ZERO"
+            }, 
+            {
+                "charcode": "0x2081", 
+                "title": "SUBSCRIPT ONE"
+            }, 
+            {
+                "charcode": "0x2082", 
+                "title": "SUBSCRIPT TWO"
+            }, 
+            {
+                "charcode": "0x2083", 
+                "title": "SUBSCRIPT THREE"
+            }, 
+            {
+                "charcode": "0x2084", 
+                "title": "SUBSCRIPT FOUR"
+            }, 
+            {
+                "charcode": "0x2085", 
+                "title": "SUBSCRIPT FIVE"
+            }, 
+            {
+                "charcode": "0x2086", 
+                "title": "SUBSCRIPT SIX"
+            }, 
+            {
+                "charcode": "0x2087", 
+                "title": "SUBSCRIPT SEVEN"
+            }, 
+            {
+                "charcode": "0x2088", 
+                "title": "SUBSCRIPT EIGHT"
+            }, 
+            {
+                "charcode": "0x2089", 
+                "title": "SUBSCRIPT NINE"
+            }, 
+            {
+                "charcode": "0x208a", 
+                "title": "SUBSCRIPT PLUS SIGN"
+            }, 
+            {
+                "charcode": "0x208b", 
+                "title": "SUBSCRIPT MINUS"
+            }, 
+            {
+                "charcode": "0x208c", 
+                "title": "SUBSCRIPT EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0x208d", 
+                "title": "SUBSCRIPT LEFT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0x208e", 
+                "title": "SUBSCRIPT RIGHT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0x2090", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER A"
+            }, 
+            {
+                "charcode": "0x2091", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER E"
+            }, 
+            {
+                "charcode": "0x2092", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER O"
+            }, 
+            {
+                "charcode": "0x2093", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER X"
+            }, 
+            {
+                "charcode": "0x2094", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER SCHWA"
+            }, 
+            {
+                "charcode": "0x2095", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER H"
+            }, 
+            {
+                "charcode": "0x2096", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER K"
+            }, 
+            {
+                "charcode": "0x2097", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER L"
+            }, 
+            {
+                "charcode": "0x2098", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER M"
+            }, 
+            {
+                "charcode": "0x2099", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER N"
+            }, 
+            {
+                "charcode": "0x209a", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER P"
+            }, 
+            {
+                "charcode": "0x209b", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER S"
+            }, 
+            {
+                "charcode": "0x209c", 
+                "title": "LATIN SUBSCRIPT SMALL LETTER T"
+            }
+        ], 
+        "name": "Superscripts and Subscripts"
+    }
+]

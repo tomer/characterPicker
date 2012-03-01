@@ -1,0 +1,3523 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x12000", 
+                "title": "CUNEIFORM SIGN A"
+            }, 
+            {
+                "charcode": "0x12001", 
+                "title": "CUNEIFORM SIGN A TIMES A"
+            }, 
+            {
+                "charcode": "0x12002", 
+                "title": "CUNEIFORM SIGN A TIMES BAD"
+            }, 
+            {
+                "charcode": "0x12003", 
+                "title": "CUNEIFORM SIGN A TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x12004", 
+                "title": "CUNEIFORM SIGN A TIMES HA"
+            }, 
+            {
+                "charcode": "0x12005", 
+                "title": "CUNEIFORM SIGN A TIMES IGI"
+            }, 
+            {
+                "charcode": "0x12006", 
+                "title": "CUNEIFORM SIGN A TIMES LAGAR GUNU"
+            }, 
+            {
+                "charcode": "0x12007", 
+                "title": "CUNEIFORM SIGN A TIMES MUSH"
+            }, 
+            {
+                "charcode": "0x12008", 
+                "title": "CUNEIFORM SIGN A TIMES SAG"
+            }, 
+            {
+                "charcode": "0x12009", 
+                "title": "CUNEIFORM SIGN A2"
+            }, 
+            {
+                "charcode": "0x1200a", 
+                "title": "CUNEIFORM SIGN AB"
+            }, 
+            {
+                "charcode": "0x1200b", 
+                "title": "CUNEIFORM SIGN AB TIMES ASH2"
+            }, 
+            {
+                "charcode": "0x1200c", 
+                "title": "CUNEIFORM SIGN AB TIMES DUN3 GUNU"
+            }, 
+            {
+                "charcode": "0x1200d", 
+                "title": "CUNEIFORM SIGN AB TIMES GAL"
+            }, 
+            {
+                "charcode": "0x1200e", 
+                "title": "CUNEIFORM SIGN AB TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x1200f", 
+                "title": "CUNEIFORM SIGN AB TIMES HA"
+            }, 
+            {
+                "charcode": "0x12010", 
+                "title": "CUNEIFORM SIGN AB TIMES IGI GUNU"
+            }, 
+            {
+                "charcode": "0x12011", 
+                "title": "CUNEIFORM SIGN AB TIMES IMIN"
+            }, 
+            {
+                "charcode": "0x12012", 
+                "title": "CUNEIFORM SIGN AB TIMES LAGAB"
+            }, 
+            {
+                "charcode": "0x12013", 
+                "title": "CUNEIFORM SIGN AB TIMES SHESH"
+            }, 
+            {
+                "charcode": "0x12014", 
+                "title": "CUNEIFORM SIGN AB TIMES U PLUS U PLUS U"
+            }, 
+            {
+                "charcode": "0x12015", 
+                "title": "CUNEIFORM SIGN AB GUNU"
+            }, 
+            {
+                "charcode": "0x12016", 
+                "title": "CUNEIFORM SIGN AB2"
+            }, 
+            {
+                "charcode": "0x12017", 
+                "title": "CUNEIFORM SIGN AB2 TIMES BALAG"
+            }, 
+            {
+                "charcode": "0x12018", 
+                "title": "CUNEIFORM SIGN AB2 TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x12019", 
+                "title": "CUNEIFORM SIGN AB2 TIMES ME PLUS EN"
+            }, 
+            {
+                "charcode": "0x1201a", 
+                "title": "CUNEIFORM SIGN AB2 TIMES SHA3"
+            }, 
+            {
+                "charcode": "0x1201b", 
+                "title": "CUNEIFORM SIGN AB2 TIMES TAK4"
+            }, 
+            {
+                "charcode": "0x1201c", 
+                "title": "CUNEIFORM SIGN AD"
+            }, 
+            {
+                "charcode": "0x1201d", 
+                "title": "CUNEIFORM SIGN AK"
+            }, 
+            {
+                "charcode": "0x1201e", 
+                "title": "CUNEIFORM SIGN AK TIMES ERIN2"
+            }, 
+            {
+                "charcode": "0x1201f", 
+                "title": "CUNEIFORM SIGN AK TIMES SHITA PLUS GISH"
+            }, 
+            {
+                "charcode": "0x12020", 
+                "title": "CUNEIFORM SIGN AL"
+            }, 
+            {
+                "charcode": "0x12021", 
+                "title": "CUNEIFORM SIGN AL TIMES AL"
+            }, 
+            {
+                "charcode": "0x12022", 
+                "title": "CUNEIFORM SIGN AL TIMES DIM2"
+            }, 
+            {
+                "charcode": "0x12023", 
+                "title": "CUNEIFORM SIGN AL TIMES GISH"
+            }, 
+            {
+                "charcode": "0x12024", 
+                "title": "CUNEIFORM SIGN AL TIMES HA"
+            }, 
+            {
+                "charcode": "0x12025", 
+                "title": "CUNEIFORM SIGN AL TIMES KAD3"
+            }, 
+            {
+                "charcode": "0x12026", 
+                "title": "CUNEIFORM SIGN AL TIMES KI"
+            }, 
+            {
+                "charcode": "0x12027", 
+                "title": "CUNEIFORM SIGN AL TIMES SHE"
+            }, 
+            {
+                "charcode": "0x12028", 
+                "title": "CUNEIFORM SIGN AL TIMES USH"
+            }, 
+            {
+                "charcode": "0x12029", 
+                "title": "CUNEIFORM SIGN ALAN"
+            }, 
+            {
+                "charcode": "0x1202a", 
+                "title": "CUNEIFORM SIGN ALEPH"
+            }, 
+            {
+                "charcode": "0x1202b", 
+                "title": "CUNEIFORM SIGN AMAR"
+            }, 
+            {
+                "charcode": "0x1202c", 
+                "title": "CUNEIFORM SIGN AMAR TIMES SHE"
+            }, 
+            {
+                "charcode": "0x1202d", 
+                "title": "CUNEIFORM SIGN AN"
+            }, 
+            {
+                "charcode": "0x1202e", 
+                "title": "CUNEIFORM SIGN AN OVER AN"
+            }, 
+            {
+                "charcode": "0x1202f", 
+                "title": "CUNEIFORM SIGN AN THREE TIMES"
+            }, 
+            {
+                "charcode": "0x12030", 
+                "title": "CUNEIFORM SIGN AN PLUS NAGA OPPOSING AN PLUS NAGA"
+            }, 
+            {
+                "charcode": "0x12031", 
+                "title": "CUNEIFORM SIGN AN PLUS NAGA SQUARED"
+            }, 
+            {
+                "charcode": "0x12032", 
+                "title": "CUNEIFORM SIGN ANSHE"
+            }, 
+            {
+                "charcode": "0x12033", 
+                "title": "CUNEIFORM SIGN APIN"
+            }, 
+            {
+                "charcode": "0x12034", 
+                "title": "CUNEIFORM SIGN ARAD"
+            }, 
+            {
+                "charcode": "0x12035", 
+                "title": "CUNEIFORM SIGN ARAD TIMES KUR"
+            }, 
+            {
+                "charcode": "0x12036", 
+                "title": "CUNEIFORM SIGN ARKAB"
+            }, 
+            {
+                "charcode": "0x12037", 
+                "title": "CUNEIFORM SIGN ASAL2"
+            }, 
+            {
+                "charcode": "0x12038", 
+                "title": "CUNEIFORM SIGN ASH"
+            }, 
+            {
+                "charcode": "0x12039", 
+                "title": "CUNEIFORM SIGN ASH ZIDA TENU"
+            }, 
+            {
+                "charcode": "0x1203a", 
+                "title": "CUNEIFORM SIGN ASH KABA TENU"
+            }, 
+            {
+                "charcode": "0x1203b", 
+                "title": "CUNEIFORM SIGN ASH OVER ASH TUG2 OVER TUG2 TUG2 OVER TUG2 PAP"
+            }, 
+            {
+                "charcode": "0x1203c", 
+                "title": "CUNEIFORM SIGN ASH OVER ASH OVER ASH"
+            }, 
+            {
+                "charcode": "0x1203d", 
+                "title": "CUNEIFORM SIGN ASH OVER ASH OVER ASH CROSSING ASH OVER ASH OVER ASH"
+            }, 
+            {
+                "charcode": "0x1203e", 
+                "title": "CUNEIFORM SIGN ASH2"
+            }, 
+            {
+                "charcode": "0x1203f", 
+                "title": "CUNEIFORM SIGN ASHGAB"
+            }, 
+            {
+                "charcode": "0x12040", 
+                "title": "CUNEIFORM SIGN BA"
+            }, 
+            {
+                "charcode": "0x12041", 
+                "title": "CUNEIFORM SIGN BAD"
+            }, 
+            {
+                "charcode": "0x12042", 
+                "title": "CUNEIFORM SIGN BAG3"
+            }, 
+            {
+                "charcode": "0x12043", 
+                "title": "CUNEIFORM SIGN BAHAR2"
+            }, 
+            {
+                "charcode": "0x12044", 
+                "title": "CUNEIFORM SIGN BAL"
+            }, 
+            {
+                "charcode": "0x12045", 
+                "title": "CUNEIFORM SIGN BAL OVER BAL"
+            }, 
+            {
+                "charcode": "0x12046", 
+                "title": "CUNEIFORM SIGN BALAG"
+            }, 
+            {
+                "charcode": "0x12047", 
+                "title": "CUNEIFORM SIGN BAR"
+            }, 
+            {
+                "charcode": "0x12048", 
+                "title": "CUNEIFORM SIGN BARA2"
+            }, 
+            {
+                "charcode": "0x12049", 
+                "title": "CUNEIFORM SIGN BI"
+            }, 
+            {
+                "charcode": "0x1204a", 
+                "title": "CUNEIFORM SIGN BI TIMES A"
+            }, 
+            {
+                "charcode": "0x1204b", 
+                "title": "CUNEIFORM SIGN BI TIMES GAR"
+            }, 
+            {
+                "charcode": "0x1204c", 
+                "title": "CUNEIFORM SIGN BI TIMES IGI GUNU"
+            }, 
+            {
+                "charcode": "0x1204d", 
+                "title": "CUNEIFORM SIGN BU"
+            }, 
+            {
+                "charcode": "0x1204e", 
+                "title": "CUNEIFORM SIGN BU OVER BU AB"
+            }, 
+            {
+                "charcode": "0x1204f", 
+                "title": "CUNEIFORM SIGN BU OVER BU UN"
+            }, 
+            {
+                "charcode": "0x12050", 
+                "title": "CUNEIFORM SIGN BU CROSSING BU"
+            }, 
+            {
+                "charcode": "0x12051", 
+                "title": "CUNEIFORM SIGN BULUG"
+            }, 
+            {
+                "charcode": "0x12052", 
+                "title": "CUNEIFORM SIGN BULUG OVER BULUG"
+            }, 
+            {
+                "charcode": "0x12053", 
+                "title": "CUNEIFORM SIGN BUR"
+            }, 
+            {
+                "charcode": "0x12054", 
+                "title": "CUNEIFORM SIGN BUR2"
+            }, 
+            {
+                "charcode": "0x12055", 
+                "title": "CUNEIFORM SIGN DA"
+            }, 
+            {
+                "charcode": "0x12056", 
+                "title": "CUNEIFORM SIGN DAG"
+            }, 
+            {
+                "charcode": "0x12057", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES A PLUS MASH"
+            }, 
+            {
+                "charcode": "0x12058", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES AMAR"
+            }, 
+            {
+                "charcode": "0x12059", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES BALAG"
+            }, 
+            {
+                "charcode": "0x1205a", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES BI"
+            }, 
+            {
+                "charcode": "0x1205b", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES GA"
+            }, 
+            {
+                "charcode": "0x1205c", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES GA PLUS MASH"
+            }, 
+            {
+                "charcode": "0x1205d", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES GI"
+            }, 
+            {
+                "charcode": "0x1205e", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES GIR2"
+            }, 
+            {
+                "charcode": "0x1205f", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES GUD"
+            }, 
+            {
+                "charcode": "0x12060", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES HA"
+            }, 
+            {
+                "charcode": "0x12061", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES IR"
+            }, 
+            {
+                "charcode": "0x12062", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES IR PLUS LU"
+            }, 
+            {
+                "charcode": "0x12063", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES KAK"
+            }, 
+            {
+                "charcode": "0x12064", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES LA"
+            }, 
+            {
+                "charcode": "0x12065", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES LU"
+            }, 
+            {
+                "charcode": "0x12066", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES LU PLUS MASH2"
+            }, 
+            {
+                "charcode": "0x12067", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES LUM"
+            }, 
+            {
+                "charcode": "0x12068", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES NE"
+            }, 
+            {
+                "charcode": "0x12069", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES PAP PLUS PAP"
+            }, 
+            {
+                "charcode": "0x1206a", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES SI"
+            }, 
+            {
+                "charcode": "0x1206b", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES TAK4"
+            }, 
+            {
+                "charcode": "0x1206c", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES U2 PLUS GIR2"
+            }, 
+            {
+                "charcode": "0x1206d", 
+                "title": "CUNEIFORM SIGN DAG KISIM5 TIMES USH"
+            }, 
+            {
+                "charcode": "0x1206e", 
+                "title": "CUNEIFORM SIGN DAM"
+            }, 
+            {
+                "charcode": "0x1206f", 
+                "title": "CUNEIFORM SIGN DAR"
+            }, 
+            {
+                "charcode": "0x12070", 
+                "title": "CUNEIFORM SIGN DARA3"
+            }, 
+            {
+                "charcode": "0x12071", 
+                "title": "CUNEIFORM SIGN DARA4"
+            }, 
+            {
+                "charcode": "0x12072", 
+                "title": "CUNEIFORM SIGN DI"
+            }, 
+            {
+                "charcode": "0x12073", 
+                "title": "CUNEIFORM SIGN DIB"
+            }, 
+            {
+                "charcode": "0x12074", 
+                "title": "CUNEIFORM SIGN DIM"
+            }, 
+            {
+                "charcode": "0x12075", 
+                "title": "CUNEIFORM SIGN DIM TIMES SHE"
+            }, 
+            {
+                "charcode": "0x12076", 
+                "title": "CUNEIFORM SIGN DIM2"
+            }, 
+            {
+                "charcode": "0x12077", 
+                "title": "CUNEIFORM SIGN DIN"
+            }, 
+            {
+                "charcode": "0x12078", 
+                "title": "CUNEIFORM SIGN DIN KASKAL U GUNU DISH"
+            }, 
+            {
+                "charcode": "0x12079", 
+                "title": "CUNEIFORM SIGN DISH"
+            }, 
+            {
+                "charcode": "0x1207a", 
+                "title": "CUNEIFORM SIGN DU"
+            }, 
+            {
+                "charcode": "0x1207b", 
+                "title": "CUNEIFORM SIGN DU OVER DU"
+            }, 
+            {
+                "charcode": "0x1207c", 
+                "title": "CUNEIFORM SIGN DU GUNU"
+            }, 
+            {
+                "charcode": "0x1207d", 
+                "title": "CUNEIFORM SIGN DU SHESHIG"
+            }, 
+            {
+                "charcode": "0x1207e", 
+                "title": "CUNEIFORM SIGN DUB"
+            }, 
+            {
+                "charcode": "0x1207f", 
+                "title": "CUNEIFORM SIGN DUB TIMES ESH2"
+            }, 
+            {
+                "charcode": "0x12080", 
+                "title": "CUNEIFORM SIGN DUB2"
+            }, 
+            {
+                "charcode": "0x12081", 
+                "title": "CUNEIFORM SIGN DUG"
+            }, 
+            {
+                "charcode": "0x12082", 
+                "title": "CUNEIFORM SIGN DUGUD"
+            }, 
+            {
+                "charcode": "0x12083", 
+                "title": "CUNEIFORM SIGN DUH"
+            }, 
+            {
+                "charcode": "0x12084", 
+                "title": "CUNEIFORM SIGN DUN"
+            }, 
+            {
+                "charcode": "0x12085", 
+                "title": "CUNEIFORM SIGN DUN3"
+            }, 
+            {
+                "charcode": "0x12086", 
+                "title": "CUNEIFORM SIGN DUN3 GUNU"
+            }, 
+            {
+                "charcode": "0x12087", 
+                "title": "CUNEIFORM SIGN DUN3 GUNU GUNU"
+            }, 
+            {
+                "charcode": "0x12088", 
+                "title": "CUNEIFORM SIGN DUN4"
+            }, 
+            {
+                "charcode": "0x12089", 
+                "title": "CUNEIFORM SIGN DUR2"
+            }, 
+            {
+                "charcode": "0x1208a", 
+                "title": "CUNEIFORM SIGN E"
+            }, 
+            {
+                "charcode": "0x1208b", 
+                "title": "CUNEIFORM SIGN E TIMES PAP"
+            }, 
+            {
+                "charcode": "0x1208c", 
+                "title": "CUNEIFORM SIGN E OVER E NUN OVER NUN"
+            }, 
+            {
+                "charcode": "0x1208d", 
+                "title": "CUNEIFORM SIGN E2"
+            }, 
+            {
+                "charcode": "0x1208e", 
+                "title": "CUNEIFORM SIGN E2 TIMES A PLUS HA PLUS DA"
+            }, 
+            {
+                "charcode": "0x1208f", 
+                "title": "CUNEIFORM SIGN E2 TIMES GAR"
+            }, 
+            {
+                "charcode": "0x12090", 
+                "title": "CUNEIFORM SIGN E2 TIMES MI"
+            }, 
+            {
+                "charcode": "0x12091", 
+                "title": "CUNEIFORM SIGN E2 TIMES SAL"
+            }, 
+            {
+                "charcode": "0x12092", 
+                "title": "CUNEIFORM SIGN E2 TIMES SHE"
+            }, 
+            {
+                "charcode": "0x12093", 
+                "title": "CUNEIFORM SIGN E2 TIMES U"
+            }, 
+            {
+                "charcode": "0x12094", 
+                "title": "CUNEIFORM SIGN EDIN"
+            }, 
+            {
+                "charcode": "0x12095", 
+                "title": "CUNEIFORM SIGN EGIR"
+            }, 
+            {
+                "charcode": "0x12096", 
+                "title": "CUNEIFORM SIGN EL"
+            }, 
+            {
+                "charcode": "0x12097", 
+                "title": "CUNEIFORM SIGN EN"
+            }, 
+            {
+                "charcode": "0x12098", 
+                "title": "CUNEIFORM SIGN EN TIMES GAN2"
+            }, 
+            {
+                "charcode": "0x12099", 
+                "title": "CUNEIFORM SIGN EN TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x1209a", 
+                "title": "CUNEIFORM SIGN EN TIMES ME"
+            }, 
+            {
+                "charcode": "0x1209b", 
+                "title": "CUNEIFORM SIGN EN CROSSING EN"
+            }, 
+            {
+                "charcode": "0x1209c", 
+                "title": "CUNEIFORM SIGN EN OPPOSING EN"
+            }, 
+            {
+                "charcode": "0x1209d", 
+                "title": "CUNEIFORM SIGN EN SQUARED"
+            }, 
+            {
+                "charcode": "0x1209e", 
+                "title": "CUNEIFORM SIGN EREN"
+            }, 
+            {
+                "charcode": "0x1209f", 
+                "title": "CUNEIFORM SIGN ERIN2"
+            }, 
+            {
+                "charcode": "0x120a0", 
+                "title": "CUNEIFORM SIGN ESH2"
+            }, 
+            {
+                "charcode": "0x120a1", 
+                "title": "CUNEIFORM SIGN EZEN"
+            }, 
+            {
+                "charcode": "0x120a2", 
+                "title": "CUNEIFORM SIGN EZEN TIMES A"
+            }, 
+            {
+                "charcode": "0x120a3", 
+                "title": "CUNEIFORM SIGN EZEN TIMES A PLUS LAL"
+            }, 
+            {
+                "charcode": "0x120a4", 
+                "title": "CUNEIFORM SIGN EZEN TIMES A PLUS LAL TIMES LAL"
+            }, 
+            {
+                "charcode": "0x120a5", 
+                "title": "CUNEIFORM SIGN EZEN TIMES AN"
+            }, 
+            {
+                "charcode": "0x120a6", 
+                "title": "CUNEIFORM SIGN EZEN TIMES BAD"
+            }, 
+            {
+                "charcode": "0x120a7", 
+                "title": "CUNEIFORM SIGN EZEN TIMES DUN3 GUNU"
+            }, 
+            {
+                "charcode": "0x120a8", 
+                "title": "CUNEIFORM SIGN EZEN TIMES DUN3 GUNU GUNU"
+            }, 
+            {
+                "charcode": "0x120a9", 
+                "title": "CUNEIFORM SIGN EZEN TIMES HA"
+            }, 
+            {
+                "charcode": "0x120aa", 
+                "title": "CUNEIFORM SIGN EZEN TIMES HA GUNU"
+            }, 
+            {
+                "charcode": "0x120ab", 
+                "title": "CUNEIFORM SIGN EZEN TIMES IGI GUNU"
+            }, 
+            {
+                "charcode": "0x120ac", 
+                "title": "CUNEIFORM SIGN EZEN TIMES KASKAL"
+            }, 
+            {
+                "charcode": "0x120ad", 
+                "title": "CUNEIFORM SIGN EZEN TIMES KASKAL SQUARED"
+            }, 
+            {
+                "charcode": "0x120ae", 
+                "title": "CUNEIFORM SIGN EZEN TIMES KU3"
+            }, 
+            {
+                "charcode": "0x120af", 
+                "title": "CUNEIFORM SIGN EZEN TIMES LA"
+            }, 
+            {
+                "charcode": "0x120b0", 
+                "title": "CUNEIFORM SIGN EZEN TIMES LAL TIMES LAL"
+            }, 
+            {
+                "charcode": "0x120b1", 
+                "title": "CUNEIFORM SIGN EZEN TIMES LI"
+            }, 
+            {
+                "charcode": "0x120b2", 
+                "title": "CUNEIFORM SIGN EZEN TIMES LU"
+            }, 
+            {
+                "charcode": "0x120b3", 
+                "title": "CUNEIFORM SIGN EZEN TIMES U2"
+            }, 
+            {
+                "charcode": "0x120b4", 
+                "title": "CUNEIFORM SIGN EZEN TIMES UD"
+            }, 
+            {
+                "charcode": "0x120b5", 
+                "title": "CUNEIFORM SIGN GA"
+            }, 
+            {
+                "charcode": "0x120b6", 
+                "title": "CUNEIFORM SIGN GA GUNU"
+            }, 
+            {
+                "charcode": "0x120b7", 
+                "title": "CUNEIFORM SIGN GA2"
+            }, 
+            {
+                "charcode": "0x120b8", 
+                "title": "CUNEIFORM SIGN GA2 TIMES A PLUS DA PLUS HA"
+            }, 
+            {
+                "charcode": "0x120b9", 
+                "title": "CUNEIFORM SIGN GA2 TIMES A PLUS HA"
+            }, 
+            {
+                "charcode": "0x120ba", 
+                "title": "CUNEIFORM SIGN GA2 TIMES A PLUS IGI"
+            }, 
+            {
+                "charcode": "0x120bb", 
+                "title": "CUNEIFORM SIGN GA2 TIMES AB2 TENU PLUS TAB"
+            }, 
+            {
+                "charcode": "0x120bc", 
+                "title": "CUNEIFORM SIGN GA2 TIMES AN"
+            }, 
+            {
+                "charcode": "0x120bd", 
+                "title": "CUNEIFORM SIGN GA2 TIMES ASH"
+            }, 
+            {
+                "charcode": "0x120be", 
+                "title": "CUNEIFORM SIGN GA2 TIMES ASH2 PLUS GAL"
+            }, 
+            {
+                "charcode": "0x120bf", 
+                "title": "CUNEIFORM SIGN GA2 TIMES BAD"
+            }, 
+            {
+                "charcode": "0x120c0", 
+                "title": "CUNEIFORM SIGN GA2 TIMES BAR PLUS RA"
+            }, 
+            {
+                "charcode": "0x120c1", 
+                "title": "CUNEIFORM SIGN GA2 TIMES BUR"
+            }, 
+            {
+                "charcode": "0x120c2", 
+                "title": "CUNEIFORM SIGN GA2 TIMES BUR PLUS RA"
+            }, 
+            {
+                "charcode": "0x120c3", 
+                "title": "CUNEIFORM SIGN GA2 TIMES DA"
+            }, 
+            {
+                "charcode": "0x120c4", 
+                "title": "CUNEIFORM SIGN GA2 TIMES DI"
+            }, 
+            {
+                "charcode": "0x120c5", 
+                "title": "CUNEIFORM SIGN GA2 TIMES DIM TIMES SHE"
+            }, 
+            {
+                "charcode": "0x120c6", 
+                "title": "CUNEIFORM SIGN GA2 TIMES DUB"
+            }, 
+            {
+                "charcode": "0x120c7", 
+                "title": "CUNEIFORM SIGN GA2 TIMES EL"
+            }, 
+            {
+                "charcode": "0x120c8", 
+                "title": "CUNEIFORM SIGN GA2 TIMES EL PLUS LA"
+            }, 
+            {
+                "charcode": "0x120c9", 
+                "title": "CUNEIFORM SIGN GA2 TIMES EN"
+            }, 
+            {
+                "charcode": "0x120ca", 
+                "title": "CUNEIFORM SIGN GA2 TIMES EN TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x120cb", 
+                "title": "CUNEIFORM SIGN GA2 TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x120cc", 
+                "title": "CUNEIFORM SIGN GA2 TIMES GAR"
+            }, 
+            {
+                "charcode": "0x120cd", 
+                "title": "CUNEIFORM SIGN GA2 TIMES GI"
+            }, 
+            {
+                "charcode": "0x120ce", 
+                "title": "CUNEIFORM SIGN GA2 TIMES GI4"
+            }, 
+            {
+                "charcode": "0x120cf", 
+                "title": "CUNEIFORM SIGN GA2 TIMES GI4 PLUS A"
+            }, 
+            {
+                "charcode": "0x120d0", 
+                "title": "CUNEIFORM SIGN GA2 TIMES GIR2 PLUS SU"
+            }, 
+            {
+                "charcode": "0x120d1", 
+                "title": "CUNEIFORM SIGN GA2 TIMES HA PLUS LU PLUS ESH2"
+            }, 
+            {
+                "charcode": "0x120d2", 
+                "title": "CUNEIFORM SIGN GA2 TIMES HAL"
+            }, 
+            {
+                "charcode": "0x120d3", 
+                "title": "CUNEIFORM SIGN GA2 TIMES HAL PLUS LA"
+            }, 
+            {
+                "charcode": "0x120d4", 
+                "title": "CUNEIFORM SIGN GA2 TIMES HI PLUS LI"
+            }, 
+            {
+                "charcode": "0x120d5", 
+                "title": "CUNEIFORM SIGN GA2 TIMES HUB2"
+            }, 
+            {
+                "charcode": "0x120d6", 
+                "title": "CUNEIFORM SIGN GA2 TIMES IGI GUNU"
+            }, 
+            {
+                "charcode": "0x120d7", 
+                "title": "CUNEIFORM SIGN GA2 TIMES ISH PLUS HU PLUS ASH"
+            }, 
+            {
+                "charcode": "0x120d8", 
+                "title": "CUNEIFORM SIGN GA2 TIMES KAK"
+            }, 
+            {
+                "charcode": "0x120d9", 
+                "title": "CUNEIFORM SIGN GA2 TIMES KASKAL"
+            }, 
+            {
+                "charcode": "0x120da", 
+                "title": "CUNEIFORM SIGN GA2 TIMES KID"
+            }, 
+            {
+                "charcode": "0x120db", 
+                "title": "CUNEIFORM SIGN GA2 TIMES KID PLUS LAL"
+            }, 
+            {
+                "charcode": "0x120dc", 
+                "title": "CUNEIFORM SIGN GA2 TIMES KU3 PLUS AN"
+            }, 
+            {
+                "charcode": "0x120dd", 
+                "title": "CUNEIFORM SIGN GA2 TIMES LA"
+            }, 
+            {
+                "charcode": "0x120de", 
+                "title": "CUNEIFORM SIGN GA2 TIMES ME PLUS EN"
+            }, 
+            {
+                "charcode": "0x120df", 
+                "title": "CUNEIFORM SIGN GA2 TIMES MI"
+            }, 
+            {
+                "charcode": "0x120e0", 
+                "title": "CUNEIFORM SIGN GA2 TIMES NUN"
+            }, 
+            {
+                "charcode": "0x120e1", 
+                "title": "CUNEIFORM SIGN GA2 TIMES NUN OVER NUN"
+            }, 
+            {
+                "charcode": "0x120e2", 
+                "title": "CUNEIFORM SIGN GA2 TIMES PA"
+            }, 
+            {
+                "charcode": "0x120e3", 
+                "title": "CUNEIFORM SIGN GA2 TIMES SAL"
+            }, 
+            {
+                "charcode": "0x120e4", 
+                "title": "CUNEIFORM SIGN GA2 TIMES SAR"
+            }, 
+            {
+                "charcode": "0x120e5", 
+                "title": "CUNEIFORM SIGN GA2 TIMES SHE"
+            }, 
+            {
+                "charcode": "0x120e6", 
+                "title": "CUNEIFORM SIGN GA2 TIMES SHE PLUS TUR"
+            }, 
+            {
+                "charcode": "0x120e7", 
+                "title": "CUNEIFORM SIGN GA2 TIMES SHID"
+            }, 
+            {
+                "charcode": "0x120e8", 
+                "title": "CUNEIFORM SIGN GA2 TIMES SUM"
+            }, 
+            {
+                "charcode": "0x120e9", 
+                "title": "CUNEIFORM SIGN GA2 TIMES TAK4"
+            }, 
+            {
+                "charcode": "0x120ea", 
+                "title": "CUNEIFORM SIGN GA2 TIMES U"
+            }, 
+            {
+                "charcode": "0x120eb", 
+                "title": "CUNEIFORM SIGN GA2 TIMES UD"
+            }, 
+            {
+                "charcode": "0x120ec", 
+                "title": "CUNEIFORM SIGN GA2 TIMES UD PLUS DU"
+            }, 
+            {
+                "charcode": "0x120ed", 
+                "title": "CUNEIFORM SIGN GA2 OVER GA2"
+            }, 
+            {
+                "charcode": "0x120ee", 
+                "title": "CUNEIFORM SIGN GABA"
+            }, 
+            {
+                "charcode": "0x120ef", 
+                "title": "CUNEIFORM SIGN GABA CROSSING GABA"
+            }, 
+            {
+                "charcode": "0x120f0", 
+                "title": "CUNEIFORM SIGN GAD"
+            }, 
+            {
+                "charcode": "0x120f1", 
+                "title": "CUNEIFORM SIGN GAD OVER GAD GAR OVER GAR"
+            }, 
+            {
+                "charcode": "0x120f2", 
+                "title": "CUNEIFORM SIGN GAL"
+            }, 
+            {
+                "charcode": "0x120f3", 
+                "title": "CUNEIFORM SIGN GAL GAD OVER GAD GAR OVER GAR"
+            }, 
+            {
+                "charcode": "0x120f4", 
+                "title": "CUNEIFORM SIGN GALAM"
+            }, 
+            {
+                "charcode": "0x120f5", 
+                "title": "CUNEIFORM SIGN GAM"
+            }, 
+            {
+                "charcode": "0x120f6", 
+                "title": "CUNEIFORM SIGN GAN"
+            }, 
+            {
+                "charcode": "0x120f7", 
+                "title": "CUNEIFORM SIGN GAN2"
+            }, 
+            {
+                "charcode": "0x120f8", 
+                "title": "CUNEIFORM SIGN GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x120f9", 
+                "title": "CUNEIFORM SIGN GAN2 OVER GAN2"
+            }, 
+            {
+                "charcode": "0x120fa", 
+                "title": "CUNEIFORM SIGN GAN2 CROSSING GAN2"
+            }, 
+            {
+                "charcode": "0x120fb", 
+                "title": "CUNEIFORM SIGN GAR"
+            }, 
+            {
+                "charcode": "0x120fc", 
+                "title": "CUNEIFORM SIGN GAR3"
+            }, 
+            {
+                "charcode": "0x120fd", 
+                "title": "CUNEIFORM SIGN GASHAN"
+            }, 
+            {
+                "charcode": "0x120fe", 
+                "title": "CUNEIFORM SIGN GESHTIN"
+            }, 
+            {
+                "charcode": "0x120ff", 
+                "title": "CUNEIFORM SIGN GESHTIN TIMES KUR"
+            }, 
+            {
+                "charcode": "0x12100", 
+                "title": "CUNEIFORM SIGN GI"
+            }, 
+            {
+                "charcode": "0x12101", 
+                "title": "CUNEIFORM SIGN GI TIMES E"
+            }, 
+            {
+                "charcode": "0x12102", 
+                "title": "CUNEIFORM SIGN GI TIMES U"
+            }, 
+            {
+                "charcode": "0x12103", 
+                "title": "CUNEIFORM SIGN GI CROSSING GI"
+            }, 
+            {
+                "charcode": "0x12104", 
+                "title": "CUNEIFORM SIGN GI4"
+            }, 
+            {
+                "charcode": "0x12105", 
+                "title": "CUNEIFORM SIGN GI4 OVER GI4"
+            }, 
+            {
+                "charcode": "0x12106", 
+                "title": "CUNEIFORM SIGN GI4 CROSSING GI4"
+            }, 
+            {
+                "charcode": "0x12107", 
+                "title": "CUNEIFORM SIGN GIDIM"
+            }, 
+            {
+                "charcode": "0x12108", 
+                "title": "CUNEIFORM SIGN GIR2"
+            }, 
+            {
+                "charcode": "0x12109", 
+                "title": "CUNEIFORM SIGN GIR2 GUNU"
+            }, 
+            {
+                "charcode": "0x1210a", 
+                "title": "CUNEIFORM SIGN GIR3"
+            }, 
+            {
+                "charcode": "0x1210b", 
+                "title": "CUNEIFORM SIGN GIR3 TIMES A PLUS IGI"
+            }, 
+            {
+                "charcode": "0x1210c", 
+                "title": "CUNEIFORM SIGN GIR3 TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x1210d", 
+                "title": "CUNEIFORM SIGN GIR3 TIMES IGI"
+            }, 
+            {
+                "charcode": "0x1210e", 
+                "title": "CUNEIFORM SIGN GIR3 TIMES LU PLUS IGI"
+            }, 
+            {
+                "charcode": "0x1210f", 
+                "title": "CUNEIFORM SIGN GIR3 TIMES PA"
+            }, 
+            {
+                "charcode": "0x12110", 
+                "title": "CUNEIFORM SIGN GISAL"
+            }, 
+            {
+                "charcode": "0x12111", 
+                "title": "CUNEIFORM SIGN GISH"
+            }, 
+            {
+                "charcode": "0x12112", 
+                "title": "CUNEIFORM SIGN GISH CROSSING GISH"
+            }, 
+            {
+                "charcode": "0x12113", 
+                "title": "CUNEIFORM SIGN GISH TIMES BAD"
+            }, 
+            {
+                "charcode": "0x12114", 
+                "title": "CUNEIFORM SIGN GISH TIMES TAK4"
+            }, 
+            {
+                "charcode": "0x12115", 
+                "title": "CUNEIFORM SIGN GISH TENU"
+            }, 
+            {
+                "charcode": "0x12116", 
+                "title": "CUNEIFORM SIGN GU"
+            }, 
+            {
+                "charcode": "0x12117", 
+                "title": "CUNEIFORM SIGN GU CROSSING GU"
+            }, 
+            {
+                "charcode": "0x12118", 
+                "title": "CUNEIFORM SIGN GU2"
+            }, 
+            {
+                "charcode": "0x12119", 
+                "title": "CUNEIFORM SIGN GU2 TIMES KAK"
+            }, 
+            {
+                "charcode": "0x1211a", 
+                "title": "CUNEIFORM SIGN GU2 TIMES KAK TIMES IGI GUNU"
+            }, 
+            {
+                "charcode": "0x1211b", 
+                "title": "CUNEIFORM SIGN GU2 TIMES NUN"
+            }, 
+            {
+                "charcode": "0x1211c", 
+                "title": "CUNEIFORM SIGN GU2 TIMES SAL PLUS TUG2"
+            }, 
+            {
+                "charcode": "0x1211d", 
+                "title": "CUNEIFORM SIGN GU2 GUNU"
+            }, 
+            {
+                "charcode": "0x1211e", 
+                "title": "CUNEIFORM SIGN GUD"
+            }, 
+            {
+                "charcode": "0x1211f", 
+                "title": "CUNEIFORM SIGN GUD TIMES A PLUS KUR"
+            }, 
+            {
+                "charcode": "0x12120", 
+                "title": "CUNEIFORM SIGN GUD TIMES KUR"
+            }, 
+            {
+                "charcode": "0x12121", 
+                "title": "CUNEIFORM SIGN GUD OVER GUD LUGAL"
+            }, 
+            {
+                "charcode": "0x12122", 
+                "title": "CUNEIFORM SIGN GUL"
+            }, 
+            {
+                "charcode": "0x12123", 
+                "title": "CUNEIFORM SIGN GUM"
+            }, 
+            {
+                "charcode": "0x12124", 
+                "title": "CUNEIFORM SIGN GUM TIMES SHE"
+            }, 
+            {
+                "charcode": "0x12125", 
+                "title": "CUNEIFORM SIGN GUR"
+            }, 
+            {
+                "charcode": "0x12126", 
+                "title": "CUNEIFORM SIGN GUR7"
+            }, 
+            {
+                "charcode": "0x12127", 
+                "title": "CUNEIFORM SIGN GURUN"
+            }, 
+            {
+                "charcode": "0x12128", 
+                "title": "CUNEIFORM SIGN GURUSH"
+            }, 
+            {
+                "charcode": "0x12129", 
+                "title": "CUNEIFORM SIGN HA"
+            }, 
+            {
+                "charcode": "0x1212a", 
+                "title": "CUNEIFORM SIGN HA TENU"
+            }, 
+            {
+                "charcode": "0x1212b", 
+                "title": "CUNEIFORM SIGN HA GUNU"
+            }, 
+            {
+                "charcode": "0x1212c", 
+                "title": "CUNEIFORM SIGN HAL"
+            }, 
+            {
+                "charcode": "0x1212d", 
+                "title": "CUNEIFORM SIGN HI"
+            }, 
+            {
+                "charcode": "0x1212e", 
+                "title": "CUNEIFORM SIGN HI TIMES ASH"
+            }, 
+            {
+                "charcode": "0x1212f", 
+                "title": "CUNEIFORM SIGN HI TIMES ASH2"
+            }, 
+            {
+                "charcode": "0x12130", 
+                "title": "CUNEIFORM SIGN HI TIMES BAD"
+            }, 
+            {
+                "charcode": "0x12131", 
+                "title": "CUNEIFORM SIGN HI TIMES DISH"
+            }, 
+            {
+                "charcode": "0x12132", 
+                "title": "CUNEIFORM SIGN HI TIMES GAD"
+            }, 
+            {
+                "charcode": "0x12133", 
+                "title": "CUNEIFORM SIGN HI TIMES KIN"
+            }, 
+            {
+                "charcode": "0x12134", 
+                "title": "CUNEIFORM SIGN HI TIMES NUN"
+            }, 
+            {
+                "charcode": "0x12135", 
+                "title": "CUNEIFORM SIGN HI TIMES SHE"
+            }, 
+            {
+                "charcode": "0x12136", 
+                "title": "CUNEIFORM SIGN HI TIMES U"
+            }, 
+            {
+                "charcode": "0x12137", 
+                "title": "CUNEIFORM SIGN HU"
+            }, 
+            {
+                "charcode": "0x12138", 
+                "title": "CUNEIFORM SIGN HUB2"
+            }, 
+            {
+                "charcode": "0x12139", 
+                "title": "CUNEIFORM SIGN HUB2 TIMES AN"
+            }, 
+            {
+                "charcode": "0x1213a", 
+                "title": "CUNEIFORM SIGN HUB2 TIMES HAL"
+            }, 
+            {
+                "charcode": "0x1213b", 
+                "title": "CUNEIFORM SIGN HUB2 TIMES KASKAL"
+            }, 
+            {
+                "charcode": "0x1213c", 
+                "title": "CUNEIFORM SIGN HUB2 TIMES LISH"
+            }, 
+            {
+                "charcode": "0x1213d", 
+                "title": "CUNEIFORM SIGN HUB2 TIMES UD"
+            }, 
+            {
+                "charcode": "0x1213e", 
+                "title": "CUNEIFORM SIGN HUL2"
+            }, 
+            {
+                "charcode": "0x1213f", 
+                "title": "CUNEIFORM SIGN I"
+            }, 
+            {
+                "charcode": "0x12140", 
+                "title": "CUNEIFORM SIGN I A"
+            }, 
+            {
+                "charcode": "0x12141", 
+                "title": "CUNEIFORM SIGN IB"
+            }, 
+            {
+                "charcode": "0x12142", 
+                "title": "CUNEIFORM SIGN IDIM"
+            }, 
+            {
+                "charcode": "0x12143", 
+                "title": "CUNEIFORM SIGN IDIM OVER IDIM BUR"
+            }, 
+            {
+                "charcode": "0x12144", 
+                "title": "CUNEIFORM SIGN IDIM OVER IDIM SQUARED"
+            }, 
+            {
+                "charcode": "0x12145", 
+                "title": "CUNEIFORM SIGN IG"
+            }, 
+            {
+                "charcode": "0x12146", 
+                "title": "CUNEIFORM SIGN IGI"
+            }, 
+            {
+                "charcode": "0x12147", 
+                "title": "CUNEIFORM SIGN IGI DIB"
+            }, 
+            {
+                "charcode": "0x12148", 
+                "title": "CUNEIFORM SIGN IGI RI"
+            }, 
+            {
+                "charcode": "0x12149", 
+                "title": "CUNEIFORM SIGN IGI OVER IGI SHIR OVER SHIR UD OVER UD"
+            }, 
+            {
+                "charcode": "0x1214a", 
+                "title": "CUNEIFORM SIGN IGI GUNU"
+            }, 
+            {
+                "charcode": "0x1214b", 
+                "title": "CUNEIFORM SIGN IL"
+            }, 
+            {
+                "charcode": "0x1214c", 
+                "title": "CUNEIFORM SIGN IL TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x1214d", 
+                "title": "CUNEIFORM SIGN IL2"
+            }, 
+            {
+                "charcode": "0x1214e", 
+                "title": "CUNEIFORM SIGN IM"
+            }, 
+            {
+                "charcode": "0x1214f", 
+                "title": "CUNEIFORM SIGN IM TIMES TAK4"
+            }, 
+            {
+                "charcode": "0x12150", 
+                "title": "CUNEIFORM SIGN IM CROSSING IM"
+            }, 
+            {
+                "charcode": "0x12151", 
+                "title": "CUNEIFORM SIGN IM OPPOSING IM"
+            }, 
+            {
+                "charcode": "0x12152", 
+                "title": "CUNEIFORM SIGN IM SQUARED"
+            }, 
+            {
+                "charcode": "0x12153", 
+                "title": "CUNEIFORM SIGN IMIN"
+            }, 
+            {
+                "charcode": "0x12154", 
+                "title": "CUNEIFORM SIGN IN"
+            }, 
+            {
+                "charcode": "0x12155", 
+                "title": "CUNEIFORM SIGN IR"
+            }, 
+            {
+                "charcode": "0x12156", 
+                "title": "CUNEIFORM SIGN ISH"
+            }, 
+            {
+                "charcode": "0x12157", 
+                "title": "CUNEIFORM SIGN KA"
+            }, 
+            {
+                "charcode": "0x12158", 
+                "title": "CUNEIFORM SIGN KA TIMES A"
+            }, 
+            {
+                "charcode": "0x12159", 
+                "title": "CUNEIFORM SIGN KA TIMES AD"
+            }, 
+            {
+                "charcode": "0x1215a", 
+                "title": "CUNEIFORM SIGN KA TIMES AD PLUS KU3"
+            }, 
+            {
+                "charcode": "0x1215b", 
+                "title": "CUNEIFORM SIGN KA TIMES ASH2"
+            }, 
+            {
+                "charcode": "0x1215c", 
+                "title": "CUNEIFORM SIGN KA TIMES BAD"
+            }, 
+            {
+                "charcode": "0x1215d", 
+                "title": "CUNEIFORM SIGN KA TIMES BALAG"
+            }, 
+            {
+                "charcode": "0x1215e", 
+                "title": "CUNEIFORM SIGN KA TIMES BAR"
+            }, 
+            {
+                "charcode": "0x1215f", 
+                "title": "CUNEIFORM SIGN KA TIMES BI"
+            }, 
+            {
+                "charcode": "0x12160", 
+                "title": "CUNEIFORM SIGN KA TIMES ERIN2"
+            }, 
+            {
+                "charcode": "0x12161", 
+                "title": "CUNEIFORM SIGN KA TIMES ESH2"
+            }, 
+            {
+                "charcode": "0x12162", 
+                "title": "CUNEIFORM SIGN KA TIMES GA"
+            }, 
+            {
+                "charcode": "0x12163", 
+                "title": "CUNEIFORM SIGN KA TIMES GAL"
+            }, 
+            {
+                "charcode": "0x12164", 
+                "title": "CUNEIFORM SIGN KA TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x12165", 
+                "title": "CUNEIFORM SIGN KA TIMES GAR"
+            }, 
+            {
+                "charcode": "0x12166", 
+                "title": "CUNEIFORM SIGN KA TIMES GAR PLUS SHA3 PLUS A"
+            }, 
+            {
+                "charcode": "0x12167", 
+                "title": "CUNEIFORM SIGN KA TIMES GI"
+            }, 
+            {
+                "charcode": "0x12168", 
+                "title": "CUNEIFORM SIGN KA TIMES GIR2"
+            }, 
+            {
+                "charcode": "0x12169", 
+                "title": "CUNEIFORM SIGN KA TIMES GISH PLUS SAR"
+            }, 
+            {
+                "charcode": "0x1216a", 
+                "title": "CUNEIFORM SIGN KA TIMES GISH CROSSING GISH"
+            }, 
+            {
+                "charcode": "0x1216b", 
+                "title": "CUNEIFORM SIGN KA TIMES GU"
+            }, 
+            {
+                "charcode": "0x1216c", 
+                "title": "CUNEIFORM SIGN KA TIMES GUR7"
+            }, 
+            {
+                "charcode": "0x1216d", 
+                "title": "CUNEIFORM SIGN KA TIMES IGI"
+            }, 
+            {
+                "charcode": "0x1216e", 
+                "title": "CUNEIFORM SIGN KA TIMES IM"
+            }, 
+            {
+                "charcode": "0x1216f", 
+                "title": "CUNEIFORM SIGN KA TIMES KAK"
+            }, 
+            {
+                "charcode": "0x12170", 
+                "title": "CUNEIFORM SIGN KA TIMES KI"
+            }, 
+            {
+                "charcode": "0x12171", 
+                "title": "CUNEIFORM SIGN KA TIMES KID"
+            }, 
+            {
+                "charcode": "0x12172", 
+                "title": "CUNEIFORM SIGN KA TIMES LI"
+            }, 
+            {
+                "charcode": "0x12173", 
+                "title": "CUNEIFORM SIGN KA TIMES LU"
+            }, 
+            {
+                "charcode": "0x12174", 
+                "title": "CUNEIFORM SIGN KA TIMES ME"
+            }, 
+            {
+                "charcode": "0x12175", 
+                "title": "CUNEIFORM SIGN KA TIMES ME PLUS DU"
+            }, 
+            {
+                "charcode": "0x12176", 
+                "title": "CUNEIFORM SIGN KA TIMES ME PLUS GI"
+            }, 
+            {
+                "charcode": "0x12177", 
+                "title": "CUNEIFORM SIGN KA TIMES ME PLUS TE"
+            }, 
+            {
+                "charcode": "0x12178", 
+                "title": "CUNEIFORM SIGN KA TIMES MI"
+            }, 
+            {
+                "charcode": "0x12179", 
+                "title": "CUNEIFORM SIGN KA TIMES MI PLUS NUNUZ"
+            }, 
+            {
+                "charcode": "0x1217a", 
+                "title": "CUNEIFORM SIGN KA TIMES NE"
+            }, 
+            {
+                "charcode": "0x1217b", 
+                "title": "CUNEIFORM SIGN KA TIMES NUN"
+            }, 
+            {
+                "charcode": "0x1217c", 
+                "title": "CUNEIFORM SIGN KA TIMES PI"
+            }, 
+            {
+                "charcode": "0x1217d", 
+                "title": "CUNEIFORM SIGN KA TIMES RU"
+            }, 
+            {
+                "charcode": "0x1217e", 
+                "title": "CUNEIFORM SIGN KA TIMES SA"
+            }, 
+            {
+                "charcode": "0x1217f", 
+                "title": "CUNEIFORM SIGN KA TIMES SAR"
+            }, 
+            {
+                "charcode": "0x12180", 
+                "title": "CUNEIFORM SIGN KA TIMES SHA"
+            }, 
+            {
+                "charcode": "0x12181", 
+                "title": "CUNEIFORM SIGN KA TIMES SHE"
+            }, 
+            {
+                "charcode": "0x12182", 
+                "title": "CUNEIFORM SIGN KA TIMES SHID"
+            }, 
+            {
+                "charcode": "0x12183", 
+                "title": "CUNEIFORM SIGN KA TIMES SHU"
+            }, 
+            {
+                "charcode": "0x12184", 
+                "title": "CUNEIFORM SIGN KA TIMES SIG"
+            }, 
+            {
+                "charcode": "0x12185", 
+                "title": "CUNEIFORM SIGN KA TIMES SUHUR"
+            }, 
+            {
+                "charcode": "0x12186", 
+                "title": "CUNEIFORM SIGN KA TIMES TAR"
+            }, 
+            {
+                "charcode": "0x12187", 
+                "title": "CUNEIFORM SIGN KA TIMES U"
+            }, 
+            {
+                "charcode": "0x12188", 
+                "title": "CUNEIFORM SIGN KA TIMES U2"
+            }, 
+            {
+                "charcode": "0x12189", 
+                "title": "CUNEIFORM SIGN KA TIMES UD"
+            }, 
+            {
+                "charcode": "0x1218a", 
+                "title": "CUNEIFORM SIGN KA TIMES UMUM TIMES PA"
+            }, 
+            {
+                "charcode": "0x1218b", 
+                "title": "CUNEIFORM SIGN KA TIMES USH"
+            }, 
+            {
+                "charcode": "0x1218c", 
+                "title": "CUNEIFORM SIGN KA TIMES ZI"
+            }, 
+            {
+                "charcode": "0x1218d", 
+                "title": "CUNEIFORM SIGN KA2"
+            }, 
+            {
+                "charcode": "0x1218e", 
+                "title": "CUNEIFORM SIGN KA2 CROSSING KA2"
+            }, 
+            {
+                "charcode": "0x1218f", 
+                "title": "CUNEIFORM SIGN KAB"
+            }, 
+            {
+                "charcode": "0x12190", 
+                "title": "CUNEIFORM SIGN KAD2"
+            }, 
+            {
+                "charcode": "0x12191", 
+                "title": "CUNEIFORM SIGN KAD3"
+            }, 
+            {
+                "charcode": "0x12192", 
+                "title": "CUNEIFORM SIGN KAD4"
+            }, 
+            {
+                "charcode": "0x12193", 
+                "title": "CUNEIFORM SIGN KAD5"
+            }, 
+            {
+                "charcode": "0x12194", 
+                "title": "CUNEIFORM SIGN KAD5 OVER KAD5"
+            }, 
+            {
+                "charcode": "0x12195", 
+                "title": "CUNEIFORM SIGN KAK"
+            }, 
+            {
+                "charcode": "0x12196", 
+                "title": "CUNEIFORM SIGN KAK TIMES IGI GUNU"
+            }, 
+            {
+                "charcode": "0x12197", 
+                "title": "CUNEIFORM SIGN KAL"
+            }, 
+            {
+                "charcode": "0x12198", 
+                "title": "CUNEIFORM SIGN KAL TIMES BAD"
+            }, 
+            {
+                "charcode": "0x12199", 
+                "title": "CUNEIFORM SIGN KAL CROSSING KAL"
+            }, 
+            {
+                "charcode": "0x1219a", 
+                "title": "CUNEIFORM SIGN KAM2"
+            }, 
+            {
+                "charcode": "0x1219b", 
+                "title": "CUNEIFORM SIGN KAM4"
+            }, 
+            {
+                "charcode": "0x1219c", 
+                "title": "CUNEIFORM SIGN KASKAL"
+            }, 
+            {
+                "charcode": "0x1219d", 
+                "title": "CUNEIFORM SIGN KASKAL LAGAB TIMES U OVER LAGAB TIMES U"
+            }, 
+            {
+                "charcode": "0x1219e", 
+                "title": "CUNEIFORM SIGN KASKAL OVER KASKAL LAGAB TIMES U OVER LAGAB TIMES U"
+            }, 
+            {
+                "charcode": "0x1219f", 
+                "title": "CUNEIFORM SIGN KESH2"
+            }, 
+            {
+                "charcode": "0x121a0", 
+                "title": "CUNEIFORM SIGN KI"
+            }, 
+            {
+                "charcode": "0x121a1", 
+                "title": "CUNEIFORM SIGN KI TIMES BAD"
+            }, 
+            {
+                "charcode": "0x121a2", 
+                "title": "CUNEIFORM SIGN KI TIMES U"
+            }, 
+            {
+                "charcode": "0x121a3", 
+                "title": "CUNEIFORM SIGN KI TIMES UD"
+            }, 
+            {
+                "charcode": "0x121a4", 
+                "title": "CUNEIFORM SIGN KID"
+            }, 
+            {
+                "charcode": "0x121a5", 
+                "title": "CUNEIFORM SIGN KIN"
+            }, 
+            {
+                "charcode": "0x121a6", 
+                "title": "CUNEIFORM SIGN KISAL"
+            }, 
+            {
+                "charcode": "0x121a7", 
+                "title": "CUNEIFORM SIGN KISH"
+            }, 
+            {
+                "charcode": "0x121a8", 
+                "title": "CUNEIFORM SIGN KISIM5"
+            }, 
+            {
+                "charcode": "0x121a9", 
+                "title": "CUNEIFORM SIGN KISIM5 OVER KISIM5"
+            }, 
+            {
+                "charcode": "0x121aa", 
+                "title": "CUNEIFORM SIGN KU"
+            }, 
+            {
+                "charcode": "0x121ab", 
+                "title": "CUNEIFORM SIGN KU OVER HI TIMES ASH2 KU OVER HI TIMES ASH2"
+            }, 
+            {
+                "charcode": "0x121ac", 
+                "title": "CUNEIFORM SIGN KU3"
+            }, 
+            {
+                "charcode": "0x121ad", 
+                "title": "CUNEIFORM SIGN KU4"
+            }, 
+            {
+                "charcode": "0x121ae", 
+                "title": "CUNEIFORM SIGN KU4 VARIANT FORM"
+            }, 
+            {
+                "charcode": "0x121af", 
+                "title": "CUNEIFORM SIGN KU7"
+            }, 
+            {
+                "charcode": "0x121b0", 
+                "title": "CUNEIFORM SIGN KUL"
+            }, 
+            {
+                "charcode": "0x121b1", 
+                "title": "CUNEIFORM SIGN KUL GUNU"
+            }, 
+            {
+                "charcode": "0x121b2", 
+                "title": "CUNEIFORM SIGN KUN"
+            }, 
+            {
+                "charcode": "0x121b3", 
+                "title": "CUNEIFORM SIGN KUR"
+            }, 
+            {
+                "charcode": "0x121b4", 
+                "title": "CUNEIFORM SIGN KUR OPPOSING KUR"
+            }, 
+            {
+                "charcode": "0x121b5", 
+                "title": "CUNEIFORM SIGN KUSHU2"
+            }, 
+            {
+                "charcode": "0x121b6", 
+                "title": "CUNEIFORM SIGN KWU318"
+            }, 
+            {
+                "charcode": "0x121b7", 
+                "title": "CUNEIFORM SIGN LA"
+            }, 
+            {
+                "charcode": "0x121b8", 
+                "title": "CUNEIFORM SIGN LAGAB"
+            }, 
+            {
+                "charcode": "0x121b9", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES A"
+            }, 
+            {
+                "charcode": "0x121ba", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES A PLUS DA PLUS HA"
+            }, 
+            {
+                "charcode": "0x121bb", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES A PLUS GAR"
+            }, 
+            {
+                "charcode": "0x121bc", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES A PLUS LAL"
+            }, 
+            {
+                "charcode": "0x121bd", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES AL"
+            }, 
+            {
+                "charcode": "0x121be", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES AN"
+            }, 
+            {
+                "charcode": "0x121bf", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES ASH ZIDA TENU"
+            }, 
+            {
+                "charcode": "0x121c0", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES BAD"
+            }, 
+            {
+                "charcode": "0x121c1", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES BI"
+            }, 
+            {
+                "charcode": "0x121c2", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES DAR"
+            }, 
+            {
+                "charcode": "0x121c3", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES EN"
+            }, 
+            {
+                "charcode": "0x121c4", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES GA"
+            }, 
+            {
+                "charcode": "0x121c5", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES GAR"
+            }, 
+            {
+                "charcode": "0x121c6", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES GUD"
+            }, 
+            {
+                "charcode": "0x121c7", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES GUD PLUS GUD"
+            }, 
+            {
+                "charcode": "0x121c8", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES HA"
+            }, 
+            {
+                "charcode": "0x121c9", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES HAL"
+            }, 
+            {
+                "charcode": "0x121ca", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES HI TIMES NUN"
+            }, 
+            {
+                "charcode": "0x121cb", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES IGI GUNU"
+            }, 
+            {
+                "charcode": "0x121cc", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES IM"
+            }, 
+            {
+                "charcode": "0x121cd", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES IM PLUS HA"
+            }, 
+            {
+                "charcode": "0x121ce", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES IM PLUS LU"
+            }, 
+            {
+                "charcode": "0x121cf", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES KI"
+            }, 
+            {
+                "charcode": "0x121d0", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES KIN"
+            }, 
+            {
+                "charcode": "0x121d1", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES KU3"
+            }, 
+            {
+                "charcode": "0x121d2", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES KUL"
+            }, 
+            {
+                "charcode": "0x121d3", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES KUL PLUS HI PLUS A"
+            }, 
+            {
+                "charcode": "0x121d4", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES LAGAB"
+            }, 
+            {
+                "charcode": "0x121d5", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES LISH"
+            }, 
+            {
+                "charcode": "0x121d6", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES LU"
+            }, 
+            {
+                "charcode": "0x121d7", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES LUL"
+            }, 
+            {
+                "charcode": "0x121d8", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES ME"
+            }, 
+            {
+                "charcode": "0x121d9", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES ME PLUS EN"
+            }, 
+            {
+                "charcode": "0x121da", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES MUSH"
+            }, 
+            {
+                "charcode": "0x121db", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES NE"
+            }, 
+            {
+                "charcode": "0x121dc", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES SHE PLUS SUM"
+            }, 
+            {
+                "charcode": "0x121dd", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES SHITA PLUS GISH PLUS ERIN2"
+            }, 
+            {
+                "charcode": "0x121de", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES SHITA PLUS GISH TENU"
+            }, 
+            {
+                "charcode": "0x121df", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES SHU2"
+            }, 
+            {
+                "charcode": "0x121e0", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES SHU2 PLUS SHU2"
+            }, 
+            {
+                "charcode": "0x121e1", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES SUM"
+            }, 
+            {
+                "charcode": "0x121e2", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES TAG"
+            }, 
+            {
+                "charcode": "0x121e3", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES TAK4"
+            }, 
+            {
+                "charcode": "0x121e4", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES TE PLUS A PLUS SU PLUS NA"
+            }, 
+            {
+                "charcode": "0x121e5", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES U"
+            }, 
+            {
+                "charcode": "0x121e6", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES U PLUS A"
+            }, 
+            {
+                "charcode": "0x121e7", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES U PLUS U PLUS U"
+            }, 
+            {
+                "charcode": "0x121e8", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES U2 PLUS ASH"
+            }, 
+            {
+                "charcode": "0x121e9", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES UD"
+            }, 
+            {
+                "charcode": "0x121ea", 
+                "title": "CUNEIFORM SIGN LAGAB TIMES USH"
+            }, 
+            {
+                "charcode": "0x121eb", 
+                "title": "CUNEIFORM SIGN LAGAB SQUARED"
+            }, 
+            {
+                "charcode": "0x121ec", 
+                "title": "CUNEIFORM SIGN LAGAR"
+            }, 
+            {
+                "charcode": "0x121ed", 
+                "title": "CUNEIFORM SIGN LAGAR TIMES SHE"
+            }, 
+            {
+                "charcode": "0x121ee", 
+                "title": "CUNEIFORM SIGN LAGAR TIMES SHE PLUS SUM"
+            }, 
+            {
+                "charcode": "0x121ef", 
+                "title": "CUNEIFORM SIGN LAGAR GUNU"
+            }, 
+            {
+                "charcode": "0x121f0", 
+                "title": "CUNEIFORM SIGN LAGAR GUNU OVER LAGAR GUNU SHE"
+            }, 
+            {
+                "charcode": "0x121f1", 
+                "title": "CUNEIFORM SIGN LAHSHU"
+            }, 
+            {
+                "charcode": "0x121f2", 
+                "title": "CUNEIFORM SIGN LAL"
+            }, 
+            {
+                "charcode": "0x121f3", 
+                "title": "CUNEIFORM SIGN LAL TIMES LAL"
+            }, 
+            {
+                "charcode": "0x121f4", 
+                "title": "CUNEIFORM SIGN LAM"
+            }, 
+            {
+                "charcode": "0x121f5", 
+                "title": "CUNEIFORM SIGN LAM TIMES KUR"
+            }, 
+            {
+                "charcode": "0x121f6", 
+                "title": "CUNEIFORM SIGN LAM TIMES KUR PLUS RU"
+            }, 
+            {
+                "charcode": "0x121f7", 
+                "title": "CUNEIFORM SIGN LI"
+            }, 
+            {
+                "charcode": "0x121f8", 
+                "title": "CUNEIFORM SIGN LIL"
+            }, 
+            {
+                "charcode": "0x121f9", 
+                "title": "CUNEIFORM SIGN LIMMU2"
+            }, 
+            {
+                "charcode": "0x121fa", 
+                "title": "CUNEIFORM SIGN LISH"
+            }, 
+            {
+                "charcode": "0x121fb", 
+                "title": "CUNEIFORM SIGN LU"
+            }, 
+            {
+                "charcode": "0x121fc", 
+                "title": "CUNEIFORM SIGN LU TIMES BAD"
+            }, 
+            {
+                "charcode": "0x121fd", 
+                "title": "CUNEIFORM SIGN LU2"
+            }, 
+            {
+                "charcode": "0x121fe", 
+                "title": "CUNEIFORM SIGN LU2 TIMES AL"
+            }, 
+            {
+                "charcode": "0x121ff", 
+                "title": "CUNEIFORM SIGN LU2 TIMES BAD"
+            }, 
+            {
+                "charcode": "0x12200", 
+                "title": "CUNEIFORM SIGN LU2 TIMES ESH2"
+            }, 
+            {
+                "charcode": "0x12201", 
+                "title": "CUNEIFORM SIGN LU2 TIMES ESH2 TENU"
+            }, 
+            {
+                "charcode": "0x12202", 
+                "title": "CUNEIFORM SIGN LU2 TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x12203", 
+                "title": "CUNEIFORM SIGN LU2 TIMES HI TIMES BAD"
+            }, 
+            {
+                "charcode": "0x12204", 
+                "title": "CUNEIFORM SIGN LU2 TIMES IM"
+            }, 
+            {
+                "charcode": "0x12205", 
+                "title": "CUNEIFORM SIGN LU2 TIMES KAD2"
+            }, 
+            {
+                "charcode": "0x12206", 
+                "title": "CUNEIFORM SIGN LU2 TIMES KAD3"
+            }, 
+            {
+                "charcode": "0x12207", 
+                "title": "CUNEIFORM SIGN LU2 TIMES KAD3 PLUS ASH"
+            }, 
+            {
+                "charcode": "0x12208", 
+                "title": "CUNEIFORM SIGN LU2 TIMES KI"
+            }, 
+            {
+                "charcode": "0x12209", 
+                "title": "CUNEIFORM SIGN LU2 TIMES LA PLUS ASH"
+            }, 
+            {
+                "charcode": "0x1220a", 
+                "title": "CUNEIFORM SIGN LU2 TIMES LAGAB"
+            }, 
+            {
+                "charcode": "0x1220b", 
+                "title": "CUNEIFORM SIGN LU2 TIMES ME PLUS EN"
+            }, 
+            {
+                "charcode": "0x1220c", 
+                "title": "CUNEIFORM SIGN LU2 TIMES NE"
+            }, 
+            {
+                "charcode": "0x1220d", 
+                "title": "CUNEIFORM SIGN LU2 TIMES NU"
+            }, 
+            {
+                "charcode": "0x1220e", 
+                "title": "CUNEIFORM SIGN LU2 TIMES SI PLUS ASH"
+            }, 
+            {
+                "charcode": "0x1220f", 
+                "title": "CUNEIFORM SIGN LU2 TIMES SIK2 PLUS BU"
+            }, 
+            {
+                "charcode": "0x12210", 
+                "title": "CUNEIFORM SIGN LU2 TIMES TUG2"
+            }, 
+            {
+                "charcode": "0x12211", 
+                "title": "CUNEIFORM SIGN LU2 TENU"
+            }, 
+            {
+                "charcode": "0x12212", 
+                "title": "CUNEIFORM SIGN LU2 CROSSING LU2"
+            }, 
+            {
+                "charcode": "0x12213", 
+                "title": "CUNEIFORM SIGN LU2 OPPOSING LU2"
+            }, 
+            {
+                "charcode": "0x12214", 
+                "title": "CUNEIFORM SIGN LU2 SQUARED"
+            }, 
+            {
+                "charcode": "0x12215", 
+                "title": "CUNEIFORM SIGN LU2 SHESHIG"
+            }, 
+            {
+                "charcode": "0x12216", 
+                "title": "CUNEIFORM SIGN LU3"
+            }, 
+            {
+                "charcode": "0x12217", 
+                "title": "CUNEIFORM SIGN LUGAL"
+            }, 
+            {
+                "charcode": "0x12218", 
+                "title": "CUNEIFORM SIGN LUGAL OVER LUGAL"
+            }, 
+            {
+                "charcode": "0x12219", 
+                "title": "CUNEIFORM SIGN LUGAL OPPOSING LUGAL"
+            }, 
+            {
+                "charcode": "0x1221a", 
+                "title": "CUNEIFORM SIGN LUGAL SHESHIG"
+            }, 
+            {
+                "charcode": "0x1221b", 
+                "title": "CUNEIFORM SIGN LUH"
+            }, 
+            {
+                "charcode": "0x1221c", 
+                "title": "CUNEIFORM SIGN LUL"
+            }, 
+            {
+                "charcode": "0x1221d", 
+                "title": "CUNEIFORM SIGN LUM"
+            }, 
+            {
+                "charcode": "0x1221e", 
+                "title": "CUNEIFORM SIGN LUM OVER LUM"
+            }, 
+            {
+                "charcode": "0x1221f", 
+                "title": "CUNEIFORM SIGN LUM OVER LUM GAR OVER GAR"
+            }, 
+            {
+                "charcode": "0x12220", 
+                "title": "CUNEIFORM SIGN MA"
+            }, 
+            {
+                "charcode": "0x12221", 
+                "title": "CUNEIFORM SIGN MA TIMES TAK4"
+            }, 
+            {
+                "charcode": "0x12222", 
+                "title": "CUNEIFORM SIGN MA GUNU"
+            }, 
+            {
+                "charcode": "0x12223", 
+                "title": "CUNEIFORM SIGN MA2"
+            }, 
+            {
+                "charcode": "0x12224", 
+                "title": "CUNEIFORM SIGN MAH"
+            }, 
+            {
+                "charcode": "0x12225", 
+                "title": "CUNEIFORM SIGN MAR"
+            }, 
+            {
+                "charcode": "0x12226", 
+                "title": "CUNEIFORM SIGN MASH"
+            }, 
+            {
+                "charcode": "0x12227", 
+                "title": "CUNEIFORM SIGN MASH2"
+            }, 
+            {
+                "charcode": "0x12228", 
+                "title": "CUNEIFORM SIGN ME"
+            }, 
+            {
+                "charcode": "0x12229", 
+                "title": "CUNEIFORM SIGN MES"
+            }, 
+            {
+                "charcode": "0x1222a", 
+                "title": "CUNEIFORM SIGN MI"
+            }, 
+            {
+                "charcode": "0x1222b", 
+                "title": "CUNEIFORM SIGN MIN"
+            }, 
+            {
+                "charcode": "0x1222c", 
+                "title": "CUNEIFORM SIGN MU"
+            }, 
+            {
+                "charcode": "0x1222d", 
+                "title": "CUNEIFORM SIGN MU OVER MU"
+            }, 
+            {
+                "charcode": "0x1222e", 
+                "title": "CUNEIFORM SIGN MUG"
+            }, 
+            {
+                "charcode": "0x1222f", 
+                "title": "CUNEIFORM SIGN MUG GUNU"
+            }, 
+            {
+                "charcode": "0x12230", 
+                "title": "CUNEIFORM SIGN MUNSUB"
+            }, 
+            {
+                "charcode": "0x12231", 
+                "title": "CUNEIFORM SIGN MURGU2"
+            }, 
+            {
+                "charcode": "0x12232", 
+                "title": "CUNEIFORM SIGN MUSH"
+            }, 
+            {
+                "charcode": "0x12233", 
+                "title": "CUNEIFORM SIGN MUSH TIMES A"
+            }, 
+            {
+                "charcode": "0x12234", 
+                "title": "CUNEIFORM SIGN MUSH TIMES KUR"
+            }, 
+            {
+                "charcode": "0x12235", 
+                "title": "CUNEIFORM SIGN MUSH TIMES ZA"
+            }, 
+            {
+                "charcode": "0x12236", 
+                "title": "CUNEIFORM SIGN MUSH OVER MUSH"
+            }, 
+            {
+                "charcode": "0x12237", 
+                "title": "CUNEIFORM SIGN MUSH OVER MUSH TIMES A PLUS NA"
+            }, 
+            {
+                "charcode": "0x12238", 
+                "title": "CUNEIFORM SIGN MUSH CROSSING MUSH"
+            }, 
+            {
+                "charcode": "0x12239", 
+                "title": "CUNEIFORM SIGN MUSH3"
+            }, 
+            {
+                "charcode": "0x1223a", 
+                "title": "CUNEIFORM SIGN MUSH3 TIMES A"
+            }, 
+            {
+                "charcode": "0x1223b", 
+                "title": "CUNEIFORM SIGN MUSH3 TIMES A PLUS DI"
+            }, 
+            {
+                "charcode": "0x1223c", 
+                "title": "CUNEIFORM SIGN MUSH3 TIMES DI"
+            }, 
+            {
+                "charcode": "0x1223d", 
+                "title": "CUNEIFORM SIGN MUSH3 GUNU"
+            }, 
+            {
+                "charcode": "0x1223e", 
+                "title": "CUNEIFORM SIGN NA"
+            }, 
+            {
+                "charcode": "0x1223f", 
+                "title": "CUNEIFORM SIGN NA2"
+            }, 
+            {
+                "charcode": "0x12240", 
+                "title": "CUNEIFORM SIGN NAGA"
+            }, 
+            {
+                "charcode": "0x12241", 
+                "title": "CUNEIFORM SIGN NAGA INVERTED"
+            }, 
+            {
+                "charcode": "0x12242", 
+                "title": "CUNEIFORM SIGN NAGA TIMES SHU TENU"
+            }, 
+            {
+                "charcode": "0x12243", 
+                "title": "CUNEIFORM SIGN NAGA OPPOSING NAGA"
+            }, 
+            {
+                "charcode": "0x12244", 
+                "title": "CUNEIFORM SIGN NAGAR"
+            }, 
+            {
+                "charcode": "0x12245", 
+                "title": "CUNEIFORM SIGN NAM NUTILLU"
+            }, 
+            {
+                "charcode": "0x12246", 
+                "title": "CUNEIFORM SIGN NAM"
+            }, 
+            {
+                "charcode": "0x12247", 
+                "title": "CUNEIFORM SIGN NAM2"
+            }, 
+            {
+                "charcode": "0x12248", 
+                "title": "CUNEIFORM SIGN NE"
+            }, 
+            {
+                "charcode": "0x12249", 
+                "title": "CUNEIFORM SIGN NE TIMES A"
+            }, 
+            {
+                "charcode": "0x1224a", 
+                "title": "CUNEIFORM SIGN NE TIMES UD"
+            }, 
+            {
+                "charcode": "0x1224b", 
+                "title": "CUNEIFORM SIGN NE SHESHIG"
+            }, 
+            {
+                "charcode": "0x1224c", 
+                "title": "CUNEIFORM SIGN NI"
+            }, 
+            {
+                "charcode": "0x1224d", 
+                "title": "CUNEIFORM SIGN NI TIMES E"
+            }, 
+            {
+                "charcode": "0x1224e", 
+                "title": "CUNEIFORM SIGN NI2"
+            }, 
+            {
+                "charcode": "0x1224f", 
+                "title": "CUNEIFORM SIGN NIM"
+            }, 
+            {
+                "charcode": "0x12250", 
+                "title": "CUNEIFORM SIGN NIM TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x12251", 
+                "title": "CUNEIFORM SIGN NIM TIMES GAR PLUS GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x12252", 
+                "title": "CUNEIFORM SIGN NINDA2"
+            }, 
+            {
+                "charcode": "0x12253", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES AN"
+            }, 
+            {
+                "charcode": "0x12254", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES ASH"
+            }, 
+            {
+                "charcode": "0x12255", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES ASH PLUS ASH"
+            }, 
+            {
+                "charcode": "0x12256", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES GUD"
+            }, 
+            {
+                "charcode": "0x12257", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES ME PLUS GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x12258", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES NE"
+            }, 
+            {
+                "charcode": "0x12259", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES NUN"
+            }, 
+            {
+                "charcode": "0x1225a", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES SHE"
+            }, 
+            {
+                "charcode": "0x1225b", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES SHE PLUS A AN"
+            }, 
+            {
+                "charcode": "0x1225c", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES SHE PLUS ASH"
+            }, 
+            {
+                "charcode": "0x1225d", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES SHE PLUS ASH PLUS ASH"
+            }, 
+            {
+                "charcode": "0x1225e", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES U2 PLUS ASH"
+            }, 
+            {
+                "charcode": "0x1225f", 
+                "title": "CUNEIFORM SIGN NINDA2 TIMES USH"
+            }, 
+            {
+                "charcode": "0x12260", 
+                "title": "CUNEIFORM SIGN NISAG"
+            }, 
+            {
+                "charcode": "0x12261", 
+                "title": "CUNEIFORM SIGN NU"
+            }, 
+            {
+                "charcode": "0x12262", 
+                "title": "CUNEIFORM SIGN NU11"
+            }, 
+            {
+                "charcode": "0x12263", 
+                "title": "CUNEIFORM SIGN NUN"
+            }, 
+            {
+                "charcode": "0x12264", 
+                "title": "CUNEIFORM SIGN NUN LAGAR TIMES GAR"
+            }, 
+            {
+                "charcode": "0x12265", 
+                "title": "CUNEIFORM SIGN NUN LAGAR TIMES MASH"
+            }, 
+            {
+                "charcode": "0x12266", 
+                "title": "CUNEIFORM SIGN NUN LAGAR TIMES SAL"
+            }, 
+            {
+                "charcode": "0x12267", 
+                "title": "CUNEIFORM SIGN NUN LAGAR TIMES SAL OVER NUN LAGAR TIMES SAL"
+            }, 
+            {
+                "charcode": "0x12268", 
+                "title": "CUNEIFORM SIGN NUN LAGAR TIMES USH"
+            }, 
+            {
+                "charcode": "0x12269", 
+                "title": "CUNEIFORM SIGN NUN TENU"
+            }, 
+            {
+                "charcode": "0x1226a", 
+                "title": "CUNEIFORM SIGN NUN OVER NUN"
+            }, 
+            {
+                "charcode": "0x1226b", 
+                "title": "CUNEIFORM SIGN NUN CROSSING NUN"
+            }, 
+            {
+                "charcode": "0x1226c", 
+                "title": "CUNEIFORM SIGN NUN CROSSING NUN LAGAR OVER LAGAR"
+            }, 
+            {
+                "charcode": "0x1226d", 
+                "title": "CUNEIFORM SIGN NUNUZ"
+            }, 
+            {
+                "charcode": "0x1226e", 
+                "title": "CUNEIFORM SIGN NUNUZ AB2 TIMES ASHGAB"
+            }, 
+            {
+                "charcode": "0x1226f", 
+                "title": "CUNEIFORM SIGN NUNUZ AB2 TIMES BI"
+            }, 
+            {
+                "charcode": "0x12270", 
+                "title": "CUNEIFORM SIGN NUNUZ AB2 TIMES DUG"
+            }, 
+            {
+                "charcode": "0x12271", 
+                "title": "CUNEIFORM SIGN NUNUZ AB2 TIMES GUD"
+            }, 
+            {
+                "charcode": "0x12272", 
+                "title": "CUNEIFORM SIGN NUNUZ AB2 TIMES IGI GUNU"
+            }, 
+            {
+                "charcode": "0x12273", 
+                "title": "CUNEIFORM SIGN NUNUZ AB2 TIMES KAD3"
+            }, 
+            {
+                "charcode": "0x12274", 
+                "title": "CUNEIFORM SIGN NUNUZ AB2 TIMES LA"
+            }, 
+            {
+                "charcode": "0x12275", 
+                "title": "CUNEIFORM SIGN NUNUZ AB2 TIMES NE"
+            }, 
+            {
+                "charcode": "0x12276", 
+                "title": "CUNEIFORM SIGN NUNUZ AB2 TIMES SILA3"
+            }, 
+            {
+                "charcode": "0x12277", 
+                "title": "CUNEIFORM SIGN NUNUZ AB2 TIMES U2"
+            }, 
+            {
+                "charcode": "0x12278", 
+                "title": "CUNEIFORM SIGN NUNUZ KISIM5 TIMES BI"
+            }, 
+            {
+                "charcode": "0x12279", 
+                "title": "CUNEIFORM SIGN NUNUZ KISIM5 TIMES BI U"
+            }, 
+            {
+                "charcode": "0x1227a", 
+                "title": "CUNEIFORM SIGN PA"
+            }, 
+            {
+                "charcode": "0x1227b", 
+                "title": "CUNEIFORM SIGN PAD"
+            }, 
+            {
+                "charcode": "0x1227c", 
+                "title": "CUNEIFORM SIGN PAN"
+            }, 
+            {
+                "charcode": "0x1227d", 
+                "title": "CUNEIFORM SIGN PAP"
+            }, 
+            {
+                "charcode": "0x1227e", 
+                "title": "CUNEIFORM SIGN PESH2"
+            }, 
+            {
+                "charcode": "0x1227f", 
+                "title": "CUNEIFORM SIGN PI"
+            }, 
+            {
+                "charcode": "0x12280", 
+                "title": "CUNEIFORM SIGN PI TIMES A"
+            }, 
+            {
+                "charcode": "0x12281", 
+                "title": "CUNEIFORM SIGN PI TIMES AB"
+            }, 
+            {
+                "charcode": "0x12282", 
+                "title": "CUNEIFORM SIGN PI TIMES BI"
+            }, 
+            {
+                "charcode": "0x12283", 
+                "title": "CUNEIFORM SIGN PI TIMES BU"
+            }, 
+            {
+                "charcode": "0x12284", 
+                "title": "CUNEIFORM SIGN PI TIMES E"
+            }, 
+            {
+                "charcode": "0x12285", 
+                "title": "CUNEIFORM SIGN PI TIMES I"
+            }, 
+            {
+                "charcode": "0x12286", 
+                "title": "CUNEIFORM SIGN PI TIMES IB"
+            }, 
+            {
+                "charcode": "0x12287", 
+                "title": "CUNEIFORM SIGN PI TIMES U"
+            }, 
+            {
+                "charcode": "0x12288", 
+                "title": "CUNEIFORM SIGN PI TIMES U2"
+            }, 
+            {
+                "charcode": "0x12289", 
+                "title": "CUNEIFORM SIGN PI CROSSING PI"
+            }, 
+            {
+                "charcode": "0x1228a", 
+                "title": "CUNEIFORM SIGN PIRIG"
+            }, 
+            {
+                "charcode": "0x1228b", 
+                "title": "CUNEIFORM SIGN PIRIG TIMES KAL"
+            }, 
+            {
+                "charcode": "0x1228c", 
+                "title": "CUNEIFORM SIGN PIRIG TIMES UD"
+            }, 
+            {
+                "charcode": "0x1228d", 
+                "title": "CUNEIFORM SIGN PIRIG TIMES ZA"
+            }, 
+            {
+                "charcode": "0x1228e", 
+                "title": "CUNEIFORM SIGN PIRIG OPPOSING PIRIG"
+            }, 
+            {
+                "charcode": "0x1228f", 
+                "title": "CUNEIFORM SIGN RA"
+            }, 
+            {
+                "charcode": "0x12290", 
+                "title": "CUNEIFORM SIGN RAB"
+            }, 
+            {
+                "charcode": "0x12291", 
+                "title": "CUNEIFORM SIGN RI"
+            }, 
+            {
+                "charcode": "0x12292", 
+                "title": "CUNEIFORM SIGN RU"
+            }, 
+            {
+                "charcode": "0x12293", 
+                "title": "CUNEIFORM SIGN SA"
+            }, 
+            {
+                "charcode": "0x12294", 
+                "title": "CUNEIFORM SIGN SAG NUTILLU"
+            }, 
+            {
+                "charcode": "0x12295", 
+                "title": "CUNEIFORM SIGN SAG"
+            }, 
+            {
+                "charcode": "0x12296", 
+                "title": "CUNEIFORM SIGN SAG TIMES A"
+            }, 
+            {
+                "charcode": "0x12297", 
+                "title": "CUNEIFORM SIGN SAG TIMES DU"
+            }, 
+            {
+                "charcode": "0x12298", 
+                "title": "CUNEIFORM SIGN SAG TIMES DUB"
+            }, 
+            {
+                "charcode": "0x12299", 
+                "title": "CUNEIFORM SIGN SAG TIMES HA"
+            }, 
+            {
+                "charcode": "0x1229a", 
+                "title": "CUNEIFORM SIGN SAG TIMES KAK"
+            }, 
+            {
+                "charcode": "0x1229b", 
+                "title": "CUNEIFORM SIGN SAG TIMES KUR"
+            }, 
+            {
+                "charcode": "0x1229c", 
+                "title": "CUNEIFORM SIGN SAG TIMES LUM"
+            }, 
+            {
+                "charcode": "0x1229d", 
+                "title": "CUNEIFORM SIGN SAG TIMES MI"
+            }, 
+            {
+                "charcode": "0x1229e", 
+                "title": "CUNEIFORM SIGN SAG TIMES NUN"
+            }, 
+            {
+                "charcode": "0x1229f", 
+                "title": "CUNEIFORM SIGN SAG TIMES SAL"
+            }, 
+            {
+                "charcode": "0x122a0", 
+                "title": "CUNEIFORM SIGN SAG TIMES SHID"
+            }, 
+            {
+                "charcode": "0x122a1", 
+                "title": "CUNEIFORM SIGN SAG TIMES TAB"
+            }, 
+            {
+                "charcode": "0x122a2", 
+                "title": "CUNEIFORM SIGN SAG TIMES U2"
+            }, 
+            {
+                "charcode": "0x122a3", 
+                "title": "CUNEIFORM SIGN SAG TIMES UB"
+            }, 
+            {
+                "charcode": "0x122a4", 
+                "title": "CUNEIFORM SIGN SAG TIMES UM"
+            }, 
+            {
+                "charcode": "0x122a5", 
+                "title": "CUNEIFORM SIGN SAG TIMES UR"
+            }, 
+            {
+                "charcode": "0x122a6", 
+                "title": "CUNEIFORM SIGN SAG TIMES USH"
+            }, 
+            {
+                "charcode": "0x122a7", 
+                "title": "CUNEIFORM SIGN SAG OVER SAG"
+            }, 
+            {
+                "charcode": "0x122a8", 
+                "title": "CUNEIFORM SIGN SAG GUNU"
+            }, 
+            {
+                "charcode": "0x122a9", 
+                "title": "CUNEIFORM SIGN SAL"
+            }, 
+            {
+                "charcode": "0x122aa", 
+                "title": "CUNEIFORM SIGN SAL LAGAB TIMES ASH2"
+            }, 
+            {
+                "charcode": "0x122ab", 
+                "title": "CUNEIFORM SIGN SANGA2"
+            }, 
+            {
+                "charcode": "0x122ac", 
+                "title": "CUNEIFORM SIGN SAR"
+            }, 
+            {
+                "charcode": "0x122ad", 
+                "title": "CUNEIFORM SIGN SHA"
+            }, 
+            {
+                "charcode": "0x122ae", 
+                "title": "CUNEIFORM SIGN SHA3"
+            }, 
+            {
+                "charcode": "0x122af", 
+                "title": "CUNEIFORM SIGN SHA3 TIMES A"
+            }, 
+            {
+                "charcode": "0x122b0", 
+                "title": "CUNEIFORM SIGN SHA3 TIMES BAD"
+            }, 
+            {
+                "charcode": "0x122b1", 
+                "title": "CUNEIFORM SIGN SHA3 TIMES GISH"
+            }, 
+            {
+                "charcode": "0x122b2", 
+                "title": "CUNEIFORM SIGN SHA3 TIMES NE"
+            }, 
+            {
+                "charcode": "0x122b3", 
+                "title": "CUNEIFORM SIGN SHA3 TIMES SHU2"
+            }, 
+            {
+                "charcode": "0x122b4", 
+                "title": "CUNEIFORM SIGN SHA3 TIMES TUR"
+            }, 
+            {
+                "charcode": "0x122b5", 
+                "title": "CUNEIFORM SIGN SHA3 TIMES U"
+            }, 
+            {
+                "charcode": "0x122b6", 
+                "title": "CUNEIFORM SIGN SHA3 TIMES U PLUS A"
+            }, 
+            {
+                "charcode": "0x122b7", 
+                "title": "CUNEIFORM SIGN SHA6"
+            }, 
+            {
+                "charcode": "0x122b8", 
+                "title": "CUNEIFORM SIGN SHAB6"
+            }, 
+            {
+                "charcode": "0x122b9", 
+                "title": "CUNEIFORM SIGN SHAR2"
+            }, 
+            {
+                "charcode": "0x122ba", 
+                "title": "CUNEIFORM SIGN SHE"
+            }, 
+            {
+                "charcode": "0x122bb", 
+                "title": "CUNEIFORM SIGN SHE HU"
+            }, 
+            {
+                "charcode": "0x122bc", 
+                "title": "CUNEIFORM SIGN SHE OVER SHE GAD OVER GAD GAR OVER GAR"
+            }, 
+            {
+                "charcode": "0x122bd", 
+                "title": "CUNEIFORM SIGN SHE OVER SHE TAB OVER TAB GAR OVER GAR"
+            }, 
+            {
+                "charcode": "0x122be", 
+                "title": "CUNEIFORM SIGN SHEG9"
+            }, 
+            {
+                "charcode": "0x122bf", 
+                "title": "CUNEIFORM SIGN SHEN"
+            }, 
+            {
+                "charcode": "0x122c0", 
+                "title": "CUNEIFORM SIGN SHESH"
+            }, 
+            {
+                "charcode": "0x122c1", 
+                "title": "CUNEIFORM SIGN SHESH2"
+            }, 
+            {
+                "charcode": "0x122c2", 
+                "title": "CUNEIFORM SIGN SHESHLAM"
+            }, 
+            {
+                "charcode": "0x122c3", 
+                "title": "CUNEIFORM SIGN SHID"
+            }, 
+            {
+                "charcode": "0x122c4", 
+                "title": "CUNEIFORM SIGN SHID TIMES A"
+            }, 
+            {
+                "charcode": "0x122c5", 
+                "title": "CUNEIFORM SIGN SHID TIMES IM"
+            }, 
+            {
+                "charcode": "0x122c6", 
+                "title": "CUNEIFORM SIGN SHIM"
+            }, 
+            {
+                "charcode": "0x122c7", 
+                "title": "CUNEIFORM SIGN SHIM TIMES A"
+            }, 
+            {
+                "charcode": "0x122c8", 
+                "title": "CUNEIFORM SIGN SHIM TIMES BAL"
+            }, 
+            {
+                "charcode": "0x122c9", 
+                "title": "CUNEIFORM SIGN SHIM TIMES BULUG"
+            }, 
+            {
+                "charcode": "0x122ca", 
+                "title": "CUNEIFORM SIGN SHIM TIMES DIN"
+            }, 
+            {
+                "charcode": "0x122cb", 
+                "title": "CUNEIFORM SIGN SHIM TIMES GAR"
+            }, 
+            {
+                "charcode": "0x122cc", 
+                "title": "CUNEIFORM SIGN SHIM TIMES IGI"
+            }, 
+            {
+                "charcode": "0x122cd", 
+                "title": "CUNEIFORM SIGN SHIM TIMES IGI GUNU"
+            }, 
+            {
+                "charcode": "0x122ce", 
+                "title": "CUNEIFORM SIGN SHIM TIMES KUSHU2"
+            }, 
+            {
+                "charcode": "0x122cf", 
+                "title": "CUNEIFORM SIGN SHIM TIMES LUL"
+            }, 
+            {
+                "charcode": "0x122d0", 
+                "title": "CUNEIFORM SIGN SHIM TIMES MUG"
+            }, 
+            {
+                "charcode": "0x122d1", 
+                "title": "CUNEIFORM SIGN SHIM TIMES SAL"
+            }, 
+            {
+                "charcode": "0x122d2", 
+                "title": "CUNEIFORM SIGN SHINIG"
+            }, 
+            {
+                "charcode": "0x122d3", 
+                "title": "CUNEIFORM SIGN SHIR"
+            }, 
+            {
+                "charcode": "0x122d4", 
+                "title": "CUNEIFORM SIGN SHIR TENU"
+            }, 
+            {
+                "charcode": "0x122d5", 
+                "title": "CUNEIFORM SIGN SHIR OVER SHIR BUR OVER BUR"
+            }, 
+            {
+                "charcode": "0x122d6", 
+                "title": "CUNEIFORM SIGN SHITA"
+            }, 
+            {
+                "charcode": "0x122d7", 
+                "title": "CUNEIFORM SIGN SHU"
+            }, 
+            {
+                "charcode": "0x122d8", 
+                "title": "CUNEIFORM SIGN SHU OVER INVERTED SHU"
+            }, 
+            {
+                "charcode": "0x122d9", 
+                "title": "CUNEIFORM SIGN SHU2"
+            }, 
+            {
+                "charcode": "0x122da", 
+                "title": "CUNEIFORM SIGN SHUBUR"
+            }, 
+            {
+                "charcode": "0x122db", 
+                "title": "CUNEIFORM SIGN SI"
+            }, 
+            {
+                "charcode": "0x122dc", 
+                "title": "CUNEIFORM SIGN SI GUNU"
+            }, 
+            {
+                "charcode": "0x122dd", 
+                "title": "CUNEIFORM SIGN SIG"
+            }, 
+            {
+                "charcode": "0x122de", 
+                "title": "CUNEIFORM SIGN SIG4"
+            }, 
+            {
+                "charcode": "0x122df", 
+                "title": "CUNEIFORM SIGN SIG4 OVER SIG4 SHU2"
+            }, 
+            {
+                "charcode": "0x122e0", 
+                "title": "CUNEIFORM SIGN SIK2"
+            }, 
+            {
+                "charcode": "0x122e1", 
+                "title": "CUNEIFORM SIGN SILA3"
+            }, 
+            {
+                "charcode": "0x122e2", 
+                "title": "CUNEIFORM SIGN SU"
+            }, 
+            {
+                "charcode": "0x122e3", 
+                "title": "CUNEIFORM SIGN SU OVER SU"
+            }, 
+            {
+                "charcode": "0x122e4", 
+                "title": "CUNEIFORM SIGN SUD"
+            }, 
+            {
+                "charcode": "0x122e5", 
+                "title": "CUNEIFORM SIGN SUD2"
+            }, 
+            {
+                "charcode": "0x122e6", 
+                "title": "CUNEIFORM SIGN SUHUR"
+            }, 
+            {
+                "charcode": "0x122e7", 
+                "title": "CUNEIFORM SIGN SUM"
+            }, 
+            {
+                "charcode": "0x122e8", 
+                "title": "CUNEIFORM SIGN SUMASH"
+            }, 
+            {
+                "charcode": "0x122e9", 
+                "title": "CUNEIFORM SIGN SUR"
+            }, 
+            {
+                "charcode": "0x122ea", 
+                "title": "CUNEIFORM SIGN SUR9"
+            }, 
+            {
+                "charcode": "0x122eb", 
+                "title": "CUNEIFORM SIGN TA"
+            }, 
+            {
+                "charcode": "0x122ec", 
+                "title": "CUNEIFORM SIGN TA ASTERISK"
+            }, 
+            {
+                "charcode": "0x122ed", 
+                "title": "CUNEIFORM SIGN TA TIMES HI"
+            }, 
+            {
+                "charcode": "0x122ee", 
+                "title": "CUNEIFORM SIGN TA TIMES MI"
+            }, 
+            {
+                "charcode": "0x122ef", 
+                "title": "CUNEIFORM SIGN TA GUNU"
+            }, 
+            {
+                "charcode": "0x122f0", 
+                "title": "CUNEIFORM SIGN TAB"
+            }, 
+            {
+                "charcode": "0x122f1", 
+                "title": "CUNEIFORM SIGN TAB OVER TAB NI OVER NI DISH OVER DISH"
+            }, 
+            {
+                "charcode": "0x122f2", 
+                "title": "CUNEIFORM SIGN TAB SQUARED"
+            }, 
+            {
+                "charcode": "0x122f3", 
+                "title": "CUNEIFORM SIGN TAG"
+            }, 
+            {
+                "charcode": "0x122f4", 
+                "title": "CUNEIFORM SIGN TAG TIMES BI"
+            }, 
+            {
+                "charcode": "0x122f5", 
+                "title": "CUNEIFORM SIGN TAG TIMES GUD"
+            }, 
+            {
+                "charcode": "0x122f6", 
+                "title": "CUNEIFORM SIGN TAG TIMES SHE"
+            }, 
+            {
+                "charcode": "0x122f7", 
+                "title": "CUNEIFORM SIGN TAG TIMES SHU"
+            }, 
+            {
+                "charcode": "0x122f8", 
+                "title": "CUNEIFORM SIGN TAG TIMES TUG2"
+            }, 
+            {
+                "charcode": "0x122f9", 
+                "title": "CUNEIFORM SIGN TAG TIMES UD"
+            }, 
+            {
+                "charcode": "0x122fa", 
+                "title": "CUNEIFORM SIGN TAK4"
+            }, 
+            {
+                "charcode": "0x122fb", 
+                "title": "CUNEIFORM SIGN TAR"
+            }, 
+            {
+                "charcode": "0x122fc", 
+                "title": "CUNEIFORM SIGN TE"
+            }, 
+            {
+                "charcode": "0x122fd", 
+                "title": "CUNEIFORM SIGN TE GUNU"
+            }, 
+            {
+                "charcode": "0x122fe", 
+                "title": "CUNEIFORM SIGN TI"
+            }, 
+            {
+                "charcode": "0x122ff", 
+                "title": "CUNEIFORM SIGN TI TENU"
+            }, 
+            {
+                "charcode": "0x12300", 
+                "title": "CUNEIFORM SIGN TIL"
+            }, 
+            {
+                "charcode": "0x12301", 
+                "title": "CUNEIFORM SIGN TIR"
+            }, 
+            {
+                "charcode": "0x12302", 
+                "title": "CUNEIFORM SIGN TIR TIMES TAK4"
+            }, 
+            {
+                "charcode": "0x12303", 
+                "title": "CUNEIFORM SIGN TIR OVER TIR"
+            }, 
+            {
+                "charcode": "0x12304", 
+                "title": "CUNEIFORM SIGN TIR OVER TIR GAD OVER GAD GAR OVER GAR"
+            }, 
+            {
+                "charcode": "0x12305", 
+                "title": "CUNEIFORM SIGN TU"
+            }, 
+            {
+                "charcode": "0x12306", 
+                "title": "CUNEIFORM SIGN TUG2"
+            }, 
+            {
+                "charcode": "0x12307", 
+                "title": "CUNEIFORM SIGN TUK"
+            }, 
+            {
+                "charcode": "0x12308", 
+                "title": "CUNEIFORM SIGN TUM"
+            }, 
+            {
+                "charcode": "0x12309", 
+                "title": "CUNEIFORM SIGN TUR"
+            }, 
+            {
+                "charcode": "0x1230a", 
+                "title": "CUNEIFORM SIGN TUR OVER TUR ZA OVER ZA"
+            }, 
+            {
+                "charcode": "0x1230b", 
+                "title": "CUNEIFORM SIGN U"
+            }, 
+            {
+                "charcode": "0x1230c", 
+                "title": "CUNEIFORM SIGN U GUD"
+            }, 
+            {
+                "charcode": "0x1230d", 
+                "title": "CUNEIFORM SIGN U U U"
+            }, 
+            {
+                "charcode": "0x1230e", 
+                "title": "CUNEIFORM SIGN U OVER U PA OVER PA GAR OVER GAR"
+            }, 
+            {
+                "charcode": "0x1230f", 
+                "title": "CUNEIFORM SIGN U OVER U SUR OVER SUR"
+            }, 
+            {
+                "charcode": "0x12310", 
+                "title": "CUNEIFORM SIGN U OVER U U REVERSED OVER U REVERSED"
+            }, 
+            {
+                "charcode": "0x12311", 
+                "title": "CUNEIFORM SIGN U2"
+            }, 
+            {
+                "charcode": "0x12312", 
+                "title": "CUNEIFORM SIGN UB"
+            }, 
+            {
+                "charcode": "0x12313", 
+                "title": "CUNEIFORM SIGN UD"
+            }, 
+            {
+                "charcode": "0x12314", 
+                "title": "CUNEIFORM SIGN UD KUSHU2"
+            }, 
+            {
+                "charcode": "0x12315", 
+                "title": "CUNEIFORM SIGN UD TIMES BAD"
+            }, 
+            {
+                "charcode": "0x12316", 
+                "title": "CUNEIFORM SIGN UD TIMES MI"
+            }, 
+            {
+                "charcode": "0x12317", 
+                "title": "CUNEIFORM SIGN UD TIMES U PLUS U PLUS U"
+            }, 
+            {
+                "charcode": "0x12318", 
+                "title": "CUNEIFORM SIGN UD TIMES U PLUS U PLUS U GUNU"
+            }, 
+            {
+                "charcode": "0x12319", 
+                "title": "CUNEIFORM SIGN UD GUNU"
+            }, 
+            {
+                "charcode": "0x1231a", 
+                "title": "CUNEIFORM SIGN UD SHESHIG"
+            }, 
+            {
+                "charcode": "0x1231b", 
+                "title": "CUNEIFORM SIGN UD SHESHIG TIMES BAD"
+            }, 
+            {
+                "charcode": "0x1231c", 
+                "title": "CUNEIFORM SIGN UDUG"
+            }, 
+            {
+                "charcode": "0x1231d", 
+                "title": "CUNEIFORM SIGN UM"
+            }, 
+            {
+                "charcode": "0x1231e", 
+                "title": "CUNEIFORM SIGN UM TIMES LAGAB"
+            }, 
+            {
+                "charcode": "0x1231f", 
+                "title": "CUNEIFORM SIGN UM TIMES ME PLUS DA"
+            }, 
+            {
+                "charcode": "0x12320", 
+                "title": "CUNEIFORM SIGN UM TIMES SHA3"
+            }, 
+            {
+                "charcode": "0x12321", 
+                "title": "CUNEIFORM SIGN UM TIMES U"
+            }, 
+            {
+                "charcode": "0x12322", 
+                "title": "CUNEIFORM SIGN UMBIN"
+            }, 
+            {
+                "charcode": "0x12323", 
+                "title": "CUNEIFORM SIGN UMUM"
+            }, 
+            {
+                "charcode": "0x12324", 
+                "title": "CUNEIFORM SIGN UMUM TIMES KASKAL"
+            }, 
+            {
+                "charcode": "0x12325", 
+                "title": "CUNEIFORM SIGN UMUM TIMES PA"
+            }, 
+            {
+                "charcode": "0x12326", 
+                "title": "CUNEIFORM SIGN UN"
+            }, 
+            {
+                "charcode": "0x12327", 
+                "title": "CUNEIFORM SIGN UN GUNU"
+            }, 
+            {
+                "charcode": "0x12328", 
+                "title": "CUNEIFORM SIGN UR"
+            }, 
+            {
+                "charcode": "0x12329", 
+                "title": "CUNEIFORM SIGN UR CROSSING UR"
+            }, 
+            {
+                "charcode": "0x1232a", 
+                "title": "CUNEIFORM SIGN UR SHESHIG"
+            }, 
+            {
+                "charcode": "0x1232b", 
+                "title": "CUNEIFORM SIGN UR2"
+            }, 
+            {
+                "charcode": "0x1232c", 
+                "title": "CUNEIFORM SIGN UR2 TIMES A PLUS HA"
+            }, 
+            {
+                "charcode": "0x1232d", 
+                "title": "CUNEIFORM SIGN UR2 TIMES A PLUS NA"
+            }, 
+            {
+                "charcode": "0x1232e", 
+                "title": "CUNEIFORM SIGN UR2 TIMES AL"
+            }, 
+            {
+                "charcode": "0x1232f", 
+                "title": "CUNEIFORM SIGN UR2 TIMES HA"
+            }, 
+            {
+                "charcode": "0x12330", 
+                "title": "CUNEIFORM SIGN UR2 TIMES NUN"
+            }, 
+            {
+                "charcode": "0x12331", 
+                "title": "CUNEIFORM SIGN UR2 TIMES U2"
+            }, 
+            {
+                "charcode": "0x12332", 
+                "title": "CUNEIFORM SIGN UR2 TIMES U2 PLUS ASH"
+            }, 
+            {
+                "charcode": "0x12333", 
+                "title": "CUNEIFORM SIGN UR2 TIMES U2 PLUS BI"
+            }, 
+            {
+                "charcode": "0x12334", 
+                "title": "CUNEIFORM SIGN UR4"
+            }, 
+            {
+                "charcode": "0x12335", 
+                "title": "CUNEIFORM SIGN URI"
+            }, 
+            {
+                "charcode": "0x12336", 
+                "title": "CUNEIFORM SIGN URI3"
+            }, 
+            {
+                "charcode": "0x12337", 
+                "title": "CUNEIFORM SIGN URU"
+            }, 
+            {
+                "charcode": "0x12338", 
+                "title": "CUNEIFORM SIGN URU TIMES A"
+            }, 
+            {
+                "charcode": "0x12339", 
+                "title": "CUNEIFORM SIGN URU TIMES ASHGAB"
+            }, 
+            {
+                "charcode": "0x1233a", 
+                "title": "CUNEIFORM SIGN URU TIMES BAR"
+            }, 
+            {
+                "charcode": "0x1233b", 
+                "title": "CUNEIFORM SIGN URU TIMES DUN"
+            }, 
+            {
+                "charcode": "0x1233c", 
+                "title": "CUNEIFORM SIGN URU TIMES GA"
+            }, 
+            {
+                "charcode": "0x1233d", 
+                "title": "CUNEIFORM SIGN URU TIMES GAL"
+            }, 
+            {
+                "charcode": "0x1233e", 
+                "title": "CUNEIFORM SIGN URU TIMES GAN2 TENU"
+            }, 
+            {
+                "charcode": "0x1233f", 
+                "title": "CUNEIFORM SIGN URU TIMES GAR"
+            }, 
+            {
+                "charcode": "0x12340", 
+                "title": "CUNEIFORM SIGN URU TIMES GU"
+            }, 
+            {
+                "charcode": "0x12341", 
+                "title": "CUNEIFORM SIGN URU TIMES HA"
+            }, 
+            {
+                "charcode": "0x12342", 
+                "title": "CUNEIFORM SIGN URU TIMES IGI"
+            }, 
+            {
+                "charcode": "0x12343", 
+                "title": "CUNEIFORM SIGN URU TIMES IM"
+            }, 
+            {
+                "charcode": "0x12344", 
+                "title": "CUNEIFORM SIGN URU TIMES ISH"
+            }, 
+            {
+                "charcode": "0x12345", 
+                "title": "CUNEIFORM SIGN URU TIMES KI"
+            }, 
+            {
+                "charcode": "0x12346", 
+                "title": "CUNEIFORM SIGN URU TIMES LUM"
+            }, 
+            {
+                "charcode": "0x12347", 
+                "title": "CUNEIFORM SIGN URU TIMES MIN"
+            }, 
+            {
+                "charcode": "0x12348", 
+                "title": "CUNEIFORM SIGN URU TIMES PA"
+            }, 
+            {
+                "charcode": "0x12349", 
+                "title": "CUNEIFORM SIGN URU TIMES SHE"
+            }, 
+            {
+                "charcode": "0x1234a", 
+                "title": "CUNEIFORM SIGN URU TIMES SIG4"
+            }, 
+            {
+                "charcode": "0x1234b", 
+                "title": "CUNEIFORM SIGN URU TIMES TU"
+            }, 
+            {
+                "charcode": "0x1234c", 
+                "title": "CUNEIFORM SIGN URU TIMES U PLUS GUD"
+            }, 
+            {
+                "charcode": "0x1234d", 
+                "title": "CUNEIFORM SIGN URU TIMES UD"
+            }, 
+            {
+                "charcode": "0x1234e", 
+                "title": "CUNEIFORM SIGN URU TIMES URUDA"
+            }, 
+            {
+                "charcode": "0x1234f", 
+                "title": "CUNEIFORM SIGN URUDA"
+            }, 
+            {
+                "charcode": "0x12350", 
+                "title": "CUNEIFORM SIGN URUDA TIMES U"
+            }, 
+            {
+                "charcode": "0x12351", 
+                "title": "CUNEIFORM SIGN USH"
+            }, 
+            {
+                "charcode": "0x12352", 
+                "title": "CUNEIFORM SIGN USH TIMES A"
+            }, 
+            {
+                "charcode": "0x12353", 
+                "title": "CUNEIFORM SIGN USH TIMES KU"
+            }, 
+            {
+                "charcode": "0x12354", 
+                "title": "CUNEIFORM SIGN USH TIMES KUR"
+            }, 
+            {
+                "charcode": "0x12355", 
+                "title": "CUNEIFORM SIGN USH TIMES TAK4"
+            }, 
+            {
+                "charcode": "0x12356", 
+                "title": "CUNEIFORM SIGN USHX"
+            }, 
+            {
+                "charcode": "0x12357", 
+                "title": "CUNEIFORM SIGN USH2"
+            }, 
+            {
+                "charcode": "0x12358", 
+                "title": "CUNEIFORM SIGN USHUMX"
+            }, 
+            {
+                "charcode": "0x12359", 
+                "title": "CUNEIFORM SIGN UTUKI"
+            }, 
+            {
+                "charcode": "0x1235a", 
+                "title": "CUNEIFORM SIGN UZ3"
+            }, 
+            {
+                "charcode": "0x1235b", 
+                "title": "CUNEIFORM SIGN UZ3 TIMES KASKAL"
+            }, 
+            {
+                "charcode": "0x1235c", 
+                "title": "CUNEIFORM SIGN UZU"
+            }, 
+            {
+                "charcode": "0x1235d", 
+                "title": "CUNEIFORM SIGN ZA"
+            }, 
+            {
+                "charcode": "0x1235e", 
+                "title": "CUNEIFORM SIGN ZA TENU"
+            }, 
+            {
+                "charcode": "0x1235f", 
+                "title": "CUNEIFORM SIGN ZA SQUARED TIMES KUR"
+            }, 
+            {
+                "charcode": "0x12360", 
+                "title": "CUNEIFORM SIGN ZAG"
+            }, 
+            {
+                "charcode": "0x12361", 
+                "title": "CUNEIFORM SIGN ZAMX"
+            }, 
+            {
+                "charcode": "0x12362", 
+                "title": "CUNEIFORM SIGN ZE2"
+            }, 
+            {
+                "charcode": "0x12363", 
+                "title": "CUNEIFORM SIGN ZI"
+            }, 
+            {
+                "charcode": "0x12364", 
+                "title": "CUNEIFORM SIGN ZI OVER ZI"
+            }, 
+            {
+                "charcode": "0x12365", 
+                "title": "CUNEIFORM SIGN ZI3"
+            }, 
+            {
+                "charcode": "0x12366", 
+                "title": "CUNEIFORM SIGN ZIB"
+            }, 
+            {
+                "charcode": "0x12367", 
+                "title": "CUNEIFORM SIGN ZIB KABA TENU"
+            }, 
+            {
+                "charcode": "0x12368", 
+                "title": "CUNEIFORM SIGN ZIG"
+            }, 
+            {
+                "charcode": "0x12369", 
+                "title": "CUNEIFORM SIGN ZIZ2"
+            }, 
+            {
+                "charcode": "0x1236a", 
+                "title": "CUNEIFORM SIGN ZU"
+            }, 
+            {
+                "charcode": "0x1236b", 
+                "title": "CUNEIFORM SIGN ZU5"
+            }, 
+            {
+                "charcode": "0x1236c", 
+                "title": "CUNEIFORM SIGN ZU5 TIMES A"
+            }, 
+            {
+                "charcode": "0x1236d", 
+                "title": "CUNEIFORM SIGN ZUBUR"
+            }, 
+            {
+                "charcode": "0x1236e", 
+                "title": "CUNEIFORM SIGN ZUM"
+            }
+        ], 
+        "name": "Cuneiform"
+    }
+]

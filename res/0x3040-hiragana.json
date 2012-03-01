@@ -1,0 +1,375 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x3041", 
+                "title": "HIRAGANA LETTER SMALL A"
+            }, 
+            {
+                "charcode": "0x3042", 
+                "title": "HIRAGANA LETTER A"
+            }, 
+            {
+                "charcode": "0x3043", 
+                "title": "HIRAGANA LETTER SMALL I"
+            }, 
+            {
+                "charcode": "0x3044", 
+                "title": "HIRAGANA LETTER I"
+            }, 
+            {
+                "charcode": "0x3045", 
+                "title": "HIRAGANA LETTER SMALL U"
+            }, 
+            {
+                "charcode": "0x3046", 
+                "title": "HIRAGANA LETTER U"
+            }, 
+            {
+                "charcode": "0x3047", 
+                "title": "HIRAGANA LETTER SMALL E"
+            }, 
+            {
+                "charcode": "0x3048", 
+                "title": "HIRAGANA LETTER E"
+            }, 
+            {
+                "charcode": "0x3049", 
+                "title": "HIRAGANA LETTER SMALL O"
+            }, 
+            {
+                "charcode": "0x304a", 
+                "title": "HIRAGANA LETTER O"
+            }, 
+            {
+                "charcode": "0x304b", 
+                "title": "HIRAGANA LETTER KA"
+            }, 
+            {
+                "charcode": "0x304c", 
+                "title": "HIRAGANA LETTER GA"
+            }, 
+            {
+                "charcode": "0x304d", 
+                "title": "HIRAGANA LETTER KI"
+            }, 
+            {
+                "charcode": "0x304e", 
+                "title": "HIRAGANA LETTER GI"
+            }, 
+            {
+                "charcode": "0x304f", 
+                "title": "HIRAGANA LETTER KU"
+            }, 
+            {
+                "charcode": "0x3050", 
+                "title": "HIRAGANA LETTER GU"
+            }, 
+            {
+                "charcode": "0x3051", 
+                "title": "HIRAGANA LETTER KE"
+            }, 
+            {
+                "charcode": "0x3052", 
+                "title": "HIRAGANA LETTER GE"
+            }, 
+            {
+                "charcode": "0x3053", 
+                "title": "HIRAGANA LETTER KO"
+            }, 
+            {
+                "charcode": "0x3054", 
+                "title": "HIRAGANA LETTER GO"
+            }, 
+            {
+                "charcode": "0x3055", 
+                "title": "HIRAGANA LETTER SA"
+            }, 
+            {
+                "charcode": "0x3056", 
+                "title": "HIRAGANA LETTER ZA"
+            }, 
+            {
+                "charcode": "0x3057", 
+                "title": "HIRAGANA LETTER SI"
+            }, 
+            {
+                "charcode": "0x3058", 
+                "title": "HIRAGANA LETTER ZI"
+            }, 
+            {
+                "charcode": "0x3059", 
+                "title": "HIRAGANA LETTER SU"
+            }, 
+            {
+                "charcode": "0x305a", 
+                "title": "HIRAGANA LETTER ZU"
+            }, 
+            {
+                "charcode": "0x305b", 
+                "title": "HIRAGANA LETTER SE"
+            }, 
+            {
+                "charcode": "0x305c", 
+                "title": "HIRAGANA LETTER ZE"
+            }, 
+            {
+                "charcode": "0x305d", 
+                "title": "HIRAGANA LETTER SO"
+            }, 
+            {
+                "charcode": "0x305e", 
+                "title": "HIRAGANA LETTER ZO"
+            }, 
+            {
+                "charcode": "0x305f", 
+                "title": "HIRAGANA LETTER TA"
+            }, 
+            {
+                "charcode": "0x3060", 
+                "title": "HIRAGANA LETTER DA"
+            }, 
+            {
+                "charcode": "0x3061", 
+                "title": "HIRAGANA LETTER TI"
+            }, 
+            {
+                "charcode": "0x3062", 
+                "title": "HIRAGANA LETTER DI"
+            }, 
+            {
+                "charcode": "0x3063", 
+                "title": "HIRAGANA LETTER SMALL TU"
+            }, 
+            {
+                "charcode": "0x3064", 
+                "title": "HIRAGANA LETTER TU"
+            }, 
+            {
+                "charcode": "0x3065", 
+                "title": "HIRAGANA LETTER DU"
+            }, 
+            {
+                "charcode": "0x3066", 
+                "title": "HIRAGANA LETTER TE"
+            }, 
+            {
+                "charcode": "0x3067", 
+                "title": "HIRAGANA LETTER DE"
+            }, 
+            {
+                "charcode": "0x3068", 
+                "title": "HIRAGANA LETTER TO"
+            }, 
+            {
+                "charcode": "0x3069", 
+                "title": "HIRAGANA LETTER DO"
+            }, 
+            {
+                "charcode": "0x306a", 
+                "title": "HIRAGANA LETTER NA"
+            }, 
+            {
+                "charcode": "0x306b", 
+                "title": "HIRAGANA LETTER NI"
+            }, 
+            {
+                "charcode": "0x306c", 
+                "title": "HIRAGANA LETTER NU"
+            }, 
+            {
+                "charcode": "0x306d", 
+                "title": "HIRAGANA LETTER NE"
+            }, 
+            {
+                "charcode": "0x306e", 
+                "title": "HIRAGANA LETTER NO"
+            }, 
+            {
+                "charcode": "0x306f", 
+                "title": "HIRAGANA LETTER HA"
+            }, 
+            {
+                "charcode": "0x3070", 
+                "title": "HIRAGANA LETTER BA"
+            }, 
+            {
+                "charcode": "0x3071", 
+                "title": "HIRAGANA LETTER PA"
+            }, 
+            {
+                "charcode": "0x3072", 
+                "title": "HIRAGANA LETTER HI"
+            }, 
+            {
+                "charcode": "0x3073", 
+                "title": "HIRAGANA LETTER BI"
+            }, 
+            {
+                "charcode": "0x3074", 
+                "title": "HIRAGANA LETTER PI"
+            }, 
+            {
+                "charcode": "0x3075", 
+                "title": "HIRAGANA LETTER HU"
+            }, 
+            {
+                "charcode": "0x3076", 
+                "title": "HIRAGANA LETTER BU"
+            }, 
+            {
+                "charcode": "0x3077", 
+                "title": "HIRAGANA LETTER PU"
+            }, 
+            {
+                "charcode": "0x3078", 
+                "title": "HIRAGANA LETTER HE"
+            }, 
+            {
+                "charcode": "0x3079", 
+                "title": "HIRAGANA LETTER BE"
+            }, 
+            {
+                "charcode": "0x307a", 
+                "title": "HIRAGANA LETTER PE"
+            }, 
+            {
+                "charcode": "0x307b", 
+                "title": "HIRAGANA LETTER HO"
+            }, 
+            {
+                "charcode": "0x307c", 
+                "title": "HIRAGANA LETTER BO"
+            }, 
+            {
+                "charcode": "0x307d", 
+                "title": "HIRAGANA LETTER PO"
+            }, 
+            {
+                "charcode": "0x307e", 
+                "title": "HIRAGANA LETTER MA"
+            }, 
+            {
+                "charcode": "0x307f", 
+                "title": "HIRAGANA LETTER MI"
+            }, 
+            {
+                "charcode": "0x3080", 
+                "title": "HIRAGANA LETTER MU"
+            }, 
+            {
+                "charcode": "0x3081", 
+                "title": "HIRAGANA LETTER ME"
+            }, 
+            {
+                "charcode": "0x3082", 
+                "title": "HIRAGANA LETTER MO"
+            }, 
+            {
+                "charcode": "0x3083", 
+                "title": "HIRAGANA LETTER SMALL YA"
+            }, 
+            {
+                "charcode": "0x3084", 
+                "title": "HIRAGANA LETTER YA"
+            }, 
+            {
+                "charcode": "0x3085", 
+                "title": "HIRAGANA LETTER SMALL YU"
+            }, 
+            {
+                "charcode": "0x3086", 
+                "title": "HIRAGANA LETTER YU"
+            }, 
+            {
+                "charcode": "0x3087", 
+                "title": "HIRAGANA LETTER SMALL YO"
+            }, 
+            {
+                "charcode": "0x3088", 
+                "title": "HIRAGANA LETTER YO"
+            }, 
+            {
+                "charcode": "0x3089", 
+                "title": "HIRAGANA LETTER RA"
+            }, 
+            {
+                "charcode": "0x308a", 
+                "title": "HIRAGANA LETTER RI"
+            }, 
+            {
+                "charcode": "0x308b", 
+                "title": "HIRAGANA LETTER RU"
+            }, 
+            {
+                "charcode": "0x308c", 
+                "title": "HIRAGANA LETTER RE"
+            }, 
+            {
+                "charcode": "0x308d", 
+                "title": "HIRAGANA LETTER RO"
+            }, 
+            {
+                "charcode": "0x308e", 
+                "title": "HIRAGANA LETTER SMALL WA"
+            }, 
+            {
+                "charcode": "0x308f", 
+                "title": "HIRAGANA LETTER WA"
+            }, 
+            {
+                "charcode": "0x3090", 
+                "title": "HIRAGANA LETTER WI"
+            }, 
+            {
+                "charcode": "0x3091", 
+                "title": "HIRAGANA LETTER WE"
+            }, 
+            {
+                "charcode": "0x3092", 
+                "title": "HIRAGANA LETTER WO"
+            }, 
+            {
+                "charcode": "0x3093", 
+                "title": "HIRAGANA LETTER N"
+            }, 
+            {
+                "charcode": "0x3094", 
+                "title": "HIRAGANA LETTER VU"
+            }, 
+            {
+                "charcode": "0x3095", 
+                "title": "HIRAGANA LETTER SMALL KA"
+            }, 
+            {
+                "charcode": "0x3096", 
+                "title": "HIRAGANA LETTER SMALL KE"
+            }, 
+            {
+                "charcode": "0x3099", 
+                "title": "COMBINING KATAKANA-HIRAGANA VOICED SOUND MARK"
+            }, 
+            {
+                "charcode": "0x309a", 
+                "title": "COMBINING KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK"
+            }, 
+            {
+                "charcode": "0x309b", 
+                "title": "KATAKANA-HIRAGANA VOICED SOUND MARK"
+            }, 
+            {
+                "charcode": "0x309c", 
+                "title": "KATAKANA-HIRAGANA SEMI-VOICED SOUND MARK"
+            }, 
+            {
+                "charcode": "0x309d", 
+                "title": "HIRAGANA ITERATION MARK"
+            }, 
+            {
+                "charcode": "0x309e", 
+                "title": "HIRAGANA VOICED ITERATION MARK"
+            }
+        ], 
+        "name": "Hiragana"
+    }
+]

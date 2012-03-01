@@ -1,0 +1,383 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x3131", 
+                "title": "HANGUL LETTER KIYEOK"
+            }, 
+            {
+                "charcode": "0x3132", 
+                "title": "HANGUL LETTER SSANGKIYEOK"
+            }, 
+            {
+                "charcode": "0x3133", 
+                "title": "HANGUL LETTER KIYEOK-SIOS"
+            }, 
+            {
+                "charcode": "0x3134", 
+                "title": "HANGUL LETTER NIEUN"
+            }, 
+            {
+                "charcode": "0x3135", 
+                "title": "HANGUL LETTER NIEUN-CIEUC"
+            }, 
+            {
+                "charcode": "0x3136", 
+                "title": "HANGUL LETTER NIEUN-HIEUH"
+            }, 
+            {
+                "charcode": "0x3137", 
+                "title": "HANGUL LETTER TIKEUT"
+            }, 
+            {
+                "charcode": "0x3138", 
+                "title": "HANGUL LETTER SSANGTIKEUT"
+            }, 
+            {
+                "charcode": "0x3139", 
+                "title": "HANGUL LETTER RIEUL"
+            }, 
+            {
+                "charcode": "0x313a", 
+                "title": "HANGUL LETTER RIEUL-KIYEOK"
+            }, 
+            {
+                "charcode": "0x313b", 
+                "title": "HANGUL LETTER RIEUL-MIEUM"
+            }, 
+            {
+                "charcode": "0x313c", 
+                "title": "HANGUL LETTER RIEUL-PIEUP"
+            }, 
+            {
+                "charcode": "0x313d", 
+                "title": "HANGUL LETTER RIEUL-SIOS"
+            }, 
+            {
+                "charcode": "0x313e", 
+                "title": "HANGUL LETTER RIEUL-THIEUTH"
+            }, 
+            {
+                "charcode": "0x313f", 
+                "title": "HANGUL LETTER RIEUL-PHIEUPH"
+            }, 
+            {
+                "charcode": "0x3140", 
+                "title": "HANGUL LETTER RIEUL-HIEUH"
+            }, 
+            {
+                "charcode": "0x3141", 
+                "title": "HANGUL LETTER MIEUM"
+            }, 
+            {
+                "charcode": "0x3142", 
+                "title": "HANGUL LETTER PIEUP"
+            }, 
+            {
+                "charcode": "0x3143", 
+                "title": "HANGUL LETTER SSANGPIEUP"
+            }, 
+            {
+                "charcode": "0x3144", 
+                "title": "HANGUL LETTER PIEUP-SIOS"
+            }, 
+            {
+                "charcode": "0x3145", 
+                "title": "HANGUL LETTER SIOS"
+            }, 
+            {
+                "charcode": "0x3146", 
+                "title": "HANGUL LETTER SSANGSIOS"
+            }, 
+            {
+                "charcode": "0x3147", 
+                "title": "HANGUL LETTER IEUNG"
+            }, 
+            {
+                "charcode": "0x3148", 
+                "title": "HANGUL LETTER CIEUC"
+            }, 
+            {
+                "charcode": "0x3149", 
+                "title": "HANGUL LETTER SSANGCIEUC"
+            }, 
+            {
+                "charcode": "0x314a", 
+                "title": "HANGUL LETTER CHIEUCH"
+            }, 
+            {
+                "charcode": "0x314b", 
+                "title": "HANGUL LETTER KHIEUKH"
+            }, 
+            {
+                "charcode": "0x314c", 
+                "title": "HANGUL LETTER THIEUTH"
+            }, 
+            {
+                "charcode": "0x314d", 
+                "title": "HANGUL LETTER PHIEUPH"
+            }, 
+            {
+                "charcode": "0x314e", 
+                "title": "HANGUL LETTER HIEUH"
+            }, 
+            {
+                "charcode": "0x314f", 
+                "title": "HANGUL LETTER A"
+            }, 
+            {
+                "charcode": "0x3150", 
+                "title": "HANGUL LETTER AE"
+            }, 
+            {
+                "charcode": "0x3151", 
+                "title": "HANGUL LETTER YA"
+            }, 
+            {
+                "charcode": "0x3152", 
+                "title": "HANGUL LETTER YAE"
+            }, 
+            {
+                "charcode": "0x3153", 
+                "title": "HANGUL LETTER EO"
+            }, 
+            {
+                "charcode": "0x3154", 
+                "title": "HANGUL LETTER E"
+            }, 
+            {
+                "charcode": "0x3155", 
+                "title": "HANGUL LETTER YEO"
+            }, 
+            {
+                "charcode": "0x3156", 
+                "title": "HANGUL LETTER YE"
+            }, 
+            {
+                "charcode": "0x3157", 
+                "title": "HANGUL LETTER O"
+            }, 
+            {
+                "charcode": "0x3158", 
+                "title": "HANGUL LETTER WA"
+            }, 
+            {
+                "charcode": "0x3159", 
+                "title": "HANGUL LETTER WAE"
+            }, 
+            {
+                "charcode": "0x315a", 
+                "title": "HANGUL LETTER OE"
+            }, 
+            {
+                "charcode": "0x315b", 
+                "title": "HANGUL LETTER YO"
+            }, 
+            {
+                "charcode": "0x315c", 
+                "title": "HANGUL LETTER U"
+            }, 
+            {
+                "charcode": "0x315d", 
+                "title": "HANGUL LETTER WEO"
+            }, 
+            {
+                "charcode": "0x315e", 
+                "title": "HANGUL LETTER WE"
+            }, 
+            {
+                "charcode": "0x315f", 
+                "title": "HANGUL LETTER WI"
+            }, 
+            {
+                "charcode": "0x3160", 
+                "title": "HANGUL LETTER YU"
+            }, 
+            {
+                "charcode": "0x3161", 
+                "title": "HANGUL LETTER EU"
+            }, 
+            {
+                "charcode": "0x3162", 
+                "title": "HANGUL LETTER YI"
+            }, 
+            {
+                "charcode": "0x3163", 
+                "title": "HANGUL LETTER I"
+            }, 
+            {
+                "charcode": "0x3164", 
+                "title": "HANGUL FILLER"
+            }, 
+            {
+                "charcode": "0x3165", 
+                "title": "HANGUL LETTER SSANGNIEUN"
+            }, 
+            {
+                "charcode": "0x3166", 
+                "title": "HANGUL LETTER NIEUN-TIKEUT"
+            }, 
+            {
+                "charcode": "0x3167", 
+                "title": "HANGUL LETTER NIEUN-SIOS"
+            }, 
+            {
+                "charcode": "0x3168", 
+                "title": "HANGUL LETTER NIEUN-PANSIOS"
+            }, 
+            {
+                "charcode": "0x3169", 
+                "title": "HANGUL LETTER RIEUL-KIYEOK-SIOS"
+            }, 
+            {
+                "charcode": "0x316a", 
+                "title": "HANGUL LETTER RIEUL-TIKEUT"
+            }, 
+            {
+                "charcode": "0x316b", 
+                "title": "HANGUL LETTER RIEUL-PIEUP-SIOS"
+            }, 
+            {
+                "charcode": "0x316c", 
+                "title": "HANGUL LETTER RIEUL-PANSIOS"
+            }, 
+            {
+                "charcode": "0x316d", 
+                "title": "HANGUL LETTER RIEUL-YEORINHIEUH"
+            }, 
+            {
+                "charcode": "0x316e", 
+                "title": "HANGUL LETTER MIEUM-PIEUP"
+            }, 
+            {
+                "charcode": "0x316f", 
+                "title": "HANGUL LETTER MIEUM-SIOS"
+            }, 
+            {
+                "charcode": "0x3170", 
+                "title": "HANGUL LETTER MIEUM-PANSIOS"
+            }, 
+            {
+                "charcode": "0x3171", 
+                "title": "HANGUL LETTER KAPYEOUNMIEUM"
+            }, 
+            {
+                "charcode": "0x3172", 
+                "title": "HANGUL LETTER PIEUP-KIYEOK"
+            }, 
+            {
+                "charcode": "0x3173", 
+                "title": "HANGUL LETTER PIEUP-TIKEUT"
+            }, 
+            {
+                "charcode": "0x3174", 
+                "title": "HANGUL LETTER PIEUP-SIOS-KIYEOK"
+            }, 
+            {
+                "charcode": "0x3175", 
+                "title": "HANGUL LETTER PIEUP-SIOS-TIKEUT"
+            }, 
+            {
+                "charcode": "0x3176", 
+                "title": "HANGUL LETTER PIEUP-CIEUC"
+            }, 
+            {
+                "charcode": "0x3177", 
+                "title": "HANGUL LETTER PIEUP-THIEUTH"
+            }, 
+            {
+                "charcode": "0x3178", 
+                "title": "HANGUL LETTER KAPYEOUNPIEUP"
+            }, 
+            {
+                "charcode": "0x3179", 
+                "title": "HANGUL LETTER KAPYEOUNSSANGPIEUP"
+            }, 
+            {
+                "charcode": "0x317a", 
+                "title": "HANGUL LETTER SIOS-KIYEOK"
+            }, 
+            {
+                "charcode": "0x317b", 
+                "title": "HANGUL LETTER SIOS-NIEUN"
+            }, 
+            {
+                "charcode": "0x317c", 
+                "title": "HANGUL LETTER SIOS-TIKEUT"
+            }, 
+            {
+                "charcode": "0x317d", 
+                "title": "HANGUL LETTER SIOS-PIEUP"
+            }, 
+            {
+                "charcode": "0x317e", 
+                "title": "HANGUL LETTER SIOS-CIEUC"
+            }, 
+            {
+                "charcode": "0x317f", 
+                "title": "HANGUL LETTER PANSIOS"
+            }, 
+            {
+                "charcode": "0x3180", 
+                "title": "HANGUL LETTER SSANGIEUNG"
+            }, 
+            {
+                "charcode": "0x3181", 
+                "title": "HANGUL LETTER YESIEUNG"
+            }, 
+            {
+                "charcode": "0x3182", 
+                "title": "HANGUL LETTER YESIEUNG-SIOS"
+            }, 
+            {
+                "charcode": "0x3183", 
+                "title": "HANGUL LETTER YESIEUNG-PANSIOS"
+            }, 
+            {
+                "charcode": "0x3184", 
+                "title": "HANGUL LETTER KAPYEOUNPHIEUPH"
+            }, 
+            {
+                "charcode": "0x3185", 
+                "title": "HANGUL LETTER SSANGHIEUH"
+            }, 
+            {
+                "charcode": "0x3186", 
+                "title": "HANGUL LETTER YEORINHIEUH"
+            }, 
+            {
+                "charcode": "0x3187", 
+                "title": "HANGUL LETTER YO-YA"
+            }, 
+            {
+                "charcode": "0x3188", 
+                "title": "HANGUL LETTER YO-YAE"
+            }, 
+            {
+                "charcode": "0x3189", 
+                "title": "HANGUL LETTER YO-I"
+            }, 
+            {
+                "charcode": "0x318a", 
+                "title": "HANGUL LETTER YU-YEO"
+            }, 
+            {
+                "charcode": "0x318b", 
+                "title": "HANGUL LETTER YU-YE"
+            }, 
+            {
+                "charcode": "0x318c", 
+                "title": "HANGUL LETTER YU-I"
+            }, 
+            {
+                "charcode": "0x318d", 
+                "title": "HANGUL LETTER ARAEA"
+            }, 
+            {
+                "charcode": "0x318e", 
+                "title": "HANGUL LETTER ARAEAE"
+            }
+        ], 
+        "name": "Hangul Compatibility Jamo"
+    }
+]

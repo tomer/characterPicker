@@ -1,0 +1,1015 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x600", 
+                "title": "ARABIC NUMBER SIGN"
+            }, 
+            {
+                "charcode": "0x601", 
+                "title": "ARABIC SIGN SANAH"
+            }, 
+            {
+                "charcode": "0x602", 
+                "title": "ARABIC FOOTNOTE MARKER"
+            }, 
+            {
+                "charcode": "0x603", 
+                "title": "ARABIC SIGN SAFHA"
+            }, 
+            {
+                "charcode": "0x604", 
+                "title": "ARABIC SIGN SAMVAT"
+            }, 
+            {
+                "charcode": "0x606", 
+                "title": "ARABIC-INDIC CUBE ROOT"
+            }, 
+            {
+                "charcode": "0x607", 
+                "title": "ARABIC-INDIC FOURTH ROOT"
+            }, 
+            {
+                "charcode": "0x608", 
+                "title": "ARABIC RAY"
+            }, 
+            {
+                "charcode": "0x609", 
+                "title": "ARABIC-INDIC PER MILLE SIGN"
+            }, 
+            {
+                "charcode": "0x60a", 
+                "title": "ARABIC-INDIC PER TEN THOUSAND SIGN"
+            }, 
+            {
+                "charcode": "0x60b", 
+                "title": "AFGHANI SIGN"
+            }, 
+            {
+                "charcode": "0x60c", 
+                "title": "ARABIC COMMA"
+            }, 
+            {
+                "charcode": "0x60d", 
+                "title": "ARABIC DATE SEPARATOR"
+            }, 
+            {
+                "charcode": "0x60e", 
+                "title": "ARABIC POETIC VERSE SIGN"
+            }, 
+            {
+                "charcode": "0x60f", 
+                "title": "ARABIC SIGN MISRA"
+            }, 
+            {
+                "charcode": "0x610", 
+                "title": "ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM"
+            }, 
+            {
+                "charcode": "0x611", 
+                "title": "ARABIC SIGN ALAYHE ASSALLAM"
+            }, 
+            {
+                "charcode": "0x612", 
+                "title": "ARABIC SIGN RAHMATULLAH ALAYHE"
+            }, 
+            {
+                "charcode": "0x613", 
+                "title": "ARABIC SIGN RADI ALLAHOU ANHU"
+            }, 
+            {
+                "charcode": "0x614", 
+                "title": "ARABIC SIGN TAKHALLUS"
+            }, 
+            {
+                "charcode": "0x615", 
+                "title": "ARABIC SMALL HIGH TAH"
+            }, 
+            {
+                "charcode": "0x616", 
+                "title": "ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH"
+            }, 
+            {
+                "charcode": "0x617", 
+                "title": "ARABIC SMALL HIGH ZAIN"
+            }, 
+            {
+                "charcode": "0x618", 
+                "title": "ARABIC SMALL FATHA"
+            }, 
+            {
+                "charcode": "0x619", 
+                "title": "ARABIC SMALL DAMMA"
+            }, 
+            {
+                "charcode": "0x61a", 
+                "title": "ARABIC SMALL KASRA"
+            }, 
+            {
+                "charcode": "0x61b", 
+                "title": "ARABIC SEMICOLON"
+            }, 
+            {
+                "charcode": "0x61e", 
+                "title": "ARABIC TRIPLE DOT PUNCTUATION MARK"
+            }, 
+            {
+                "charcode": "0x61f", 
+                "title": "ARABIC QUESTION MARK"
+            }, 
+            {
+                "charcode": "0x620", 
+                "title": "ARABIC LETTER KASHMIRI YEH"
+            }, 
+            {
+                "charcode": "0x621", 
+                "title": "ARABIC LETTER HAMZA"
+            }, 
+            {
+                "charcode": "0x622", 
+                "title": "ARABIC LETTER ALEF WITH MADDA ABOVE"
+            }, 
+            {
+                "charcode": "0x623", 
+                "title": "ARABIC LETTER ALEF WITH HAMZA ABOVE"
+            }, 
+            {
+                "charcode": "0x624", 
+                "title": "ARABIC LETTER WAW WITH HAMZA ABOVE"
+            }, 
+            {
+                "charcode": "0x625", 
+                "title": "ARABIC LETTER ALEF WITH HAMZA BELOW"
+            }, 
+            {
+                "charcode": "0x626", 
+                "title": "ARABIC LETTER YEH WITH HAMZA ABOVE"
+            }, 
+            {
+                "charcode": "0x627", 
+                "title": "ARABIC LETTER ALEF"
+            }, 
+            {
+                "charcode": "0x628", 
+                "title": "ARABIC LETTER BEH"
+            }, 
+            {
+                "charcode": "0x629", 
+                "title": "ARABIC LETTER TEH MARBUTA"
+            }, 
+            {
+                "charcode": "0x62a", 
+                "title": "ARABIC LETTER TEH"
+            }, 
+            {
+                "charcode": "0x62b", 
+                "title": "ARABIC LETTER THEH"
+            }, 
+            {
+                "charcode": "0x62c", 
+                "title": "ARABIC LETTER JEEM"
+            }, 
+            {
+                "charcode": "0x62d", 
+                "title": "ARABIC LETTER HAH"
+            }, 
+            {
+                "charcode": "0x62e", 
+                "title": "ARABIC LETTER KHAH"
+            }, 
+            {
+                "charcode": "0x62f", 
+                "title": "ARABIC LETTER DAL"
+            }, 
+            {
+                "charcode": "0x630", 
+                "title": "ARABIC LETTER THAL"
+            }, 
+            {
+                "charcode": "0x631", 
+                "title": "ARABIC LETTER REH"
+            }, 
+            {
+                "charcode": "0x632", 
+                "title": "ARABIC LETTER ZAIN"
+            }, 
+            {
+                "charcode": "0x633", 
+                "title": "ARABIC LETTER SEEN"
+            }, 
+            {
+                "charcode": "0x634", 
+                "title": "ARABIC LETTER SHEEN"
+            }, 
+            {
+                "charcode": "0x635", 
+                "title": "ARABIC LETTER SAD"
+            }, 
+            {
+                "charcode": "0x636", 
+                "title": "ARABIC LETTER DAD"
+            }, 
+            {
+                "charcode": "0x637", 
+                "title": "ARABIC LETTER TAH"
+            }, 
+            {
+                "charcode": "0x638", 
+                "title": "ARABIC LETTER ZAH"
+            }, 
+            {
+                "charcode": "0x639", 
+                "title": "ARABIC LETTER AIN"
+            }, 
+            {
+                "charcode": "0x63a", 
+                "title": "ARABIC LETTER GHAIN"
+            }, 
+            {
+                "charcode": "0x63b", 
+                "title": "ARABIC LETTER KEHEH WITH TWO DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x63c", 
+                "title": "ARABIC LETTER KEHEH WITH THREE DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x63d", 
+                "title": "ARABIC LETTER FARSI YEH WITH INVERTED V"
+            }, 
+            {
+                "charcode": "0x63e", 
+                "title": "ARABIC LETTER FARSI YEH WITH TWO DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x63f", 
+                "title": "ARABIC LETTER FARSI YEH WITH THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x640", 
+                "title": "ARABIC TATWEEL"
+            }, 
+            {
+                "charcode": "0x641", 
+                "title": "ARABIC LETTER FEH"
+            }, 
+            {
+                "charcode": "0x642", 
+                "title": "ARABIC LETTER QAF"
+            }, 
+            {
+                "charcode": "0x643", 
+                "title": "ARABIC LETTER KAF"
+            }, 
+            {
+                "charcode": "0x644", 
+                "title": "ARABIC LETTER LAM"
+            }, 
+            {
+                "charcode": "0x645", 
+                "title": "ARABIC LETTER MEEM"
+            }, 
+            {
+                "charcode": "0x646", 
+                "title": "ARABIC LETTER NOON"
+            }, 
+            {
+                "charcode": "0x647", 
+                "title": "ARABIC LETTER HEH"
+            }, 
+            {
+                "charcode": "0x648", 
+                "title": "ARABIC LETTER WAW"
+            }, 
+            {
+                "charcode": "0x649", 
+                "title": "ARABIC LETTER ALEF MAKSURA"
+            }, 
+            {
+                "charcode": "0x64a", 
+                "title": "ARABIC LETTER YEH"
+            }, 
+            {
+                "charcode": "0x64b", 
+                "title": "ARABIC FATHATAN"
+            }, 
+            {
+                "charcode": "0x64c", 
+                "title": "ARABIC DAMMATAN"
+            }, 
+            {
+                "charcode": "0x64d", 
+                "title": "ARABIC KASRATAN"
+            }, 
+            {
+                "charcode": "0x64e", 
+                "title": "ARABIC FATHA"
+            }, 
+            {
+                "charcode": "0x64f", 
+                "title": "ARABIC DAMMA"
+            }, 
+            {
+                "charcode": "0x650", 
+                "title": "ARABIC KASRA"
+            }, 
+            {
+                "charcode": "0x651", 
+                "title": "ARABIC SHADDA"
+            }, 
+            {
+                "charcode": "0x652", 
+                "title": "ARABIC SUKUN"
+            }, 
+            {
+                "charcode": "0x653", 
+                "title": "ARABIC MADDAH ABOVE"
+            }, 
+            {
+                "charcode": "0x654", 
+                "title": "ARABIC HAMZA ABOVE"
+            }, 
+            {
+                "charcode": "0x655", 
+                "title": "ARABIC HAMZA BELOW"
+            }, 
+            {
+                "charcode": "0x656", 
+                "title": "ARABIC SUBSCRIPT ALEF"
+            }, 
+            {
+                "charcode": "0x657", 
+                "title": "ARABIC INVERTED DAMMA"
+            }, 
+            {
+                "charcode": "0x658", 
+                "title": "ARABIC MARK NOON GHUNNA"
+            }, 
+            {
+                "charcode": "0x659", 
+                "title": "ARABIC ZWARAKAY"
+            }, 
+            {
+                "charcode": "0x65a", 
+                "title": "ARABIC VOWEL SIGN SMALL V ABOVE"
+            }, 
+            {
+                "charcode": "0x65b", 
+                "title": "ARABIC VOWEL SIGN INVERTED SMALL V ABOVE"
+            }, 
+            {
+                "charcode": "0x65c", 
+                "title": "ARABIC VOWEL SIGN DOT BELOW"
+            }, 
+            {
+                "charcode": "0x65d", 
+                "title": "ARABIC REVERSED DAMMA"
+            }, 
+            {
+                "charcode": "0x65e", 
+                "title": "ARABIC FATHA WITH TWO DOTS"
+            }, 
+            {
+                "charcode": "0x65f", 
+                "title": "ARABIC WAVY HAMZA BELOW"
+            }, 
+            {
+                "charcode": "0x660", 
+                "title": "ARABIC-INDIC DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x661", 
+                "title": "ARABIC-INDIC DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x662", 
+                "title": "ARABIC-INDIC DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x663", 
+                "title": "ARABIC-INDIC DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x664", 
+                "title": "ARABIC-INDIC DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x665", 
+                "title": "ARABIC-INDIC DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x666", 
+                "title": "ARABIC-INDIC DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x667", 
+                "title": "ARABIC-INDIC DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x668", 
+                "title": "ARABIC-INDIC DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x669", 
+                "title": "ARABIC-INDIC DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x66a", 
+                "title": "ARABIC PERCENT SIGN"
+            }, 
+            {
+                "charcode": "0x66b", 
+                "title": "ARABIC DECIMAL SEPARATOR"
+            }, 
+            {
+                "charcode": "0x66c", 
+                "title": "ARABIC THOUSANDS SEPARATOR"
+            }, 
+            {
+                "charcode": "0x66d", 
+                "title": "ARABIC FIVE POINTED STAR"
+            }, 
+            {
+                "charcode": "0x66e", 
+                "title": "ARABIC LETTER DOTLESS BEH"
+            }, 
+            {
+                "charcode": "0x66f", 
+                "title": "ARABIC LETTER DOTLESS QAF"
+            }, 
+            {
+                "charcode": "0x670", 
+                "title": "ARABIC LETTER SUPERSCRIPT ALEF"
+            }, 
+            {
+                "charcode": "0x671", 
+                "title": "ARABIC LETTER ALEF WASLA"
+            }, 
+            {
+                "charcode": "0x672", 
+                "title": "ARABIC LETTER ALEF WITH WAVY HAMZA ABOVE"
+            }, 
+            {
+                "charcode": "0x673", 
+                "title": "ARABIC LETTER ALEF WITH WAVY HAMZA BELOW"
+            }, 
+            {
+                "charcode": "0x674", 
+                "title": "ARABIC LETTER HIGH HAMZA"
+            }, 
+            {
+                "charcode": "0x675", 
+                "title": "ARABIC LETTER HIGH HAMZA ALEF"
+            }, 
+            {
+                "charcode": "0x676", 
+                "title": "ARABIC LETTER HIGH HAMZA WAW"
+            }, 
+            {
+                "charcode": "0x677", 
+                "title": "ARABIC LETTER U WITH HAMZA ABOVE"
+            }, 
+            {
+                "charcode": "0x678", 
+                "title": "ARABIC LETTER HIGH HAMZA YEH"
+            }, 
+            {
+                "charcode": "0x679", 
+                "title": "ARABIC LETTER TTEH"
+            }, 
+            {
+                "charcode": "0x67a", 
+                "title": "ARABIC LETTER TTEHEH"
+            }, 
+            {
+                "charcode": "0x67b", 
+                "title": "ARABIC LETTER BEEH"
+            }, 
+            {
+                "charcode": "0x67c", 
+                "title": "ARABIC LETTER TEH WITH RING"
+            }, 
+            {
+                "charcode": "0x67d", 
+                "title": "ARABIC LETTER TEH WITH THREE DOTS ABOVE DOWNWARDS"
+            }, 
+            {
+                "charcode": "0x67e", 
+                "title": "ARABIC LETTER PEH"
+            }, 
+            {
+                "charcode": "0x67f", 
+                "title": "ARABIC LETTER TEHEH"
+            }, 
+            {
+                "charcode": "0x680", 
+                "title": "ARABIC LETTER BEHEH"
+            }, 
+            {
+                "charcode": "0x681", 
+                "title": "ARABIC LETTER HAH WITH HAMZA ABOVE"
+            }, 
+            {
+                "charcode": "0x682", 
+                "title": "ARABIC LETTER HAH WITH TWO DOTS VERTICAL ABOVE"
+            }, 
+            {
+                "charcode": "0x683", 
+                "title": "ARABIC LETTER NYEH"
+            }, 
+            {
+                "charcode": "0x684", 
+                "title": "ARABIC LETTER DYEH"
+            }, 
+            {
+                "charcode": "0x685", 
+                "title": "ARABIC LETTER HAH WITH THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x686", 
+                "title": "ARABIC LETTER TCHEH"
+            }, 
+            {
+                "charcode": "0x687", 
+                "title": "ARABIC LETTER TCHEHEH"
+            }, 
+            {
+                "charcode": "0x688", 
+                "title": "ARABIC LETTER DDAL"
+            }, 
+            {
+                "charcode": "0x689", 
+                "title": "ARABIC LETTER DAL WITH RING"
+            }, 
+            {
+                "charcode": "0x68a", 
+                "title": "ARABIC LETTER DAL WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x68b", 
+                "title": "ARABIC LETTER DAL WITH DOT BELOW AND SMALL TAH"
+            }, 
+            {
+                "charcode": "0x68c", 
+                "title": "ARABIC LETTER DAHAL"
+            }, 
+            {
+                "charcode": "0x68d", 
+                "title": "ARABIC LETTER DDAHAL"
+            }, 
+            {
+                "charcode": "0x68e", 
+                "title": "ARABIC LETTER DUL"
+            }, 
+            {
+                "charcode": "0x68f", 
+                "title": "ARABIC LETTER DAL WITH THREE DOTS ABOVE DOWNWARDS"
+            }, 
+            {
+                "charcode": "0x690", 
+                "title": "ARABIC LETTER DAL WITH FOUR DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x691", 
+                "title": "ARABIC LETTER RREH"
+            }, 
+            {
+                "charcode": "0x692", 
+                "title": "ARABIC LETTER REH WITH SMALL V"
+            }, 
+            {
+                "charcode": "0x693", 
+                "title": "ARABIC LETTER REH WITH RING"
+            }, 
+            {
+                "charcode": "0x694", 
+                "title": "ARABIC LETTER REH WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x695", 
+                "title": "ARABIC LETTER REH WITH SMALL V BELOW"
+            }, 
+            {
+                "charcode": "0x696", 
+                "title": "ARABIC LETTER REH WITH DOT BELOW AND DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x697", 
+                "title": "ARABIC LETTER REH WITH TWO DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x698", 
+                "title": "ARABIC LETTER JEH"
+            }, 
+            {
+                "charcode": "0x699", 
+                "title": "ARABIC LETTER REH WITH FOUR DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x69a", 
+                "title": "ARABIC LETTER SEEN WITH DOT BELOW AND DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x69b", 
+                "title": "ARABIC LETTER SEEN WITH THREE DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x69c", 
+                "title": "ARABIC LETTER SEEN WITH THREE DOTS BELOW AND THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x69d", 
+                "title": "ARABIC LETTER SAD WITH TWO DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x69e", 
+                "title": "ARABIC LETTER SAD WITH THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x69f", 
+                "title": "ARABIC LETTER TAH WITH THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x6a0", 
+                "title": "ARABIC LETTER AIN WITH THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x6a1", 
+                "title": "ARABIC LETTER DOTLESS FEH"
+            }, 
+            {
+                "charcode": "0x6a2", 
+                "title": "ARABIC LETTER FEH WITH DOT MOVED BELOW"
+            }, 
+            {
+                "charcode": "0x6a3", 
+                "title": "ARABIC LETTER FEH WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x6a4", 
+                "title": "ARABIC LETTER VEH"
+            }, 
+            {
+                "charcode": "0x6a5", 
+                "title": "ARABIC LETTER FEH WITH THREE DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x6a6", 
+                "title": "ARABIC LETTER PEHEH"
+            }, 
+            {
+                "charcode": "0x6a7", 
+                "title": "ARABIC LETTER QAF WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x6a8", 
+                "title": "ARABIC LETTER QAF WITH THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x6a9", 
+                "title": "ARABIC LETTER KEHEH"
+            }, 
+            {
+                "charcode": "0x6aa", 
+                "title": "ARABIC LETTER SWASH KAF"
+            }, 
+            {
+                "charcode": "0x6ab", 
+                "title": "ARABIC LETTER KAF WITH RING"
+            }, 
+            {
+                "charcode": "0x6ac", 
+                "title": "ARABIC LETTER KAF WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x6ad", 
+                "title": "ARABIC LETTER NG"
+            }, 
+            {
+                "charcode": "0x6ae", 
+                "title": "ARABIC LETTER KAF WITH THREE DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x6af", 
+                "title": "ARABIC LETTER GAF"
+            }, 
+            {
+                "charcode": "0x6b0", 
+                "title": "ARABIC LETTER GAF WITH RING"
+            }, 
+            {
+                "charcode": "0x6b1", 
+                "title": "ARABIC LETTER NGOEH"
+            }, 
+            {
+                "charcode": "0x6b2", 
+                "title": "ARABIC LETTER GAF WITH TWO DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x6b3", 
+                "title": "ARABIC LETTER GUEH"
+            }, 
+            {
+                "charcode": "0x6b4", 
+                "title": "ARABIC LETTER GAF WITH THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x6b5", 
+                "title": "ARABIC LETTER LAM WITH SMALL V"
+            }, 
+            {
+                "charcode": "0x6b6", 
+                "title": "ARABIC LETTER LAM WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x6b7", 
+                "title": "ARABIC LETTER LAM WITH THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x6b8", 
+                "title": "ARABIC LETTER LAM WITH THREE DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x6b9", 
+                "title": "ARABIC LETTER NOON WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x6ba", 
+                "title": "ARABIC LETTER NOON GHUNNA"
+            }, 
+            {
+                "charcode": "0x6bb", 
+                "title": "ARABIC LETTER RNOON"
+            }, 
+            {
+                "charcode": "0x6bc", 
+                "title": "ARABIC LETTER NOON WITH RING"
+            }, 
+            {
+                "charcode": "0x6bd", 
+                "title": "ARABIC LETTER NOON WITH THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x6be", 
+                "title": "ARABIC LETTER HEH DOACHASHMEE"
+            }, 
+            {
+                "charcode": "0x6bf", 
+                "title": "ARABIC LETTER TCHEH WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x6c0", 
+                "title": "ARABIC LETTER HEH WITH YEH ABOVE"
+            }, 
+            {
+                "charcode": "0x6c1", 
+                "title": "ARABIC LETTER HEH GOAL"
+            }, 
+            {
+                "charcode": "0x6c2", 
+                "title": "ARABIC LETTER HEH GOAL WITH HAMZA ABOVE"
+            }, 
+            {
+                "charcode": "0x6c3", 
+                "title": "ARABIC LETTER TEH MARBUTA GOAL"
+            }, 
+            {
+                "charcode": "0x6c4", 
+                "title": "ARABIC LETTER WAW WITH RING"
+            }, 
+            {
+                "charcode": "0x6c5", 
+                "title": "ARABIC LETTER KIRGHIZ OE"
+            }, 
+            {
+                "charcode": "0x6c6", 
+                "title": "ARABIC LETTER OE"
+            }, 
+            {
+                "charcode": "0x6c7", 
+                "title": "ARABIC LETTER U"
+            }, 
+            {
+                "charcode": "0x6c8", 
+                "title": "ARABIC LETTER YU"
+            }, 
+            {
+                "charcode": "0x6c9", 
+                "title": "ARABIC LETTER KIRGHIZ YU"
+            }, 
+            {
+                "charcode": "0x6ca", 
+                "title": "ARABIC LETTER WAW WITH TWO DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x6cb", 
+                "title": "ARABIC LETTER VE"
+            }, 
+            {
+                "charcode": "0x6cc", 
+                "title": "ARABIC LETTER FARSI YEH"
+            }, 
+            {
+                "charcode": "0x6cd", 
+                "title": "ARABIC LETTER YEH WITH TAIL"
+            }, 
+            {
+                "charcode": "0x6ce", 
+                "title": "ARABIC LETTER YEH WITH SMALL V"
+            }, 
+            {
+                "charcode": "0x6cf", 
+                "title": "ARABIC LETTER WAW WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x6d0", 
+                "title": "ARABIC LETTER E"
+            }, 
+            {
+                "charcode": "0x6d1", 
+                "title": "ARABIC LETTER YEH WITH THREE DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x6d2", 
+                "title": "ARABIC LETTER YEH BARREE"
+            }, 
+            {
+                "charcode": "0x6d3", 
+                "title": "ARABIC LETTER YEH BARREE WITH HAMZA ABOVE"
+            }, 
+            {
+                "charcode": "0x6d4", 
+                "title": "ARABIC FULL STOP"
+            }, 
+            {
+                "charcode": "0x6d5", 
+                "title": "ARABIC LETTER AE"
+            }, 
+            {
+                "charcode": "0x6d6", 
+                "title": "ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA"
+            }, 
+            {
+                "charcode": "0x6d7", 
+                "title": "ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA"
+            }, 
+            {
+                "charcode": "0x6d8", 
+                "title": "ARABIC SMALL HIGH MEEM INITIAL FORM"
+            }, 
+            {
+                "charcode": "0x6d9", 
+                "title": "ARABIC SMALL HIGH LAM ALEF"
+            }, 
+            {
+                "charcode": "0x6da", 
+                "title": "ARABIC SMALL HIGH JEEM"
+            }, 
+            {
+                "charcode": "0x6db", 
+                "title": "ARABIC SMALL HIGH THREE DOTS"
+            }, 
+            {
+                "charcode": "0x6dc", 
+                "title": "ARABIC SMALL HIGH SEEN"
+            }, 
+            {
+                "charcode": "0x6dd", 
+                "title": "ARABIC END OF AYAH"
+            }, 
+            {
+                "charcode": "0x6de", 
+                "title": "ARABIC START OF RUB EL HIZB"
+            }, 
+            {
+                "charcode": "0x6df", 
+                "title": "ARABIC SMALL HIGH ROUNDED ZERO"
+            }, 
+            {
+                "charcode": "0x6e0", 
+                "title": "ARABIC SMALL HIGH UPRIGHT RECTANGULAR ZERO"
+            }, 
+            {
+                "charcode": "0x6e1", 
+                "title": "ARABIC SMALL HIGH DOTLESS HEAD OF KHAH"
+            }, 
+            {
+                "charcode": "0x6e2", 
+                "title": "ARABIC SMALL HIGH MEEM ISOLATED FORM"
+            }, 
+            {
+                "charcode": "0x6e3", 
+                "title": "ARABIC SMALL LOW SEEN"
+            }, 
+            {
+                "charcode": "0x6e4", 
+                "title": "ARABIC SMALL HIGH MADDA"
+            }, 
+            {
+                "charcode": "0x6e5", 
+                "title": "ARABIC SMALL WAW"
+            }, 
+            {
+                "charcode": "0x6e6", 
+                "title": "ARABIC SMALL YEH"
+            }, 
+            {
+                "charcode": "0x6e7", 
+                "title": "ARABIC SMALL HIGH YEH"
+            }, 
+            {
+                "charcode": "0x6e8", 
+                "title": "ARABIC SMALL HIGH NOON"
+            }, 
+            {
+                "charcode": "0x6e9", 
+                "title": "ARABIC PLACE OF SAJDAH"
+            }, 
+            {
+                "charcode": "0x6ea", 
+                "title": "ARABIC EMPTY CENTRE LOW STOP"
+            }, 
+            {
+                "charcode": "0x6eb", 
+                "title": "ARABIC EMPTY CENTRE HIGH STOP"
+            }, 
+            {
+                "charcode": "0x6ec", 
+                "title": "ARABIC ROUNDED HIGH STOP WITH FILLED CENTRE"
+            }, 
+            {
+                "charcode": "0x6ed", 
+                "title": "ARABIC SMALL LOW MEEM"
+            }, 
+            {
+                "charcode": "0x6ee", 
+                "title": "ARABIC LETTER DAL WITH INVERTED V"
+            }, 
+            {
+                "charcode": "0x6ef", 
+                "title": "ARABIC LETTER REH WITH INVERTED V"
+            }, 
+            {
+                "charcode": "0x6f0", 
+                "title": "EXTENDED ARABIC-INDIC DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x6f1", 
+                "title": "EXTENDED ARABIC-INDIC DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x6f2", 
+                "title": "EXTENDED ARABIC-INDIC DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x6f3", 
+                "title": "EXTENDED ARABIC-INDIC DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x6f4", 
+                "title": "EXTENDED ARABIC-INDIC DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x6f5", 
+                "title": "EXTENDED ARABIC-INDIC DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x6f6", 
+                "title": "EXTENDED ARABIC-INDIC DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x6f7", 
+                "title": "EXTENDED ARABIC-INDIC DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x6f8", 
+                "title": "EXTENDED ARABIC-INDIC DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x6f9", 
+                "title": "EXTENDED ARABIC-INDIC DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x6fa", 
+                "title": "ARABIC LETTER SHEEN WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x6fb", 
+                "title": "ARABIC LETTER DAD WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x6fc", 
+                "title": "ARABIC LETTER GHAIN WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x6fd", 
+                "title": "ARABIC SIGN SINDHI AMPERSAND"
+            }, 
+            {
+                "charcode": "0x6fe", 
+                "title": "ARABIC SIGN SINDHI POSTPOSITION MEN"
+            }
+        ], 
+        "name": "Arabic"
+    }
+]

@@ -1,0 +1,335 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xaa00", 
+                "title": "CHAM LETTER A"
+            }, 
+            {
+                "charcode": "0xaa01", 
+                "title": "CHAM LETTER I"
+            }, 
+            {
+                "charcode": "0xaa02", 
+                "title": "CHAM LETTER U"
+            }, 
+            {
+                "charcode": "0xaa03", 
+                "title": "CHAM LETTER E"
+            }, 
+            {
+                "charcode": "0xaa04", 
+                "title": "CHAM LETTER AI"
+            }, 
+            {
+                "charcode": "0xaa05", 
+                "title": "CHAM LETTER O"
+            }, 
+            {
+                "charcode": "0xaa06", 
+                "title": "CHAM LETTER KA"
+            }, 
+            {
+                "charcode": "0xaa07", 
+                "title": "CHAM LETTER KHA"
+            }, 
+            {
+                "charcode": "0xaa08", 
+                "title": "CHAM LETTER GA"
+            }, 
+            {
+                "charcode": "0xaa09", 
+                "title": "CHAM LETTER GHA"
+            }, 
+            {
+                "charcode": "0xaa0a", 
+                "title": "CHAM LETTER NGUE"
+            }, 
+            {
+                "charcode": "0xaa0b", 
+                "title": "CHAM LETTER NGA"
+            }, 
+            {
+                "charcode": "0xaa0c", 
+                "title": "CHAM LETTER CHA"
+            }, 
+            {
+                "charcode": "0xaa0d", 
+                "title": "CHAM LETTER CHHA"
+            }, 
+            {
+                "charcode": "0xaa0e", 
+                "title": "CHAM LETTER JA"
+            }, 
+            {
+                "charcode": "0xaa0f", 
+                "title": "CHAM LETTER JHA"
+            }, 
+            {
+                "charcode": "0xaa10", 
+                "title": "CHAM LETTER NHUE"
+            }, 
+            {
+                "charcode": "0xaa11", 
+                "title": "CHAM LETTER NHA"
+            }, 
+            {
+                "charcode": "0xaa12", 
+                "title": "CHAM LETTER NHJA"
+            }, 
+            {
+                "charcode": "0xaa13", 
+                "title": "CHAM LETTER TA"
+            }, 
+            {
+                "charcode": "0xaa14", 
+                "title": "CHAM LETTER THA"
+            }, 
+            {
+                "charcode": "0xaa15", 
+                "title": "CHAM LETTER DA"
+            }, 
+            {
+                "charcode": "0xaa16", 
+                "title": "CHAM LETTER DHA"
+            }, 
+            {
+                "charcode": "0xaa17", 
+                "title": "CHAM LETTER NUE"
+            }, 
+            {
+                "charcode": "0xaa18", 
+                "title": "CHAM LETTER NA"
+            }, 
+            {
+                "charcode": "0xaa19", 
+                "title": "CHAM LETTER DDA"
+            }, 
+            {
+                "charcode": "0xaa1a", 
+                "title": "CHAM LETTER PA"
+            }, 
+            {
+                "charcode": "0xaa1b", 
+                "title": "CHAM LETTER PPA"
+            }, 
+            {
+                "charcode": "0xaa1c", 
+                "title": "CHAM LETTER PHA"
+            }, 
+            {
+                "charcode": "0xaa1d", 
+                "title": "CHAM LETTER BA"
+            }, 
+            {
+                "charcode": "0xaa1e", 
+                "title": "CHAM LETTER BHA"
+            }, 
+            {
+                "charcode": "0xaa1f", 
+                "title": "CHAM LETTER MUE"
+            }, 
+            {
+                "charcode": "0xaa20", 
+                "title": "CHAM LETTER MA"
+            }, 
+            {
+                "charcode": "0xaa21", 
+                "title": "CHAM LETTER BBA"
+            }, 
+            {
+                "charcode": "0xaa22", 
+                "title": "CHAM LETTER YA"
+            }, 
+            {
+                "charcode": "0xaa23", 
+                "title": "CHAM LETTER RA"
+            }, 
+            {
+                "charcode": "0xaa24", 
+                "title": "CHAM LETTER LA"
+            }, 
+            {
+                "charcode": "0xaa25", 
+                "title": "CHAM LETTER VA"
+            }, 
+            {
+                "charcode": "0xaa26", 
+                "title": "CHAM LETTER SSA"
+            }, 
+            {
+                "charcode": "0xaa27", 
+                "title": "CHAM LETTER SA"
+            }, 
+            {
+                "charcode": "0xaa28", 
+                "title": "CHAM LETTER HA"
+            }, 
+            {
+                "charcode": "0xaa29", 
+                "title": "CHAM VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0xaa2a", 
+                "title": "CHAM VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0xaa2b", 
+                "title": "CHAM VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0xaa2c", 
+                "title": "CHAM VOWEL SIGN EI"
+            }, 
+            {
+                "charcode": "0xaa2d", 
+                "title": "CHAM VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0xaa2e", 
+                "title": "CHAM VOWEL SIGN OE"
+            }, 
+            {
+                "charcode": "0xaa2f", 
+                "title": "CHAM VOWEL SIGN O"
+            }, 
+            {
+                "charcode": "0xaa30", 
+                "title": "CHAM VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0xaa31", 
+                "title": "CHAM VOWEL SIGN AU"
+            }, 
+            {
+                "charcode": "0xaa32", 
+                "title": "CHAM VOWEL SIGN UE"
+            }, 
+            {
+                "charcode": "0xaa33", 
+                "title": "CHAM CONSONANT SIGN YA"
+            }, 
+            {
+                "charcode": "0xaa34", 
+                "title": "CHAM CONSONANT SIGN RA"
+            }, 
+            {
+                "charcode": "0xaa35", 
+                "title": "CHAM CONSONANT SIGN LA"
+            }, 
+            {
+                "charcode": "0xaa36", 
+                "title": "CHAM CONSONANT SIGN WA"
+            }, 
+            {
+                "charcode": "0xaa40", 
+                "title": "CHAM LETTER FINAL K"
+            }, 
+            {
+                "charcode": "0xaa41", 
+                "title": "CHAM LETTER FINAL G"
+            }, 
+            {
+                "charcode": "0xaa42", 
+                "title": "CHAM LETTER FINAL NG"
+            }, 
+            {
+                "charcode": "0xaa43", 
+                "title": "CHAM CONSONANT SIGN FINAL NG"
+            }, 
+            {
+                "charcode": "0xaa44", 
+                "title": "CHAM LETTER FINAL CH"
+            }, 
+            {
+                "charcode": "0xaa45", 
+                "title": "CHAM LETTER FINAL T"
+            }, 
+            {
+                "charcode": "0xaa46", 
+                "title": "CHAM LETTER FINAL N"
+            }, 
+            {
+                "charcode": "0xaa47", 
+                "title": "CHAM LETTER FINAL P"
+            }, 
+            {
+                "charcode": "0xaa48", 
+                "title": "CHAM LETTER FINAL Y"
+            }, 
+            {
+                "charcode": "0xaa49", 
+                "title": "CHAM LETTER FINAL R"
+            }, 
+            {
+                "charcode": "0xaa4a", 
+                "title": "CHAM LETTER FINAL L"
+            }, 
+            {
+                "charcode": "0xaa4b", 
+                "title": "CHAM LETTER FINAL SS"
+            }, 
+            {
+                "charcode": "0xaa4c", 
+                "title": "CHAM CONSONANT SIGN FINAL M"
+            }, 
+            {
+                "charcode": "0xaa4d", 
+                "title": "CHAM CONSONANT SIGN FINAL H"
+            }, 
+            {
+                "charcode": "0xaa50", 
+                "title": "CHAM DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0xaa51", 
+                "title": "CHAM DIGIT ONE"
+            }, 
+            {
+                "charcode": "0xaa52", 
+                "title": "CHAM DIGIT TWO"
+            }, 
+            {
+                "charcode": "0xaa53", 
+                "title": "CHAM DIGIT THREE"
+            }, 
+            {
+                "charcode": "0xaa54", 
+                "title": "CHAM DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0xaa55", 
+                "title": "CHAM DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0xaa56", 
+                "title": "CHAM DIGIT SIX"
+            }, 
+            {
+                "charcode": "0xaa57", 
+                "title": "CHAM DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0xaa58", 
+                "title": "CHAM DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0xaa59", 
+                "title": "CHAM DIGIT NINE"
+            }, 
+            {
+                "charcode": "0xaa5c", 
+                "title": "CHAM PUNCTUATION SPIRAL"
+            }, 
+            {
+                "charcode": "0xaa5d", 
+                "title": "CHAM PUNCTUATION DANDA"
+            }, 
+            {
+                "charcode": "0xaa5e", 
+                "title": "CHAM PUNCTUATION DOUBLE DANDA"
+            }
+        ], 
+        "name": "Cham"
+    }
+]

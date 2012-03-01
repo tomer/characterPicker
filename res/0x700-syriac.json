@@ -1,0 +1,311 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x700", 
+                "title": "SYRIAC END OF PARAGRAPH"
+            }, 
+            {
+                "charcode": "0x701", 
+                "title": "SYRIAC SUPRALINEAR FULL STOP"
+            }, 
+            {
+                "charcode": "0x702", 
+                "title": "SYRIAC SUBLINEAR FULL STOP"
+            }, 
+            {
+                "charcode": "0x703", 
+                "title": "SYRIAC SUPRALINEAR COLON"
+            }, 
+            {
+                "charcode": "0x704", 
+                "title": "SYRIAC SUBLINEAR COLON"
+            }, 
+            {
+                "charcode": "0x705", 
+                "title": "SYRIAC HORIZONTAL COLON"
+            }, 
+            {
+                "charcode": "0x706", 
+                "title": "SYRIAC COLON SKEWED LEFT"
+            }, 
+            {
+                "charcode": "0x707", 
+                "title": "SYRIAC COLON SKEWED RIGHT"
+            }, 
+            {
+                "charcode": "0x708", 
+                "title": "SYRIAC SUPRALINEAR COLON SKEWED LEFT"
+            }, 
+            {
+                "charcode": "0x709", 
+                "title": "SYRIAC SUBLINEAR COLON SKEWED RIGHT"
+            }, 
+            {
+                "charcode": "0x70a", 
+                "title": "SYRIAC CONTRACTION"
+            }, 
+            {
+                "charcode": "0x70b", 
+                "title": "SYRIAC HARKLEAN OBELUS"
+            }, 
+            {
+                "charcode": "0x70c", 
+                "title": "SYRIAC HARKLEAN METOBELUS"
+            }, 
+            {
+                "charcode": "0x70d", 
+                "title": "SYRIAC HARKLEAN ASTERISCUS"
+            }, 
+            {
+                "charcode": "0x70f", 
+                "title": "SYRIAC ABBREVIATION MARK"
+            }, 
+            {
+                "charcode": "0x710", 
+                "title": "SYRIAC LETTER ALAPH"
+            }, 
+            {
+                "charcode": "0x711", 
+                "title": "SYRIAC LETTER SUPERSCRIPT ALAPH"
+            }, 
+            {
+                "charcode": "0x712", 
+                "title": "SYRIAC LETTER BETH"
+            }, 
+            {
+                "charcode": "0x713", 
+                "title": "SYRIAC LETTER GAMAL"
+            }, 
+            {
+                "charcode": "0x714", 
+                "title": "SYRIAC LETTER GAMAL GARSHUNI"
+            }, 
+            {
+                "charcode": "0x715", 
+                "title": "SYRIAC LETTER DALATH"
+            }, 
+            {
+                "charcode": "0x716", 
+                "title": "SYRIAC LETTER DOTLESS DALATH RISH"
+            }, 
+            {
+                "charcode": "0x717", 
+                "title": "SYRIAC LETTER HE"
+            }, 
+            {
+                "charcode": "0x718", 
+                "title": "SYRIAC LETTER WAW"
+            }, 
+            {
+                "charcode": "0x719", 
+                "title": "SYRIAC LETTER ZAIN"
+            }, 
+            {
+                "charcode": "0x71a", 
+                "title": "SYRIAC LETTER HETH"
+            }, 
+            {
+                "charcode": "0x71b", 
+                "title": "SYRIAC LETTER TETH"
+            }, 
+            {
+                "charcode": "0x71c", 
+                "title": "SYRIAC LETTER TETH GARSHUNI"
+            }, 
+            {
+                "charcode": "0x71d", 
+                "title": "SYRIAC LETTER YUDH"
+            }, 
+            {
+                "charcode": "0x71e", 
+                "title": "SYRIAC LETTER YUDH HE"
+            }, 
+            {
+                "charcode": "0x71f", 
+                "title": "SYRIAC LETTER KAPH"
+            }, 
+            {
+                "charcode": "0x720", 
+                "title": "SYRIAC LETTER LAMADH"
+            }, 
+            {
+                "charcode": "0x721", 
+                "title": "SYRIAC LETTER MIM"
+            }, 
+            {
+                "charcode": "0x722", 
+                "title": "SYRIAC LETTER NUN"
+            }, 
+            {
+                "charcode": "0x723", 
+                "title": "SYRIAC LETTER SEMKATH"
+            }, 
+            {
+                "charcode": "0x724", 
+                "title": "SYRIAC LETTER FINAL SEMKATH"
+            }, 
+            {
+                "charcode": "0x725", 
+                "title": "SYRIAC LETTER E"
+            }, 
+            {
+                "charcode": "0x726", 
+                "title": "SYRIAC LETTER PE"
+            }, 
+            {
+                "charcode": "0x727", 
+                "title": "SYRIAC LETTER REVERSED PE"
+            }, 
+            {
+                "charcode": "0x728", 
+                "title": "SYRIAC LETTER SADHE"
+            }, 
+            {
+                "charcode": "0x729", 
+                "title": "SYRIAC LETTER QAPH"
+            }, 
+            {
+                "charcode": "0x72a", 
+                "title": "SYRIAC LETTER RISH"
+            }, 
+            {
+                "charcode": "0x72b", 
+                "title": "SYRIAC LETTER SHIN"
+            }, 
+            {
+                "charcode": "0x72c", 
+                "title": "SYRIAC LETTER TAW"
+            }, 
+            {
+                "charcode": "0x72d", 
+                "title": "SYRIAC LETTER PERSIAN BHETH"
+            }, 
+            {
+                "charcode": "0x72e", 
+                "title": "SYRIAC LETTER PERSIAN GHAMAL"
+            }, 
+            {
+                "charcode": "0x72f", 
+                "title": "SYRIAC LETTER PERSIAN DHALATH"
+            }, 
+            {
+                "charcode": "0x730", 
+                "title": "SYRIAC PTHAHA ABOVE"
+            }, 
+            {
+                "charcode": "0x731", 
+                "title": "SYRIAC PTHAHA BELOW"
+            }, 
+            {
+                "charcode": "0x732", 
+                "title": "SYRIAC PTHAHA DOTTED"
+            }, 
+            {
+                "charcode": "0x733", 
+                "title": "SYRIAC ZQAPHA ABOVE"
+            }, 
+            {
+                "charcode": "0x734", 
+                "title": "SYRIAC ZQAPHA BELOW"
+            }, 
+            {
+                "charcode": "0x735", 
+                "title": "SYRIAC ZQAPHA DOTTED"
+            }, 
+            {
+                "charcode": "0x736", 
+                "title": "SYRIAC RBASA ABOVE"
+            }, 
+            {
+                "charcode": "0x737", 
+                "title": "SYRIAC RBASA BELOW"
+            }, 
+            {
+                "charcode": "0x738", 
+                "title": "SYRIAC DOTTED ZLAMA HORIZONTAL"
+            }, 
+            {
+                "charcode": "0x739", 
+                "title": "SYRIAC DOTTED ZLAMA ANGULAR"
+            }, 
+            {
+                "charcode": "0x73a", 
+                "title": "SYRIAC HBASA ABOVE"
+            }, 
+            {
+                "charcode": "0x73b", 
+                "title": "SYRIAC HBASA BELOW"
+            }, 
+            {
+                "charcode": "0x73c", 
+                "title": "SYRIAC HBASA-ESASA DOTTED"
+            }, 
+            {
+                "charcode": "0x73d", 
+                "title": "SYRIAC ESASA ABOVE"
+            }, 
+            {
+                "charcode": "0x73e", 
+                "title": "SYRIAC ESASA BELOW"
+            }, 
+            {
+                "charcode": "0x73f", 
+                "title": "SYRIAC RWAHA"
+            }, 
+            {
+                "charcode": "0x740", 
+                "title": "SYRIAC FEMININE DOT"
+            }, 
+            {
+                "charcode": "0x741", 
+                "title": "SYRIAC QUSHSHAYA"
+            }, 
+            {
+                "charcode": "0x742", 
+                "title": "SYRIAC RUKKAKHA"
+            }, 
+            {
+                "charcode": "0x743", 
+                "title": "SYRIAC TWO VERTICAL DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x744", 
+                "title": "SYRIAC TWO VERTICAL DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x745", 
+                "title": "SYRIAC THREE DOTS ABOVE"
+            }, 
+            {
+                "charcode": "0x746", 
+                "title": "SYRIAC THREE DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x747", 
+                "title": "SYRIAC OBLIQUE LINE ABOVE"
+            }, 
+            {
+                "charcode": "0x748", 
+                "title": "SYRIAC OBLIQUE LINE BELOW"
+            }, 
+            {
+                "charcode": "0x749", 
+                "title": "SYRIAC MUSIC"
+            }, 
+            {
+                "charcode": "0x74a", 
+                "title": "SYRIAC BARREKH"
+            }, 
+            {
+                "charcode": "0x74d", 
+                "title": "SYRIAC LETTER SOGDIAN ZHAIN"
+            }, 
+            {
+                "charcode": "0x74e", 
+                "title": "SYRIAC LETTER SOGDIAN KHAPH"
+            }
+        ], 
+        "name": "Syriac"
+    }
+]

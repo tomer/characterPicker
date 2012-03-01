@@ -1,0 +1,163 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x2400", 
+                "title": "SYMBOL FOR NULL"
+            }, 
+            {
+                "charcode": "0x2401", 
+                "title": "SYMBOL FOR START OF HEADING"
+            }, 
+            {
+                "charcode": "0x2402", 
+                "title": "SYMBOL FOR START OF TEXT"
+            }, 
+            {
+                "charcode": "0x2403", 
+                "title": "SYMBOL FOR END OF TEXT"
+            }, 
+            {
+                "charcode": "0x2404", 
+                "title": "SYMBOL FOR END OF TRANSMISSION"
+            }, 
+            {
+                "charcode": "0x2405", 
+                "title": "SYMBOL FOR ENQUIRY"
+            }, 
+            {
+                "charcode": "0x2406", 
+                "title": "SYMBOL FOR ACKNOWLEDGE"
+            }, 
+            {
+                "charcode": "0x2407", 
+                "title": "SYMBOL FOR BELL"
+            }, 
+            {
+                "charcode": "0x2408", 
+                "title": "SYMBOL FOR BACKSPACE"
+            }, 
+            {
+                "charcode": "0x2409", 
+                "title": "SYMBOL FOR HORIZONTAL TABULATION"
+            }, 
+            {
+                "charcode": "0x240a", 
+                "title": "SYMBOL FOR LINE FEED"
+            }, 
+            {
+                "charcode": "0x240b", 
+                "title": "SYMBOL FOR VERTICAL TABULATION"
+            }, 
+            {
+                "charcode": "0x240c", 
+                "title": "SYMBOL FOR FORM FEED"
+            }, 
+            {
+                "charcode": "0x240d", 
+                "title": "SYMBOL FOR CARRIAGE RETURN"
+            }, 
+            {
+                "charcode": "0x240e", 
+                "title": "SYMBOL FOR SHIFT OUT"
+            }, 
+            {
+                "charcode": "0x240f", 
+                "title": "SYMBOL FOR SHIFT IN"
+            }, 
+            {
+                "charcode": "0x2410", 
+                "title": "SYMBOL FOR DATA LINK ESCAPE"
+            }, 
+            {
+                "charcode": "0x2411", 
+                "title": "SYMBOL FOR DEVICE CONTROL ONE"
+            }, 
+            {
+                "charcode": "0x2412", 
+                "title": "SYMBOL FOR DEVICE CONTROL TWO"
+            }, 
+            {
+                "charcode": "0x2413", 
+                "title": "SYMBOL FOR DEVICE CONTROL THREE"
+            }, 
+            {
+                "charcode": "0x2414", 
+                "title": "SYMBOL FOR DEVICE CONTROL FOUR"
+            }, 
+            {
+                "charcode": "0x2415", 
+                "title": "SYMBOL FOR NEGATIVE ACKNOWLEDGE"
+            }, 
+            {
+                "charcode": "0x2416", 
+                "title": "SYMBOL FOR SYNCHRONOUS IDLE"
+            }, 
+            {
+                "charcode": "0x2417", 
+                "title": "SYMBOL FOR END OF TRANSMISSION BLOCK"
+            }, 
+            {
+                "charcode": "0x2418", 
+                "title": "SYMBOL FOR CANCEL"
+            }, 
+            {
+                "charcode": "0x2419", 
+                "title": "SYMBOL FOR END OF MEDIUM"
+            }, 
+            {
+                "charcode": "0x241a", 
+                "title": "SYMBOL FOR SUBSTITUTE"
+            }, 
+            {
+                "charcode": "0x241b", 
+                "title": "SYMBOL FOR ESCAPE"
+            }, 
+            {
+                "charcode": "0x241c", 
+                "title": "SYMBOL FOR FILE SEPARATOR"
+            }, 
+            {
+                "charcode": "0x241d", 
+                "title": "SYMBOL FOR GROUP SEPARATOR"
+            }, 
+            {
+                "charcode": "0x241e", 
+                "title": "SYMBOL FOR RECORD SEPARATOR"
+            }, 
+            {
+                "charcode": "0x241f", 
+                "title": "SYMBOL FOR UNIT SEPARATOR"
+            }, 
+            {
+                "charcode": "0x2420", 
+                "title": "SYMBOL FOR SPACE"
+            }, 
+            {
+                "charcode": "0x2421", 
+                "title": "SYMBOL FOR DELETE"
+            }, 
+            {
+                "charcode": "0x2422", 
+                "title": "BLANK SYMBOL"
+            }, 
+            {
+                "charcode": "0x2423", 
+                "title": "OPEN BOX"
+            }, 
+            {
+                "charcode": "0x2424", 
+                "title": "SYMBOL FOR NEWLINE"
+            }, 
+            {
+                "charcode": "0x2425", 
+                "title": "SYMBOL FOR DELETE FORM TWO"
+            }, 
+            {
+                "charcode": "0x2426", 
+                "title": "SYMBOL FOR SUBSTITUTE FORM TWO"
+            }
+        ], 
+        "name": "Control Pictures"
+    }
+]

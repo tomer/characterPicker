@@ -1,0 +1,463 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1780", 
+                "title": "KHMER LETTER KA"
+            }, 
+            {
+                "charcode": "0x1781", 
+                "title": "KHMER LETTER KHA"
+            }, 
+            {
+                "charcode": "0x1782", 
+                "title": "KHMER LETTER KO"
+            }, 
+            {
+                "charcode": "0x1783", 
+                "title": "KHMER LETTER KHO"
+            }, 
+            {
+                "charcode": "0x1784", 
+                "title": "KHMER LETTER NGO"
+            }, 
+            {
+                "charcode": "0x1785", 
+                "title": "KHMER LETTER CA"
+            }, 
+            {
+                "charcode": "0x1786", 
+                "title": "KHMER LETTER CHA"
+            }, 
+            {
+                "charcode": "0x1787", 
+                "title": "KHMER LETTER CO"
+            }, 
+            {
+                "charcode": "0x1788", 
+                "title": "KHMER LETTER CHO"
+            }, 
+            {
+                "charcode": "0x1789", 
+                "title": "KHMER LETTER NYO"
+            }, 
+            {
+                "charcode": "0x178a", 
+                "title": "KHMER LETTER DA"
+            }, 
+            {
+                "charcode": "0x178b", 
+                "title": "KHMER LETTER TTHA"
+            }, 
+            {
+                "charcode": "0x178c", 
+                "title": "KHMER LETTER DO"
+            }, 
+            {
+                "charcode": "0x178d", 
+                "title": "KHMER LETTER TTHO"
+            }, 
+            {
+                "charcode": "0x178e", 
+                "title": "KHMER LETTER NNO"
+            }, 
+            {
+                "charcode": "0x178f", 
+                "title": "KHMER LETTER TA"
+            }, 
+            {
+                "charcode": "0x1790", 
+                "title": "KHMER LETTER THA"
+            }, 
+            {
+                "charcode": "0x1791", 
+                "title": "KHMER LETTER TO"
+            }, 
+            {
+                "charcode": "0x1792", 
+                "title": "KHMER LETTER THO"
+            }, 
+            {
+                "charcode": "0x1793", 
+                "title": "KHMER LETTER NO"
+            }, 
+            {
+                "charcode": "0x1794", 
+                "title": "KHMER LETTER BA"
+            }, 
+            {
+                "charcode": "0x1795", 
+                "title": "KHMER LETTER PHA"
+            }, 
+            {
+                "charcode": "0x1796", 
+                "title": "KHMER LETTER PO"
+            }, 
+            {
+                "charcode": "0x1797", 
+                "title": "KHMER LETTER PHO"
+            }, 
+            {
+                "charcode": "0x1798", 
+                "title": "KHMER LETTER MO"
+            }, 
+            {
+                "charcode": "0x1799", 
+                "title": "KHMER LETTER YO"
+            }, 
+            {
+                "charcode": "0x179a", 
+                "title": "KHMER LETTER RO"
+            }, 
+            {
+                "charcode": "0x179b", 
+                "title": "KHMER LETTER LO"
+            }, 
+            {
+                "charcode": "0x179c", 
+                "title": "KHMER LETTER VO"
+            }, 
+            {
+                "charcode": "0x179d", 
+                "title": "KHMER LETTER SHA"
+            }, 
+            {
+                "charcode": "0x179e", 
+                "title": "KHMER LETTER SSO"
+            }, 
+            {
+                "charcode": "0x179f", 
+                "title": "KHMER LETTER SA"
+            }, 
+            {
+                "charcode": "0x17a0", 
+                "title": "KHMER LETTER HA"
+            }, 
+            {
+                "charcode": "0x17a1", 
+                "title": "KHMER LETTER LA"
+            }, 
+            {
+                "charcode": "0x17a2", 
+                "title": "KHMER LETTER QA"
+            }, 
+            {
+                "charcode": "0x17a3", 
+                "title": "KHMER INDEPENDENT VOWEL QAQ"
+            }, 
+            {
+                "charcode": "0x17a4", 
+                "title": "KHMER INDEPENDENT VOWEL QAA"
+            }, 
+            {
+                "charcode": "0x17a5", 
+                "title": "KHMER INDEPENDENT VOWEL QI"
+            }, 
+            {
+                "charcode": "0x17a6", 
+                "title": "KHMER INDEPENDENT VOWEL QII"
+            }, 
+            {
+                "charcode": "0x17a7", 
+                "title": "KHMER INDEPENDENT VOWEL QU"
+            }, 
+            {
+                "charcode": "0x17a8", 
+                "title": "KHMER INDEPENDENT VOWEL QUK"
+            }, 
+            {
+                "charcode": "0x17a9", 
+                "title": "KHMER INDEPENDENT VOWEL QUU"
+            }, 
+            {
+                "charcode": "0x17aa", 
+                "title": "KHMER INDEPENDENT VOWEL QUUV"
+            }, 
+            {
+                "charcode": "0x17ab", 
+                "title": "KHMER INDEPENDENT VOWEL RY"
+            }, 
+            {
+                "charcode": "0x17ac", 
+                "title": "KHMER INDEPENDENT VOWEL RYY"
+            }, 
+            {
+                "charcode": "0x17ad", 
+                "title": "KHMER INDEPENDENT VOWEL LY"
+            }, 
+            {
+                "charcode": "0x17ae", 
+                "title": "KHMER INDEPENDENT VOWEL LYY"
+            }, 
+            {
+                "charcode": "0x17af", 
+                "title": "KHMER INDEPENDENT VOWEL QE"
+            }, 
+            {
+                "charcode": "0x17b0", 
+                "title": "KHMER INDEPENDENT VOWEL QAI"
+            }, 
+            {
+                "charcode": "0x17b1", 
+                "title": "KHMER INDEPENDENT VOWEL QOO TYPE ONE"
+            }, 
+            {
+                "charcode": "0x17b2", 
+                "title": "KHMER INDEPENDENT VOWEL QOO TYPE TWO"
+            }, 
+            {
+                "charcode": "0x17b3", 
+                "title": "KHMER INDEPENDENT VOWEL QAU"
+            }, 
+            {
+                "charcode": "0x17b4", 
+                "title": "KHMER VOWEL INHERENT AQ"
+            }, 
+            {
+                "charcode": "0x17b5", 
+                "title": "KHMER VOWEL INHERENT AA"
+            }, 
+            {
+                "charcode": "0x17b6", 
+                "title": "KHMER VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0x17b7", 
+                "title": "KHMER VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0x17b8", 
+                "title": "KHMER VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0x17b9", 
+                "title": "KHMER VOWEL SIGN Y"
+            }, 
+            {
+                "charcode": "0x17ba", 
+                "title": "KHMER VOWEL SIGN YY"
+            }, 
+            {
+                "charcode": "0x17bb", 
+                "title": "KHMER VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0x17bc", 
+                "title": "KHMER VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0x17bd", 
+                "title": "KHMER VOWEL SIGN UA"
+            }, 
+            {
+                "charcode": "0x17be", 
+                "title": "KHMER VOWEL SIGN OE"
+            }, 
+            {
+                "charcode": "0x17bf", 
+                "title": "KHMER VOWEL SIGN YA"
+            }, 
+            {
+                "charcode": "0x17c0", 
+                "title": "KHMER VOWEL SIGN IE"
+            }, 
+            {
+                "charcode": "0x17c1", 
+                "title": "KHMER VOWEL SIGN E"
+            }, 
+            {
+                "charcode": "0x17c2", 
+                "title": "KHMER VOWEL SIGN AE"
+            }, 
+            {
+                "charcode": "0x17c3", 
+                "title": "KHMER VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0x17c4", 
+                "title": "KHMER VOWEL SIGN OO"
+            }, 
+            {
+                "charcode": "0x17c5", 
+                "title": "KHMER VOWEL SIGN AU"
+            }, 
+            {
+                "charcode": "0x17c6", 
+                "title": "KHMER SIGN NIKAHIT"
+            }, 
+            {
+                "charcode": "0x17c7", 
+                "title": "KHMER SIGN REAHMUK"
+            }, 
+            {
+                "charcode": "0x17c8", 
+                "title": "KHMER SIGN YUUKALEAPINTU"
+            }, 
+            {
+                "charcode": "0x17c9", 
+                "title": "KHMER SIGN MUUSIKATOAN"
+            }, 
+            {
+                "charcode": "0x17ca", 
+                "title": "KHMER SIGN TRIISAP"
+            }, 
+            {
+                "charcode": "0x17cb", 
+                "title": "KHMER SIGN BANTOC"
+            }, 
+            {
+                "charcode": "0x17cc", 
+                "title": "KHMER SIGN ROBAT"
+            }, 
+            {
+                "charcode": "0x17cd", 
+                "title": "KHMER SIGN TOANDAKHIAT"
+            }, 
+            {
+                "charcode": "0x17ce", 
+                "title": "KHMER SIGN KAKABAT"
+            }, 
+            {
+                "charcode": "0x17cf", 
+                "title": "KHMER SIGN AHSDA"
+            }, 
+            {
+                "charcode": "0x17d0", 
+                "title": "KHMER SIGN SAMYOK SANNYA"
+            }, 
+            {
+                "charcode": "0x17d1", 
+                "title": "KHMER SIGN VIRIAM"
+            }, 
+            {
+                "charcode": "0x17d2", 
+                "title": "KHMER SIGN COENG"
+            }, 
+            {
+                "charcode": "0x17d3", 
+                "title": "KHMER SIGN BATHAMASAT"
+            }, 
+            {
+                "charcode": "0x17d4", 
+                "title": "KHMER SIGN KHAN"
+            }, 
+            {
+                "charcode": "0x17d5", 
+                "title": "KHMER SIGN BARIYOOSAN"
+            }, 
+            {
+                "charcode": "0x17d6", 
+                "title": "KHMER SIGN CAMNUC PII KUUH"
+            }, 
+            {
+                "charcode": "0x17d7", 
+                "title": "KHMER SIGN LEK TOO"
+            }, 
+            {
+                "charcode": "0x17d8", 
+                "title": "KHMER SIGN BEYYAL"
+            }, 
+            {
+                "charcode": "0x17d9", 
+                "title": "KHMER SIGN PHNAEK MUAN"
+            }, 
+            {
+                "charcode": "0x17da", 
+                "title": "KHMER SIGN KOOMUUT"
+            }, 
+            {
+                "charcode": "0x17db", 
+                "title": "KHMER CURRENCY SYMBOL RIEL"
+            }, 
+            {
+                "charcode": "0x17dc", 
+                "title": "KHMER SIGN AVAKRAHASANYA"
+            }, 
+            {
+                "charcode": "0x17dd", 
+                "title": "KHMER SIGN ATTHACAN"
+            }, 
+            {
+                "charcode": "0x17e0", 
+                "title": "KHMER DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x17e1", 
+                "title": "KHMER DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x17e2", 
+                "title": "KHMER DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x17e3", 
+                "title": "KHMER DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x17e4", 
+                "title": "KHMER DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x17e5", 
+                "title": "KHMER DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x17e6", 
+                "title": "KHMER DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x17e7", 
+                "title": "KHMER DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x17e8", 
+                "title": "KHMER DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x17e9", 
+                "title": "KHMER DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x17f0", 
+                "title": "KHMER SYMBOL LEK ATTAK SON"
+            }, 
+            {
+                "charcode": "0x17f1", 
+                "title": "KHMER SYMBOL LEK ATTAK MUOY"
+            }, 
+            {
+                "charcode": "0x17f2", 
+                "title": "KHMER SYMBOL LEK ATTAK PII"
+            }, 
+            {
+                "charcode": "0x17f3", 
+                "title": "KHMER SYMBOL LEK ATTAK BEI"
+            }, 
+            {
+                "charcode": "0x17f4", 
+                "title": "KHMER SYMBOL LEK ATTAK BUON"
+            }, 
+            {
+                "charcode": "0x17f5", 
+                "title": "KHMER SYMBOL LEK ATTAK PRAM"
+            }, 
+            {
+                "charcode": "0x17f6", 
+                "title": "KHMER SYMBOL LEK ATTAK PRAM-MUOY"
+            }, 
+            {
+                "charcode": "0x17f7", 
+                "title": "KHMER SYMBOL LEK ATTAK PRAM-PII"
+            }, 
+            {
+                "charcode": "0x17f8", 
+                "title": "KHMER SYMBOL LEK ATTAK PRAM-BEI"
+            }, 
+            {
+                "charcode": "0x17f9", 
+                "title": "KHMER SYMBOL LEK ATTAK PRAM-BUON"
+            }
+        ], 
+        "name": "Khmer"
+    }
+]

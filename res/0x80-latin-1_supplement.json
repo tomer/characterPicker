@@ -1,0 +1,515 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x80", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x81", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x82", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x83", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x84", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x85", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x86", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x87", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x88", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x89", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x8a", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x8b", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x8c", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x8d", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x8e", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x8f", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x90", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x91", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x92", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x93", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x94", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x95", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x96", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x97", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x98", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x99", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x9a", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x9b", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x9c", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x9d", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x9e", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0x9f", 
+                "title": "<control>"
+            }, 
+            {
+                "charcode": "0xa0", 
+                "title": "NO-BREAK SPACE"
+            }, 
+            {
+                "charcode": "0xa1", 
+                "title": "INVERTED EXCLAMATION MARK"
+            }, 
+            {
+                "charcode": "0xa2", 
+                "title": "CENT SIGN"
+            }, 
+            {
+                "charcode": "0xa3", 
+                "title": "POUND SIGN"
+            }, 
+            {
+                "charcode": "0xa4", 
+                "title": "CURRENCY SIGN"
+            }, 
+            {
+                "charcode": "0xa5", 
+                "title": "YEN SIGN"
+            }, 
+            {
+                "charcode": "0xa6", 
+                "title": "BROKEN BAR"
+            }, 
+            {
+                "charcode": "0xa7", 
+                "title": "SECTION SIGN"
+            }, 
+            {
+                "charcode": "0xa8", 
+                "title": "DIAERESIS"
+            }, 
+            {
+                "charcode": "0xa9", 
+                "title": "COPYRIGHT SIGN"
+            }, 
+            {
+                "charcode": "0xaa", 
+                "title": "FEMININE ORDINAL INDICATOR"
+            }, 
+            {
+                "charcode": "0xab", 
+                "title": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
+            }, 
+            {
+                "charcode": "0xac", 
+                "title": "NOT SIGN"
+            }, 
+            {
+                "charcode": "0xad", 
+                "title": "SOFT HYPHEN"
+            }, 
+            {
+                "charcode": "0xae", 
+                "title": "REGISTERED SIGN"
+            }, 
+            {
+                "charcode": "0xaf", 
+                "title": "MACRON"
+            }, 
+            {
+                "charcode": "0xb0", 
+                "title": "DEGREE SIGN"
+            }, 
+            {
+                "charcode": "0xb1", 
+                "title": "PLUS-MINUS SIGN"
+            }, 
+            {
+                "charcode": "0xb2", 
+                "title": "SUPERSCRIPT TWO"
+            }, 
+            {
+                "charcode": "0xb3", 
+                "title": "SUPERSCRIPT THREE"
+            }, 
+            {
+                "charcode": "0xb4", 
+                "title": "ACUTE ACCENT"
+            }, 
+            {
+                "charcode": "0xb5", 
+                "title": "MICRO SIGN"
+            }, 
+            {
+                "charcode": "0xb6", 
+                "title": "PILCROW SIGN"
+            }, 
+            {
+                "charcode": "0xb7", 
+                "title": "MIDDLE DOT"
+            }, 
+            {
+                "charcode": "0xb8", 
+                "title": "CEDILLA"
+            }, 
+            {
+                "charcode": "0xb9", 
+                "title": "SUPERSCRIPT ONE"
+            }, 
+            {
+                "charcode": "0xba", 
+                "title": "MASCULINE ORDINAL INDICATOR"
+            }, 
+            {
+                "charcode": "0xbb", 
+                "title": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
+            }, 
+            {
+                "charcode": "0xbc", 
+                "title": "VULGAR FRACTION ONE QUARTER"
+            }, 
+            {
+                "charcode": "0xbd", 
+                "title": "VULGAR FRACTION ONE HALF"
+            }, 
+            {
+                "charcode": "0xbe", 
+                "title": "VULGAR FRACTION THREE QUARTERS"
+            }, 
+            {
+                "charcode": "0xbf", 
+                "title": "INVERTED QUESTION MARK"
+            }, 
+            {
+                "charcode": "0xc0", 
+                "title": "LATIN CAPITAL LETTER A WITH GRAVE"
+            }, 
+            {
+                "charcode": "0xc1", 
+                "title": "LATIN CAPITAL LETTER A WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xc2", 
+                "title": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0xc3", 
+                "title": "LATIN CAPITAL LETTER A WITH TILDE"
+            }, 
+            {
+                "charcode": "0xc4", 
+                "title": "LATIN CAPITAL LETTER A WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0xc5", 
+                "title": "LATIN CAPITAL LETTER A WITH RING ABOVE"
+            }, 
+            {
+                "charcode": "0xc6", 
+                "title": "LATIN CAPITAL LETTER AE"
+            }, 
+            {
+                "charcode": "0xc7", 
+                "title": "LATIN CAPITAL LETTER C WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0xc8", 
+                "title": "LATIN CAPITAL LETTER E WITH GRAVE"
+            }, 
+            {
+                "charcode": "0xc9", 
+                "title": "LATIN CAPITAL LETTER E WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xca", 
+                "title": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0xcb", 
+                "title": "LATIN CAPITAL LETTER E WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0xcc", 
+                "title": "LATIN CAPITAL LETTER I WITH GRAVE"
+            }, 
+            {
+                "charcode": "0xcd", 
+                "title": "LATIN CAPITAL LETTER I WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xce", 
+                "title": "LATIN CAPITAL LETTER I WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0xcf", 
+                "title": "LATIN CAPITAL LETTER I WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0xd0", 
+                "title": "LATIN CAPITAL LETTER ETH"
+            }, 
+            {
+                "charcode": "0xd1", 
+                "title": "LATIN CAPITAL LETTER N WITH TILDE"
+            }, 
+            {
+                "charcode": "0xd2", 
+                "title": "LATIN CAPITAL LETTER O WITH GRAVE"
+            }, 
+            {
+                "charcode": "0xd3", 
+                "title": "LATIN CAPITAL LETTER O WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xd4", 
+                "title": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0xd5", 
+                "title": "LATIN CAPITAL LETTER O WITH TILDE"
+            }, 
+            {
+                "charcode": "0xd6", 
+                "title": "LATIN CAPITAL LETTER O WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0xd7", 
+                "title": "MULTIPLICATION SIGN"
+            }, 
+            {
+                "charcode": "0xd8", 
+                "title": "LATIN CAPITAL LETTER O WITH STROKE"
+            }, 
+            {
+                "charcode": "0xd9", 
+                "title": "LATIN CAPITAL LETTER U WITH GRAVE"
+            }, 
+            {
+                "charcode": "0xda", 
+                "title": "LATIN CAPITAL LETTER U WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xdb", 
+                "title": "LATIN CAPITAL LETTER U WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0xdc", 
+                "title": "LATIN CAPITAL LETTER U WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0xdd", 
+                "title": "LATIN CAPITAL LETTER Y WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xde", 
+                "title": "LATIN CAPITAL LETTER THORN"
+            }, 
+            {
+                "charcode": "0xdf", 
+                "title": "LATIN SMALL LETTER SHARP S"
+            }, 
+            {
+                "charcode": "0xe0", 
+                "title": "LATIN SMALL LETTER A WITH GRAVE"
+            }, 
+            {
+                "charcode": "0xe1", 
+                "title": "LATIN SMALL LETTER A WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xe2", 
+                "title": "LATIN SMALL LETTER A WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0xe3", 
+                "title": "LATIN SMALL LETTER A WITH TILDE"
+            }, 
+            {
+                "charcode": "0xe4", 
+                "title": "LATIN SMALL LETTER A WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0xe5", 
+                "title": "LATIN SMALL LETTER A WITH RING ABOVE"
+            }, 
+            {
+                "charcode": "0xe6", 
+                "title": "LATIN SMALL LETTER AE"
+            }, 
+            {
+                "charcode": "0xe7", 
+                "title": "LATIN SMALL LETTER C WITH CEDILLA"
+            }, 
+            {
+                "charcode": "0xe8", 
+                "title": "LATIN SMALL LETTER E WITH GRAVE"
+            }, 
+            {
+                "charcode": "0xe9", 
+                "title": "LATIN SMALL LETTER E WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xea", 
+                "title": "LATIN SMALL LETTER E WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0xeb", 
+                "title": "LATIN SMALL LETTER E WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0xec", 
+                "title": "LATIN SMALL LETTER I WITH GRAVE"
+            }, 
+            {
+                "charcode": "0xed", 
+                "title": "LATIN SMALL LETTER I WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xee", 
+                "title": "LATIN SMALL LETTER I WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0xef", 
+                "title": "LATIN SMALL LETTER I WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0xf0", 
+                "title": "LATIN SMALL LETTER ETH"
+            }, 
+            {
+                "charcode": "0xf1", 
+                "title": "LATIN SMALL LETTER N WITH TILDE"
+            }, 
+            {
+                "charcode": "0xf2", 
+                "title": "LATIN SMALL LETTER O WITH GRAVE"
+            }, 
+            {
+                "charcode": "0xf3", 
+                "title": "LATIN SMALL LETTER O WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xf4", 
+                "title": "LATIN SMALL LETTER O WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0xf5", 
+                "title": "LATIN SMALL LETTER O WITH TILDE"
+            }, 
+            {
+                "charcode": "0xf6", 
+                "title": "LATIN SMALL LETTER O WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0xf7", 
+                "title": "DIVISION SIGN"
+            }, 
+            {
+                "charcode": "0xf8", 
+                "title": "LATIN SMALL LETTER O WITH STROKE"
+            }, 
+            {
+                "charcode": "0xf9", 
+                "title": "LATIN SMALL LETTER U WITH GRAVE"
+            }, 
+            {
+                "charcode": "0xfa", 
+                "title": "LATIN SMALL LETTER U WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xfb", 
+                "title": "LATIN SMALL LETTER U WITH CIRCUMFLEX"
+            }, 
+            {
+                "charcode": "0xfc", 
+                "title": "LATIN SMALL LETTER U WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0xfd", 
+                "title": "LATIN SMALL LETTER Y WITH ACUTE"
+            }, 
+            {
+                "charcode": "0xfe", 
+                "title": "LATIN SMALL LETTER THORN"
+            }
+        ], 
+        "name": "Latin-1 Supplement"
+    }
+]

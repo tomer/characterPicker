@@ -1,0 +1,175 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1dc0", 
+                "title": "COMBINING DOTTED GRAVE ACCENT"
+            }, 
+            {
+                "charcode": "0x1dc1", 
+                "title": "COMBINING DOTTED ACUTE ACCENT"
+            }, 
+            {
+                "charcode": "0x1dc2", 
+                "title": "COMBINING SNAKE BELOW"
+            }, 
+            {
+                "charcode": "0x1dc3", 
+                "title": "COMBINING SUSPENSION MARK"
+            }, 
+            {
+                "charcode": "0x1dc4", 
+                "title": "COMBINING MACRON-ACUTE"
+            }, 
+            {
+                "charcode": "0x1dc5", 
+                "title": "COMBINING GRAVE-MACRON"
+            }, 
+            {
+                "charcode": "0x1dc6", 
+                "title": "COMBINING MACRON-GRAVE"
+            }, 
+            {
+                "charcode": "0x1dc7", 
+                "title": "COMBINING ACUTE-MACRON"
+            }, 
+            {
+                "charcode": "0x1dc8", 
+                "title": "COMBINING GRAVE-ACUTE-GRAVE"
+            }, 
+            {
+                "charcode": "0x1dc9", 
+                "title": "COMBINING ACUTE-GRAVE-ACUTE"
+            }, 
+            {
+                "charcode": "0x1dca", 
+                "title": "COMBINING LATIN SMALL LETTER R BELOW"
+            }, 
+            {
+                "charcode": "0x1dcb", 
+                "title": "COMBINING BREVE-MACRON"
+            }, 
+            {
+                "charcode": "0x1dcc", 
+                "title": "COMBINING MACRON-BREVE"
+            }, 
+            {
+                "charcode": "0x1dcd", 
+                "title": "COMBINING DOUBLE CIRCUMFLEX ABOVE"
+            }, 
+            {
+                "charcode": "0x1dce", 
+                "title": "COMBINING OGONEK ABOVE"
+            }, 
+            {
+                "charcode": "0x1dcf", 
+                "title": "COMBINING ZIGZAG BELOW"
+            }, 
+            {
+                "charcode": "0x1dd0", 
+                "title": "COMBINING IS BELOW"
+            }, 
+            {
+                "charcode": "0x1dd1", 
+                "title": "COMBINING UR ABOVE"
+            }, 
+            {
+                "charcode": "0x1dd2", 
+                "title": "COMBINING US ABOVE"
+            }, 
+            {
+                "charcode": "0x1dd3", 
+                "title": "COMBINING LATIN SMALL LETTER FLATTENED OPEN A ABOVE"
+            }, 
+            {
+                "charcode": "0x1dd4", 
+                "title": "COMBINING LATIN SMALL LETTER AE"
+            }, 
+            {
+                "charcode": "0x1dd5", 
+                "title": "COMBINING LATIN SMALL LETTER AO"
+            }, 
+            {
+                "charcode": "0x1dd6", 
+                "title": "COMBINING LATIN SMALL LETTER AV"
+            }, 
+            {
+                "charcode": "0x1dd7", 
+                "title": "COMBINING LATIN SMALL LETTER C CEDILLA"
+            }, 
+            {
+                "charcode": "0x1dd8", 
+                "title": "COMBINING LATIN SMALL LETTER INSULAR D"
+            }, 
+            {
+                "charcode": "0x1dd9", 
+                "title": "COMBINING LATIN SMALL LETTER ETH"
+            }, 
+            {
+                "charcode": "0x1dda", 
+                "title": "COMBINING LATIN SMALL LETTER G"
+            }, 
+            {
+                "charcode": "0x1ddb", 
+                "title": "COMBINING LATIN LETTER SMALL CAPITAL G"
+            }, 
+            {
+                "charcode": "0x1ddc", 
+                "title": "COMBINING LATIN SMALL LETTER K"
+            }, 
+            {
+                "charcode": "0x1ddd", 
+                "title": "COMBINING LATIN SMALL LETTER L"
+            }, 
+            {
+                "charcode": "0x1dde", 
+                "title": "COMBINING LATIN LETTER SMALL CAPITAL L"
+            }, 
+            {
+                "charcode": "0x1ddf", 
+                "title": "COMBINING LATIN LETTER SMALL CAPITAL M"
+            }, 
+            {
+                "charcode": "0x1de0", 
+                "title": "COMBINING LATIN SMALL LETTER N"
+            }, 
+            {
+                "charcode": "0x1de1", 
+                "title": "COMBINING LATIN LETTER SMALL CAPITAL N"
+            }, 
+            {
+                "charcode": "0x1de2", 
+                "title": "COMBINING LATIN LETTER SMALL CAPITAL R"
+            }, 
+            {
+                "charcode": "0x1de3", 
+                "title": "COMBINING LATIN SMALL LETTER R ROTUNDA"
+            }, 
+            {
+                "charcode": "0x1de4", 
+                "title": "COMBINING LATIN SMALL LETTER S"
+            }, 
+            {
+                "charcode": "0x1de5", 
+                "title": "COMBINING LATIN SMALL LETTER LONG S"
+            }, 
+            {
+                "charcode": "0x1de6", 
+                "title": "COMBINING LATIN SMALL LETTER Z"
+            }, 
+            {
+                "charcode": "0x1dfc", 
+                "title": "COMBINING DOUBLE INVERTED BREVE BELOW"
+            }, 
+            {
+                "charcode": "0x1dfd", 
+                "title": "COMBINING ALMOST EQUAL TO BELOW"
+            }, 
+            {
+                "charcode": "0x1dfe", 
+                "title": "COMBINING LEFT ARROWHEAD ABOVE"
+            }
+        ], 
+        "name": "Combining Diacritical Marks Supplement"
+    }
+]

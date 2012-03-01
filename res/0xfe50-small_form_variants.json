@@ -1,0 +1,111 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0xfe50", 
+                "title": "SMALL COMMA"
+            }, 
+            {
+                "charcode": "0xfe51", 
+                "title": "SMALL IDEOGRAPHIC COMMA"
+            }, 
+            {
+                "charcode": "0xfe52", 
+                "title": "SMALL FULL STOP"
+            }, 
+            {
+                "charcode": "0xfe54", 
+                "title": "SMALL SEMICOLON"
+            }, 
+            {
+                "charcode": "0xfe55", 
+                "title": "SMALL COLON"
+            }, 
+            {
+                "charcode": "0xfe56", 
+                "title": "SMALL QUESTION MARK"
+            }, 
+            {
+                "charcode": "0xfe57", 
+                "title": "SMALL EXCLAMATION MARK"
+            }, 
+            {
+                "charcode": "0xfe58", 
+                "title": "SMALL EM DASH"
+            }, 
+            {
+                "charcode": "0xfe59", 
+                "title": "SMALL LEFT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0xfe5a", 
+                "title": "SMALL RIGHT PARENTHESIS"
+            }, 
+            {
+                "charcode": "0xfe5b", 
+                "title": "SMALL LEFT CURLY BRACKET"
+            }, 
+            {
+                "charcode": "0xfe5c", 
+                "title": "SMALL RIGHT CURLY BRACKET"
+            }, 
+            {
+                "charcode": "0xfe5d", 
+                "title": "SMALL LEFT TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0xfe5e", 
+                "title": "SMALL RIGHT TORTOISE SHELL BRACKET"
+            }, 
+            {
+                "charcode": "0xfe5f", 
+                "title": "SMALL NUMBER SIGN"
+            }, 
+            {
+                "charcode": "0xfe60", 
+                "title": "SMALL AMPERSAND"
+            }, 
+            {
+                "charcode": "0xfe61", 
+                "title": "SMALL ASTERISK"
+            }, 
+            {
+                "charcode": "0xfe62", 
+                "title": "SMALL PLUS SIGN"
+            }, 
+            {
+                "charcode": "0xfe63", 
+                "title": "SMALL HYPHEN-MINUS"
+            }, 
+            {
+                "charcode": "0xfe64", 
+                "title": "SMALL LESS-THAN SIGN"
+            }, 
+            {
+                "charcode": "0xfe65", 
+                "title": "SMALL GREATER-THAN SIGN"
+            }, 
+            {
+                "charcode": "0xfe66", 
+                "title": "SMALL EQUALS SIGN"
+            }, 
+            {
+                "charcode": "0xfe68", 
+                "title": "SMALL REVERSE SOLIDUS"
+            }, 
+            {
+                "charcode": "0xfe69", 
+                "title": "SMALL DOLLAR SIGN"
+            }, 
+            {
+                "charcode": "0xfe6a", 
+                "title": "SMALL PERCENT SIGN"
+            }, 
+            {
+                "charcode": "0xfe6b", 
+                "title": "SMALL COMMERCIAL AT"
+            }
+        ], 
+        "name": "Small Form Variants"
+    }
+]
