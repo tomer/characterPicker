@@ -18,6 +18,9 @@ div.big { font-size: 200%; text-align: center; }
 #buttons button:hover {color:blue; text-shadow:0 0 30px yellow , 0 0 70px yellow;}
 #buttons h2 { border-top: 1px solid silver; }
 
+#buttons.list button:after {content: " – " attr(title); font-size: 25%;}
+#buttons.list button {display: block;}
+
 
 		</style>
 		<script>
@@ -91,6 +94,7 @@ div.big { font-size: 200%; text-align: center; }
 			
 			function loadFileList(filename) {
 			    var list = null;
+			    document.getElementById('blockSelection').disabled = true;
 			    
 			    var http_request = new XMLHttpRequest();
 			    http_request.open("GET", filename, true);
@@ -107,6 +111,8 @@ div.big { font-size: 200%; text-align: center; }
 						window.alert ("Unable to load file "+ filename +", returned error code "+ http_request.status);
 				}
 				http_request.send(null);
+				
+				document.getElementById('blockSelection').disabled = false  ;
 			}    
 
             function addOption(item) {
@@ -179,13 +185,16 @@ div.big { font-size: 200%; text-align: center; }
 				else loadSelectedBlock(document.getElementById('blockSelection'));
 			}
 
+            function changeListStyle(style) {
+                document.getElementById('buttons').className = style;
+            }
 		</script>
 	</head>
 
 	<body onload="start();">
 		<h1>Emoji characters picker</h1>
 		<p>Use the form below to type your message, add some Emoji characters from the list. Please note that you won't see the emoji characters on other sites unless you have some Unicode 6 compliant fonts installed or the website in question loaded the fonts for you.</p>
-		<textarea id="input" dir="auto" autofocus onkeyup="updateInputLength()" placeholder="Type here your message. Use the button below to paste some emoticons…"></textarea>
+		<textarea id="input" dir="auto" autofocus onkeyup="updateInputLength()" placeholder="Type here your message…"></textarea>
 <p><button id="clear" onclick="document.getElementById('input').value = '';">Clear</button>
 	<button id="tweet" onclick="document.location = 'https://twitter.com/?status='+ encodeURI(document.getElementById('input').value);">Tweet</button>
 	
@@ -194,9 +203,13 @@ div.big { font-size: 200%; text-align: center; }
             <option value=""></option>
         </select>
 	
+		<label for="style">Show as </lable>
+	    <input type="radio" name="style" value="table" onclick="changeListStyle('table')">Table</input>
+	    <input type="radio" name="style" value="list" onclick="changeListStyle('list')">List</input>
+	
 	Input length: <span id="length"></span> <span id="value"></span>
 	
-	<div id="buttons">
+	<div id="buttons" class="list">
                <div class="big">Please select keymap above to start</div>
 	</div>
 	<p>CC-BY-SA <a href="http://tomercohen.com">Tomer Cohen</a>, 2011. Source code available on <a href="https://github.com/tomer/characterPicker">github</a>.</p>
