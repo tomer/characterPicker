@@ -3,3 +3,4 @@
 rm *.json
 python generate_maps.py
 mv *.json ../res/
+./manifest.sh
