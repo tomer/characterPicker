@@ -21,6 +21,8 @@ div.big { font-size: 200%; text-align: center; }
 #buttons.list button:after {content: " – " attr(title); font-size: 25%;}
 #buttons.list button {display: block;}
 
+#input.fixed { position: fixed; top: 10px; left: 10px; right: 10px; opacity: 0.9}
+
 
 		</style>
 		<script>
@@ -188,13 +190,27 @@ div.big { font-size: 200%; text-align: center; }
             function changeListStyle(style) {
                 document.getElementById('buttons').className = style;
             }
+            
+            function makeVisible(element) {
+                if (isVisible(element)) {
+                    if (document.getElementById(element).className=="fixed") document.getElementById(element).className="not-fixed";
+                } 
+                else if (document.getElementById(element).className=="not-fixed") {
+                    document.getElementById(element).className="fixed";
+                }
+            }
+            
+            function isVisible(element) {
+                if (window.pageYOffset > document.getElementById(element).offsetTop) return false;
+                else return true;
+            }
 		</script>
 	</head>
 
-	<body onload="start();">
+	<body id="body" onload="start();" onscroll="makeVisible('input')">
 		<h1>Emoji characters picker</h1>
 		<p>Use the form below to type your message, add some Emoji characters from the list. Please note that you won't see the emoji characters on other sites unless you have some Unicode 6 compliant fonts installed or the website in question loaded the fonts for you.</p>
-		<textarea id="input" dir="auto" autofocus onkeyup="updateInputLength()" placeholder="Type here your message…"></textarea>
+		<textarea id="input" dir="auto" autofocus onkeyup="updateInputLength()" placeholder="Type here your message…" class="not-fixed"></textarea>
 <p><button id="clear" onclick="document.getElementById('input').value = '';">Clear</button>
 	<button id="tweet" onclick="document.location = 'https://twitter.com/?status='+ encodeURI(document.getElementById('input').value);">Tweet</button>
 	
@@ -209,10 +225,10 @@ div.big { font-size: 200%; text-align: center; }
 	
 	Input length: <span id="length"></span> <span id="value"></span>
 	
-	<div id="buttons" class="list">
+	<div id="buttons">
                <div class="big">Please select keymap above to start</div>
 	</div>
-	<p>CC-BY-SA <a href="http://tomercohen.com">Tomer Cohen</a>, 2011. Source code available on <a href="https://github.com/tomer/characterPicker">github</a>.</p>
+	<p>CC-BY-SA <a href="http://tomercohen.com">Tomer Cohen</a>, 2011-2012. Source code available on <a href="https://github.com/tomer/characterPicker">github</a>.</p>
 	<p>Symbola font borrowed from <a href="http://users.teilar.gr/~g1951d">http://users.teilar.gr/~g1951d</a>.
 	</body>
 </html>
