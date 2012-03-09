@@ -14,7 +14,6 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 #input {font-size: 200%; width:100%}
 #buttons button { font-size: 400%; background: none; border: none; min-width: 1ex}
 div.big { font-size: 200%; text-align: center; }
-/*#buttons { height: 20em; overflow: scroll; padding: 25px;}*/
 #buttons button:hover {color:blue; text-shadow:0 0 30px yellow , 0 0 70px yellow;}
 #buttons h2 { border-top: 1px solid silver; }
 
@@ -22,7 +21,7 @@ div.big { font-size: 200%; text-align: center; }
 #buttons.list button {display: block;}
 
 #input.fixed { position: fixed; top: 10px; left: 10px; right: 10px; opacity: 0.9}
-
+a[onclick] { text-decoration: underline; color: blue; cursor: pointer}
 
 		</style>
 		<script>
@@ -174,6 +173,11 @@ div.big { font-size: 200%; text-align: center; }
                 document.getElementById('buttons').textContent = '';
             }
             
+            function loadCharactersFile(filename) { // The other way around 
+                removeButtons();
+                loadCharactersMap(filename);
+            }
+            
 			function start() { 
 				updateInputLength();
 				loadFileList('res/list.json');
@@ -208,8 +212,9 @@ div.big { font-size: 200%; text-align: center; }
 	</head>
 
 	<body id="body" onload="start();" onscroll="makeVisible('input')">
-		<h1>Emoji characters picker</h1>
-		<p>Use the form below to type your message, add some Emoji characters from the list. Please note that you won't see the emoji characters on other sites unless you have some Unicode 6 compliant fonts installed or the website in question loaded the fonts for you.</p>
+		<h1>Unicode characters picker</h1>
+		<p>Use the form below to type your message, and add some characters that are not accessible from your current keyboard mapping from the list below. Please note that you won't see these special characters on other sites unless you have some Unicode 6 compliant fonts installed or thes website itself have loaded the fonts for you.</p>
+		<p>For quick start, you may want to experiment with some <a onclick="loadCharactersFile('0x1f600-emoticons.json')">Emoji glyps</a> or some <a onclick="loadCharactersFile('0x1f300-miscellaneous_symbols_and_pictographs.json')">Pictographs</a>.</p>
 		<textarea id="input" dir="auto" autofocus onkeyup="updateInputLength()" placeholder="Type here your message…" class="not-fixed"></textarea>
 <p><button id="clear" onclick="document.getElementById('input').value = '';">Clear</button>
 	<button id="tweet" onclick="document.location = 'https://twitter.com/?status='+ encodeURI(document.getElementById('input').value);">Tweet</button>
