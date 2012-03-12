@@ -2,74 +2,146 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x1760", 
                 "title": "TAGBANWA LETTER A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x1761", 
                 "title": "TAGBANWA LETTER I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x1762", 
                 "title": "TAGBANWA LETTER U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1763", 
                 "title": "TAGBANWA LETTER KA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1764", 
                 "title": "TAGBANWA LETTER GA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1765", 
                 "title": "TAGBANWA LETTER NGA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1766", 
                 "title": "TAGBANWA LETTER TA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1767", 
                 "title": "TAGBANWA LETTER DA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1768", 
                 "title": "TAGBANWA LETTER NA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1769", 
                 "title": "TAGBANWA LETTER PA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x176a", 
                 "title": "TAGBANWA LETTER BA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x176b", 
                 "title": "TAGBANWA LETTER MA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x176c", 
                 "title": "TAGBANWA LETTER YA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x176e", 
                 "title": "TAGBANWA LETTER LA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x176f", 
                 "title": "TAGBANWA LETTER WA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1770", 
                 "title": "TAGBANWA LETTER SA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x1772", 
                 "title": "TAGBANWA VOWEL SIGN I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x1773", 
                 "title": "TAGBANWA VOWEL SIGN U"
             }

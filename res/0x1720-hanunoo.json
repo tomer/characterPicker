@@ -2,94 +2,186 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x1720", 
                 "title": "HANUNOO LETTER A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x1721", 
                 "title": "HANUNOO LETTER I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x1722", 
                 "title": "HANUNOO LETTER U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1723", 
                 "title": "HANUNOO LETTER KA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1724", 
                 "title": "HANUNOO LETTER GA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1725", 
                 "title": "HANUNOO LETTER NGA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1726", 
                 "title": "HANUNOO LETTER TA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1727", 
                 "title": "HANUNOO LETTER DA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1728", 
                 "title": "HANUNOO LETTER NA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1729", 
                 "title": "HANUNOO LETTER PA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x172a", 
                 "title": "HANUNOO LETTER BA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x172b", 
                 "title": "HANUNOO LETTER MA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x172c", 
                 "title": "HANUNOO LETTER YA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x172d", 
                 "title": "HANUNOO LETTER RA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x172e", 
                 "title": "HANUNOO LETTER LA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x172f", 
                 "title": "HANUNOO LETTER WA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1730", 
                 "title": "HANUNOO LETTER SA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1731", 
                 "title": "HANUNOO LETTER HA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x1732", 
                 "title": "HANUNOO VOWEL SIGN I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x1733", 
                 "title": "HANUNOO VOWEL SIGN U"
             }, 
             {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1734", 
                 "title": "HANUNOO SIGN PAMUDPOD"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1735", 
                 "title": "PHILIPPINE SINGLE PUNCTUATION"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1736", 
                 "title": "PHILIPPINE DOUBLE PUNCTUATION"
             }

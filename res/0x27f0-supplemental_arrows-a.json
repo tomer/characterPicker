@@ -2,62 +2,122 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27f0", 
                 "title": "UPWARDS QUADRUPLE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27f1", 
                 "title": "DOWNWARDS QUADRUPLE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27f2", 
                 "title": "ANTICLOCKWISE GAPPED CIRCLE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27f3", 
                 "title": "CLOCKWISE GAPPED CIRCLE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27f4", 
                 "title": "RIGHT ARROW WITH CIRCLED PLUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Long", 
+                "cat4": "", 
                 "charcode": "0x27f5", 
                 "title": "LONG LEFTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Long", 
+                "cat4": "", 
                 "charcode": "0x27f6", 
                 "title": "LONG RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Long", 
+                "cat4": "", 
                 "charcode": "0x27f7", 
                 "title": "LONG LEFT RIGHT ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Long", 
+                "cat4": "", 
                 "charcode": "0x27f8", 
                 "title": "LONG LEFTWARDS DOUBLE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Long", 
+                "cat4": "", 
                 "charcode": "0x27f9", 
                 "title": "LONG RIGHTWARDS DOUBLE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Long", 
+                "cat4": "", 
                 "charcode": "0x27fa", 
                 "title": "LONG LEFT RIGHT DOUBLE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Long", 
+                "cat4": "", 
                 "charcode": "0x27fb", 
                 "title": "LONG LEFTWARDS ARROW FROM BAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Long", 
+                "cat4": "", 
                 "charcode": "0x27fc", 
                 "title": "LONG RIGHTWARDS ARROW FROM BAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Long", 
+                "cat4": "", 
                 "charcode": "0x27fd", 
                 "title": "LONG LEFTWARDS DOUBLE ARROW FROM BAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Long", 
+                "cat4": "", 
                 "charcode": "0x27fe", 
                 "title": "LONG RIGHTWARDS DOUBLE ARROW FROM BAR"
             }

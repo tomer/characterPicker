@@ -2,270 +2,538 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe81", 
                 "title": "LAO LETTER KO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe82", 
                 "title": "LAO LETTER KHO SUNG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe84", 
                 "title": "LAO LETTER KHO TAM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe87", 
                 "title": "LAO LETTER NGO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe88", 
                 "title": "LAO LETTER CO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe8a", 
                 "title": "LAO LETTER SO TAM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe8d", 
                 "title": "LAO LETTER NYO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe94", 
                 "title": "LAO LETTER DO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe95", 
                 "title": "LAO LETTER TO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe96", 
                 "title": "LAO LETTER THO SUNG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe97", 
                 "title": "LAO LETTER THO TAM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe99", 
                 "title": "LAO LETTER NO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe9a", 
                 "title": "LAO LETTER BO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe9b", 
                 "title": "LAO LETTER PO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe9c", 
                 "title": "LAO LETTER PHO SUNG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe9d", 
                 "title": "LAO LETTER FO TAM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe9e", 
                 "title": "LAO LETTER PHO TAM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe9f", 
                 "title": "LAO LETTER FO SUNG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xea1", 
                 "title": "LAO LETTER MO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xea2", 
                 "title": "LAO LETTER YO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xea3", 
                 "title": "LAO LETTER LO LING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xea5", 
                 "title": "LAO LETTER LO LOOT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xea7", 
                 "title": "LAO LETTER WO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeaa", 
                 "title": "LAO LETTER SO SUNG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeab", 
                 "title": "LAO LETTER HO SUNG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xead", 
                 "title": "LAO LETTER O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeae", 
                 "title": "LAO LETTER HO TAM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeaf", 
                 "title": "LAO ELLIPSIS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeb0", 
                 "title": "LAO VOWEL SIGN A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeb1", 
                 "title": "LAO VOWEL SIGN MAI KAN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeb2", 
                 "title": "LAO VOWEL SIGN AA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeb3", 
                 "title": "LAO VOWEL SIGN AM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeb4", 
                 "title": "LAO VOWEL SIGN I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeb5", 
                 "title": "LAO VOWEL SIGN II"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeb6", 
                 "title": "LAO VOWEL SIGN Y"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeb7", 
                 "title": "LAO VOWEL SIGN YY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeb8", 
                 "title": "LAO VOWEL SIGN U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeb9", 
                 "title": "LAO VOWEL SIGN UU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xebb", 
                 "title": "LAO VOWEL SIGN MAI KON"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xebc", 
                 "title": "LAO SEMIVOWEL SIGN LO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xebd", 
                 "title": "LAO SEMIVOWEL SIGN NYO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xec0", 
                 "title": "LAO VOWEL SIGN E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xec1", 
                 "title": "LAO VOWEL SIGN EI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xec2", 
                 "title": "LAO VOWEL SIGN O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xec3", 
                 "title": "LAO VOWEL SIGN AY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xec4", 
                 "title": "LAO VOWEL SIGN AI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "", 
                 "charcode": "0xec6", 
                 "title": "LAO KO LA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xec8", 
                 "title": "LAO TONE MAI EK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xec9", 
                 "title": "LAO TONE MAI THO"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xeca", 
                 "title": "LAO TONE MAI TI"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xecb", 
                 "title": "LAO TONE MAI CATAWA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xecc", 
                 "title": "LAO CANCELLATION MARK"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xecd", 
                 "title": "LAO NIGGAHITA"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xed0", 
                 "title": "LAO DIGIT ZERO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xed1", 
                 "title": "LAO DIGIT ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xed2", 
                 "title": "LAO DIGIT TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xed3", 
                 "title": "LAO DIGIT THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xed4", 
                 "title": "LAO DIGIT FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xed5", 
                 "title": "LAO DIGIT FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xed6", 
                 "title": "LAO DIGIT SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xed7", 
                 "title": "LAO DIGIT SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xed8", 
                 "title": "LAO DIGIT EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xed9", 
                 "title": "LAO DIGIT NINE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Digraph", 
+                "cat4": "", 
                 "charcode": "0xedc", 
                 "title": "LAO HO NO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Digraph", 
+                "cat4": "", 
                 "charcode": "0xedd", 
                 "title": "LAO HO MO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xede", 
                 "title": "LAO LETTER KHMU GO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xedf", 
                 "title": "LAO LETTER KHMU NYO"
             }

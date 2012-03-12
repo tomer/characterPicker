@@ -2,82 +2,162 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x1700", 
                 "title": "TAGALOG LETTER A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x1701", 
                 "title": "TAGALOG LETTER I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x1702", 
                 "title": "TAGALOG LETTER U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1703", 
                 "title": "TAGALOG LETTER KA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1704", 
                 "title": "TAGALOG LETTER GA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1705", 
                 "title": "TAGALOG LETTER NGA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1706", 
                 "title": "TAGALOG LETTER TA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1707", 
                 "title": "TAGALOG LETTER DA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1708", 
                 "title": "TAGALOG LETTER NA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1709", 
                 "title": "TAGALOG LETTER PA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x170a", 
                 "title": "TAGALOG LETTER BA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x170b", 
                 "title": "TAGALOG LETTER MA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x170c", 
                 "title": "TAGALOG LETTER YA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x170e", 
                 "title": "TAGALOG LETTER LA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x170f", 
                 "title": "TAGALOG LETTER WA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1710", 
                 "title": "TAGALOG LETTER SA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1711", 
                 "title": "TAGALOG LETTER HA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x1712", 
                 "title": "TAGALOG VOWEL SIGN I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x1713", 
                 "title": "TAGALOG VOWEL SIGN U"
             }, 
             {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1714", 
                 "title": "TAGALOG SIGN VIRAMA"
             }

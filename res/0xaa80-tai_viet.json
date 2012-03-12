@@ -2,286 +2,570 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa80", 
                 "title": "TAI VIET LETTER LOW KO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa81", 
                 "title": "TAI VIET LETTER HIGH KO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa82", 
                 "title": "TAI VIET LETTER LOW KHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa83", 
                 "title": "TAI VIET LETTER HIGH KHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa84", 
                 "title": "TAI VIET LETTER LOW KHHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa85", 
                 "title": "TAI VIET LETTER HIGH KHHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa86", 
                 "title": "TAI VIET LETTER LOW GO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa87", 
                 "title": "TAI VIET LETTER HIGH GO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa88", 
                 "title": "TAI VIET LETTER LOW NGO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa89", 
                 "title": "TAI VIET LETTER HIGH NGO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa8a", 
                 "title": "TAI VIET LETTER LOW CO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa8b", 
                 "title": "TAI VIET LETTER HIGH CO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa8c", 
                 "title": "TAI VIET LETTER LOW CHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa8d", 
                 "title": "TAI VIET LETTER HIGH CHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa8e", 
                 "title": "TAI VIET LETTER LOW SO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa8f", 
                 "title": "TAI VIET LETTER HIGH SO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa90", 
                 "title": "TAI VIET LETTER LOW NYO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa91", 
                 "title": "TAI VIET LETTER HIGH NYO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa92", 
                 "title": "TAI VIET LETTER LOW DO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa93", 
                 "title": "TAI VIET LETTER HIGH DO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa94", 
                 "title": "TAI VIET LETTER LOW TO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa95", 
                 "title": "TAI VIET LETTER HIGH TO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa96", 
                 "title": "TAI VIET LETTER LOW THO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa97", 
                 "title": "TAI VIET LETTER HIGH THO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa98", 
                 "title": "TAI VIET LETTER LOW NO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa99", 
                 "title": "TAI VIET LETTER HIGH NO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa9a", 
                 "title": "TAI VIET LETTER LOW BO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa9b", 
                 "title": "TAI VIET LETTER HIGH BO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa9c", 
                 "title": "TAI VIET LETTER LOW PO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa9d", 
                 "title": "TAI VIET LETTER HIGH PO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa9e", 
                 "title": "TAI VIET LETTER LOW PHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa9f", 
                 "title": "TAI VIET LETTER HIGH PHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaa0", 
                 "title": "TAI VIET LETTER LOW FO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaa1", 
                 "title": "TAI VIET LETTER HIGH FO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaa2", 
                 "title": "TAI VIET LETTER LOW MO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaa3", 
                 "title": "TAI VIET LETTER HIGH MO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaa4", 
                 "title": "TAI VIET LETTER LOW YO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaa5", 
                 "title": "TAI VIET LETTER HIGH YO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaa6", 
                 "title": "TAI VIET LETTER LOW RO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaa7", 
                 "title": "TAI VIET LETTER HIGH RO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaa8", 
                 "title": "TAI VIET LETTER LOW LO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaa9", 
                 "title": "TAI VIET LETTER HIGH LO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaaa", 
                 "title": "TAI VIET LETTER LOW VO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaab", 
                 "title": "TAI VIET LETTER HIGH VO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaac", 
                 "title": "TAI VIET LETTER LOW HO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaad", 
                 "title": "TAI VIET LETTER HIGH HO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaae", 
                 "title": "TAI VIET LETTER LOW O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaaf", 
                 "title": "TAI VIET LETTER HIGH O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaab0", 
                 "title": "TAI VIET MAI KANG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaab1", 
                 "title": "TAI VIET VOWEL AA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaab2", 
                 "title": "TAI VIET VOWEL I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaab3", 
                 "title": "TAI VIET VOWEL UE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaab4", 
                 "title": "TAI VIET VOWEL U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaab5", 
                 "title": "TAI VIET VOWEL E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaab6", 
                 "title": "TAI VIET VOWEL O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaab7", 
                 "title": "TAI VIET MAI KHIT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaab8", 
                 "title": "TAI VIET VOWEL IA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaab9", 
                 "title": "TAI VIET VOWEL UEA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaaba", 
                 "title": "TAI VIET VOWEL UA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaabb", 
                 "title": "TAI VIET VOWEL AUE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaabc", 
                 "title": "TAI VIET VOWEL AY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaabd", 
                 "title": "TAI VIET VOWEL AN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaabe", 
                 "title": "TAI VIET VOWEL AM"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaabf", 
                 "title": "TAI VIET TONE MAI EK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaac0", 
                 "title": "TAI VIET TONE MAI NUENG"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaac1", 
                 "title": "TAI VIET TONE MAI THO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaac2", 
                 "title": "TAI VIET TONE MAI SONG"
             }, 
             {
+                "cat1": "Logograph", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaadb", 
                 "title": "TAI VIET SYMBOL KON"
             }, 
             {
+                "cat1": "Logograph", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaadc", 
                 "title": "TAI VIET SYMBOL NUENG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "", 
                 "charcode": "0xaadd", 
                 "title": "TAI VIET SYMBOL SAM"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaade", 
                 "title": "TAI VIET SYMBOL HO HOI"
             }

@@ -2,142 +2,282 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10300", 
                 "title": "OLD ITALIC LETTER A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10301", 
                 "title": "OLD ITALIC LETTER BE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10302", 
                 "title": "OLD ITALIC LETTER KE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10303", 
                 "title": "OLD ITALIC LETTER DE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10304", 
                 "title": "OLD ITALIC LETTER E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10305", 
                 "title": "OLD ITALIC LETTER VE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10306", 
                 "title": "OLD ITALIC LETTER ZE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10307", 
                 "title": "OLD ITALIC LETTER HE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10308", 
                 "title": "OLD ITALIC LETTER THE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10309", 
                 "title": "OLD ITALIC LETTER I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1030a", 
                 "title": "OLD ITALIC LETTER KA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1030b", 
                 "title": "OLD ITALIC LETTER EL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1030c", 
                 "title": "OLD ITALIC LETTER EM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1030d", 
                 "title": "OLD ITALIC LETTER EN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1030e", 
                 "title": "OLD ITALIC LETTER ESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1030f", 
                 "title": "OLD ITALIC LETTER O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10310", 
                 "title": "OLD ITALIC LETTER PE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10311", 
                 "title": "OLD ITALIC LETTER SHE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10312", 
                 "title": "OLD ITALIC LETTER KU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10313", 
                 "title": "OLD ITALIC LETTER ER"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10314", 
                 "title": "OLD ITALIC LETTER ES"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10315", 
                 "title": "OLD ITALIC LETTER TE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10316", 
                 "title": "OLD ITALIC LETTER U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10317", 
                 "title": "OLD ITALIC LETTER EKS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10318", 
                 "title": "OLD ITALIC LETTER PHE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10319", 
                 "title": "OLD ITALIC LETTER KHE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1031a", 
                 "title": "OLD ITALIC LETTER EF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1031b", 
                 "title": "OLD ITALIC LETTER ERS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1031c", 
                 "title": "OLD ITALIC LETTER CHE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1031d", 
                 "title": "OLD ITALIC LETTER II"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1031e", 
                 "title": "OLD ITALIC LETTER UU"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10320", 
                 "title": "OLD ITALIC NUMERAL ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10321", 
                 "title": "OLD ITALIC NUMERAL FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10322", 
                 "title": "OLD ITALIC NUMERAL TEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10323", 
                 "title": "OLD ITALIC NUMERAL FIFTY"
             }

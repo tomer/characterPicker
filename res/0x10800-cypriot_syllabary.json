@@ -2,218 +2,434 @@
     {
         "content": [
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10800", 
                 "title": "CYPRIOT SYLLABLE A"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10801", 
                 "title": "CYPRIOT SYLLABLE E"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10802", 
                 "title": "CYPRIOT SYLLABLE I"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10803", 
                 "title": "CYPRIOT SYLLABLE O"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10804", 
                 "title": "CYPRIOT SYLLABLE U"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10805", 
                 "title": "CYPRIOT SYLLABLE JA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10808", 
                 "title": "CYPRIOT SYLLABLE JO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1080a", 
                 "title": "CYPRIOT SYLLABLE KA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1080b", 
                 "title": "CYPRIOT SYLLABLE KE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1080c", 
                 "title": "CYPRIOT SYLLABLE KI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1080d", 
                 "title": "CYPRIOT SYLLABLE KO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1080e", 
                 "title": "CYPRIOT SYLLABLE KU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1080f", 
                 "title": "CYPRIOT SYLLABLE LA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10810", 
                 "title": "CYPRIOT SYLLABLE LE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10811", 
                 "title": "CYPRIOT SYLLABLE LI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10812", 
                 "title": "CYPRIOT SYLLABLE LO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10813", 
                 "title": "CYPRIOT SYLLABLE LU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10814", 
                 "title": "CYPRIOT SYLLABLE MA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10815", 
                 "title": "CYPRIOT SYLLABLE ME"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10816", 
                 "title": "CYPRIOT SYLLABLE MI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10817", 
                 "title": "CYPRIOT SYLLABLE MO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10818", 
                 "title": "CYPRIOT SYLLABLE MU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10819", 
                 "title": "CYPRIOT SYLLABLE NA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1081a", 
                 "title": "CYPRIOT SYLLABLE NE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1081b", 
                 "title": "CYPRIOT SYLLABLE NI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1081c", 
                 "title": "CYPRIOT SYLLABLE NO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1081d", 
                 "title": "CYPRIOT SYLLABLE NU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1081e", 
                 "title": "CYPRIOT SYLLABLE PA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1081f", 
                 "title": "CYPRIOT SYLLABLE PE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10820", 
                 "title": "CYPRIOT SYLLABLE PI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10821", 
                 "title": "CYPRIOT SYLLABLE PO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10822", 
                 "title": "CYPRIOT SYLLABLE PU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10823", 
                 "title": "CYPRIOT SYLLABLE RA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10824", 
                 "title": "CYPRIOT SYLLABLE RE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10825", 
                 "title": "CYPRIOT SYLLABLE RI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10826", 
                 "title": "CYPRIOT SYLLABLE RO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10827", 
                 "title": "CYPRIOT SYLLABLE RU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10828", 
                 "title": "CYPRIOT SYLLABLE SA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10829", 
                 "title": "CYPRIOT SYLLABLE SE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1082a", 
                 "title": "CYPRIOT SYLLABLE SI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1082b", 
                 "title": "CYPRIOT SYLLABLE SO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1082c", 
                 "title": "CYPRIOT SYLLABLE SU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1082d", 
                 "title": "CYPRIOT SYLLABLE TA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1082e", 
                 "title": "CYPRIOT SYLLABLE TE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1082f", 
                 "title": "CYPRIOT SYLLABLE TI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10830", 
                 "title": "CYPRIOT SYLLABLE TO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10831", 
                 "title": "CYPRIOT SYLLABLE TU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10832", 
                 "title": "CYPRIOT SYLLABLE WA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10833", 
                 "title": "CYPRIOT SYLLABLE WE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10834", 
                 "title": "CYPRIOT SYLLABLE WI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10835", 
                 "title": "CYPRIOT SYLLABLE WO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10837", 
                 "title": "CYPRIOT SYLLABLE XA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10838", 
                 "title": "CYPRIOT SYLLABLE XE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1083c", 
                 "title": "CYPRIOT SYLLABLE ZA"
             }

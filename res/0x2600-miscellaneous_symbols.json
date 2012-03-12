@@ -2,1022 +2,2042 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2600", 
                 "title": "BLACK SUN WITH RAYS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2601", 
                 "title": "CLOUD"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2602", 
                 "title": "UMBRELLA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2603", 
                 "title": "SNOWMAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2604", 
                 "title": "COMET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2605", 
                 "title": "BLACK STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2606", 
                 "title": "WHITE STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2607", 
                 "title": "LIGHTNING"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2608", 
                 "title": "THUNDERSTORM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2609", 
                 "title": "SUN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x260a", 
                 "title": "ASCENDING NODE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x260b", 
                 "title": "DESCENDING NODE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x260c", 
                 "title": "CONJUNCTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x260d", 
                 "title": "OPPOSITION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x260e", 
                 "title": "BLACK TELEPHONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x260f", 
                 "title": "WHITE TELEPHONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2610", 
                 "title": "BALLOT BOX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2611", 
                 "title": "BALLOT BOX WITH CHECK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2612", 
                 "title": "BALLOT BOX WITH X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2613", 
                 "title": "SALTIRE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2614", 
                 "title": "UMBRELLA WITH RAIN DROPS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2615", 
                 "title": "HOT BEVERAGE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Japanese chess", 
+                "cat4": "", 
                 "charcode": "0x2616", 
                 "title": "WHITE SHOGI PIECE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Japanese chess", 
+                "cat4": "", 
                 "charcode": "0x2617", 
                 "title": "BLACK SHOGI PIECE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2618", 
                 "title": "SHAMROCK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2619", 
                 "title": "REVERSED ROTATED FLORAL HEART BULLET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "Pointing", 
                 "charcode": "0x261a", 
                 "title": "BLACK LEFT POINTING INDEX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "Pointing", 
                 "charcode": "0x261b", 
                 "title": "BLACK RIGHT POINTING INDEX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "Pointing", 
                 "charcode": "0x261c", 
                 "title": "WHITE LEFT POINTING INDEX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "Pointing", 
                 "charcode": "0x261d", 
                 "title": "WHITE UP POINTING INDEX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "Pointing", 
                 "charcode": "0x261e", 
                 "title": "WHITE RIGHT POINTING INDEX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "Pointing", 
                 "charcode": "0x261f", 
                 "title": "WHITE DOWN POINTING INDEX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Warning sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2620", 
                 "title": "SKULL AND CROSSBONES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Warning sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2621", 
                 "title": "CAUTION SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Warning sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2622", 
                 "title": "RADIOACTIVE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Warning sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2623", 
                 "title": "BIOHAZARD SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Medical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2624", 
                 "title": "CADUCEUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2625", 
                 "title": "ANKH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Religious", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2626", 
                 "title": "ORTHODOX CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Religious", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2627", 
                 "title": "CHI RHO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Religious", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2628", 
                 "title": "CROSS OF LORRAINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Religious", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2629", 
                 "title": "CROSS OF JERUSALEM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Religious", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x262a", 
                 "title": "STAR AND CRESCENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x262b", 
                 "title": "FARSI SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x262c", 
                 "title": "ADI SHAKTI"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x262d", 
                 "title": "HAMMER AND SICKLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x262e", 
                 "title": "PEACE SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x262f", 
                 "title": "YIN YANG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Trigram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x2630", 
                 "title": "TRIGRAM FOR HEAVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Trigram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x2631", 
                 "title": "TRIGRAM FOR LAKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Trigram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x2632", 
                 "title": "TRIGRAM FOR FIRE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Trigram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x2633", 
                 "title": "TRIGRAM FOR THUNDER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Trigram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x2634", 
                 "title": "TRIGRAM FOR WIND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Trigram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x2635", 
                 "title": "TRIGRAM FOR WATER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Trigram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x2636", 
                 "title": "TRIGRAM FOR MOUNTAIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Trigram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x2637", 
                 "title": "TRIGRAM FOR EARTH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2638", 
                 "title": "WHEEL OF DHARMA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2639", 
                 "title": "WHITE FROWNING FACE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x263a", 
                 "title": "WHITE SMILING FACE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x263b", 
                 "title": "BLACK SMILING FACE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x263c", 
                 "title": "WHITE SUN WITH RAYS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x263d", 
                 "title": "FIRST QUARTER MOON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x263e", 
                 "title": "LAST QUARTER MOON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x263f", 
                 "title": "MERCURY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2640", 
                 "title": "FEMALE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2641", 
                 "title": "EARTH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2642", 
                 "title": "MALE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2643", 
                 "title": "JUPITER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2644", 
                 "title": "SATURN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2645", 
                 "title": "URANUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2646", 
                 "title": "NEPTUNE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2647", 
                 "title": "PLUTO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2648", 
                 "title": "ARIES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2649", 
                 "title": "TAURUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x264a", 
                 "title": "GEMINI"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x264b", 
                 "title": "CANCER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x264c", 
                 "title": "LEO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x264d", 
                 "title": "VIRGO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x264e", 
                 "title": "LIBRA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x264f", 
                 "title": "SCORPIUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2650", 
                 "title": "SAGITTARIUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2651", 
                 "title": "CAPRICORN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2652", 
                 "title": "AQUARIUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2653", 
                 "title": "PISCES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x2654", 
                 "title": "WHITE CHESS KING"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x2655", 
                 "title": "WHITE CHESS QUEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x2656", 
                 "title": "WHITE CHESS ROOK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x2657", 
                 "title": "WHITE CHESS BISHOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x2658", 
                 "title": "WHITE CHESS KNIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x2659", 
                 "title": "WHITE CHESS PAWN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x265a", 
                 "title": "BLACK CHESS KING"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x265b", 
                 "title": "BLACK CHESS QUEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x265c", 
                 "title": "BLACK CHESS ROOK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x265d", 
                 "title": "BLACK CHESS BISHOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x265e", 
                 "title": "BLACK CHESS KNIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Chess", 
+                "cat4": "", 
                 "charcode": "0x265f", 
                 "title": "BLACK CHESS PAWN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x2660", 
                 "title": "BLACK SPADE SUIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x2661", 
                 "title": "WHITE HEART SUIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x2662", 
                 "title": "WHITE DIAMOND SUIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x2663", 
                 "title": "BLACK CLUB SUIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x2664", 
                 "title": "WHITE SPADE SUIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x2665", 
                 "title": "BLACK HEART SUIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x2666", 
                 "title": "BLACK DIAMOND SUIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x2667", 
                 "title": "WHITE CLUB SUIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2668", 
                 "title": "HOT SPRINGS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2669", 
                 "title": "QUARTER NOTE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x266a", 
                 "title": "EIGHTH NOTE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x266b", 
                 "title": "BEAMED EIGHTH NOTES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x266c", 
                 "title": "BEAMED SIXTEENTH NOTES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "Western", 
+                "cat4": "Accidental", 
                 "charcode": "0x266d", 
                 "title": "MUSIC FLAT SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "Western", 
+                "cat4": "Accidental", 
                 "charcode": "0x266e", 
                 "title": "MUSIC NATURAL SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Music", 
+                "cat3": "Western", 
+                "cat4": "Accidental", 
                 "charcode": "0x266f", 
                 "title": "MUSIC SHARP SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Religious", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2670", 
                 "title": "WEST SYRIAC CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Religious", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2671", 
                 "title": "EAST SYRIAC CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2672", 
                 "title": "UNIVERSAL RECYCLING SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2673", 
                 "title": "RECYCLING SYMBOL FOR TYPE-1 PLASTICS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2674", 
                 "title": "RECYCLING SYMBOL FOR TYPE-2 PLASTICS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2675", 
                 "title": "RECYCLING SYMBOL FOR TYPE-3 PLASTICS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2676", 
                 "title": "RECYCLING SYMBOL FOR TYPE-4 PLASTICS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2677", 
                 "title": "RECYCLING SYMBOL FOR TYPE-5 PLASTICS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2678", 
                 "title": "RECYCLING SYMBOL FOR TYPE-6 PLASTICS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2679", 
                 "title": "RECYCLING SYMBOL FOR TYPE-7 PLASTICS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x267a", 
                 "title": "RECYCLING SYMBOL FOR GENERIC MATERIALS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x267b", 
                 "title": "BLACK UNIVERSAL RECYCLING SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x267c", 
                 "title": "RECYCLED PAPER SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Recycling", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x267d", 
                 "title": "PARTIALLY-RECYCLED PAPER SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x267e", 
                 "title": "PERMANENT PAPER SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x267f", 
                 "title": "WHEELCHAIR SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Dice", 
+                "cat4": "", 
                 "charcode": "0x2680", 
                 "title": "DIE FACE-1"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Dice", 
+                "cat4": "", 
                 "charcode": "0x2681", 
                 "title": "DIE FACE-2"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Dice", 
+                "cat4": "", 
                 "charcode": "0x2682", 
                 "title": "DIE FACE-3"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Dice", 
+                "cat4": "", 
                 "charcode": "0x2683", 
                 "title": "DIE FACE-4"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Dice", 
+                "cat4": "", 
                 "charcode": "0x2684", 
                 "title": "DIE FACE-5"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Dice", 
+                "cat4": "", 
                 "charcode": "0x2685", 
                 "title": "DIE FACE-6"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Go", 
+                "cat4": "Marker", 
                 "charcode": "0x2686", 
                 "title": "WHITE CIRCLE WITH DOT RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Go", 
+                "cat4": "Marker", 
                 "charcode": "0x2687", 
                 "title": "WHITE CIRCLE WITH TWO DOTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Go", 
+                "cat4": "Marker", 
                 "charcode": "0x2688", 
                 "title": "BLACK CIRCLE WITH WHITE DOT RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Go", 
+                "cat4": "Marker", 
                 "charcode": "0x2689", 
                 "title": "BLACK CIRCLE WITH TWO WHITE DOTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Monogram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x268a", 
                 "title": "MONOGRAM FOR YANG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Monogram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x268b", 
                 "title": "MONOGRAM FOR YIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Digram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x268c", 
                 "title": "DIGRAM FOR GREATER YANG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Digram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x268d", 
                 "title": "DIGRAM FOR LESSER YIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Digram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x268e", 
                 "title": "DIGRAM FOR LESSER YANG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Digram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
                 "charcode": "0x268f", 
                 "title": "DIGRAM FOR GREATER YIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2690", 
                 "title": "WHITE FLAG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2691", 
                 "title": "BLACK FLAG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2692", 
                 "title": "HAMMER AND PICK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2693", 
                 "title": "ANCHOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2694", 
                 "title": "CROSSED SWORDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dictionary", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2695", 
                 "title": "STAFF OF AESCULAPIUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dictionary", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2696", 
                 "title": "SCALES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dictionary", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2697", 
                 "title": "ALEMBIC"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dictionary", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2698", 
                 "title": "FLOWER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dictionary", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2699", 
                 "title": "GEAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dictionary", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x269a", 
                 "title": "STAFF OF HERMES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x269b", 
                 "title": "ATOM SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x269c", 
                 "title": "FLEUR-DE-LIS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x269d", 
                 "title": "OUTLINED WHITE STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Broadcast", 
+                "cat3": "Closed captioning", 
+                "cat4": "", 
                 "charcode": "0x269e", 
                 "title": "THREE LINES CONVERGING RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Broadcast", 
+                "cat3": "Closed captioning", 
+                "cat4": "", 
                 "charcode": "0x269f", 
                 "title": "THREE LINES CONVERGING LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Warning sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26a0", 
                 "title": "WARNING SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Warning sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26a1", 
                 "title": "HIGH VOLTAGE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Gender", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26a2", 
                 "title": "DOUBLED FEMALE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Gender", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26a3", 
                 "title": "DOUBLED MALE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Gender", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26a4", 
                 "title": "INTERLOCKED FEMALE AND MALE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Gender", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26a5", 
                 "title": "MALE AND FEMALE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Gender", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26a6", 
                 "title": "MALE WITH STROKE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Gender", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26a7", 
                 "title": "MALE WITH STROKE AND MALE AND FEMALE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Gender", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26a8", 
                 "title": "VERTICAL MALE WITH STROKE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Gender", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26a9", 
                 "title": "HORIZONTAL MALE WITH STROKE SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "Circle", 
+                "cat4": "", 
                 "charcode": "0x26aa", 
                 "title": "MEDIUM WHITE CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "Circle", 
+                "cat4": "", 
                 "charcode": "0x26ab", 
                 "title": "MEDIUM BLACK CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "Circle", 
+                "cat4": "", 
                 "charcode": "0x26ac", 
                 "title": "MEDIUM SMALL WHITE CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Genealogical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26ad", 
                 "title": "MARRIAGE SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Genealogical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26ae", 
                 "title": "DIVORCE SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Genealogical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26af", 
                 "title": "UNMARRIED PARTNERSHIP SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Genealogical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26b0", 
                 "title": "COFFIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Genealogical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26b1", 
                 "title": "FUNERAL URN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Gender", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26b2", 
                 "title": "NEUTER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26b3", 
                 "title": "CERES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26b4", 
                 "title": "PALLAS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26b5", 
                 "title": "JUNO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26b6", 
                 "title": "VESTA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26b7", 
                 "title": "CHIRON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26b8", 
                 "title": "BLACK MOON LILITH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26b9", 
                 "title": "SEXTILE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26ba", 
                 "title": "SEMISEXTILE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26bb", 
                 "title": "QUINCUNX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astrological", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26bc", 
                 "title": "SESQUIQUADRATE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Sports", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26bd", 
                 "title": "SOCCER BALL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Sports", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26be", 
                 "title": "BASEBALL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26bf", 
                 "title": "SQUARED KEY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Draughts and checkers", 
+                "cat4": "", 
                 "charcode": "0x26c0", 
                 "title": "WHITE DRAUGHTS MAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Draughts and checkers", 
+                "cat4": "", 
                 "charcode": "0x26c1", 
                 "title": "WHITE DRAUGHTS KING"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Draughts and checkers", 
+                "cat4": "", 
                 "charcode": "0x26c2", 
                 "title": "BLACK DRAUGHTS MAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Draughts and checkers", 
+                "cat4": "", 
                 "charcode": "0x26c3", 
                 "title": "BLACK DRAUGHTS KING"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26c4", 
                 "title": "SNOWMAN WITHOUT SNOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26c5", 
                 "title": "SUN BEHIND CLOUD"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26c6", 
                 "title": "RAIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26c7", 
                 "title": "BLACK SNOWMAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Weather", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26c8", 
                 "title": "THUNDER CLOUD AND RAIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Japanese chess", 
+                "cat4": "", 
                 "charcode": "0x26c9", 
                 "title": "TURNED WHITE SHOGI PIECE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Japanese chess", 
+                "cat4": "", 
                 "charcode": "0x26ca", 
                 "title": "TURNED BLACK SHOGI PIECE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26cb", 
                 "title": "WHITE DIAMOND IN SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26cc", 
                 "title": "CROSSING LANES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26cd", 
                 "title": "DISABLED CAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Zodiac", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26ce", 
                 "title": "OPHIUCHUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26cf", 
                 "title": "PICK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26d0", 
                 "title": "CAR SLIDING"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26d1", 
                 "title": "HELMET WITH WHITE CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26d2", 
                 "title": "CIRCLED CROSSING LANES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26d3", 
                 "title": "CHAINS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26d4", 
                 "title": "NO ENTRY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26d5", 
                 "title": "ALTERNATE ONE-WAY LEFT WAY TRAFFIC"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26d6", 
                 "title": "BLACK TWO-WAY LEFT WAY TRAFFIC"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26d7", 
                 "title": "WHITE TWO-WAY LEFT WAY TRAFFIC"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26d8", 
                 "title": "BLACK LEFT LANE MERGE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26d9", 
                 "title": "WHITE LEFT LANE MERGE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26da", 
                 "title": "DRIVE SLOW SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26db", 
                 "title": "HEAVY WHITE DOWN-POINTING TRIANGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26dc", 
                 "title": "LEFT CLOSED ENTRY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26dd", 
                 "title": "SQUARED SALTIRE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26de", 
                 "title": "FALLING DIAGONAL IN WHITE CIRCLE IN BLACK SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26df", 
                 "title": "BLACK TRUCK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26e0", 
                 "title": "RESTRICTED LEFT ENTRY-1"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26e1", 
                 "title": "RESTRICTED LEFT ENTRY-2"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Astronomical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26e2", 
                 "title": "ASTRONOMICAL SYMBOL FOR URANUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26e3", 
                 "title": "HEAVY CIRCLE WITH STROKE AND TWO DOTS ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Starlike", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26e4", 
                 "title": "PENTAGRAM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Starlike", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26e5", 
                 "title": "RIGHT-HANDED INTERLACED PENTAGRAM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Starlike", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26e6", 
                 "title": "LEFT-HANDED INTERLACED PENTAGRAM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Starlike", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26e7", 
                 "title": "INVERTED PENTAGRAM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26e8", 
                 "title": "BLACK CROSS ON SHIELD"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26e9", 
                 "title": "SHINTO SHRINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26ea", 
                 "title": "CHURCH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26eb", 
                 "title": "CASTLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26ec", 
                 "title": "HISTORIC SITE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26ed", 
                 "title": "GEAR WITHOUT HUB"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26ee", 
                 "title": "GEAR WITH HANDLES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26ef", 
                 "title": "MAP SYMBOL FOR LIGHTHOUSE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26f0", 
                 "title": "MOUNTAIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26f1", 
                 "title": "UMBRELLA ON GROUND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26f2", 
                 "title": "FOUNTAIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26f3", 
                 "title": "FLAG IN HOLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26f4", 
                 "title": "FERRY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26f5", 
                 "title": "SAILBOAT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26f6", 
                 "title": "SQUARE FOUR CORNERS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26f7", 
                 "title": "SKIER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26f8", 
                 "title": "ICE SKATE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26f9", 
                 "title": "PERSON WITH BALL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26fa", 
                 "title": "TENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26fb", 
                 "title": "JAPANESE BANK SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26fc", 
                 "title": "HEADSTONE GRAVEYARD SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26fd", 
                 "title": "FUEL PUMP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x26fe", 
                 "title": "CUP ON BLACK SQUARE"
             }

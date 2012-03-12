@@ -2,190 +2,378 @@
     {
         "content": [
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa900", 
                 "title": "KAYAH LI DIGIT ZERO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa901", 
                 "title": "KAYAH LI DIGIT ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa902", 
                 "title": "KAYAH LI DIGIT TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa903", 
                 "title": "KAYAH LI DIGIT THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa904", 
                 "title": "KAYAH LI DIGIT FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa905", 
                 "title": "KAYAH LI DIGIT FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa906", 
                 "title": "KAYAH LI DIGIT SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa907", 
                 "title": "KAYAH LI DIGIT SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa908", 
                 "title": "KAYAH LI DIGIT EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa909", 
                 "title": "KAYAH LI DIGIT NINE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa90a", 
                 "title": "KAYAH LI LETTER KA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa90b", 
                 "title": "KAYAH LI LETTER KHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa90c", 
                 "title": "KAYAH LI LETTER GA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa90d", 
                 "title": "KAYAH LI LETTER NGA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa90e", 
                 "title": "KAYAH LI LETTER SA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa90f", 
                 "title": "KAYAH LI LETTER SHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa910", 
                 "title": "KAYAH LI LETTER ZA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa911", 
                 "title": "KAYAH LI LETTER NYA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa912", 
                 "title": "KAYAH LI LETTER TA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa913", 
                 "title": "KAYAH LI LETTER HTA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa914", 
                 "title": "KAYAH LI LETTER NA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa915", 
                 "title": "KAYAH LI LETTER PA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa916", 
                 "title": "KAYAH LI LETTER PHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa917", 
                 "title": "KAYAH LI LETTER MA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa918", 
                 "title": "KAYAH LI LETTER DA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa919", 
                 "title": "KAYAH LI LETTER BA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa91a", 
                 "title": "KAYAH LI LETTER RA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa91b", 
                 "title": "KAYAH LI LETTER YA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa91c", 
                 "title": "KAYAH LI LETTER LA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa91d", 
                 "title": "KAYAH LI LETTER WA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa91e", 
                 "title": "KAYAH LI LETTER THA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa91f", 
                 "title": "KAYAH LI LETTER HA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa920", 
                 "title": "KAYAH LI LETTER VA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa921", 
                 "title": "KAYAH LI LETTER CA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa922", 
                 "title": "KAYAH LI LETTER A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa923", 
                 "title": "KAYAH LI LETTER OE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa924", 
                 "title": "KAYAH LI LETTER I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa925", 
                 "title": "KAYAH LI LETTER OO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa926", 
                 "title": "KAYAH LI VOWEL UE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa927", 
                 "title": "KAYAH LI VOWEL E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa928", 
                 "title": "KAYAH LI VOWEL U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa929", 
                 "title": "KAYAH LI VOWEL EE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa92a", 
                 "title": "KAYAH LI VOWEL O"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa92b", 
                 "title": "KAYAH LI TONE PLOPHU"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa92c", 
                 "title": "KAYAH LI TONE CALYA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa92d", 
                 "title": "KAYAH LI TONE CALYA PLOPHU"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa92e", 
                 "title": "KAYAH LI SIGN CWI"
             }

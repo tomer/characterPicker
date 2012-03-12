@@ -2,22 +2,42 @@
     {
         "content": [
             {
+                "cat1": "Format", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfff9", 
                 "title": "INTERLINEAR ANNOTATION ANCHOR"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfffa", 
                 "title": "INTERLINEAR ANNOTATION SEPARATOR"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfffb", 
                 "title": "INTERLINEAR ANNOTATION TERMINATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Replacement", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfffc", 
                 "title": "OBJECT REPLACEMENT CHARACTER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Replacement", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfffd", 
                 "title": "REPLACEMENT CHARACTER"
             }

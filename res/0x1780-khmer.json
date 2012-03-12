@@ -2,458 +2,914 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1780", 
                 "title": "KHMER LETTER KA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1781", 
                 "title": "KHMER LETTER KHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1782", 
                 "title": "KHMER LETTER KO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1783", 
                 "title": "KHMER LETTER KHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1784", 
                 "title": "KHMER LETTER NGO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1785", 
                 "title": "KHMER LETTER CA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1786", 
                 "title": "KHMER LETTER CHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1787", 
                 "title": "KHMER LETTER CO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1788", 
                 "title": "KHMER LETTER CHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1789", 
                 "title": "KHMER LETTER NYO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x178a", 
                 "title": "KHMER LETTER DA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x178b", 
                 "title": "KHMER LETTER TTHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x178c", 
                 "title": "KHMER LETTER DO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x178d", 
                 "title": "KHMER LETTER TTHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x178e", 
                 "title": "KHMER LETTER NNO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x178f", 
                 "title": "KHMER LETTER TA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1790", 
                 "title": "KHMER LETTER THA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1791", 
                 "title": "KHMER LETTER TO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1792", 
                 "title": "KHMER LETTER THO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1793", 
                 "title": "KHMER LETTER NO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1794", 
                 "title": "KHMER LETTER BA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1795", 
                 "title": "KHMER LETTER PHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1796", 
                 "title": "KHMER LETTER PO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1797", 
                 "title": "KHMER LETTER PHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1798", 
                 "title": "KHMER LETTER MO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1799", 
                 "title": "KHMER LETTER YO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x179a", 
                 "title": "KHMER LETTER RO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x179b", 
                 "title": "KHMER LETTER LO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x179c", 
                 "title": "KHMER LETTER VO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x179d", 
                 "title": "KHMER LETTER SHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x179e", 
                 "title": "KHMER LETTER SSO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x179f", 
                 "title": "KHMER LETTER SA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17a0", 
                 "title": "KHMER LETTER HA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17a1", 
                 "title": "KHMER LETTER LA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17a2", 
                 "title": "KHMER LETTER QA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17a3", 
                 "title": "KHMER INDEPENDENT VOWEL QAQ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17a4", 
                 "title": "KHMER INDEPENDENT VOWEL QAA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17a5", 
                 "title": "KHMER INDEPENDENT VOWEL QI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17a6", 
                 "title": "KHMER INDEPENDENT VOWEL QII"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17a7", 
                 "title": "KHMER INDEPENDENT VOWEL QU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17a8", 
                 "title": "KHMER INDEPENDENT VOWEL QUK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17a9", 
                 "title": "KHMER INDEPENDENT VOWEL QUU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17aa", 
                 "title": "KHMER INDEPENDENT VOWEL QUUV"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17ab", 
                 "title": "KHMER INDEPENDENT VOWEL RY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17ac", 
                 "title": "KHMER INDEPENDENT VOWEL RYY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17ad", 
                 "title": "KHMER INDEPENDENT VOWEL LY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17ae", 
                 "title": "KHMER INDEPENDENT VOWEL LYY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17af", 
                 "title": "KHMER INDEPENDENT VOWEL QE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17b0", 
                 "title": "KHMER INDEPENDENT VOWEL QAI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17b1", 
                 "title": "KHMER INDEPENDENT VOWEL QOO TYPE ONE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17b2", 
                 "title": "KHMER INDEPENDENT VOWEL QOO TYPE TWO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0x17b3", 
                 "title": "KHMER INDEPENDENT VOWEL QAU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Inherent", 
+                "cat4": "", 
                 "charcode": "0x17b4", 
                 "title": "KHMER VOWEL INHERENT AQ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Inherent", 
+                "cat4": "", 
                 "charcode": "0x17b5", 
                 "title": "KHMER VOWEL INHERENT AA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x17b6", 
                 "title": "KHMER VOWEL SIGN AA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x17b7", 
                 "title": "KHMER VOWEL SIGN I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x17b8", 
                 "title": "KHMER VOWEL SIGN II"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x17b9", 
                 "title": "KHMER VOWEL SIGN Y"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x17ba", 
                 "title": "KHMER VOWEL SIGN YY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x17bb", 
                 "title": "KHMER VOWEL SIGN U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x17bc", 
                 "title": "KHMER VOWEL SIGN UU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x17bd", 
                 "title": "KHMER VOWEL SIGN UA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "Two-part", 
                 "charcode": "0x17be", 
                 "title": "KHMER VOWEL SIGN OE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "Two-part", 
                 "charcode": "0x17bf", 
                 "title": "KHMER VOWEL SIGN YA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "Two-part", 
                 "charcode": "0x17c0", 
                 "title": "KHMER VOWEL SIGN IE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x17c1", 
                 "title": "KHMER VOWEL SIGN E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x17c2", 
                 "title": "KHMER VOWEL SIGN AE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0x17c3", 
                 "title": "KHMER VOWEL SIGN AI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "Two-part", 
                 "charcode": "0x17c4", 
                 "title": "KHMER VOWEL SIGN OO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "Two-part", 
                 "charcode": "0x17c5", 
                 "title": "KHMER VOWEL SIGN AU"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17c6", 
                 "title": "KHMER SIGN NIKAHIT"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17c7", 
                 "title": "KHMER SIGN REAHMUK"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17c8", 
                 "title": "KHMER SIGN YUUKALEAPINTU"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17c9", 
                 "title": "KHMER SIGN MUUSIKATOAN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17ca", 
                 "title": "KHMER SIGN TRIISAP"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17cb", 
                 "title": "KHMER SIGN BANTOC"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17cc", 
                 "title": "KHMER SIGN ROBAT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17cd", 
                 "title": "KHMER SIGN TOANDAKHIAT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17ce", 
                 "title": "KHMER SIGN KAKABAT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17cf", 
                 "title": "KHMER SIGN AHSDA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17d0", 
                 "title": "KHMER SIGN SAMYOK SANNYA"
             }, 
             {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17d1", 
                 "title": "KHMER SIGN VIRIAM"
             }, 
             {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17d2", 
                 "title": "KHMER SIGN COENG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17d3", 
                 "title": "KHMER SIGN BATHAMASAT"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17d4", 
                 "title": "KHMER SIGN KHAN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17d5", 
                 "title": "KHMER SIGN BARIYOOSAN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17d6", 
                 "title": "KHMER SIGN CAMNUC PII KUUH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17d7", 
                 "title": "KHMER SIGN LEK TOO"
             }, 
             {
+                "cat1": "Logograph", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17d8", 
                 "title": "KHMER SIGN BEYYAL"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17d9", 
                 "title": "KHMER SIGN PHNAEK MUAN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17da", 
                 "title": "KHMER SIGN KOOMUUT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17db", 
                 "title": "KHMER CURRENCY SYMBOL RIEL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17dc", 
                 "title": "KHMER SIGN AVAKRAHASANYA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17dd", 
                 "title": "KHMER SIGN ATTHACAN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17e0", 
                 "title": "KHMER DIGIT ZERO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17e1", 
                 "title": "KHMER DIGIT ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17e2", 
                 "title": "KHMER DIGIT TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17e3", 
                 "title": "KHMER DIGIT THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17e4", 
                 "title": "KHMER DIGIT FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17e5", 
                 "title": "KHMER DIGIT FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17e6", 
                 "title": "KHMER DIGIT SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17e7", 
                 "title": "KHMER DIGIT SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17e8", 
                 "title": "KHMER DIGIT EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17e9", 
                 "title": "KHMER DIGIT NINE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17f0", 
                 "title": "KHMER SYMBOL LEK ATTAK SON"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17f1", 
                 "title": "KHMER SYMBOL LEK ATTAK MUOY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17f2", 
                 "title": "KHMER SYMBOL LEK ATTAK PII"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17f3", 
                 "title": "KHMER SYMBOL LEK ATTAK BEI"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17f4", 
                 "title": "KHMER SYMBOL LEK ATTAK BUON"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17f5", 
                 "title": "KHMER SYMBOL LEK ATTAK PRAM"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17f6", 
                 "title": "KHMER SYMBOL LEK ATTAK PRAM-MUOY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17f7", 
                 "title": "KHMER SYMBOL LEK ATTAK PRAM-PII"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17f8", 
                 "title": "KHMER SYMBOL LEK ATTAK PRAM-BEI"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x17f9", 
                 "title": "KHMER SYMBOL LEK ATTAK PRAM-BUON"
             }

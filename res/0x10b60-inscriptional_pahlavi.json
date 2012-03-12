@@ -2,106 +2,210 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b60", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER ALEPH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b61", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER BETH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b62", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER GIMEL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b63", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER DALETH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b64", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER HE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b65", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER WAW-AYIN-RESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b66", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER ZAYIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b67", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER HETH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b68", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER TETH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b69", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER YODH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b6a", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER KAPH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b6b", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER LAMEDH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b6c", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER MEM-QOPH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b6d", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER NUN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b6e", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER SAMEKH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b6f", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER PE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b70", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER SADHE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b71", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER SHIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b72", 
                 "title": "INSCRIPTIONAL PAHLAVI LETTER TAW"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b78", 
                 "title": "INSCRIPTIONAL PAHLAVI NUMBER ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b79", 
                 "title": "INSCRIPTIONAL PAHLAVI NUMBER TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b7a", 
                 "title": "INSCRIPTIONAL PAHLAVI NUMBER THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b7b", 
                 "title": "INSCRIPTIONAL PAHLAVI NUMBER FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b7c", 
                 "title": "INSCRIPTIONAL PAHLAVI NUMBER TEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b7d", 
                 "title": "INSCRIPTIONAL PAHLAVI NUMBER TWENTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10b7e", 
                 "title": "INSCRIPTIONAL PAHLAVI NUMBER ONE HUNDRED"
             }

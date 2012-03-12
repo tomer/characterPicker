@@ -2,134 +2,266 @@
     {
         "content": [
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20d0", 
                 "title": "COMBINING LEFT HARPOON ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20d1", 
                 "title": "COMBINING RIGHT HARPOON ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20d2", 
                 "title": "COMBINING LONG VERTICAL LINE OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20d3", 
                 "title": "COMBINING SHORT VERTICAL LINE OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20d4", 
                 "title": "COMBINING ANTICLOCKWISE ARROW ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20d5", 
                 "title": "COMBINING CLOCKWISE ARROW ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20d6", 
                 "title": "COMBINING LEFT ARROW ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20d7", 
                 "title": "COMBINING RIGHT ARROW ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20d8", 
                 "title": "COMBINING RING OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20d9", 
                 "title": "COMBINING CLOCKWISE RING OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20da", 
                 "title": "COMBINING ANTICLOCKWISE RING OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20db", 
                 "title": "COMBINING THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20dc", 
                 "title": "COMBINING FOUR DOTS ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Enclosing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20dd", 
                 "title": "COMBINING ENCLOSING CIRCLE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Enclosing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20de", 
                 "title": "COMBINING ENCLOSING SQUARE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Enclosing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20df", 
                 "title": "COMBINING ENCLOSING DIAMOND"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Enclosing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20e0", 
                 "title": "COMBINING ENCLOSING CIRCLE BACKSLASH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20e1", 
                 "title": "COMBINING LEFT RIGHT ARROW ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Enclosing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20e2", 
                 "title": "COMBINING ENCLOSING SCREEN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Enclosing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20e3", 
                 "title": "COMBINING ENCLOSING KEYCAP"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Enclosing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20e4", 
                 "title": "COMBINING ENCLOSING UPWARD POINTING TRIANGLE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20e5", 
                 "title": "COMBINING REVERSE SOLIDUS OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20e6", 
                 "title": "COMBINING DOUBLE VERTICAL STROKE OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20e7", 
                 "title": "COMBINING ANNUITY SYMBOL"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20e8", 
                 "title": "COMBINING TRIPLE UNDERDOT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20e9", 
                 "title": "COMBINING WIDE BRIDGE ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20ea", 
                 "title": "COMBINING LEFTWARDS ARROW OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20eb", 
                 "title": "COMBINING LONG DOUBLE SOLIDUS OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20ec", 
                 "title": "COMBINING RIGHTWARDS HARPOON WITH BARB DOWNWARDS"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20ed", 
                 "title": "COMBINING LEFTWARDS HARPOON WITH BARB DOWNWARDS"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20ee", 
                 "title": "COMBINING LEFT ARROW BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20ef", 
                 "title": "COMBINING RIGHT ARROW BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x20f0", 
                 "title": "COMBINING ASTERISK ABOVE"
             }

@@ -2,510 +2,1018 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d00", 
                 "title": "LATIN LETTER SMALL CAPITAL A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d01", 
                 "title": "LATIN LETTER SMALL CAPITAL AE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d02", 
                 "title": "LATIN SMALL LETTER TURNED AE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d03", 
                 "title": "LATIN LETTER SMALL CAPITAL BARRED B"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d04", 
                 "title": "LATIN LETTER SMALL CAPITAL C"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d05", 
                 "title": "LATIN LETTER SMALL CAPITAL D"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d06", 
                 "title": "LATIN LETTER SMALL CAPITAL ETH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d07", 
                 "title": "LATIN LETTER SMALL CAPITAL E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d08", 
                 "title": "LATIN SMALL LETTER TURNED OPEN E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d09", 
                 "title": "LATIN SMALL LETTER TURNED I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d0a", 
                 "title": "LATIN LETTER SMALL CAPITAL J"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d0b", 
                 "title": "LATIN LETTER SMALL CAPITAL K"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d0c", 
                 "title": "LATIN LETTER SMALL CAPITAL L WITH STROKE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d0d", 
                 "title": "LATIN LETTER SMALL CAPITAL M"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d0e", 
                 "title": "LATIN LETTER SMALL CAPITAL REVERSED N"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d0f", 
                 "title": "LATIN LETTER SMALL CAPITAL O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d10", 
                 "title": "LATIN LETTER SMALL CAPITAL OPEN O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d11", 
                 "title": "LATIN SMALL LETTER SIDEWAYS O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d12", 
                 "title": "LATIN SMALL LETTER SIDEWAYS OPEN O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d13", 
                 "title": "LATIN SMALL LETTER SIDEWAYS O WITH STROKE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d14", 
                 "title": "LATIN SMALL LETTER TURNED OE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d15", 
                 "title": "LATIN LETTER SMALL CAPITAL OU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d16", 
                 "title": "LATIN SMALL LETTER TOP HALF O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d17", 
                 "title": "LATIN SMALL LETTER BOTTOM HALF O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d18", 
                 "title": "LATIN LETTER SMALL CAPITAL P"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d19", 
                 "title": "LATIN LETTER SMALL CAPITAL REVERSED R"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d1a", 
                 "title": "LATIN LETTER SMALL CAPITAL TURNED R"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d1b", 
                 "title": "LATIN LETTER SMALL CAPITAL T"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d1c", 
                 "title": "LATIN LETTER SMALL CAPITAL U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d1d", 
                 "title": "LATIN SMALL LETTER SIDEWAYS U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d1e", 
                 "title": "LATIN SMALL LETTER SIDEWAYS DIAERESIZED U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d1f", 
                 "title": "LATIN SMALL LETTER SIDEWAYS TURNED M"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d20", 
                 "title": "LATIN LETTER SMALL CAPITAL V"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d21", 
                 "title": "LATIN LETTER SMALL CAPITAL W"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d22", 
                 "title": "LATIN LETTER SMALL CAPITAL Z"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d23", 
                 "title": "LATIN LETTER SMALL CAPITAL EZH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d24", 
                 "title": "LATIN LETTER VOICED LARYNGEAL SPIRANT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d25", 
                 "title": "LATIN LETTER AIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d26", 
                 "title": "GREEK LETTER SMALL CAPITAL GAMMA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d27", 
                 "title": "GREEK LETTER SMALL CAPITAL LAMDA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d28", 
                 "title": "GREEK LETTER SMALL CAPITAL PI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d29", 
                 "title": "GREEK LETTER SMALL CAPITAL RHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d2a", 
                 "title": "GREEK LETTER SMALL CAPITAL PSI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d2b", 
                 "title": "CYRILLIC LETTER SMALL CAPITAL EL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d2c", 
                 "title": "MODIFIER LETTER CAPITAL A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d2d", 
                 "title": "MODIFIER LETTER CAPITAL AE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d2e", 
                 "title": "MODIFIER LETTER CAPITAL B"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d2f", 
                 "title": "MODIFIER LETTER CAPITAL BARRED B"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d30", 
                 "title": "MODIFIER LETTER CAPITAL D"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d31", 
                 "title": "MODIFIER LETTER CAPITAL E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d32", 
                 "title": "MODIFIER LETTER CAPITAL REVERSED E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d33", 
                 "title": "MODIFIER LETTER CAPITAL G"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d34", 
                 "title": "MODIFIER LETTER CAPITAL H"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d35", 
                 "title": "MODIFIER LETTER CAPITAL I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d36", 
                 "title": "MODIFIER LETTER CAPITAL J"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d37", 
                 "title": "MODIFIER LETTER CAPITAL K"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d38", 
                 "title": "MODIFIER LETTER CAPITAL L"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d39", 
                 "title": "MODIFIER LETTER CAPITAL M"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d3a", 
                 "title": "MODIFIER LETTER CAPITAL N"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d3b", 
                 "title": "MODIFIER LETTER CAPITAL REVERSED N"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d3c", 
                 "title": "MODIFIER LETTER CAPITAL O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d3d", 
                 "title": "MODIFIER LETTER CAPITAL OU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d3e", 
                 "title": "MODIFIER LETTER CAPITAL P"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d3f", 
                 "title": "MODIFIER LETTER CAPITAL R"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d40", 
                 "title": "MODIFIER LETTER CAPITAL T"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d41", 
                 "title": "MODIFIER LETTER CAPITAL U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d42", 
                 "title": "MODIFIER LETTER CAPITAL W"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d43", 
                 "title": "MODIFIER LETTER SMALL A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d44", 
                 "title": "MODIFIER LETTER SMALL TURNED A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d45", 
                 "title": "MODIFIER LETTER SMALL ALPHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d46", 
                 "title": "MODIFIER LETTER SMALL TURNED AE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d47", 
                 "title": "MODIFIER LETTER SMALL B"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d48", 
                 "title": "MODIFIER LETTER SMALL D"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d49", 
                 "title": "MODIFIER LETTER SMALL E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d4a", 
                 "title": "MODIFIER LETTER SMALL SCHWA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d4b", 
                 "title": "MODIFIER LETTER SMALL OPEN E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d4c", 
                 "title": "MODIFIER LETTER SMALL TURNED OPEN E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d4d", 
                 "title": "MODIFIER LETTER SMALL G"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d4e", 
                 "title": "MODIFIER LETTER SMALL TURNED I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d4f", 
                 "title": "MODIFIER LETTER SMALL K"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d50", 
                 "title": "MODIFIER LETTER SMALL M"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d51", 
                 "title": "MODIFIER LETTER SMALL ENG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d52", 
                 "title": "MODIFIER LETTER SMALL O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d53", 
                 "title": "MODIFIER LETTER SMALL OPEN O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d54", 
                 "title": "MODIFIER LETTER SMALL TOP HALF O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d55", 
                 "title": "MODIFIER LETTER SMALL BOTTOM HALF O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d56", 
                 "title": "MODIFIER LETTER SMALL P"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d57", 
                 "title": "MODIFIER LETTER SMALL T"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d58", 
                 "title": "MODIFIER LETTER SMALL U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d59", 
                 "title": "MODIFIER LETTER SMALL SIDEWAYS U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d5a", 
                 "title": "MODIFIER LETTER SMALL TURNED M"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d5b", 
                 "title": "MODIFIER LETTER SMALL V"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d5c", 
                 "title": "MODIFIER LETTER SMALL AIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d5d", 
                 "title": "MODIFIER LETTER SMALL BETA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d5e", 
                 "title": "MODIFIER LETTER SMALL GREEK GAMMA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d5f", 
                 "title": "MODIFIER LETTER SMALL DELTA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d60", 
                 "title": "MODIFIER LETTER SMALL GREEK PHI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d61", 
                 "title": "MODIFIER LETTER SMALL CHI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x1d62", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x1d63", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER R"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x1d64", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x1d65", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER V"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x1d66", 
                 "title": "GREEK SUBSCRIPT SMALL LETTER BETA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x1d67", 
                 "title": "GREEK SUBSCRIPT SMALL LETTER GAMMA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x1d68", 
                 "title": "GREEK SUBSCRIPT SMALL LETTER RHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x1d69", 
                 "title": "GREEK SUBSCRIPT SMALL LETTER PHI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x1d6a", 
                 "title": "GREEK SUBSCRIPT SMALL LETTER CHI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "UPA", 
+                "cat4": "", 
                 "charcode": "0x1d6b", 
                 "title": "LATIN SMALL LETTER UE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d6c", 
                 "title": "LATIN SMALL LETTER B WITH MIDDLE TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d6d", 
                 "title": "LATIN SMALL LETTER D WITH MIDDLE TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d6e", 
                 "title": "LATIN SMALL LETTER F WITH MIDDLE TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d6f", 
                 "title": "LATIN SMALL LETTER M WITH MIDDLE TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d70", 
                 "title": "LATIN SMALL LETTER N WITH MIDDLE TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d71", 
                 "title": "LATIN SMALL LETTER P WITH MIDDLE TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d72", 
                 "title": "LATIN SMALL LETTER R WITH MIDDLE TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d73", 
                 "title": "LATIN SMALL LETTER R WITH FISHHOOK AND MIDDLE TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d74", 
                 "title": "LATIN SMALL LETTER S WITH MIDDLE TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d75", 
                 "title": "LATIN SMALL LETTER T WITH MIDDLE TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d76", 
                 "title": "LATIN SMALL LETTER Z WITH MIDDLE TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d77", 
                 "title": "LATIN SMALL LETTER TURNED G"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x1d78", 
                 "title": "MODIFIER LETTER CYRILLIC EN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d79", 
                 "title": "LATIN SMALL LETTER INSULAR G"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d7a", 
                 "title": "LATIN SMALL LETTER TH WITH STRIKETHROUGH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d7b", 
                 "title": "LATIN SMALL CAPITAL LETTER I WITH STROKE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d7c", 
                 "title": "LATIN SMALL LETTER IOTA WITH STROKE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d7d", 
                 "title": "LATIN SMALL LETTER P WITH STROKE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1d7e", 
                 "title": "LATIN SMALL CAPITAL LETTER U WITH STROKE"
             }

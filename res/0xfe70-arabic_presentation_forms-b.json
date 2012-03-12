@@ -2,562 +2,1122 @@
     {
         "content": [
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe70", 
                 "title": "ARABIC FATHATAN ISOLATED FORM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe71", 
                 "title": "ARABIC TATWEEL WITH FATHATAN ABOVE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe72", 
                 "title": "ARABIC DAMMATAN ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Fragment", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe73", 
                 "title": "ARABIC TAIL FRAGMENT"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe74", 
                 "title": "ARABIC KASRATAN ISOLATED FORM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe76", 
                 "title": "ARABIC FATHA ISOLATED FORM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe77", 
                 "title": "ARABIC FATHA MEDIAL FORM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe78", 
                 "title": "ARABIC DAMMA ISOLATED FORM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe79", 
                 "title": "ARABIC DAMMA MEDIAL FORM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe7a", 
                 "title": "ARABIC KASRA ISOLATED FORM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe7b", 
                 "title": "ARABIC KASRA MEDIAL FORM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe7c", 
                 "title": "ARABIC SHADDA ISOLATED FORM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe7d", 
                 "title": "ARABIC SHADDA MEDIAL FORM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe7e", 
                 "title": "ARABIC SUKUN ISOLATED FORM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Vowel", 
+                "cat3": "Point", 
+                "cat4": "Spacing", 
                 "charcode": "0xfe7f", 
                 "title": "ARABIC SUKUN MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe80", 
                 "title": "ARABIC LETTER HAMZA ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe81", 
                 "title": "ARABIC LETTER ALEF WITH MADDA ABOVE ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe82", 
                 "title": "ARABIC LETTER ALEF WITH MADDA ABOVE FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe83", 
                 "title": "ARABIC LETTER ALEF WITH HAMZA ABOVE ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe84", 
                 "title": "ARABIC LETTER ALEF WITH HAMZA ABOVE FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe85", 
                 "title": "ARABIC LETTER WAW WITH HAMZA ABOVE ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe86", 
                 "title": "ARABIC LETTER WAW WITH HAMZA ABOVE FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe87", 
                 "title": "ARABIC LETTER ALEF WITH HAMZA BELOW ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe88", 
                 "title": "ARABIC LETTER ALEF WITH HAMZA BELOW FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe89", 
                 "title": "ARABIC LETTER YEH WITH HAMZA ABOVE ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe8a", 
                 "title": "ARABIC LETTER YEH WITH HAMZA ABOVE FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe8b", 
                 "title": "ARABIC LETTER YEH WITH HAMZA ABOVE INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe8c", 
                 "title": "ARABIC LETTER YEH WITH HAMZA ABOVE MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe8d", 
                 "title": "ARABIC LETTER ALEF ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe8e", 
                 "title": "ARABIC LETTER ALEF FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe8f", 
                 "title": "ARABIC LETTER BEH ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe90", 
                 "title": "ARABIC LETTER BEH FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe91", 
                 "title": "ARABIC LETTER BEH INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe92", 
                 "title": "ARABIC LETTER BEH MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe93", 
                 "title": "ARABIC LETTER TEH MARBUTA ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe94", 
                 "title": "ARABIC LETTER TEH MARBUTA FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe95", 
                 "title": "ARABIC LETTER TEH ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe96", 
                 "title": "ARABIC LETTER TEH FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe97", 
                 "title": "ARABIC LETTER TEH INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe98", 
                 "title": "ARABIC LETTER TEH MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe99", 
                 "title": "ARABIC LETTER THEH ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe9a", 
                 "title": "ARABIC LETTER THEH FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe9b", 
                 "title": "ARABIC LETTER THEH INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe9c", 
                 "title": "ARABIC LETTER THEH MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe9d", 
                 "title": "ARABIC LETTER JEEM ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe9e", 
                 "title": "ARABIC LETTER JEEM FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe9f", 
                 "title": "ARABIC LETTER JEEM INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfea0", 
                 "title": "ARABIC LETTER JEEM MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfea1", 
                 "title": "ARABIC LETTER HAH ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfea2", 
                 "title": "ARABIC LETTER HAH FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfea3", 
                 "title": "ARABIC LETTER HAH INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfea4", 
                 "title": "ARABIC LETTER HAH MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfea5", 
                 "title": "ARABIC LETTER KHAH ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfea6", 
                 "title": "ARABIC LETTER KHAH FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfea7", 
                 "title": "ARABIC LETTER KHAH INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfea8", 
                 "title": "ARABIC LETTER KHAH MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfea9", 
                 "title": "ARABIC LETTER DAL ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeaa", 
                 "title": "ARABIC LETTER DAL FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeab", 
                 "title": "ARABIC LETTER THAL ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeac", 
                 "title": "ARABIC LETTER THAL FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfead", 
                 "title": "ARABIC LETTER REH ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeae", 
                 "title": "ARABIC LETTER REH FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeaf", 
                 "title": "ARABIC LETTER ZAIN ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeb0", 
                 "title": "ARABIC LETTER ZAIN FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeb1", 
                 "title": "ARABIC LETTER SEEN ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeb2", 
                 "title": "ARABIC LETTER SEEN FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeb3", 
                 "title": "ARABIC LETTER SEEN INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeb4", 
                 "title": "ARABIC LETTER SEEN MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeb5", 
                 "title": "ARABIC LETTER SHEEN ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeb6", 
                 "title": "ARABIC LETTER SHEEN FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeb7", 
                 "title": "ARABIC LETTER SHEEN INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeb8", 
                 "title": "ARABIC LETTER SHEEN MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeb9", 
                 "title": "ARABIC LETTER SAD ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeba", 
                 "title": "ARABIC LETTER SAD FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfebb", 
                 "title": "ARABIC LETTER SAD INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfebc", 
                 "title": "ARABIC LETTER SAD MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfebd", 
                 "title": "ARABIC LETTER DAD ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfebe", 
                 "title": "ARABIC LETTER DAD FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfebf", 
                 "title": "ARABIC LETTER DAD INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfec0", 
                 "title": "ARABIC LETTER DAD MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfec1", 
                 "title": "ARABIC LETTER TAH ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfec2", 
                 "title": "ARABIC LETTER TAH FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfec3", 
                 "title": "ARABIC LETTER TAH INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfec4", 
                 "title": "ARABIC LETTER TAH MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfec5", 
                 "title": "ARABIC LETTER ZAH ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfec6", 
                 "title": "ARABIC LETTER ZAH FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfec7", 
                 "title": "ARABIC LETTER ZAH INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfec8", 
                 "title": "ARABIC LETTER ZAH MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfec9", 
                 "title": "ARABIC LETTER AIN ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeca", 
                 "title": "ARABIC LETTER AIN FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfecb", 
                 "title": "ARABIC LETTER AIN INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfecc", 
                 "title": "ARABIC LETTER AIN MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfecd", 
                 "title": "ARABIC LETTER GHAIN ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfece", 
                 "title": "ARABIC LETTER GHAIN FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfecf", 
                 "title": "ARABIC LETTER GHAIN INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfed0", 
                 "title": "ARABIC LETTER GHAIN MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfed1", 
                 "title": "ARABIC LETTER FEH ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfed2", 
                 "title": "ARABIC LETTER FEH FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfed3", 
                 "title": "ARABIC LETTER FEH INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfed4", 
                 "title": "ARABIC LETTER FEH MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfed5", 
                 "title": "ARABIC LETTER QAF ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfed6", 
                 "title": "ARABIC LETTER QAF FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfed7", 
                 "title": "ARABIC LETTER QAF INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfed8", 
                 "title": "ARABIC LETTER QAF MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfed9", 
                 "title": "ARABIC LETTER KAF ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeda", 
                 "title": "ARABIC LETTER KAF FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfedb", 
                 "title": "ARABIC LETTER KAF INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfedc", 
                 "title": "ARABIC LETTER KAF MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfedd", 
                 "title": "ARABIC LETTER LAM ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfede", 
                 "title": "ARABIC LETTER LAM FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfedf", 
                 "title": "ARABIC LETTER LAM INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfee0", 
                 "title": "ARABIC LETTER LAM MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfee1", 
                 "title": "ARABIC LETTER MEEM ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfee2", 
                 "title": "ARABIC LETTER MEEM FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfee3", 
                 "title": "ARABIC LETTER MEEM INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfee4", 
                 "title": "ARABIC LETTER MEEM MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfee5", 
                 "title": "ARABIC LETTER NOON ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfee6", 
                 "title": "ARABIC LETTER NOON FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfee7", 
                 "title": "ARABIC LETTER NOON INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfee8", 
                 "title": "ARABIC LETTER NOON MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfee9", 
                 "title": "ARABIC LETTER HEH ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeea", 
                 "title": "ARABIC LETTER HEH FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeeb", 
                 "title": "ARABIC LETTER HEH INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeec", 
                 "title": "ARABIC LETTER HEH MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeed", 
                 "title": "ARABIC LETTER WAW ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeee", 
                 "title": "ARABIC LETTER WAW FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfeef", 
                 "title": "ARABIC LETTER ALEF MAKSURA ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfef0", 
                 "title": "ARABIC LETTER ALEF MAKSURA FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfef1", 
                 "title": "ARABIC LETTER YEH ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfef2", 
                 "title": "ARABIC LETTER YEH FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfef3", 
                 "title": "ARABIC LETTER YEH INITIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfef4", 
                 "title": "ARABIC LETTER YEH MEDIAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfef5", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfef6", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfef7", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfef8", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfef9", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfefa", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW FINAL FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfefb", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfefc", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF FINAL FORM"
             }

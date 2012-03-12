@@ -2,1434 +2,2866 @@
     {
         "content": [
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1200", 
                 "title": "ETHIOPIC SYLLABLE HA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1201", 
                 "title": "ETHIOPIC SYLLABLE HU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1202", 
                 "title": "ETHIOPIC SYLLABLE HI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1203", 
                 "title": "ETHIOPIC SYLLABLE HAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1204", 
                 "title": "ETHIOPIC SYLLABLE HEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1205", 
                 "title": "ETHIOPIC SYLLABLE HE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1206", 
                 "title": "ETHIOPIC SYLLABLE HO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1207", 
                 "title": "ETHIOPIC SYLLABLE HOA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1208", 
                 "title": "ETHIOPIC SYLLABLE LA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1209", 
                 "title": "ETHIOPIC SYLLABLE LU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x120a", 
                 "title": "ETHIOPIC SYLLABLE LI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x120b", 
                 "title": "ETHIOPIC SYLLABLE LAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x120c", 
                 "title": "ETHIOPIC SYLLABLE LEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x120d", 
                 "title": "ETHIOPIC SYLLABLE LE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x120e", 
                 "title": "ETHIOPIC SYLLABLE LO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x120f", 
                 "title": "ETHIOPIC SYLLABLE LWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1210", 
                 "title": "ETHIOPIC SYLLABLE HHA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1211", 
                 "title": "ETHIOPIC SYLLABLE HHU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1212", 
                 "title": "ETHIOPIC SYLLABLE HHI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1213", 
                 "title": "ETHIOPIC SYLLABLE HHAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1214", 
                 "title": "ETHIOPIC SYLLABLE HHEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1215", 
                 "title": "ETHIOPIC SYLLABLE HHE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1216", 
                 "title": "ETHIOPIC SYLLABLE HHO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1217", 
                 "title": "ETHIOPIC SYLLABLE HHWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1218", 
                 "title": "ETHIOPIC SYLLABLE MA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1219", 
                 "title": "ETHIOPIC SYLLABLE MU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x121a", 
                 "title": "ETHIOPIC SYLLABLE MI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x121b", 
                 "title": "ETHIOPIC SYLLABLE MAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x121c", 
                 "title": "ETHIOPIC SYLLABLE MEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x121d", 
                 "title": "ETHIOPIC SYLLABLE ME"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x121e", 
                 "title": "ETHIOPIC SYLLABLE MO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x121f", 
                 "title": "ETHIOPIC SYLLABLE MWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1220", 
                 "title": "ETHIOPIC SYLLABLE SZA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1221", 
                 "title": "ETHIOPIC SYLLABLE SZU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1222", 
                 "title": "ETHIOPIC SYLLABLE SZI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1223", 
                 "title": "ETHIOPIC SYLLABLE SZAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1224", 
                 "title": "ETHIOPIC SYLLABLE SZEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1225", 
                 "title": "ETHIOPIC SYLLABLE SZE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1226", 
                 "title": "ETHIOPIC SYLLABLE SZO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1227", 
                 "title": "ETHIOPIC SYLLABLE SZWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1228", 
                 "title": "ETHIOPIC SYLLABLE RA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1229", 
                 "title": "ETHIOPIC SYLLABLE RU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x122a", 
                 "title": "ETHIOPIC SYLLABLE RI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x122b", 
                 "title": "ETHIOPIC SYLLABLE RAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x122c", 
                 "title": "ETHIOPIC SYLLABLE REE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x122d", 
                 "title": "ETHIOPIC SYLLABLE RE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x122e", 
                 "title": "ETHIOPIC SYLLABLE RO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x122f", 
                 "title": "ETHIOPIC SYLLABLE RWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1230", 
                 "title": "ETHIOPIC SYLLABLE SA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1231", 
                 "title": "ETHIOPIC SYLLABLE SU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1232", 
                 "title": "ETHIOPIC SYLLABLE SI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1233", 
                 "title": "ETHIOPIC SYLLABLE SAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1234", 
                 "title": "ETHIOPIC SYLLABLE SEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1235", 
                 "title": "ETHIOPIC SYLLABLE SE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1236", 
                 "title": "ETHIOPIC SYLLABLE SO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1237", 
                 "title": "ETHIOPIC SYLLABLE SWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1238", 
                 "title": "ETHIOPIC SYLLABLE SHA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1239", 
                 "title": "ETHIOPIC SYLLABLE SHU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x123a", 
                 "title": "ETHIOPIC SYLLABLE SHI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x123b", 
                 "title": "ETHIOPIC SYLLABLE SHAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x123c", 
                 "title": "ETHIOPIC SYLLABLE SHEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x123d", 
                 "title": "ETHIOPIC SYLLABLE SHE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x123e", 
                 "title": "ETHIOPIC SYLLABLE SHO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x123f", 
                 "title": "ETHIOPIC SYLLABLE SHWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1240", 
                 "title": "ETHIOPIC SYLLABLE QA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1241", 
                 "title": "ETHIOPIC SYLLABLE QU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1242", 
                 "title": "ETHIOPIC SYLLABLE QI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1243", 
                 "title": "ETHIOPIC SYLLABLE QAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1244", 
                 "title": "ETHIOPIC SYLLABLE QEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1245", 
                 "title": "ETHIOPIC SYLLABLE QE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1246", 
                 "title": "ETHIOPIC SYLLABLE QO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1247", 
                 "title": "ETHIOPIC SYLLABLE QOA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1248", 
                 "title": "ETHIOPIC SYLLABLE QWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x124a", 
                 "title": "ETHIOPIC SYLLABLE QWI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x124b", 
                 "title": "ETHIOPIC SYLLABLE QWAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x124c", 
                 "title": "ETHIOPIC SYLLABLE QWEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x124d", 
                 "title": "ETHIOPIC SYLLABLE QWE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1250", 
                 "title": "ETHIOPIC SYLLABLE QHA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1251", 
                 "title": "ETHIOPIC SYLLABLE QHU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1252", 
                 "title": "ETHIOPIC SYLLABLE QHI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1253", 
                 "title": "ETHIOPIC SYLLABLE QHAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1254", 
                 "title": "ETHIOPIC SYLLABLE QHEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1255", 
                 "title": "ETHIOPIC SYLLABLE QHE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1256", 
                 "title": "ETHIOPIC SYLLABLE QHO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1258", 
                 "title": "ETHIOPIC SYLLABLE QHWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x125a", 
                 "title": "ETHIOPIC SYLLABLE QHWI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x125b", 
                 "title": "ETHIOPIC SYLLABLE QHWAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x125c", 
                 "title": "ETHIOPIC SYLLABLE QHWEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x125d", 
                 "title": "ETHIOPIC SYLLABLE QHWE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1260", 
                 "title": "ETHIOPIC SYLLABLE BA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1261", 
                 "title": "ETHIOPIC SYLLABLE BU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1262", 
                 "title": "ETHIOPIC SYLLABLE BI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1263", 
                 "title": "ETHIOPIC SYLLABLE BAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1264", 
                 "title": "ETHIOPIC SYLLABLE BEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1265", 
                 "title": "ETHIOPIC SYLLABLE BE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1266", 
                 "title": "ETHIOPIC SYLLABLE BO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1267", 
                 "title": "ETHIOPIC SYLLABLE BWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1268", 
                 "title": "ETHIOPIC SYLLABLE VA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1269", 
                 "title": "ETHIOPIC SYLLABLE VU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x126a", 
                 "title": "ETHIOPIC SYLLABLE VI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x126b", 
                 "title": "ETHIOPIC SYLLABLE VAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x126c", 
                 "title": "ETHIOPIC SYLLABLE VEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x126d", 
                 "title": "ETHIOPIC SYLLABLE VE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x126e", 
                 "title": "ETHIOPIC SYLLABLE VO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x126f", 
                 "title": "ETHIOPIC SYLLABLE VWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1270", 
                 "title": "ETHIOPIC SYLLABLE TA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1271", 
                 "title": "ETHIOPIC SYLLABLE TU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1272", 
                 "title": "ETHIOPIC SYLLABLE TI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1273", 
                 "title": "ETHIOPIC SYLLABLE TAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1274", 
                 "title": "ETHIOPIC SYLLABLE TEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1275", 
                 "title": "ETHIOPIC SYLLABLE TE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1276", 
                 "title": "ETHIOPIC SYLLABLE TO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1277", 
                 "title": "ETHIOPIC SYLLABLE TWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1278", 
                 "title": "ETHIOPIC SYLLABLE CA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1279", 
                 "title": "ETHIOPIC SYLLABLE CU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x127a", 
                 "title": "ETHIOPIC SYLLABLE CI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x127b", 
                 "title": "ETHIOPIC SYLLABLE CAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x127c", 
                 "title": "ETHIOPIC SYLLABLE CEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x127d", 
                 "title": "ETHIOPIC SYLLABLE CE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x127e", 
                 "title": "ETHIOPIC SYLLABLE CO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x127f", 
                 "title": "ETHIOPIC SYLLABLE CWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1280", 
                 "title": "ETHIOPIC SYLLABLE XA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1281", 
                 "title": "ETHIOPIC SYLLABLE XU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1282", 
                 "title": "ETHIOPIC SYLLABLE XI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1283", 
                 "title": "ETHIOPIC SYLLABLE XAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1284", 
                 "title": "ETHIOPIC SYLLABLE XEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1285", 
                 "title": "ETHIOPIC SYLLABLE XE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1286", 
                 "title": "ETHIOPIC SYLLABLE XO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1287", 
                 "title": "ETHIOPIC SYLLABLE XOA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1288", 
                 "title": "ETHIOPIC SYLLABLE XWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x128a", 
                 "title": "ETHIOPIC SYLLABLE XWI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x128b", 
                 "title": "ETHIOPIC SYLLABLE XWAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x128c", 
                 "title": "ETHIOPIC SYLLABLE XWEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x128d", 
                 "title": "ETHIOPIC SYLLABLE XWE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1290", 
                 "title": "ETHIOPIC SYLLABLE NA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1291", 
                 "title": "ETHIOPIC SYLLABLE NU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1292", 
                 "title": "ETHIOPIC SYLLABLE NI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1293", 
                 "title": "ETHIOPIC SYLLABLE NAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1294", 
                 "title": "ETHIOPIC SYLLABLE NEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1295", 
                 "title": "ETHIOPIC SYLLABLE NE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1296", 
                 "title": "ETHIOPIC SYLLABLE NO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1297", 
                 "title": "ETHIOPIC SYLLABLE NWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1298", 
                 "title": "ETHIOPIC SYLLABLE NYA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1299", 
                 "title": "ETHIOPIC SYLLABLE NYU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x129a", 
                 "title": "ETHIOPIC SYLLABLE NYI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x129b", 
                 "title": "ETHIOPIC SYLLABLE NYAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x129c", 
                 "title": "ETHIOPIC SYLLABLE NYEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x129d", 
                 "title": "ETHIOPIC SYLLABLE NYE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x129e", 
                 "title": "ETHIOPIC SYLLABLE NYO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x129f", 
                 "title": "ETHIOPIC SYLLABLE NYWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12a0", 
                 "title": "ETHIOPIC SYLLABLE GLOTTAL A"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12a1", 
                 "title": "ETHIOPIC SYLLABLE GLOTTAL U"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12a2", 
                 "title": "ETHIOPIC SYLLABLE GLOTTAL I"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12a3", 
                 "title": "ETHIOPIC SYLLABLE GLOTTAL AA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12a4", 
                 "title": "ETHIOPIC SYLLABLE GLOTTAL EE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12a5", 
                 "title": "ETHIOPIC SYLLABLE GLOTTAL E"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12a6", 
                 "title": "ETHIOPIC SYLLABLE GLOTTAL O"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12a7", 
                 "title": "ETHIOPIC SYLLABLE GLOTTAL WA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12a8", 
                 "title": "ETHIOPIC SYLLABLE KA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12a9", 
                 "title": "ETHIOPIC SYLLABLE KU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12aa", 
                 "title": "ETHIOPIC SYLLABLE KI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ab", 
                 "title": "ETHIOPIC SYLLABLE KAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ac", 
                 "title": "ETHIOPIC SYLLABLE KEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ad", 
                 "title": "ETHIOPIC SYLLABLE KE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ae", 
                 "title": "ETHIOPIC SYLLABLE KO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12af", 
                 "title": "ETHIOPIC SYLLABLE KOA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12b0", 
                 "title": "ETHIOPIC SYLLABLE KWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12b2", 
                 "title": "ETHIOPIC SYLLABLE KWI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12b3", 
                 "title": "ETHIOPIC SYLLABLE KWAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12b4", 
                 "title": "ETHIOPIC SYLLABLE KWEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12b5", 
                 "title": "ETHIOPIC SYLLABLE KWE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12b8", 
                 "title": "ETHIOPIC SYLLABLE KXA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12b9", 
                 "title": "ETHIOPIC SYLLABLE KXU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ba", 
                 "title": "ETHIOPIC SYLLABLE KXI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12bb", 
                 "title": "ETHIOPIC SYLLABLE KXAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12bc", 
                 "title": "ETHIOPIC SYLLABLE KXEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12bd", 
                 "title": "ETHIOPIC SYLLABLE KXE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12be", 
                 "title": "ETHIOPIC SYLLABLE KXO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12c0", 
                 "title": "ETHIOPIC SYLLABLE KXWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12c2", 
                 "title": "ETHIOPIC SYLLABLE KXWI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12c3", 
                 "title": "ETHIOPIC SYLLABLE KXWAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12c4", 
                 "title": "ETHIOPIC SYLLABLE KXWEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12c5", 
                 "title": "ETHIOPIC SYLLABLE KXWE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12c8", 
                 "title": "ETHIOPIC SYLLABLE WA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12c9", 
                 "title": "ETHIOPIC SYLLABLE WU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ca", 
                 "title": "ETHIOPIC SYLLABLE WI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12cb", 
                 "title": "ETHIOPIC SYLLABLE WAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12cc", 
                 "title": "ETHIOPIC SYLLABLE WEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12cd", 
                 "title": "ETHIOPIC SYLLABLE WE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ce", 
                 "title": "ETHIOPIC SYLLABLE WO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12cf", 
                 "title": "ETHIOPIC SYLLABLE WOA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12d0", 
                 "title": "ETHIOPIC SYLLABLE PHARYNGEAL A"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12d1", 
                 "title": "ETHIOPIC SYLLABLE PHARYNGEAL U"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12d2", 
                 "title": "ETHIOPIC SYLLABLE PHARYNGEAL I"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12d3", 
                 "title": "ETHIOPIC SYLLABLE PHARYNGEAL AA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12d4", 
                 "title": "ETHIOPIC SYLLABLE PHARYNGEAL EE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12d5", 
                 "title": "ETHIOPIC SYLLABLE PHARYNGEAL E"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12d6", 
                 "title": "ETHIOPIC SYLLABLE PHARYNGEAL O"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12d8", 
                 "title": "ETHIOPIC SYLLABLE ZA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12d9", 
                 "title": "ETHIOPIC SYLLABLE ZU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12da", 
                 "title": "ETHIOPIC SYLLABLE ZI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12db", 
                 "title": "ETHIOPIC SYLLABLE ZAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12dc", 
                 "title": "ETHIOPIC SYLLABLE ZEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12dd", 
                 "title": "ETHIOPIC SYLLABLE ZE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12de", 
                 "title": "ETHIOPIC SYLLABLE ZO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12df", 
                 "title": "ETHIOPIC SYLLABLE ZWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12e0", 
                 "title": "ETHIOPIC SYLLABLE ZHA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12e1", 
                 "title": "ETHIOPIC SYLLABLE ZHU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12e2", 
                 "title": "ETHIOPIC SYLLABLE ZHI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12e3", 
                 "title": "ETHIOPIC SYLLABLE ZHAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12e4", 
                 "title": "ETHIOPIC SYLLABLE ZHEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12e5", 
                 "title": "ETHIOPIC SYLLABLE ZHE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12e6", 
                 "title": "ETHIOPIC SYLLABLE ZHO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12e7", 
                 "title": "ETHIOPIC SYLLABLE ZHWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12e8", 
                 "title": "ETHIOPIC SYLLABLE YA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12e9", 
                 "title": "ETHIOPIC SYLLABLE YU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ea", 
                 "title": "ETHIOPIC SYLLABLE YI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12eb", 
                 "title": "ETHIOPIC SYLLABLE YAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ec", 
                 "title": "ETHIOPIC SYLLABLE YEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ed", 
                 "title": "ETHIOPIC SYLLABLE YE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ee", 
                 "title": "ETHIOPIC SYLLABLE YO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ef", 
                 "title": "ETHIOPIC SYLLABLE YOA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12f0", 
                 "title": "ETHIOPIC SYLLABLE DA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12f1", 
                 "title": "ETHIOPIC SYLLABLE DU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12f2", 
                 "title": "ETHIOPIC SYLLABLE DI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12f3", 
                 "title": "ETHIOPIC SYLLABLE DAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12f4", 
                 "title": "ETHIOPIC SYLLABLE DEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12f5", 
                 "title": "ETHIOPIC SYLLABLE DE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12f6", 
                 "title": "ETHIOPIC SYLLABLE DO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12f7", 
                 "title": "ETHIOPIC SYLLABLE DWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12f8", 
                 "title": "ETHIOPIC SYLLABLE DDA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12f9", 
                 "title": "ETHIOPIC SYLLABLE DDU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12fa", 
                 "title": "ETHIOPIC SYLLABLE DDI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12fb", 
                 "title": "ETHIOPIC SYLLABLE DDAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12fc", 
                 "title": "ETHIOPIC SYLLABLE DDEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12fd", 
                 "title": "ETHIOPIC SYLLABLE DDE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12fe", 
                 "title": "ETHIOPIC SYLLABLE DDO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x12ff", 
                 "title": "ETHIOPIC SYLLABLE DDWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1300", 
                 "title": "ETHIOPIC SYLLABLE JA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1301", 
                 "title": "ETHIOPIC SYLLABLE JU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1302", 
                 "title": "ETHIOPIC SYLLABLE JI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1303", 
                 "title": "ETHIOPIC SYLLABLE JAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1304", 
                 "title": "ETHIOPIC SYLLABLE JEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1305", 
                 "title": "ETHIOPIC SYLLABLE JE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1306", 
                 "title": "ETHIOPIC SYLLABLE JO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1307", 
                 "title": "ETHIOPIC SYLLABLE JWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1308", 
                 "title": "ETHIOPIC SYLLABLE GA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1309", 
                 "title": "ETHIOPIC SYLLABLE GU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x130a", 
                 "title": "ETHIOPIC SYLLABLE GI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x130b", 
                 "title": "ETHIOPIC SYLLABLE GAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x130c", 
                 "title": "ETHIOPIC SYLLABLE GEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x130d", 
                 "title": "ETHIOPIC SYLLABLE GE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x130e", 
                 "title": "ETHIOPIC SYLLABLE GO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x130f", 
                 "title": "ETHIOPIC SYLLABLE GOA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1310", 
                 "title": "ETHIOPIC SYLLABLE GWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1312", 
                 "title": "ETHIOPIC SYLLABLE GWI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1313", 
                 "title": "ETHIOPIC SYLLABLE GWAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1314", 
                 "title": "ETHIOPIC SYLLABLE GWEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1315", 
                 "title": "ETHIOPIC SYLLABLE GWE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1318", 
                 "title": "ETHIOPIC SYLLABLE GGA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1319", 
                 "title": "ETHIOPIC SYLLABLE GGU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x131a", 
                 "title": "ETHIOPIC SYLLABLE GGI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x131b", 
                 "title": "ETHIOPIC SYLLABLE GGAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x131c", 
                 "title": "ETHIOPIC SYLLABLE GGEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x131d", 
                 "title": "ETHIOPIC SYLLABLE GGE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x131e", 
                 "title": "ETHIOPIC SYLLABLE GGO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x131f", 
                 "title": "ETHIOPIC SYLLABLE GGWAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1320", 
                 "title": "ETHIOPIC SYLLABLE THA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1321", 
                 "title": "ETHIOPIC SYLLABLE THU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1322", 
                 "title": "ETHIOPIC SYLLABLE THI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1323", 
                 "title": "ETHIOPIC SYLLABLE THAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1324", 
                 "title": "ETHIOPIC SYLLABLE THEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1325", 
                 "title": "ETHIOPIC SYLLABLE THE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1326", 
                 "title": "ETHIOPIC SYLLABLE THO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1327", 
                 "title": "ETHIOPIC SYLLABLE THWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1328", 
                 "title": "ETHIOPIC SYLLABLE CHA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1329", 
                 "title": "ETHIOPIC SYLLABLE CHU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x132a", 
                 "title": "ETHIOPIC SYLLABLE CHI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x132b", 
                 "title": "ETHIOPIC SYLLABLE CHAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x132c", 
                 "title": "ETHIOPIC SYLLABLE CHEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x132d", 
                 "title": "ETHIOPIC SYLLABLE CHE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x132e", 
                 "title": "ETHIOPIC SYLLABLE CHO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x132f", 
                 "title": "ETHIOPIC SYLLABLE CHWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1330", 
                 "title": "ETHIOPIC SYLLABLE PHA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1331", 
                 "title": "ETHIOPIC SYLLABLE PHU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1332", 
                 "title": "ETHIOPIC SYLLABLE PHI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1333", 
                 "title": "ETHIOPIC SYLLABLE PHAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1334", 
                 "title": "ETHIOPIC SYLLABLE PHEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1335", 
                 "title": "ETHIOPIC SYLLABLE PHE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1336", 
                 "title": "ETHIOPIC SYLLABLE PHO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1337", 
                 "title": "ETHIOPIC SYLLABLE PHWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1338", 
                 "title": "ETHIOPIC SYLLABLE TSA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1339", 
                 "title": "ETHIOPIC SYLLABLE TSU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x133a", 
                 "title": "ETHIOPIC SYLLABLE TSI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x133b", 
                 "title": "ETHIOPIC SYLLABLE TSAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x133c", 
                 "title": "ETHIOPIC SYLLABLE TSEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x133d", 
                 "title": "ETHIOPIC SYLLABLE TSE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x133e", 
                 "title": "ETHIOPIC SYLLABLE TSO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x133f", 
                 "title": "ETHIOPIC SYLLABLE TSWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1340", 
                 "title": "ETHIOPIC SYLLABLE TZA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1341", 
                 "title": "ETHIOPIC SYLLABLE TZU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1342", 
                 "title": "ETHIOPIC SYLLABLE TZI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1343", 
                 "title": "ETHIOPIC SYLLABLE TZAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1344", 
                 "title": "ETHIOPIC SYLLABLE TZEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1345", 
                 "title": "ETHIOPIC SYLLABLE TZE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1346", 
                 "title": "ETHIOPIC SYLLABLE TZO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1347", 
                 "title": "ETHIOPIC SYLLABLE TZOA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1348", 
                 "title": "ETHIOPIC SYLLABLE FA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1349", 
                 "title": "ETHIOPIC SYLLABLE FU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x134a", 
                 "title": "ETHIOPIC SYLLABLE FI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x134b", 
                 "title": "ETHIOPIC SYLLABLE FAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x134c", 
                 "title": "ETHIOPIC SYLLABLE FEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x134d", 
                 "title": "ETHIOPIC SYLLABLE FE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x134e", 
                 "title": "ETHIOPIC SYLLABLE FO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x134f", 
                 "title": "ETHIOPIC SYLLABLE FWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1350", 
                 "title": "ETHIOPIC SYLLABLE PA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1351", 
                 "title": "ETHIOPIC SYLLABLE PU"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1352", 
                 "title": "ETHIOPIC SYLLABLE PI"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1353", 
                 "title": "ETHIOPIC SYLLABLE PAA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1354", 
                 "title": "ETHIOPIC SYLLABLE PEE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1355", 
                 "title": "ETHIOPIC SYLLABLE PE"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1356", 
                 "title": "ETHIOPIC SYLLABLE PO"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1357", 
                 "title": "ETHIOPIC SYLLABLE PWA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1358", 
                 "title": "ETHIOPIC SYLLABLE RYA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1359", 
                 "title": "ETHIOPIC SYLLABLE MYA"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x135a", 
                 "title": "ETHIOPIC SYLLABLE FYA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x135d", 
                 "title": "ETHIOPIC COMBINING GEMINATION AND VOWEL LENGTH MARK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x135e", 
                 "title": "ETHIOPIC COMBINING VOWEL LENGTH MARK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x135f", 
                 "title": "ETHIOPIC COMBINING GEMINATION MARK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1360", 
                 "title": "ETHIOPIC SECTION MARK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1361", 
                 "title": "ETHIOPIC WORDSPACE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1362", 
                 "title": "ETHIOPIC FULL STOP"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1363", 
                 "title": "ETHIOPIC COMMA"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1364", 
                 "title": "ETHIOPIC SEMICOLON"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1365", 
                 "title": "ETHIOPIC COLON"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1366", 
                 "title": "ETHIOPIC PREFACE COLON"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1367", 
                 "title": "ETHIOPIC QUESTION MARK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1368", 
                 "title": "ETHIOPIC PARAGRAPH SEPARATOR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1369", 
                 "title": "ETHIOPIC DIGIT ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x136a", 
                 "title": "ETHIOPIC DIGIT TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x136b", 
                 "title": "ETHIOPIC DIGIT THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x136c", 
                 "title": "ETHIOPIC DIGIT FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x136d", 
                 "title": "ETHIOPIC DIGIT FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x136e", 
                 "title": "ETHIOPIC DIGIT SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x136f", 
                 "title": "ETHIOPIC DIGIT SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1370", 
                 "title": "ETHIOPIC DIGIT EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1371", 
                 "title": "ETHIOPIC DIGIT NINE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1372", 
                 "title": "ETHIOPIC NUMBER TEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1373", 
                 "title": "ETHIOPIC NUMBER TWENTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1374", 
                 "title": "ETHIOPIC NUMBER THIRTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1375", 
                 "title": "ETHIOPIC NUMBER FORTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1376", 
                 "title": "ETHIOPIC NUMBER FIFTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1377", 
                 "title": "ETHIOPIC NUMBER SIXTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1378", 
                 "title": "ETHIOPIC NUMBER SEVENTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1379", 
                 "title": "ETHIOPIC NUMBER EIGHTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x137a", 
                 "title": "ETHIOPIC NUMBER NINETY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x137b", 
                 "title": "ETHIOPIC NUMBER HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x137c", 
                 "title": "ETHIOPIC NUMBER TEN THOUSAND"
             }

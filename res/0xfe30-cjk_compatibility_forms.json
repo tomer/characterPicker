@@ -2,126 +2,250 @@
     {
         "content": [
             {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe30", 
                 "title": "PRESENTATION FORM FOR VERTICAL TWO DOT LEADER"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe31", 
                 "title": "PRESENTATION FORM FOR VERTICAL EM DASH"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe32", 
                 "title": "PRESENTATION FORM FOR VERTICAL EN DASH"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe33", 
                 "title": "PRESENTATION FORM FOR VERTICAL LOW LINE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe34", 
                 "title": "PRESENTATION FORM FOR VERTICAL WAVY LOW LINE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe35", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT PARENTHESIS"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe36", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT PARENTHESIS"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe37", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe38", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT CURLY BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe39", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT TORTOISE SHELL BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe3a", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT TORTOISE SHELL BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe3b", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT BLACK LENTICULAR BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe3c", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT BLACK LENTICULAR BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe3d", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT DOUBLE ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe3e", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT DOUBLE ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe3f", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe40", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe41", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT CORNER BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe42", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT CORNER BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe43", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT WHITE CORNER BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe44", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT WHITE CORNER BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe45", 
                 "title": "SESAME DOT"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe46", 
                 "title": "WHITE SESAME DOT"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe47", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT SQUARE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Vertical", 
+                "cat4": "", 
                 "charcode": "0xfe48", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT SQUARE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe49", 
                 "title": "DASHED OVERLINE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe4a", 
                 "title": "CENTRELINE OVERLINE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe4b", 
                 "title": "WAVY OVERLINE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe4c", 
                 "title": "DOUBLE WAVY OVERLINE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe4d", 
                 "title": "DASHED LOW LINE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe4e", 
                 "title": "CENTRELINE LOW LINE"
             }

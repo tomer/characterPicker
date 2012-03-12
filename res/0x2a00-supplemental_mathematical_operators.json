@@ -2,1022 +2,2042 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a00", 
                 "title": "N-ARY CIRCLED DOT OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a01", 
                 "title": "N-ARY CIRCLED PLUS OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a02", 
                 "title": "N-ARY CIRCLED TIMES OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a03", 
                 "title": "N-ARY UNION OPERATOR WITH DOT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a04", 
                 "title": "N-ARY UNION OPERATOR WITH PLUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a05", 
                 "title": "N-ARY SQUARE INTERSECTION OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a06", 
                 "title": "N-ARY SQUARE UNION OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a07", 
                 "title": "TWO LOGICAL AND OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a08", 
                 "title": "TWO LOGICAL OR OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a09", 
                 "title": "N-ARY TIMES OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a0a", 
                 "title": "MODULO TWO SUM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a0b", 
                 "title": "SUMMATION WITH INTEGRAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a0c", 
                 "title": "QUADRUPLE INTEGRAL OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a0d", 
                 "title": "FINITE PART INTEGRAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a0e", 
                 "title": "INTEGRAL WITH DOUBLE STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a0f", 
                 "title": "INTEGRAL AVERAGE WITH SLASH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a10", 
                 "title": "CIRCULATION FUNCTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a11", 
                 "title": "ANTICLOCKWISE INTEGRATION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a12", 
                 "title": "LINE INTEGRATION WITH RECTANGULAR PATH AROUND POLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a13", 
                 "title": "LINE INTEGRATION WITH SEMICIRCULAR PATH AROUND POLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a14", 
                 "title": "LINE INTEGRATION NOT INCLUDING THE POLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a15", 
                 "title": "INTEGRAL AROUND A POINT OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a16", 
                 "title": "QUATERNION INTEGRAL OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a17", 
                 "title": "INTEGRAL WITH LEFTWARDS ARROW WITH HOOK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a18", 
                 "title": "INTEGRAL WITH TIMES SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a19", 
                 "title": "INTEGRAL WITH INTERSECTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a1a", 
                 "title": "INTEGRAL WITH UNION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a1b", 
                 "title": "INTEGRAL WITH OVERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a1c", 
                 "title": "INTEGRAL WITH UNDERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a1d", 
                 "title": "JOIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a1e", 
                 "title": "LARGE LEFT TRIANGLE OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a1f", 
                 "title": "Z NOTATION SCHEMA COMPOSITION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a20", 
                 "title": "Z NOTATION SCHEMA PIPING"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x2a21", 
                 "title": "Z NOTATION SCHEMA PROJECTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a22", 
                 "title": "PLUS SIGN WITH SMALL CIRCLE ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a23", 
                 "title": "PLUS SIGN WITH CIRCUMFLEX ACCENT ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a24", 
                 "title": "PLUS SIGN WITH TILDE ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a25", 
                 "title": "PLUS SIGN WITH DOT BELOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a26", 
                 "title": "PLUS SIGN WITH TILDE BELOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a27", 
                 "title": "PLUS SIGN WITH SUBSCRIPT TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a28", 
                 "title": "PLUS SIGN WITH BLACK TRIANGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a29", 
                 "title": "MINUS SIGN WITH COMMA ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a2a", 
                 "title": "MINUS SIGN WITH DOT BELOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a2b", 
                 "title": "MINUS SIGN WITH FALLING DOTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a2c", 
                 "title": "MINUS SIGN WITH RISING DOTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a2d", 
                 "title": "PLUS SIGN IN LEFT HALF CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a2e", 
                 "title": "PLUS SIGN IN RIGHT HALF CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a2f", 
                 "title": "VECTOR OR CROSS PRODUCT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a30", 
                 "title": "MULTIPLICATION SIGN WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a31", 
                 "title": "MULTIPLICATION SIGN WITH UNDERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a32", 
                 "title": "SEMIDIRECT PRODUCT WITH BOTTOM CLOSED"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a33", 
                 "title": "SMASH PRODUCT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a34", 
                 "title": "MULTIPLICATION SIGN IN LEFT HALF CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a35", 
                 "title": "MULTIPLICATION SIGN IN RIGHT HALF CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a36", 
                 "title": "CIRCLED MULTIPLICATION SIGN WITH CIRCUMFLEX ACCENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a37", 
                 "title": "MULTIPLICATION SIGN IN DOUBLE CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a38", 
                 "title": "CIRCLED DIVISION SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a39", 
                 "title": "PLUS SIGN IN TRIANGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a3a", 
                 "title": "MINUS SIGN IN TRIANGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a3b", 
                 "title": "MULTIPLICATION SIGN IN TRIANGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a3c", 
                 "title": "INTERIOR PRODUCT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a3d", 
                 "title": "RIGHTHAND INTERIOR PRODUCT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a3e", 
                 "title": "Z NOTATION RELATIONAL COMPOSITION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a3f", 
                 "title": "AMALGAMATION OR COPRODUCT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a40", 
                 "title": "INTERSECTION WITH DOT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a41", 
                 "title": "UNION WITH MINUS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a42", 
                 "title": "UNION WITH OVERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a43", 
                 "title": "INTERSECTION WITH OVERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a44", 
                 "title": "INTERSECTION WITH LOGICAL AND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a45", 
                 "title": "UNION WITH LOGICAL OR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a46", 
                 "title": "UNION ABOVE INTERSECTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a47", 
                 "title": "INTERSECTION ABOVE UNION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a48", 
                 "title": "UNION ABOVE BAR ABOVE INTERSECTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a49", 
                 "title": "INTERSECTION ABOVE BAR ABOVE UNION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a4a", 
                 "title": "UNION BESIDE AND JOINED WITH UNION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a4b", 
                 "title": "INTERSECTION BESIDE AND JOINED WITH INTERSECTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a4c", 
                 "title": "CLOSED UNION WITH SERIFS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a4d", 
                 "title": "CLOSED INTERSECTION WITH SERIFS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a4e", 
                 "title": "DOUBLE SQUARE INTERSECTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a4f", 
                 "title": "DOUBLE SQUARE UNION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a50", 
                 "title": "CLOSED UNION WITH SERIFS AND SMASH PRODUCT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a51", 
                 "title": "LOGICAL AND WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a52", 
                 "title": "LOGICAL OR WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a53", 
                 "title": "DOUBLE LOGICAL AND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a54", 
                 "title": "DOUBLE LOGICAL OR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a55", 
                 "title": "TWO INTERSECTING LOGICAL AND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a56", 
                 "title": "TWO INTERSECTING LOGICAL OR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a57", 
                 "title": "SLOPING LARGE OR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a58", 
                 "title": "SLOPING LARGE AND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a59", 
                 "title": "LOGICAL OR OVERLAPPING LOGICAL AND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a5a", 
                 "title": "LOGICAL AND WITH MIDDLE STEM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a5b", 
                 "title": "LOGICAL OR WITH MIDDLE STEM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a5c", 
                 "title": "LOGICAL AND WITH HORIZONTAL DASH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a5d", 
                 "title": "LOGICAL OR WITH HORIZONTAL DASH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a5e", 
                 "title": "LOGICAL AND WITH DOUBLE OVERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a5f", 
                 "title": "LOGICAL AND WITH UNDERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a60", 
                 "title": "LOGICAL AND WITH DOUBLE UNDERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a61", 
                 "title": "SMALL VEE WITH UNDERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a62", 
                 "title": "LOGICAL OR WITH DOUBLE OVERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a63", 
                 "title": "LOGICAL OR WITH DOUBLE UNDERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a64", 
                 "title": "Z NOTATION DOMAIN ANTIRESTRICTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2a65", 
                 "title": "Z NOTATION RANGE ANTIRESTRICTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a66", 
                 "title": "EQUALS SIGN WITH DOT BELOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a67", 
                 "title": "IDENTICAL WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a68", 
                 "title": "TRIPLE HORIZONTAL BAR WITH DOUBLE VERTICAL STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a69", 
                 "title": "TRIPLE HORIZONTAL BAR WITH TRIPLE VERTICAL STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a6a", 
                 "title": "TILDE OPERATOR WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a6b", 
                 "title": "TILDE OPERATOR WITH RISING DOTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a6c", 
                 "title": "SIMILAR MINUS SIMILAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a6d", 
                 "title": "CONGRUENT WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a6e", 
                 "title": "EQUALS WITH ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a6f", 
                 "title": "ALMOST EQUAL TO WITH CIRCUMFLEX ACCENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a70", 
                 "title": "APPROXIMATELY EQUAL OR EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a71", 
                 "title": "EQUALS SIGN ABOVE PLUS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a72", 
                 "title": "PLUS SIGN ABOVE EQUALS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a73", 
                 "title": "EQUALS SIGN ABOVE TILDE OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a74", 
                 "title": "DOUBLE COLON EQUAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a75", 
                 "title": "TWO CONSECUTIVE EQUALS SIGNS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a76", 
                 "title": "THREE CONSECUTIVE EQUALS SIGNS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a77", 
                 "title": "EQUALS SIGN WITH TWO DOTS ABOVE AND TWO DOTS BELOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a78", 
                 "title": "EQUIVALENT WITH FOUR DOTS ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a79", 
                 "title": "LESS-THAN WITH CIRCLE INSIDE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a7a", 
                 "title": "GREATER-THAN WITH CIRCLE INSIDE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a7b", 
                 "title": "LESS-THAN WITH QUESTION MARK ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a7c", 
                 "title": "GREATER-THAN WITH QUESTION MARK ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a7d", 
                 "title": "LESS-THAN OR SLANTED EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a7e", 
                 "title": "GREATER-THAN OR SLANTED EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a7f", 
                 "title": "LESS-THAN OR SLANTED EQUAL TO WITH DOT INSIDE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a80", 
                 "title": "GREATER-THAN OR SLANTED EQUAL TO WITH DOT INSIDE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a81", 
                 "title": "LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a82", 
                 "title": "GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a83", 
                 "title": "LESS-THAN OR SLANTED EQUAL TO WITH DOT ABOVE RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a84", 
                 "title": "GREATER-THAN OR SLANTED EQUAL TO WITH DOT ABOVE LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a85", 
                 "title": "LESS-THAN OR APPROXIMATE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a86", 
                 "title": "GREATER-THAN OR APPROXIMATE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a87", 
                 "title": "LESS-THAN AND SINGLE-LINE NOT EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a88", 
                 "title": "GREATER-THAN AND SINGLE-LINE NOT EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a89", 
                 "title": "LESS-THAN AND NOT APPROXIMATE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a8a", 
                 "title": "GREATER-THAN AND NOT APPROXIMATE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a8b", 
                 "title": "LESS-THAN ABOVE DOUBLE-LINE EQUAL ABOVE GREATER-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a8c", 
                 "title": "GREATER-THAN ABOVE DOUBLE-LINE EQUAL ABOVE LESS-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a8d", 
                 "title": "LESS-THAN ABOVE SIMILAR OR EQUAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a8e", 
                 "title": "GREATER-THAN ABOVE SIMILAR OR EQUAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a8f", 
                 "title": "LESS-THAN ABOVE SIMILAR ABOVE GREATER-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a90", 
                 "title": "GREATER-THAN ABOVE SIMILAR ABOVE LESS-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a91", 
                 "title": "LESS-THAN ABOVE GREATER-THAN ABOVE DOUBLE-LINE EQUAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a92", 
                 "title": "GREATER-THAN ABOVE LESS-THAN ABOVE DOUBLE-LINE EQUAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a93", 
                 "title": "LESS-THAN ABOVE SLANTED EQUAL ABOVE GREATER-THAN ABOVE SLANTED EQUAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a94", 
                 "title": "GREATER-THAN ABOVE SLANTED EQUAL ABOVE LESS-THAN ABOVE SLANTED EQUAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a95", 
                 "title": "SLANTED EQUAL TO OR LESS-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a96", 
                 "title": "SLANTED EQUAL TO OR GREATER-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a97", 
                 "title": "SLANTED EQUAL TO OR LESS-THAN WITH DOT INSIDE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a98", 
                 "title": "SLANTED EQUAL TO OR GREATER-THAN WITH DOT INSIDE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a99", 
                 "title": "DOUBLE-LINE EQUAL TO OR LESS-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a9a", 
                 "title": "DOUBLE-LINE EQUAL TO OR GREATER-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a9b", 
                 "title": "DOUBLE-LINE SLANTED EQUAL TO OR LESS-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a9c", 
                 "title": "DOUBLE-LINE SLANTED EQUAL TO OR GREATER-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a9d", 
                 "title": "SIMILAR OR LESS-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a9e", 
                 "title": "SIMILAR OR GREATER-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2a9f", 
                 "title": "SIMILAR ABOVE LESS-THAN ABOVE EQUALS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aa0", 
                 "title": "SIMILAR ABOVE GREATER-THAN ABOVE EQUALS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aa1", 
                 "title": "DOUBLE NESTED LESS-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aa2", 
                 "title": "DOUBLE NESTED GREATER-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aa3", 
                 "title": "DOUBLE NESTED LESS-THAN WITH UNDERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aa4", 
                 "title": "GREATER-THAN OVERLAPPING LESS-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aa5", 
                 "title": "GREATER-THAN BESIDE LESS-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aa6", 
                 "title": "LESS-THAN CLOSED BY CURVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aa7", 
                 "title": "GREATER-THAN CLOSED BY CURVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aa8", 
                 "title": "LESS-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aa9", 
                 "title": "GREATER-THAN CLOSED BY CURVE ABOVE SLANTED EQUAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aaa", 
                 "title": "SMALLER THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aab", 
                 "title": "LARGER THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aac", 
                 "title": "SMALLER THAN OR EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aad", 
                 "title": "LARGER THAN OR EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aae", 
                 "title": "EQUALS SIGN WITH BUMPY ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aaf", 
                 "title": "PRECEDES ABOVE SINGLE-LINE EQUALS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ab0", 
                 "title": "SUCCEEDS ABOVE SINGLE-LINE EQUALS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ab1", 
                 "title": "PRECEDES ABOVE SINGLE-LINE NOT EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ab2", 
                 "title": "SUCCEEDS ABOVE SINGLE-LINE NOT EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ab3", 
                 "title": "PRECEDES ABOVE EQUALS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ab4", 
                 "title": "SUCCEEDS ABOVE EQUALS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ab5", 
                 "title": "PRECEDES ABOVE NOT EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ab6", 
                 "title": "SUCCEEDS ABOVE NOT EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ab7", 
                 "title": "PRECEDES ABOVE ALMOST EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ab8", 
                 "title": "SUCCEEDS ABOVE ALMOST EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ab9", 
                 "title": "PRECEDES ABOVE NOT ALMOST EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aba", 
                 "title": "SUCCEEDS ABOVE NOT ALMOST EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2abb", 
                 "title": "DOUBLE PRECEDES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2abc", 
                 "title": "DOUBLE SUCCEEDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2abd", 
                 "title": "SUBSET WITH DOT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2abe", 
                 "title": "SUPERSET WITH DOT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2abf", 
                 "title": "SUBSET WITH PLUS SIGN BELOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ac0", 
                 "title": "SUPERSET WITH PLUS SIGN BELOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ac1", 
                 "title": "SUBSET WITH MULTIPLICATION SIGN BELOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ac2", 
                 "title": "SUPERSET WITH MULTIPLICATION SIGN BELOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ac3", 
                 "title": "SUBSET OF OR EQUAL TO WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ac4", 
                 "title": "SUPERSET OF OR EQUAL TO WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ac5", 
                 "title": "SUBSET OF ABOVE EQUALS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ac6", 
                 "title": "SUPERSET OF ABOVE EQUALS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ac7", 
                 "title": "SUBSET OF ABOVE TILDE OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ac8", 
                 "title": "SUPERSET OF ABOVE TILDE OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ac9", 
                 "title": "SUBSET OF ABOVE ALMOST EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2aca", 
                 "title": "SUPERSET OF ABOVE ALMOST EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2acb", 
                 "title": "SUBSET OF ABOVE NOT EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2acc", 
                 "title": "SUPERSET OF ABOVE NOT EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2acd", 
                 "title": "SQUARE LEFT OPEN BOX OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ace", 
                 "title": "SQUARE RIGHT OPEN BOX OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2acf", 
                 "title": "CLOSED SUBSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ad0", 
                 "title": "CLOSED SUPERSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ad1", 
                 "title": "CLOSED SUBSET OR EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ad2", 
                 "title": "CLOSED SUPERSET OR EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ad3", 
                 "title": "SUBSET ABOVE SUPERSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ad4", 
                 "title": "SUPERSET ABOVE SUBSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ad5", 
                 "title": "SUBSET ABOVE SUBSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ad6", 
                 "title": "SUPERSET ABOVE SUPERSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ad7", 
                 "title": "SUPERSET BESIDE SUBSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2ad8", 
                 "title": "SUPERSET BESIDE AND JOINED BY DASH WITH SUBSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Fork", 
+                "cat4": "", 
                 "charcode": "0x2ad9", 
                 "title": "ELEMENT OF OPENING DOWNWARDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Fork", 
+                "cat4": "", 
                 "charcode": "0x2ada", 
                 "title": "PITCHFORK WITH TEE TOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Fork", 
+                "cat4": "", 
                 "charcode": "0x2adb", 
                 "title": "TRANSVERSAL INTERSECTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Fork", 
+                "cat4": "", 
                 "charcode": "0x2adc", 
                 "title": "FORKING"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Fork", 
+                "cat4": "", 
                 "charcode": "0x2add", 
                 "title": "NONFORKING"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ade", 
                 "title": "SHORT LEFT TACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2adf", 
                 "title": "SHORT DOWN TACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ae0", 
                 "title": "SHORT UP TACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ae1", 
                 "title": "PERPENDICULAR WITH S"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ae2", 
                 "title": "VERTICAL BAR TRIPLE RIGHT TURNSTILE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ae3", 
                 "title": "DOUBLE VERTICAL BAR LEFT TURNSTILE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ae4", 
                 "title": "VERTICAL BAR DOUBLE LEFT TURNSTILE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ae5", 
                 "title": "DOUBLE VERTICAL BAR DOUBLE LEFT TURNSTILE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ae6", 
                 "title": "LONG DASH FROM LEFT MEMBER OF DOUBLE VERTICAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ae7", 
                 "title": "SHORT DOWN TACK WITH OVERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ae8", 
                 "title": "SHORT UP TACK WITH UNDERBAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ae9", 
                 "title": "SHORT UP TACK ABOVE SHORT DOWN TACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2aea", 
                 "title": "DOUBLE DOWN TACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2aeb", 
                 "title": "DOUBLE UP TACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2aec", 
                 "title": "DOUBLE STROKE NOT SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2aed", 
                 "title": "REVERSED DOUBLE STROKE NOT SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2aee", 
                 "title": "DOES NOT DIVIDE WITH REVERSED NEGATION SLASH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2aef", 
                 "title": "VERTICAL LINE WITH CIRCLE ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2af0", 
                 "title": "VERTICAL LINE WITH CIRCLE BELOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2af1", 
                 "title": "DOWN TACK WITH CIRCLE BELOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2af2", 
                 "title": "PARALLEL WITH HORIZONTAL STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2af3", 
                 "title": "PARALLEL WITH TILDE OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2af4", 
                 "title": "TRIPLE VERTICAL BAR BINARY RELATION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2af5", 
                 "title": "TRIPLE VERTICAL BAR WITH HORIZONTAL STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2af6", 
                 "title": "TRIPLE COLON OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2af7", 
                 "title": "TRIPLE NESTED LESS-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2af8", 
                 "title": "TRIPLE NESTED GREATER-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2af9", 
                 "title": "DOUBLE-LINE SLANTED LESS-THAN OR EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2afa", 
                 "title": "DOUBLE-LINE SLANTED GREATER-THAN OR EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
                 "charcode": "0x2afb", 
                 "title": "TRIPLE SOLIDUS BINARY RELATION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2afc", 
                 "title": "LARGE TRIPLE VERTICAL BAR OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2afd", 
                 "title": "DOUBLE SOLIDUS OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x2afe", 
                 "title": "WHITE VERTICAL BAR"
             }

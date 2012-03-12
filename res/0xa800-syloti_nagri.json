@@ -2,178 +2,354 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0xa800", 
                 "title": "SYLOTI NAGRI LETTER A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0xa801", 
                 "title": "SYLOTI NAGRI LETTER I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa802", 
                 "title": "SYLOTI NAGRI SIGN DVISVARA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0xa803", 
                 "title": "SYLOTI NAGRI LETTER U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0xa804", 
                 "title": "SYLOTI NAGRI LETTER E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Independent", 
+                "cat4": "", 
                 "charcode": "0xa805", 
                 "title": "SYLOTI NAGRI LETTER O"
             }, 
             {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa806", 
                 "title": "SYLOTI NAGRI SIGN HASANTA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa807", 
                 "title": "SYLOTI NAGRI LETTER KO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa808", 
                 "title": "SYLOTI NAGRI LETTER KHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa809", 
                 "title": "SYLOTI NAGRI LETTER GO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa80a", 
                 "title": "SYLOTI NAGRI LETTER GHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa80b", 
                 "title": "SYLOTI NAGRI SIGN ANUSVARA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa80c", 
                 "title": "SYLOTI NAGRI LETTER CO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa80d", 
                 "title": "SYLOTI NAGRI LETTER CHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa80e", 
                 "title": "SYLOTI NAGRI LETTER JO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa80f", 
                 "title": "SYLOTI NAGRI LETTER JHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa810", 
                 "title": "SYLOTI NAGRI LETTER TTO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa811", 
                 "title": "SYLOTI NAGRI LETTER TTHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa812", 
                 "title": "SYLOTI NAGRI LETTER DDO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa813", 
                 "title": "SYLOTI NAGRI LETTER DDHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa814", 
                 "title": "SYLOTI NAGRI LETTER TO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa815", 
                 "title": "SYLOTI NAGRI LETTER THO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa816", 
                 "title": "SYLOTI NAGRI LETTER DO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa817", 
                 "title": "SYLOTI NAGRI LETTER DHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa818", 
                 "title": "SYLOTI NAGRI LETTER NO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa819", 
                 "title": "SYLOTI NAGRI LETTER PO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa81a", 
                 "title": "SYLOTI NAGRI LETTER PHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa81b", 
                 "title": "SYLOTI NAGRI LETTER BO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa81c", 
                 "title": "SYLOTI NAGRI LETTER BHO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa81d", 
                 "title": "SYLOTI NAGRI LETTER MO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa81e", 
                 "title": "SYLOTI NAGRI LETTER RO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa81f", 
                 "title": "SYLOTI NAGRI LETTER LO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa820", 
                 "title": "SYLOTI NAGRI LETTER RRO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa821", 
                 "title": "SYLOTI NAGRI LETTER SO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa822", 
                 "title": "SYLOTI NAGRI LETTER HO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0xa823", 
                 "title": "SYLOTI NAGRI VOWEL SIGN A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0xa824", 
                 "title": "SYLOTI NAGRI VOWEL SIGN I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0xa825", 
                 "title": "SYLOTI NAGRI VOWEL SIGN U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0xa826", 
                 "title": "SYLOTI NAGRI VOWEL SIGN E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Dependent", 
+                "cat4": "", 
                 "charcode": "0xa827", 
                 "title": "SYLOTI NAGRI VOWEL SIGN OO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Poetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa828", 
                 "title": "SYLOTI NAGRI POETRY MARK-1"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Poetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa829", 
                 "title": "SYLOTI NAGRI POETRY MARK-2"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Poetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa82a", 
                 "title": "SYLOTI NAGRI POETRY MARK-3"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Poetic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa82b", 
                 "title": "SYLOTI NAGRI POETRY MARK-4"
             }

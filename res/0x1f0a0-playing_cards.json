@@ -2,238 +2,474 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0a0", 
                 "title": "PLAYING CARD BACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0a1", 
                 "title": "PLAYING CARD ACE OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0a2", 
                 "title": "PLAYING CARD TWO OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0a3", 
                 "title": "PLAYING CARD THREE OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0a4", 
                 "title": "PLAYING CARD FOUR OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0a5", 
                 "title": "PLAYING CARD FIVE OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0a6", 
                 "title": "PLAYING CARD SIX OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0a7", 
                 "title": "PLAYING CARD SEVEN OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0a8", 
                 "title": "PLAYING CARD EIGHT OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0a9", 
                 "title": "PLAYING CARD NINE OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0aa", 
                 "title": "PLAYING CARD TEN OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0ab", 
                 "title": "PLAYING CARD JACK OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0ac", 
                 "title": "PLAYING CARD KNIGHT OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0ad", 
                 "title": "PLAYING CARD QUEEN OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0ae", 
                 "title": "PLAYING CARD KING OF SPADES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0b1", 
                 "title": "PLAYING CARD ACE OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0b2", 
                 "title": "PLAYING CARD TWO OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0b3", 
                 "title": "PLAYING CARD THREE OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0b4", 
                 "title": "PLAYING CARD FOUR OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0b5", 
                 "title": "PLAYING CARD FIVE OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0b6", 
                 "title": "PLAYING CARD SIX OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0b7", 
                 "title": "PLAYING CARD SEVEN OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0b8", 
                 "title": "PLAYING CARD EIGHT OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0b9", 
                 "title": "PLAYING CARD NINE OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0ba", 
                 "title": "PLAYING CARD TEN OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0bb", 
                 "title": "PLAYING CARD JACK OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0bc", 
                 "title": "PLAYING CARD KNIGHT OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0bd", 
                 "title": "PLAYING CARD QUEEN OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0be", 
                 "title": "PLAYING CARD KING OF HEARTS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0c1", 
                 "title": "PLAYING CARD ACE OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0c2", 
                 "title": "PLAYING CARD TWO OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0c3", 
                 "title": "PLAYING CARD THREE OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0c4", 
                 "title": "PLAYING CARD FOUR OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0c5", 
                 "title": "PLAYING CARD FIVE OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0c6", 
                 "title": "PLAYING CARD SIX OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0c7", 
                 "title": "PLAYING CARD SEVEN OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0c8", 
                 "title": "PLAYING CARD EIGHT OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0c9", 
                 "title": "PLAYING CARD NINE OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0ca", 
                 "title": "PLAYING CARD TEN OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0cb", 
                 "title": "PLAYING CARD JACK OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0cc", 
                 "title": "PLAYING CARD KNIGHT OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0cd", 
                 "title": "PLAYING CARD QUEEN OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0ce", 
                 "title": "PLAYING CARD KING OF DIAMONDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0cf", 
                 "title": "PLAYING CARD BLACK JOKER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0d1", 
                 "title": "PLAYING CARD ACE OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0d2", 
                 "title": "PLAYING CARD TWO OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0d3", 
                 "title": "PLAYING CARD THREE OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0d4", 
                 "title": "PLAYING CARD FOUR OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0d5", 
                 "title": "PLAYING CARD FIVE OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0d6", 
                 "title": "PLAYING CARD SIX OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0d7", 
                 "title": "PLAYING CARD SEVEN OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0d8", 
                 "title": "PLAYING CARD EIGHT OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0d9", 
                 "title": "PLAYING CARD NINE OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0da", 
                 "title": "PLAYING CARD TEN OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0db", 
                 "title": "PLAYING CARD JACK OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0dc", 
                 "title": "PLAYING CARD KNIGHT OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0dd", 
                 "title": "PLAYING CARD QUEEN OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0de", 
                 "title": "PLAYING CARD KING OF CLUBS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Game", 
+                "cat3": "Playing card", 
+                "cat4": "", 
                 "charcode": "0x1f0df", 
                 "title": "PLAYING CARD WHITE JOKER"
             }

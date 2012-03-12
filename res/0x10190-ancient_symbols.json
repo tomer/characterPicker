@@ -2,50 +2,98 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10190", 
                 "title": "ROMAN SEXTANS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10191", 
                 "title": "ROMAN UNCIA SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10192", 
                 "title": "ROMAN SEMUNCIA SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10193", 
                 "title": "ROMAN SEXTULA SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10194", 
                 "title": "ROMAN DIMIDIA SEXTULA SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10195", 
                 "title": "ROMAN SILIQUA SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10196", 
                 "title": "ROMAN DENARIUS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10197", 
                 "title": "ROMAN QUINARIUS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10198", 
                 "title": "ROMAN SESTERTIUS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10199", 
                 "title": "ROMAN DUPONDIUS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1019a", 
                 "title": "ROMAN AS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1019b", 
                 "title": "ROMAN CENTURIAL SIGN"
             }

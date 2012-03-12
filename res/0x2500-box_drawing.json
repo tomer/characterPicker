@@ -2,510 +2,1018 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2500", 
                 "title": "BOX DRAWINGS LIGHT HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2501", 
                 "title": "BOX DRAWINGS HEAVY HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2502", 
                 "title": "BOX DRAWINGS LIGHT VERTICAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2503", 
                 "title": "BOX DRAWINGS HEAVY VERTICAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2504", 
                 "title": "BOX DRAWINGS LIGHT TRIPLE DASH HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2505", 
                 "title": "BOX DRAWINGS HEAVY TRIPLE DASH HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2506", 
                 "title": "BOX DRAWINGS LIGHT TRIPLE DASH VERTICAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2507", 
                 "title": "BOX DRAWINGS HEAVY TRIPLE DASH VERTICAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2508", 
                 "title": "BOX DRAWINGS LIGHT QUADRUPLE DASH HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2509", 
                 "title": "BOX DRAWINGS HEAVY QUADRUPLE DASH HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x250a", 
                 "title": "BOX DRAWINGS LIGHT QUADRUPLE DASH VERTICAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x250b", 
                 "title": "BOX DRAWINGS HEAVY QUADRUPLE DASH VERTICAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x250c", 
                 "title": "BOX DRAWINGS LIGHT DOWN AND RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x250d", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND RIGHT HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x250e", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND RIGHT LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x250f", 
                 "title": "BOX DRAWINGS HEAVY DOWN AND RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2510", 
                 "title": "BOX DRAWINGS LIGHT DOWN AND LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2511", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND LEFT HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2512", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND LEFT LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2513", 
                 "title": "BOX DRAWINGS HEAVY DOWN AND LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2514", 
                 "title": "BOX DRAWINGS LIGHT UP AND RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2515", 
                 "title": "BOX DRAWINGS UP LIGHT AND RIGHT HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2516", 
                 "title": "BOX DRAWINGS UP HEAVY AND RIGHT LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2517", 
                 "title": "BOX DRAWINGS HEAVY UP AND RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2518", 
                 "title": "BOX DRAWINGS LIGHT UP AND LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2519", 
                 "title": "BOX DRAWINGS UP LIGHT AND LEFT HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x251a", 
                 "title": "BOX DRAWINGS UP HEAVY AND LEFT LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x251b", 
                 "title": "BOX DRAWINGS HEAVY UP AND LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x251c", 
                 "title": "BOX DRAWINGS LIGHT VERTICAL AND RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x251d", 
                 "title": "BOX DRAWINGS VERTICAL LIGHT AND RIGHT HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x251e", 
                 "title": "BOX DRAWINGS UP HEAVY AND RIGHT DOWN LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x251f", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND RIGHT UP LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2520", 
                 "title": "BOX DRAWINGS VERTICAL HEAVY AND RIGHT LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2521", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND RIGHT UP HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2522", 
                 "title": "BOX DRAWINGS UP LIGHT AND RIGHT DOWN HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2523", 
                 "title": "BOX DRAWINGS HEAVY VERTICAL AND RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2524", 
                 "title": "BOX DRAWINGS LIGHT VERTICAL AND LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2525", 
                 "title": "BOX DRAWINGS VERTICAL LIGHT AND LEFT HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2526", 
                 "title": "BOX DRAWINGS UP HEAVY AND LEFT DOWN LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2527", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND LEFT UP LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2528", 
                 "title": "BOX DRAWINGS VERTICAL HEAVY AND LEFT LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2529", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND LEFT UP HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x252a", 
                 "title": "BOX DRAWINGS UP LIGHT AND LEFT DOWN HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x252b", 
                 "title": "BOX DRAWINGS HEAVY VERTICAL AND LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x252c", 
                 "title": "BOX DRAWINGS LIGHT DOWN AND HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x252d", 
                 "title": "BOX DRAWINGS LEFT HEAVY AND RIGHT DOWN LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x252e", 
                 "title": "BOX DRAWINGS RIGHT HEAVY AND LEFT DOWN LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x252f", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND HORIZONTAL HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2530", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND HORIZONTAL LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2531", 
                 "title": "BOX DRAWINGS RIGHT LIGHT AND LEFT DOWN HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2532", 
                 "title": "BOX DRAWINGS LEFT LIGHT AND RIGHT DOWN HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2533", 
                 "title": "BOX DRAWINGS HEAVY DOWN AND HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2534", 
                 "title": "BOX DRAWINGS LIGHT UP AND HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2535", 
                 "title": "BOX DRAWINGS LEFT HEAVY AND RIGHT UP LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2536", 
                 "title": "BOX DRAWINGS RIGHT HEAVY AND LEFT UP LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2537", 
                 "title": "BOX DRAWINGS UP LIGHT AND HORIZONTAL HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2538", 
                 "title": "BOX DRAWINGS UP HEAVY AND HORIZONTAL LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2539", 
                 "title": "BOX DRAWINGS RIGHT LIGHT AND LEFT UP HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x253a", 
                 "title": "BOX DRAWINGS LEFT LIGHT AND RIGHT UP HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x253b", 
                 "title": "BOX DRAWINGS HEAVY UP AND HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x253c", 
                 "title": "BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x253d", 
                 "title": "BOX DRAWINGS LEFT HEAVY AND RIGHT VERTICAL LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x253e", 
                 "title": "BOX DRAWINGS RIGHT HEAVY AND LEFT VERTICAL LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x253f", 
                 "title": "BOX DRAWINGS VERTICAL LIGHT AND HORIZONTAL HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2540", 
                 "title": "BOX DRAWINGS UP HEAVY AND DOWN HORIZONTAL LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2541", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND UP HORIZONTAL LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2542", 
                 "title": "BOX DRAWINGS VERTICAL HEAVY AND HORIZONTAL LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2543", 
                 "title": "BOX DRAWINGS LEFT UP HEAVY AND RIGHT DOWN LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2544", 
                 "title": "BOX DRAWINGS RIGHT UP HEAVY AND LEFT DOWN LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2545", 
                 "title": "BOX DRAWINGS LEFT DOWN HEAVY AND RIGHT UP LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2546", 
                 "title": "BOX DRAWINGS RIGHT DOWN HEAVY AND LEFT UP LIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2547", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND UP HORIZONTAL HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2548", 
                 "title": "BOX DRAWINGS UP LIGHT AND DOWN HORIZONTAL HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2549", 
                 "title": "BOX DRAWINGS RIGHT LIGHT AND LEFT VERTICAL HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x254a", 
                 "title": "BOX DRAWINGS LEFT LIGHT AND RIGHT VERTICAL HEAVY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x254b", 
                 "title": "BOX DRAWINGS HEAVY VERTICAL AND HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x254c", 
                 "title": "BOX DRAWINGS LIGHT DOUBLE DASH HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x254d", 
                 "title": "BOX DRAWINGS HEAVY DOUBLE DASH HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x254e", 
                 "title": "BOX DRAWINGS LIGHT DOUBLE DASH VERTICAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x254f", 
                 "title": "BOX DRAWINGS HEAVY DOUBLE DASH VERTICAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2550", 
                 "title": "BOX DRAWINGS DOUBLE HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2551", 
                 "title": "BOX DRAWINGS DOUBLE VERTICAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2552", 
                 "title": "BOX DRAWINGS DOWN SINGLE AND RIGHT DOUBLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2553", 
                 "title": "BOX DRAWINGS DOWN DOUBLE AND RIGHT SINGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2554", 
                 "title": "BOX DRAWINGS DOUBLE DOWN AND RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2555", 
                 "title": "BOX DRAWINGS DOWN SINGLE AND LEFT DOUBLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2556", 
                 "title": "BOX DRAWINGS DOWN DOUBLE AND LEFT SINGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2557", 
                 "title": "BOX DRAWINGS DOUBLE DOWN AND LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2558", 
                 "title": "BOX DRAWINGS UP SINGLE AND RIGHT DOUBLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2559", 
                 "title": "BOX DRAWINGS UP DOUBLE AND RIGHT SINGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x255a", 
                 "title": "BOX DRAWINGS DOUBLE UP AND RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x255b", 
                 "title": "BOX DRAWINGS UP SINGLE AND LEFT DOUBLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x255c", 
                 "title": "BOX DRAWINGS UP DOUBLE AND LEFT SINGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x255d", 
                 "title": "BOX DRAWINGS DOUBLE UP AND LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x255e", 
                 "title": "BOX DRAWINGS VERTICAL SINGLE AND RIGHT DOUBLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x255f", 
                 "title": "BOX DRAWINGS VERTICAL DOUBLE AND RIGHT SINGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2560", 
                 "title": "BOX DRAWINGS DOUBLE VERTICAL AND RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2561", 
                 "title": "BOX DRAWINGS VERTICAL SINGLE AND LEFT DOUBLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2562", 
                 "title": "BOX DRAWINGS VERTICAL DOUBLE AND LEFT SINGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2563", 
                 "title": "BOX DRAWINGS DOUBLE VERTICAL AND LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2564", 
                 "title": "BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2565", 
                 "title": "BOX DRAWINGS DOWN DOUBLE AND HORIZONTAL SINGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2566", 
                 "title": "BOX DRAWINGS DOUBLE DOWN AND HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2567", 
                 "title": "BOX DRAWINGS UP SINGLE AND HORIZONTAL DOUBLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2568", 
                 "title": "BOX DRAWINGS UP DOUBLE AND HORIZONTAL SINGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2569", 
                 "title": "BOX DRAWINGS DOUBLE UP AND HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x256a", 
                 "title": "BOX DRAWINGS VERTICAL SINGLE AND HORIZONTAL DOUBLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x256b", 
                 "title": "BOX DRAWINGS VERTICAL DOUBLE AND HORIZONTAL SINGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x256c", 
                 "title": "BOX DRAWINGS DOUBLE VERTICAL AND HORIZONTAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x256d", 
                 "title": "BOX DRAWINGS LIGHT ARC DOWN AND RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x256e", 
                 "title": "BOX DRAWINGS LIGHT ARC DOWN AND LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x256f", 
                 "title": "BOX DRAWINGS LIGHT ARC UP AND LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2570", 
                 "title": "BOX DRAWINGS LIGHT ARC UP AND RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2571", 
                 "title": "BOX DRAWINGS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2572", 
                 "title": "BOX DRAWINGS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2573", 
                 "title": "BOX DRAWINGS LIGHT DIAGONAL CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2574", 
                 "title": "BOX DRAWINGS LIGHT LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2575", 
                 "title": "BOX DRAWINGS LIGHT UP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2576", 
                 "title": "BOX DRAWINGS LIGHT RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2577", 
                 "title": "BOX DRAWINGS LIGHT DOWN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2578", 
                 "title": "BOX DRAWINGS HEAVY LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x2579", 
                 "title": "BOX DRAWINGS HEAVY UP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x257a", 
                 "title": "BOX DRAWINGS HEAVY RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x257b", 
                 "title": "BOX DRAWINGS HEAVY DOWN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x257c", 
                 "title": "BOX DRAWINGS LIGHT LEFT AND HEAVY RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x257d", 
                 "title": "BOX DRAWINGS LIGHT UP AND HEAVY DOWN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
                 "charcode": "0x257e", 
                 "title": "BOX DRAWINGS HEAVY LEFT AND LIGHT RIGHT"
             }

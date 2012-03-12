@@ -2,762 +2,1522 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2701", 
                 "title": "UPPER BLADE SCISSORS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2702", 
                 "title": "BLACK SCISSORS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2703", 
                 "title": "LOWER BLADE SCISSORS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2704", 
                 "title": "WHITE SCISSORS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2705", 
                 "title": "WHITE HEAVY CHECK MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2706", 
                 "title": "TELEPHONE LOCATION SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2707", 
                 "title": "TAPE DRIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2708", 
                 "title": "AIRPLANE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2709", 
                 "title": "ENVELOPE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "", 
                 "charcode": "0x270a", 
                 "title": "RAISED FIST"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "", 
                 "charcode": "0x270b", 
                 "title": "RAISED HAND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "", 
                 "charcode": "0x270c", 
                 "title": "VICTORY HAND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Hand", 
+                "cat4": "", 
                 "charcode": "0x270d", 
                 "title": "WRITING HAND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x270e", 
                 "title": "LOWER RIGHT PENCIL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x270f", 
                 "title": "PENCIL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2710", 
                 "title": "UPPER RIGHT PENCIL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2711", 
                 "title": "WHITE NIB"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2712", 
                 "title": "BLACK NIB"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2713", 
                 "title": "CHECK MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2714", 
                 "title": "HEAVY CHECK MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2715", 
                 "title": "MULTIPLICATION X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2716", 
                 "title": "HEAVY MULTIPLICATION X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2717", 
                 "title": "BALLOT X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2718", 
                 "title": "HEAVY BALLOT X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Cross", 
+                "cat4": "", 
                 "charcode": "0x2719", 
                 "title": "OUTLINED GREEK CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Cross", 
+                "cat4": "", 
                 "charcode": "0x271a", 
                 "title": "HEAVY GREEK CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Cross", 
+                "cat4": "", 
                 "charcode": "0x271b", 
                 "title": "OPEN CENTRE CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Cross", 
+                "cat4": "", 
                 "charcode": "0x271c", 
                 "title": "HEAVY OPEN CENTRE CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Cross", 
+                "cat4": "", 
                 "charcode": "0x271d", 
                 "title": "LATIN CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Cross", 
+                "cat4": "", 
                 "charcode": "0x271e", 
                 "title": "SHADOWED WHITE LATIN CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Cross", 
+                "cat4": "", 
                 "charcode": "0x271f", 
                 "title": "OUTLINED LATIN CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Cross", 
+                "cat4": "", 
                 "charcode": "0x2720", 
                 "title": "MALTESE CROSS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2721", 
                 "title": "STAR OF DAVID"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2722", 
                 "title": "FOUR TEARDROP-SPOKED ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2723", 
                 "title": "FOUR BALLOON-SPOKED ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2724", 
                 "title": "HEAVY FOUR BALLOON-SPOKED ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2725", 
                 "title": "FOUR CLUB-SPOKED ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2726", 
                 "title": "BLACK FOUR POINTED STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2727", 
                 "title": "WHITE FOUR POINTED STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2728", 
                 "title": "SPARKLES"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2729", 
                 "title": "STRESS OUTLINED WHITE STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x272a", 
                 "title": "CIRCLED WHITE STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x272b", 
                 "title": "OPEN CENTRE BLACK STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x272c", 
                 "title": "BLACK CENTRE WHITE STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x272d", 
                 "title": "OUTLINED BLACK STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x272e", 
                 "title": "HEAVY OUTLINED BLACK STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x272f", 
                 "title": "PINWHEEL STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2730", 
                 "title": "SHADOWED WHITE STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2731", 
                 "title": "HEAVY ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2732", 
                 "title": "OPEN CENTRE ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2733", 
                 "title": "EIGHT SPOKED ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2734", 
                 "title": "EIGHT POINTED BLACK STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2735", 
                 "title": "EIGHT POINTED PINWHEEL STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2736", 
                 "title": "SIX POINTED BLACK STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2737", 
                 "title": "EIGHT POINTED RECTILINEAR BLACK STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2738", 
                 "title": "HEAVY EIGHT POINTED RECTILINEAR BLACK STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2739", 
                 "title": "TWELVE POINTED BLACK STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x273a", 
                 "title": "SIXTEEN POINTED ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x273b", 
                 "title": "TEARDROP-SPOKED ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x273c", 
                 "title": "OPEN CENTRE TEARDROP-SPOKED ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x273d", 
                 "title": "HEAVY TEARDROP-SPOKED ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x273e", 
                 "title": "SIX PETALLED BLACK AND WHITE FLORETTE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x273f", 
                 "title": "BLACK FLORETTE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2740", 
                 "title": "WHITE FLORETTE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2741", 
                 "title": "EIGHT PETALLED OUTLINED BLACK FLORETTE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2742", 
                 "title": "CIRCLED OPEN CENTRE EIGHT POINTED STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2743", 
                 "title": "HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2744", 
                 "title": "SNOWFLAKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2745", 
                 "title": "TIGHT TRIFOLIATE SNOWFLAKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2746", 
                 "title": "HEAVY CHEVRON SNOWFLAKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2747", 
                 "title": "SPARKLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2748", 
                 "title": "HEAVY SPARKLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x2749", 
                 "title": "BALLOON-SPOKED ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x274a", 
                 "title": "EIGHT TEARDROP-SPOKED PROPELLER ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Starlike", 
+                "cat4": "", 
                 "charcode": "0x274b", 
                 "title": "HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x274c", 
                 "title": "CROSS MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x274d", 
                 "title": "SHADOWED WHITE CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x274e", 
                 "title": "NEGATIVE SQUARED CROSS MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x274f", 
                 "title": "LOWER RIGHT DROP-SHADOWED WHITE SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2750", 
                 "title": "UPPER RIGHT DROP-SHADOWED WHITE SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2751", 
                 "title": "LOWER RIGHT SHADOWED WHITE SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2752", 
                 "title": "UPPER RIGHT SHADOWED WHITE SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x2753", 
                 "title": "BLACK QUESTION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x2754", 
                 "title": "WHITE QUESTION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x2755", 
                 "title": "WHITE EXCLAMATION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2756", 
                 "title": "BLACK DIAMOND MINUS WHITE X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2757", 
                 "title": "HEAVY EXCLAMATION MARK SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2758", 
                 "title": "LIGHT VERTICAL BAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2759", 
                 "title": "MEDIUM VERTICAL BAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x275a", 
                 "title": "HEAVY VERTICAL BAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x275b", 
                 "title": "HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x275c", 
                 "title": "HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x275d", 
                 "title": "HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x275e", 
                 "title": "HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x275f", 
                 "title": "HEAVY LOW SINGLE COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x2760", 
                 "title": "HEAVY LOW DOUBLE COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x2761", 
                 "title": "CURVED STEM PARAGRAPH SIGN ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x2762", 
                 "title": "HEAVY EXCLAMATION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x2763", 
                 "title": "HEAVY HEART EXCLAMATION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x2764", 
                 "title": "HEAVY BLACK HEART"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x2765", 
                 "title": "ROTATED HEAVY BLACK HEART BULLET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x2766", 
                 "title": "FLORAL HEART"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Punctuation ornament", 
+                "cat4": "", 
                 "charcode": "0x2767", 
                 "title": "ROTATED FLORAL HEART BULLET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x2768", 
                 "title": "MEDIUM LEFT PARENTHESIS ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x2769", 
                 "title": "MEDIUM RIGHT PARENTHESIS ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x276a", 
                 "title": "MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x276b", 
                 "title": "MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x276c", 
                 "title": "MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x276d", 
                 "title": "MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x276e", 
                 "title": "HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x276f", 
                 "title": "HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x2770", 
                 "title": "HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x2771", 
                 "title": "HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x2772", 
                 "title": "LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x2773", 
                 "title": "LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x2774", 
                 "title": "MEDIUM LEFT CURLY BRACKET ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Ornamental bracket", 
+                "cat4": "", 
                 "charcode": "0x2775", 
                 "title": "MEDIUM RIGHT CURLY BRACKET ORNAMENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2776", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2777", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2778", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT THREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2779", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT FOUR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x277a", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT FIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x277b", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT SIX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x277c", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT SEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x277d", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT EIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x277e", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x277f", 
                 "title": "DINGBAT NEGATIVE CIRCLED NUMBER TEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2780", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2781", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2782", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT THREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2783", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT FOUR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2784", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT FIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2785", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT SIX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2786", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2787", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2788", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2789", 
                 "title": "DINGBAT CIRCLED SANS-SERIF NUMBER TEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x278a", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x278b", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x278c", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x278d", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x278e", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x278f", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2790", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2791", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2792", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2793", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x2794", 
                 "title": "HEAVY WIDE-HEADED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2795", 
                 "title": "HEAVY PLUS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2796", 
                 "title": "HEAVY MINUS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2797", 
                 "title": "HEAVY DIVISION SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x2798", 
                 "title": "HEAVY SOUTH EAST ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x2799", 
                 "title": "HEAVY RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x279a", 
                 "title": "HEAVY NORTH EAST ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x279b", 
                 "title": "DRAFTING POINT RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x279c", 
                 "title": "HEAVY ROUND-TIPPED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x279d", 
                 "title": "TRIANGLE-HEADED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x279e", 
                 "title": "HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x279f", 
                 "title": "DASHED TRIANGLE-HEADED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27a0", 
                 "title": "HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27a1", 
                 "title": "BLACK RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27a2", 
                 "title": "THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27a3", 
                 "title": "THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27a4", 
                 "title": "BLACK RIGHTWARDS ARROWHEAD"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27a5", 
                 "title": "HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27a6", 
                 "title": "HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27a7", 
                 "title": "SQUAT BLACK RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27a8", 
                 "title": "HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27a9", 
                 "title": "RIGHT-SHADED WHITE RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27aa", 
                 "title": "LEFT-SHADED WHITE RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27ab", 
                 "title": "BACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27ac", 
                 "title": "FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27ad", 
                 "title": "HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27ae", 
                 "title": "HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27af", 
                 "title": "NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27b0", 
                 "title": "CURLY LOOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27b1", 
                 "title": "NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27b2", 
                 "title": "CIRCLED HEAVY WHITE RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27b3", 
                 "title": "WHITE-FEATHERED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27b4", 
                 "title": "BLACK-FEATHERED SOUTH EAST ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27b5", 
                 "title": "BLACK-FEATHERED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27b6", 
                 "title": "BLACK-FEATHERED NORTH EAST ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27b7", 
                 "title": "HEAVY BLACK-FEATHERED SOUTH EAST ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27b8", 
                 "title": "HEAVY BLACK-FEATHERED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27b9", 
                 "title": "HEAVY BLACK-FEATHERED NORTH EAST ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27ba", 
                 "title": "TEARDROP-BARBED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27bb", 
                 "title": "HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27bc", 
                 "title": "WEDGE-TAILED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27bd", 
                 "title": "HEAVY WEDGE-TAILED RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "Arrow", 
+                "cat4": "", 
                 "charcode": "0x27be", 
                 "title": "OPEN-OUTLINED RIGHTWARDS ARROW"
             }

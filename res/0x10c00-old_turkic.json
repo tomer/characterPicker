@@ -2,294 +2,586 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c00", 
                 "title": "OLD TURKIC LETTER ORKHON A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c01", 
                 "title": "OLD TURKIC LETTER YENISEI A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c02", 
                 "title": "OLD TURKIC LETTER YENISEI AE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c03", 
                 "title": "OLD TURKIC LETTER ORKHON I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c04", 
                 "title": "OLD TURKIC LETTER YENISEI I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c05", 
                 "title": "OLD TURKIC LETTER YENISEI E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c06", 
                 "title": "OLD TURKIC LETTER ORKHON O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c07", 
                 "title": "OLD TURKIC LETTER ORKHON OE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c08", 
                 "title": "OLD TURKIC LETTER YENISEI OE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c09", 
                 "title": "OLD TURKIC LETTER ORKHON AB"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c0a", 
                 "title": "OLD TURKIC LETTER YENISEI AB"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c0b", 
                 "title": "OLD TURKIC LETTER ORKHON AEB"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c0c", 
                 "title": "OLD TURKIC LETTER YENISEI AEB"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c0d", 
                 "title": "OLD TURKIC LETTER ORKHON AG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c0e", 
                 "title": "OLD TURKIC LETTER YENISEI AG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c0f", 
                 "title": "OLD TURKIC LETTER ORKHON AEG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c10", 
                 "title": "OLD TURKIC LETTER YENISEI AEG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c11", 
                 "title": "OLD TURKIC LETTER ORKHON AD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c12", 
                 "title": "OLD TURKIC LETTER YENISEI AD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c13", 
                 "title": "OLD TURKIC LETTER ORKHON AED"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c14", 
                 "title": "OLD TURKIC LETTER ORKHON EZ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c15", 
                 "title": "OLD TURKIC LETTER YENISEI EZ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c16", 
                 "title": "OLD TURKIC LETTER ORKHON AY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c17", 
                 "title": "OLD TURKIC LETTER YENISEI AY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c18", 
                 "title": "OLD TURKIC LETTER ORKHON AEY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c19", 
                 "title": "OLD TURKIC LETTER YENISEI AEY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c1a", 
                 "title": "OLD TURKIC LETTER ORKHON AEK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c1b", 
                 "title": "OLD TURKIC LETTER YENISEI AEK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c1c", 
                 "title": "OLD TURKIC LETTER ORKHON OEK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c1d", 
                 "title": "OLD TURKIC LETTER YENISEI OEK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c1e", 
                 "title": "OLD TURKIC LETTER ORKHON AL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c1f", 
                 "title": "OLD TURKIC LETTER YENISEI AL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c20", 
                 "title": "OLD TURKIC LETTER ORKHON AEL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c21", 
                 "title": "OLD TURKIC LETTER ORKHON ELT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c22", 
                 "title": "OLD TURKIC LETTER ORKHON EM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c23", 
                 "title": "OLD TURKIC LETTER ORKHON AN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c24", 
                 "title": "OLD TURKIC LETTER ORKHON AEN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c25", 
                 "title": "OLD TURKIC LETTER YENISEI AEN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c26", 
                 "title": "OLD TURKIC LETTER ORKHON ENT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c27", 
                 "title": "OLD TURKIC LETTER YENISEI ENT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c28", 
                 "title": "OLD TURKIC LETTER ORKHON ENC"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c29", 
                 "title": "OLD TURKIC LETTER YENISEI ENC"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c2a", 
                 "title": "OLD TURKIC LETTER ORKHON ENY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c2b", 
                 "title": "OLD TURKIC LETTER YENISEI ENY"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c2c", 
                 "title": "OLD TURKIC LETTER YENISEI ANG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c2d", 
                 "title": "OLD TURKIC LETTER ORKHON ENG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c2e", 
                 "title": "OLD TURKIC LETTER YENISEI AENG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c2f", 
                 "title": "OLD TURKIC LETTER ORKHON EP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c30", 
                 "title": "OLD TURKIC LETTER ORKHON OP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c31", 
                 "title": "OLD TURKIC LETTER ORKHON IC"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c32", 
                 "title": "OLD TURKIC LETTER ORKHON EC"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c33", 
                 "title": "OLD TURKIC LETTER YENISEI EC"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c34", 
                 "title": "OLD TURKIC LETTER ORKHON AQ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c35", 
                 "title": "OLD TURKIC LETTER YENISEI AQ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c36", 
                 "title": "OLD TURKIC LETTER ORKHON IQ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c37", 
                 "title": "OLD TURKIC LETTER YENISEI IQ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c38", 
                 "title": "OLD TURKIC LETTER ORKHON OQ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c39", 
                 "title": "OLD TURKIC LETTER YENISEI OQ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c3a", 
                 "title": "OLD TURKIC LETTER ORKHON AR"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c3b", 
                 "title": "OLD TURKIC LETTER YENISEI AR"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c3c", 
                 "title": "OLD TURKIC LETTER ORKHON AER"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c3d", 
                 "title": "OLD TURKIC LETTER ORKHON AS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c3e", 
                 "title": "OLD TURKIC LETTER ORKHON AES"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c3f", 
                 "title": "OLD TURKIC LETTER ORKHON ASH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c40", 
                 "title": "OLD TURKIC LETTER YENISEI ASH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c41", 
                 "title": "OLD TURKIC LETTER ORKHON ESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c42", 
                 "title": "OLD TURKIC LETTER YENISEI ESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c43", 
                 "title": "OLD TURKIC LETTER ORKHON AT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c44", 
                 "title": "OLD TURKIC LETTER YENISEI AT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c45", 
                 "title": "OLD TURKIC LETTER ORKHON AET"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c46", 
                 "title": "OLD TURKIC LETTER YENISEI AET"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c47", 
                 "title": "OLD TURKIC LETTER ORKHON OT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10c48", 
                 "title": "OLD TURKIC LETTER ORKHON BASH"
             }

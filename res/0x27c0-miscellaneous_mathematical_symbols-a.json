@@ -2,190 +2,378 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27c0", 
                 "title": "THREE DIMENSIONAL ANGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27c1", 
                 "title": "WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27c2", 
                 "title": "PERPENDICULAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27c3", 
                 "title": "OPEN SUBSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27c4", 
                 "title": "OPEN SUPERSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27c5", 
                 "title": "LEFT S-SHAPED BAG DELIMITER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27c6", 
                 "title": "RIGHT S-SHAPED BAG DELIMITER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27c7", 
                 "title": "OR WITH DOT INSIDE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27c8", 
                 "title": "REVERSE SOLIDUS PRECEDING SUBSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27c9", 
                 "title": "SUPERSET PRECEDING SOLIDUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27ca", 
                 "title": "VERTICAL BAR WITH HORIZONTAL STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27cb", 
                 "title": "MATHEMATICAL RISING DIAGONAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x27cc", 
                 "title": "LONG DIVISION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27cd", 
                 "title": "MATHEMATICAL FALLING DIAGONAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27ce", 
                 "title": "SQUARED LOGICAL AND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27cf", 
                 "title": "SQUARED LOGICAL OR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x27d0", 
                 "title": "WHITE DIAMOND WITH CENTRED DOT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27d1", 
                 "title": "AND WITH DOT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27d2", 
                 "title": "ELEMENT OF OPENING UPWARDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27d3", 
                 "title": "LOWER RIGHT CORNER WITH DOT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27d4", 
                 "title": "UPPER LEFT CORNER WITH DOT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x27d5", 
                 "title": "LEFT OUTER JOIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x27d6", 
                 "title": "RIGHT OUTER JOIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x27d7", 
                 "title": "FULL OUTER JOIN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x27d8", 
                 "title": "LARGE UP TACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x27d9", 
                 "title": "LARGE DOWN TACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27da", 
                 "title": "LEFT AND RIGHT DOUBLE TURNSTILE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27db", 
                 "title": "LEFT AND RIGHT TACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27dc", 
                 "title": "LEFT MULTIMAP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27dd", 
                 "title": "LONG RIGHT TACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27de", 
                 "title": "LONG LEFT TACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
                 "charcode": "0x27df", 
                 "title": "UP TACK WITH CIRCLE ABOVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Modal logic", 
                 "charcode": "0x27e0", 
                 "title": "LOZENGE DIVIDED BY HORIZONTAL RULE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Modal logic", 
                 "charcode": "0x27e1", 
                 "title": "WHITE CONCAVE-SIDED DIAMOND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Modal logic", 
                 "charcode": "0x27e2", 
                 "title": "WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Modal logic", 
                 "charcode": "0x27e3", 
                 "title": "WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Modal logic", 
                 "charcode": "0x27e4", 
                 "title": "WHITE SQUARE WITH LEFTWARDS TICK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Modal logic", 
                 "charcode": "0x27e5", 
                 "title": "WHITE SQUARE WITH RIGHTWARDS TICK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Math", 
+                "cat4": "", 
                 "charcode": "0x27e6", 
                 "title": "MATHEMATICAL LEFT WHITE SQUARE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Math", 
+                "cat4": "", 
                 "charcode": "0x27e7", 
                 "title": "MATHEMATICAL RIGHT WHITE SQUARE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Math", 
+                "cat4": "", 
                 "charcode": "0x27e8", 
                 "title": "MATHEMATICAL LEFT ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Math", 
+                "cat4": "", 
                 "charcode": "0x27e9", 
                 "title": "MATHEMATICAL RIGHT ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Math", 
+                "cat4": "", 
                 "charcode": "0x27ea", 
                 "title": "MATHEMATICAL LEFT DOUBLE ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Math", 
+                "cat4": "", 
                 "charcode": "0x27eb", 
                 "title": "MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Math", 
+                "cat4": "", 
                 "charcode": "0x27ec", 
                 "title": "MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Math", 
+                "cat4": "", 
                 "charcode": "0x27ed", 
                 "title": "MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Math", 
+                "cat4": "", 
                 "charcode": "0x27ee", 
                 "title": "MATHEMATICAL LEFT FLATTENED PARENTHESIS"
             }

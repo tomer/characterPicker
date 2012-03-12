@@ -2,254 +2,506 @@
     {
         "content": [
             {
+                "cat1": "Punctuation", 
+                "cat2": "Space", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3000", 
                 "title": "IDEOGRAPHIC SPACE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3001", 
                 "title": "IDEOGRAPHIC COMMA"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3002", 
                 "title": "IDEOGRAPHIC FULL STOP"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3003", 
                 "title": "DITTO MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3004", 
                 "title": "JAPANESE INDUSTRIAL STANDARD SYMBOL"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "", 
                 "charcode": "0x3005", 
                 "title": "IDEOGRAPHIC ITERATION MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3006", 
                 "title": "IDEOGRAPHIC CLOSING MARK"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3007", 
                 "title": "IDEOGRAPHIC NUMBER ZERO"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x3008", 
                 "title": "LEFT ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x3009", 
                 "title": "RIGHT ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x300a", 
                 "title": "LEFT DOUBLE ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x300b", 
                 "title": "RIGHT DOUBLE ANGLE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "Corner", 
                 "charcode": "0x300c", 
                 "title": "LEFT CORNER BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "Corner", 
                 "charcode": "0x300d", 
                 "title": "RIGHT CORNER BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "Corner", 
                 "charcode": "0x300e", 
                 "title": "LEFT WHITE CORNER BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "Corner", 
                 "charcode": "0x300f", 
                 "title": "RIGHT WHITE CORNER BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x3010", 
                 "title": "LEFT BLACK LENTICULAR BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x3011", 
                 "title": "RIGHT BLACK LENTICULAR BRACKET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3012", 
                 "title": "POSTAL MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3013", 
                 "title": "GETA MARK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x3014", 
                 "title": "LEFT TORTOISE SHELL BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x3015", 
                 "title": "RIGHT TORTOISE SHELL BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x3016", 
                 "title": "LEFT WHITE LENTICULAR BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x3017", 
                 "title": "RIGHT WHITE LENTICULAR BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x3018", 
                 "title": "LEFT WHITE TORTOISE SHELL BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x3019", 
                 "title": "RIGHT WHITE TORTOISE SHELL BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x301a", 
                 "title": "LEFT WHITE SQUARE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "CJK", 
+                "cat4": "", 
                 "charcode": "0x301b", 
                 "title": "RIGHT WHITE SQUARE BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x301c", 
                 "title": "WAVE DASH"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x301d", 
                 "title": "REVERSED DOUBLE PRIME QUOTATION MARK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x301e", 
                 "title": "DOUBLE PRIME QUOTATION MARK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Quotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x301f", 
                 "title": "LOW DOUBLE PRIME QUOTATION MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3020", 
                 "title": "POSTAL MARK FACE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3021", 
                 "title": "HANGZHOU NUMERAL ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3022", 
                 "title": "HANGZHOU NUMERAL TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3023", 
                 "title": "HANGZHOU NUMERAL THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3024", 
                 "title": "HANGZHOU NUMERAL FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3025", 
                 "title": "HANGZHOU NUMERAL FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3026", 
                 "title": "HANGZHOU NUMERAL SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3027", 
                 "title": "HANGZHOU NUMERAL SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3028", 
                 "title": "HANGZHOU NUMERAL EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3029", 
                 "title": "HANGZHOU NUMERAL NINE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x302a", 
                 "title": "IDEOGRAPHIC LEVEL TONE MARK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x302b", 
                 "title": "IDEOGRAPHIC RISING TONE MARK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x302c", 
                 "title": "IDEOGRAPHIC DEPARTING TONE MARK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x302d", 
                 "title": "IDEOGRAPHIC ENTERING TONE MARK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x302e", 
                 "title": "HANGUL SINGLE DOT TONE MARK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x302f", 
                 "title": "HANGUL DOUBLE DOT TONE MARK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3030", 
                 "title": "WAVY DASH"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "Vertical", 
                 "charcode": "0x3031", 
                 "title": "VERTICAL KANA REPEAT MARK"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "Vertical", 
                 "charcode": "0x3032", 
                 "title": "VERTICAL KANA REPEAT WITH VOICED SOUND MARK"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "Vertical", 
                 "charcode": "0x3033", 
                 "title": "VERTICAL KANA REPEAT MARK UPPER HALF"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "Vertical", 
                 "charcode": "0x3034", 
                 "title": "VERTICAL KANA REPEAT WITH VOICED SOUND MARK UPPER HALF"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "Vertical", 
                 "charcode": "0x3035", 
                 "title": "VERTICAL KANA REPEAT MARK LOWER HALF"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3036", 
                 "title": "CIRCLED POSTAL MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3037", 
                 "title": "IDEOGRAPHIC TELEGRAPH LINE FEED SEPARATOR SYMBOL"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3038", 
                 "title": "HANGZHOU NUMERAL TEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3039", 
                 "title": "HANGZHOU NUMERAL TWENTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Accounting", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x303a", 
                 "title": "HANGZHOU NUMERAL THIRTY"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Repetition", 
+                "cat4": "Vertical", 
                 "charcode": "0x303b", 
                 "title": "VERTICAL IDEOGRAPHIC ITERATION MARK"
             }, 
             {
+                "cat1": "Syllable", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x303c", 
                 "title": "MASU MARK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x303d", 
                 "title": "PART ALTERNATION MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x303e", 
                 "title": "IDEOGRAPHIC VARIATION INDICATOR"
             }

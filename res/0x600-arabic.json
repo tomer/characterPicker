@@ -2,1010 +2,2018 @@
     {
         "content": [
             {
+                "cat1": "Format", 
+                "cat2": "Subtending", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x600", 
                 "title": "ARABIC NUMBER SIGN"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Subtending", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x601", 
                 "title": "ARABIC SIGN SANAH"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Subtending", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x602", 
                 "title": "ARABIC FOOTNOTE MARKER"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Subtending", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x603", 
                 "title": "ARABIC SIGN SAFHA"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Subtending", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x604", 
                 "title": "ARABIC SIGN SAMVAT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x606", 
                 "title": "ARABIC-INDIC CUBE ROOT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "Large", 
                 "charcode": "0x607", 
                 "title": "ARABIC-INDIC FOURTH ROOT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x608", 
                 "title": "ARABIC RAY"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x609", 
                 "title": "ARABIC-INDIC PER MILLE SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x60a", 
                 "title": "ARABIC-INDIC PER TEN THOUSAND SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Currency", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x60b", 
                 "title": "AFGHANI SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x60c", 
                 "title": "ARABIC COMMA"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x60d", 
                 "title": "ARABIC DATE SEPARATOR"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x60e", 
                 "title": "ARABIC POETIC VERSE SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x60f", 
                 "title": "ARABIC SIGN MISRA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x610", 
                 "title": "ARABIC SIGN SALLALLAHOU ALAYHE WASSALLAM"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x611", 
                 "title": "ARABIC SIGN ALAYHE ASSALLAM"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x612", 
                 "title": "ARABIC SIGN RAHMATULLAH ALAYHE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x613", 
                 "title": "ARABIC SIGN RADI ALLAHOU ANHU"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x614", 
                 "title": "ARABIC SIGN TAKHALLUS"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x615", 
                 "title": "ARABIC SMALL HIGH TAH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x616", 
                 "title": "ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x617", 
                 "title": "ARABIC SMALL HIGH ZAIN"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x618", 
                 "title": "ARABIC SMALL FATHA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x619", 
                 "title": "ARABIC SMALL DAMMA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x61a", 
                 "title": "ARABIC SMALL KASRA"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x61b", 
                 "title": "ARABIC SEMICOLON"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x61e", 
                 "title": "ARABIC TRIPLE DOT PUNCTUATION MARK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x61f", 
                 "title": "ARABIC QUESTION MARK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x620", 
                 "title": "ARABIC LETTER KASHMIRI YEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x621", 
                 "title": "ARABIC LETTER HAMZA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x622", 
                 "title": "ARABIC LETTER ALEF WITH MADDA ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x623", 
                 "title": "ARABIC LETTER ALEF WITH HAMZA ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x624", 
                 "title": "ARABIC LETTER WAW WITH HAMZA ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x625", 
                 "title": "ARABIC LETTER ALEF WITH HAMZA BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x626", 
                 "title": "ARABIC LETTER YEH WITH HAMZA ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x627", 
                 "title": "ARABIC LETTER ALEF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x628", 
                 "title": "ARABIC LETTER BEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x629", 
                 "title": "ARABIC LETTER TEH MARBUTA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x62a", 
                 "title": "ARABIC LETTER TEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x62b", 
                 "title": "ARABIC LETTER THEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x62c", 
                 "title": "ARABIC LETTER JEEM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x62d", 
                 "title": "ARABIC LETTER HAH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x62e", 
                 "title": "ARABIC LETTER KHAH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x62f", 
                 "title": "ARABIC LETTER DAL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x630", 
                 "title": "ARABIC LETTER THAL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x631", 
                 "title": "ARABIC LETTER REH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x632", 
                 "title": "ARABIC LETTER ZAIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x633", 
                 "title": "ARABIC LETTER SEEN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x634", 
                 "title": "ARABIC LETTER SHEEN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x635", 
                 "title": "ARABIC LETTER SAD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x636", 
                 "title": "ARABIC LETTER DAD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x637", 
                 "title": "ARABIC LETTER TAH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x638", 
                 "title": "ARABIC LETTER ZAH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x639", 
                 "title": "ARABIC LETTER AIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x63a", 
                 "title": "ARABIC LETTER GHAIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x63b", 
                 "title": "ARABIC LETTER KEHEH WITH TWO DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x63c", 
                 "title": "ARABIC LETTER KEHEH WITH THREE DOTS BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x63d", 
                 "title": "ARABIC LETTER FARSI YEH WITH INVERTED V"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x63e", 
                 "title": "ARABIC LETTER FARSI YEH WITH TWO DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x63f", 
                 "title": "ARABIC LETTER FARSI YEH WITH THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Kashida", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x640", 
                 "title": "ARABIC TATWEEL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x641", 
                 "title": "ARABIC LETTER FEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x642", 
                 "title": "ARABIC LETTER QAF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x643", 
                 "title": "ARABIC LETTER KAF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x644", 
                 "title": "ARABIC LETTER LAM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x645", 
                 "title": "ARABIC LETTER MEEM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x646", 
                 "title": "ARABIC LETTER NOON"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x647", 
                 "title": "ARABIC LETTER HEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x648", 
                 "title": "ARABIC LETTER WAW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x649", 
                 "title": "ARABIC LETTER ALEF MAKSURA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x64a", 
                 "title": "ARABIC LETTER YEH"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x64b", 
                 "title": "ARABIC FATHATAN"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x64c", 
                 "title": "ARABIC DAMMATAN"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x64d", 
                 "title": "ARABIC KASRATAN"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x64e", 
                 "title": "ARABIC FATHA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x64f", 
                 "title": "ARABIC DAMMA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x650", 
                 "title": "ARABIC KASRA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x651", 
                 "title": "ARABIC SHADDA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x652", 
                 "title": "ARABIC SUKUN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x653", 
                 "title": "ARABIC MADDAH ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x654", 
                 "title": "ARABIC HAMZA ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x655", 
                 "title": "ARABIC HAMZA BELOW"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x656", 
                 "title": "ARABIC SUBSCRIPT ALEF"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x657", 
                 "title": "ARABIC INVERTED DAMMA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x658", 
                 "title": "ARABIC MARK NOON GHUNNA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x659", 
                 "title": "ARABIC ZWARAKAY"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x65a", 
                 "title": "ARABIC VOWEL SIGN SMALL V ABOVE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x65b", 
                 "title": "ARABIC VOWEL SIGN INVERTED SMALL V ABOVE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x65c", 
                 "title": "ARABIC VOWEL SIGN DOT BELOW"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x65d", 
                 "title": "ARABIC REVERSED DAMMA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x65e", 
                 "title": "ARABIC FATHA WITH TWO DOTS"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x65f", 
                 "title": "ARABIC WAVY HAMZA BELOW"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x660", 
                 "title": "ARABIC-INDIC DIGIT ZERO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x661", 
                 "title": "ARABIC-INDIC DIGIT ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x662", 
                 "title": "ARABIC-INDIC DIGIT TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x663", 
                 "title": "ARABIC-INDIC DIGIT THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x664", 
                 "title": "ARABIC-INDIC DIGIT FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x665", 
                 "title": "ARABIC-INDIC DIGIT FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x666", 
                 "title": "ARABIC-INDIC DIGIT SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x667", 
                 "title": "ARABIC-INDIC DIGIT SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x668", 
                 "title": "ARABIC-INDIC DIGIT EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x669", 
                 "title": "ARABIC-INDIC DIGIT NINE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x66a", 
                 "title": "ARABIC PERCENT SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x66b", 
                 "title": "ARABIC DECIMAL SEPARATOR"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x66c", 
                 "title": "ARABIC THOUSANDS SEPARATOR"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x66d", 
                 "title": "ARABIC FIVE POINTED STAR"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x66e", 
                 "title": "ARABIC LETTER DOTLESS BEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x66f", 
                 "title": "ARABIC LETTER DOTLESS QAF"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x670", 
                 "title": "ARABIC LETTER SUPERSCRIPT ALEF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x671", 
                 "title": "ARABIC LETTER ALEF WASLA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x672", 
                 "title": "ARABIC LETTER ALEF WITH WAVY HAMZA ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x673", 
                 "title": "ARABIC LETTER ALEF WITH WAVY HAMZA BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x674", 
                 "title": "ARABIC LETTER HIGH HAMZA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x675", 
                 "title": "ARABIC LETTER HIGH HAMZA ALEF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x676", 
                 "title": "ARABIC LETTER HIGH HAMZA WAW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x677", 
                 "title": "ARABIC LETTER U WITH HAMZA ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x678", 
                 "title": "ARABIC LETTER HIGH HAMZA YEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x679", 
                 "title": "ARABIC LETTER TTEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x67a", 
                 "title": "ARABIC LETTER TTEHEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x67b", 
                 "title": "ARABIC LETTER BEEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x67c", 
                 "title": "ARABIC LETTER TEH WITH RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x67d", 
                 "title": "ARABIC LETTER TEH WITH THREE DOTS ABOVE DOWNWARDS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x67e", 
                 "title": "ARABIC LETTER PEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x67f", 
                 "title": "ARABIC LETTER TEHEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x680", 
                 "title": "ARABIC LETTER BEHEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x681", 
                 "title": "ARABIC LETTER HAH WITH HAMZA ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x682", 
                 "title": "ARABIC LETTER HAH WITH TWO DOTS VERTICAL ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x683", 
                 "title": "ARABIC LETTER NYEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x684", 
                 "title": "ARABIC LETTER DYEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x685", 
                 "title": "ARABIC LETTER HAH WITH THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x686", 
                 "title": "ARABIC LETTER TCHEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x687", 
                 "title": "ARABIC LETTER TCHEHEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x688", 
                 "title": "ARABIC LETTER DDAL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x689", 
                 "title": "ARABIC LETTER DAL WITH RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x68a", 
                 "title": "ARABIC LETTER DAL WITH DOT BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x68b", 
                 "title": "ARABIC LETTER DAL WITH DOT BELOW AND SMALL TAH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x68c", 
                 "title": "ARABIC LETTER DAHAL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x68d", 
                 "title": "ARABIC LETTER DDAHAL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x68e", 
                 "title": "ARABIC LETTER DUL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x68f", 
                 "title": "ARABIC LETTER DAL WITH THREE DOTS ABOVE DOWNWARDS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x690", 
                 "title": "ARABIC LETTER DAL WITH FOUR DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x691", 
                 "title": "ARABIC LETTER RREH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x692", 
                 "title": "ARABIC LETTER REH WITH SMALL V"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x693", 
                 "title": "ARABIC LETTER REH WITH RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x694", 
                 "title": "ARABIC LETTER REH WITH DOT BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x695", 
                 "title": "ARABIC LETTER REH WITH SMALL V BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x696", 
                 "title": "ARABIC LETTER REH WITH DOT BELOW AND DOT ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x697", 
                 "title": "ARABIC LETTER REH WITH TWO DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x698", 
                 "title": "ARABIC LETTER JEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x699", 
                 "title": "ARABIC LETTER REH WITH FOUR DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x69a", 
                 "title": "ARABIC LETTER SEEN WITH DOT BELOW AND DOT ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x69b", 
                 "title": "ARABIC LETTER SEEN WITH THREE DOTS BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x69c", 
                 "title": "ARABIC LETTER SEEN WITH THREE DOTS BELOW AND THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x69d", 
                 "title": "ARABIC LETTER SAD WITH TWO DOTS BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x69e", 
                 "title": "ARABIC LETTER SAD WITH THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x69f", 
                 "title": "ARABIC LETTER TAH WITH THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6a0", 
                 "title": "ARABIC LETTER AIN WITH THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6a1", 
                 "title": "ARABIC LETTER DOTLESS FEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6a2", 
                 "title": "ARABIC LETTER FEH WITH DOT MOVED BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6a3", 
                 "title": "ARABIC LETTER FEH WITH DOT BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6a4", 
                 "title": "ARABIC LETTER VEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6a5", 
                 "title": "ARABIC LETTER FEH WITH THREE DOTS BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6a6", 
                 "title": "ARABIC LETTER PEHEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6a7", 
                 "title": "ARABIC LETTER QAF WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6a8", 
                 "title": "ARABIC LETTER QAF WITH THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6a9", 
                 "title": "ARABIC LETTER KEHEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6aa", 
                 "title": "ARABIC LETTER SWASH KAF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ab", 
                 "title": "ARABIC LETTER KAF WITH RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ac", 
                 "title": "ARABIC LETTER KAF WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ad", 
                 "title": "ARABIC LETTER NG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ae", 
                 "title": "ARABIC LETTER KAF WITH THREE DOTS BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6af", 
                 "title": "ARABIC LETTER GAF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6b0", 
                 "title": "ARABIC LETTER GAF WITH RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6b1", 
                 "title": "ARABIC LETTER NGOEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6b2", 
                 "title": "ARABIC LETTER GAF WITH TWO DOTS BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6b3", 
                 "title": "ARABIC LETTER GUEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6b4", 
                 "title": "ARABIC LETTER GAF WITH THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6b5", 
                 "title": "ARABIC LETTER LAM WITH SMALL V"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6b6", 
                 "title": "ARABIC LETTER LAM WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6b7", 
                 "title": "ARABIC LETTER LAM WITH THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6b8", 
                 "title": "ARABIC LETTER LAM WITH THREE DOTS BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6b9", 
                 "title": "ARABIC LETTER NOON WITH DOT BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ba", 
                 "title": "ARABIC LETTER NOON GHUNNA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6bb", 
                 "title": "ARABIC LETTER RNOON"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6bc", 
                 "title": "ARABIC LETTER NOON WITH RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6bd", 
                 "title": "ARABIC LETTER NOON WITH THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6be", 
                 "title": "ARABIC LETTER HEH DOACHASHMEE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6bf", 
                 "title": "ARABIC LETTER TCHEH WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6c0", 
                 "title": "ARABIC LETTER HEH WITH YEH ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6c1", 
                 "title": "ARABIC LETTER HEH GOAL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6c2", 
                 "title": "ARABIC LETTER HEH GOAL WITH HAMZA ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6c3", 
                 "title": "ARABIC LETTER TEH MARBUTA GOAL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6c4", 
                 "title": "ARABIC LETTER WAW WITH RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6c5", 
                 "title": "ARABIC LETTER KIRGHIZ OE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6c6", 
                 "title": "ARABIC LETTER OE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6c7", 
                 "title": "ARABIC LETTER U"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6c8", 
                 "title": "ARABIC LETTER YU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6c9", 
                 "title": "ARABIC LETTER KIRGHIZ YU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ca", 
                 "title": "ARABIC LETTER WAW WITH TWO DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6cb", 
                 "title": "ARABIC LETTER VE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6cc", 
                 "title": "ARABIC LETTER FARSI YEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6cd", 
                 "title": "ARABIC LETTER YEH WITH TAIL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ce", 
                 "title": "ARABIC LETTER YEH WITH SMALL V"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6cf", 
                 "title": "ARABIC LETTER WAW WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6d0", 
                 "title": "ARABIC LETTER E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6d1", 
                 "title": "ARABIC LETTER YEH WITH THREE DOTS BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6d2", 
                 "title": "ARABIC LETTER YEH BARREE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6d3", 
                 "title": "ARABIC LETTER YEH BARREE WITH HAMZA ABOVE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6d4", 
                 "title": "ARABIC FULL STOP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6d5", 
                 "title": "ARABIC LETTER AE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6d6", 
                 "title": "ARABIC SMALL HIGH LIGATURE SAD WITH LAM WITH ALEF MAKSURA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6d7", 
                 "title": "ARABIC SMALL HIGH LIGATURE QAF WITH LAM WITH ALEF MAKSURA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6d8", 
                 "title": "ARABIC SMALL HIGH MEEM INITIAL FORM"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6d9", 
                 "title": "ARABIC SMALL HIGH LAM ALEF"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6da", 
                 "title": "ARABIC SMALL HIGH JEEM"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6db", 
                 "title": "ARABIC SMALL HIGH THREE DOTS"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6dc", 
                 "title": "ARABIC SMALL HIGH SEEN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6dd", 
                 "title": "ARABIC END OF AYAH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6de", 
                 "title": "ARABIC START OF RUB EL HIZB"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6df", 
                 "title": "ARABIC SMALL HIGH ROUNDED ZERO"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6e0", 
                 "title": "ARABIC SMALL HIGH UPRIGHT RECTANGULAR ZERO"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6e1", 
                 "title": "ARABIC SMALL HIGH DOTLESS HEAD OF KHAH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6e2", 
                 "title": "ARABIC SMALL HIGH MEEM ISOLATED FORM"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6e3", 
                 "title": "ARABIC SMALL LOW SEEN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6e4", 
                 "title": "ARABIC SMALL HIGH MADDA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6e5", 
                 "title": "ARABIC SMALL WAW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6e6", 
                 "title": "ARABIC SMALL YEH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6e7", 
                 "title": "ARABIC SMALL HIGH YEH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6e8", 
                 "title": "ARABIC SMALL HIGH NOON"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6e9", 
                 "title": "ARABIC PLACE OF SAJDAH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ea", 
                 "title": "ARABIC EMPTY CENTRE LOW STOP"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6eb", 
                 "title": "ARABIC EMPTY CENTRE HIGH STOP"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ec", 
                 "title": "ARABIC ROUNDED HIGH STOP WITH FILLED CENTRE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ed", 
                 "title": "ARABIC SMALL LOW MEEM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ee", 
                 "title": "ARABIC LETTER DAL WITH INVERTED V"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6ef", 
                 "title": "ARABIC LETTER REH WITH INVERTED V"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6f0", 
                 "title": "EXTENDED ARABIC-INDIC DIGIT ZERO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6f1", 
                 "title": "EXTENDED ARABIC-INDIC DIGIT ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6f2", 
                 "title": "EXTENDED ARABIC-INDIC DIGIT TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6f3", 
                 "title": "EXTENDED ARABIC-INDIC DIGIT THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6f4", 
                 "title": "EXTENDED ARABIC-INDIC DIGIT FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6f5", 
                 "title": "EXTENDED ARABIC-INDIC DIGIT FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6f6", 
                 "title": "EXTENDED ARABIC-INDIC DIGIT SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6f7", 
                 "title": "EXTENDED ARABIC-INDIC DIGIT SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6f8", 
                 "title": "EXTENDED ARABIC-INDIC DIGIT EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6f9", 
                 "title": "EXTENDED ARABIC-INDIC DIGIT NINE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6fa", 
                 "title": "ARABIC LETTER SHEEN WITH DOT BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6fb", 
                 "title": "ARABIC LETTER DAD WITH DOT BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6fc", 
                 "title": "ARABIC LETTER GHAIN WITH DOT BELOW"
             }, 
             {
+                "cat1": "Logograph", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6fd", 
                 "title": "ARABIC SIGN SINDHI AMPERSAND"
             }, 
             {
+                "cat1": "Logograph", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x6fe", 
                 "title": "ARABIC SIGN SINDHI POSTPOSITION MEN"
             }

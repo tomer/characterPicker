@@ -2,350 +2,698 @@
     {
         "content": [
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x591", 
                 "title": "HEBREW ACCENT ETNAHTA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x592", 
                 "title": "HEBREW ACCENT SEGOL"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x593", 
                 "title": "HEBREW ACCENT SHALSHELET"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x594", 
                 "title": "HEBREW ACCENT ZAQEF QATAN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x595", 
                 "title": "HEBREW ACCENT ZAQEF GADOL"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x596", 
                 "title": "HEBREW ACCENT TIPEHA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x597", 
                 "title": "HEBREW ACCENT REVIA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x598", 
                 "title": "HEBREW ACCENT ZARQA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x599", 
                 "title": "HEBREW ACCENT PASHTA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x59a", 
                 "title": "HEBREW ACCENT YETIV"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x59b", 
                 "title": "HEBREW ACCENT TEVIR"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x59c", 
                 "title": "HEBREW ACCENT GERESH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x59d", 
                 "title": "HEBREW ACCENT GERESH MUQDAM"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x59e", 
                 "title": "HEBREW ACCENT GERSHAYIM"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x59f", 
                 "title": "HEBREW ACCENT QARNEY PARA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5a0", 
                 "title": "HEBREW ACCENT TELISHA GEDOLA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5a1", 
                 "title": "HEBREW ACCENT PAZER"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5a2", 
                 "title": "HEBREW ACCENT ATNAH HAFUKH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5a3", 
                 "title": "HEBREW ACCENT MUNAH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5a4", 
                 "title": "HEBREW ACCENT MAHAPAKH"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5a5", 
                 "title": "HEBREW ACCENT MERKHA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5a6", 
                 "title": "HEBREW ACCENT MERKHA KEFULA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5a7", 
                 "title": "HEBREW ACCENT DARGA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5a8", 
                 "title": "HEBREW ACCENT QADMA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5a9", 
                 "title": "HEBREW ACCENT TELISHA QETANA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5aa", 
                 "title": "HEBREW ACCENT YERAH BEN YOMO"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5ab", 
                 "title": "HEBREW ACCENT OLE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5ac", 
                 "title": "HEBREW ACCENT ILUY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5ad", 
                 "title": "HEBREW ACCENT DEHI"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5ae", 
                 "title": "HEBREW ACCENT ZINOR"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Cantillation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5af", 
                 "title": "HEBREW MARK MASORA CIRCLE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5b0", 
                 "title": "HEBREW POINT SHEVA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5b1", 
                 "title": "HEBREW POINT HATAF SEGOL"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5b2", 
                 "title": "HEBREW POINT HATAF PATAH"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5b3", 
                 "title": "HEBREW POINT HATAF QAMATS"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5b4", 
                 "title": "HEBREW POINT HIRIQ"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5b5", 
                 "title": "HEBREW POINT TSERE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5b6", 
                 "title": "HEBREW POINT SEGOL"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5b7", 
                 "title": "HEBREW POINT PATAH"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5b8", 
                 "title": "HEBREW POINT QAMATS"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5b9", 
                 "title": "HEBREW POINT HOLAM"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5ba", 
                 "title": "HEBREW POINT HOLAM HASER FOR VAV"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5bb", 
                 "title": "HEBREW POINT QUBUTS"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5bc", 
                 "title": "HEBREW POINT DAGESH OR MAPIQ"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5bd", 
                 "title": "HEBREW POINT METEG"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5be", 
                 "title": "HEBREW PUNCTUATION MAQAF"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5bf", 
                 "title": "HEBREW POINT RAFE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5c0", 
                 "title": "HEBREW PUNCTUATION PASEQ"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5c1", 
                 "title": "HEBREW POINT SHIN DOT"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5c2", 
                 "title": "HEBREW POINT SIN DOT"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5c3", 
                 "title": "HEBREW PUNCTUATION SOF PASUQ"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5c4", 
                 "title": "HEBREW MARK UPPER DOT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5c5", 
                 "title": "HEBREW MARK LOWER DOT"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5c6", 
                 "title": "HEBREW PUNCTUATION NUN HAFUKHA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5c7", 
                 "title": "HEBREW POINT QAMATS QATAN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5d0", 
                 "title": "HEBREW LETTER ALEF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5d1", 
                 "title": "HEBREW LETTER BET"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5d2", 
                 "title": "HEBREW LETTER GIMEL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5d3", 
                 "title": "HEBREW LETTER DALET"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5d4", 
                 "title": "HEBREW LETTER HE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5d5", 
                 "title": "HEBREW LETTER VAV"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5d6", 
                 "title": "HEBREW LETTER ZAYIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5d7", 
                 "title": "HEBREW LETTER HET"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5d8", 
                 "title": "HEBREW LETTER TET"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5d9", 
                 "title": "HEBREW LETTER YOD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5da", 
                 "title": "HEBREW LETTER FINAL KAF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5db", 
                 "title": "HEBREW LETTER KAF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5dc", 
                 "title": "HEBREW LETTER LAMED"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5dd", 
                 "title": "HEBREW LETTER FINAL MEM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5de", 
                 "title": "HEBREW LETTER MEM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5df", 
                 "title": "HEBREW LETTER FINAL NUN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5e0", 
                 "title": "HEBREW LETTER NUN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5e1", 
                 "title": "HEBREW LETTER SAMEKH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5e2", 
                 "title": "HEBREW LETTER AYIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5e3", 
                 "title": "HEBREW LETTER FINAL PE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5e4", 
                 "title": "HEBREW LETTER PE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5e5", 
                 "title": "HEBREW LETTER FINAL TSADI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5e6", 
                 "title": "HEBREW LETTER TSADI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5e7", 
                 "title": "HEBREW LETTER QOF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5e8", 
                 "title": "HEBREW LETTER RESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5e9", 
                 "title": "HEBREW LETTER SHIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5ea", 
                 "title": "HEBREW LETTER TAV"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Digraph", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5f0", 
                 "title": "HEBREW LIGATURE YIDDISH DOUBLE VAV"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Digraph", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5f1", 
                 "title": "HEBREW LIGATURE YIDDISH VAV YOD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Digraph", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5f2", 
                 "title": "HEBREW LIGATURE YIDDISH DOUBLE YOD"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5f3", 
                 "title": "HEBREW PUNCTUATION GERESH"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x5f4", 
                 "title": "HEBREW PUNCTUATION GERSHAYIM"
             }

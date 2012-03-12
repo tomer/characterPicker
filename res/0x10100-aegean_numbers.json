@@ -2,226 +2,450 @@
     {
         "content": [
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10100", 
                 "title": "AEGEAN WORD SEPARATOR LINE"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10101", 
                 "title": "AEGEAN WORD SEPARATOR DOT"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10102", 
                 "title": "AEGEAN CHECK MARK"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10107", 
                 "title": "AEGEAN NUMBER ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10108", 
                 "title": "AEGEAN NUMBER TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10109", 
                 "title": "AEGEAN NUMBER THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1010a", 
                 "title": "AEGEAN NUMBER FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1010b", 
                 "title": "AEGEAN NUMBER FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1010c", 
                 "title": "AEGEAN NUMBER SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1010d", 
                 "title": "AEGEAN NUMBER SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1010e", 
                 "title": "AEGEAN NUMBER EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1010f", 
                 "title": "AEGEAN NUMBER NINE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10110", 
                 "title": "AEGEAN NUMBER TEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10111", 
                 "title": "AEGEAN NUMBER TWENTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10112", 
                 "title": "AEGEAN NUMBER THIRTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10113", 
                 "title": "AEGEAN NUMBER FORTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10114", 
                 "title": "AEGEAN NUMBER FIFTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10115", 
                 "title": "AEGEAN NUMBER SIXTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10116", 
                 "title": "AEGEAN NUMBER SEVENTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10117", 
                 "title": "AEGEAN NUMBER EIGHTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10118", 
                 "title": "AEGEAN NUMBER NINETY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10119", 
                 "title": "AEGEAN NUMBER ONE HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1011a", 
                 "title": "AEGEAN NUMBER TWO HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1011b", 
                 "title": "AEGEAN NUMBER THREE HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1011c", 
                 "title": "AEGEAN NUMBER FOUR HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1011d", 
                 "title": "AEGEAN NUMBER FIVE HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1011e", 
                 "title": "AEGEAN NUMBER SIX HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1011f", 
                 "title": "AEGEAN NUMBER SEVEN HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10120", 
                 "title": "AEGEAN NUMBER EIGHT HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10121", 
                 "title": "AEGEAN NUMBER NINE HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10122", 
                 "title": "AEGEAN NUMBER ONE THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10123", 
                 "title": "AEGEAN NUMBER TWO THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10124", 
                 "title": "AEGEAN NUMBER THREE THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10125", 
                 "title": "AEGEAN NUMBER FOUR THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10126", 
                 "title": "AEGEAN NUMBER FIVE THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10127", 
                 "title": "AEGEAN NUMBER SIX THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10128", 
                 "title": "AEGEAN NUMBER SEVEN THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10129", 
                 "title": "AEGEAN NUMBER EIGHT THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1012a", 
                 "title": "AEGEAN NUMBER NINE THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1012b", 
                 "title": "AEGEAN NUMBER TEN THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1012c", 
                 "title": "AEGEAN NUMBER TWENTY THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1012d", 
                 "title": "AEGEAN NUMBER THIRTY THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1012e", 
                 "title": "AEGEAN NUMBER FORTY THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1012f", 
                 "title": "AEGEAN NUMBER FIFTY THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10130", 
                 "title": "AEGEAN NUMBER SIXTY THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10131", 
                 "title": "AEGEAN NUMBER SEVENTY THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10132", 
                 "title": "AEGEAN NUMBER EIGHTY THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10133", 
                 "title": "AEGEAN NUMBER NINETY THOUSAND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10137", 
                 "title": "AEGEAN WEIGHT BASE UNIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10138", 
                 "title": "AEGEAN WEIGHT FIRST SUBUNIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x10139", 
                 "title": "AEGEAN WEIGHT SECOND SUBUNIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1013a", 
                 "title": "AEGEAN WEIGHT THIRD SUBUNIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1013b", 
                 "title": "AEGEAN WEIGHT FOURTH SUBUNIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1013c", 
                 "title": "AEGEAN DRY MEASURE FIRST SUBUNIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1013d", 
                 "title": "AEGEAN LIQUID MEASURE FIRST SUBUNIT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1013e", 
                 "title": "AEGEAN MEASURE SECOND SUBUNIT"
             }

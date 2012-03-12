@@ -2,62 +2,122 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3190", 
                 "title": "IDEOGRAPHIC ANNOTATION LINKING MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x3191", 
                 "title": "IDEOGRAPHIC ANNOTATION REVERSE MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x3192", 
                 "title": "IDEOGRAPHIC ANNOTATION ONE MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x3193", 
                 "title": "IDEOGRAPHIC ANNOTATION TWO MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x3194", 
                 "title": "IDEOGRAPHIC ANNOTATION THREE MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x3195", 
                 "title": "IDEOGRAPHIC ANNOTATION FOUR MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x3196", 
                 "title": "IDEOGRAPHIC ANNOTATION TOP MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x3197", 
                 "title": "IDEOGRAPHIC ANNOTATION MIDDLE MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x3198", 
                 "title": "IDEOGRAPHIC ANNOTATION BOTTOM MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x3199", 
                 "title": "IDEOGRAPHIC ANNOTATION FIRST MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x319a", 
                 "title": "IDEOGRAPHIC ANNOTATION SECOND MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x319b", 
                 "title": "IDEOGRAPHIC ANNOTATION THIRD MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x319c", 
                 "title": "IDEOGRAPHIC ANNOTATION FOURTH MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x319d", 
                 "title": "IDEOGRAPHIC ANNOTATION HEAVEN MARK"
             }, 
             {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x319e", 
                 "title": "IDEOGRAPHIC ANNOTATION EARTH MARK"
             }

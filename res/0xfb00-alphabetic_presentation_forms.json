@@ -2,230 +2,458 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb00", 
                 "title": "LATIN SMALL LIGATURE FF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb01", 
                 "title": "LATIN SMALL LIGATURE FI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb02", 
                 "title": "LATIN SMALL LIGATURE FL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb03", 
                 "title": "LATIN SMALL LIGATURE FFI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb04", 
                 "title": "LATIN SMALL LIGATURE FFL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb05", 
                 "title": "LATIN SMALL LIGATURE LONG S T"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb06", 
                 "title": "LATIN SMALL LIGATURE ST"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb13", 
                 "title": "ARMENIAN SMALL LIGATURE MEN NOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb14", 
                 "title": "ARMENIAN SMALL LIGATURE MEN ECH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb15", 
                 "title": "ARMENIAN SMALL LIGATURE MEN INI"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb16", 
                 "title": "ARMENIAN SMALL LIGATURE VEW NOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Ligature", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb17", 
                 "title": "ARMENIAN SMALL LIGATURE MEN XEH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb1d", 
                 "title": "HEBREW LETTER YOD WITH HIRIQ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb1e", 
                 "title": "HEBREW POINT JUDEO-SPANISH VARIKA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb1f", 
                 "title": "HEBREW LIGATURE YIDDISH YOD YOD PATAH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb20", 
                 "title": "HEBREW LETTER ALTERNATIVE AYIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb21", 
                 "title": "HEBREW LETTER WIDE ALEF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb22", 
                 "title": "HEBREW LETTER WIDE DALET"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb23", 
                 "title": "HEBREW LETTER WIDE HE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb24", 
                 "title": "HEBREW LETTER WIDE KAF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb25", 
                 "title": "HEBREW LETTER WIDE LAMED"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb26", 
                 "title": "HEBREW LETTER WIDE FINAL MEM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb27", 
                 "title": "HEBREW LETTER WIDE RESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb28", 
                 "title": "HEBREW LETTER WIDE TAV"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb29", 
                 "title": "HEBREW LETTER ALTERNATIVE PLUS SIGN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb2a", 
                 "title": "HEBREW LETTER SHIN WITH SHIN DOT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb2b", 
                 "title": "HEBREW LETTER SHIN WITH SIN DOT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb2c", 
                 "title": "HEBREW LETTER SHIN WITH DAGESH AND SHIN DOT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb2d", 
                 "title": "HEBREW LETTER SHIN WITH DAGESH AND SIN DOT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb2e", 
                 "title": "HEBREW LETTER ALEF WITH PATAH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb2f", 
                 "title": "HEBREW LETTER ALEF WITH QAMATS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb30", 
                 "title": "HEBREW LETTER ALEF WITH MAPIQ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb31", 
                 "title": "HEBREW LETTER BET WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb32", 
                 "title": "HEBREW LETTER GIMEL WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb33", 
                 "title": "HEBREW LETTER DALET WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb34", 
                 "title": "HEBREW LETTER HE WITH MAPIQ"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb35", 
                 "title": "HEBREW LETTER VAV WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb36", 
                 "title": "HEBREW LETTER ZAYIN WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb38", 
                 "title": "HEBREW LETTER TET WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb39", 
                 "title": "HEBREW LETTER YOD WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb3a", 
                 "title": "HEBREW LETTER FINAL KAF WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb3b", 
                 "title": "HEBREW LETTER KAF WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb3c", 
                 "title": "HEBREW LETTER LAMED WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb3e", 
                 "title": "HEBREW LETTER MEM WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb40", 
                 "title": "HEBREW LETTER NUN WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb41", 
                 "title": "HEBREW LETTER SAMEKH WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb43", 
                 "title": "HEBREW LETTER FINAL PE WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb44", 
                 "title": "HEBREW LETTER PE WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb46", 
                 "title": "HEBREW LETTER TSADI WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb47", 
                 "title": "HEBREW LETTER QOF WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb48", 
                 "title": "HEBREW LETTER RESH WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb49", 
                 "title": "HEBREW LETTER SHIN WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb4a", 
                 "title": "HEBREW LETTER TAV WITH DAGESH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb4b", 
                 "title": "HEBREW LETTER VAV WITH HOLAM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb4c", 
                 "title": "HEBREW LETTER BET WITH RAFE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb4d", 
                 "title": "HEBREW LETTER KAF WITH RAFE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfb4e", 
                 "title": "HEBREW LETTER PE WITH RAFE"
             }

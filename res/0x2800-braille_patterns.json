@@ -2,1022 +2,2042 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2800", 
                 "title": "BRAILLE PATTERN BLANK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2801", 
                 "title": "BRAILLE PATTERN DOTS-1"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2802", 
                 "title": "BRAILLE PATTERN DOTS-2"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2803", 
                 "title": "BRAILLE PATTERN DOTS-12"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2804", 
                 "title": "BRAILLE PATTERN DOTS-3"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2805", 
                 "title": "BRAILLE PATTERN DOTS-13"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2806", 
                 "title": "BRAILLE PATTERN DOTS-23"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2807", 
                 "title": "BRAILLE PATTERN DOTS-123"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2808", 
                 "title": "BRAILLE PATTERN DOTS-4"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2809", 
                 "title": "BRAILLE PATTERN DOTS-14"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x280a", 
                 "title": "BRAILLE PATTERN DOTS-24"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x280b", 
                 "title": "BRAILLE PATTERN DOTS-124"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x280c", 
                 "title": "BRAILLE PATTERN DOTS-34"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x280d", 
                 "title": "BRAILLE PATTERN DOTS-134"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x280e", 
                 "title": "BRAILLE PATTERN DOTS-234"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x280f", 
                 "title": "BRAILLE PATTERN DOTS-1234"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2810", 
                 "title": "BRAILLE PATTERN DOTS-5"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2811", 
                 "title": "BRAILLE PATTERN DOTS-15"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2812", 
                 "title": "BRAILLE PATTERN DOTS-25"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2813", 
                 "title": "BRAILLE PATTERN DOTS-125"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2814", 
                 "title": "BRAILLE PATTERN DOTS-35"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2815", 
                 "title": "BRAILLE PATTERN DOTS-135"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2816", 
                 "title": "BRAILLE PATTERN DOTS-235"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2817", 
                 "title": "BRAILLE PATTERN DOTS-1235"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2818", 
                 "title": "BRAILLE PATTERN DOTS-45"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2819", 
                 "title": "BRAILLE PATTERN DOTS-145"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x281a", 
                 "title": "BRAILLE PATTERN DOTS-245"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x281b", 
                 "title": "BRAILLE PATTERN DOTS-1245"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x281c", 
                 "title": "BRAILLE PATTERN DOTS-345"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x281d", 
                 "title": "BRAILLE PATTERN DOTS-1345"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x281e", 
                 "title": "BRAILLE PATTERN DOTS-2345"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x281f", 
                 "title": "BRAILLE PATTERN DOTS-12345"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2820", 
                 "title": "BRAILLE PATTERN DOTS-6"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2821", 
                 "title": "BRAILLE PATTERN DOTS-16"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2822", 
                 "title": "BRAILLE PATTERN DOTS-26"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2823", 
                 "title": "BRAILLE PATTERN DOTS-126"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2824", 
                 "title": "BRAILLE PATTERN DOTS-36"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2825", 
                 "title": "BRAILLE PATTERN DOTS-136"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2826", 
                 "title": "BRAILLE PATTERN DOTS-236"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2827", 
                 "title": "BRAILLE PATTERN DOTS-1236"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2828", 
                 "title": "BRAILLE PATTERN DOTS-46"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2829", 
                 "title": "BRAILLE PATTERN DOTS-146"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x282a", 
                 "title": "BRAILLE PATTERN DOTS-246"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x282b", 
                 "title": "BRAILLE PATTERN DOTS-1246"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x282c", 
                 "title": "BRAILLE PATTERN DOTS-346"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x282d", 
                 "title": "BRAILLE PATTERN DOTS-1346"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x282e", 
                 "title": "BRAILLE PATTERN DOTS-2346"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x282f", 
                 "title": "BRAILLE PATTERN DOTS-12346"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2830", 
                 "title": "BRAILLE PATTERN DOTS-56"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2831", 
                 "title": "BRAILLE PATTERN DOTS-156"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2832", 
                 "title": "BRAILLE PATTERN DOTS-256"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2833", 
                 "title": "BRAILLE PATTERN DOTS-1256"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2834", 
                 "title": "BRAILLE PATTERN DOTS-356"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2835", 
                 "title": "BRAILLE PATTERN DOTS-1356"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2836", 
                 "title": "BRAILLE PATTERN DOTS-2356"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2837", 
                 "title": "BRAILLE PATTERN DOTS-12356"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2838", 
                 "title": "BRAILLE PATTERN DOTS-456"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2839", 
                 "title": "BRAILLE PATTERN DOTS-1456"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x283a", 
                 "title": "BRAILLE PATTERN DOTS-2456"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x283b", 
                 "title": "BRAILLE PATTERN DOTS-12456"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x283c", 
                 "title": "BRAILLE PATTERN DOTS-3456"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x283d", 
                 "title": "BRAILLE PATTERN DOTS-13456"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x283e", 
                 "title": "BRAILLE PATTERN DOTS-23456"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x283f", 
                 "title": "BRAILLE PATTERN DOTS-123456"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2840", 
                 "title": "BRAILLE PATTERN DOTS-7"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2841", 
                 "title": "BRAILLE PATTERN DOTS-17"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2842", 
                 "title": "BRAILLE PATTERN DOTS-27"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2843", 
                 "title": "BRAILLE PATTERN DOTS-127"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2844", 
                 "title": "BRAILLE PATTERN DOTS-37"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2845", 
                 "title": "BRAILLE PATTERN DOTS-137"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2846", 
                 "title": "BRAILLE PATTERN DOTS-237"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2847", 
                 "title": "BRAILLE PATTERN DOTS-1237"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2848", 
                 "title": "BRAILLE PATTERN DOTS-47"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2849", 
                 "title": "BRAILLE PATTERN DOTS-147"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x284a", 
                 "title": "BRAILLE PATTERN DOTS-247"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x284b", 
                 "title": "BRAILLE PATTERN DOTS-1247"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x284c", 
                 "title": "BRAILLE PATTERN DOTS-347"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x284d", 
                 "title": "BRAILLE PATTERN DOTS-1347"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x284e", 
                 "title": "BRAILLE PATTERN DOTS-2347"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x284f", 
                 "title": "BRAILLE PATTERN DOTS-12347"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2850", 
                 "title": "BRAILLE PATTERN DOTS-57"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2851", 
                 "title": "BRAILLE PATTERN DOTS-157"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2852", 
                 "title": "BRAILLE PATTERN DOTS-257"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2853", 
                 "title": "BRAILLE PATTERN DOTS-1257"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2854", 
                 "title": "BRAILLE PATTERN DOTS-357"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2855", 
                 "title": "BRAILLE PATTERN DOTS-1357"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2856", 
                 "title": "BRAILLE PATTERN DOTS-2357"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2857", 
                 "title": "BRAILLE PATTERN DOTS-12357"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2858", 
                 "title": "BRAILLE PATTERN DOTS-457"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2859", 
                 "title": "BRAILLE PATTERN DOTS-1457"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x285a", 
                 "title": "BRAILLE PATTERN DOTS-2457"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x285b", 
                 "title": "BRAILLE PATTERN DOTS-12457"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x285c", 
                 "title": "BRAILLE PATTERN DOTS-3457"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x285d", 
                 "title": "BRAILLE PATTERN DOTS-13457"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x285e", 
                 "title": "BRAILLE PATTERN DOTS-23457"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x285f", 
                 "title": "BRAILLE PATTERN DOTS-123457"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2860", 
                 "title": "BRAILLE PATTERN DOTS-67"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2861", 
                 "title": "BRAILLE PATTERN DOTS-167"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2862", 
                 "title": "BRAILLE PATTERN DOTS-267"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2863", 
                 "title": "BRAILLE PATTERN DOTS-1267"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2864", 
                 "title": "BRAILLE PATTERN DOTS-367"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2865", 
                 "title": "BRAILLE PATTERN DOTS-1367"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2866", 
                 "title": "BRAILLE PATTERN DOTS-2367"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2867", 
                 "title": "BRAILLE PATTERN DOTS-12367"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2868", 
                 "title": "BRAILLE PATTERN DOTS-467"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2869", 
                 "title": "BRAILLE PATTERN DOTS-1467"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x286a", 
                 "title": "BRAILLE PATTERN DOTS-2467"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x286b", 
                 "title": "BRAILLE PATTERN DOTS-12467"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x286c", 
                 "title": "BRAILLE PATTERN DOTS-3467"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x286d", 
                 "title": "BRAILLE PATTERN DOTS-13467"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x286e", 
                 "title": "BRAILLE PATTERN DOTS-23467"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x286f", 
                 "title": "BRAILLE PATTERN DOTS-123467"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2870", 
                 "title": "BRAILLE PATTERN DOTS-567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2871", 
                 "title": "BRAILLE PATTERN DOTS-1567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2872", 
                 "title": "BRAILLE PATTERN DOTS-2567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2873", 
                 "title": "BRAILLE PATTERN DOTS-12567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2874", 
                 "title": "BRAILLE PATTERN DOTS-3567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2875", 
                 "title": "BRAILLE PATTERN DOTS-13567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2876", 
                 "title": "BRAILLE PATTERN DOTS-23567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2877", 
                 "title": "BRAILLE PATTERN DOTS-123567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2878", 
                 "title": "BRAILLE PATTERN DOTS-4567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2879", 
                 "title": "BRAILLE PATTERN DOTS-14567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x287a", 
                 "title": "BRAILLE PATTERN DOTS-24567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x287b", 
                 "title": "BRAILLE PATTERN DOTS-124567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x287c", 
                 "title": "BRAILLE PATTERN DOTS-34567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x287d", 
                 "title": "BRAILLE PATTERN DOTS-134567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x287e", 
                 "title": "BRAILLE PATTERN DOTS-234567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x287f", 
                 "title": "BRAILLE PATTERN DOTS-1234567"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2880", 
                 "title": "BRAILLE PATTERN DOTS-8"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2881", 
                 "title": "BRAILLE PATTERN DOTS-18"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2882", 
                 "title": "BRAILLE PATTERN DOTS-28"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2883", 
                 "title": "BRAILLE PATTERN DOTS-128"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2884", 
                 "title": "BRAILLE PATTERN DOTS-38"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2885", 
                 "title": "BRAILLE PATTERN DOTS-138"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2886", 
                 "title": "BRAILLE PATTERN DOTS-238"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2887", 
                 "title": "BRAILLE PATTERN DOTS-1238"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2888", 
                 "title": "BRAILLE PATTERN DOTS-48"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2889", 
                 "title": "BRAILLE PATTERN DOTS-148"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x288a", 
                 "title": "BRAILLE PATTERN DOTS-248"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x288b", 
                 "title": "BRAILLE PATTERN DOTS-1248"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x288c", 
                 "title": "BRAILLE PATTERN DOTS-348"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x288d", 
                 "title": "BRAILLE PATTERN DOTS-1348"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x288e", 
                 "title": "BRAILLE PATTERN DOTS-2348"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x288f", 
                 "title": "BRAILLE PATTERN DOTS-12348"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2890", 
                 "title": "BRAILLE PATTERN DOTS-58"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2891", 
                 "title": "BRAILLE PATTERN DOTS-158"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2892", 
                 "title": "BRAILLE PATTERN DOTS-258"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2893", 
                 "title": "BRAILLE PATTERN DOTS-1258"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2894", 
                 "title": "BRAILLE PATTERN DOTS-358"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2895", 
                 "title": "BRAILLE PATTERN DOTS-1358"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2896", 
                 "title": "BRAILLE PATTERN DOTS-2358"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2897", 
                 "title": "BRAILLE PATTERN DOTS-12358"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2898", 
                 "title": "BRAILLE PATTERN DOTS-458"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2899", 
                 "title": "BRAILLE PATTERN DOTS-1458"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x289a", 
                 "title": "BRAILLE PATTERN DOTS-2458"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x289b", 
                 "title": "BRAILLE PATTERN DOTS-12458"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x289c", 
                 "title": "BRAILLE PATTERN DOTS-3458"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x289d", 
                 "title": "BRAILLE PATTERN DOTS-13458"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x289e", 
                 "title": "BRAILLE PATTERN DOTS-23458"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x289f", 
                 "title": "BRAILLE PATTERN DOTS-123458"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28a0", 
                 "title": "BRAILLE PATTERN DOTS-68"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28a1", 
                 "title": "BRAILLE PATTERN DOTS-168"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28a2", 
                 "title": "BRAILLE PATTERN DOTS-268"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28a3", 
                 "title": "BRAILLE PATTERN DOTS-1268"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28a4", 
                 "title": "BRAILLE PATTERN DOTS-368"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28a5", 
                 "title": "BRAILLE PATTERN DOTS-1368"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28a6", 
                 "title": "BRAILLE PATTERN DOTS-2368"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28a7", 
                 "title": "BRAILLE PATTERN DOTS-12368"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28a8", 
                 "title": "BRAILLE PATTERN DOTS-468"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28a9", 
                 "title": "BRAILLE PATTERN DOTS-1468"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28aa", 
                 "title": "BRAILLE PATTERN DOTS-2468"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ab", 
                 "title": "BRAILLE PATTERN DOTS-12468"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ac", 
                 "title": "BRAILLE PATTERN DOTS-3468"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ad", 
                 "title": "BRAILLE PATTERN DOTS-13468"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ae", 
                 "title": "BRAILLE PATTERN DOTS-23468"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28af", 
                 "title": "BRAILLE PATTERN DOTS-123468"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28b0", 
                 "title": "BRAILLE PATTERN DOTS-568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28b1", 
                 "title": "BRAILLE PATTERN DOTS-1568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28b2", 
                 "title": "BRAILLE PATTERN DOTS-2568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28b3", 
                 "title": "BRAILLE PATTERN DOTS-12568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28b4", 
                 "title": "BRAILLE PATTERN DOTS-3568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28b5", 
                 "title": "BRAILLE PATTERN DOTS-13568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28b6", 
                 "title": "BRAILLE PATTERN DOTS-23568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28b7", 
                 "title": "BRAILLE PATTERN DOTS-123568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28b8", 
                 "title": "BRAILLE PATTERN DOTS-4568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28b9", 
                 "title": "BRAILLE PATTERN DOTS-14568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ba", 
                 "title": "BRAILLE PATTERN DOTS-24568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28bb", 
                 "title": "BRAILLE PATTERN DOTS-124568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28bc", 
                 "title": "BRAILLE PATTERN DOTS-34568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28bd", 
                 "title": "BRAILLE PATTERN DOTS-134568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28be", 
                 "title": "BRAILLE PATTERN DOTS-234568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28bf", 
                 "title": "BRAILLE PATTERN DOTS-1234568"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28c0", 
                 "title": "BRAILLE PATTERN DOTS-78"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28c1", 
                 "title": "BRAILLE PATTERN DOTS-178"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28c2", 
                 "title": "BRAILLE PATTERN DOTS-278"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28c3", 
                 "title": "BRAILLE PATTERN DOTS-1278"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28c4", 
                 "title": "BRAILLE PATTERN DOTS-378"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28c5", 
                 "title": "BRAILLE PATTERN DOTS-1378"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28c6", 
                 "title": "BRAILLE PATTERN DOTS-2378"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28c7", 
                 "title": "BRAILLE PATTERN DOTS-12378"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28c8", 
                 "title": "BRAILLE PATTERN DOTS-478"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28c9", 
                 "title": "BRAILLE PATTERN DOTS-1478"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ca", 
                 "title": "BRAILLE PATTERN DOTS-2478"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28cb", 
                 "title": "BRAILLE PATTERN DOTS-12478"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28cc", 
                 "title": "BRAILLE PATTERN DOTS-3478"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28cd", 
                 "title": "BRAILLE PATTERN DOTS-13478"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ce", 
                 "title": "BRAILLE PATTERN DOTS-23478"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28cf", 
                 "title": "BRAILLE PATTERN DOTS-123478"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28d0", 
                 "title": "BRAILLE PATTERN DOTS-578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28d1", 
                 "title": "BRAILLE PATTERN DOTS-1578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28d2", 
                 "title": "BRAILLE PATTERN DOTS-2578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28d3", 
                 "title": "BRAILLE PATTERN DOTS-12578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28d4", 
                 "title": "BRAILLE PATTERN DOTS-3578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28d5", 
                 "title": "BRAILLE PATTERN DOTS-13578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28d6", 
                 "title": "BRAILLE PATTERN DOTS-23578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28d7", 
                 "title": "BRAILLE PATTERN DOTS-123578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28d8", 
                 "title": "BRAILLE PATTERN DOTS-4578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28d9", 
                 "title": "BRAILLE PATTERN DOTS-14578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28da", 
                 "title": "BRAILLE PATTERN DOTS-24578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28db", 
                 "title": "BRAILLE PATTERN DOTS-124578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28dc", 
                 "title": "BRAILLE PATTERN DOTS-34578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28dd", 
                 "title": "BRAILLE PATTERN DOTS-134578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28de", 
                 "title": "BRAILLE PATTERN DOTS-234578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28df", 
                 "title": "BRAILLE PATTERN DOTS-1234578"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28e0", 
                 "title": "BRAILLE PATTERN DOTS-678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28e1", 
                 "title": "BRAILLE PATTERN DOTS-1678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28e2", 
                 "title": "BRAILLE PATTERN DOTS-2678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28e3", 
                 "title": "BRAILLE PATTERN DOTS-12678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28e4", 
                 "title": "BRAILLE PATTERN DOTS-3678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28e5", 
                 "title": "BRAILLE PATTERN DOTS-13678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28e6", 
                 "title": "BRAILLE PATTERN DOTS-23678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28e7", 
                 "title": "BRAILLE PATTERN DOTS-123678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28e8", 
                 "title": "BRAILLE PATTERN DOTS-4678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28e9", 
                 "title": "BRAILLE PATTERN DOTS-14678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ea", 
                 "title": "BRAILLE PATTERN DOTS-24678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28eb", 
                 "title": "BRAILLE PATTERN DOTS-124678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ec", 
                 "title": "BRAILLE PATTERN DOTS-34678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ed", 
                 "title": "BRAILLE PATTERN DOTS-134678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ee", 
                 "title": "BRAILLE PATTERN DOTS-234678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28ef", 
                 "title": "BRAILLE PATTERN DOTS-1234678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28f0", 
                 "title": "BRAILLE PATTERN DOTS-5678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28f1", 
                 "title": "BRAILLE PATTERN DOTS-15678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28f2", 
                 "title": "BRAILLE PATTERN DOTS-25678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28f3", 
                 "title": "BRAILLE PATTERN DOTS-125678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28f4", 
                 "title": "BRAILLE PATTERN DOTS-35678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28f5", 
                 "title": "BRAILLE PATTERN DOTS-135678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28f6", 
                 "title": "BRAILLE PATTERN DOTS-235678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28f7", 
                 "title": "BRAILLE PATTERN DOTS-1235678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28f8", 
                 "title": "BRAILLE PATTERN DOTS-45678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28f9", 
                 "title": "BRAILLE PATTERN DOTS-145678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28fa", 
                 "title": "BRAILLE PATTERN DOTS-245678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28fb", 
                 "title": "BRAILLE PATTERN DOTS-1245678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28fc", 
                 "title": "BRAILLE PATTERN DOTS-345678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28fd", 
                 "title": "BRAILLE PATTERN DOTS-1345678"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x28fe", 
                 "title": "BRAILLE PATTERN DOTS-2345678"
             }

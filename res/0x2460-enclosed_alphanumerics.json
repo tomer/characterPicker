@@ -2,638 +2,1274 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2460", 
                 "title": "CIRCLED DIGIT ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2461", 
                 "title": "CIRCLED DIGIT TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2462", 
                 "title": "CIRCLED DIGIT THREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2463", 
                 "title": "CIRCLED DIGIT FOUR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2464", 
                 "title": "CIRCLED DIGIT FIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2465", 
                 "title": "CIRCLED DIGIT SIX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2466", 
                 "title": "CIRCLED DIGIT SEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2467", 
                 "title": "CIRCLED DIGIT EIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2468", 
                 "title": "CIRCLED DIGIT NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2469", 
                 "title": "CIRCLED NUMBER TEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x246a", 
                 "title": "CIRCLED NUMBER ELEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x246b", 
                 "title": "CIRCLED NUMBER TWELVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x246c", 
                 "title": "CIRCLED NUMBER THIRTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x246d", 
                 "title": "CIRCLED NUMBER FOURTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x246e", 
                 "title": "CIRCLED NUMBER FIFTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x246f", 
                 "title": "CIRCLED NUMBER SIXTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2470", 
                 "title": "CIRCLED NUMBER SEVENTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2471", 
                 "title": "CIRCLED NUMBER EIGHTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2472", 
                 "title": "CIRCLED NUMBER NINETEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x2473", 
                 "title": "CIRCLED NUMBER TWENTY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2474", 
                 "title": "PARENTHESIZED DIGIT ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2475", 
                 "title": "PARENTHESIZED DIGIT TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2476", 
                 "title": "PARENTHESIZED DIGIT THREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2477", 
                 "title": "PARENTHESIZED DIGIT FOUR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2478", 
                 "title": "PARENTHESIZED DIGIT FIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2479", 
                 "title": "PARENTHESIZED DIGIT SIX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x247a", 
                 "title": "PARENTHESIZED DIGIT SEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x247b", 
                 "title": "PARENTHESIZED DIGIT EIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x247c", 
                 "title": "PARENTHESIZED DIGIT NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x247d", 
                 "title": "PARENTHESIZED NUMBER TEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x247e", 
                 "title": "PARENTHESIZED NUMBER ELEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x247f", 
                 "title": "PARENTHESIZED NUMBER TWELVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2480", 
                 "title": "PARENTHESIZED NUMBER THIRTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2481", 
                 "title": "PARENTHESIZED NUMBER FOURTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2482", 
                 "title": "PARENTHESIZED NUMBER FIFTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2483", 
                 "title": "PARENTHESIZED NUMBER SIXTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2484", 
                 "title": "PARENTHESIZED NUMBER SEVENTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2485", 
                 "title": "PARENTHESIZED NUMBER EIGHTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2486", 
                 "title": "PARENTHESIZED NUMBER NINETEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x2487", 
                 "title": "PARENTHESIZED NUMBER TWENTY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2488", 
                 "title": "DIGIT ONE FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2489", 
                 "title": "DIGIT TWO FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x248a", 
                 "title": "DIGIT THREE FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x248b", 
                 "title": "DIGIT FOUR FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x248c", 
                 "title": "DIGIT FIVE FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x248d", 
                 "title": "DIGIT SIX FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x248e", 
                 "title": "DIGIT SEVEN FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x248f", 
                 "title": "DIGIT EIGHT FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2490", 
                 "title": "DIGIT NINE FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2491", 
                 "title": "NUMBER TEN FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2492", 
                 "title": "NUMBER ELEVEN FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2493", 
                 "title": "NUMBER TWELVE FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2494", 
                 "title": "NUMBER THIRTEEN FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2495", 
                 "title": "NUMBER FOURTEEN FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2496", 
                 "title": "NUMBER FIFTEEN FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2497", 
                 "title": "NUMBER SIXTEEN FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2498", 
                 "title": "NUMBER SEVENTEEN FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2499", 
                 "title": "NUMBER EIGHTEEN FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x249a", 
                 "title": "NUMBER NINETEEN FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x249b", 
                 "title": "NUMBER TWENTY FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x249c", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x249d", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER B"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x249e", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER C"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x249f", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER D"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24a0", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER E"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24a1", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER F"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24a2", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER G"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24a3", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER H"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24a4", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER I"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24a5", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER J"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24a6", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER K"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24a7", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER L"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24a8", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER M"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24a9", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER N"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24aa", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER O"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24ab", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER P"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24ac", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER Q"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24ad", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER R"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24ae", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER S"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24af", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER T"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24b0", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER U"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24b1", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER V"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24b2", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER W"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24b3", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24b4", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER Y"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x24b5", 
                 "title": "PARENTHESIZED LATIN SMALL LETTER Z"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24b6", 
                 "title": "CIRCLED LATIN CAPITAL LETTER A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24b7", 
                 "title": "CIRCLED LATIN CAPITAL LETTER B"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24b8", 
                 "title": "CIRCLED LATIN CAPITAL LETTER C"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24b9", 
                 "title": "CIRCLED LATIN CAPITAL LETTER D"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24ba", 
                 "title": "CIRCLED LATIN CAPITAL LETTER E"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24bb", 
                 "title": "CIRCLED LATIN CAPITAL LETTER F"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24bc", 
                 "title": "CIRCLED LATIN CAPITAL LETTER G"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24bd", 
                 "title": "CIRCLED LATIN CAPITAL LETTER H"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24be", 
                 "title": "CIRCLED LATIN CAPITAL LETTER I"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24bf", 
                 "title": "CIRCLED LATIN CAPITAL LETTER J"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24c0", 
                 "title": "CIRCLED LATIN CAPITAL LETTER K"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24c1", 
                 "title": "CIRCLED LATIN CAPITAL LETTER L"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24c2", 
                 "title": "CIRCLED LATIN CAPITAL LETTER M"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24c3", 
                 "title": "CIRCLED LATIN CAPITAL LETTER N"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24c4", 
                 "title": "CIRCLED LATIN CAPITAL LETTER O"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24c5", 
                 "title": "CIRCLED LATIN CAPITAL LETTER P"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24c6", 
                 "title": "CIRCLED LATIN CAPITAL LETTER Q"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24c7", 
                 "title": "CIRCLED LATIN CAPITAL LETTER R"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24c8", 
                 "title": "CIRCLED LATIN CAPITAL LETTER S"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24c9", 
                 "title": "CIRCLED LATIN CAPITAL LETTER T"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24ca", 
                 "title": "CIRCLED LATIN CAPITAL LETTER U"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24cb", 
                 "title": "CIRCLED LATIN CAPITAL LETTER V"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24cc", 
                 "title": "CIRCLED LATIN CAPITAL LETTER W"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24cd", 
                 "title": "CIRCLED LATIN CAPITAL LETTER X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24ce", 
                 "title": "CIRCLED LATIN CAPITAL LETTER Y"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24cf", 
                 "title": "CIRCLED LATIN CAPITAL LETTER Z"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24d0", 
                 "title": "CIRCLED LATIN SMALL LETTER A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24d1", 
                 "title": "CIRCLED LATIN SMALL LETTER B"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24d2", 
                 "title": "CIRCLED LATIN SMALL LETTER C"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24d3", 
                 "title": "CIRCLED LATIN SMALL LETTER D"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24d4", 
                 "title": "CIRCLED LATIN SMALL LETTER E"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24d5", 
                 "title": "CIRCLED LATIN SMALL LETTER F"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24d6", 
                 "title": "CIRCLED LATIN SMALL LETTER G"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24d7", 
                 "title": "CIRCLED LATIN SMALL LETTER H"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24d8", 
                 "title": "CIRCLED LATIN SMALL LETTER I"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24d9", 
                 "title": "CIRCLED LATIN SMALL LETTER J"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24da", 
                 "title": "CIRCLED LATIN SMALL LETTER K"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24db", 
                 "title": "CIRCLED LATIN SMALL LETTER L"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24dc", 
                 "title": "CIRCLED LATIN SMALL LETTER M"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24dd", 
                 "title": "CIRCLED LATIN SMALL LETTER N"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24de", 
                 "title": "CIRCLED LATIN SMALL LETTER O"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24df", 
                 "title": "CIRCLED LATIN SMALL LETTER P"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24e0", 
                 "title": "CIRCLED LATIN SMALL LETTER Q"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24e1", 
                 "title": "CIRCLED LATIN SMALL LETTER R"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24e2", 
                 "title": "CIRCLED LATIN SMALL LETTER S"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24e3", 
                 "title": "CIRCLED LATIN SMALL LETTER T"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24e4", 
                 "title": "CIRCLED LATIN SMALL LETTER U"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24e5", 
                 "title": "CIRCLED LATIN SMALL LETTER V"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24e6", 
                 "title": "CIRCLED LATIN SMALL LETTER W"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24e7", 
                 "title": "CIRCLED LATIN SMALL LETTER X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24e8", 
                 "title": "CIRCLED LATIN SMALL LETTER Y"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24e9", 
                 "title": "CIRCLED LATIN SMALL LETTER Z"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24ea", 
                 "title": "CIRCLED DIGIT ZERO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24eb", 
                 "title": "NEGATIVE CIRCLED NUMBER ELEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24ec", 
                 "title": "NEGATIVE CIRCLED NUMBER TWELVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24ed", 
                 "title": "NEGATIVE CIRCLED NUMBER THIRTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24ee", 
                 "title": "NEGATIVE CIRCLED NUMBER FOURTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24ef", 
                 "title": "NEGATIVE CIRCLED NUMBER FIFTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24f0", 
                 "title": "NEGATIVE CIRCLED NUMBER SIXTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24f1", 
                 "title": "NEGATIVE CIRCLED NUMBER SEVENTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24f2", 
                 "title": "NEGATIVE CIRCLED NUMBER EIGHTEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24f3", 
                 "title": "NEGATIVE CIRCLED NUMBER NINETEEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24f4", 
                 "title": "NEGATIVE CIRCLED NUMBER TWENTY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24f5", 
                 "title": "DOUBLE CIRCLED DIGIT ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24f6", 
                 "title": "DOUBLE CIRCLED DIGIT TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24f7", 
                 "title": "DOUBLE CIRCLED DIGIT THREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24f8", 
                 "title": "DOUBLE CIRCLED DIGIT FOUR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24f9", 
                 "title": "DOUBLE CIRCLED DIGIT FIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24fa", 
                 "title": "DOUBLE CIRCLED DIGIT SIX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24fb", 
                 "title": "DOUBLE CIRCLED DIGIT SEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24fc", 
                 "title": "DOUBLE CIRCLED DIGIT EIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24fd", 
                 "title": "DOUBLE CIRCLED DIGIT NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x24fe", 
                 "title": "DOUBLE CIRCLED NUMBER TEN"
             }

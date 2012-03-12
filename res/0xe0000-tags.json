@@ -2,386 +2,770 @@
     {
         "content": [
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0001", 
                 "title": "LANGUAGE TAG"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0020", 
                 "title": "TAG SPACE"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0021", 
                 "title": "TAG EXCLAMATION MARK"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0022", 
                 "title": "TAG QUOTATION MARK"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0023", 
                 "title": "TAG NUMBER SIGN"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0024", 
                 "title": "TAG DOLLAR SIGN"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0025", 
                 "title": "TAG PERCENT SIGN"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0026", 
                 "title": "TAG AMPERSAND"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0027", 
                 "title": "TAG APOSTROPHE"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0028", 
                 "title": "TAG LEFT PARENTHESIS"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0029", 
                 "title": "TAG RIGHT PARENTHESIS"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe002a", 
                 "title": "TAG ASTERISK"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe002b", 
                 "title": "TAG PLUS SIGN"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe002c", 
                 "title": "TAG COMMA"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe002d", 
                 "title": "TAG HYPHEN-MINUS"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe002e", 
                 "title": "TAG FULL STOP"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe002f", 
                 "title": "TAG SOLIDUS"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0030", 
                 "title": "TAG DIGIT ZERO"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0031", 
                 "title": "TAG DIGIT ONE"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0032", 
                 "title": "TAG DIGIT TWO"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0033", 
                 "title": "TAG DIGIT THREE"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0034", 
                 "title": "TAG DIGIT FOUR"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0035", 
                 "title": "TAG DIGIT FIVE"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0036", 
                 "title": "TAG DIGIT SIX"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0037", 
                 "title": "TAG DIGIT SEVEN"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0038", 
                 "title": "TAG DIGIT EIGHT"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0039", 
                 "title": "TAG DIGIT NINE"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe003a", 
                 "title": "TAG COLON"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe003b", 
                 "title": "TAG SEMICOLON"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe003c", 
                 "title": "TAG LESS-THAN SIGN"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe003d", 
                 "title": "TAG EQUALS SIGN"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe003e", 
                 "title": "TAG GREATER-THAN SIGN"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe003f", 
                 "title": "TAG QUESTION MARK"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0040", 
                 "title": "TAG COMMERCIAL AT"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0041", 
                 "title": "TAG LATIN CAPITAL LETTER A"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0042", 
                 "title": "TAG LATIN CAPITAL LETTER B"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0043", 
                 "title": "TAG LATIN CAPITAL LETTER C"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0044", 
                 "title": "TAG LATIN CAPITAL LETTER D"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0045", 
                 "title": "TAG LATIN CAPITAL LETTER E"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0046", 
                 "title": "TAG LATIN CAPITAL LETTER F"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0047", 
                 "title": "TAG LATIN CAPITAL LETTER G"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0048", 
                 "title": "TAG LATIN CAPITAL LETTER H"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0049", 
                 "title": "TAG LATIN CAPITAL LETTER I"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe004a", 
                 "title": "TAG LATIN CAPITAL LETTER J"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe004b", 
                 "title": "TAG LATIN CAPITAL LETTER K"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe004c", 
                 "title": "TAG LATIN CAPITAL LETTER L"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe004d", 
                 "title": "TAG LATIN CAPITAL LETTER M"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe004e", 
                 "title": "TAG LATIN CAPITAL LETTER N"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe004f", 
                 "title": "TAG LATIN CAPITAL LETTER O"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0050", 
                 "title": "TAG LATIN CAPITAL LETTER P"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0051", 
                 "title": "TAG LATIN CAPITAL LETTER Q"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0052", 
                 "title": "TAG LATIN CAPITAL LETTER R"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0053", 
                 "title": "TAG LATIN CAPITAL LETTER S"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0054", 
                 "title": "TAG LATIN CAPITAL LETTER T"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0055", 
                 "title": "TAG LATIN CAPITAL LETTER U"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0056", 
                 "title": "TAG LATIN CAPITAL LETTER V"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0057", 
                 "title": "TAG LATIN CAPITAL LETTER W"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0058", 
                 "title": "TAG LATIN CAPITAL LETTER X"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0059", 
                 "title": "TAG LATIN CAPITAL LETTER Y"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe005a", 
                 "title": "TAG LATIN CAPITAL LETTER Z"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe005b", 
                 "title": "TAG LEFT SQUARE BRACKET"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe005c", 
                 "title": "TAG REVERSE SOLIDUS"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe005d", 
                 "title": "TAG RIGHT SQUARE BRACKET"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe005e", 
                 "title": "TAG CIRCUMFLEX ACCENT"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe005f", 
                 "title": "TAG LOW LINE"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0060", 
                 "title": "TAG GRAVE ACCENT"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0061", 
                 "title": "TAG LATIN SMALL LETTER A"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0062", 
                 "title": "TAG LATIN SMALL LETTER B"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0063", 
                 "title": "TAG LATIN SMALL LETTER C"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0064", 
                 "title": "TAG LATIN SMALL LETTER D"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0065", 
                 "title": "TAG LATIN SMALL LETTER E"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0066", 
                 "title": "TAG LATIN SMALL LETTER F"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0067", 
                 "title": "TAG LATIN SMALL LETTER G"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0068", 
                 "title": "TAG LATIN SMALL LETTER H"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0069", 
                 "title": "TAG LATIN SMALL LETTER I"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe006a", 
                 "title": "TAG LATIN SMALL LETTER J"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe006b", 
                 "title": "TAG LATIN SMALL LETTER K"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe006c", 
                 "title": "TAG LATIN SMALL LETTER L"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe006d", 
                 "title": "TAG LATIN SMALL LETTER M"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe006e", 
                 "title": "TAG LATIN SMALL LETTER N"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe006f", 
                 "title": "TAG LATIN SMALL LETTER O"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0070", 
                 "title": "TAG LATIN SMALL LETTER P"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0071", 
                 "title": "TAG LATIN SMALL LETTER Q"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0072", 
                 "title": "TAG LATIN SMALL LETTER R"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0073", 
                 "title": "TAG LATIN SMALL LETTER S"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0074", 
                 "title": "TAG LATIN SMALL LETTER T"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0075", 
                 "title": "TAG LATIN SMALL LETTER U"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0076", 
                 "title": "TAG LATIN SMALL LETTER V"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0077", 
                 "title": "TAG LATIN SMALL LETTER W"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0078", 
                 "title": "TAG LATIN SMALL LETTER X"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe0079", 
                 "title": "TAG LATIN SMALL LETTER Y"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe007a", 
                 "title": "TAG LATIN SMALL LETTER Z"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe007b", 
                 "title": "TAG LEFT CURLY BRACKET"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe007c", 
                 "title": "TAG VERTICAL LINE"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe007d", 
                 "title": "TAG RIGHT CURLY BRACKET"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xe007e", 
                 "title": "TAG TILDE"
             }

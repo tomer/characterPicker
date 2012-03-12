@@ -2,290 +2,578 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7b0", 
                 "title": "HANGUL JUNGSEONG O-YEO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7b1", 
                 "title": "HANGUL JUNGSEONG O-O-I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7b2", 
                 "title": "HANGUL JUNGSEONG YO-A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7b3", 
                 "title": "HANGUL JUNGSEONG YO-AE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7b4", 
                 "title": "HANGUL JUNGSEONG YO-EO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7b5", 
                 "title": "HANGUL JUNGSEONG U-YEO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7b6", 
                 "title": "HANGUL JUNGSEONG U-I-I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7b7", 
                 "title": "HANGUL JUNGSEONG YU-AE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7b8", 
                 "title": "HANGUL JUNGSEONG YU-O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7b9", 
                 "title": "HANGUL JUNGSEONG EU-A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7ba", 
                 "title": "HANGUL JUNGSEONG EU-EO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7bb", 
                 "title": "HANGUL JUNGSEONG EU-E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7bc", 
                 "title": "HANGUL JUNGSEONG EU-O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7bd", 
                 "title": "HANGUL JUNGSEONG I-YA-O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7be", 
                 "title": "HANGUL JUNGSEONG I-YAE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7bf", 
                 "title": "HANGUL JUNGSEONG I-YEO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7c0", 
                 "title": "HANGUL JUNGSEONG I-YE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7c1", 
                 "title": "HANGUL JUNGSEONG I-O-I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7c2", 
                 "title": "HANGUL JUNGSEONG I-YO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7c3", 
                 "title": "HANGUL JUNGSEONG I-YU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7c4", 
                 "title": "HANGUL JUNGSEONG I-I"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7c5", 
                 "title": "HANGUL JUNGSEONG ARAEA-A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "Medial", 
+                "cat4": "", 
                 "charcode": "0xd7c6", 
                 "title": "HANGUL JUNGSEONG ARAEA-E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7cb", 
                 "title": "HANGUL JONGSEONG NIEUN-RIEUL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7cc", 
                 "title": "HANGUL JONGSEONG NIEUN-CHIEUCH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7cd", 
                 "title": "HANGUL JONGSEONG SSANGTIKEUT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7ce", 
                 "title": "HANGUL JONGSEONG SSANGTIKEUT-PIEUP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7cf", 
                 "title": "HANGUL JONGSEONG TIKEUT-PIEUP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7d0", 
                 "title": "HANGUL JONGSEONG TIKEUT-SIOS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7d1", 
                 "title": "HANGUL JONGSEONG TIKEUT-SIOS-KIYEOK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7d2", 
                 "title": "HANGUL JONGSEONG TIKEUT-CIEUC"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7d3", 
                 "title": "HANGUL JONGSEONG TIKEUT-CHIEUCH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7d4", 
                 "title": "HANGUL JONGSEONG TIKEUT-THIEUTH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7d5", 
                 "title": "HANGUL JONGSEONG RIEUL-SSANGKIYEOK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7d6", 
                 "title": "HANGUL JONGSEONG RIEUL-KIYEOK-HIEUH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7d7", 
                 "title": "HANGUL JONGSEONG SSANGRIEUL-KHIEUKH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7d8", 
                 "title": "HANGUL JONGSEONG RIEUL-MIEUM-HIEUH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7d9", 
                 "title": "HANGUL JONGSEONG RIEUL-PIEUP-TIKEUT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7da", 
                 "title": "HANGUL JONGSEONG RIEUL-PIEUP-PHIEUPH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7db", 
                 "title": "HANGUL JONGSEONG RIEUL-YESIEUNG"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7dc", 
                 "title": "HANGUL JONGSEONG RIEUL-YEORINHIEUH-HIEUH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7dd", 
                 "title": "HANGUL JONGSEONG KAPYEOUNRIEUL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7de", 
                 "title": "HANGUL JONGSEONG MIEUM-NIEUN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7df", 
                 "title": "HANGUL JONGSEONG MIEUM-SSANGNIEUN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7e0", 
                 "title": "HANGUL JONGSEONG SSANGMIEUM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7e1", 
                 "title": "HANGUL JONGSEONG MIEUM-PIEUP-SIOS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7e2", 
                 "title": "HANGUL JONGSEONG MIEUM-CIEUC"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7e3", 
                 "title": "HANGUL JONGSEONG PIEUP-TIKEUT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7e4", 
                 "title": "HANGUL JONGSEONG PIEUP-RIEUL-PHIEUPH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7e5", 
                 "title": "HANGUL JONGSEONG PIEUP-MIEUM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7e6", 
                 "title": "HANGUL JONGSEONG SSANGPIEUP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7e7", 
                 "title": "HANGUL JONGSEONG PIEUP-SIOS-TIKEUT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7e8", 
                 "title": "HANGUL JONGSEONG PIEUP-CIEUC"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7e9", 
                 "title": "HANGUL JONGSEONG PIEUP-CHIEUCH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7ea", 
                 "title": "HANGUL JONGSEONG SIOS-MIEUM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7eb", 
                 "title": "HANGUL JONGSEONG SIOS-KAPYEOUNPIEUP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7ec", 
                 "title": "HANGUL JONGSEONG SSANGSIOS-KIYEOK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7ed", 
                 "title": "HANGUL JONGSEONG SSANGSIOS-TIKEUT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7ee", 
                 "title": "HANGUL JONGSEONG SIOS-PANSIOS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7ef", 
                 "title": "HANGUL JONGSEONG SIOS-CIEUC"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7f0", 
                 "title": "HANGUL JONGSEONG SIOS-CHIEUCH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7f1", 
                 "title": "HANGUL JONGSEONG SIOS-THIEUTH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7f2", 
                 "title": "HANGUL JONGSEONG SIOS-HIEUH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7f3", 
                 "title": "HANGUL JONGSEONG PANSIOS-PIEUP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7f4", 
                 "title": "HANGUL JONGSEONG PANSIOS-KAPYEOUNPIEUP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7f5", 
                 "title": "HANGUL JONGSEONG YESIEUNG-MIEUM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7f6", 
                 "title": "HANGUL JONGSEONG YESIEUNG-HIEUH"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7f7", 
                 "title": "HANGUL JONGSEONG CIEUC-PIEUP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7f8", 
                 "title": "HANGUL JONGSEONG CIEUC-SSANGPIEUP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7f9", 
                 "title": "HANGUL JONGSEONG SSANGCIEUC"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7fa", 
                 "title": "HANGUL JONGSEONG PHIEUPH-SIOS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
                 "charcode": "0xd7fb", 
                 "title": "HANGUL JONGSEONG PHIEUPH-THIEUTH"
             }

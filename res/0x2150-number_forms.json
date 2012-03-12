@@ -2,234 +2,466 @@
     {
         "content": [
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2150", 
                 "title": "VULGAR FRACTION ONE SEVENTH"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2151", 
                 "title": "VULGAR FRACTION ONE NINTH"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2152", 
                 "title": "VULGAR FRACTION ONE TENTH"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2153", 
                 "title": "VULGAR FRACTION ONE THIRD"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2154", 
                 "title": "VULGAR FRACTION TWO THIRDS"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2155", 
                 "title": "VULGAR FRACTION ONE FIFTH"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2156", 
                 "title": "VULGAR FRACTION TWO FIFTHS"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2157", 
                 "title": "VULGAR FRACTION THREE FIFTHS"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2158", 
                 "title": "VULGAR FRACTION FOUR FIFTHS"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2159", 
                 "title": "VULGAR FRACTION ONE SIXTH"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x215a", 
                 "title": "VULGAR FRACTION FIVE SIXTHS"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x215b", 
                 "title": "VULGAR FRACTION ONE EIGHTH"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x215c", 
                 "title": "VULGAR FRACTION THREE EIGHTHS"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x215d", 
                 "title": "VULGAR FRACTION FIVE EIGHTHS"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x215e", 
                 "title": "VULGAR FRACTION SEVEN EIGHTHS"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x215f", 
                 "title": "FRACTION NUMERATOR ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2160", 
                 "title": "ROMAN NUMERAL ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2161", 
                 "title": "ROMAN NUMERAL TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2162", 
                 "title": "ROMAN NUMERAL THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2163", 
                 "title": "ROMAN NUMERAL FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2164", 
                 "title": "ROMAN NUMERAL FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2165", 
                 "title": "ROMAN NUMERAL SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2166", 
                 "title": "ROMAN NUMERAL SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2167", 
                 "title": "ROMAN NUMERAL EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2168", 
                 "title": "ROMAN NUMERAL NINE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2169", 
                 "title": "ROMAN NUMERAL TEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x216a", 
                 "title": "ROMAN NUMERAL ELEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x216b", 
                 "title": "ROMAN NUMERAL TWELVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x216c", 
                 "title": "ROMAN NUMERAL FIFTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x216d", 
                 "title": "ROMAN NUMERAL ONE HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x216e", 
                 "title": "ROMAN NUMERAL FIVE HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x216f", 
                 "title": "ROMAN NUMERAL ONE THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2170", 
                 "title": "SMALL ROMAN NUMERAL ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2171", 
                 "title": "SMALL ROMAN NUMERAL TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2172", 
                 "title": "SMALL ROMAN NUMERAL THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2173", 
                 "title": "SMALL ROMAN NUMERAL FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2174", 
                 "title": "SMALL ROMAN NUMERAL FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2175", 
                 "title": "SMALL ROMAN NUMERAL SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2176", 
                 "title": "SMALL ROMAN NUMERAL SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2177", 
                 "title": "SMALL ROMAN NUMERAL EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2178", 
                 "title": "SMALL ROMAN NUMERAL NINE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x2179", 
                 "title": "SMALL ROMAN NUMERAL TEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x217a", 
                 "title": "SMALL ROMAN NUMERAL ELEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x217b", 
                 "title": "SMALL ROMAN NUMERAL TWELVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x217c", 
                 "title": "SMALL ROMAN NUMERAL FIFTY"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x217d", 
                 "title": "SMALL ROMAN NUMERAL ONE HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x217e", 
                 "title": "SMALL ROMAN NUMERAL FIVE HUNDRED"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "", 
                 "charcode": "0x217f", 
                 "title": "SMALL ROMAN NUMERAL ONE THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "Historic", 
                 "charcode": "0x2180", 
                 "title": "ROMAN NUMERAL ONE THOUSAND C D"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "Historic", 
                 "charcode": "0x2181", 
                 "title": "ROMAN NUMERAL FIVE THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "Historic", 
                 "charcode": "0x2182", 
                 "title": "ROMAN NUMERAL TEN THOUSAND"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2183", 
                 "title": "ROMAN NUMERAL REVERSED ONE HUNDRED"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2184", 
                 "title": "LATIN SMALL LETTER REVERSED C"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "Historic", 
                 "charcode": "0x2185", 
                 "title": "ROMAN NUMERAL SIX LATE FORM"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "Historic", 
                 "charcode": "0x2186", 
                 "title": "ROMAN NUMERAL FIFTY EARLY FORM"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "Historic", 
                 "charcode": "0x2187", 
                 "title": "ROMAN NUMERAL FIFTY THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Letter", 
+                "cat3": "Roman", 
+                "cat4": "Historic", 
                 "charcode": "0x2188", 
                 "title": "ROMAN NUMERAL ONE HUNDRED THOUSAND"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Fraction", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2189", 
                 "title": "VULGAR FRACTION ZERO THIRDS"
             }

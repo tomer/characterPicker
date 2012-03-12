@@ -2,350 +2,698 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b00", 
                 "title": "NORTH EAST WHITE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b01", 
                 "title": "NORTH WEST WHITE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b02", 
                 "title": "SOUTH EAST WHITE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b03", 
                 "title": "SOUTH WEST WHITE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b04", 
                 "title": "LEFT RIGHT WHITE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b05", 
                 "title": "LEFTWARDS BLACK ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b06", 
                 "title": "UPWARDS BLACK ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b07", 
                 "title": "DOWNWARDS BLACK ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b08", 
                 "title": "NORTH EAST BLACK ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b09", 
                 "title": "NORTH WEST BLACK ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b0a", 
                 "title": "SOUTH EAST BLACK ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b0b", 
                 "title": "SOUTH WEST BLACK ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b0c", 
                 "title": "LEFT RIGHT BLACK ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Black", 
+                "cat4": "", 
                 "charcode": "0x2b0d", 
                 "title": "UP DOWN BLACK ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b0e", 
                 "title": "RIGHTWARDS ARROW WITH TIP DOWNWARDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b0f", 
                 "title": "RIGHTWARDS ARROW WITH TIP UPWARDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b10", 
                 "title": "LEFTWARDS ARROW WITH TIP DOWNWARDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b11", 
                 "title": "LEFTWARDS ARROW WITH TIP UPWARDS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b12", 
                 "title": "SQUARE WITH TOP HALF BLACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b13", 
                 "title": "SQUARE WITH BOTTOM HALF BLACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b14", 
                 "title": "SQUARE WITH UPPER RIGHT DIAGONAL HALF BLACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b15", 
                 "title": "SQUARE WITH LOWER LEFT DIAGONAL HALF BLACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b16", 
                 "title": "DIAMOND WITH LEFT HALF BLACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b17", 
                 "title": "DIAMOND WITH RIGHT HALF BLACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b18", 
                 "title": "DIAMOND WITH TOP HALF BLACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b19", 
                 "title": "DIAMOND WITH BOTTOM HALF BLACK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b1a", 
                 "title": "DOTTED SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b1b", 
                 "title": "BLACK LARGE SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b1c", 
                 "title": "WHITE LARGE SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b1d", 
                 "title": "BLACK VERY SMALL SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b1e", 
                 "title": "WHITE VERY SMALL SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b1f", 
                 "title": "BLACK PENTAGON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b20", 
                 "title": "WHITE PENTAGON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b21", 
                 "title": "WHITE HEXAGON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b22", 
                 "title": "BLACK HEXAGON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b23", 
                 "title": "HORIZONTAL BLACK HEXAGON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b24", 
                 "title": "BLACK LARGE CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b25", 
                 "title": "BLACK MEDIUM DIAMOND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b26", 
                 "title": "WHITE MEDIUM DIAMOND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b27", 
                 "title": "BLACK MEDIUM LOZENGE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b28", 
                 "title": "WHITE MEDIUM LOZENGE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b29", 
                 "title": "BLACK SMALL DIAMOND"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b2a", 
                 "title": "BLACK SMALL LOZENGE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b2b", 
                 "title": "WHITE SMALL LOZENGE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b2c", 
                 "title": "BLACK HORIZONTAL ELLIPSE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b2d", 
                 "title": "WHITE HORIZONTAL ELLIPSE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b2e", 
                 "title": "BLACK VERTICAL ELLIPSE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b2f", 
                 "title": "WHITE VERTICAL ELLIPSE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b30", 
                 "title": "LEFT ARROW WITH SMALL CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b31", 
                 "title": "THREE LEFTWARDS ARROWS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b32", 
                 "title": "LEFT ARROW WITH CIRCLED PLUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b33", 
                 "title": "LONG LEFTWARDS SQUIGGLE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b34", 
                 "title": "LEFTWARDS TWO-HEADED ARROW WITH VERTICAL STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b35", 
                 "title": "LEFTWARDS TWO-HEADED ARROW WITH DOUBLE VERTICAL STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b36", 
                 "title": "LEFTWARDS TWO-HEADED ARROW FROM BAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b37", 
                 "title": "LEFTWARDS TWO-HEADED TRIPLE DASH ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b38", 
                 "title": "LEFTWARDS ARROW WITH DOTTED STEM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b39", 
                 "title": "LEFTWARDS ARROW WITH TAIL WITH VERTICAL STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b3a", 
                 "title": "LEFTWARDS ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b3b", 
                 "title": "LEFTWARDS TWO-HEADED ARROW WITH TAIL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b3c", 
                 "title": "LEFTWARDS TWO-HEADED ARROW WITH TAIL WITH VERTICAL STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b3d", 
                 "title": "LEFTWARDS TWO-HEADED ARROW WITH TAIL WITH DOUBLE VERTICAL STROKE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b3e", 
                 "title": "LEFTWARDS ARROW THROUGH X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b3f", 
                 "title": "WAVE ARROW POINTING DIRECTLY LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b40", 
                 "title": "EQUALS SIGN ABOVE LEFTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b41", 
                 "title": "REVERSE TILDE OPERATOR ABOVE LEFTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b42", 
                 "title": "LEFTWARDS ARROW ABOVE REVERSE ALMOST EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b43", 
                 "title": "RIGHTWARDS ARROW THROUGH GREATER-THAN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b44", 
                 "title": "RIGHTWARDS ARROW THROUGH SUPERSET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b45", 
                 "title": "LEFTWARDS QUADRUPLE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b46", 
                 "title": "RIGHTWARDS QUADRUPLE ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b47", 
                 "title": "REVERSE TILDE OPERATOR ABOVE RIGHTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b48", 
                 "title": "RIGHTWARDS ARROW ABOVE REVERSE ALMOST EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b49", 
                 "title": "TILDE OPERATOR ABOVE LEFTWARDS ARROW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b4a", 
                 "title": "LEFTWARDS ARROW ABOVE ALMOST EQUAL TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b4b", 
                 "title": "LEFTWARDS ARROW ABOVE REVERSE TILDE OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b4c", 
                 "title": "RIGHTWARDS ARROW ABOVE REVERSE TILDE OPERATOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b50", 
                 "title": "WHITE MEDIUM STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b51", 
                 "title": "BLACK SMALL STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b52", 
                 "title": "WHITE SMALL STAR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b53", 
                 "title": "BLACK RIGHT-POINTING PENTAGON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b54", 
                 "title": "WHITE RIGHT-POINTING PENTAGON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Traffic sign", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b55", 
                 "title": "HEAVY LARGE CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b56", 
                 "title": "HEAVY OVAL WITH OVAL INSIDE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b57", 
                 "title": "HEAVY CIRCLE WITH CIRCLE INSIDE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b58", 
                 "title": "HEAVY CIRCLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Map", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b59", 
                 "title": "HEAVY CIRCLED SALTIRE"
             }

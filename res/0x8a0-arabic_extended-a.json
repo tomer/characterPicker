@@ -2,158 +2,314 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8a0", 
                 "title": "ARABIC LETTER BEH WITH SMALL V BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8a2", 
                 "title": "ARABIC LETTER JEEM WITH TWO DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8a3", 
                 "title": "ARABIC LETTER TAH WITH TWO DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8a4", 
                 "title": "ARABIC LETTER FEH WITH DOT BELOW AND THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8a5", 
                 "title": "ARABIC LETTER QAF WITH DOT BELOW"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8a6", 
                 "title": "ARABIC LETTER LAM WITH DOUBLE BAR"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8a7", 
                 "title": "ARABIC LETTER MEEM WITH THREE DOTS ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8a8", 
                 "title": "ARABIC LETTER YEH WITH TWO DOTS BELOW AND HAMZA ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8a9", 
                 "title": "ARABIC LETTER YEH WITH TWO DOTS BELOW AND DOT ABOVE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8aa", 
                 "title": "ARABIC LETTER REH WITH LOOP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8ab", 
                 "title": "ARABIC LETTER WAW WITH DOT WITHIN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8ac", 
                 "title": "ARABIC LETTER ROHINGYA YEH"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8e4", 
                 "title": "ARABIC CURLY FATHA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8e5", 
                 "title": "ARABIC CURLY DAMMA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8e6", 
                 "title": "ARABIC CURLY KASRA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8e7", 
                 "title": "ARABIC CURLY FATHATAN"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8e8", 
                 "title": "ARABIC CURLY DAMMATAN"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8e9", 
                 "title": "ARABIC CURLY KASRATAN"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8ea", 
                 "title": "ARABIC TONE ONE DOT ABOVE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8eb", 
                 "title": "ARABIC TONE TWO DOTS ABOVE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8ec", 
                 "title": "ARABIC TONE LOOP ABOVE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8ed", 
                 "title": "ARABIC TONE ONE DOT BELOW"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8ee", 
                 "title": "ARABIC TONE TWO DOTS BELOW"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8ef", 
                 "title": "ARABIC TONE LOOP BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8f0", 
                 "title": "ARABIC OPEN FATHATAN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8f1", 
                 "title": "ARABIC OPEN DAMMATAN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8f2", 
                 "title": "ARABIC OPEN KASRATAN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Annotation", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8f3", 
                 "title": "ARABIC SMALL HIGH WAW"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8f4", 
                 "title": "ARABIC FATHA WITH RING"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8f5", 
                 "title": "ARABIC FATHA WITH DOT ABOVE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8f6", 
                 "title": "ARABIC KASRA WITH DOT BELOW"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8f7", 
                 "title": "ARABIC LEFT ARROWHEAD ABOVE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8f8", 
                 "title": "ARABIC RIGHT ARROWHEAD ABOVE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8f9", 
                 "title": "ARABIC LEFT ARROWHEAD BELOW"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8fa", 
                 "title": "ARABIC RIGHT ARROWHEAD BELOW"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8fb", 
                 "title": "ARABIC DOUBLE RIGHT ARROWHEAD ABOVE"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8fc", 
                 "title": "ARABIC DOUBLE RIGHT ARROWHEAD ABOVE WITH DOT"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8fd", 
                 "title": "ARABIC RIGHT ARROWHEAD ABOVE WITH DOT"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "Point", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x8fe", 
                 "title": "ARABIC DAMMA WITH DOT"
             }

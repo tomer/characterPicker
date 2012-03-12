@@ -2,354 +2,706 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa640", 
                 "title": "CYRILLIC CAPITAL LETTER ZEMLYA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa641", 
                 "title": "CYRILLIC SMALL LETTER ZEMLYA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa642", 
                 "title": "CYRILLIC CAPITAL LETTER DZELO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa643", 
                 "title": "CYRILLIC SMALL LETTER DZELO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa644", 
                 "title": "CYRILLIC CAPITAL LETTER REVERSED DZE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa645", 
                 "title": "CYRILLIC SMALL LETTER REVERSED DZE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa646", 
                 "title": "CYRILLIC CAPITAL LETTER IOTA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa647", 
                 "title": "CYRILLIC SMALL LETTER IOTA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa648", 
                 "title": "CYRILLIC CAPITAL LETTER DJERV"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa649", 
                 "title": "CYRILLIC SMALL LETTER DJERV"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa64a", 
                 "title": "CYRILLIC CAPITAL LETTER MONOGRAPH UK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa64b", 
                 "title": "CYRILLIC SMALL LETTER MONOGRAPH UK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa64c", 
                 "title": "CYRILLIC CAPITAL LETTER BROAD OMEGA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa64d", 
                 "title": "CYRILLIC SMALL LETTER BROAD OMEGA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa64e", 
                 "title": "CYRILLIC CAPITAL LETTER NEUTRAL YER"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa64f", 
                 "title": "CYRILLIC SMALL LETTER NEUTRAL YER"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa650", 
                 "title": "CYRILLIC CAPITAL LETTER YERU WITH BACK YER"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa651", 
                 "title": "CYRILLIC SMALL LETTER YERU WITH BACK YER"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa652", 
                 "title": "CYRILLIC CAPITAL LETTER IOTIFIED YAT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa653", 
                 "title": "CYRILLIC SMALL LETTER IOTIFIED YAT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa654", 
                 "title": "CYRILLIC CAPITAL LETTER REVERSED YU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa655", 
                 "title": "CYRILLIC SMALL LETTER REVERSED YU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa656", 
                 "title": "CYRILLIC CAPITAL LETTER IOTIFIED A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa657", 
                 "title": "CYRILLIC SMALL LETTER IOTIFIED A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa658", 
                 "title": "CYRILLIC CAPITAL LETTER CLOSED LITTLE YUS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa659", 
                 "title": "CYRILLIC SMALL LETTER CLOSED LITTLE YUS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa65a", 
                 "title": "CYRILLIC CAPITAL LETTER BLENDED YUS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa65b", 
                 "title": "CYRILLIC SMALL LETTER BLENDED YUS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa65c", 
                 "title": "CYRILLIC CAPITAL LETTER IOTIFIED CLOSED LITTLE YUS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa65d", 
                 "title": "CYRILLIC SMALL LETTER IOTIFIED CLOSED LITTLE YUS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa65e", 
                 "title": "CYRILLIC CAPITAL LETTER YN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa65f", 
                 "title": "CYRILLIC SMALL LETTER YN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa660", 
                 "title": "CYRILLIC CAPITAL LETTER REVERSED TSE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa661", 
                 "title": "CYRILLIC SMALL LETTER REVERSED TSE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa662", 
                 "title": "CYRILLIC CAPITAL LETTER SOFT DE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa663", 
                 "title": "CYRILLIC SMALL LETTER SOFT DE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa664", 
                 "title": "CYRILLIC CAPITAL LETTER SOFT EL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa665", 
                 "title": "CYRILLIC SMALL LETTER SOFT EL"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa666", 
                 "title": "CYRILLIC CAPITAL LETTER SOFT EM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa667", 
                 "title": "CYRILLIC SMALL LETTER SOFT EM"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa668", 
                 "title": "CYRILLIC CAPITAL LETTER MONOCULAR O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa669", 
                 "title": "CYRILLIC SMALL LETTER MONOCULAR O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa66a", 
                 "title": "CYRILLIC CAPITAL LETTER BINOCULAR O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa66b", 
                 "title": "CYRILLIC SMALL LETTER BINOCULAR O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa66c", 
                 "title": "CYRILLIC CAPITAL LETTER DOUBLE MONOCULAR O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa66d", 
                 "title": "CYRILLIC SMALL LETTER DOUBLE MONOCULAR O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa66e", 
                 "title": "CYRILLIC LETTER MULTIOCULAR O"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa66f", 
                 "title": "COMBINING CYRILLIC VZMET"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa670", 
                 "title": "COMBINING CYRILLIC TEN MILLIONS SIGN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa671", 
                 "title": "COMBINING CYRILLIC HUNDRED MILLIONS SIGN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa672", 
                 "title": "COMBINING CYRILLIC THOUSAND MILLIONS SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa673", 
                 "title": "SLAVONIC ASTERISK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa674", 
                 "title": "COMBINING CYRILLIC LETTER UKRAINIAN IE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa675", 
                 "title": "COMBINING CYRILLIC LETTER I"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa676", 
                 "title": "COMBINING CYRILLIC LETTER YI"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa677", 
                 "title": "COMBINING CYRILLIC LETTER U"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa678", 
                 "title": "COMBINING CYRILLIC LETTER HARD SIGN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa679", 
                 "title": "COMBINING CYRILLIC LETTER YERU"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa67a", 
                 "title": "COMBINING CYRILLIC LETTER SOFT SIGN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa67b", 
                 "title": "COMBINING CYRILLIC LETTER OMEGA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa67c", 
                 "title": "COMBINING CYRILLIC KAVYKA"
             }, 
             {
+                "cat1": "Mark", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa67d", 
                 "title": "COMBINING CYRILLIC PAYEROK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa67e", 
                 "title": "CYRILLIC KAVYKA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa67f", 
                 "title": "CYRILLIC PAYEROK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa680", 
                 "title": "CYRILLIC CAPITAL LETTER DWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa681", 
                 "title": "CYRILLIC SMALL LETTER DWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa682", 
                 "title": "CYRILLIC CAPITAL LETTER DZWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa683", 
                 "title": "CYRILLIC SMALL LETTER DZWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa684", 
                 "title": "CYRILLIC CAPITAL LETTER ZHWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa685", 
                 "title": "CYRILLIC SMALL LETTER ZHWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa686", 
                 "title": "CYRILLIC CAPITAL LETTER CCHE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa687", 
                 "title": "CYRILLIC SMALL LETTER CCHE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa688", 
                 "title": "CYRILLIC CAPITAL LETTER DZZE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa689", 
                 "title": "CYRILLIC SMALL LETTER DZZE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa68a", 
                 "title": "CYRILLIC CAPITAL LETTER TE WITH MIDDLE HOOK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa68b", 
                 "title": "CYRILLIC SMALL LETTER TE WITH MIDDLE HOOK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa68c", 
                 "title": "CYRILLIC CAPITAL LETTER TWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa68d", 
                 "title": "CYRILLIC SMALL LETTER TWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa68e", 
                 "title": "CYRILLIC CAPITAL LETTER TSWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa68f", 
                 "title": "CYRILLIC SMALL LETTER TSWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa690", 
                 "title": "CYRILLIC CAPITAL LETTER TSSE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa691", 
                 "title": "CYRILLIC SMALL LETTER TSSE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa692", 
                 "title": "CYRILLIC CAPITAL LETTER TCHE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa693", 
                 "title": "CYRILLIC SMALL LETTER TCHE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa694", 
                 "title": "CYRILLIC CAPITAL LETTER HWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa695", 
                 "title": "CYRILLIC SMALL LETTER HWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa696", 
                 "title": "CYRILLIC CAPITAL LETTER SHWE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa697", 
                 "title": "CYRILLIC SMALL LETTER SHWE"
             }

@@ -2,170 +2,338 @@
     {
         "content": [
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2070", 
                 "title": "SUPERSCRIPT ZERO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2071", 
                 "title": "SUPERSCRIPT LATIN SMALL LETTER I"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2074", 
                 "title": "SUPERSCRIPT FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2075", 
                 "title": "SUPERSCRIPT FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2076", 
                 "title": "SUPERSCRIPT SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2077", 
                 "title": "SUPERSCRIPT SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2078", 
                 "title": "SUPERSCRIPT EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2079", 
                 "title": "SUPERSCRIPT NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x207a", 
                 "title": "SUPERSCRIPT PLUS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x207b", 
                 "title": "SUPERSCRIPT MINUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x207c", 
                 "title": "SUPERSCRIPT EQUALS SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x207d", 
                 "title": "SUPERSCRIPT LEFT PARENTHESIS"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x207e", 
                 "title": "SUPERSCRIPT RIGHT PARENTHESIS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x207f", 
                 "title": "SUPERSCRIPT LATIN SMALL LETTER N"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2080", 
                 "title": "SUBSCRIPT ZERO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2081", 
                 "title": "SUBSCRIPT ONE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2082", 
                 "title": "SUBSCRIPT TWO"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2083", 
                 "title": "SUBSCRIPT THREE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2084", 
                 "title": "SUBSCRIPT FOUR"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2085", 
                 "title": "SUBSCRIPT FIVE"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2086", 
                 "title": "SUBSCRIPT SIX"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2087", 
                 "title": "SUBSCRIPT SEVEN"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2088", 
                 "title": "SUBSCRIPT EIGHT"
             }, 
             {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2089", 
                 "title": "SUBSCRIPT NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x208a", 
                 "title": "SUBSCRIPT PLUS SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x208b", 
                 "title": "SUBSCRIPT MINUS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x208c", 
                 "title": "SUBSCRIPT EQUALS SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x208d", 
                 "title": "SUBSCRIPT LEFT PARENTHESIS"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x208e", 
                 "title": "SUBSCRIPT RIGHT PARENTHESIS"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2090", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER A"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2091", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER E"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2092", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER O"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2093", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER X"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2094", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER SCHWA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2095", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER H"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2096", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER K"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2097", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER L"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2098", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER M"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x2099", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER N"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x209a", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER P"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x209b", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER S"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Subscript", 
+                "cat4": "", 
                 "charcode": "0x209c", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER T"
             }

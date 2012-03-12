@@ -2,682 +2,1362 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f100", 
                 "title": "DIGIT ZERO FULL STOP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f101", 
                 "title": "DIGIT ZERO COMMA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f102", 
                 "title": "DIGIT ONE COMMA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f103", 
                 "title": "DIGIT TWO COMMA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f104", 
                 "title": "DIGIT THREE COMMA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f105", 
                 "title": "DIGIT FOUR COMMA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f106", 
                 "title": "DIGIT FIVE COMMA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f107", 
                 "title": "DIGIT SIX COMMA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f108", 
                 "title": "DIGIT SEVEN COMMA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f109", 
                 "title": "DIGIT EIGHT COMMA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f10a", 
                 "title": "DIGIT NINE COMMA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f110", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f111", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER B"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f112", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER C"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f113", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER D"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f114", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER E"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f115", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER F"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f116", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER G"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f117", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER H"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f118", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER I"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f119", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER J"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f11a", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER K"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f11b", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER L"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f11c", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER M"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f11d", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER N"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f11e", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER O"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f11f", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER P"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f120", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER Q"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f121", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER R"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f122", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER S"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f123", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER T"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f124", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER U"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f125", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER V"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f126", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER W"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f127", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f128", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER Y"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x1f129", 
                 "title": "PARENTHESIZED LATIN CAPITAL LETTER Z"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Bracketed", 
+                "cat4": "", 
                 "charcode": "0x1f12a", 
                 "title": "TORTOISE SHELL BRACKETED LATIN CAPITAL LETTER S"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "Italic", 
                 "charcode": "0x1f12b", 
                 "title": "CIRCLED ITALIC LATIN CAPITAL LETTER C"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "Italic", 
                 "charcode": "0x1f12c", 
                 "title": "CIRCLED ITALIC LATIN CAPITAL LETTER R"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f12d", 
                 "title": "CIRCLED CD"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f12e", 
                 "title": "CIRCLED WZ"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f130", 
                 "title": "SQUARED LATIN CAPITAL LETTER A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f131", 
                 "title": "SQUARED LATIN CAPITAL LETTER B"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f132", 
                 "title": "SQUARED LATIN CAPITAL LETTER C"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f133", 
                 "title": "SQUARED LATIN CAPITAL LETTER D"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f134", 
                 "title": "SQUARED LATIN CAPITAL LETTER E"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f135", 
                 "title": "SQUARED LATIN CAPITAL LETTER F"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f136", 
                 "title": "SQUARED LATIN CAPITAL LETTER G"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f137", 
                 "title": "SQUARED LATIN CAPITAL LETTER H"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f138", 
                 "title": "SQUARED LATIN CAPITAL LETTER I"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f139", 
                 "title": "SQUARED LATIN CAPITAL LETTER J"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f13a", 
                 "title": "SQUARED LATIN CAPITAL LETTER K"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f13b", 
                 "title": "SQUARED LATIN CAPITAL LETTER L"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f13c", 
                 "title": "SQUARED LATIN CAPITAL LETTER M"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f13d", 
                 "title": "SQUARED LATIN CAPITAL LETTER N"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f13e", 
                 "title": "SQUARED LATIN CAPITAL LETTER O"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f13f", 
                 "title": "SQUARED LATIN CAPITAL LETTER P"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f140", 
                 "title": "SQUARED LATIN CAPITAL LETTER Q"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f141", 
                 "title": "SQUARED LATIN CAPITAL LETTER R"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f142", 
                 "title": "SQUARED LATIN CAPITAL LETTER S"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f143", 
                 "title": "SQUARED LATIN CAPITAL LETTER T"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f144", 
                 "title": "SQUARED LATIN CAPITAL LETTER U"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f145", 
                 "title": "SQUARED LATIN CAPITAL LETTER V"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f146", 
                 "title": "SQUARED LATIN CAPITAL LETTER W"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f147", 
                 "title": "SQUARED LATIN CAPITAL LETTER X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f148", 
                 "title": "SQUARED LATIN CAPITAL LETTER Y"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f149", 
                 "title": "SQUARED LATIN CAPITAL LETTER Z"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f14a", 
                 "title": "SQUARED HV"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f14b", 
                 "title": "SQUARED MV"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f14c", 
                 "title": "SQUARED SD"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f14d", 
                 "title": "SQUARED SS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f14e", 
                 "title": "SQUARED PPV"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f14f", 
                 "title": "SQUARED WC"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f150", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f151", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER B"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f152", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER C"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f153", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER D"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f154", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER E"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f155", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER F"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f156", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER G"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f157", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER H"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f158", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER I"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f159", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER J"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f15a", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER K"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f15b", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER L"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f15c", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER M"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f15d", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER N"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f15e", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER O"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f15f", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER P"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f160", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER Q"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f161", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER R"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f162", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER S"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f163", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER T"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f164", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER U"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f165", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER V"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f166", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER W"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f167", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f168", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER Y"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x1f169", 
                 "title": "NEGATIVE CIRCLED LATIN CAPITAL LETTER Z"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letterlike", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f16a", 
                 "title": "RAISED MC SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letterlike", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x1f16b", 
                 "title": "RAISED MD SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f170", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f171", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER B"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f172", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER C"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f173", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER D"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f174", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER E"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f175", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER F"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f176", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER G"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f177", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER H"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f178", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER I"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f179", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER J"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f17a", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER K"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f17b", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER L"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f17c", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER M"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f17d", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER N"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f17e", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER O"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f17f", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER P"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f180", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER Q"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f181", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER R"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f182", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER S"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f183", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER T"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f184", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER U"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f185", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER V"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f186", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER W"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f187", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f188", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER Y"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f189", 
                 "title": "NEGATIVE SQUARED LATIN CAPITAL LETTER Z"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f18a", 
                 "title": "CROSSED NEGATIVE SQUARED LATIN CAPITAL LETTER P"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f18b", 
                 "title": "NEGATIVE SQUARED IC"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f18c", 
                 "title": "NEGATIVE SQUARED PA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f18d", 
                 "title": "NEGATIVE SQUARED SA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f18e", 
                 "title": "NEGATIVE SQUARED AB"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f18f", 
                 "title": "NEGATIVE SQUARED WC"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f190", 
                 "title": "SQUARE DJ"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f191", 
                 "title": "SQUARED CL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f192", 
                 "title": "SQUARED COOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f193", 
                 "title": "SQUARED FREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f194", 
                 "title": "SQUARED ID"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f195", 
                 "title": "SQUARED NEW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f196", 
                 "title": "SQUARED NG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f197", 
                 "title": "SQUARED OK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f198", 
                 "title": "SQUARED SOS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f199", 
                 "title": "SQUARED UP WITH EXCLAMATION MARK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "", 
                 "charcode": "0x1f19a", 
                 "title": "SQUARED VS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1e6", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1e7", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER B"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1e8", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER C"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1e9", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER D"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1ea", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER E"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1eb", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER F"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1ec", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER G"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1ed", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER H"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1ee", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER I"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1ef", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER J"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1f0", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER K"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1f1", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER L"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1f2", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER M"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1f3", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER N"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1f4", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER O"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1f5", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER P"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1f6", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER Q"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1f7", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER R"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1f8", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER S"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1f9", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER T"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1fa", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER U"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1fb", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER V"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1fc", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER W"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1fd", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER X"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
                 "charcode": "0x1f1fe", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER Y"
             }

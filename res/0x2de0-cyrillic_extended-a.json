@@ -2,126 +2,250 @@
     {
         "content": [
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2de0", 
                 "title": "COMBINING CYRILLIC LETTER BE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2de1", 
                 "title": "COMBINING CYRILLIC LETTER VE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2de2", 
                 "title": "COMBINING CYRILLIC LETTER GHE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2de3", 
                 "title": "COMBINING CYRILLIC LETTER DE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2de4", 
                 "title": "COMBINING CYRILLIC LETTER ZHE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2de5", 
                 "title": "COMBINING CYRILLIC LETTER ZE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2de6", 
                 "title": "COMBINING CYRILLIC LETTER KA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2de7", 
                 "title": "COMBINING CYRILLIC LETTER EL"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2de8", 
                 "title": "COMBINING CYRILLIC LETTER EM"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2de9", 
                 "title": "COMBINING CYRILLIC LETTER EN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2dea", 
                 "title": "COMBINING CYRILLIC LETTER O"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2deb", 
                 "title": "COMBINING CYRILLIC LETTER PE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2dec", 
                 "title": "COMBINING CYRILLIC LETTER ER"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2ded", 
                 "title": "COMBINING CYRILLIC LETTER ES"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2dee", 
                 "title": "COMBINING CYRILLIC LETTER TE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2def", 
                 "title": "COMBINING CYRILLIC LETTER HA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2df0", 
                 "title": "COMBINING CYRILLIC LETTER TSE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2df1", 
                 "title": "COMBINING CYRILLIC LETTER CHE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2df2", 
                 "title": "COMBINING CYRILLIC LETTER SHA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2df3", 
                 "title": "COMBINING CYRILLIC LETTER SHCHA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2df4", 
                 "title": "COMBINING CYRILLIC LETTER FITA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2df5", 
                 "title": "COMBINING CYRILLIC LETTER ES-TE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2df6", 
                 "title": "COMBINING CYRILLIC LETTER A"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2df7", 
                 "title": "COMBINING CYRILLIC LETTER IE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2df8", 
                 "title": "COMBINING CYRILLIC LETTER DJERV"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2df9", 
                 "title": "COMBINING CYRILLIC LETTER MONOGRAPH UK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2dfa", 
                 "title": "COMBINING CYRILLIC LETTER YAT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2dfb", 
                 "title": "COMBINING CYRILLIC LETTER YU"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2dfc", 
                 "title": "COMBINING CYRILLIC LETTER IOTIFIED A"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2dfd", 
                 "title": "COMBINING CYRILLIC LETTER LITTLE YUS"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2dfe", 
                 "title": "COMBINING CYRILLIC LETTER BIG YUS"
             }

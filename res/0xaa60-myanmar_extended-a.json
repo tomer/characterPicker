@@ -2,114 +2,226 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa60", 
                 "title": "MYANMAR LETTER KHAMTI GA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa61", 
                 "title": "MYANMAR LETTER KHAMTI CA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa62", 
                 "title": "MYANMAR LETTER KHAMTI CHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa63", 
                 "title": "MYANMAR LETTER KHAMTI JA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa64", 
                 "title": "MYANMAR LETTER KHAMTI JHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa65", 
                 "title": "MYANMAR LETTER KHAMTI NYA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa66", 
                 "title": "MYANMAR LETTER KHAMTI TTA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa67", 
                 "title": "MYANMAR LETTER KHAMTI TTHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa68", 
                 "title": "MYANMAR LETTER KHAMTI DDA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa69", 
                 "title": "MYANMAR LETTER KHAMTI DDHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa6a", 
                 "title": "MYANMAR LETTER KHAMTI DHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa6b", 
                 "title": "MYANMAR LETTER KHAMTI NA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa6c", 
                 "title": "MYANMAR LETTER KHAMTI SA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa6d", 
                 "title": "MYANMAR LETTER KHAMTI HA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa6e", 
                 "title": "MYANMAR LETTER KHAMTI HHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa6f", 
                 "title": "MYANMAR LETTER KHAMTI FA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa70", 
                 "title": "MYANMAR MODIFIER LETTER KHAMTI REDUPLICATION"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa71", 
                 "title": "MYANMAR LETTER KHAMTI XA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa72", 
                 "title": "MYANMAR LETTER KHAMTI ZA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa73", 
                 "title": "MYANMAR LETTER KHAMTI RA"
             }, 
             {
+                "cat1": "Logograph", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa74", 
                 "title": "MYANMAR LOGOGRAM KHAMTI OAY"
             }, 
             {
+                "cat1": "Logograph", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa75", 
                 "title": "MYANMAR LOGOGRAM KHAMTI QN"
             }, 
             {
+                "cat1": "Logograph", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa76", 
                 "title": "MYANMAR LOGOGRAM KHAMTI HM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa77", 
                 "title": "MYANMAR SYMBOL AITON EXCLAMATION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa78", 
                 "title": "MYANMAR SYMBOL AITON ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa79", 
                 "title": "MYANMAR SYMBOL AITON TWO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa7a", 
                 "title": "MYANMAR LETTER AITON RA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xaa7b", 
                 "title": "MYANMAR SIGN PAO KAREN TONE"
             }

@@ -2,1018 +2,2034 @@
     {
         "content": [
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3200", 
                 "title": "PARENTHESIZED HANGUL KIYEOK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3201", 
                 "title": "PARENTHESIZED HANGUL NIEUN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3202", 
                 "title": "PARENTHESIZED HANGUL TIKEUT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3203", 
                 "title": "PARENTHESIZED HANGUL RIEUL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3204", 
                 "title": "PARENTHESIZED HANGUL MIEUM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3205", 
                 "title": "PARENTHESIZED HANGUL PIEUP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3206", 
                 "title": "PARENTHESIZED HANGUL SIOS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3207", 
                 "title": "PARENTHESIZED HANGUL IEUNG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3208", 
                 "title": "PARENTHESIZED HANGUL CIEUC"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3209", 
                 "title": "PARENTHESIZED HANGUL CHIEUCH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x320a", 
                 "title": "PARENTHESIZED HANGUL KHIEUKH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x320b", 
                 "title": "PARENTHESIZED HANGUL THIEUTH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x320c", 
                 "title": "PARENTHESIZED HANGUL PHIEUPH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x320d", 
                 "title": "PARENTHESIZED HANGUL HIEUH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x320e", 
                 "title": "PARENTHESIZED HANGUL KIYEOK A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x320f", 
                 "title": "PARENTHESIZED HANGUL NIEUN A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3210", 
                 "title": "PARENTHESIZED HANGUL TIKEUT A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3211", 
                 "title": "PARENTHESIZED HANGUL RIEUL A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3212", 
                 "title": "PARENTHESIZED HANGUL MIEUM A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3213", 
                 "title": "PARENTHESIZED HANGUL PIEUP A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3214", 
                 "title": "PARENTHESIZED HANGUL SIOS A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3215", 
                 "title": "PARENTHESIZED HANGUL IEUNG A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3216", 
                 "title": "PARENTHESIZED HANGUL CIEUC A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3217", 
                 "title": "PARENTHESIZED HANGUL CHIEUCH A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3218", 
                 "title": "PARENTHESIZED HANGUL KHIEUKH A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3219", 
                 "title": "PARENTHESIZED HANGUL THIEUTH A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x321a", 
                 "title": "PARENTHESIZED HANGUL PHIEUPH A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x321b", 
                 "title": "PARENTHESIZED HANGUL HIEUH A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x321c", 
                 "title": "PARENTHESIZED HANGUL CIEUC U"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x321d", 
                 "title": "PARENTHESIZED KOREAN CHARACTER OJEON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x321e", 
                 "title": "PARENTHESIZED KOREAN CHARACTER O HU"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3220", 
                 "title": "PARENTHESIZED IDEOGRAPH ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3221", 
                 "title": "PARENTHESIZED IDEOGRAPH TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3222", 
                 "title": "PARENTHESIZED IDEOGRAPH THREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3223", 
                 "title": "PARENTHESIZED IDEOGRAPH FOUR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3224", 
                 "title": "PARENTHESIZED IDEOGRAPH FIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3225", 
                 "title": "PARENTHESIZED IDEOGRAPH SIX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3226", 
                 "title": "PARENTHESIZED IDEOGRAPH SEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3227", 
                 "title": "PARENTHESIZED IDEOGRAPH EIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3228", 
                 "title": "PARENTHESIZED IDEOGRAPH NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3229", 
                 "title": "PARENTHESIZED IDEOGRAPH TEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x322a", 
                 "title": "PARENTHESIZED IDEOGRAPH MOON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x322b", 
                 "title": "PARENTHESIZED IDEOGRAPH FIRE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x322c", 
                 "title": "PARENTHESIZED IDEOGRAPH WATER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x322d", 
                 "title": "PARENTHESIZED IDEOGRAPH WOOD"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x322e", 
                 "title": "PARENTHESIZED IDEOGRAPH METAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x322f", 
                 "title": "PARENTHESIZED IDEOGRAPH EARTH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3230", 
                 "title": "PARENTHESIZED IDEOGRAPH SUN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3231", 
                 "title": "PARENTHESIZED IDEOGRAPH STOCK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3232", 
                 "title": "PARENTHESIZED IDEOGRAPH HAVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3233", 
                 "title": "PARENTHESIZED IDEOGRAPH SOCIETY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3234", 
                 "title": "PARENTHESIZED IDEOGRAPH NAME"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3235", 
                 "title": "PARENTHESIZED IDEOGRAPH SPECIAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3236", 
                 "title": "PARENTHESIZED IDEOGRAPH FINANCIAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3237", 
                 "title": "PARENTHESIZED IDEOGRAPH CONGRATULATION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3238", 
                 "title": "PARENTHESIZED IDEOGRAPH LABOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3239", 
                 "title": "PARENTHESIZED IDEOGRAPH REPRESENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x323a", 
                 "title": "PARENTHESIZED IDEOGRAPH CALL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x323b", 
                 "title": "PARENTHESIZED IDEOGRAPH STUDY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x323c", 
                 "title": "PARENTHESIZED IDEOGRAPH SUPERVISE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x323d", 
                 "title": "PARENTHESIZED IDEOGRAPH ENTERPRISE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x323e", 
                 "title": "PARENTHESIZED IDEOGRAPH RESOURCE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x323f", 
                 "title": "PARENTHESIZED IDEOGRAPH ALLIANCE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3240", 
                 "title": "PARENTHESIZED IDEOGRAPH FESTIVAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3241", 
                 "title": "PARENTHESIZED IDEOGRAPH REST"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3242", 
                 "title": "PARENTHESIZED IDEOGRAPH SELF"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Parenthesized", 
+                "cat4": "", 
                 "charcode": "0x3243", 
                 "title": "PARENTHESIZED IDEOGRAPH REACH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3244", 
                 "title": "CIRCLED IDEOGRAPH QUESTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3245", 
                 "title": "CIRCLED IDEOGRAPH KINDERGARTEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3246", 
                 "title": "CIRCLED IDEOGRAPH SCHOOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3247", 
                 "title": "CIRCLED IDEOGRAPH KOTO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3248", 
                 "title": "CIRCLED NUMBER TEN ON BLACK SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3249", 
                 "title": "CIRCLED NUMBER TWENTY ON BLACK SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x324a", 
                 "title": "CIRCLED NUMBER THIRTY ON BLACK SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x324b", 
                 "title": "CIRCLED NUMBER FORTY ON BLACK SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x324c", 
                 "title": "CIRCLED NUMBER FIFTY ON BLACK SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x324d", 
                 "title": "CIRCLED NUMBER SIXTY ON BLACK SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x324e", 
                 "title": "CIRCLED NUMBER SEVENTY ON BLACK SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x324f", 
                 "title": "CIRCLED NUMBER EIGHTY ON BLACK SQUARE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
                 "charcode": "0x3250", 
                 "title": "PARTNERSHIP SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3251", 
                 "title": "CIRCLED NUMBER TWENTY ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3252", 
                 "title": "CIRCLED NUMBER TWENTY TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3253", 
                 "title": "CIRCLED NUMBER TWENTY THREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3254", 
                 "title": "CIRCLED NUMBER TWENTY FOUR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3255", 
                 "title": "CIRCLED NUMBER TWENTY FIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3256", 
                 "title": "CIRCLED NUMBER TWENTY SIX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3257", 
                 "title": "CIRCLED NUMBER TWENTY SEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3258", 
                 "title": "CIRCLED NUMBER TWENTY EIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3259", 
                 "title": "CIRCLED NUMBER TWENTY NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x325a", 
                 "title": "CIRCLED NUMBER THIRTY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x325b", 
                 "title": "CIRCLED NUMBER THIRTY ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x325c", 
                 "title": "CIRCLED NUMBER THIRTY TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x325d", 
                 "title": "CIRCLED NUMBER THIRTY THREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x325e", 
                 "title": "CIRCLED NUMBER THIRTY FOUR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x325f", 
                 "title": "CIRCLED NUMBER THIRTY FIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3260", 
                 "title": "CIRCLED HANGUL KIYEOK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3261", 
                 "title": "CIRCLED HANGUL NIEUN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3262", 
                 "title": "CIRCLED HANGUL TIKEUT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3263", 
                 "title": "CIRCLED HANGUL RIEUL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3264", 
                 "title": "CIRCLED HANGUL MIEUM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3265", 
                 "title": "CIRCLED HANGUL PIEUP"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3266", 
                 "title": "CIRCLED HANGUL SIOS"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3267", 
                 "title": "CIRCLED HANGUL IEUNG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3268", 
                 "title": "CIRCLED HANGUL CIEUC"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3269", 
                 "title": "CIRCLED HANGUL CHIEUCH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x326a", 
                 "title": "CIRCLED HANGUL KHIEUKH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x326b", 
                 "title": "CIRCLED HANGUL THIEUTH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x326c", 
                 "title": "CIRCLED HANGUL PHIEUPH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x326d", 
                 "title": "CIRCLED HANGUL HIEUH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x326e", 
                 "title": "CIRCLED HANGUL KIYEOK A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x326f", 
                 "title": "CIRCLED HANGUL NIEUN A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3270", 
                 "title": "CIRCLED HANGUL TIKEUT A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3271", 
                 "title": "CIRCLED HANGUL RIEUL A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3272", 
                 "title": "CIRCLED HANGUL MIEUM A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3273", 
                 "title": "CIRCLED HANGUL PIEUP A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3274", 
                 "title": "CIRCLED HANGUL SIOS A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3275", 
                 "title": "CIRCLED HANGUL IEUNG A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3276", 
                 "title": "CIRCLED HANGUL CIEUC A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3277", 
                 "title": "CIRCLED HANGUL CHIEUCH A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3278", 
                 "title": "CIRCLED HANGUL KHIEUKH A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3279", 
                 "title": "CIRCLED HANGUL THIEUTH A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x327a", 
                 "title": "CIRCLED HANGUL PHIEUPH A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x327b", 
                 "title": "CIRCLED HANGUL HIEUH A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x327c", 
                 "title": "CIRCLED KOREAN CHARACTER CHAMKO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Word", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x327d", 
                 "title": "CIRCLED KOREAN CHARACTER JUEUI"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x327e", 
                 "title": "CIRCLED HANGUL IEUNG U"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x327f", 
                 "title": "KOREAN STANDARD SYMBOL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3280", 
                 "title": "CIRCLED IDEOGRAPH ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3281", 
                 "title": "CIRCLED IDEOGRAPH TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3282", 
                 "title": "CIRCLED IDEOGRAPH THREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3283", 
                 "title": "CIRCLED IDEOGRAPH FOUR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3284", 
                 "title": "CIRCLED IDEOGRAPH FIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3285", 
                 "title": "CIRCLED IDEOGRAPH SIX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3286", 
                 "title": "CIRCLED IDEOGRAPH SEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3287", 
                 "title": "CIRCLED IDEOGRAPH EIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3288", 
                 "title": "CIRCLED IDEOGRAPH NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3289", 
                 "title": "CIRCLED IDEOGRAPH TEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x328a", 
                 "title": "CIRCLED IDEOGRAPH MOON"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x328b", 
                 "title": "CIRCLED IDEOGRAPH FIRE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x328c", 
                 "title": "CIRCLED IDEOGRAPH WATER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x328d", 
                 "title": "CIRCLED IDEOGRAPH WOOD"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x328e", 
                 "title": "CIRCLED IDEOGRAPH METAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x328f", 
                 "title": "CIRCLED IDEOGRAPH EARTH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3290", 
                 "title": "CIRCLED IDEOGRAPH SUN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3291", 
                 "title": "CIRCLED IDEOGRAPH STOCK"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3292", 
                 "title": "CIRCLED IDEOGRAPH HAVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3293", 
                 "title": "CIRCLED IDEOGRAPH SOCIETY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3294", 
                 "title": "CIRCLED IDEOGRAPH NAME"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3295", 
                 "title": "CIRCLED IDEOGRAPH SPECIAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3296", 
                 "title": "CIRCLED IDEOGRAPH FINANCIAL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3297", 
                 "title": "CIRCLED IDEOGRAPH CONGRATULATION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3298", 
                 "title": "CIRCLED IDEOGRAPH LABOR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x3299", 
                 "title": "CIRCLED IDEOGRAPH SECRET"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x329a", 
                 "title": "CIRCLED IDEOGRAPH MALE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x329b", 
                 "title": "CIRCLED IDEOGRAPH FEMALE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x329c", 
                 "title": "CIRCLED IDEOGRAPH SUITABLE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x329d", 
                 "title": "CIRCLED IDEOGRAPH EXCELLENT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x329e", 
                 "title": "CIRCLED IDEOGRAPH PRINT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x329f", 
                 "title": "CIRCLED IDEOGRAPH ATTENTION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32a0", 
                 "title": "CIRCLED IDEOGRAPH ITEM"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32a1", 
                 "title": "CIRCLED IDEOGRAPH REST"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32a2", 
                 "title": "CIRCLED IDEOGRAPH COPY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32a3", 
                 "title": "CIRCLED IDEOGRAPH CORRECT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32a4", 
                 "title": "CIRCLED IDEOGRAPH HIGH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32a5", 
                 "title": "CIRCLED IDEOGRAPH CENTRE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32a6", 
                 "title": "CIRCLED IDEOGRAPH LOW"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32a7", 
                 "title": "CIRCLED IDEOGRAPH LEFT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32a8", 
                 "title": "CIRCLED IDEOGRAPH RIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32a9", 
                 "title": "CIRCLED IDEOGRAPH MEDICINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32aa", 
                 "title": "CIRCLED IDEOGRAPH RELIGION"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32ab", 
                 "title": "CIRCLED IDEOGRAPH STUDY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32ac", 
                 "title": "CIRCLED IDEOGRAPH SUPERVISE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32ad", 
                 "title": "CIRCLED IDEOGRAPH ENTERPRISE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32ae", 
                 "title": "CIRCLED IDEOGRAPH RESOURCE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32af", 
                 "title": "CIRCLED IDEOGRAPH ALLIANCE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Ideograph", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32b0", 
                 "title": "CIRCLED IDEOGRAPH NIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32b1", 
                 "title": "CIRCLED NUMBER THIRTY SIX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32b2", 
                 "title": "CIRCLED NUMBER THIRTY SEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32b3", 
                 "title": "CIRCLED NUMBER THIRTY EIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32b4", 
                 "title": "CIRCLED NUMBER THIRTY NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32b5", 
                 "title": "CIRCLED NUMBER FORTY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32b6", 
                 "title": "CIRCLED NUMBER FORTY ONE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32b7", 
                 "title": "CIRCLED NUMBER FORTY TWO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32b8", 
                 "title": "CIRCLED NUMBER FORTY THREE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32b9", 
                 "title": "CIRCLED NUMBER FORTY FOUR"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32ba", 
                 "title": "CIRCLED NUMBER FORTY FIVE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32bb", 
                 "title": "CIRCLED NUMBER FORTY SIX"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32bc", 
                 "title": "CIRCLED NUMBER FORTY SEVEN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32bd", 
                 "title": "CIRCLED NUMBER FORTY EIGHT"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32be", 
                 "title": "CIRCLED NUMBER FORTY NINE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32bf", 
                 "title": "CIRCLED NUMBER FIFTY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32c0", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JANUARY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32c1", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR FEBRUARY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32c2", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR MARCH"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32c3", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR APRIL"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32c4", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR MAY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32c5", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JUNE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32c6", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JULY"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32c7", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR AUGUST"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32c8", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR SEPTEMBER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32c9", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR OCTOBER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32ca", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR NOVEMBER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Telegraphic", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32cb", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DECEMBER"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
                 "charcode": "0x32cc", 
                 "title": "SQUARE HG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
                 "charcode": "0x32cd", 
                 "title": "SQUARE ERG"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
                 "charcode": "0x32ce", 
                 "title": "SQUARE EV"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
                 "charcode": "0x32cf", 
                 "title": "LIMITED LIABILITY SIGN"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32d0", 
                 "title": "CIRCLED KATAKANA A"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32d1", 
                 "title": "CIRCLED KATAKANA I"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32d2", 
                 "title": "CIRCLED KATAKANA U"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32d3", 
                 "title": "CIRCLED KATAKANA E"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32d4", 
                 "title": "CIRCLED KATAKANA O"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32d5", 
                 "title": "CIRCLED KATAKANA KA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32d6", 
                 "title": "CIRCLED KATAKANA KI"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32d7", 
                 "title": "CIRCLED KATAKANA KU"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32d8", 
                 "title": "CIRCLED KATAKANA KE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32d9", 
                 "title": "CIRCLED KATAKANA KO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32da", 
                 "title": "CIRCLED KATAKANA SA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32db", 
                 "title": "CIRCLED KATAKANA SI"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32dc", 
                 "title": "CIRCLED KATAKANA SU"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32dd", 
                 "title": "CIRCLED KATAKANA SE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32de", 
                 "title": "CIRCLED KATAKANA SO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32df", 
                 "title": "CIRCLED KATAKANA TA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32e0", 
                 "title": "CIRCLED KATAKANA TI"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32e1", 
                 "title": "CIRCLED KATAKANA TU"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32e2", 
                 "title": "CIRCLED KATAKANA TE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32e3", 
                 "title": "CIRCLED KATAKANA TO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32e4", 
                 "title": "CIRCLED KATAKANA NA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32e5", 
                 "title": "CIRCLED KATAKANA NI"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32e6", 
                 "title": "CIRCLED KATAKANA NU"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32e7", 
                 "title": "CIRCLED KATAKANA NE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32e8", 
                 "title": "CIRCLED KATAKANA NO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32e9", 
                 "title": "CIRCLED KATAKANA HA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32ea", 
                 "title": "CIRCLED KATAKANA HI"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32eb", 
                 "title": "CIRCLED KATAKANA HU"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32ec", 
                 "title": "CIRCLED KATAKANA HE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32ed", 
                 "title": "CIRCLED KATAKANA HO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32ee", 
                 "title": "CIRCLED KATAKANA MA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32ef", 
                 "title": "CIRCLED KATAKANA MI"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32f0", 
                 "title": "CIRCLED KATAKANA MU"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32f1", 
                 "title": "CIRCLED KATAKANA ME"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32f2", 
                 "title": "CIRCLED KATAKANA MO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32f3", 
                 "title": "CIRCLED KATAKANA YA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32f4", 
                 "title": "CIRCLED KATAKANA YU"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32f5", 
                 "title": "CIRCLED KATAKANA YO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32f6", 
                 "title": "CIRCLED KATAKANA RA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32f7", 
                 "title": "CIRCLED KATAKANA RI"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32f8", 
                 "title": "CIRCLED KATAKANA RU"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32f9", 
                 "title": "CIRCLED KATAKANA RE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32fa", 
                 "title": "CIRCLED KATAKANA RO"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32fb", 
                 "title": "CIRCLED KATAKANA WA"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32fc", 
                 "title": "CIRCLED KATAKANA WI"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32fd", 
                 "title": "CIRCLED KATAKANA WE"
             }, 
             {
+                "cat1": "Symbol", 
+                "cat2": "Syllable", 
+                "cat3": "Circled", 
+                "cat4": "", 
                 "charcode": "0x32fe", 
                 "title": "CIRCLED KATAKANA WO"
             }

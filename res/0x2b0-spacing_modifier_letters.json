@@ -2,318 +2,634 @@
     {
         "content": [
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2b0", 
                 "title": "MODIFIER LETTER SMALL H"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2b1", 
                 "title": "MODIFIER LETTER SMALL H WITH HOOK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2b2", 
                 "title": "MODIFIER LETTER SMALL J"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2b3", 
                 "title": "MODIFIER LETTER SMALL R"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2b4", 
                 "title": "MODIFIER LETTER SMALL TURNED R"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2b5", 
                 "title": "MODIFIER LETTER SMALL TURNED R WITH HOOK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2b6", 
                 "title": "MODIFIER LETTER SMALL CAPITAL INVERTED R"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2b7", 
                 "title": "MODIFIER LETTER SMALL W"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x2b8", 
                 "title": "MODIFIER LETTER SMALL Y"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2b9", 
                 "title": "MODIFIER LETTER PRIME"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ba", 
                 "title": "MODIFIER LETTER DOUBLE PRIME"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2bb", 
                 "title": "MODIFIER LETTER TURNED COMMA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2bc", 
                 "title": "MODIFIER LETTER APOSTROPHE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2bd", 
                 "title": "MODIFIER LETTER REVERSED COMMA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2be", 
                 "title": "MODIFIER LETTER RIGHT HALF RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2bf", 
                 "title": "MODIFIER LETTER LEFT HALF RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2c0", 
                 "title": "MODIFIER LETTER GLOTTAL STOP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2c1", 
                 "title": "MODIFIER LETTER REVERSED GLOTTAL STOP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2c2", 
                 "title": "MODIFIER LETTER LEFT ARROWHEAD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2c3", 
                 "title": "MODIFIER LETTER RIGHT ARROWHEAD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2c4", 
                 "title": "MODIFIER LETTER UP ARROWHEAD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2c5", 
                 "title": "MODIFIER LETTER DOWN ARROWHEAD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2c6", 
                 "title": "MODIFIER LETTER CIRCUMFLEX ACCENT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2c7", 
                 "title": "CARON"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2c8", 
                 "title": "MODIFIER LETTER VERTICAL LINE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2c9", 
                 "title": "MODIFIER LETTER MACRON"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ca", 
                 "title": "MODIFIER LETTER ACUTE ACCENT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2cb", 
                 "title": "MODIFIER LETTER GRAVE ACCENT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2cc", 
                 "title": "MODIFIER LETTER LOW VERTICAL LINE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2cd", 
                 "title": "MODIFIER LETTER LOW MACRON"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ce", 
                 "title": "MODIFIER LETTER LOW GRAVE ACCENT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2cf", 
                 "title": "MODIFIER LETTER LOW ACUTE ACCENT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2d0", 
                 "title": "MODIFIER LETTER TRIANGULAR COLON"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2d1", 
                 "title": "MODIFIER LETTER HALF TRIANGULAR COLON"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2d2", 
                 "title": "MODIFIER LETTER CENTRED RIGHT HALF RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2d3", 
                 "title": "MODIFIER LETTER CENTRED LEFT HALF RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2d4", 
                 "title": "MODIFIER LETTER UP TACK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2d5", 
                 "title": "MODIFIER LETTER DOWN TACK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2d6", 
                 "title": "MODIFIER LETTER PLUS SIGN"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2d7", 
                 "title": "MODIFIER LETTER MINUS SIGN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2d8", 
                 "title": "BREVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2d9", 
                 "title": "DOT ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2da", 
                 "title": "RING ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2db", 
                 "title": "OGONEK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2dc", 
                 "title": "SMALL TILDE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Spacing", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2dd", 
                 "title": "DOUBLE ACUTE ACCENT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2de", 
                 "title": "MODIFIER LETTER RHOTIC HOOK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2df", 
                 "title": "MODIFIER LETTER CROSS ACCENT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2e0", 
                 "title": "MODIFIER LETTER SMALL GAMMA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2e1", 
                 "title": "MODIFIER LETTER SMALL L"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2e2", 
                 "title": "MODIFIER LETTER SMALL S"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2e3", 
                 "title": "MODIFIER LETTER SMALL X"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2e4", 
                 "title": "MODIFIER LETTER SMALL REVERSED GLOTTAL STOP"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2e5", 
                 "title": "MODIFIER LETTER EXTRA-HIGH TONE BAR"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2e6", 
                 "title": "MODIFIER LETTER HIGH TONE BAR"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2e7", 
                 "title": "MODIFIER LETTER MID TONE BAR"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2e8", 
                 "title": "MODIFIER LETTER LOW TONE BAR"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2e9", 
                 "title": "MODIFIER LETTER EXTRA-LOW TONE BAR"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ea", 
                 "title": "MODIFIER LETTER YIN DEPARTING TONE MARK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2eb", 
                 "title": "MODIFIER LETTER YANG DEPARTING TONE MARK"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ec", 
                 "title": "MODIFIER LETTER VOICING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ed", 
                 "title": "MODIFIER LETTER UNASPIRATED"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ee", 
                 "title": "MODIFIER LETTER DOUBLE APOSTROPHE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2ef", 
                 "title": "MODIFIER LETTER LOW DOWN ARROWHEAD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2f0", 
                 "title": "MODIFIER LETTER LOW UP ARROWHEAD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2f1", 
                 "title": "MODIFIER LETTER LOW LEFT ARROWHEAD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2f2", 
                 "title": "MODIFIER LETTER LOW RIGHT ARROWHEAD"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2f3", 
                 "title": "MODIFIER LETTER LOW RING"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2f4", 
                 "title": "MODIFIER LETTER MIDDLE GRAVE ACCENT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2f5", 
                 "title": "MODIFIER LETTER MIDDLE DOUBLE GRAVE ACCENT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2f6", 
                 "title": "MODIFIER LETTER MIDDLE DOUBLE ACUTE ACCENT"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2f7", 
                 "title": "MODIFIER LETTER LOW TILDE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2f8", 
                 "title": "MODIFIER LETTER RAISED COLON"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2f9", 
                 "title": "MODIFIER LETTER BEGIN HIGH TONE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2fa", 
                 "title": "MODIFIER LETTER END HIGH TONE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2fb", 
                 "title": "MODIFIER LETTER BEGIN LOW TONE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2fc", 
                 "title": "MODIFIER LETTER END LOW TONE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2fd", 
                 "title": "MODIFIER LETTER SHELF"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x2fe", 
                 "title": "MODIFIER LETTER OPEN SHELF"
             }

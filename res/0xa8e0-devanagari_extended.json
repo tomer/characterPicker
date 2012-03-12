@@ -2,114 +2,226 @@
     {
         "content": [
             {
+                "cat1": "Diacritic", 
+                "cat2": "Number", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8e0", 
                 "title": "COMBINING DEVANAGARI DIGIT ZERO"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Number", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8e1", 
                 "title": "COMBINING DEVANAGARI DIGIT ONE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Number", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8e2", 
                 "title": "COMBINING DEVANAGARI DIGIT TWO"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Number", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8e3", 
                 "title": "COMBINING DEVANAGARI DIGIT THREE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Number", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8e4", 
                 "title": "COMBINING DEVANAGARI DIGIT FOUR"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Number", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8e5", 
                 "title": "COMBINING DEVANAGARI DIGIT FIVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Number", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8e6", 
                 "title": "COMBINING DEVANAGARI DIGIT SIX"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Number", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8e7", 
                 "title": "COMBINING DEVANAGARI DIGIT SEVEN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Number", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8e8", 
                 "title": "COMBINING DEVANAGARI DIGIT EIGHT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Number", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8e9", 
                 "title": "COMBINING DEVANAGARI DIGIT NINE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8ea", 
                 "title": "COMBINING DEVANAGARI LETTER A"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8eb", 
                 "title": "COMBINING DEVANAGARI LETTER U"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8ec", 
                 "title": "COMBINING DEVANAGARI LETTER KA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8ed", 
                 "title": "COMBINING DEVANAGARI LETTER NA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8ee", 
                 "title": "COMBINING DEVANAGARI LETTER PA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8ef", 
                 "title": "COMBINING DEVANAGARI LETTER RA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8f0", 
                 "title": "COMBINING DEVANAGARI LETTER VI"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0xa8f1", 
                 "title": "COMBINING DEVANAGARI SIGN AVAGRAHA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Nasalization", 
+                "cat4": "", 
                 "charcode": "0xa8f2", 
                 "title": "DEVANAGARI SIGN SPACING CANDRABINDU"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Nasalization", 
+                "cat4": "", 
                 "charcode": "0xa8f3", 
                 "title": "DEVANAGARI SIGN CANDRABINDU VIRAMA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Nasalization", 
+                "cat4": "", 
                 "charcode": "0xa8f4", 
                 "title": "DEVANAGARI SIGN DOUBLE CANDRABINDU VIRAMA"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Nasalization", 
+                "cat4": "", 
                 "charcode": "0xa8f5", 
                 "title": "DEVANAGARI SIGN CANDRABINDU TWO"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Nasalization", 
+                "cat4": "", 
                 "charcode": "0xa8f6", 
                 "title": "DEVANAGARI SIGN CANDRABINDU THREE"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Nasalization", 
+                "cat4": "", 
                 "charcode": "0xa8f7", 
                 "title": "DEVANAGARI SIGN CANDRABINDU AVAGRAHA"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa8f8", 
                 "title": "DEVANAGARI SIGN PUSHPIKA"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa8f9", 
                 "title": "DEVANAGARI GAP FILLER"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa8fa", 
                 "title": "DEVANAGARI CARET"
             }, 
             {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xa8fb", 
                 "title": "DEVANAGARI HEADSTROKE"
             }

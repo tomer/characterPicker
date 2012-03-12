@@ -2,446 +2,890 @@
     {
         "content": [
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x300", 
                 "title": "COMBINING GRAVE ACCENT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x301", 
                 "title": "COMBINING ACUTE ACCENT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x302", 
                 "title": "COMBINING CIRCUMFLEX ACCENT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x303", 
                 "title": "COMBINING TILDE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x304", 
                 "title": "COMBINING MACRON"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x305", 
                 "title": "COMBINING OVERLINE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x306", 
                 "title": "COMBINING BREVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x307", 
                 "title": "COMBINING DOT ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x308", 
                 "title": "COMBINING DIAERESIS"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x309", 
                 "title": "COMBINING HOOK ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x30a", 
                 "title": "COMBINING RING ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x30b", 
                 "title": "COMBINING DOUBLE ACUTE ACCENT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x30c", 
                 "title": "COMBINING CARON"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x30d", 
                 "title": "COMBINING VERTICAL LINE ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x30e", 
                 "title": "COMBINING DOUBLE VERTICAL LINE ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x30f", 
                 "title": "COMBINING DOUBLE GRAVE ACCENT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x310", 
                 "title": "COMBINING CANDRABINDU"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x311", 
                 "title": "COMBINING INVERTED BREVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x312", 
                 "title": "COMBINING TURNED COMMA ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x313", 
                 "title": "COMBINING COMMA ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x314", 
                 "title": "COMBINING REVERSED COMMA ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x315", 
                 "title": "COMBINING COMMA ABOVE RIGHT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x316", 
                 "title": "COMBINING GRAVE ACCENT BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x317", 
                 "title": "COMBINING ACUTE ACCENT BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x318", 
                 "title": "COMBINING LEFT TACK BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x319", 
                 "title": "COMBINING RIGHT TACK BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x31a", 
                 "title": "COMBINING LEFT ANGLE ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x31b", 
                 "title": "COMBINING HORN"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x31c", 
                 "title": "COMBINING LEFT HALF RING BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x31d", 
                 "title": "COMBINING UP TACK BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x31e", 
                 "title": "COMBINING DOWN TACK BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x31f", 
                 "title": "COMBINING PLUS SIGN BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x320", 
                 "title": "COMBINING MINUS SIGN BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x321", 
                 "title": "COMBINING PALATALIZED HOOK BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x322", 
                 "title": "COMBINING RETROFLEX HOOK BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x323", 
                 "title": "COMBINING DOT BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x324", 
                 "title": "COMBINING DIAERESIS BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x325", 
                 "title": "COMBINING RING BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x326", 
                 "title": "COMBINING COMMA BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x327", 
                 "title": "COMBINING CEDILLA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x328", 
                 "title": "COMBINING OGONEK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x329", 
                 "title": "COMBINING VERTICAL LINE BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32a", 
                 "title": "COMBINING BRIDGE BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32b", 
                 "title": "COMBINING INVERTED DOUBLE ARCH BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32c", 
                 "title": "COMBINING CARON BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32d", 
                 "title": "COMBINING CIRCUMFLEX ACCENT BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32e", 
                 "title": "COMBINING BREVE BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x32f", 
                 "title": "COMBINING INVERTED BREVE BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x330", 
                 "title": "COMBINING TILDE BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x331", 
                 "title": "COMBINING MACRON BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x332", 
                 "title": "COMBINING LOW LINE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x333", 
                 "title": "COMBINING DOUBLE LOW LINE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x334", 
                 "title": "COMBINING TILDE OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x335", 
                 "title": "COMBINING SHORT STROKE OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x336", 
                 "title": "COMBINING LONG STROKE OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x337", 
                 "title": "COMBINING SHORT SOLIDUS OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Overstruck", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x338", 
                 "title": "COMBINING LONG SOLIDUS OVERLAY"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x339", 
                 "title": "COMBINING RIGHT HALF RING BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x33a", 
                 "title": "COMBINING INVERTED BRIDGE BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x33b", 
                 "title": "COMBINING SQUARE BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x33c", 
                 "title": "COMBINING SEAGULL BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x33d", 
                 "title": "COMBINING X ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x33e", 
                 "title": "COMBINING VERTICAL TILDE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x33f", 
                 "title": "COMBINING DOUBLE OVERLINE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x340", 
                 "title": "COMBINING GRAVE TONE MARK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x341", 
                 "title": "COMBINING ACUTE TONE MARK"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x342", 
                 "title": "COMBINING GREEK PERISPOMENI"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x343", 
                 "title": "COMBINING GREEK KORONIS"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x344", 
                 "title": "COMBINING GREEK DIALYTIKA TONOS"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x345", 
                 "title": "COMBINING GREEK YPOGEGRAMMENI"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x346", 
                 "title": "COMBINING BRIDGE ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x347", 
                 "title": "COMBINING EQUALS SIGN BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x348", 
                 "title": "COMBINING DOUBLE VERTICAL LINE BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x349", 
                 "title": "COMBINING LEFT ANGLE BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x34a", 
                 "title": "COMBINING NOT TILDE ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x34b", 
                 "title": "COMBINING HOMOTHETIC ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x34c", 
                 "title": "COMBINING ALMOST EQUAL TO ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x34d", 
                 "title": "COMBINING LEFT RIGHT ARROW BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x34e", 
                 "title": "COMBINING UPWARDS ARROW BELOW"
             }, 
             {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x34f", 
                 "title": "COMBINING GRAPHEME JOINER"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x350", 
                 "title": "COMBINING RIGHT ARROWHEAD ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x351", 
                 "title": "COMBINING LEFT HALF RING ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x352", 
                 "title": "COMBINING FERMATA"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x353", 
                 "title": "COMBINING X BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x354", 
                 "title": "COMBINING LEFT ARROWHEAD BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x355", 
                 "title": "COMBINING RIGHT ARROWHEAD BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x356", 
                 "title": "COMBINING RIGHT ARROWHEAD AND UP ARROWHEAD BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x357", 
                 "title": "COMBINING RIGHT HALF RING ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x358", 
                 "title": "COMBINING DOT ABOVE RIGHT"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x359", 
                 "title": "COMBINING ASTERISK BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x35a", 
                 "title": "COMBINING DOUBLE RING BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x35b", 
                 "title": "COMBINING ZIGZAG ABOVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Double", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x35c", 
                 "title": "COMBINING DOUBLE BREVE BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Double", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x35d", 
                 "title": "COMBINING DOUBLE BREVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Double", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x35e", 
                 "title": "COMBINING DOUBLE MACRON"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Double", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x35f", 
                 "title": "COMBINING DOUBLE MACRON BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Double", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x360", 
                 "title": "COMBINING DOUBLE TILDE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Double", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x361", 
                 "title": "COMBINING DOUBLE INVERTED BREVE"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Double", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0x362", 
                 "title": "COMBINING DOUBLE RIGHTWARDS ARROW BELOW"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x363", 
                 "title": "COMBINING LATIN SMALL LETTER A"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x364", 
                 "title": "COMBINING LATIN SMALL LETTER E"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x365", 
                 "title": "COMBINING LATIN SMALL LETTER I"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x366", 
                 "title": "COMBINING LATIN SMALL LETTER O"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x367", 
                 "title": "COMBINING LATIN SMALL LETTER U"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x368", 
                 "title": "COMBINING LATIN SMALL LETTER C"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x369", 
                 "title": "COMBINING LATIN SMALL LETTER D"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x36a", 
                 "title": "COMBINING LATIN SMALL LETTER H"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x36b", 
                 "title": "COMBINING LATIN SMALL LETTER M"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x36c", 
                 "title": "COMBINING LATIN SMALL LETTER R"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x36d", 
                 "title": "COMBINING LATIN SMALL LETTER T"
             }, 
             {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
                 "charcode": "0x36e", 
                 "title": "COMBINING LATIN SMALL LETTER V"
             }

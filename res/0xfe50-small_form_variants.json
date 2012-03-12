@@ -2,106 +2,210 @@
     {
         "content": [
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe50", 
                 "title": "SMALL COMMA"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe51", 
                 "title": "SMALL IDEOGRAPHIC COMMA"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe52", 
                 "title": "SMALL FULL STOP"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe54", 
                 "title": "SMALL SEMICOLON"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe55", 
                 "title": "SMALL COLON"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe56", 
                 "title": "SMALL QUESTION MARK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe57", 
                 "title": "SMALL EXCLAMATION MARK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Dash", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe58", 
                 "title": "SMALL EM DASH"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe59", 
                 "title": "SMALL LEFT PARENTHESIS"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe5a", 
                 "title": "SMALL RIGHT PARENTHESIS"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe5b", 
                 "title": "SMALL LEFT CURLY BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe5c", 
                 "title": "SMALL RIGHT CURLY BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe5d", 
                 "title": "SMALL LEFT TORTOISE SHELL BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe5e", 
                 "title": "SMALL RIGHT TORTOISE SHELL BRACKET"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe5f", 
                 "title": "SMALL NUMBER SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe60", 
                 "title": "SMALL AMPERSAND"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe61", 
                 "title": "SMALL ASTERISK"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe62", 
                 "title": "SMALL PLUS SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe63", 
                 "title": "SMALL HYPHEN-MINUS"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe64", 
                 "title": "SMALL LESS-THAN SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe65", 
                 "title": "SMALL GREATER-THAN SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe66", 
                 "title": "SMALL EQUALS SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe68", 
                 "title": "SMALL REVERSE SOLIDUS"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe69", 
                 "title": "SMALL DOLLAR SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe6a", 
                 "title": "SMALL PERCENT SIGN"
             }, 
             {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
                 "charcode": "0xfe6b", 
                 "title": "SMALL COMMERCIAL AT"
             }
