@@ -84,6 +84,7 @@ class characterSet:
                     item = dict();
                     item['title'] = self.data[i]['title']
                     item['charcode'] = hex(i)
+                    item['description'] = self.data[i]['description']
                     if (self.data[i].has_key('cat1')):  item['cat1'] = self.data[i]['cat1']
                     if (self.data[i].has_key('cat2')):  item['cat2'] = self.data[i]['cat2']
                     if (self.data[i].has_key('cat3')):  item['cat3'] = self.data[i]['cat3']
