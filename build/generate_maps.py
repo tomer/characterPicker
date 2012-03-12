@@ -6,29 +6,40 @@ import csv
 import json
 
 def get_file(url):
-    mp3file = urllib2.urlopen(url)
+    my_file = urllib2.urlopen(url)
     output = open(url.split('/')[-1],'wb')
-    output.write(mp3file.read())
+    output.write(my_file.read())
     output.close()
 
 class characterSet:
 
-    def __init__(self, filename, rangeStart, rangeEnd):
-        self.rangeStart = rangeStart
-        self.rangeEnd = rangeEnd
-        self.filename = filename
+    def __init__(self):
         self.data = dict()
         self.blocks = dict()
-#        self.files = []
+        self.categories = dict()
         self.files = dict()
         self.get_blocks()
         self.get_entities()
+        self.get_categories()
         
         
     def get_file_if_missing(self, filename, url):
         if not os.path.isfile(filename):
             print ("Downloading data file. Please wait...")
             get_file(url)
+    
+    def get_categories(self):
+        ## http://www.unicode.org/notes/tn36/ A Categorization of Unicode Characters 	2011-08-11
+        self.get_file_if_missing("Categories.txt", "http://www.unicode.org/notes/tn36/Categories.txt")
+        content = csv.reader(open("Categories.txt", "rb"), delimiter='\t')
+        for row in content:
+            key = int(row[0],16)
+            if self.data.has_key(key):
+                self.data[key]['cat1'] = row[2]
+                self.data[key]['cat2'] = row[3]
+                self.data[key]['cat3'] = row[4]                
+                self.data[key]['cat4'] = row[5]
+
         
     def get_entities(self):         
         self.get_file_if_missing("UnicodeData.txt", "http://www.unicode.org/Public/UNIDATA/UnicodeData.txt")       
@@ -38,8 +49,7 @@ class characterSet:
             # file specs http://www.unicode.org/reports/tr44/tr44-8.html#UnicodeData.txt
             item['title'] = row[1]
             item['description'] = row[10]
-            key = int(row[0],16)
-            
+            key = int(row[0],16)          
             self.data[key] = item
         
         
@@ -74,6 +84,11 @@ class characterSet:
                     item = dict();
                     item['title'] = self.data[i]['title']
                     item['charcode'] = hex(i)
+                    if (self.data[i].has_key('cat1')):  item['cat1'] = self.data[i]['cat1']
+                    if (self.data[i].has_key('cat2')):  item['cat2'] = self.data[i]['cat2']
+                    if (self.data[i].has_key('cat3')):  item['cat3'] = self.data[i]['cat3']
+                    if (self.data[i].has_key('cat4')):  item['cat4'] = self.data[i]['cat4']
+                    
                     out['content'].append(item)
         else: print ("Not found")
         return out
@@ -114,10 +129,13 @@ class characterSet:
             print ("Building file {0}...".format(filename))
             self.save_json_block(self.blocks[key]['start'], filename)
 
-mySet = characterSet('NamesList.txt', 1, 100)
+mySet = characterSet()
 #mySet.show()
 
 #print mySet.blocks
 #print mySet.create_json_block(0x1f300)
+
 mySet.generate_all_blocks()
 mySet.generate_file_listing()
+
+
