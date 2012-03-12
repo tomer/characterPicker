@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0001", 
+                "description": "", 
                 "title": "LANGUAGE TAG"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0020", 
+                "description": "", 
                 "title": "TAG SPACE"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0021", 
+                "description": "", 
                 "title": "TAG EXCLAMATION MARK"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0022", 
+                "description": "", 
                 "title": "TAG QUOTATION MARK"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0023", 
+                "description": "", 
                 "title": "TAG NUMBER SIGN"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0024", 
+                "description": "", 
                 "title": "TAG DOLLAR SIGN"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0025", 
+                "description": "", 
                 "title": "TAG PERCENT SIGN"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0026", 
+                "description": "", 
                 "title": "TAG AMPERSAND"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0027", 
+                "description": "", 
                 "title": "TAG APOSTROPHE"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0028", 
+                "description": "", 
                 "title": "TAG LEFT PARENTHESIS"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0029", 
+                "description": "", 
                 "title": "TAG RIGHT PARENTHESIS"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe002a", 
+                "description": "", 
                 "title": "TAG ASTERISK"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe002b", 
+                "description": "", 
                 "title": "TAG PLUS SIGN"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe002c", 
+                "description": "", 
                 "title": "TAG COMMA"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe002d", 
+                "description": "", 
                 "title": "TAG HYPHEN-MINUS"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe002e", 
+                "description": "", 
                 "title": "TAG FULL STOP"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe002f", 
+                "description": "", 
                 "title": "TAG SOLIDUS"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0030", 
+                "description": "", 
                 "title": "TAG DIGIT ZERO"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0031", 
+                "description": "", 
                 "title": "TAG DIGIT ONE"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0032", 
+                "description": "", 
                 "title": "TAG DIGIT TWO"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0033", 
+                "description": "", 
                 "title": "TAG DIGIT THREE"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0034", 
+                "description": "", 
                 "title": "TAG DIGIT FOUR"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0035", 
+                "description": "", 
                 "title": "TAG DIGIT FIVE"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0036", 
+                "description": "", 
                 "title": "TAG DIGIT SIX"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0037", 
+                "description": "", 
                 "title": "TAG DIGIT SEVEN"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0038", 
+                "description": "", 
                 "title": "TAG DIGIT EIGHT"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0039", 
+                "description": "", 
                 "title": "TAG DIGIT NINE"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe003a", 
+                "description": "", 
                 "title": "TAG COLON"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe003b", 
+                "description": "", 
                 "title": "TAG SEMICOLON"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe003c", 
+                "description": "", 
                 "title": "TAG LESS-THAN SIGN"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe003d", 
+                "description": "", 
                 "title": "TAG EQUALS SIGN"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe003e", 
+                "description": "", 
                 "title": "TAG GREATER-THAN SIGN"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe003f", 
+                "description": "", 
                 "title": "TAG QUESTION MARK"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0040", 
+                "description": "", 
                 "title": "TAG COMMERCIAL AT"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0041", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER A"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0042", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER B"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0043", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER C"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0044", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER D"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0045", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER E"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0046", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER F"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0047", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER G"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0048", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER H"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0049", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER I"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe004a", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER J"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe004b", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER K"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe004c", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER L"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe004d", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER M"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe004e", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER N"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe004f", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER O"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0050", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER P"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0051", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER Q"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0052", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER R"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0053", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER S"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0054", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER T"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0055", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER U"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0056", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER V"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0057", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER W"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0058", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER X"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0059", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER Y"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe005a", 
+                "description": "", 
                 "title": "TAG LATIN CAPITAL LETTER Z"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe005b", 
+                "description": "", 
                 "title": "TAG LEFT SQUARE BRACKET"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe005c", 
+                "description": "", 
                 "title": "TAG REVERSE SOLIDUS"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe005d", 
+                "description": "", 
                 "title": "TAG RIGHT SQUARE BRACKET"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe005e", 
+                "description": "", 
                 "title": "TAG CIRCUMFLEX ACCENT"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe005f", 
+                "description": "", 
                 "title": "TAG LOW LINE"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0060", 
+                "description": "", 
                 "title": "TAG GRAVE ACCENT"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0061", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER A"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0062", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER B"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0063", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER C"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0064", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER D"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0065", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER E"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0066", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER F"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0067", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER G"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0068", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER H"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0069", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER I"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe006a", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER J"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe006b", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER K"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe006c", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER L"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe006d", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER M"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe006e", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER N"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe006f", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER O"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0070", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER P"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0071", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER Q"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0072", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER R"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0073", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER S"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0074", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER T"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0075", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER U"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0076", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER V"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0077", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER W"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0078", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER X"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0079", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER Y"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe007a", 
+                "description": "", 
                 "title": "TAG LATIN SMALL LETTER Z"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe007b", 
+                "description": "", 
                 "title": "TAG LEFT CURLY BRACKET"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe007c", 
+                "description": "", 
                 "title": "TAG VERTICAL LINE"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe007d", 
+                "description": "", 
                 "title": "TAG RIGHT CURLY BRACKET"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe007e", 
+                "description": "", 
                 "title": "TAG TILDE"
             }
         ], 

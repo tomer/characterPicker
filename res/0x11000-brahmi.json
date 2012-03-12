@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11000", 
+                "description": "", 
                 "title": "BRAHMI SIGN CANDRABINDU"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11001", 
+                "description": "", 
                 "title": "BRAHMI SIGN ANUSVARA"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11002", 
+                "description": "", 
                 "title": "BRAHMI SIGN VISARGA"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11003", 
+                "description": "", 
                 "title": "BRAHMI SIGN JIHVAMULIYA"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11004", 
+                "description": "", 
                 "title": "BRAHMI SIGN UPADHMANIYA"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x11005", 
+                "description": "", 
                 "title": "BRAHMI LETTER A"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x11006", 
+                "description": "", 
                 "title": "BRAHMI LETTER AA"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x11007", 
+                "description": "", 
                 "title": "BRAHMI LETTER I"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x11008", 
+                "description": "", 
                 "title": "BRAHMI LETTER II"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x11009", 
+                "description": "", 
                 "title": "BRAHMI LETTER U"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x1100a", 
+                "description": "", 
                 "title": "BRAHMI LETTER UU"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x1100b", 
+                "description": "", 
                 "title": "BRAHMI LETTER VOCALIC R"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x1100c", 
+                "description": "", 
                 "title": "BRAHMI LETTER VOCALIC RR"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x1100d", 
+                "description": "", 
                 "title": "BRAHMI LETTER VOCALIC L"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x1100e", 
+                "description": "", 
                 "title": "BRAHMI LETTER VOCALIC LL"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x1100f", 
+                "description": "", 
                 "title": "BRAHMI LETTER E"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x11010", 
+                "description": "", 
                 "title": "BRAHMI LETTER AI"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x11011", 
+                "description": "", 
                 "title": "BRAHMI LETTER O"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Independent", 
                 "cat4": "", 
                 "charcode": "0x11012", 
+                "description": "", 
                 "title": "BRAHMI LETTER AU"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11013", 
+                "description": "", 
                 "title": "BRAHMI LETTER KA"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11014", 
+                "description": "", 
                 "title": "BRAHMI LETTER KHA"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11015", 
+                "description": "", 
                 "title": "BRAHMI LETTER GA"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11016", 
+                "description": "", 
                 "title": "BRAHMI LETTER GHA"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11017", 
+                "description": "", 
                 "title": "BRAHMI LETTER NGA"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11018", 
+                "description": "", 
                 "title": "BRAHMI LETTER CA"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11019", 
+                "description": "", 
                 "title": "BRAHMI LETTER CHA"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1101a", 
+                "description": "", 
                 "title": "BRAHMI LETTER JA"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1101b", 
+                "description": "", 
                 "title": "BRAHMI LETTER JHA"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1101c", 
+                "description": "", 
                 "title": "BRAHMI LETTER NYA"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1101d", 
+                "description": "", 
                 "title": "BRAHMI LETTER TTA"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1101e", 
+                "description": "", 
                 "title": "BRAHMI LETTER TTHA"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1101f", 
+                "description": "", 
                 "title": "BRAHMI LETTER DDA"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11020", 
+                "description": "", 
                 "title": "BRAHMI LETTER DDHA"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11021", 
+                "description": "", 
                 "title": "BRAHMI LETTER NNA"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11022", 
+                "description": "", 
                 "title": "BRAHMI LETTER TA"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11023", 
+                "description": "", 
                 "title": "BRAHMI LETTER THA"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11024", 
+                "description": "", 
                 "title": "BRAHMI LETTER DA"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11025", 
+                "description": "", 
                 "title": "BRAHMI LETTER DHA"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11026", 
+                "description": "", 
                 "title": "BRAHMI LETTER NA"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11027", 
+                "description": "", 
                 "title": "BRAHMI LETTER PA"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11028", 
+                "description": "", 
                 "title": "BRAHMI LETTER PHA"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11029", 
+                "description": "", 
                 "title": "BRAHMI LETTER BA"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1102a", 
+                "description": "", 
                 "title": "BRAHMI LETTER BHA"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1102b", 
+                "description": "", 
                 "title": "BRAHMI LETTER MA"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1102c", 
+                "description": "", 
                 "title": "BRAHMI LETTER YA"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1102d", 
+                "description": "", 
                 "title": "BRAHMI LETTER RA"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1102e", 
+                "description": "", 
                 "title": "BRAHMI LETTER LA"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1102f", 
+                "description": "", 
                 "title": "BRAHMI LETTER VA"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11030", 
+                "description": "", 
                 "title": "BRAHMI LETTER SHA"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11031", 
+                "description": "", 
                 "title": "BRAHMI LETTER SSA"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11032", 
+                "description": "", 
                 "title": "BRAHMI LETTER SA"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11033", 
+                "description": "", 
                 "title": "BRAHMI LETTER HA"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11034", 
+                "description": "", 
                 "title": "BRAHMI LETTER LLA"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11035", 
+                "description": "", 
                 "title": "BRAHMI LETTER OLD TAMIL LLLA"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11036", 
+                "description": "", 
                 "title": "BRAHMI LETTER OLD TAMIL RRA"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11037", 
+                "description": "", 
                 "title": "BRAHMI LETTER OLD TAMIL NNNA"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x11038", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN AA"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x11039", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN BHATTIPROLU AA"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x1103a", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN I"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x1103b", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN II"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x1103c", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN U"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x1103d", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN UU"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x1103e", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN VOCALIC R"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x1103f", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN VOCALIC RR"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x11040", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN VOCALIC L"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x11041", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN VOCALIC LL"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x11042", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN E"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x11043", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN AI"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x11044", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN O"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0x11045", 
+                "description": "", 
                 "title": "BRAHMI VOWEL SIGN AU"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11046", 
+                "description": "", 
                 "title": "BRAHMI VIRAMA"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11047", 
+                "description": "", 
                 "title": "BRAHMI DANDA"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11048", 
+                "description": "", 
                 "title": "BRAHMI DOUBLE DANDA"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11049", 
+                "description": "", 
                 "title": "BRAHMI PUNCTUATION DOT"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1104a", 
+                "description": "", 
                 "title": "BRAHMI PUNCTUATION DOUBLE DOT"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1104b", 
+                "description": "", 
                 "title": "BRAHMI PUNCTUATION LINE"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1104c", 
+                "description": "", 
                 "title": "BRAHMI PUNCTUATION CRESCENT BAR"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1104d", 
+                "description": "", 
                 "title": "BRAHMI PUNCTUATION LOTUS"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11052", 
+                "description": "", 
                 "title": "BRAHMI NUMBER ONE"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11053", 
+                "description": "", 
                 "title": "BRAHMI NUMBER TWO"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11054", 
+                "description": "", 
                 "title": "BRAHMI NUMBER THREE"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11055", 
+                "description": "", 
                 "title": "BRAHMI NUMBER FOUR"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11056", 
+                "description": "", 
                 "title": "BRAHMI NUMBER FIVE"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11057", 
+                "description": "", 
                 "title": "BRAHMI NUMBER SIX"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11058", 
+                "description": "", 
                 "title": "BRAHMI NUMBER SEVEN"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11059", 
+                "description": "", 
                 "title": "BRAHMI NUMBER EIGHT"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1105a", 
+                "description": "", 
                 "title": "BRAHMI NUMBER NINE"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1105b", 
+                "description": "", 
                 "title": "BRAHMI NUMBER TEN"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1105c", 
+                "description": "", 
                 "title": "BRAHMI NUMBER TWENTY"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1105d", 
+                "description": "", 
                 "title": "BRAHMI NUMBER THIRTY"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1105e", 
+                "description": "", 
                 "title": "BRAHMI NUMBER FORTY"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1105f", 
+                "description": "", 
                 "title": "BRAHMI NUMBER FIFTY"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11060", 
+                "description": "", 
                 "title": "BRAHMI NUMBER SIXTY"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11061", 
+                "description": "", 
                 "title": "BRAHMI NUMBER SEVENTY"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11062", 
+                "description": "", 
                 "title": "BRAHMI NUMBER EIGHTY"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11063", 
+                "description": "", 
                 "title": "BRAHMI NUMBER NINETY"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11064", 
+                "description": "", 
                 "title": "BRAHMI NUMBER ONE HUNDRED"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11065", 
+                "description": "", 
                 "title": "BRAHMI NUMBER ONE THOUSAND"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11066", 
+                "description": "", 
                 "title": "BRAHMI DIGIT ZERO"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11067", 
+                "description": "", 
                 "title": "BRAHMI DIGIT ONE"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11068", 
+                "description": "", 
                 "title": "BRAHMI DIGIT TWO"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x11069", 
+                "description": "", 
                 "title": "BRAHMI DIGIT THREE"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1106a", 
+                "description": "", 
                 "title": "BRAHMI DIGIT FOUR"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1106b", 
+                "description": "", 
                 "title": "BRAHMI DIGIT FIVE"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1106c", 
+                "description": "", 
                 "title": "BRAHMI DIGIT SIX"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1106d", 
+                "description": "", 
                 "title": "BRAHMI DIGIT SEVEN"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1106e", 
+                "description": "", 
                 "title": "BRAHMI DIGIT EIGHT"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1106f", 
+                "description": "", 
                 "title": "BRAHMI DIGIT NINE"
             }
         ], 

@@ -7,6 +7,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Prevailing wind", 
                 "charcode": "0x1f000", 
+                "description": "", 
                 "title": "MAHJONG TILE EAST WIND"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Prevailing wind", 
                 "charcode": "0x1f001", 
+                "description": "", 
                 "title": "MAHJONG TILE SOUTH WIND"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Prevailing wind", 
                 "charcode": "0x1f002", 
+                "description": "", 
                 "title": "MAHJONG TILE WEST WIND"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Prevailing wind", 
                 "charcode": "0x1f003", 
+                "description": "", 
                 "title": "MAHJONG TILE NORTH WIND"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Dragon", 
                 "charcode": "0x1f004", 
+                "description": "", 
                 "title": "MAHJONG TILE RED DRAGON"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Dragon", 
                 "charcode": "0x1f005", 
+                "description": "", 
                 "title": "MAHJONG TILE GREEN DRAGON"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Dragon", 
                 "charcode": "0x1f006", 
+                "description": "", 
                 "title": "MAHJONG TILE WHITE DRAGON"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Character suit", 
                 "charcode": "0x1f007", 
+                "description": "", 
                 "title": "MAHJONG TILE ONE OF CHARACTERS"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Character suit", 
                 "charcode": "0x1f008", 
+                "description": "", 
                 "title": "MAHJONG TILE TWO OF CHARACTERS"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Character suit", 
                 "charcode": "0x1f009", 
+                "description": "", 
                 "title": "MAHJONG TILE THREE OF CHARACTERS"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Character suit", 
                 "charcode": "0x1f00a", 
+                "description": "", 
                 "title": "MAHJONG TILE FOUR OF CHARACTERS"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Character suit", 
                 "charcode": "0x1f00b", 
+                "description": "", 
                 "title": "MAHJONG TILE FIVE OF CHARACTERS"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Character suit", 
                 "charcode": "0x1f00c", 
+                "description": "", 
                 "title": "MAHJONG TILE SIX OF CHARACTERS"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Character suit", 
                 "charcode": "0x1f00d", 
+                "description": "", 
                 "title": "MAHJONG TILE SEVEN OF CHARACTERS"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Character suit", 
                 "charcode": "0x1f00e", 
+                "description": "", 
                 "title": "MAHJONG TILE EIGHT OF CHARACTERS"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Character suit", 
                 "charcode": "0x1f00f", 
+                "description": "", 
                 "title": "MAHJONG TILE NINE OF CHARACTERS"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Bamboo suit", 
                 "charcode": "0x1f010", 
+                "description": "", 
                 "title": "MAHJONG TILE ONE OF BAMBOOS"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Bamboo suit", 
                 "charcode": "0x1f011", 
+                "description": "", 
                 "title": "MAHJONG TILE TWO OF BAMBOOS"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Bamboo suit", 
                 "charcode": "0x1f012", 
+                "description": "", 
                 "title": "MAHJONG TILE THREE OF BAMBOOS"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Bamboo suit", 
                 "charcode": "0x1f013", 
+                "description": "", 
                 "title": "MAHJONG TILE FOUR OF BAMBOOS"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Bamboo suit", 
                 "charcode": "0x1f014", 
+                "description": "", 
                 "title": "MAHJONG TILE FIVE OF BAMBOOS"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Bamboo suit", 
                 "charcode": "0x1f015", 
+                "description": "", 
                 "title": "MAHJONG TILE SIX OF BAMBOOS"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Bamboo suit", 
                 "charcode": "0x1f016", 
+                "description": "", 
                 "title": "MAHJONG TILE SEVEN OF BAMBOOS"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Bamboo suit", 
                 "charcode": "0x1f017", 
+                "description": "", 
                 "title": "MAHJONG TILE EIGHT OF BAMBOOS"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Bamboo suit", 
                 "charcode": "0x1f018", 
+                "description": "", 
                 "title": "MAHJONG TILE NINE OF BAMBOOS"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Circle suit", 
                 "charcode": "0x1f019", 
+                "description": "", 
                 "title": "MAHJONG TILE ONE OF CIRCLES"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Circle suit", 
                 "charcode": "0x1f01a", 
+                "description": "", 
                 "title": "MAHJONG TILE TWO OF CIRCLES"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Circle suit", 
                 "charcode": "0x1f01b", 
+                "description": "", 
                 "title": "MAHJONG TILE THREE OF CIRCLES"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Circle suit", 
                 "charcode": "0x1f01c", 
+                "description": "", 
                 "title": "MAHJONG TILE FOUR OF CIRCLES"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Circle suit", 
                 "charcode": "0x1f01d", 
+                "description": "", 
                 "title": "MAHJONG TILE FIVE OF CIRCLES"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Circle suit", 
                 "charcode": "0x1f01e", 
+                "description": "", 
                 "title": "MAHJONG TILE SIX OF CIRCLES"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Circle suit", 
                 "charcode": "0x1f01f", 
+                "description": "", 
                 "title": "MAHJONG TILE SEVEN OF CIRCLES"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Circle suit", 
                 "charcode": "0x1f020", 
+                "description": "", 
                 "title": "MAHJONG TILE EIGHT OF CIRCLES"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Circle suit", 
                 "charcode": "0x1f021", 
+                "description": "", 
                 "title": "MAHJONG TILE NINE OF CIRCLES"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Flower", 
                 "charcode": "0x1f022", 
+                "description": "", 
                 "title": "MAHJONG TILE PLUM"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Flower", 
                 "charcode": "0x1f023", 
+                "description": "", 
                 "title": "MAHJONG TILE ORCHID"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Flower", 
                 "charcode": "0x1f024", 
+                "description": "", 
                 "title": "MAHJONG TILE BAMBOO"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Flower", 
                 "charcode": "0x1f025", 
+                "description": "", 
                 "title": "MAHJONG TILE CHRYSANTHEMUM"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Season", 
                 "charcode": "0x1f026", 
+                "description": "", 
                 "title": "MAHJONG TILE SPRING"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Season", 
                 "charcode": "0x1f027", 
+                "description": "", 
                 "title": "MAHJONG TILE SUMMER"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Season", 
                 "charcode": "0x1f028", 
+                "description": "", 
                 "title": "MAHJONG TILE AUTUMN"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "Season", 
                 "charcode": "0x1f029", 
+                "description": "", 
                 "title": "MAHJONG TILE WINTER"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "", 
                 "charcode": "0x1f02a", 
+                "description": "", 
                 "title": "MAHJONG TILE JOKER"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "Mahjong Tile", 
                 "cat4": "", 
                 "charcode": "0x1f02b", 
+                "description": "", 
                 "title": "MAHJONG TILE BACK"
             }
         ], 

@@ -3,10 +3,12 @@
         "content": [
             {
                 "charcode": "0xf0000", 
+                "description": "", 
                 "title": "<Plane 15 Private Use, First>"
             }, 
             {
                 "charcode": "0xffffd", 
+                "description": "", 
                 "title": "<Plane 15 Private Use, Last>"
             }
         ], 

@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2701", 
+                "description": "", 
                 "title": "UPPER BLADE SCISSORS"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2702", 
+                "description": "", 
                 "title": "BLACK SCISSORS"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2703", 
+                "description": "", 
                 "title": "LOWER BLADE SCISSORS"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2704", 
+                "description": "", 
                 "title": "WHITE SCISSORS"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2705", 
+                "description": "", 
                 "title": "WHITE HEAVY CHECK MARK"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2706", 
+                "description": "", 
                 "title": "TELEPHONE LOCATION SIGN"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2707", 
+                "description": "", 
                 "title": "TAPE DRIVE"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2708", 
+                "description": "", 
                 "title": "AIRPLANE"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2709", 
+                "description": "", 
                 "title": "ENVELOPE"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Hand", 
                 "cat4": "", 
                 "charcode": "0x270a", 
+                "description": "", 
                 "title": "RAISED FIST"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Hand", 
                 "cat4": "", 
                 "charcode": "0x270b", 
+                "description": "", 
                 "title": "RAISED HAND"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Hand", 
                 "cat4": "", 
                 "charcode": "0x270c", 
+                "description": "", 
                 "title": "VICTORY HAND"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Hand", 
                 "cat4": "", 
                 "charcode": "0x270d", 
+                "description": "", 
                 "title": "WRITING HAND"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x270e", 
+                "description": "", 
                 "title": "LOWER RIGHT PENCIL"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x270f", 
+                "description": "", 
                 "title": "PENCIL"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2710", 
+                "description": "", 
                 "title": "UPPER RIGHT PENCIL"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2711", 
+                "description": "", 
                 "title": "WHITE NIB"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2712", 
+                "description": "", 
                 "title": "BLACK NIB"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2713", 
+                "description": "", 
                 "title": "CHECK MARK"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2714", 
+                "description": "", 
                 "title": "HEAVY CHECK MARK"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2715", 
+                "description": "", 
                 "title": "MULTIPLICATION X"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2716", 
+                "description": "", 
                 "title": "HEAVY MULTIPLICATION X"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2717", 
+                "description": "", 
                 "title": "BALLOT X"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2718", 
+                "description": "", 
                 "title": "HEAVY BALLOT X"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Cross", 
                 "cat4": "", 
                 "charcode": "0x2719", 
+                "description": "", 
                 "title": "OUTLINED GREEK CROSS"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "Cross", 
                 "cat4": "", 
                 "charcode": "0x271a", 
+                "description": "", 
                 "title": "HEAVY GREEK CROSS"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "Cross", 
                 "cat4": "", 
                 "charcode": "0x271b", 
+                "description": "OPEN CENTER CROSS", 
                 "title": "OPEN CENTRE CROSS"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Cross", 
                 "cat4": "", 
                 "charcode": "0x271c", 
+                "description": "HEAVY OPEN CENTER CROSS", 
                 "title": "HEAVY OPEN CENTRE CROSS"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Cross", 
                 "cat4": "", 
                 "charcode": "0x271d", 
+                "description": "", 
                 "title": "LATIN CROSS"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Cross", 
                 "cat4": "", 
                 "charcode": "0x271e", 
+                "description": "", 
                 "title": "SHADOWED WHITE LATIN CROSS"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "Cross", 
                 "cat4": "", 
                 "charcode": "0x271f", 
+                "description": "", 
                 "title": "OUTLINED LATIN CROSS"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "Cross", 
                 "cat4": "", 
                 "charcode": "0x2720", 
+                "description": "", 
                 "title": "MALTESE CROSS"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2721", 
+                "description": "", 
                 "title": "STAR OF DAVID"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2722", 
+                "description": "", 
                 "title": "FOUR TEARDROP-SPOKED ASTERISK"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2723", 
+                "description": "", 
                 "title": "FOUR BALLOON-SPOKED ASTERISK"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2724", 
+                "description": "", 
                 "title": "HEAVY FOUR BALLOON-SPOKED ASTERISK"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2725", 
+                "description": "", 
                 "title": "FOUR CLUB-SPOKED ASTERISK"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2726", 
+                "description": "", 
                 "title": "BLACK FOUR POINTED STAR"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2727", 
+                "description": "", 
                 "title": "WHITE FOUR POINTED STAR"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2728", 
+                "description": "", 
                 "title": "SPARKLES"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2729", 
+                "description": "", 
                 "title": "STRESS OUTLINED WHITE STAR"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x272a", 
+                "description": "", 
                 "title": "CIRCLED WHITE STAR"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x272b", 
+                "description": "OPEN CENTER BLACK STAR", 
                 "title": "OPEN CENTRE BLACK STAR"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x272c", 
+                "description": "BLACK CENTER WHITE STAR", 
                 "title": "BLACK CENTRE WHITE STAR"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x272d", 
+                "description": "", 
                 "title": "OUTLINED BLACK STAR"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x272e", 
+                "description": "", 
                 "title": "HEAVY OUTLINED BLACK STAR"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x272f", 
+                "description": "", 
                 "title": "PINWHEEL STAR"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2730", 
+                "description": "", 
                 "title": "SHADOWED WHITE STAR"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2731", 
+                "description": "", 
                 "title": "HEAVY ASTERISK"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2732", 
+                "description": "OPEN CENTER ASTERISK", 
                 "title": "OPEN CENTRE ASTERISK"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2733", 
+                "description": "", 
                 "title": "EIGHT SPOKED ASTERISK"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2734", 
+                "description": "", 
                 "title": "EIGHT POINTED BLACK STAR"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2735", 
+                "description": "", 
                 "title": "EIGHT POINTED PINWHEEL STAR"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2736", 
+                "description": "", 
                 "title": "SIX POINTED BLACK STAR"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2737", 
+                "description": "", 
                 "title": "EIGHT POINTED RECTILINEAR BLACK STAR"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2738", 
+                "description": "", 
                 "title": "HEAVY EIGHT POINTED RECTILINEAR BLACK STAR"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2739", 
+                "description": "", 
                 "title": "TWELVE POINTED BLACK STAR"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x273a", 
+                "description": "", 
                 "title": "SIXTEEN POINTED ASTERISK"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x273b", 
+                "description": "", 
                 "title": "TEARDROP-SPOKED ASTERISK"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x273c", 
+                "description": "OPEN CENTER TEARDROP-SPOKED ASTERISK", 
                 "title": "OPEN CENTRE TEARDROP-SPOKED ASTERISK"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x273d", 
+                "description": "", 
                 "title": "HEAVY TEARDROP-SPOKED ASTERISK"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x273e", 
+                "description": "", 
                 "title": "SIX PETALLED BLACK AND WHITE FLORETTE"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x273f", 
+                "description": "", 
                 "title": "BLACK FLORETTE"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2740", 
+                "description": "", 
                 "title": "WHITE FLORETTE"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2741", 
+                "description": "", 
                 "title": "EIGHT PETALLED OUTLINED BLACK FLORETTE"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2742", 
+                "description": "CIRCLED OPEN CENTER EIGHT POINTED STAR", 
                 "title": "CIRCLED OPEN CENTRE EIGHT POINTED STAR"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2743", 
+                "description": "", 
                 "title": "HEAVY TEARDROP-SPOKED PINWHEEL ASTERISK"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2744", 
+                "description": "", 
                 "title": "SNOWFLAKE"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2745", 
+                "description": "", 
                 "title": "TIGHT TRIFOLIATE SNOWFLAKE"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2746", 
+                "description": "", 
                 "title": "HEAVY CHEVRON SNOWFLAKE"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2747", 
+                "description": "", 
                 "title": "SPARKLE"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2748", 
+                "description": "", 
                 "title": "HEAVY SPARKLE"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x2749", 
+                "description": "", 
                 "title": "BALLOON-SPOKED ASTERISK"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x274a", 
+                "description": "", 
                 "title": "EIGHT TEARDROP-SPOKED PROPELLER ASTERISK"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "Starlike", 
                 "cat4": "", 
                 "charcode": "0x274b", 
+                "description": "", 
                 "title": "HEAVY EIGHT TEARDROP-SPOKED PROPELLER ASTERISK"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x274c", 
+                "description": "", 
                 "title": "CROSS MARK"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x274d", 
+                "description": "", 
                 "title": "SHADOWED WHITE CIRCLE"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x274e", 
+                "description": "", 
                 "title": "NEGATIVE SQUARED CROSS MARK"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x274f", 
+                "description": "", 
                 "title": "LOWER RIGHT DROP-SHADOWED WHITE SQUARE"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2750", 
+                "description": "", 
                 "title": "UPPER RIGHT DROP-SHADOWED WHITE SQUARE"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2751", 
+                "description": "", 
                 "title": "LOWER RIGHT SHADOWED WHITE SQUARE"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2752", 
+                "description": "", 
                 "title": "UPPER RIGHT SHADOWED WHITE SQUARE"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x2753", 
+                "description": "", 
                 "title": "BLACK QUESTION MARK ORNAMENT"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x2754", 
+                "description": "", 
                 "title": "WHITE QUESTION MARK ORNAMENT"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x2755", 
+                "description": "", 
                 "title": "WHITE EXCLAMATION MARK ORNAMENT"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2756", 
+                "description": "", 
                 "title": "BLACK DIAMOND MINUS WHITE X"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2757", 
+                "description": "", 
                 "title": "HEAVY EXCLAMATION MARK SYMBOL"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2758", 
+                "description": "", 
                 "title": "LIGHT VERTICAL BAR"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2759", 
+                "description": "", 
                 "title": "MEDIUM VERTICAL BAR"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x275a", 
+                "description": "", 
                 "title": "HEAVY VERTICAL BAR"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x275b", 
+                "description": "", 
                 "title": "HEAVY SINGLE TURNED COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x275c", 
+                "description": "", 
                 "title": "HEAVY SINGLE COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x275d", 
+                "description": "", 
                 "title": "HEAVY DOUBLE TURNED COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x275e", 
+                "description": "", 
                 "title": "HEAVY DOUBLE COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x275f", 
+                "description": "", 
                 "title": "HEAVY LOW SINGLE COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x2760", 
+                "description": "", 
                 "title": "HEAVY LOW DOUBLE COMMA QUOTATION MARK ORNAMENT"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x2761", 
+                "description": "", 
                 "title": "CURVED STEM PARAGRAPH SIGN ORNAMENT"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x2762", 
+                "description": "", 
                 "title": "HEAVY EXCLAMATION MARK ORNAMENT"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x2763", 
+                "description": "", 
                 "title": "HEAVY HEART EXCLAMATION MARK ORNAMENT"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x2764", 
+                "description": "", 
                 "title": "HEAVY BLACK HEART"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x2765", 
+                "description": "", 
                 "title": "ROTATED HEAVY BLACK HEART BULLET"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x2766", 
+                "description": "", 
                 "title": "FLORAL HEART"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "Punctuation ornament", 
                 "cat4": "", 
                 "charcode": "0x2767", 
+                "description": "", 
                 "title": "ROTATED FLORAL HEART BULLET"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x2768", 
+                "description": "", 
                 "title": "MEDIUM LEFT PARENTHESIS ORNAMENT"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x2769", 
+                "description": "", 
                 "title": "MEDIUM RIGHT PARENTHESIS ORNAMENT"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x276a", 
+                "description": "", 
                 "title": "MEDIUM FLATTENED LEFT PARENTHESIS ORNAMENT"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x276b", 
+                "description": "", 
                 "title": "MEDIUM FLATTENED RIGHT PARENTHESIS ORNAMENT"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x276c", 
+                "description": "", 
                 "title": "MEDIUM LEFT-POINTING ANGLE BRACKET ORNAMENT"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x276d", 
+                "description": "", 
                 "title": "MEDIUM RIGHT-POINTING ANGLE BRACKET ORNAMENT"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x276e", 
+                "description": "", 
                 "title": "HEAVY LEFT-POINTING ANGLE QUOTATION MARK ORNAMENT"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x276f", 
+                "description": "", 
                 "title": "HEAVY RIGHT-POINTING ANGLE QUOTATION MARK ORNAMENT"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x2770", 
+                "description": "", 
                 "title": "HEAVY LEFT-POINTING ANGLE BRACKET ORNAMENT"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x2771", 
+                "description": "", 
                 "title": "HEAVY RIGHT-POINTING ANGLE BRACKET ORNAMENT"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x2772", 
+                "description": "", 
                 "title": "LIGHT LEFT TORTOISE SHELL BRACKET ORNAMENT"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x2773", 
+                "description": "", 
                 "title": "LIGHT RIGHT TORTOISE SHELL BRACKET ORNAMENT"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x2774", 
+                "description": "", 
                 "title": "MEDIUM LEFT CURLY BRACKET ORNAMENT"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "Ornamental bracket", 
                 "cat4": "", 
                 "charcode": "0x2775", 
+                "description": "", 
                 "title": "MEDIUM RIGHT CURLY BRACKET ORNAMENT"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2776", 
+                "description": "INVERSE CIRCLED DIGIT ONE", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT ONE"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2777", 
+                "description": "INVERSE CIRCLED DIGIT TWO", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT TWO"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2778", 
+                "description": "INVERSE CIRCLED DIGIT THREE", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT THREE"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2779", 
+                "description": "INVERSE CIRCLED DIGIT FOUR", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT FOUR"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x277a", 
+                "description": "INVERSE CIRCLED DIGIT FIVE", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT FIVE"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x277b", 
+                "description": "INVERSE CIRCLED DIGIT SIX", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT SIX"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x277c", 
+                "description": "INVERSE CIRCLED DIGIT SEVEN", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT SEVEN"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x277d", 
+                "description": "INVERSE CIRCLED DIGIT EIGHT", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT EIGHT"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x277e", 
+                "description": "INVERSE CIRCLED DIGIT NINE", 
                 "title": "DINGBAT NEGATIVE CIRCLED DIGIT NINE"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x277f", 
+                "description": "INVERSE CIRCLED NUMBER TEN", 
                 "title": "DINGBAT NEGATIVE CIRCLED NUMBER TEN"
             }, 
             {
@@ -1023,6 +1150,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2780", 
+                "description": "CIRCLED SANS-SERIF DIGIT ONE", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT ONE"
             }, 
             {
@@ -1031,6 +1159,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2781", 
+                "description": "CIRCLED SANS-SERIF DIGIT TWO", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT TWO"
             }, 
             {
@@ -1039,6 +1168,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2782", 
+                "description": "CIRCLED SANS-SERIF DIGIT THREE", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT THREE"
             }, 
             {
@@ -1047,6 +1177,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2783", 
+                "description": "CIRCLED SANS-SERIF DIGIT FOUR", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT FOUR"
             }, 
             {
@@ -1055,6 +1186,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2784", 
+                "description": "CIRCLED SANS-SERIF DIGIT FIVE", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT FIVE"
             }, 
             {
@@ -1063,6 +1195,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2785", 
+                "description": "CIRCLED SANS-SERIF DIGIT SIX", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT SIX"
             }, 
             {
@@ -1071,6 +1204,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2786", 
+                "description": "CIRCLED SANS-SERIF DIGIT SEVEN", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT SEVEN"
             }, 
             {
@@ -1079,6 +1213,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2787", 
+                "description": "CIRCLED SANS-SERIF DIGIT EIGHT", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT EIGHT"
             }, 
             {
@@ -1087,6 +1222,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2788", 
+                "description": "CIRCLED SANS-SERIF DIGIT NINE", 
                 "title": "DINGBAT CIRCLED SANS-SERIF DIGIT NINE"
             }, 
             {
@@ -1095,6 +1231,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2789", 
+                "description": "CIRCLED SANS-SERIF NUMBER TEN", 
                 "title": "DINGBAT CIRCLED SANS-SERIF NUMBER TEN"
             }, 
             {
@@ -1103,6 +1240,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x278a", 
+                "description": "INVERSE CIRCLED SANS-SERIF DIGIT ONE", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ONE"
             }, 
             {
@@ -1111,6 +1249,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x278b", 
+                "description": "INVERSE CIRCLED SANS-SERIF DIGIT TWO", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT TWO"
             }, 
             {
@@ -1119,6 +1258,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x278c", 
+                "description": "INVERSE CIRCLED SANS-SERIF DIGIT THREE", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT THREE"
             }, 
             {
@@ -1127,6 +1267,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x278d", 
+                "description": "INVERSE CIRCLED SANS-SERIF DIGIT FOUR", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FOUR"
             }, 
             {
@@ -1135,6 +1276,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x278e", 
+                "description": "INVERSE CIRCLED SANS-SERIF DIGIT FIVE", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT FIVE"
             }, 
             {
@@ -1143,6 +1285,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x278f", 
+                "description": "INVERSE CIRCLED SANS-SERIF DIGIT SIX", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SIX"
             }, 
             {
@@ -1151,6 +1294,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2790", 
+                "description": "INVERSE CIRCLED SANS-SERIF DIGIT SEVEN", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT SEVEN"
             }, 
             {
@@ -1159,6 +1303,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2791", 
+                "description": "INVERSE CIRCLED SANS-SERIF DIGIT EIGHT", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT EIGHT"
             }, 
             {
@@ -1167,6 +1312,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2792", 
+                "description": "INVERSE CIRCLED SANS-SERIF DIGIT NINE", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT NINE"
             }, 
             {
@@ -1175,6 +1321,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x2793", 
+                "description": "INVERSE CIRCLED SANS-SERIF NUMBER TEN", 
                 "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF NUMBER TEN"
             }, 
             {
@@ -1183,6 +1330,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x2794", 
+                "description": "HEAVY WIDE-HEADED RIGHT ARROW", 
                 "title": "HEAVY WIDE-HEADED RIGHTWARDS ARROW"
             }, 
             {
@@ -1191,6 +1339,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2795", 
+                "description": "", 
                 "title": "HEAVY PLUS SIGN"
             }, 
             {
@@ -1199,6 +1348,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2796", 
+                "description": "", 
                 "title": "HEAVY MINUS SIGN"
             }, 
             {
@@ -1207,6 +1357,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2797", 
+                "description": "", 
                 "title": "HEAVY DIVISION SIGN"
             }, 
             {
@@ -1215,6 +1366,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x2798", 
+                "description": "HEAVY LOWER RIGHT ARROW", 
                 "title": "HEAVY SOUTH EAST ARROW"
             }, 
             {
@@ -1223,6 +1375,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x2799", 
+                "description": "HEAVY RIGHT ARROW", 
                 "title": "HEAVY RIGHTWARDS ARROW"
             }, 
             {
@@ -1231,6 +1384,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x279a", 
+                "description": "HEAVY UPPER RIGHT ARROW", 
                 "title": "HEAVY NORTH EAST ARROW"
             }, 
             {
@@ -1239,6 +1393,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x279b", 
+                "description": "DRAFTING POINT RIGHT ARROW", 
                 "title": "DRAFTING POINT RIGHTWARDS ARROW"
             }, 
             {
@@ -1247,6 +1402,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x279c", 
+                "description": "HEAVY ROUND-TIPPED RIGHT ARROW", 
                 "title": "HEAVY ROUND-TIPPED RIGHTWARDS ARROW"
             }, 
             {
@@ -1255,6 +1411,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x279d", 
+                "description": "TRIANGLE-HEADED RIGHT ARROW", 
                 "title": "TRIANGLE-HEADED RIGHTWARDS ARROW"
             }, 
             {
@@ -1263,6 +1420,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x279e", 
+                "description": "HEAVY TRIANGLE-HEADED RIGHT ARROW", 
                 "title": "HEAVY TRIANGLE-HEADED RIGHTWARDS ARROW"
             }, 
             {
@@ -1271,6 +1429,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x279f", 
+                "description": "DASHED TRIANGLE-HEADED RIGHT ARROW", 
                 "title": "DASHED TRIANGLE-HEADED RIGHTWARDS ARROW"
             }, 
             {
@@ -1279,6 +1438,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27a0", 
+                "description": "HEAVY DASHED TRIANGLE-HEADED RIGHT ARROW", 
                 "title": "HEAVY DASHED TRIANGLE-HEADED RIGHTWARDS ARROW"
             }, 
             {
@@ -1287,6 +1447,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27a1", 
+                "description": "BLACK RIGHT ARROW", 
                 "title": "BLACK RIGHTWARDS ARROW"
             }, 
             {
@@ -1295,6 +1456,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27a2", 
+                "description": "THREE-D TOP-LIGHTED RIGHT ARROWHEAD", 
                 "title": "THREE-D TOP-LIGHTED RIGHTWARDS ARROWHEAD"
             }, 
             {
@@ -1303,6 +1465,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27a3", 
+                "description": "THREE-D BOTTOM-LIGHTED RIGHT ARROWHEAD", 
                 "title": "THREE-D BOTTOM-LIGHTED RIGHTWARDS ARROWHEAD"
             }, 
             {
@@ -1311,6 +1474,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27a4", 
+                "description": "BLACK RIGHT ARROWHEAD", 
                 "title": "BLACK RIGHTWARDS ARROWHEAD"
             }, 
             {
@@ -1319,6 +1483,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27a5", 
+                "description": "HEAVY BLACK CURVED DOWN AND RIGHT ARROW", 
                 "title": "HEAVY BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW"
             }, 
             {
@@ -1327,6 +1492,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27a6", 
+                "description": "HEAVY BLACK CURVED UP AND RIGHT ARROW", 
                 "title": "HEAVY BLACK CURVED UPWARDS AND RIGHTWARDS ARROW"
             }, 
             {
@@ -1335,6 +1501,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27a7", 
+                "description": "SQUAT BLACK RIGHT ARROW", 
                 "title": "SQUAT BLACK RIGHTWARDS ARROW"
             }, 
             {
@@ -1343,6 +1510,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27a8", 
+                "description": "HEAVY CONCAVE-POINTED BLACK RIGHT ARROW", 
                 "title": "HEAVY CONCAVE-POINTED BLACK RIGHTWARDS ARROW"
             }, 
             {
@@ -1351,6 +1519,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27a9", 
+                "description": "RIGHT-SHADED WHITE RIGHT ARROW", 
                 "title": "RIGHT-SHADED WHITE RIGHTWARDS ARROW"
             }, 
             {
@@ -1359,6 +1528,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27aa", 
+                "description": "LEFT-SHADED WHITE RIGHT ARROW", 
                 "title": "LEFT-SHADED WHITE RIGHTWARDS ARROW"
             }, 
             {
@@ -1367,6 +1537,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27ab", 
+                "description": "BACK-TILTED SHADOWED WHITE RIGHT ARROW", 
                 "title": "BACK-TILTED SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
@@ -1375,6 +1546,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27ac", 
+                "description": "FRONT-TILTED SHADOWED WHITE RIGHT ARROW", 
                 "title": "FRONT-TILTED SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
@@ -1383,6 +1555,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27ad", 
+                "description": "HEAVY LOWER RIGHT-SHADOWED WHITE RIGHT ARROW", 
                 "title": "HEAVY LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
@@ -1391,6 +1564,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27ae", 
+                "description": "HEAVY UPPER RIGHT-SHADOWED WHITE RIGHT ARROW", 
                 "title": "HEAVY UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
@@ -1399,6 +1573,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27af", 
+                "description": "NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHT ARROW", 
                 "title": "NOTCHED LOWER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
@@ -1407,6 +1582,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27b0", 
+                "description": "", 
                 "title": "CURLY LOOP"
             }, 
             {
@@ -1415,6 +1591,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27b1", 
+                "description": "NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHT ARROW", 
                 "title": "NOTCHED UPPER RIGHT-SHADOWED WHITE RIGHTWARDS ARROW"
             }, 
             {
@@ -1423,6 +1600,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27b2", 
+                "description": "CIRCLED HEAVY WHITE RIGHT ARROW", 
                 "title": "CIRCLED HEAVY WHITE RIGHTWARDS ARROW"
             }, 
             {
@@ -1431,6 +1609,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27b3", 
+                "description": "WHITE-FEATHERED RIGHT ARROW", 
                 "title": "WHITE-FEATHERED RIGHTWARDS ARROW"
             }, 
             {
@@ -1439,6 +1618,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27b4", 
+                "description": "BLACK-FEATHERED LOWER RIGHT ARROW", 
                 "title": "BLACK-FEATHERED SOUTH EAST ARROW"
             }, 
             {
@@ -1447,6 +1627,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27b5", 
+                "description": "BLACK-FEATHERED RIGHT ARROW", 
                 "title": "BLACK-FEATHERED RIGHTWARDS ARROW"
             }, 
             {
@@ -1455,6 +1636,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27b6", 
+                "description": "BLACK-FEATHERED UPPER RIGHT ARROW", 
                 "title": "BLACK-FEATHERED NORTH EAST ARROW"
             }, 
             {
@@ -1463,6 +1645,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27b7", 
+                "description": "HEAVY BLACK-FEATHERED LOWER RIGHT ARROW", 
                 "title": "HEAVY BLACK-FEATHERED SOUTH EAST ARROW"
             }, 
             {
@@ -1471,6 +1654,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27b8", 
+                "description": "HEAVY BLACK-FEATHERED RIGHT ARROW", 
                 "title": "HEAVY BLACK-FEATHERED RIGHTWARDS ARROW"
             }, 
             {
@@ -1479,6 +1663,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27b9", 
+                "description": "HEAVY BLACK-FEATHERED UPPER RIGHT ARROW", 
                 "title": "HEAVY BLACK-FEATHERED NORTH EAST ARROW"
             }, 
             {
@@ -1487,6 +1672,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27ba", 
+                "description": "TEARDROP-BARBED RIGHT ARROW", 
                 "title": "TEARDROP-BARBED RIGHTWARDS ARROW"
             }, 
             {
@@ -1495,6 +1681,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27bb", 
+                "description": "HEAVY TEARDROP-SHANKED RIGHT ARROW", 
                 "title": "HEAVY TEARDROP-SHANKED RIGHTWARDS ARROW"
             }, 
             {
@@ -1503,6 +1690,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27bc", 
+                "description": "WEDGE-TAILED RIGHT ARROW", 
                 "title": "WEDGE-TAILED RIGHTWARDS ARROW"
             }, 
             {
@@ -1511,6 +1699,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27bd", 
+                "description": "HEAVY WEDGE-TAILED RIGHT ARROW", 
                 "title": "HEAVY WEDGE-TAILED RIGHTWARDS ARROW"
             }, 
             {
@@ -1519,6 +1708,7 @@
                 "cat3": "Arrow", 
                 "cat4": "", 
                 "charcode": "0x27be", 
+                "description": "OPEN-OUTLINED RIGHT ARROW", 
                 "title": "OPEN-OUTLINED RIGHTWARDS ARROW"
             }
         ], 

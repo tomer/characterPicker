@@ -7,6 +7,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3200", 
+                "description": "PARENTHESIZED HANGUL GIYEOG", 
                 "title": "PARENTHESIZED HANGUL KIYEOK"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3201", 
+                "description": "", 
                 "title": "PARENTHESIZED HANGUL NIEUN"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3202", 
+                "description": "PARENTHESIZED HANGUL DIGEUD", 
                 "title": "PARENTHESIZED HANGUL TIKEUT"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3203", 
+                "description": "PARENTHESIZED HANGUL LIEUL", 
                 "title": "PARENTHESIZED HANGUL RIEUL"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3204", 
+                "description": "", 
                 "title": "PARENTHESIZED HANGUL MIEUM"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3205", 
+                "description": "PARENTHESIZED HANGUL BIEUB", 
                 "title": "PARENTHESIZED HANGUL PIEUP"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3206", 
+                "description": "", 
                 "title": "PARENTHESIZED HANGUL SIOS"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3207", 
+                "description": "", 
                 "title": "PARENTHESIZED HANGUL IEUNG"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3208", 
+                "description": "PARENTHESIZED HANGUL JIEUJ", 
                 "title": "PARENTHESIZED HANGUL CIEUC"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3209", 
+                "description": "PARENTHESIZED HANGUL CIEUC", 
                 "title": "PARENTHESIZED HANGUL CHIEUCH"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x320a", 
+                "description": "PARENTHESIZED HANGUL KIYEOK", 
                 "title": "PARENTHESIZED HANGUL KHIEUKH"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x320b", 
+                "description": "PARENTHESIZED HANGUL TIEUT", 
                 "title": "PARENTHESIZED HANGUL THIEUTH"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x320c", 
+                "description": "PARENTHESIZED HANGUL PIEUP", 
                 "title": "PARENTHESIZED HANGUL PHIEUPH"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x320d", 
+                "description": "", 
                 "title": "PARENTHESIZED HANGUL HIEUH"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x320e", 
+                "description": "PARENTHESIZED HANGUL GA", 
                 "title": "PARENTHESIZED HANGUL KIYEOK A"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x320f", 
+                "description": "PARENTHESIZED HANGUL NA", 
                 "title": "PARENTHESIZED HANGUL NIEUN A"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3210", 
+                "description": "PARENTHESIZED HANGUL DA", 
                 "title": "PARENTHESIZED HANGUL TIKEUT A"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3211", 
+                "description": "PARENTHESIZED HANGUL LA", 
                 "title": "PARENTHESIZED HANGUL RIEUL A"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3212", 
+                "description": "PARENTHESIZED HANGUL MA", 
                 "title": "PARENTHESIZED HANGUL MIEUM A"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3213", 
+                "description": "PARENTHESIZED HANGUL BA", 
                 "title": "PARENTHESIZED HANGUL PIEUP A"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3214", 
+                "description": "PARENTHESIZED HANGUL SA", 
                 "title": "PARENTHESIZED HANGUL SIOS A"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3215", 
+                "description": "PARENTHESIZED HANGUL A", 
                 "title": "PARENTHESIZED HANGUL IEUNG A"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3216", 
+                "description": "PARENTHESIZED HANGUL JA", 
                 "title": "PARENTHESIZED HANGUL CIEUC A"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3217", 
+                "description": "PARENTHESIZED HANGUL CA", 
                 "title": "PARENTHESIZED HANGUL CHIEUCH A"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3218", 
+                "description": "PARENTHESIZED HANGUL KA", 
                 "title": "PARENTHESIZED HANGUL KHIEUKH A"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3219", 
+                "description": "PARENTHESIZED HANGUL TA", 
                 "title": "PARENTHESIZED HANGUL THIEUTH A"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x321a", 
+                "description": "PARENTHESIZED HANGUL PA", 
                 "title": "PARENTHESIZED HANGUL PHIEUPH A"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x321b", 
+                "description": "PARENTHESIZED HANGUL HA", 
                 "title": "PARENTHESIZED HANGUL HIEUH A"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x321c", 
+                "description": "PARENTHESIZED HANGUL JU", 
                 "title": "PARENTHESIZED HANGUL CIEUC U"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x321d", 
+                "description": "", 
                 "title": "PARENTHESIZED KOREAN CHARACTER OJEON"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x321e", 
+                "description": "", 
                 "title": "PARENTHESIZED KOREAN CHARACTER O HU"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3220", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH ONE"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3221", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH TWO"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3222", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH THREE"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3223", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH FOUR"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3224", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH FIVE"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3225", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH SIX"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3226", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH SEVEN"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3227", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH EIGHT"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3228", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH NINE"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3229", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH TEN"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x322a", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH MOON"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x322b", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH FIRE"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x322c", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH WATER"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x322d", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH WOOD"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x322e", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH METAL"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x322f", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH EARTH"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3230", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH SUN"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3231", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH STOCK"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3232", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH HAVE"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3233", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH SOCIETY"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3234", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH NAME"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3235", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH SPECIAL"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3236", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH FINANCIAL"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3237", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH CONGRATULATION"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3238", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH LABOR"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3239", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH REPRESENT"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x323a", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH CALL"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x323b", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH STUDY"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x323c", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH SUPERVISE"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x323d", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH ENTERPRISE"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x323e", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH RESOURCE"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x323f", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH ALLIANCE"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3240", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH FESTIVAL"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3241", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH REST"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3242", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH SELF"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "Parenthesized", 
                 "cat4": "", 
                 "charcode": "0x3243", 
+                "description": "", 
                 "title": "PARENTHESIZED IDEOGRAPH REACH"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3244", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH QUESTION"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3245", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH KINDERGARTEN"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3246", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH SCHOOL"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3247", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH KOTO"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3248", 
+                "description": "", 
                 "title": "CIRCLED NUMBER TEN ON BLACK SQUARE"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3249", 
+                "description": "", 
                 "title": "CIRCLED NUMBER TWENTY ON BLACK SQUARE"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x324a", 
+                "description": "", 
                 "title": "CIRCLED NUMBER THIRTY ON BLACK SQUARE"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x324b", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FORTY ON BLACK SQUARE"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x324c", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FIFTY ON BLACK SQUARE"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x324d", 
+                "description": "", 
                 "title": "CIRCLED NUMBER SIXTY ON BLACK SQUARE"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x324e", 
+                "description": "", 
                 "title": "CIRCLED NUMBER SEVENTY ON BLACK SQUARE"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x324f", 
+                "description": "", 
                 "title": "CIRCLED NUMBER EIGHTY ON BLACK SQUARE"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "Squared", 
                 "cat4": "Abbreviation", 
                 "charcode": "0x3250", 
+                "description": "", 
                 "title": "PARTNERSHIP SIGN"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3251", 
+                "description": "", 
                 "title": "CIRCLED NUMBER TWENTY ONE"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3252", 
+                "description": "", 
                 "title": "CIRCLED NUMBER TWENTY TWO"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3253", 
+                "description": "", 
                 "title": "CIRCLED NUMBER TWENTY THREE"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3254", 
+                "description": "", 
                 "title": "CIRCLED NUMBER TWENTY FOUR"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3255", 
+                "description": "", 
                 "title": "CIRCLED NUMBER TWENTY FIVE"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3256", 
+                "description": "", 
                 "title": "CIRCLED NUMBER TWENTY SIX"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3257", 
+                "description": "", 
                 "title": "CIRCLED NUMBER TWENTY SEVEN"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3258", 
+                "description": "", 
                 "title": "CIRCLED NUMBER TWENTY EIGHT"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3259", 
+                "description": "", 
                 "title": "CIRCLED NUMBER TWENTY NINE"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x325a", 
+                "description": "", 
                 "title": "CIRCLED NUMBER THIRTY"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x325b", 
+                "description": "", 
                 "title": "CIRCLED NUMBER THIRTY ONE"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x325c", 
+                "description": "", 
                 "title": "CIRCLED NUMBER THIRTY TWO"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x325d", 
+                "description": "", 
                 "title": "CIRCLED NUMBER THIRTY THREE"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x325e", 
+                "description": "", 
                 "title": "CIRCLED NUMBER THIRTY FOUR"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x325f", 
+                "description": "", 
                 "title": "CIRCLED NUMBER THIRTY FIVE"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3260", 
+                "description": "CIRCLED HANGUL GIYEOG", 
                 "title": "CIRCLED HANGUL KIYEOK"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3261", 
+                "description": "", 
                 "title": "CIRCLED HANGUL NIEUN"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3262", 
+                "description": "CIRCLED HANGUL DIGEUD", 
                 "title": "CIRCLED HANGUL TIKEUT"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3263", 
+                "description": "CIRCLED HANGUL LIEUL", 
                 "title": "CIRCLED HANGUL RIEUL"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3264", 
+                "description": "", 
                 "title": "CIRCLED HANGUL MIEUM"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3265", 
+                "description": "CIRCLED HANGUL BIEUB", 
                 "title": "CIRCLED HANGUL PIEUP"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3266", 
+                "description": "", 
                 "title": "CIRCLED HANGUL SIOS"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3267", 
+                "description": "", 
                 "title": "CIRCLED HANGUL IEUNG"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3268", 
+                "description": "CIRCLED HANGUL JIEUJ", 
                 "title": "CIRCLED HANGUL CIEUC"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3269", 
+                "description": "CIRCLED HANGUL CIEUC", 
                 "title": "CIRCLED HANGUL CHIEUCH"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x326a", 
+                "description": "CIRCLED HANGUL KIYEOK", 
                 "title": "CIRCLED HANGUL KHIEUKH"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x326b", 
+                "description": "CIRCLED HANGUL TIEUT", 
                 "title": "CIRCLED HANGUL THIEUTH"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x326c", 
+                "description": "CIRCLED HANGUL PIEUP", 
                 "title": "CIRCLED HANGUL PHIEUPH"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x326d", 
+                "description": "", 
                 "title": "CIRCLED HANGUL HIEUH"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x326e", 
+                "description": "CIRCLED HANGUL GA", 
                 "title": "CIRCLED HANGUL KIYEOK A"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x326f", 
+                "description": "CIRCLED HANGUL NA", 
                 "title": "CIRCLED HANGUL NIEUN A"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3270", 
+                "description": "CIRCLED HANGUL DA", 
                 "title": "CIRCLED HANGUL TIKEUT A"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3271", 
+                "description": "CIRCLED HANGUL LA", 
                 "title": "CIRCLED HANGUL RIEUL A"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3272", 
+                "description": "CIRCLED HANGUL MA", 
                 "title": "CIRCLED HANGUL MIEUM A"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3273", 
+                "description": "CIRCLED HANGUL BA", 
                 "title": "CIRCLED HANGUL PIEUP A"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3274", 
+                "description": "CIRCLED HANGUL SA", 
                 "title": "CIRCLED HANGUL SIOS A"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3275", 
+                "description": "CIRCLED HANGUL A", 
                 "title": "CIRCLED HANGUL IEUNG A"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3276", 
+                "description": "CIRCLED HANGUL JA", 
                 "title": "CIRCLED HANGUL CIEUC A"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3277", 
+                "description": "CIRCLED HANGUL CA", 
                 "title": "CIRCLED HANGUL CHIEUCH A"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3278", 
+                "description": "CIRCLED HANGUL KA", 
                 "title": "CIRCLED HANGUL KHIEUKH A"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3279", 
+                "description": "CIRCLED HANGUL TA", 
                 "title": "CIRCLED HANGUL THIEUTH A"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x327a", 
+                "description": "CIRCLED HANGUL PA", 
                 "title": "CIRCLED HANGUL PHIEUPH A"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x327b", 
+                "description": "CIRCLED HANGUL HA", 
                 "title": "CIRCLED HANGUL HIEUH A"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x327c", 
+                "description": "", 
                 "title": "CIRCLED KOREAN CHARACTER CHAMKO"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x327d", 
+                "description": "", 
                 "title": "CIRCLED KOREAN CHARACTER JUEUI"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x327e", 
+                "description": "", 
                 "title": "CIRCLED HANGUL IEUNG U"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x327f", 
+                "description": "", 
                 "title": "KOREAN STANDARD SYMBOL"
             }, 
             {
@@ -1023,6 +1150,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3280", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH ONE"
             }, 
             {
@@ -1031,6 +1159,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3281", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH TWO"
             }, 
             {
@@ -1039,6 +1168,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3282", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH THREE"
             }, 
             {
@@ -1047,6 +1177,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3283", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH FOUR"
             }, 
             {
@@ -1055,6 +1186,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3284", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH FIVE"
             }, 
             {
@@ -1063,6 +1195,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3285", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH SIX"
             }, 
             {
@@ -1071,6 +1204,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3286", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH SEVEN"
             }, 
             {
@@ -1079,6 +1213,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3287", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH EIGHT"
             }, 
             {
@@ -1087,6 +1222,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3288", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH NINE"
             }, 
             {
@@ -1095,6 +1231,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3289", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH TEN"
             }, 
             {
@@ -1103,6 +1240,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x328a", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH MOON"
             }, 
             {
@@ -1111,6 +1249,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x328b", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH FIRE"
             }, 
             {
@@ -1119,6 +1258,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x328c", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH WATER"
             }, 
             {
@@ -1127,6 +1267,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x328d", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH WOOD"
             }, 
             {
@@ -1135,6 +1276,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x328e", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH METAL"
             }, 
             {
@@ -1143,6 +1285,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x328f", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH EARTH"
             }, 
             {
@@ -1151,6 +1294,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3290", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH SUN"
             }, 
             {
@@ -1159,6 +1303,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3291", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH STOCK"
             }, 
             {
@@ -1167,6 +1312,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3292", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH HAVE"
             }, 
             {
@@ -1175,6 +1321,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3293", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH SOCIETY"
             }, 
             {
@@ -1183,6 +1330,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3294", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH NAME"
             }, 
             {
@@ -1191,6 +1339,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3295", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH SPECIAL"
             }, 
             {
@@ -1199,6 +1348,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3296", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH FINANCIAL"
             }, 
             {
@@ -1207,6 +1357,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3297", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH CONGRATULATION"
             }, 
             {
@@ -1215,6 +1366,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3298", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH LABOR"
             }, 
             {
@@ -1223,6 +1375,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x3299", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH SECRET"
             }, 
             {
@@ -1231,6 +1384,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x329a", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH MALE"
             }, 
             {
@@ -1239,6 +1393,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x329b", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH FEMALE"
             }, 
             {
@@ -1247,6 +1402,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x329c", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH SUITABLE"
             }, 
             {
@@ -1255,6 +1411,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x329d", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH EXCELLENT"
             }, 
             {
@@ -1263,6 +1420,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x329e", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH PRINT"
             }, 
             {
@@ -1271,6 +1429,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x329f", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH ATTENTION"
             }, 
             {
@@ -1279,6 +1438,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32a0", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH ITEM"
             }, 
             {
@@ -1287,6 +1447,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32a1", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH REST"
             }, 
             {
@@ -1295,6 +1456,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32a2", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH COPY"
             }, 
             {
@@ -1303,6 +1465,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32a3", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH CORRECT"
             }, 
             {
@@ -1311,6 +1474,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32a4", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH HIGH"
             }, 
             {
@@ -1319,6 +1483,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32a5", 
+                "description": "CIRCLED IDEOGRAPH CENTER", 
                 "title": "CIRCLED IDEOGRAPH CENTRE"
             }, 
             {
@@ -1327,6 +1492,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32a6", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH LOW"
             }, 
             {
@@ -1335,6 +1501,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32a7", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH LEFT"
             }, 
             {
@@ -1343,6 +1510,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32a8", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH RIGHT"
             }, 
             {
@@ -1351,6 +1519,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32a9", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH MEDICINE"
             }, 
             {
@@ -1359,6 +1528,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32aa", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH RELIGION"
             }, 
             {
@@ -1367,6 +1537,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32ab", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH STUDY"
             }, 
             {
@@ -1375,6 +1546,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32ac", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH SUPERVISE"
             }, 
             {
@@ -1383,6 +1555,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32ad", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH ENTERPRISE"
             }, 
             {
@@ -1391,6 +1564,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32ae", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH RESOURCE"
             }, 
             {
@@ -1399,6 +1573,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32af", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH ALLIANCE"
             }, 
             {
@@ -1407,6 +1582,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32b0", 
+                "description": "", 
                 "title": "CIRCLED IDEOGRAPH NIGHT"
             }, 
             {
@@ -1415,6 +1591,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32b1", 
+                "description": "", 
                 "title": "CIRCLED NUMBER THIRTY SIX"
             }, 
             {
@@ -1423,6 +1600,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32b2", 
+                "description": "", 
                 "title": "CIRCLED NUMBER THIRTY SEVEN"
             }, 
             {
@@ -1431,6 +1609,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32b3", 
+                "description": "", 
                 "title": "CIRCLED NUMBER THIRTY EIGHT"
             }, 
             {
@@ -1439,6 +1618,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32b4", 
+                "description": "", 
                 "title": "CIRCLED NUMBER THIRTY NINE"
             }, 
             {
@@ -1447,6 +1627,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32b5", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FORTY"
             }, 
             {
@@ -1455,6 +1636,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32b6", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FORTY ONE"
             }, 
             {
@@ -1463,6 +1645,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32b7", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FORTY TWO"
             }, 
             {
@@ -1471,6 +1654,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32b8", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FORTY THREE"
             }, 
             {
@@ -1479,6 +1663,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32b9", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FORTY FOUR"
             }, 
             {
@@ -1487,6 +1672,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32ba", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FORTY FIVE"
             }, 
             {
@@ -1495,6 +1681,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32bb", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FORTY SIX"
             }, 
             {
@@ -1503,6 +1690,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32bc", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FORTY SEVEN"
             }, 
             {
@@ -1511,6 +1699,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32bd", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FORTY EIGHT"
             }, 
             {
@@ -1519,6 +1708,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32be", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FORTY NINE"
             }, 
             {
@@ -1527,6 +1717,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32bf", 
+                "description": "", 
                 "title": "CIRCLED NUMBER FIFTY"
             }, 
             {
@@ -1535,6 +1726,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32c0", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JANUARY"
             }, 
             {
@@ -1543,6 +1735,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32c1", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR FEBRUARY"
             }, 
             {
@@ -1551,6 +1744,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32c2", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR MARCH"
             }, 
             {
@@ -1559,6 +1753,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32c3", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR APRIL"
             }, 
             {
@@ -1567,6 +1762,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32c4", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR MAY"
             }, 
             {
@@ -1575,6 +1771,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32c5", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JUNE"
             }, 
             {
@@ -1583,6 +1780,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32c6", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR JULY"
             }, 
             {
@@ -1591,6 +1789,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32c7", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR AUGUST"
             }, 
             {
@@ -1599,6 +1798,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32c8", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR SEPTEMBER"
             }, 
             {
@@ -1607,6 +1807,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32c9", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR OCTOBER"
             }, 
             {
@@ -1615,6 +1816,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32ca", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR NOVEMBER"
             }, 
             {
@@ -1623,6 +1825,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32cb", 
+                "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DECEMBER"
             }, 
             {
@@ -1631,6 +1834,7 @@
                 "cat3": "Squared", 
                 "cat4": "Abbreviation", 
                 "charcode": "0x32cc", 
+                "description": "", 
                 "title": "SQUARE HG"
             }, 
             {
@@ -1639,6 +1843,7 @@
                 "cat3": "Squared", 
                 "cat4": "Abbreviation", 
                 "charcode": "0x32cd", 
+                "description": "", 
                 "title": "SQUARE ERG"
             }, 
             {
@@ -1647,6 +1852,7 @@
                 "cat3": "Squared", 
                 "cat4": "Abbreviation", 
                 "charcode": "0x32ce", 
+                "description": "", 
                 "title": "SQUARE EV"
             }, 
             {
@@ -1655,6 +1861,7 @@
                 "cat3": "Squared", 
                 "cat4": "Abbreviation", 
                 "charcode": "0x32cf", 
+                "description": "", 
                 "title": "LIMITED LIABILITY SIGN"
             }, 
             {
@@ -1663,6 +1870,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32d0", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA A"
             }, 
             {
@@ -1671,6 +1879,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32d1", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA I"
             }, 
             {
@@ -1679,6 +1888,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32d2", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA U"
             }, 
             {
@@ -1687,6 +1897,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32d3", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA E"
             }, 
             {
@@ -1695,6 +1906,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32d4", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA O"
             }, 
             {
@@ -1703,6 +1915,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32d5", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA KA"
             }, 
             {
@@ -1711,6 +1924,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32d6", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA KI"
             }, 
             {
@@ -1719,6 +1933,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32d7", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA KU"
             }, 
             {
@@ -1727,6 +1942,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32d8", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA KE"
             }, 
             {
@@ -1735,6 +1951,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32d9", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA KO"
             }, 
             {
@@ -1743,6 +1960,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32da", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA SA"
             }, 
             {
@@ -1751,6 +1969,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32db", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA SI"
             }, 
             {
@@ -1759,6 +1978,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32dc", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA SU"
             }, 
             {
@@ -1767,6 +1987,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32dd", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA SE"
             }, 
             {
@@ -1775,6 +1996,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32de", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA SO"
             }, 
             {
@@ -1783,6 +2005,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32df", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA TA"
             }, 
             {
@@ -1791,6 +2014,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32e0", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA TI"
             }, 
             {
@@ -1799,6 +2023,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32e1", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA TU"
             }, 
             {
@@ -1807,6 +2032,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32e2", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA TE"
             }, 
             {
@@ -1815,6 +2041,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32e3", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA TO"
             }, 
             {
@@ -1823,6 +2050,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32e4", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA NA"
             }, 
             {
@@ -1831,6 +2059,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32e5", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA NI"
             }, 
             {
@@ -1839,6 +2068,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32e6", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA NU"
             }, 
             {
@@ -1847,6 +2077,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32e7", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA NE"
             }, 
             {
@@ -1855,6 +2086,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32e8", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA NO"
             }, 
             {
@@ -1863,6 +2095,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32e9", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA HA"
             }, 
             {
@@ -1871,6 +2104,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32ea", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA HI"
             }, 
             {
@@ -1879,6 +2113,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32eb", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA HU"
             }, 
             {
@@ -1887,6 +2122,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32ec", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA HE"
             }, 
             {
@@ -1895,6 +2131,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32ed", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA HO"
             }, 
             {
@@ -1903,6 +2140,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32ee", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA MA"
             }, 
             {
@@ -1911,6 +2149,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32ef", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA MI"
             }, 
             {
@@ -1919,6 +2158,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32f0", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA MU"
             }, 
             {
@@ -1927,6 +2167,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32f1", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA ME"
             }, 
             {
@@ -1935,6 +2176,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32f2", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA MO"
             }, 
             {
@@ -1943,6 +2185,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32f3", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA YA"
             }, 
             {
@@ -1951,6 +2194,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32f4", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA YU"
             }, 
             {
@@ -1959,6 +2203,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32f5", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA YO"
             }, 
             {
@@ -1967,6 +2212,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32f6", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA RA"
             }, 
             {
@@ -1975,6 +2221,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32f7", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA RI"
             }, 
             {
@@ -1983,6 +2230,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32f8", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA RU"
             }, 
             {
@@ -1991,6 +2239,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32f9", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA RE"
             }, 
             {
@@ -1999,6 +2248,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32fa", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA RO"
             }, 
             {
@@ -2007,6 +2257,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32fb", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA WA"
             }, 
             {
@@ -2015,6 +2266,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32fc", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA WI"
             }, 
             {
@@ -2023,6 +2275,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32fd", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA WE"
             }, 
             {
@@ -2031,6 +2284,7 @@
                 "cat3": "Circled", 
                 "cat4": "", 
                 "charcode": "0x32fe", 
+                "description": "", 
                 "title": "CIRCLED KATAKANA WO"
             }
         ], 

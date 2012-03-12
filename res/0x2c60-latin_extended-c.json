@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c60", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER L WITH DOUBLE BAR"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c61", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER L WITH DOUBLE BAR"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c62", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER L WITH MIDDLE TILDE"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c63", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER P WITH STROKE"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c64", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER R WITH TAIL"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c65", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER A WITH STROKE"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c66", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER T WITH DIAGONAL STROKE"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c67", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER H WITH DESCENDER"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c68", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER H WITH DESCENDER"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c69", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER K WITH DESCENDER"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c6a", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER K WITH DESCENDER"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c6b", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER Z WITH DESCENDER"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c6c", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER Z WITH DESCENDER"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c6d", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER ALPHA"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c6e", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER M WITH HOOK"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c6f", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER TURNED A"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c70", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER TURNED ALPHA"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c71", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER V WITH RIGHT HOOK"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c72", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER W WITH HOOK"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c73", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER W WITH HOOK"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c74", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER V WITH CURL"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c75", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER HALF H"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c76", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER HALF H"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "UPA", 
                 "cat4": "", 
                 "charcode": "0x2c77", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER TAILLESS PHI"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "UPA", 
                 "cat4": "", 
                 "charcode": "0x2c78", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER E WITH NOTCH"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "UPA", 
                 "cat4": "", 
                 "charcode": "0x2c79", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER TURNED R WITH TAIL"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "UPA", 
                 "cat4": "", 
                 "charcode": "0x2c7a", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER O WITH LOW RING INSIDE"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "UPA", 
                 "cat4": "", 
                 "charcode": "0x2c7b", 
+                "description": "", 
                 "title": "LATIN LETTER SMALL CAPITAL TURNED E"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "UPA", 
                 "cat4": "", 
                 "charcode": "0x2c7c", 
+                "description": "", 
                 "title": "LATIN SUBSCRIPT SMALL LETTER J"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "UPA", 
                 "cat4": "", 
                 "charcode": "0x2c7d", 
+                "description": "", 
                 "title": "MODIFIER LETTER CAPITAL V"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2c7e", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER S WITH SWASH TAIL"
             }
         ], 

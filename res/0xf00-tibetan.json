@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf00", 
+                "description": "", 
                 "title": "TIBETAN SYLLABLE OM"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf01", 
+                "description": "", 
                 "title": "TIBETAN MARK GTER YIG MGO TRUNCATED A"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf02", 
+                "description": "", 
                 "title": "TIBETAN MARK GTER YIG MGO -UM RNAM BCAD MA"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf03", 
+                "description": "", 
                 "title": "TIBETAN MARK GTER YIG MGO -UM GTER TSHEG MA"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf04", 
+                "description": "TIBETAN SINGLE ORNAMENT", 
                 "title": "TIBETAN MARK INITIAL YIG MGO MDUN MA"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf05", 
+                "description": "", 
                 "title": "TIBETAN MARK CLOSING YIG MGO SGAB MA"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf06", 
+                "description": "", 
                 "title": "TIBETAN MARK CARET YIG MGO PHUR SHAD MA"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf07", 
+                "description": "", 
                 "title": "TIBETAN MARK YIG MGO TSHEG SHAD MA"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf08", 
+                "description": "TIBETAN RGYANSHAD", 
                 "title": "TIBETAN MARK SBRUL SHAD"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf09", 
+                "description": "", 
                 "title": "TIBETAN MARK BSKUR YIG MGO"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf0a", 
+                "description": "", 
                 "title": "TIBETAN MARK BKA- SHOG YIG MGO"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf0b", 
+                "description": "TIBETAN TSEG", 
                 "title": "TIBETAN MARK INTERSYLLABIC TSHEG"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf0c", 
+                "description": "", 
                 "title": "TIBETAN MARK DELIMITER TSHEG BSTAR"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf0d", 
+                "description": "TIBETAN SHAD", 
                 "title": "TIBETAN MARK SHAD"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf0e", 
+                "description": "TIBETAN DOUBLE SHAD", 
                 "title": "TIBETAN MARK NYIS SHAD"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf0f", 
+                "description": "", 
                 "title": "TIBETAN MARK TSHEG SHAD"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf10", 
+                "description": "", 
                 "title": "TIBETAN MARK NYIS TSHEG SHAD"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf11", 
+                "description": "TIBETAN RINCHANPHUNGSHAD", 
                 "title": "TIBETAN MARK RIN CHEN SPUNGS SHAD"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf12", 
+                "description": "", 
                 "title": "TIBETAN MARK RGYA GRAM SHAD"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf13", 
+                "description": "", 
                 "title": "TIBETAN MARK CARET -DZUD RTAGS ME LONG CAN"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf14", 
+                "description": "TIBETAN COMMA", 
                 "title": "TIBETAN MARK GTER TSHEG"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf15", 
+                "description": "", 
                 "title": "TIBETAN LOGOTYPE SIGN CHAD RTAGS"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf16", 
+                "description": "", 
                 "title": "TIBETAN LOGOTYPE SIGN LHAG RTAGS"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf17", 
+                "description": "", 
                 "title": "TIBETAN ASTROLOGICAL SIGN SGRA GCAN -CHAR RTAGS"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf18", 
+                "description": "", 
                 "title": "TIBETAN ASTROLOGICAL SIGN -KHYUD PA"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf19", 
+                "description": "", 
                 "title": "TIBETAN ASTROLOGICAL SIGN SDONG TSHUGS"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf1a", 
+                "description": "", 
                 "title": "TIBETAN SIGN RDEL DKAR GCIG"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf1b", 
+                "description": "", 
                 "title": "TIBETAN SIGN RDEL DKAR GNYIS"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf1c", 
+                "description": "", 
                 "title": "TIBETAN SIGN RDEL DKAR GSUM"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf1d", 
+                "description": "", 
                 "title": "TIBETAN SIGN RDEL NAG GCIG"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf1e", 
+                "description": "", 
                 "title": "TIBETAN SIGN RDEL NAG GNYIS"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf1f", 
+                "description": "", 
                 "title": "TIBETAN SIGN RDEL DKAR RDEL NAG"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf20", 
+                "description": "", 
                 "title": "TIBETAN DIGIT ZERO"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf21", 
+                "description": "", 
                 "title": "TIBETAN DIGIT ONE"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf22", 
+                "description": "", 
                 "title": "TIBETAN DIGIT TWO"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf23", 
+                "description": "", 
                 "title": "TIBETAN DIGIT THREE"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf24", 
+                "description": "", 
                 "title": "TIBETAN DIGIT FOUR"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf25", 
+                "description": "", 
                 "title": "TIBETAN DIGIT FIVE"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf26", 
+                "description": "", 
                 "title": "TIBETAN DIGIT SIX"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf27", 
+                "description": "", 
                 "title": "TIBETAN DIGIT SEVEN"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf28", 
+                "description": "", 
                 "title": "TIBETAN DIGIT EIGHT"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf29", 
+                "description": "", 
                 "title": "TIBETAN DIGIT NINE"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf2a", 
+                "description": "", 
                 "title": "TIBETAN DIGIT HALF ONE"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf2b", 
+                "description": "", 
                 "title": "TIBETAN DIGIT HALF TWO"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf2c", 
+                "description": "", 
                 "title": "TIBETAN DIGIT HALF THREE"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf2d", 
+                "description": "", 
                 "title": "TIBETAN DIGIT HALF FOUR"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf2e", 
+                "description": "", 
                 "title": "TIBETAN DIGIT HALF FIVE"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf2f", 
+                "description": "", 
                 "title": "TIBETAN DIGIT HALF SIX"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf30", 
+                "description": "", 
                 "title": "TIBETAN DIGIT HALF SEVEN"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf31", 
+                "description": "", 
                 "title": "TIBETAN DIGIT HALF EIGHT"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf32", 
+                "description": "", 
                 "title": "TIBETAN DIGIT HALF NINE"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf33", 
+                "description": "", 
                 "title": "TIBETAN DIGIT HALF ZERO"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf34", 
+                "description": "", 
                 "title": "TIBETAN MARK BSDUS RTAGS"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf35", 
+                "description": "TIBETAN HONORIFIC UNDER RING", 
                 "title": "TIBETAN MARK NGAS BZUNG NYI ZLA"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf36", 
+                "description": "", 
                 "title": "TIBETAN MARK CARET -DZUD RTAGS BZHI MIG CAN"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf37", 
+                "description": "TIBETAN UNDER RING", 
                 "title": "TIBETAN MARK NGAS BZUNG SGOR RTAGS"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf38", 
+                "description": "", 
                 "title": "TIBETAN MARK CHE MGO"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf39", 
+                "description": "TIBETAN LENITION MARK", 
                 "title": "TIBETAN MARK TSA -PHRU"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf3a", 
+                "description": "", 
                 "title": "TIBETAN MARK GUG RTAGS GYON"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf3b", 
+                "description": "", 
                 "title": "TIBETAN MARK GUG RTAGS GYAS"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf3c", 
+                "description": "TIBETAN LEFT BRACE", 
                 "title": "TIBETAN MARK ANG KHANG GYON"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf3d", 
+                "description": "TIBETAN RIGHT BRACE", 
                 "title": "TIBETAN MARK ANG KHANG GYAS"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf3e", 
+                "description": "", 
                 "title": "TIBETAN SIGN YAR TSHES"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf3f", 
+                "description": "", 
                 "title": "TIBETAN SIGN MAR TSHES"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf40", 
+                "description": "", 
                 "title": "TIBETAN LETTER KA"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf41", 
+                "description": "", 
                 "title": "TIBETAN LETTER KHA"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf42", 
+                "description": "", 
                 "title": "TIBETAN LETTER GA"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf43", 
+                "description": "", 
                 "title": "TIBETAN LETTER GHA"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf44", 
+                "description": "", 
                 "title": "TIBETAN LETTER NGA"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf45", 
+                "description": "", 
                 "title": "TIBETAN LETTER CA"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf46", 
+                "description": "", 
                 "title": "TIBETAN LETTER CHA"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf47", 
+                "description": "", 
                 "title": "TIBETAN LETTER JA"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf49", 
+                "description": "", 
                 "title": "TIBETAN LETTER NYA"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf4a", 
+                "description": "TIBETAN LETTER REVERSED TA", 
                 "title": "TIBETAN LETTER TTA"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf4b", 
+                "description": "TIBETAN LETTER REVERSED THA", 
                 "title": "TIBETAN LETTER TTHA"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf4c", 
+                "description": "TIBETAN LETTER REVERSED DA", 
                 "title": "TIBETAN LETTER DDA"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf4d", 
+                "description": "", 
                 "title": "TIBETAN LETTER DDHA"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf4e", 
+                "description": "TIBETAN LETTER REVERSED NA", 
                 "title": "TIBETAN LETTER NNA"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf4f", 
+                "description": "", 
                 "title": "TIBETAN LETTER TA"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf50", 
+                "description": "", 
                 "title": "TIBETAN LETTER THA"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf51", 
+                "description": "", 
                 "title": "TIBETAN LETTER DA"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf52", 
+                "description": "", 
                 "title": "TIBETAN LETTER DHA"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf53", 
+                "description": "", 
                 "title": "TIBETAN LETTER NA"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf54", 
+                "description": "", 
                 "title": "TIBETAN LETTER PA"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf55", 
+                "description": "", 
                 "title": "TIBETAN LETTER PHA"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf56", 
+                "description": "", 
                 "title": "TIBETAN LETTER BA"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf57", 
+                "description": "", 
                 "title": "TIBETAN LETTER BHA"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf58", 
+                "description": "", 
                 "title": "TIBETAN LETTER MA"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf59", 
+                "description": "", 
                 "title": "TIBETAN LETTER TSA"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf5a", 
+                "description": "", 
                 "title": "TIBETAN LETTER TSHA"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf5b", 
+                "description": "", 
                 "title": "TIBETAN LETTER DZA"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf5c", 
+                "description": "", 
                 "title": "TIBETAN LETTER DZHA"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf5d", 
+                "description": "", 
                 "title": "TIBETAN LETTER WA"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf5e", 
+                "description": "", 
                 "title": "TIBETAN LETTER ZHA"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf5f", 
+                "description": "", 
                 "title": "TIBETAN LETTER ZA"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf60", 
+                "description": "TIBETAN LETTER AA", 
                 "title": "TIBETAN LETTER -A"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf61", 
+                "description": "", 
                 "title": "TIBETAN LETTER YA"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf62", 
+                "description": "", 
                 "title": "TIBETAN LETTER RA"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf63", 
+                "description": "", 
                 "title": "TIBETAN LETTER LA"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf64", 
+                "description": "", 
                 "title": "TIBETAN LETTER SHA"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf65", 
+                "description": "TIBETAN LETTER REVERSED SHA", 
                 "title": "TIBETAN LETTER SSA"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf66", 
+                "description": "", 
                 "title": "TIBETAN LETTER SA"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf67", 
+                "description": "", 
                 "title": "TIBETAN LETTER HA"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf68", 
+                "description": "", 
                 "title": "TIBETAN LETTER A"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf69", 
+                "description": "", 
                 "title": "TIBETAN LETTER KSSA"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf6a", 
+                "description": "", 
                 "title": "TIBETAN LETTER FIXED-FORM RA"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf6b", 
+                "description": "", 
                 "title": "TIBETAN LETTER KKA"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf6c", 
+                "description": "", 
                 "title": "TIBETAN LETTER RRA"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf71", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN AA"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf72", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN I"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf73", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN II"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf74", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN U"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf75", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN UU"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf76", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN VOCALIC R"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf77", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN VOCALIC RR"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf78", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN VOCALIC L"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf79", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN VOCALIC LL"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf7a", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN E"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf7b", 
+                "description": "TIBETAN VOWEL SIGN AI", 
                 "title": "TIBETAN VOWEL SIGN EE"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf7c", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN O"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf7d", 
+                "description": "TIBETAN VOWEL SIGN AU", 
                 "title": "TIBETAN VOWEL SIGN OO"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf7e", 
+                "description": "TIBETAN ANUSVARA", 
                 "title": "TIBETAN SIGN RJES SU NGA RO"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf7f", 
+                "description": "TIBETAN VISARGA", 
                 "title": "TIBETAN SIGN RNAM BCAD"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf80", 
+                "description": "TIBETAN VOWEL SIGN SHORT I", 
                 "title": "TIBETAN VOWEL SIGN REVERSED I"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "Dependent", 
                 "cat4": "", 
                 "charcode": "0xf81", 
+                "description": "", 
                 "title": "TIBETAN VOWEL SIGN REVERSED II"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf82", 
+                "description": "TIBETAN CANDRABINDU WITH ORNAMENT", 
                 "title": "TIBETAN SIGN NYI ZLA NAA DA"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf83", 
+                "description": "TIBETAN CANDRABINDU", 
                 "title": "TIBETAN SIGN SNA LDAN"
             }, 
             {
@@ -1023,6 +1150,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf84", 
+                "description": "TIBETAN VIRAMA", 
                 "title": "TIBETAN MARK HALANTA"
             }, 
             {
@@ -1031,6 +1159,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf85", 
+                "description": "TIBETAN CHUCHENYIGE", 
                 "title": "TIBETAN MARK PALUTA"
             }, 
             {
@@ -1039,6 +1168,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf86", 
+                "description": "", 
                 "title": "TIBETAN SIGN LCI RTAGS"
             }, 
             {
@@ -1047,6 +1177,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf87", 
+                "description": "", 
                 "title": "TIBETAN SIGN YANG RTAGS"
             }, 
             {
@@ -1055,6 +1186,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf88", 
+                "description": "", 
                 "title": "TIBETAN SIGN LCE TSA CAN"
             }, 
             {
@@ -1063,6 +1195,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf89", 
+                "description": "", 
                 "title": "TIBETAN SIGN MCHU CAN"
             }, 
             {
@@ -1071,6 +1204,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf8a", 
+                "description": "", 
                 "title": "TIBETAN SIGN GRU CAN RGYINGS"
             }, 
             {
@@ -1079,6 +1213,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf8b", 
+                "description": "", 
                 "title": "TIBETAN SIGN GRU MED RGYINGS"
             }, 
             {
@@ -1087,6 +1222,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf8c", 
+                "description": "", 
                 "title": "TIBETAN SIGN INVERTED MCHU CAN"
             }, 
             {
@@ -1095,6 +1231,7 @@
                 "cat3": "Subjoined", 
                 "cat4": "", 
                 "charcode": "0xf8d", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED SIGN LCE TSA CAN"
             }, 
             {
@@ -1103,6 +1240,7 @@
                 "cat3": "Subjoined", 
                 "cat4": "", 
                 "charcode": "0xf8e", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED SIGN MCHU CAN"
             }, 
             {
@@ -1111,6 +1249,7 @@
                 "cat3": "Subjoined", 
                 "cat4": "", 
                 "charcode": "0xf8f", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED SIGN INVERTED MCHU CAN"
             }, 
             {
@@ -1119,6 +1258,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf90", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER KA"
             }, 
             {
@@ -1127,6 +1267,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf91", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER KHA"
             }, 
             {
@@ -1135,6 +1276,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf92", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER GA"
             }, 
             {
@@ -1143,6 +1285,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf93", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER GHA"
             }, 
             {
@@ -1151,6 +1294,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf94", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER NGA"
             }, 
             {
@@ -1159,6 +1303,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf95", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER CA"
             }, 
             {
@@ -1167,6 +1312,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf96", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER CHA"
             }, 
             {
@@ -1175,6 +1321,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf97", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER JA"
             }, 
             {
@@ -1183,6 +1330,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf99", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER NYA"
             }, 
             {
@@ -1191,6 +1339,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf9a", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER TTA"
             }, 
             {
@@ -1199,6 +1348,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf9b", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER TTHA"
             }, 
             {
@@ -1207,6 +1357,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf9c", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER DDA"
             }, 
             {
@@ -1215,6 +1366,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf9d", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER DDHA"
             }, 
             {
@@ -1223,6 +1375,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf9e", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER NNA"
             }, 
             {
@@ -1231,6 +1384,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xf9f", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER TA"
             }, 
             {
@@ -1239,6 +1393,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfa0", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER THA"
             }, 
             {
@@ -1247,6 +1402,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfa1", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER DA"
             }, 
             {
@@ -1255,6 +1411,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfa2", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER DHA"
             }, 
             {
@@ -1263,6 +1420,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfa3", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER NA"
             }, 
             {
@@ -1271,6 +1429,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfa4", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER PA"
             }, 
             {
@@ -1279,6 +1438,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfa5", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER PHA"
             }, 
             {
@@ -1287,6 +1447,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfa6", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER BA"
             }, 
             {
@@ -1295,6 +1456,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfa7", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER BHA"
             }, 
             {
@@ -1303,6 +1465,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfa8", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER MA"
             }, 
             {
@@ -1311,6 +1474,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfa9", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER TSA"
             }, 
             {
@@ -1319,6 +1483,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfaa", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER TSHA"
             }, 
             {
@@ -1327,6 +1492,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfab", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER DZA"
             }, 
             {
@@ -1335,6 +1501,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfac", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER DZHA"
             }, 
             {
@@ -1343,6 +1510,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfad", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER WA"
             }, 
             {
@@ -1351,6 +1519,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfae", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER ZHA"
             }, 
             {
@@ -1359,6 +1528,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfaf", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER ZA"
             }, 
             {
@@ -1367,6 +1537,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfb0", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER -A"
             }, 
             {
@@ -1375,6 +1546,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfb1", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER YA"
             }, 
             {
@@ -1383,6 +1555,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfb2", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER RA"
             }, 
             {
@@ -1391,6 +1564,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfb3", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER LA"
             }, 
             {
@@ -1399,6 +1573,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfb4", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER SHA"
             }, 
             {
@@ -1407,6 +1582,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfb5", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER SSA"
             }, 
             {
@@ -1415,6 +1591,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfb6", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER SA"
             }, 
             {
@@ -1423,6 +1600,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfb7", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER HA"
             }, 
             {
@@ -1431,6 +1609,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfb8", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER A"
             }, 
             {
@@ -1439,6 +1618,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfb9", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER KSSA"
             }, 
             {
@@ -1447,6 +1627,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfba", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER FIXED-FORM WA"
             }, 
             {
@@ -1455,6 +1636,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfbb", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER FIXED-FORM YA"
             }, 
             {
@@ -1463,6 +1645,7 @@
                 "cat3": "Dependent", 
                 "cat4": "Subjoined", 
                 "charcode": "0xfbc", 
+                "description": "", 
                 "title": "TIBETAN SUBJOINED LETTER FIXED-FORM RA"
             }, 
             {
@@ -1471,6 +1654,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfbe", 
+                "description": "", 
                 "title": "TIBETAN KU RU KHA"
             }, 
             {
@@ -1479,6 +1663,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfbf", 
+                "description": "", 
                 "title": "TIBETAN KU RU KHA BZHI MIG CAN"
             }, 
             {
@@ -1487,6 +1672,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfc0", 
+                "description": "", 
                 "title": "TIBETAN CANTILLATION SIGN HEAVY BEAT"
             }, 
             {
@@ -1495,6 +1681,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfc1", 
+                "description": "", 
                 "title": "TIBETAN CANTILLATION SIGN LIGHT BEAT"
             }, 
             {
@@ -1503,6 +1690,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfc2", 
+                "description": "", 
                 "title": "TIBETAN CANTILLATION SIGN CANG TE-U"
             }, 
             {
@@ -1511,6 +1699,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfc3", 
+                "description": "", 
                 "title": "TIBETAN CANTILLATION SIGN SBUB -CHAL"
             }, 
             {
@@ -1519,6 +1708,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfc4", 
+                "description": "", 
                 "title": "TIBETAN SYMBOL DRIL BU"
             }, 
             {
@@ -1527,6 +1717,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfc5", 
+                "description": "", 
                 "title": "TIBETAN SYMBOL RDO RJE"
             }, 
             {
@@ -1535,6 +1726,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfc6", 
+                "description": "", 
                 "title": "TIBETAN SYMBOL PADMA GDAN"
             }, 
             {
@@ -1543,6 +1735,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfc7", 
+                "description": "", 
                 "title": "TIBETAN SYMBOL RDO RJE RGYA GRAM"
             }, 
             {
@@ -1551,6 +1744,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfc8", 
+                "description": "", 
                 "title": "TIBETAN SYMBOL PHUR PA"
             }, 
             {
@@ -1559,6 +1753,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfc9", 
+                "description": "", 
                 "title": "TIBETAN SYMBOL NOR BU"
             }, 
             {
@@ -1567,6 +1762,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfca", 
+                "description": "", 
                 "title": "TIBETAN SYMBOL NOR BU NYIS -KHYIL"
             }, 
             {
@@ -1575,6 +1771,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfcb", 
+                "description": "", 
                 "title": "TIBETAN SYMBOL NOR BU GSUM -KHYIL"
             }, 
             {
@@ -1583,6 +1780,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfcc", 
+                "description": "", 
                 "title": "TIBETAN SYMBOL NOR BU BZHI -KHYIL"
             }, 
             {
@@ -1591,6 +1789,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfce", 
+                "description": "", 
                 "title": "TIBETAN SIGN RDEL NAG RDEL DKAR"
             }, 
             {
@@ -1599,6 +1798,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfcf", 
+                "description": "", 
                 "title": "TIBETAN SIGN RDEL NAG GSUM"
             }, 
             {
@@ -1607,6 +1807,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfd0", 
+                "description": "", 
                 "title": "TIBETAN MARK BSKA- SHOG GI MGO RGYAN"
             }, 
             {
@@ -1615,6 +1816,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfd1", 
+                "description": "", 
                 "title": "TIBETAN MARK MNYAM YIG GI MGO RGYAN"
             }, 
             {
@@ -1623,6 +1825,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfd2", 
+                "description": "", 
                 "title": "TIBETAN MARK NYIS TSHEG"
             }, 
             {
@@ -1631,6 +1834,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfd3", 
+                "description": "", 
                 "title": "TIBETAN MARK INITIAL BRDA RNYING YIG MGO MDUN MA"
             }, 
             {
@@ -1639,6 +1843,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfd4", 
+                "description": "", 
                 "title": "TIBETAN MARK CLOSING BRDA RNYING YIG MGO SGAB MA"
             }, 
             {
@@ -1647,6 +1852,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfd5", 
+                "description": "", 
                 "title": "RIGHT-FACING SVASTI SIGN"
             }, 
             {
@@ -1655,6 +1861,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfd6", 
+                "description": "", 
                 "title": "LEFT-FACING SVASTI SIGN"
             }, 
             {
@@ -1663,6 +1870,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfd7", 
+                "description": "", 
                 "title": "RIGHT-FACING SVASTI SIGN WITH DOTS"
             }, 
             {
@@ -1671,6 +1879,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfd8", 
+                "description": "", 
                 "title": "LEFT-FACING SVASTI SIGN WITH DOTS"
             }, 
             {
@@ -1679,6 +1888,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfd9", 
+                "description": "", 
                 "title": "TIBETAN MARK LEADING MCHAN RTAGS"
             }, 
             {
@@ -1687,6 +1897,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfda", 
+                "description": "", 
                 "title": "TIBETAN MARK TRAILING MCHAN RTAGS"
             }
         ], 

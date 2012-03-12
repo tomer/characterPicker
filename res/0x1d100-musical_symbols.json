@@ -7,6 +7,7 @@
                 "cat3": "Western", 
                 "cat4": "Bar", 
                 "charcode": "0x1d100", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SINGLE BARLINE"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "Western", 
                 "cat4": "Bar", 
                 "charcode": "0x1d101", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DOUBLE BARLINE"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "Western", 
                 "cat4": "Bar", 
                 "charcode": "0x1d102", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FINAL BARLINE"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "Western", 
                 "cat4": "Bar", 
                 "charcode": "0x1d103", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL REVERSE FINAL BARLINE"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "Western", 
                 "cat4": "Bar", 
                 "charcode": "0x1d104", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DASHED BARLINE"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Western", 
                 "cat4": "Bar", 
                 "charcode": "0x1d105", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SHORT BARLINE"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Western", 
                 "cat4": "Coda", 
                 "charcode": "0x1d106", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL LEFT REPEAT SIGN"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Western", 
                 "cat4": "Coda", 
                 "charcode": "0x1d107", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL RIGHT REPEAT SIGN"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Western", 
                 "cat4": "Coda", 
                 "charcode": "0x1d108", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL REPEAT DOTS"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Western", 
                 "cat4": "Coda", 
                 "charcode": "0x1d109", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DAL SEGNO"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Western", 
                 "cat4": "Coda", 
                 "charcode": "0x1d10a", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DA CAPO"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Western", 
                 "cat4": "Coda", 
                 "charcode": "0x1d10b", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SEGNO"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Western", 
                 "cat4": "Coda", 
                 "charcode": "0x1d10c", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL CODA"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Western", 
                 "cat4": "Figure repetition", 
                 "charcode": "0x1d10d", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL REPEATED FIGURE-1"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Western", 
                 "cat4": "Figure repetition", 
                 "charcode": "0x1d10e", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL REPEATED FIGURE-2"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Western", 
                 "cat4": "Figure repetition", 
                 "charcode": "0x1d10f", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL REPEATED FIGURE-3"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "Western", 
                 "cat4": "Hold or pause", 
                 "charcode": "0x1d110", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FERMATA"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Western", 
                 "cat4": "Hold or pause", 
                 "charcode": "0x1d111", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FERMATA BELOW"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Western", 
                 "cat4": "Hold or pause", 
                 "charcode": "0x1d112", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL BREATH MARK"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "Western", 
                 "cat4": "Hold or pause", 
                 "charcode": "0x1d113", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL CAESURA"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "Western", 
                 "cat4": "Staff bracket", 
                 "charcode": "0x1d114", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL BRACE"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "Western", 
                 "cat4": "Staff bracket", 
                 "charcode": "0x1d115", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL BRACKET"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "Western", 
                 "cat4": "Stave", 
                 "charcode": "0x1d116", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ONE-LINE STAFF"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "Western", 
                 "cat4": "Stave", 
                 "charcode": "0x1d117", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TWO-LINE STAFF"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Western", 
                 "cat4": "Stave", 
                 "charcode": "0x1d118", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL THREE-LINE STAFF"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "Western", 
                 "cat4": "Stave", 
                 "charcode": "0x1d119", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FOUR-LINE STAFF"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "Western", 
                 "cat4": "Stave", 
                 "charcode": "0x1d11a", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FIVE-LINE STAFF"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Western", 
                 "cat4": "Stave", 
                 "charcode": "0x1d11b", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SIX-LINE STAFF"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Western", 
                 "cat4": "Tablature", 
                 "charcode": "0x1d11c", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SIX-STRING FRETBOARD"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Western", 
                 "cat4": "Tablature", 
                 "charcode": "0x1d11d", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FOUR-STRING FRETBOARD"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "Western", 
                 "cat4": "Clef", 
                 "charcode": "0x1d11e", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL G CLEF"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "Western", 
                 "cat4": "Clef", 
                 "charcode": "0x1d11f", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL G CLEF OTTAVA ALTA"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "Western", 
                 "cat4": "Clef", 
                 "charcode": "0x1d120", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL G CLEF OTTAVA BASSA"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "Western", 
                 "cat4": "Clef", 
                 "charcode": "0x1d121", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL C CLEF"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "Western", 
                 "cat4": "Clef", 
                 "charcode": "0x1d122", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL F CLEF"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "Western", 
                 "cat4": "Clef", 
                 "charcode": "0x1d123", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL F CLEF OTTAVA ALTA"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "Western", 
                 "cat4": "Clef", 
                 "charcode": "0x1d124", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL F CLEF OTTAVA BASSA"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "Western", 
                 "cat4": "Clef", 
                 "charcode": "0x1d125", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DRUM CLEF-1"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "Western", 
                 "cat4": "Clef", 
                 "charcode": "0x1d126", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DRUM CLEF-2"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "Western", 
                 "cat4": "Rest", 
                 "charcode": "0x1d129", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL MULTIPLE MEASURE REST"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "Western", 
                 "cat4": "Accidental", 
                 "charcode": "0x1d12a", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DOUBLE SHARP"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "Western", 
                 "cat4": "Accidental", 
                 "charcode": "0x1d12b", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DOUBLE FLAT"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "Western", 
                 "cat4": "Accidental", 
                 "charcode": "0x1d12c", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FLAT UP"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "Western", 
                 "cat4": "Accidental", 
                 "charcode": "0x1d12d", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FLAT DOWN"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "Western", 
                 "cat4": "Accidental", 
                 "charcode": "0x1d12e", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL NATURAL UP"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "Western", 
                 "cat4": "Accidental", 
                 "charcode": "0x1d12f", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL NATURAL DOWN"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "Western", 
                 "cat4": "Accidental", 
                 "charcode": "0x1d130", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SHARP UP"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "Western", 
                 "cat4": "Accidental", 
                 "charcode": "0x1d131", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SHARP DOWN"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "Western", 
                 "cat4": "Accidental", 
                 "charcode": "0x1d132", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL QUARTER TONE SHARP"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "Western", 
                 "cat4": "Accidental", 
                 "charcode": "0x1d133", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL QUARTER TONE FLAT"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "Western", 
                 "cat4": "Time signature", 
                 "charcode": "0x1d134", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMMON TIME"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "Western", 
                 "cat4": "Time signature", 
                 "charcode": "0x1d135", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL CUT TIME"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "Western", 
                 "cat4": "Octave", 
                 "charcode": "0x1d136", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL OTTAVA ALTA"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "Western", 
                 "cat4": "Octave", 
                 "charcode": "0x1d137", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL OTTAVA BASSA"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "Western", 
                 "cat4": "Octave", 
                 "charcode": "0x1d138", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL QUINDICESIMA ALTA"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "Western", 
                 "cat4": "Octave", 
                 "charcode": "0x1d139", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL QUINDICESIMA BASSA"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "Western", 
                 "cat4": "Rest", 
                 "charcode": "0x1d13a", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL MULTI REST"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "Western", 
                 "cat4": "Rest", 
                 "charcode": "0x1d13b", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL WHOLE REST"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "Western", 
                 "cat4": "Rest", 
                 "charcode": "0x1d13c", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL HALF REST"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "Western", 
                 "cat4": "Rest", 
                 "charcode": "0x1d13d", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL QUARTER REST"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "Western", 
                 "cat4": "Rest", 
                 "charcode": "0x1d13e", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL EIGHTH REST"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "Western", 
                 "cat4": "Rest", 
                 "charcode": "0x1d13f", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SIXTEENTH REST"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "Western", 
                 "cat4": "Rest", 
                 "charcode": "0x1d140", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL THIRTY-SECOND REST"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "Western", 
                 "cat4": "Rest", 
                 "charcode": "0x1d141", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SIXTY-FOURTH REST"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "Western", 
                 "cat4": "Rest", 
                 "charcode": "0x1d142", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ONE HUNDRED TWENTY-EIGHTH REST"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d143", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL X NOTEHEAD"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d144", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL PLUS NOTEHEAD"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d145", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL CIRCLE X NOTEHEAD"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d146", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SQUARE NOTEHEAD WHITE"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d147", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SQUARE NOTEHEAD BLACK"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d148", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP WHITE"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d149", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP BLACK"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d14a", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE NOTEHEAD LEFT WHITE"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d14b", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE NOTEHEAD LEFT BLACK"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d14c", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE NOTEHEAD RIGHT WHITE"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d14d", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE NOTEHEAD RIGHT BLACK"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d14e", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE NOTEHEAD DOWN WHITE"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d14f", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE NOTEHEAD DOWN BLACK"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d150", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP RIGHT WHITE"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d151", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE NOTEHEAD UP RIGHT BLACK"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d152", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL MOON NOTEHEAD WHITE"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d153", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL MOON NOTEHEAD BLACK"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d154", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE-ROUND NOTEHEAD DOWN WHITE"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d155", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TRIANGLE-ROUND NOTEHEAD DOWN BLACK"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d156", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL PARENTHESIS NOTEHEAD"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d157", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL VOID NOTEHEAD"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d158", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL NOTEHEAD BLACK"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d159", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL NULL NOTEHEAD"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d15a", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL CLUSTER NOTEHEAD WHITE"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "Western", 
                 "cat4": "Notehead", 
                 "charcode": "0x1d15b", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL CLUSTER NOTEHEAD BLACK"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "Western", 
                 "cat4": "Note", 
                 "charcode": "0x1d15c", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL BREVE"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "Western", 
                 "cat4": "Note", 
                 "charcode": "0x1d15d", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL WHOLE NOTE"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "Western", 
                 "cat4": "Note", 
                 "charcode": "0x1d15e", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL HALF NOTE"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "Western", 
                 "cat4": "Note", 
                 "charcode": "0x1d15f", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL QUARTER NOTE"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "Western", 
                 "cat4": "Note", 
                 "charcode": "0x1d160", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL EIGHTH NOTE"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "Western", 
                 "cat4": "Note", 
                 "charcode": "0x1d161", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SIXTEENTH NOTE"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "Western", 
                 "cat4": "Note", 
                 "charcode": "0x1d162", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL THIRTY-SECOND NOTE"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "Western", 
                 "cat4": "Note", 
                 "charcode": "0x1d163", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SIXTY-FOURTH NOTE"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "Western", 
                 "cat4": "Note", 
                 "charcode": "0x1d164", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ONE HUNDRED TWENTY-EIGHTH NOTE"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "Western", 
                 "cat4": "Stem", 
                 "charcode": "0x1d165", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING STEM"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "Western", 
                 "cat4": "Stem", 
                 "charcode": "0x1d166", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING SPRECHGESANG STEM"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "Western", 
                 "cat4": "Tremolo", 
                 "charcode": "0x1d167", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING TREMOLO-1"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "Western", 
                 "cat4": "Tremolo", 
                 "charcode": "0x1d168", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING TREMOLO-2"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "Western", 
                 "cat4": "Tremolo", 
                 "charcode": "0x1d169", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING TREMOLO-3"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "Western", 
                 "cat4": "Tremolo", 
                 "charcode": "0x1d16a", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FINGERED TREMOLO-1"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "Western", 
                 "cat4": "Tremolo", 
                 "charcode": "0x1d16b", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FINGERED TREMOLO-2"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "Western", 
                 "cat4": "Tremolo", 
                 "charcode": "0x1d16c", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FINGERED TREMOLO-3"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "Western", 
                 "cat4": "Augmentation dot", 
                 "charcode": "0x1d16d", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING AUGMENTATION DOT"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "Western", 
                 "cat4": "Flag", 
                 "charcode": "0x1d16e", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING FLAG-1"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "Western", 
                 "cat4": "Flag", 
                 "charcode": "0x1d16f", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING FLAG-2"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "Western", 
                 "cat4": "Flag", 
                 "charcode": "0x1d170", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING FLAG-3"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "Western", 
                 "cat4": "Flag", 
                 "charcode": "0x1d171", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING FLAG-4"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "Western", 
                 "cat4": "Flag", 
                 "charcode": "0x1d172", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING FLAG-5"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "Western", 
                 "cat4": "Beam slur", 
                 "charcode": "0x1d173", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL BEGIN BEAM"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "Western", 
                 "cat4": "Beam slur", 
                 "charcode": "0x1d174", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL END BEAM"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "Western", 
                 "cat4": "Beam slur", 
                 "charcode": "0x1d175", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL BEGIN TIE"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "Western", 
                 "cat4": "Beam slur", 
                 "charcode": "0x1d176", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL END TIE"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "Western", 
                 "cat4": "Beam slur", 
                 "charcode": "0x1d177", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL BEGIN SLUR"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "Western", 
                 "cat4": "Beam slur", 
                 "charcode": "0x1d178", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL END SLUR"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "Western", 
                 "cat4": "Beam slur", 
                 "charcode": "0x1d179", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL BEGIN PHRASE"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "Western", 
                 "cat4": "Beam slur", 
                 "charcode": "0x1d17a", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL END PHRASE"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d17b", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING ACCENT"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d17c", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING STACCATO"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d17d", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING TENUTO"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d17e", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING STACCATISSIMO"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d17f", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING MARCATO"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d180", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING MARCATO-STACCATO"
             }, 
             {
@@ -1023,6 +1150,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d181", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING ACCENT-STACCATO"
             }, 
             {
@@ -1031,6 +1159,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d182", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING LOURE"
             }, 
             {
@@ -1039,6 +1168,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d183", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ARPEGGIATO UP"
             }, 
             {
@@ -1047,6 +1177,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d184", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ARPEGGIATO DOWN"
             }, 
             {
@@ -1055,6 +1186,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d185", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING DOIT"
             }, 
             {
@@ -1063,6 +1195,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d186", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING RIP"
             }, 
             {
@@ -1071,6 +1204,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d187", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING FLIP"
             }, 
             {
@@ -1079,6 +1213,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d188", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING SMEAR"
             }, 
             {
@@ -1087,6 +1222,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d189", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING BEND"
             }, 
             {
@@ -1095,6 +1231,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d18a", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING DOUBLE TONGUE"
             }, 
             {
@@ -1103,6 +1240,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d18b", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING TRIPLE TONGUE"
             }, 
             {
@@ -1111,6 +1249,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d18c", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL RINFORZANDO"
             }, 
             {
@@ -1119,6 +1258,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d18d", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SUBITO"
             }, 
             {
@@ -1127,6 +1267,7 @@
                 "cat3": "Western", 
                 "cat4": "Articulation", 
                 "charcode": "0x1d18e", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL Z"
             }, 
             {
@@ -1135,6 +1276,7 @@
                 "cat3": "Western", 
                 "cat4": "Dynamic", 
                 "charcode": "0x1d18f", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL PIANO"
             }, 
             {
@@ -1143,6 +1285,7 @@
                 "cat3": "Western", 
                 "cat4": "Dynamic", 
                 "charcode": "0x1d190", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL MEZZO"
             }, 
             {
@@ -1151,6 +1294,7 @@
                 "cat3": "Western", 
                 "cat4": "Dynamic", 
                 "charcode": "0x1d191", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FORTE"
             }, 
             {
@@ -1159,6 +1303,7 @@
                 "cat3": "Western", 
                 "cat4": "Dynamic", 
                 "charcode": "0x1d192", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL CRESCENDO"
             }, 
             {
@@ -1167,6 +1312,7 @@
                 "cat3": "Western", 
                 "cat4": "Dynamic", 
                 "charcode": "0x1d193", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DECRESCENDO"
             }, 
             {
@@ -1175,6 +1321,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d194", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL GRACE NOTE SLASH"
             }, 
             {
@@ -1183,6 +1330,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d195", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL GRACE NOTE NO SLASH"
             }, 
             {
@@ -1191,6 +1339,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d196", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TR"
             }, 
             {
@@ -1199,6 +1348,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d197", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TURN"
             }, 
             {
@@ -1207,6 +1357,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d198", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL INVERTED TURN"
             }, 
             {
@@ -1215,6 +1366,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d199", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TURN SLASH"
             }, 
             {
@@ -1223,6 +1375,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d19a", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TURN UP"
             }, 
             {
@@ -1231,6 +1384,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d19b", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ORNAMENT STROKE-1"
             }, 
             {
@@ -1239,6 +1393,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d19c", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ORNAMENT STROKE-2"
             }, 
             {
@@ -1247,6 +1402,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d19d", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ORNAMENT STROKE-3"
             }, 
             {
@@ -1255,6 +1411,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d19e", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ORNAMENT STROKE-4"
             }, 
             {
@@ -1263,6 +1420,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d19f", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ORNAMENT STROKE-5"
             }, 
             {
@@ -1271,6 +1429,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d1a0", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ORNAMENT STROKE-6"
             }, 
             {
@@ -1279,6 +1438,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d1a1", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ORNAMENT STROKE-7"
             }, 
             {
@@ -1287,6 +1447,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d1a2", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ORNAMENT STROKE-8"
             }, 
             {
@@ -1295,6 +1456,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d1a3", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ORNAMENT STROKE-9"
             }, 
             {
@@ -1303,6 +1465,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d1a4", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ORNAMENT STROKE-10"
             }, 
             {
@@ -1311,6 +1474,7 @@
                 "cat3": "Western", 
                 "cat4": "Ornament", 
                 "charcode": "0x1d1a5", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL ORNAMENT STROKE-11"
             }, 
             {
@@ -1319,6 +1483,7 @@
                 "cat3": "Western", 
                 "cat4": "Analytic", 
                 "charcode": "0x1d1a6", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL HAUPTSTIMME"
             }, 
             {
@@ -1327,6 +1492,7 @@
                 "cat3": "Western", 
                 "cat4": "Analytic", 
                 "charcode": "0x1d1a7", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL NEBENSTIMME"
             }, 
             {
@@ -1335,6 +1501,7 @@
                 "cat3": "Western", 
                 "cat4": "Analytic", 
                 "charcode": "0x1d1a8", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL END OF STIMME"
             }, 
             {
@@ -1343,6 +1510,7 @@
                 "cat3": "Western", 
                 "cat4": "Analytic", 
                 "charcode": "0x1d1a9", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DEGREE SLASH"
             }, 
             {
@@ -1351,6 +1519,7 @@
                 "cat3": "Western", 
                 "cat4": "Instrumentation", 
                 "charcode": "0x1d1aa", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING DOWN BOW"
             }, 
             {
@@ -1359,6 +1528,7 @@
                 "cat3": "Western", 
                 "cat4": "Instrumentation", 
                 "charcode": "0x1d1ab", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING UP BOW"
             }, 
             {
@@ -1367,6 +1537,7 @@
                 "cat3": "Western", 
                 "cat4": "Instrumentation", 
                 "charcode": "0x1d1ac", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING HARMONIC"
             }, 
             {
@@ -1375,6 +1546,7 @@
                 "cat3": "Western", 
                 "cat4": "Instrumentation", 
                 "charcode": "0x1d1ad", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL COMBINING SNAP PIZZICATO"
             }, 
             {
@@ -1383,6 +1555,7 @@
                 "cat3": "Western", 
                 "cat4": "Pedal", 
                 "charcode": "0x1d1ae", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL PEDAL MARK"
             }, 
             {
@@ -1391,6 +1564,7 @@
                 "cat3": "Western", 
                 "cat4": "Pedal", 
                 "charcode": "0x1d1af", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL PEDAL UP MARK"
             }, 
             {
@@ -1399,6 +1573,7 @@
                 "cat3": "Western", 
                 "cat4": "Pedal", 
                 "charcode": "0x1d1b0", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL HALF PEDAL MARK"
             }, 
             {
@@ -1407,6 +1582,7 @@
                 "cat3": "Western", 
                 "cat4": "", 
                 "charcode": "0x1d1b1", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL GLISSANDO UP"
             }, 
             {
@@ -1415,6 +1591,7 @@
                 "cat3": "Western", 
                 "cat4": "", 
                 "charcode": "0x1d1b2", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL GLISSANDO DOWN"
             }, 
             {
@@ -1423,6 +1600,7 @@
                 "cat3": "Western", 
                 "cat4": "", 
                 "charcode": "0x1d1b3", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL WITH FINGERNAILS"
             }, 
             {
@@ -1431,6 +1609,7 @@
                 "cat3": "Western", 
                 "cat4": "", 
                 "charcode": "0x1d1b4", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DAMP"
             }, 
             {
@@ -1439,6 +1618,7 @@
                 "cat3": "Western", 
                 "cat4": "", 
                 "charcode": "0x1d1b5", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL DAMP ALL"
             }, 
             {
@@ -1447,6 +1627,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1b6", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL MAXIMA"
             }, 
             {
@@ -1455,6 +1636,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1b7", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL LONGA"
             }, 
             {
@@ -1463,6 +1645,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1b8", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL BREVIS"
             }, 
             {
@@ -1471,6 +1654,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1b9", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SEMIBREVIS WHITE"
             }, 
             {
@@ -1479,6 +1663,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1ba", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SEMIBREVIS BLACK"
             }, 
             {
@@ -1487,6 +1672,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1bb", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL MINIMA"
             }, 
             {
@@ -1495,6 +1681,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1bc", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL MINIMA BLACK"
             }, 
             {
@@ -1503,6 +1690,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1bd", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SEMIMINIMA WHITE"
             }, 
             {
@@ -1511,6 +1699,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1be", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SEMIMINIMA BLACK"
             }, 
             {
@@ -1519,6 +1708,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1bf", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FUSA WHITE"
             }, 
             {
@@ -1527,6 +1717,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1c0", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL FUSA BLACK"
             }, 
             {
@@ -1535,6 +1726,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Rest", 
                 "charcode": "0x1d1c1", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL LONGA PERFECTA REST"
             }, 
             {
@@ -1543,6 +1735,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Rest", 
                 "charcode": "0x1d1c2", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL LONGA IMPERFECTA REST"
             }, 
             {
@@ -1551,6 +1744,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Rest", 
                 "charcode": "0x1d1c3", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL BREVIS REST"
             }, 
             {
@@ -1559,6 +1753,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Rest", 
                 "charcode": "0x1d1c4", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SEMIBREVIS REST"
             }, 
             {
@@ -1567,6 +1762,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Rest", 
                 "charcode": "0x1d1c5", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL MINIMA REST"
             }, 
             {
@@ -1575,6 +1771,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Rest", 
                 "charcode": "0x1d1c6", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SEMIMINIMA REST"
             }, 
             {
@@ -1583,6 +1780,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Prolation", 
                 "charcode": "0x1d1c7", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TEMPUS PERFECTUM CUM PROLATIONE PERFECTA"
             }, 
             {
@@ -1591,6 +1789,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Prolation", 
                 "charcode": "0x1d1c8", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TEMPUS PERFECTUM CUM PROLATIONE IMPERFECTA"
             }, 
             {
@@ -1599,6 +1798,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Prolation", 
                 "charcode": "0x1d1c9", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TEMPUS PERFECTUM CUM PROLATIONE PERFECTA DIMINUTION-1"
             }, 
             {
@@ -1607,6 +1807,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Prolation", 
                 "charcode": "0x1d1ca", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE PERFECTA"
             }, 
             {
@@ -1615,6 +1816,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Prolation", 
                 "charcode": "0x1d1cb", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA"
             }, 
             {
@@ -1623,6 +1825,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Prolation", 
                 "charcode": "0x1d1cc", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA DIMINUTION-1"
             }, 
             {
@@ -1631,6 +1834,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Prolation", 
                 "charcode": "0x1d1cd", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA DIMINUTION-2"
             }, 
             {
@@ -1639,6 +1843,7 @@
                 "cat3": "Mensural", 
                 "cat4": "Prolation", 
                 "charcode": "0x1d1ce", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TEMPUS IMPERFECTUM CUM PROLATIONE IMPERFECTA DIMINUTION-3"
             }, 
             {
@@ -1647,6 +1852,7 @@
                 "cat3": "Mensural", 
                 "cat4": "", 
                 "charcode": "0x1d1cf", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL CROIX"
             }, 
             {
@@ -1655,6 +1861,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1d0", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL GREGORIAN C CLEF"
             }, 
             {
@@ -1663,6 +1870,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1d1", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL GREGORIAN F CLEF"
             }, 
             {
@@ -1671,6 +1879,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1d2", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SQUARE B"
             }, 
             {
@@ -1679,6 +1888,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1d3", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL VIRGA"
             }, 
             {
@@ -1687,6 +1897,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1d4", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL PODATUS"
             }, 
             {
@@ -1695,6 +1906,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1d5", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL CLIVIS"
             }, 
             {
@@ -1703,6 +1915,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1d6", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SCANDICUS"
             }, 
             {
@@ -1711,6 +1924,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1d7", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL CLIMACUS"
             }, 
             {
@@ -1719,6 +1933,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1d8", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TORCULUS"
             }, 
             {
@@ -1727,6 +1942,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1d9", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL PORRECTUS"
             }, 
             {
@@ -1735,6 +1951,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1da", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL PORRECTUS FLEXUS"
             }, 
             {
@@ -1743,6 +1960,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1db", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL SCANDICUS FLEXUS"
             }, 
             {
@@ -1751,6 +1969,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1dc", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL TORCULUS RESUPINUS"
             }, 
             {
@@ -1759,6 +1978,7 @@
                 "cat3": "Gregorian", 
                 "cat4": "", 
                 "charcode": "0x1d1dd", 
+                "description": "", 
                 "title": "MUSICAL SYMBOL PES SUBPUNCTIS"
             }
         ], 

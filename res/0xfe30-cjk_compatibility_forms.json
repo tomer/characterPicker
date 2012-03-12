@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe30", 
+                "description": "GLYPH FOR VERTICAL TWO DOT LEADER", 
                 "title": "PRESENTATION FORM FOR VERTICAL TWO DOT LEADER"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe31", 
+                "description": "GLYPH FOR VERTICAL EM DASH", 
                 "title": "PRESENTATION FORM FOR VERTICAL EM DASH"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe32", 
+                "description": "GLYPH FOR VERTICAL EN DASH", 
                 "title": "PRESENTATION FORM FOR VERTICAL EN DASH"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe33", 
+                "description": "GLYPH FOR VERTICAL SPACING UNDERSCORE", 
                 "title": "PRESENTATION FORM FOR VERTICAL LOW LINE"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe34", 
+                "description": "GLYPH FOR VERTICAL SPACING WAVY UNDERSCORE", 
                 "title": "PRESENTATION FORM FOR VERTICAL WAVY LOW LINE"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe35", 
+                "description": "GLYPH FOR VERTICAL OPENING PARENTHESIS", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT PARENTHESIS"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe36", 
+                "description": "GLYPH FOR VERTICAL CLOSING PARENTHESIS", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT PARENTHESIS"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe37", 
+                "description": "GLYPH FOR VERTICAL OPENING CURLY BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT CURLY BRACKET"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe38", 
+                "description": "GLYPH FOR VERTICAL CLOSING CURLY BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT CURLY BRACKET"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe39", 
+                "description": "GLYPH FOR VERTICAL OPENING TORTOISE SHELL BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT TORTOISE SHELL BRACKET"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe3a", 
+                "description": "GLYPH FOR VERTICAL CLOSING TORTOISE SHELL BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT TORTOISE SHELL BRACKET"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe3b", 
+                "description": "GLYPH FOR VERTICAL OPENING BLACK LENTICULAR BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT BLACK LENTICULAR BRACKET"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe3c", 
+                "description": "GLYPH FOR VERTICAL CLOSING BLACK LENTICULAR BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT BLACK LENTICULAR BRACKET"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe3d", 
+                "description": "GLYPH FOR VERTICAL OPENING DOUBLE ANGLE BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT DOUBLE ANGLE BRACKET"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe3e", 
+                "description": "GLYPH FOR VERTICAL CLOSING DOUBLE ANGLE BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT DOUBLE ANGLE BRACKET"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe3f", 
+                "description": "GLYPH FOR VERTICAL OPENING ANGLE BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT ANGLE BRACKET"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe40", 
+                "description": "GLYPH FOR VERTICAL CLOSING ANGLE BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT ANGLE BRACKET"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe41", 
+                "description": "GLYPH FOR VERTICAL OPENING CORNER BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT CORNER BRACKET"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe42", 
+                "description": "GLYPH FOR VERTICAL CLOSING CORNER BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT CORNER BRACKET"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe43", 
+                "description": "GLYPH FOR VERTICAL OPENING WHITE CORNER BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT WHITE CORNER BRACKET"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe44", 
+                "description": "GLYPH FOR VERTICAL CLOSING WHITE CORNER BRACKET", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT WHITE CORNER BRACKET"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe45", 
+                "description": "", 
                 "title": "SESAME DOT"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe46", 
+                "description": "", 
                 "title": "WHITE SESAME DOT"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe47", 
+                "description": "", 
                 "title": "PRESENTATION FORM FOR VERTICAL LEFT SQUARE BRACKET"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Vertical", 
                 "cat4": "", 
                 "charcode": "0xfe48", 
+                "description": "", 
                 "title": "PRESENTATION FORM FOR VERTICAL RIGHT SQUARE BRACKET"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe49", 
+                "description": "SPACING DASHED OVERSCORE", 
                 "title": "DASHED OVERLINE"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe4a", 
+                "description": "SPACING CENTERLINE OVERSCORE", 
                 "title": "CENTRELINE OVERLINE"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe4b", 
+                "description": "SPACING WAVY OVERSCORE", 
                 "title": "WAVY OVERLINE"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe4c", 
+                "description": "SPACING DOUBLE WAVY OVERSCORE", 
                 "title": "DOUBLE WAVY OVERLINE"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe4d", 
+                "description": "SPACING DASHED UNDERSCORE", 
                 "title": "DASHED LOW LINE"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe4e", 
+                "description": "SPACING CENTERLINE UNDERSCORE", 
                 "title": "CENTRELINE LOW LINE"
             }
         ], 

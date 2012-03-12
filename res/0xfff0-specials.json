@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfff9", 
+                "description": "", 
                 "title": "INTERLINEAR ANNOTATION ANCHOR"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfffa", 
+                "description": "", 
                 "title": "INTERLINEAR ANNOTATION SEPARATOR"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfffb", 
+                "description": "", 
                 "title": "INTERLINEAR ANNOTATION TERMINATOR"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfffc", 
+                "description": "", 
                 "title": "OBJECT REPLACEMENT CHARACTER"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfffd", 
+                "description": "", 
                 "title": "REPLACEMENT CHARACTER"
             }
         ], 

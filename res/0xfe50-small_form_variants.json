@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe50", 
+                "description": "", 
                 "title": "SMALL COMMA"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe51", 
+                "description": "", 
                 "title": "SMALL IDEOGRAPHIC COMMA"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe52", 
+                "description": "SMALL PERIOD", 
                 "title": "SMALL FULL STOP"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe54", 
+                "description": "", 
                 "title": "SMALL SEMICOLON"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe55", 
+                "description": "", 
                 "title": "SMALL COLON"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe56", 
+                "description": "", 
                 "title": "SMALL QUESTION MARK"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe57", 
+                "description": "", 
                 "title": "SMALL EXCLAMATION MARK"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe58", 
+                "description": "", 
                 "title": "SMALL EM DASH"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe59", 
+                "description": "SMALL OPENING PARENTHESIS", 
                 "title": "SMALL LEFT PARENTHESIS"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe5a", 
+                "description": "SMALL CLOSING PARENTHESIS", 
                 "title": "SMALL RIGHT PARENTHESIS"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe5b", 
+                "description": "SMALL OPENING CURLY BRACKET", 
                 "title": "SMALL LEFT CURLY BRACKET"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe5c", 
+                "description": "SMALL CLOSING CURLY BRACKET", 
                 "title": "SMALL RIGHT CURLY BRACKET"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe5d", 
+                "description": "SMALL OPENING TORTOISE SHELL BRACKET", 
                 "title": "SMALL LEFT TORTOISE SHELL BRACKET"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe5e", 
+                "description": "SMALL CLOSING TORTOISE SHELL BRACKET", 
                 "title": "SMALL RIGHT TORTOISE SHELL BRACKET"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe5f", 
+                "description": "", 
                 "title": "SMALL NUMBER SIGN"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe60", 
+                "description": "", 
                 "title": "SMALL AMPERSAND"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe61", 
+                "description": "", 
                 "title": "SMALL ASTERISK"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe62", 
+                "description": "", 
                 "title": "SMALL PLUS SIGN"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe63", 
+                "description": "", 
                 "title": "SMALL HYPHEN-MINUS"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe64", 
+                "description": "", 
                 "title": "SMALL LESS-THAN SIGN"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe65", 
+                "description": "", 
                 "title": "SMALL GREATER-THAN SIGN"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe66", 
+                "description": "", 
                 "title": "SMALL EQUALS SIGN"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe68", 
+                "description": "SMALL BACKSLASH", 
                 "title": "SMALL REVERSE SOLIDUS"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe69", 
+                "description": "", 
                 "title": "SMALL DOLLAR SIGN"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe6a", 
+                "description": "", 
                 "title": "SMALL PERCENT SIGN"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe6b", 
+                "description": "", 
                 "title": "SMALL COMMERCIAL AT"
             }
         ], 

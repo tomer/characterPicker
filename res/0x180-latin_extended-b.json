@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x180", 
+                "description": "LATIN SMALL LETTER B BAR", 
                 "title": "LATIN SMALL LETTER B WITH STROKE"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x181", 
+                "description": "LATIN CAPITAL LETTER B HOOK", 
                 "title": "LATIN CAPITAL LETTER B WITH HOOK"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x182", 
+                "description": "LATIN CAPITAL LETTER B TOPBAR", 
                 "title": "LATIN CAPITAL LETTER B WITH TOPBAR"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x183", 
+                "description": "LATIN SMALL LETTER B TOPBAR", 
                 "title": "LATIN SMALL LETTER B WITH TOPBAR"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x184", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER TONE SIX"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x185", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER TONE SIX"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x186", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER OPEN O"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x187", 
+                "description": "LATIN CAPITAL LETTER C HOOK", 
                 "title": "LATIN CAPITAL LETTER C WITH HOOK"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x188", 
+                "description": "LATIN SMALL LETTER C HOOK", 
                 "title": "LATIN SMALL LETTER C WITH HOOK"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x189", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER AFRICAN D"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x18a", 
+                "description": "LATIN CAPITAL LETTER D HOOK", 
                 "title": "LATIN CAPITAL LETTER D WITH HOOK"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x18b", 
+                "description": "LATIN CAPITAL LETTER D TOPBAR", 
                 "title": "LATIN CAPITAL LETTER D WITH TOPBAR"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x18c", 
+                "description": "LATIN SMALL LETTER D TOPBAR", 
                 "title": "LATIN SMALL LETTER D WITH TOPBAR"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x18d", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER TURNED DELTA"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x18e", 
+                "description": "LATIN CAPITAL LETTER TURNED E", 
                 "title": "LATIN CAPITAL LETTER REVERSED E"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x18f", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER SCHWA"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x190", 
+                "description": "LATIN CAPITAL LETTER EPSILON", 
                 "title": "LATIN CAPITAL LETTER OPEN E"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x191", 
+                "description": "LATIN CAPITAL LETTER F HOOK", 
                 "title": "LATIN CAPITAL LETTER F WITH HOOK"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x192", 
+                "description": "LATIN SMALL LETTER SCRIPT F", 
                 "title": "LATIN SMALL LETTER F WITH HOOK"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x193", 
+                "description": "LATIN CAPITAL LETTER G HOOK", 
                 "title": "LATIN CAPITAL LETTER G WITH HOOK"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x194", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER GAMMA"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x195", 
+                "description": "LATIN SMALL LETTER H V", 
                 "title": "LATIN SMALL LETTER HV"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x196", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER IOTA"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x197", 
+                "description": "LATIN CAPITAL LETTER BARRED I", 
                 "title": "LATIN CAPITAL LETTER I WITH STROKE"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x198", 
+                "description": "LATIN CAPITAL LETTER K HOOK", 
                 "title": "LATIN CAPITAL LETTER K WITH HOOK"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x199", 
+                "description": "LATIN SMALL LETTER K HOOK", 
                 "title": "LATIN SMALL LETTER K WITH HOOK"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x19a", 
+                "description": "LATIN SMALL LETTER BARRED L", 
                 "title": "LATIN SMALL LETTER L WITH BAR"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x19b", 
+                "description": "LATIN SMALL LETTER BARRED LAMBDA", 
                 "title": "LATIN SMALL LETTER LAMBDA WITH STROKE"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x19c", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER TURNED M"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x19d", 
+                "description": "LATIN CAPITAL LETTER N HOOK", 
                 "title": "LATIN CAPITAL LETTER N WITH LEFT HOOK"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x19e", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER N WITH LONG RIGHT LEG"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x19f", 
+                "description": "LATIN CAPITAL LETTER BARRED O", 
                 "title": "LATIN CAPITAL LETTER O WITH MIDDLE TILDE"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1a0", 
+                "description": "LATIN CAPITAL LETTER O HORN", 
                 "title": "LATIN CAPITAL LETTER O WITH HORN"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1a1", 
+                "description": "LATIN SMALL LETTER O HORN", 
                 "title": "LATIN SMALL LETTER O WITH HORN"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1a2", 
+                "description": "LATIN CAPITAL LETTER O I", 
                 "title": "LATIN CAPITAL LETTER OI"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1a3", 
+                "description": "LATIN SMALL LETTER O I", 
                 "title": "LATIN SMALL LETTER OI"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1a4", 
+                "description": "LATIN CAPITAL LETTER P HOOK", 
                 "title": "LATIN CAPITAL LETTER P WITH HOOK"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1a5", 
+                "description": "LATIN SMALL LETTER P HOOK", 
                 "title": "LATIN SMALL LETTER P WITH HOOK"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1a6", 
+                "description": "LATIN LETTER Y R", 
                 "title": "LATIN LETTER YR"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1a7", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER TONE TWO"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1a8", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER TONE TWO"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1a9", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER ESH"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1aa", 
+                "description": "", 
                 "title": "LATIN LETTER REVERSED ESH LOOP"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ab", 
+                "description": "LATIN SMALL LETTER T PALATAL HOOK", 
                 "title": "LATIN SMALL LETTER T WITH PALATAL HOOK"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ac", 
+                "description": "LATIN CAPITAL LETTER T HOOK", 
                 "title": "LATIN CAPITAL LETTER T WITH HOOK"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ad", 
+                "description": "LATIN SMALL LETTER T HOOK", 
                 "title": "LATIN SMALL LETTER T WITH HOOK"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ae", 
+                "description": "LATIN CAPITAL LETTER T RETROFLEX HOOK", 
                 "title": "LATIN CAPITAL LETTER T WITH RETROFLEX HOOK"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1af", 
+                "description": "LATIN CAPITAL LETTER U HORN", 
                 "title": "LATIN CAPITAL LETTER U WITH HORN"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1b0", 
+                "description": "LATIN SMALL LETTER U HORN", 
                 "title": "LATIN SMALL LETTER U WITH HORN"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1b1", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER UPSILON"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1b2", 
+                "description": "LATIN CAPITAL LETTER SCRIPT V", 
                 "title": "LATIN CAPITAL LETTER V WITH HOOK"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1b3", 
+                "description": "LATIN CAPITAL LETTER Y HOOK", 
                 "title": "LATIN CAPITAL LETTER Y WITH HOOK"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1b4", 
+                "description": "LATIN SMALL LETTER Y HOOK", 
                 "title": "LATIN SMALL LETTER Y WITH HOOK"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1b5", 
+                "description": "LATIN CAPITAL LETTER Z BAR", 
                 "title": "LATIN CAPITAL LETTER Z WITH STROKE"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1b6", 
+                "description": "LATIN SMALL LETTER Z BAR", 
                 "title": "LATIN SMALL LETTER Z WITH STROKE"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1b7", 
+                "description": "LATIN CAPITAL LETTER YOGH", 
                 "title": "LATIN CAPITAL LETTER EZH"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1b8", 
+                "description": "LATIN CAPITAL LETTER REVERSED YOGH", 
                 "title": "LATIN CAPITAL LETTER EZH REVERSED"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1b9", 
+                "description": "LATIN SMALL LETTER REVERSED YOGH", 
                 "title": "LATIN SMALL LETTER EZH REVERSED"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ba", 
+                "description": "LATIN SMALL LETTER YOGH WITH TAIL", 
                 "title": "LATIN SMALL LETTER EZH WITH TAIL"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1bb", 
+                "description": "LATIN LETTER TWO BAR", 
                 "title": "LATIN LETTER TWO WITH STROKE"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1bc", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER TONE FIVE"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1bd", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER TONE FIVE"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1be", 
+                "description": "LATIN LETTER INVERTED GLOTTAL STOP BAR", 
                 "title": "LATIN LETTER INVERTED GLOTTAL STOP WITH STROKE"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1bf", 
+                "description": "", 
                 "title": "LATIN LETTER WYNN"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1c0", 
+                "description": "LATIN LETTER PIPE", 
                 "title": "LATIN LETTER DENTAL CLICK"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1c1", 
+                "description": "LATIN LETTER DOUBLE PIPE", 
                 "title": "LATIN LETTER LATERAL CLICK"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1c2", 
+                "description": "LATIN LETTER PIPE DOUBLE BAR", 
                 "title": "LATIN LETTER ALVEOLAR CLICK"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1c3", 
+                "description": "LATIN LETTER EXCLAMATION MARK", 
                 "title": "LATIN LETTER RETROFLEX CLICK"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1c4", 
+                "description": "LATIN CAPITAL LETTER D Z HACEK", 
                 "title": "LATIN CAPITAL LETTER DZ WITH CARON"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1c5", 
+                "description": "LATIN LETTER CAPITAL D SMALL Z HACEK", 
                 "title": "LATIN CAPITAL LETTER D WITH SMALL LETTER Z WITH CARON"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1c6", 
+                "description": "LATIN SMALL LETTER D Z HACEK", 
                 "title": "LATIN SMALL LETTER DZ WITH CARON"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1c7", 
+                "description": "LATIN CAPITAL LETTER L J", 
                 "title": "LATIN CAPITAL LETTER LJ"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1c8", 
+                "description": "LATIN LETTER CAPITAL L SMALL J", 
                 "title": "LATIN CAPITAL LETTER L WITH SMALL LETTER J"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1c9", 
+                "description": "LATIN SMALL LETTER L J", 
                 "title": "LATIN SMALL LETTER LJ"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ca", 
+                "description": "LATIN CAPITAL LETTER N J", 
                 "title": "LATIN CAPITAL LETTER NJ"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1cb", 
+                "description": "LATIN LETTER CAPITAL N SMALL J", 
                 "title": "LATIN CAPITAL LETTER N WITH SMALL LETTER J"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1cc", 
+                "description": "LATIN SMALL LETTER N J", 
                 "title": "LATIN SMALL LETTER NJ"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1cd", 
+                "description": "LATIN CAPITAL LETTER A HACEK", 
                 "title": "LATIN CAPITAL LETTER A WITH CARON"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ce", 
+                "description": "LATIN SMALL LETTER A HACEK", 
                 "title": "LATIN SMALL LETTER A WITH CARON"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1cf", 
+                "description": "LATIN CAPITAL LETTER I HACEK", 
                 "title": "LATIN CAPITAL LETTER I WITH CARON"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1d0", 
+                "description": "LATIN SMALL LETTER I HACEK", 
                 "title": "LATIN SMALL LETTER I WITH CARON"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1d1", 
+                "description": "LATIN CAPITAL LETTER O HACEK", 
                 "title": "LATIN CAPITAL LETTER O WITH CARON"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1d2", 
+                "description": "LATIN SMALL LETTER O HACEK", 
                 "title": "LATIN SMALL LETTER O WITH CARON"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1d3", 
+                "description": "LATIN CAPITAL LETTER U HACEK", 
                 "title": "LATIN CAPITAL LETTER U WITH CARON"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1d4", 
+                "description": "LATIN SMALL LETTER U HACEK", 
                 "title": "LATIN SMALL LETTER U WITH CARON"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1d5", 
+                "description": "LATIN CAPITAL LETTER U DIAERESIS MACRON", 
                 "title": "LATIN CAPITAL LETTER U WITH DIAERESIS AND MACRON"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1d6", 
+                "description": "LATIN SMALL LETTER U DIAERESIS MACRON", 
                 "title": "LATIN SMALL LETTER U WITH DIAERESIS AND MACRON"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1d7", 
+                "description": "LATIN CAPITAL LETTER U DIAERESIS ACUTE", 
                 "title": "LATIN CAPITAL LETTER U WITH DIAERESIS AND ACUTE"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1d8", 
+                "description": "LATIN SMALL LETTER U DIAERESIS ACUTE", 
                 "title": "LATIN SMALL LETTER U WITH DIAERESIS AND ACUTE"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1d9", 
+                "description": "LATIN CAPITAL LETTER U DIAERESIS HACEK", 
                 "title": "LATIN CAPITAL LETTER U WITH DIAERESIS AND CARON"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1da", 
+                "description": "LATIN SMALL LETTER U DIAERESIS HACEK", 
                 "title": "LATIN SMALL LETTER U WITH DIAERESIS AND CARON"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1db", 
+                "description": "LATIN CAPITAL LETTER U DIAERESIS GRAVE", 
                 "title": "LATIN CAPITAL LETTER U WITH DIAERESIS AND GRAVE"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1dc", 
+                "description": "LATIN SMALL LETTER U DIAERESIS GRAVE", 
                 "title": "LATIN SMALL LETTER U WITH DIAERESIS AND GRAVE"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1dd", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER TURNED E"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1de", 
+                "description": "LATIN CAPITAL LETTER A DIAERESIS MACRON", 
                 "title": "LATIN CAPITAL LETTER A WITH DIAERESIS AND MACRON"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1df", 
+                "description": "LATIN SMALL LETTER A DIAERESIS MACRON", 
                 "title": "LATIN SMALL LETTER A WITH DIAERESIS AND MACRON"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1e0", 
+                "description": "LATIN CAPITAL LETTER A DOT MACRON", 
                 "title": "LATIN CAPITAL LETTER A WITH DOT ABOVE AND MACRON"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1e1", 
+                "description": "LATIN SMALL LETTER A DOT MACRON", 
                 "title": "LATIN SMALL LETTER A WITH DOT ABOVE AND MACRON"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1e2", 
+                "description": "LATIN CAPITAL LETTER A E MACRON", 
                 "title": "LATIN CAPITAL LETTER AE WITH MACRON"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1e3", 
+                "description": "LATIN SMALL LETTER A E MACRON", 
                 "title": "LATIN SMALL LETTER AE WITH MACRON"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1e4", 
+                "description": "LATIN CAPITAL LETTER G BAR", 
                 "title": "LATIN CAPITAL LETTER G WITH STROKE"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1e5", 
+                "description": "LATIN SMALL LETTER G BAR", 
                 "title": "LATIN SMALL LETTER G WITH STROKE"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1e6", 
+                "description": "LATIN CAPITAL LETTER G HACEK", 
                 "title": "LATIN CAPITAL LETTER G WITH CARON"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1e7", 
+                "description": "LATIN SMALL LETTER G HACEK", 
                 "title": "LATIN SMALL LETTER G WITH CARON"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1e8", 
+                "description": "LATIN CAPITAL LETTER K HACEK", 
                 "title": "LATIN CAPITAL LETTER K WITH CARON"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1e9", 
+                "description": "LATIN SMALL LETTER K HACEK", 
                 "title": "LATIN SMALL LETTER K WITH CARON"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ea", 
+                "description": "LATIN CAPITAL LETTER O OGONEK", 
                 "title": "LATIN CAPITAL LETTER O WITH OGONEK"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1eb", 
+                "description": "LATIN SMALL LETTER O OGONEK", 
                 "title": "LATIN SMALL LETTER O WITH OGONEK"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ec", 
+                "description": "LATIN CAPITAL LETTER O OGONEK MACRON", 
                 "title": "LATIN CAPITAL LETTER O WITH OGONEK AND MACRON"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ed", 
+                "description": "LATIN SMALL LETTER O OGONEK MACRON", 
                 "title": "LATIN SMALL LETTER O WITH OGONEK AND MACRON"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ee", 
+                "description": "LATIN CAPITAL LETTER YOGH HACEK", 
                 "title": "LATIN CAPITAL LETTER EZH WITH CARON"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ef", 
+                "description": "LATIN SMALL LETTER YOGH HACEK", 
                 "title": "LATIN SMALL LETTER EZH WITH CARON"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1f0", 
+                "description": "LATIN SMALL LETTER J HACEK", 
                 "title": "LATIN SMALL LETTER J WITH CARON"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1f1", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER DZ"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1f2", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER D WITH SMALL LETTER Z"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1f3", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER DZ"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1f4", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER G WITH ACUTE"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1f5", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER G WITH ACUTE"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1f6", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER HWAIR"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1f7", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER WYNN"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1f8", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER N WITH GRAVE"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1f9", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER N WITH GRAVE"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1fa", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER A WITH RING ABOVE AND ACUTE"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1fb", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER A WITH RING ABOVE AND ACUTE"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1fc", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER AE WITH ACUTE"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1fd", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER AE WITH ACUTE"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1fe", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER O WITH STROKE AND ACUTE"
             }, 
             {
@@ -1023,6 +1150,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x1ff", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER O WITH STROKE AND ACUTE"
             }, 
             {
@@ -1031,6 +1159,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x200", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER A WITH DOUBLE GRAVE"
             }, 
             {
@@ -1039,6 +1168,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x201", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER A WITH DOUBLE GRAVE"
             }, 
             {
@@ -1047,6 +1177,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x202", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER A WITH INVERTED BREVE"
             }, 
             {
@@ -1055,6 +1186,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x203", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER A WITH INVERTED BREVE"
             }, 
             {
@@ -1063,6 +1195,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x204", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER E WITH DOUBLE GRAVE"
             }, 
             {
@@ -1071,6 +1204,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x205", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER E WITH DOUBLE GRAVE"
             }, 
             {
@@ -1079,6 +1213,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x206", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER E WITH INVERTED BREVE"
             }, 
             {
@@ -1087,6 +1222,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x207", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER E WITH INVERTED BREVE"
             }, 
             {
@@ -1095,6 +1231,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x208", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER I WITH DOUBLE GRAVE"
             }, 
             {
@@ -1103,6 +1240,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x209", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER I WITH DOUBLE GRAVE"
             }, 
             {
@@ -1111,6 +1249,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20a", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER I WITH INVERTED BREVE"
             }, 
             {
@@ -1119,6 +1258,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20b", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER I WITH INVERTED BREVE"
             }, 
             {
@@ -1127,6 +1267,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20c", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER O WITH DOUBLE GRAVE"
             }, 
             {
@@ -1135,6 +1276,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20d", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER O WITH DOUBLE GRAVE"
             }, 
             {
@@ -1143,6 +1285,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20e", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER O WITH INVERTED BREVE"
             }, 
             {
@@ -1151,6 +1294,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20f", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER O WITH INVERTED BREVE"
             }, 
             {
@@ -1159,6 +1303,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x210", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER R WITH DOUBLE GRAVE"
             }, 
             {
@@ -1167,6 +1312,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x211", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER R WITH DOUBLE GRAVE"
             }, 
             {
@@ -1175,6 +1321,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x212", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER R WITH INVERTED BREVE"
             }, 
             {
@@ -1183,6 +1330,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x213", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER R WITH INVERTED BREVE"
             }, 
             {
@@ -1191,6 +1339,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x214", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER U WITH DOUBLE GRAVE"
             }, 
             {
@@ -1199,6 +1348,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x215", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER U WITH DOUBLE GRAVE"
             }, 
             {
@@ -1207,6 +1357,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x216", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER U WITH INVERTED BREVE"
             }, 
             {
@@ -1215,6 +1366,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x217", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER U WITH INVERTED BREVE"
             }, 
             {
@@ -1223,6 +1375,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x218", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER S WITH COMMA BELOW"
             }, 
             {
@@ -1231,6 +1384,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x219", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER S WITH COMMA BELOW"
             }, 
             {
@@ -1239,6 +1393,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21a", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER T WITH COMMA BELOW"
             }, 
             {
@@ -1247,6 +1402,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21b", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER T WITH COMMA BELOW"
             }, 
             {
@@ -1255,6 +1411,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21c", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER YOGH"
             }, 
             {
@@ -1263,6 +1420,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21d", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER YOGH"
             }, 
             {
@@ -1271,6 +1429,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21e", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER H WITH CARON"
             }, 
             {
@@ -1279,6 +1438,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21f", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER H WITH CARON"
             }, 
             {
@@ -1287,6 +1447,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x220", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER N WITH LONG RIGHT LEG"
             }, 
             {
@@ -1295,6 +1456,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x221", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER D WITH CURL"
             }, 
             {
@@ -1303,6 +1465,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x222", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER OU"
             }, 
             {
@@ -1311,6 +1474,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x223", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER OU"
             }, 
             {
@@ -1319,6 +1483,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x224", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER Z WITH HOOK"
             }, 
             {
@@ -1327,6 +1492,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x225", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER Z WITH HOOK"
             }, 
             {
@@ -1335,6 +1501,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x226", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER A WITH DOT ABOVE"
             }, 
             {
@@ -1343,6 +1510,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x227", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER A WITH DOT ABOVE"
             }, 
             {
@@ -1351,6 +1519,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x228", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER E WITH CEDILLA"
             }, 
             {
@@ -1359,6 +1528,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x229", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER E WITH CEDILLA"
             }, 
             {
@@ -1367,6 +1537,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x22a", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER O WITH DIAERESIS AND MACRON"
             }, 
             {
@@ -1375,6 +1546,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x22b", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER O WITH DIAERESIS AND MACRON"
             }, 
             {
@@ -1383,6 +1555,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x22c", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER O WITH TILDE AND MACRON"
             }, 
             {
@@ -1391,6 +1564,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x22d", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER O WITH TILDE AND MACRON"
             }, 
             {
@@ -1399,6 +1573,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x22e", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER O WITH DOT ABOVE"
             }, 
             {
@@ -1407,6 +1582,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x22f", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER O WITH DOT ABOVE"
             }, 
             {
@@ -1415,6 +1591,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x230", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER O WITH DOT ABOVE AND MACRON"
             }, 
             {
@@ -1423,6 +1600,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x231", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER O WITH DOT ABOVE AND MACRON"
             }, 
             {
@@ -1431,6 +1609,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x232", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER Y WITH MACRON"
             }, 
             {
@@ -1439,6 +1618,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x233", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER Y WITH MACRON"
             }, 
             {
@@ -1447,6 +1627,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x234", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER L WITH CURL"
             }, 
             {
@@ -1455,6 +1636,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x235", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER N WITH CURL"
             }, 
             {
@@ -1463,6 +1645,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x236", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER T WITH CURL"
             }, 
             {
@@ -1471,6 +1654,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x237", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER DOTLESS J"
             }, 
             {
@@ -1479,6 +1663,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x238", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER DB DIGRAPH"
             }, 
             {
@@ -1487,6 +1672,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x239", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER QP DIGRAPH"
             }, 
             {
@@ -1495,6 +1681,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x23a", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER A WITH STROKE"
             }, 
             {
@@ -1503,6 +1690,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x23b", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER C WITH STROKE"
             }, 
             {
@@ -1511,6 +1699,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x23c", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER C WITH STROKE"
             }, 
             {
@@ -1519,6 +1708,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x23d", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER L WITH BAR"
             }, 
             {
@@ -1527,6 +1717,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x23e", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER T WITH DIAGONAL STROKE"
             }, 
             {
@@ -1535,6 +1726,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x23f", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER S WITH SWASH TAIL"
             }, 
             {
@@ -1543,6 +1735,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x240", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER Z WITH SWASH TAIL"
             }, 
             {
@@ -1551,6 +1744,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x241", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER GLOTTAL STOP"
             }, 
             {
@@ -1559,6 +1753,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x242", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER GLOTTAL STOP"
             }, 
             {
@@ -1567,6 +1762,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x243", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER B WITH STROKE"
             }, 
             {
@@ -1575,6 +1771,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x244", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER U BAR"
             }, 
             {
@@ -1583,6 +1780,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x245", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER TURNED V"
             }, 
             {
@@ -1591,6 +1789,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x246", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER E WITH STROKE"
             }, 
             {
@@ -1599,6 +1798,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x247", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER E WITH STROKE"
             }, 
             {
@@ -1607,6 +1807,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x248", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER J WITH STROKE"
             }, 
             {
@@ -1615,6 +1816,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x249", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER J WITH STROKE"
             }, 
             {
@@ -1623,6 +1825,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x24a", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER SMALL Q WITH HOOK TAIL"
             }, 
             {
@@ -1631,6 +1834,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x24b", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER Q WITH HOOK TAIL"
             }, 
             {
@@ -1639,6 +1843,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x24c", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER R WITH STROKE"
             }, 
             {
@@ -1647,6 +1852,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x24d", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER R WITH STROKE"
             }, 
             {
@@ -1655,6 +1861,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x24e", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER Y WITH STROKE"
             }
         ], 

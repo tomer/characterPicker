@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2200", 
+                "description": "", 
                 "title": "FOR ALL"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2201", 
+                "description": "", 
                 "title": "COMPLEMENT"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2202", 
+                "description": "", 
                 "title": "PARTIAL DIFFERENTIAL"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2203", 
+                "description": "", 
                 "title": "THERE EXISTS"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2204", 
+                "description": "", 
                 "title": "THERE DOES NOT EXIST"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2205", 
+                "description": "", 
                 "title": "EMPTY SET"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2206", 
+                "description": "", 
                 "title": "INCREMENT"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2207", 
+                "description": "", 
                 "title": "NABLA"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2208", 
+                "description": "", 
                 "title": "ELEMENT OF"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2209", 
+                "description": "", 
                 "title": "NOT AN ELEMENT OF"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x220a", 
+                "description": "", 
                 "title": "SMALL ELEMENT OF"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x220b", 
+                "description": "", 
                 "title": "CONTAINS AS MEMBER"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x220c", 
+                "description": "", 
                 "title": "DOES NOT CONTAIN AS MEMBER"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x220d", 
+                "description": "", 
                 "title": "SMALL CONTAINS AS MEMBER"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x220e", 
+                "description": "", 
                 "title": "END OF PROOF"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x220f", 
+                "description": "", 
                 "title": "N-ARY PRODUCT"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x2210", 
+                "description": "", 
                 "title": "N-ARY COPRODUCT"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x2211", 
+                "description": "", 
                 "title": "N-ARY SUMMATION"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2212", 
+                "description": "", 
                 "title": "MINUS SIGN"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2213", 
+                "description": "", 
                 "title": "MINUS-OR-PLUS SIGN"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2214", 
+                "description": "", 
                 "title": "DOT PLUS"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2215", 
+                "description": "", 
                 "title": "DIVISION SLASH"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2216", 
+                "description": "", 
                 "title": "SET MINUS"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2217", 
+                "description": "", 
                 "title": "ASTERISK OPERATOR"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2218", 
+                "description": "", 
                 "title": "RING OPERATOR"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2219", 
+                "description": "", 
                 "title": "BULLET OPERATOR"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x221a", 
+                "description": "", 
                 "title": "SQUARE ROOT"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x221b", 
+                "description": "", 
                 "title": "CUBE ROOT"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x221c", 
+                "description": "", 
                 "title": "FOURTH ROOT"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x221d", 
+                "description": "", 
                 "title": "PROPORTIONAL TO"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x221e", 
+                "description": "", 
                 "title": "INFINITY"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x221f", 
+                "description": "", 
                 "title": "RIGHT ANGLE"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2220", 
+                "description": "", 
                 "title": "ANGLE"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2221", 
+                "description": "", 
                 "title": "MEASURED ANGLE"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2222", 
+                "description": "", 
                 "title": "SPHERICAL ANGLE"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2223", 
+                "description": "", 
                 "title": "DIVIDES"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2224", 
+                "description": "", 
                 "title": "DOES NOT DIVIDE"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2225", 
+                "description": "", 
                 "title": "PARALLEL TO"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2226", 
+                "description": "", 
                 "title": "NOT PARALLEL TO"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2227", 
+                "description": "", 
                 "title": "LOGICAL AND"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2228", 
+                "description": "", 
                 "title": "LOGICAL OR"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2229", 
+                "description": "", 
                 "title": "INTERSECTION"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x222a", 
+                "description": "", 
                 "title": "UNION"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x222b", 
+                "description": "", 
                 "title": "INTEGRAL"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x222c", 
+                "description": "", 
                 "title": "DOUBLE INTEGRAL"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x222d", 
+                "description": "", 
                 "title": "TRIPLE INTEGRAL"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x222e", 
+                "description": "", 
                 "title": "CONTOUR INTEGRAL"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x222f", 
+                "description": "", 
                 "title": "SURFACE INTEGRAL"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x2230", 
+                "description": "", 
                 "title": "VOLUME INTEGRAL"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x2231", 
+                "description": "", 
                 "title": "CLOCKWISE INTEGRAL"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x2232", 
+                "description": "", 
                 "title": "CLOCKWISE CONTOUR INTEGRAL"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x2233", 
+                "description": "", 
                 "title": "ANTICLOCKWISE CONTOUR INTEGRAL"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2234", 
+                "description": "", 
                 "title": "THEREFORE"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2235", 
+                "description": "", 
                 "title": "BECAUSE"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2236", 
+                "description": "", 
                 "title": "RATIO"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2237", 
+                "description": "", 
                 "title": "PROPORTION"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2238", 
+                "description": "", 
                 "title": "DOT MINUS"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2239", 
+                "description": "", 
                 "title": "EXCESS"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x223a", 
+                "description": "", 
                 "title": "GEOMETRIC PROPORTION"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x223b", 
+                "description": "", 
                 "title": "HOMOTHETIC"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x223c", 
+                "description": "", 
                 "title": "TILDE OPERATOR"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x223d", 
+                "description": "", 
                 "title": "REVERSED TILDE"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x223e", 
+                "description": "", 
                 "title": "INVERTED LAZY S"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x223f", 
+                "description": "", 
                 "title": "SINE WAVE"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2240", 
+                "description": "", 
                 "title": "WREATH PRODUCT"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2241", 
+                "description": "", 
                 "title": "NOT TILDE"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2242", 
+                "description": "", 
                 "title": "MINUS TILDE"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2243", 
+                "description": "", 
                 "title": "ASYMPTOTICALLY EQUAL TO"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2244", 
+                "description": "", 
                 "title": "NOT ASYMPTOTICALLY EQUAL TO"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2245", 
+                "description": "", 
                 "title": "APPROXIMATELY EQUAL TO"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2246", 
+                "description": "", 
                 "title": "APPROXIMATELY BUT NOT ACTUALLY EQUAL TO"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2247", 
+                "description": "", 
                 "title": "NEITHER APPROXIMATELY NOR ACTUALLY EQUAL TO"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2248", 
+                "description": "", 
                 "title": "ALMOST EQUAL TO"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2249", 
+                "description": "", 
                 "title": "NOT ALMOST EQUAL TO"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x224a", 
+                "description": "", 
                 "title": "ALMOST EQUAL OR EQUAL TO"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x224b", 
+                "description": "", 
                 "title": "TRIPLE TILDE"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x224c", 
+                "description": "", 
                 "title": "ALL EQUAL TO"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x224d", 
+                "description": "", 
                 "title": "EQUIVALENT TO"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x224e", 
+                "description": "", 
                 "title": "GEOMETRICALLY EQUIVALENT TO"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x224f", 
+                "description": "", 
                 "title": "DIFFERENCE BETWEEN"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2250", 
+                "description": "", 
                 "title": "APPROACHES THE LIMIT"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2251", 
+                "description": "", 
                 "title": "GEOMETRICALLY EQUAL TO"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2252", 
+                "description": "", 
                 "title": "APPROXIMATELY EQUAL TO OR THE IMAGE OF"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2253", 
+                "description": "", 
                 "title": "IMAGE OF OR APPROXIMATELY EQUAL TO"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2254", 
+                "description": "COLON EQUAL", 
                 "title": "COLON EQUALS"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2255", 
+                "description": "EQUAL COLON", 
                 "title": "EQUALS COLON"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2256", 
+                "description": "", 
                 "title": "RING IN EQUAL TO"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2257", 
+                "description": "", 
                 "title": "RING EQUAL TO"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2258", 
+                "description": "", 
                 "title": "CORRESPONDS TO"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2259", 
+                "description": "", 
                 "title": "ESTIMATES"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x225a", 
+                "description": "", 
                 "title": "EQUIANGULAR TO"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x225b", 
+                "description": "", 
                 "title": "STAR EQUALS"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x225c", 
+                "description": "", 
                 "title": "DELTA EQUAL TO"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x225d", 
+                "description": "", 
                 "title": "EQUAL TO BY DEFINITION"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x225e", 
+                "description": "", 
                 "title": "MEASURED BY"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x225f", 
+                "description": "", 
                 "title": "QUESTIONED EQUAL TO"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2260", 
+                "description": "", 
                 "title": "NOT EQUAL TO"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2261", 
+                "description": "", 
                 "title": "IDENTICAL TO"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2262", 
+                "description": "", 
                 "title": "NOT IDENTICAL TO"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2263", 
+                "description": "", 
                 "title": "STRICTLY EQUIVALENT TO"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2264", 
+                "description": "LESS THAN OR EQUAL TO", 
                 "title": "LESS-THAN OR EQUAL TO"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2265", 
+                "description": "GREATER THAN OR EQUAL TO", 
                 "title": "GREATER-THAN OR EQUAL TO"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2266", 
+                "description": "LESS THAN OVER EQUAL TO", 
                 "title": "LESS-THAN OVER EQUAL TO"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2267", 
+                "description": "GREATER THAN OVER EQUAL TO", 
                 "title": "GREATER-THAN OVER EQUAL TO"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2268", 
+                "description": "LESS THAN BUT NOT EQUAL TO", 
                 "title": "LESS-THAN BUT NOT EQUAL TO"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2269", 
+                "description": "GREATER THAN BUT NOT EQUAL TO", 
                 "title": "GREATER-THAN BUT NOT EQUAL TO"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x226a", 
+                "description": "MUCH LESS THAN", 
                 "title": "MUCH LESS-THAN"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x226b", 
+                "description": "MUCH GREATER THAN", 
                 "title": "MUCH GREATER-THAN"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x226c", 
+                "description": "", 
                 "title": "BETWEEN"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x226d", 
+                "description": "", 
                 "title": "NOT EQUIVALENT TO"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x226e", 
+                "description": "NOT LESS THAN", 
                 "title": "NOT LESS-THAN"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x226f", 
+                "description": "NOT GREATER THAN", 
                 "title": "NOT GREATER-THAN"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2270", 
+                "description": "NEITHER LESS THAN NOR EQUAL TO", 
                 "title": "NEITHER LESS-THAN NOR EQUAL TO"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2271", 
+                "description": "NEITHER GREATER THAN NOR EQUAL TO", 
                 "title": "NEITHER GREATER-THAN NOR EQUAL TO"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2272", 
+                "description": "LESS THAN OR EQUIVALENT TO", 
                 "title": "LESS-THAN OR EQUIVALENT TO"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2273", 
+                "description": "GREATER THAN OR EQUIVALENT TO", 
                 "title": "GREATER-THAN OR EQUIVALENT TO"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2274", 
+                "description": "NEITHER LESS THAN NOR EQUIVALENT TO", 
                 "title": "NEITHER LESS-THAN NOR EQUIVALENT TO"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2275", 
+                "description": "NEITHER GREATER THAN NOR EQUIVALENT TO", 
                 "title": "NEITHER GREATER-THAN NOR EQUIVALENT TO"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2276", 
+                "description": "LESS THAN OR GREATER THAN", 
                 "title": "LESS-THAN OR GREATER-THAN"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2277", 
+                "description": "GREATER THAN OR LESS THAN", 
                 "title": "GREATER-THAN OR LESS-THAN"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2278", 
+                "description": "NEITHER LESS THAN NOR GREATER THAN", 
                 "title": "NEITHER LESS-THAN NOR GREATER-THAN"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2279", 
+                "description": "NEITHER GREATER THAN NOR LESS THAN", 
                 "title": "NEITHER GREATER-THAN NOR LESS-THAN"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x227a", 
+                "description": "", 
                 "title": "PRECEDES"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x227b", 
+                "description": "", 
                 "title": "SUCCEEDS"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x227c", 
+                "description": "", 
                 "title": "PRECEDES OR EQUAL TO"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x227d", 
+                "description": "", 
                 "title": "SUCCEEDS OR EQUAL TO"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x227e", 
+                "description": "", 
                 "title": "PRECEDES OR EQUIVALENT TO"
             }, 
             {
@@ -1023,6 +1150,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x227f", 
+                "description": "", 
                 "title": "SUCCEEDS OR EQUIVALENT TO"
             }, 
             {
@@ -1031,6 +1159,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2280", 
+                "description": "", 
                 "title": "DOES NOT PRECEDE"
             }, 
             {
@@ -1039,6 +1168,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2281", 
+                "description": "", 
                 "title": "DOES NOT SUCCEED"
             }, 
             {
@@ -1047,6 +1177,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2282", 
+                "description": "", 
                 "title": "SUBSET OF"
             }, 
             {
@@ -1055,6 +1186,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2283", 
+                "description": "", 
                 "title": "SUPERSET OF"
             }, 
             {
@@ -1063,6 +1195,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2284", 
+                "description": "", 
                 "title": "NOT A SUBSET OF"
             }, 
             {
@@ -1071,6 +1204,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2285", 
+                "description": "", 
                 "title": "NOT A SUPERSET OF"
             }, 
             {
@@ -1079,6 +1213,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2286", 
+                "description": "", 
                 "title": "SUBSET OF OR EQUAL TO"
             }, 
             {
@@ -1087,6 +1222,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2287", 
+                "description": "", 
                 "title": "SUPERSET OF OR EQUAL TO"
             }, 
             {
@@ -1095,6 +1231,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2288", 
+                "description": "", 
                 "title": "NEITHER A SUBSET OF NOR EQUAL TO"
             }, 
             {
@@ -1103,6 +1240,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2289", 
+                "description": "", 
                 "title": "NEITHER A SUPERSET OF NOR EQUAL TO"
             }, 
             {
@@ -1111,6 +1249,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x228a", 
+                "description": "SUBSET OF OR NOT EQUAL TO", 
                 "title": "SUBSET OF WITH NOT EQUAL TO"
             }, 
             {
@@ -1119,6 +1258,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x228b", 
+                "description": "SUPERSET OF OR NOT EQUAL TO", 
                 "title": "SUPERSET OF WITH NOT EQUAL TO"
             }, 
             {
@@ -1127,6 +1267,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x228c", 
+                "description": "", 
                 "title": "MULTISET"
             }, 
             {
@@ -1135,6 +1276,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x228d", 
+                "description": "", 
                 "title": "MULTISET MULTIPLICATION"
             }, 
             {
@@ -1143,6 +1285,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x228e", 
+                "description": "", 
                 "title": "MULTISET UNION"
             }, 
             {
@@ -1151,6 +1294,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x228f", 
+                "description": "", 
                 "title": "SQUARE IMAGE OF"
             }, 
             {
@@ -1159,6 +1303,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2290", 
+                "description": "", 
                 "title": "SQUARE ORIGINAL OF"
             }, 
             {
@@ -1167,6 +1312,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2291", 
+                "description": "", 
                 "title": "SQUARE IMAGE OF OR EQUAL TO"
             }, 
             {
@@ -1175,6 +1321,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x2292", 
+                "description": "", 
                 "title": "SQUARE ORIGINAL OF OR EQUAL TO"
             }, 
             {
@@ -1183,6 +1330,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2293", 
+                "description": "", 
                 "title": "SQUARE CAP"
             }, 
             {
@@ -1191,6 +1339,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2294", 
+                "description": "", 
                 "title": "SQUARE CUP"
             }, 
             {
@@ -1199,6 +1348,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2295", 
+                "description": "", 
                 "title": "CIRCLED PLUS"
             }, 
             {
@@ -1207,6 +1357,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2296", 
+                "description": "", 
                 "title": "CIRCLED MINUS"
             }, 
             {
@@ -1215,6 +1366,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2297", 
+                "description": "", 
                 "title": "CIRCLED TIMES"
             }, 
             {
@@ -1223,6 +1375,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2298", 
+                "description": "", 
                 "title": "CIRCLED DIVISION SLASH"
             }, 
             {
@@ -1231,6 +1384,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2299", 
+                "description": "", 
                 "title": "CIRCLED DOT OPERATOR"
             }, 
             {
@@ -1239,6 +1393,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x229a", 
+                "description": "", 
                 "title": "CIRCLED RING OPERATOR"
             }, 
             {
@@ -1247,6 +1402,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x229b", 
+                "description": "", 
                 "title": "CIRCLED ASTERISK OPERATOR"
             }, 
             {
@@ -1255,6 +1411,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x229c", 
+                "description": "", 
                 "title": "CIRCLED EQUALS"
             }, 
             {
@@ -1263,6 +1420,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x229d", 
+                "description": "", 
                 "title": "CIRCLED DASH"
             }, 
             {
@@ -1271,6 +1429,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x229e", 
+                "description": "", 
                 "title": "SQUARED PLUS"
             }, 
             {
@@ -1279,6 +1438,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x229f", 
+                "description": "", 
                 "title": "SQUARED MINUS"
             }, 
             {
@@ -1287,6 +1447,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22a0", 
+                "description": "", 
                 "title": "SQUARED TIMES"
             }, 
             {
@@ -1295,6 +1456,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22a1", 
+                "description": "", 
                 "title": "SQUARED DOT OPERATOR"
             }, 
             {
@@ -1303,6 +1465,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22a2", 
+                "description": "", 
                 "title": "RIGHT TACK"
             }, 
             {
@@ -1311,6 +1474,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22a3", 
+                "description": "", 
                 "title": "LEFT TACK"
             }, 
             {
@@ -1319,6 +1483,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x22a4", 
+                "description": "", 
                 "title": "DOWN TACK"
             }, 
             {
@@ -1327,6 +1492,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x22a5", 
+                "description": "", 
                 "title": "UP TACK"
             }, 
             {
@@ -1335,6 +1501,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22a6", 
+                "description": "", 
                 "title": "ASSERTION"
             }, 
             {
@@ -1343,6 +1510,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22a7", 
+                "description": "", 
                 "title": "MODELS"
             }, 
             {
@@ -1351,6 +1519,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22a8", 
+                "description": "", 
                 "title": "TRUE"
             }, 
             {
@@ -1359,6 +1528,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22a9", 
+                "description": "", 
                 "title": "FORCES"
             }, 
             {
@@ -1367,6 +1537,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22aa", 
+                "description": "", 
                 "title": "TRIPLE VERTICAL BAR RIGHT TURNSTILE"
             }, 
             {
@@ -1375,6 +1546,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22ab", 
+                "description": "", 
                 "title": "DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE"
             }, 
             {
@@ -1383,6 +1555,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22ac", 
+                "description": "", 
                 "title": "DOES NOT PROVE"
             }, 
             {
@@ -1391,6 +1564,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22ad", 
+                "description": "", 
                 "title": "NOT TRUE"
             }, 
             {
@@ -1399,6 +1573,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22ae", 
+                "description": "", 
                 "title": "DOES NOT FORCE"
             }, 
             {
@@ -1407,6 +1582,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22af", 
+                "description": "", 
                 "title": "NEGATED DOUBLE VERTICAL BAR DOUBLE RIGHT TURNSTILE"
             }, 
             {
@@ -1415,6 +1591,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22b0", 
+                "description": "", 
                 "title": "PRECEDES UNDER RELATION"
             }, 
             {
@@ -1423,6 +1600,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22b1", 
+                "description": "", 
                 "title": "SUCCEEDS UNDER RELATION"
             }, 
             {
@@ -1431,6 +1609,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22b2", 
+                "description": "", 
                 "title": "NORMAL SUBGROUP OF"
             }, 
             {
@@ -1439,6 +1618,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22b3", 
+                "description": "", 
                 "title": "CONTAINS AS NORMAL SUBGROUP"
             }, 
             {
@@ -1447,6 +1627,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22b4", 
+                "description": "", 
                 "title": "NORMAL SUBGROUP OF OR EQUAL TO"
             }, 
             {
@@ -1455,6 +1636,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22b5", 
+                "description": "", 
                 "title": "CONTAINS AS NORMAL SUBGROUP OR EQUAL TO"
             }, 
             {
@@ -1463,6 +1645,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22b6", 
+                "description": "", 
                 "title": "ORIGINAL OF"
             }, 
             {
@@ -1471,6 +1654,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22b7", 
+                "description": "", 
                 "title": "IMAGE OF"
             }, 
             {
@@ -1479,6 +1663,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22b8", 
+                "description": "", 
                 "title": "MULTIMAP"
             }, 
             {
@@ -1487,6 +1672,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22b9", 
+                "description": "", 
                 "title": "HERMITIAN CONJUGATE MATRIX"
             }, 
             {
@@ -1495,6 +1681,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22ba", 
+                "description": "", 
                 "title": "INTERCALATE"
             }, 
             {
@@ -1503,6 +1690,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22bb", 
+                "description": "", 
                 "title": "XOR"
             }, 
             {
@@ -1511,6 +1699,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22bc", 
+                "description": "", 
                 "title": "NAND"
             }, 
             {
@@ -1519,6 +1708,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22bd", 
+                "description": "", 
                 "title": "NOR"
             }, 
             {
@@ -1527,6 +1717,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x22be", 
+                "description": "", 
                 "title": "RIGHT ANGLE WITH ARC"
             }, 
             {
@@ -1535,6 +1726,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x22bf", 
+                "description": "", 
                 "title": "RIGHT TRIANGLE"
             }, 
             {
@@ -1543,6 +1735,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x22c0", 
+                "description": "", 
                 "title": "N-ARY LOGICAL AND"
             }, 
             {
@@ -1551,6 +1744,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x22c1", 
+                "description": "", 
                 "title": "N-ARY LOGICAL OR"
             }, 
             {
@@ -1559,6 +1753,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x22c2", 
+                "description": "", 
                 "title": "N-ARY INTERSECTION"
             }, 
             {
@@ -1567,6 +1762,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x22c3", 
+                "description": "", 
                 "title": "N-ARY UNION"
             }, 
             {
@@ -1575,6 +1771,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22c4", 
+                "description": "", 
                 "title": "DIAMOND OPERATOR"
             }, 
             {
@@ -1583,6 +1780,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22c5", 
+                "description": "", 
                 "title": "DOT OPERATOR"
             }, 
             {
@@ -1591,6 +1789,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22c6", 
+                "description": "", 
                 "title": "STAR OPERATOR"
             }, 
             {
@@ -1599,6 +1798,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22c7", 
+                "description": "", 
                 "title": "DIVISION TIMES"
             }, 
             {
@@ -1607,6 +1807,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22c8", 
+                "description": "", 
                 "title": "BOWTIE"
             }, 
             {
@@ -1615,6 +1816,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22c9", 
+                "description": "", 
                 "title": "LEFT NORMAL FACTOR SEMIDIRECT PRODUCT"
             }, 
             {
@@ -1623,6 +1825,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22ca", 
+                "description": "", 
                 "title": "RIGHT NORMAL FACTOR SEMIDIRECT PRODUCT"
             }, 
             {
@@ -1631,6 +1834,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22cb", 
+                "description": "", 
                 "title": "LEFT SEMIDIRECT PRODUCT"
             }, 
             {
@@ -1639,6 +1843,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22cc", 
+                "description": "", 
                 "title": "RIGHT SEMIDIRECT PRODUCT"
             }, 
             {
@@ -1647,6 +1852,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22cd", 
+                "description": "", 
                 "title": "REVERSED TILDE EQUALS"
             }, 
             {
@@ -1655,6 +1861,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22ce", 
+                "description": "", 
                 "title": "CURLY LOGICAL OR"
             }, 
             {
@@ -1663,6 +1870,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22cf", 
+                "description": "", 
                 "title": "CURLY LOGICAL AND"
             }, 
             {
@@ -1671,6 +1879,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22d0", 
+                "description": "", 
                 "title": "DOUBLE SUBSET"
             }, 
             {
@@ -1679,6 +1888,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22d1", 
+                "description": "", 
                 "title": "DOUBLE SUPERSET"
             }, 
             {
@@ -1687,6 +1897,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22d2", 
+                "description": "", 
                 "title": "DOUBLE INTERSECTION"
             }, 
             {
@@ -1695,6 +1906,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x22d3", 
+                "description": "", 
                 "title": "DOUBLE UNION"
             }, 
             {
@@ -1703,6 +1915,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22d4", 
+                "description": "", 
                 "title": "PITCHFORK"
             }, 
             {
@@ -1711,6 +1924,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22d5", 
+                "description": "", 
                 "title": "EQUAL AND PARALLEL TO"
             }, 
             {
@@ -1719,6 +1933,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22d6", 
+                "description": "LESS THAN WITH DOT", 
                 "title": "LESS-THAN WITH DOT"
             }, 
             {
@@ -1727,6 +1942,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22d7", 
+                "description": "GREATER THAN WITH DOT", 
                 "title": "GREATER-THAN WITH DOT"
             }, 
             {
@@ -1735,6 +1951,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22d8", 
+                "description": "VERY MUCH LESS THAN", 
                 "title": "VERY MUCH LESS-THAN"
             }, 
             {
@@ -1743,6 +1960,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22d9", 
+                "description": "VERY MUCH GREATER THAN", 
                 "title": "VERY MUCH GREATER-THAN"
             }, 
             {
@@ -1751,6 +1969,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22da", 
+                "description": "LESS THAN EQUAL TO OR GREATER THAN", 
                 "title": "LESS-THAN EQUAL TO OR GREATER-THAN"
             }, 
             {
@@ -1759,6 +1978,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22db", 
+                "description": "GREATER THAN EQUAL TO OR LESS THAN", 
                 "title": "GREATER-THAN EQUAL TO OR LESS-THAN"
             }, 
             {
@@ -1767,6 +1987,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22dc", 
+                "description": "EQUAL TO OR LESS THAN", 
                 "title": "EQUAL TO OR LESS-THAN"
             }, 
             {
@@ -1775,6 +1996,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22dd", 
+                "description": "EQUAL TO OR GREATER THAN", 
                 "title": "EQUAL TO OR GREATER-THAN"
             }, 
             {
@@ -1783,6 +2005,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22de", 
+                "description": "", 
                 "title": "EQUAL TO OR PRECEDES"
             }, 
             {
@@ -1791,6 +2014,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22df", 
+                "description": "", 
                 "title": "EQUAL TO OR SUCCEEDS"
             }, 
             {
@@ -1799,6 +2023,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22e0", 
+                "description": "", 
                 "title": "DOES NOT PRECEDE OR EQUAL"
             }, 
             {
@@ -1807,6 +2032,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22e1", 
+                "description": "", 
                 "title": "DOES NOT SUCCEED OR EQUAL"
             }, 
             {
@@ -1815,6 +2041,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22e2", 
+                "description": "", 
                 "title": "NOT SQUARE IMAGE OF OR EQUAL TO"
             }, 
             {
@@ -1823,6 +2050,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22e3", 
+                "description": "", 
                 "title": "NOT SQUARE ORIGINAL OF OR EQUAL TO"
             }, 
             {
@@ -1831,6 +2059,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22e4", 
+                "description": "", 
                 "title": "SQUARE IMAGE OF OR NOT EQUAL TO"
             }, 
             {
@@ -1839,6 +2068,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22e5", 
+                "description": "", 
                 "title": "SQUARE ORIGINAL OF OR NOT EQUAL TO"
             }, 
             {
@@ -1847,6 +2077,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22e6", 
+                "description": "LESS THAN BUT NOT EQUIVALENT TO", 
                 "title": "LESS-THAN BUT NOT EQUIVALENT TO"
             }, 
             {
@@ -1855,6 +2086,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22e7", 
+                "description": "GREATER THAN BUT NOT EQUIVALENT TO", 
                 "title": "GREATER-THAN BUT NOT EQUIVALENT TO"
             }, 
             {
@@ -1863,6 +2095,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22e8", 
+                "description": "", 
                 "title": "PRECEDES BUT NOT EQUIVALENT TO"
             }, 
             {
@@ -1871,6 +2104,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22e9", 
+                "description": "", 
                 "title": "SUCCEEDS BUT NOT EQUIVALENT TO"
             }, 
             {
@@ -1879,6 +2113,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22ea", 
+                "description": "", 
                 "title": "NOT NORMAL SUBGROUP OF"
             }, 
             {
@@ -1887,6 +2122,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22eb", 
+                "description": "", 
                 "title": "DOES NOT CONTAIN AS NORMAL SUBGROUP"
             }, 
             {
@@ -1895,6 +2131,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22ec", 
+                "description": "", 
                 "title": "NOT NORMAL SUBGROUP OF OR EQUAL TO"
             }, 
             {
@@ -1903,6 +2140,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22ed", 
+                "description": "", 
                 "title": "DOES NOT CONTAIN AS NORMAL SUBGROUP OR EQUAL"
             }, 
             {
@@ -1911,6 +2149,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22ee", 
+                "description": "", 
                 "title": "VERTICAL ELLIPSIS"
             }, 
             {
@@ -1919,6 +2158,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22ef", 
+                "description": "", 
                 "title": "MIDLINE HORIZONTAL ELLIPSIS"
             }, 
             {
@@ -1927,6 +2167,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22f0", 
+                "description": "", 
                 "title": "UP RIGHT DIAGONAL ELLIPSIS"
             }, 
             {
@@ -1935,6 +2176,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22f1", 
+                "description": "", 
                 "title": "DOWN RIGHT DIAGONAL ELLIPSIS"
             }, 
             {
@@ -1943,6 +2185,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22f2", 
+                "description": "", 
                 "title": "ELEMENT OF WITH LONG HORIZONTAL STROKE"
             }, 
             {
@@ -1951,6 +2194,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22f3", 
+                "description": "", 
                 "title": "ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE"
             }, 
             {
@@ -1959,6 +2203,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22f4", 
+                "description": "", 
                 "title": "SMALL ELEMENT OF WITH VERTICAL BAR AT END OF HORIZONTAL STROKE"
             }, 
             {
@@ -1967,6 +2212,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22f5", 
+                "description": "", 
                 "title": "ELEMENT OF WITH DOT ABOVE"
             }, 
             {
@@ -1975,6 +2221,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22f6", 
+                "description": "", 
                 "title": "ELEMENT OF WITH OVERBAR"
             }, 
             {
@@ -1983,6 +2230,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22f7", 
+                "description": "", 
                 "title": "SMALL ELEMENT OF WITH OVERBAR"
             }, 
             {
@@ -1991,6 +2239,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22f8", 
+                "description": "", 
                 "title": "ELEMENT OF WITH UNDERBAR"
             }, 
             {
@@ -1999,6 +2248,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22f9", 
+                "description": "", 
                 "title": "ELEMENT OF WITH TWO HORIZONTAL STROKES"
             }, 
             {
@@ -2007,6 +2257,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22fa", 
+                "description": "", 
                 "title": "CONTAINS WITH LONG HORIZONTAL STROKE"
             }, 
             {
@@ -2015,6 +2266,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22fb", 
+                "description": "", 
                 "title": "CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE"
             }, 
             {
@@ -2023,6 +2275,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22fc", 
+                "description": "", 
                 "title": "SMALL CONTAINS WITH VERTICAL BAR AT END OF HORIZONTAL STROKE"
             }, 
             {
@@ -2031,6 +2284,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22fd", 
+                "description": "", 
                 "title": "CONTAINS WITH OVERBAR"
             }, 
             {
@@ -2039,6 +2293,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x22fe", 
+                "description": "", 
                 "title": "SMALL CONTAINS WITH OVERBAR"
             }
         ], 

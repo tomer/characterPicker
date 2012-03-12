@@ -7,6 +7,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1100", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG KIYEOK"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1101", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SSANGKIYEOK"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1102", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG NIEUN"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1103", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG TIKEUT"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1104", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SSANGTIKEUT"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1105", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG RIEUL"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1106", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG MIEUM"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1107", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1108", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SSANGPIEUP"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1109", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x110a", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SSANGSIOS"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x110b", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG IEUNG"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x110c", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CIEUC"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x110d", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SSANGCIEUC"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x110e", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CHIEUCH"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x110f", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG KHIEUKH"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1110", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG THIEUTH"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1111", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PHIEUPH"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1112", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG HIEUH"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1113", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG NIEUN-KIYEOK"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1114", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SSANGNIEUN"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1115", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG NIEUN-TIKEUT"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1116", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG NIEUN-PIEUP"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1117", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG TIKEUT-KIYEOK"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1118", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG RIEUL-NIEUN"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1119", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SSANGRIEUL"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x111a", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG RIEUL-HIEUH"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x111b", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG KAPYEOUNRIEUL"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x111c", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG MIEUM-PIEUP"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x111d", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG KAPYEOUNMIEUM"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x111e", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-KIYEOK"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x111f", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-NIEUN"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1120", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-TIKEUT"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1121", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-SIOS"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1122", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-SIOS-KIYEOK"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1123", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-SIOS-TIKEUT"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1124", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-SIOS-PIEUP"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1125", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-SSANGSIOS"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1126", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-SIOS-CIEUC"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1127", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-CIEUC"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1128", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-CHIEUCH"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1129", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-THIEUTH"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x112a", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PIEUP-PHIEUPH"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x112b", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG KAPYEOUNPIEUP"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x112c", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG KAPYEOUNSSANGPIEUP"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x112d", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-KIYEOK"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x112e", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-NIEUN"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x112f", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-TIKEUT"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1130", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-RIEUL"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1131", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-MIEUM"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1132", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-PIEUP"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1133", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-PIEUP-KIYEOK"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1134", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-SSANGSIOS"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1135", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-IEUNG"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1136", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-CIEUC"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1137", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-CHIEUCH"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1138", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-KHIEUKH"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1139", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-THIEUTH"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x113a", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-PHIEUPH"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x113b", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SIOS-HIEUH"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x113c", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CHITUEUMSIOS"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x113d", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CHITUEUMSSANGSIOS"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x113e", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CEONGCHIEUMSIOS"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x113f", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CEONGCHIEUMSSANGSIOS"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1140", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PANSIOS"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1141", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG IEUNG-KIYEOK"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1142", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG IEUNG-TIKEUT"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1143", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG IEUNG-MIEUM"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1144", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG IEUNG-PIEUP"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1145", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG IEUNG-SIOS"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1146", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG IEUNG-PANSIOS"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1147", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SSANGIEUNG"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1148", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG IEUNG-CIEUC"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1149", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG IEUNG-CHIEUCH"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x114a", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG IEUNG-THIEUTH"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x114b", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG IEUNG-PHIEUPH"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x114c", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG YESIEUNG"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x114d", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CIEUC-IEUNG"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x114e", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CHITUEUMCIEUC"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x114f", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CHITUEUMSSANGCIEUC"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1150", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CEONGCHIEUMCIEUC"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1151", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CEONGCHIEUMSSANGCIEUC"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1152", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CHIEUCH-KHIEUKH"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1153", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CHIEUCH-HIEUH"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1154", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CHITUEUMCHIEUCH"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1155", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG CEONGCHIEUMCHIEUCH"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1156", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG PHIEUPH-PIEUP"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1157", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG KAPYEOUNPHIEUPH"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1158", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG SSANGHIEUH"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x1159", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG YEORINHIEUH"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x115a", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG KIYEOK-TIKEUT"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x115b", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG NIEUN-SIOS"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x115c", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG NIEUN-CIEUC"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x115d", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG NIEUN-HIEUH"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "Initial", 
                 "cat4": "", 
                 "charcode": "0x115e", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG TIKEUT-RIEUL"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "Initial", 
                 "cat4": "Filler", 
                 "charcode": "0x115f", 
+                "description": "", 
                 "title": "HANGUL CHOSEONG FILLER"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "Medial", 
                 "cat4": "Filler", 
                 "charcode": "0x1160", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG FILLER"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1161", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG A"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1162", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG AE"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1163", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YA"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1164", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YAE"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1165", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG EO"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1166", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG E"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1167", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YEO"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1168", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YE"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1169", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG O"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x116a", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG WA"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x116b", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG WAE"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x116c", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG OE"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x116d", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YO"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x116e", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG U"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x116f", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG WEO"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1170", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG WE"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1171", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG WI"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1172", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YU"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1173", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG EU"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1174", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YI"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1175", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG I"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1176", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG A-O"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1177", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG A-U"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1178", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YA-O"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1179", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YA-YO"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x117a", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG EO-O"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x117b", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG EO-U"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x117c", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG EO-EU"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x117d", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YEO-O"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x117e", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YEO-U"
             }, 
             {
@@ -1023,6 +1150,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x117f", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG O-EO"
             }, 
             {
@@ -1031,6 +1159,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1180", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG O-E"
             }, 
             {
@@ -1039,6 +1168,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1181", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG O-YE"
             }, 
             {
@@ -1047,6 +1177,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1182", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG O-O"
             }, 
             {
@@ -1055,6 +1186,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1183", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG O-U"
             }, 
             {
@@ -1063,6 +1195,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1184", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YO-YA"
             }, 
             {
@@ -1071,6 +1204,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1185", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YO-YAE"
             }, 
             {
@@ -1079,6 +1213,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1186", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YO-YEO"
             }, 
             {
@@ -1087,6 +1222,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1187", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YO-O"
             }, 
             {
@@ -1095,6 +1231,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1188", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YO-I"
             }, 
             {
@@ -1103,6 +1240,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1189", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG U-A"
             }, 
             {
@@ -1111,6 +1249,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x118a", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG U-AE"
             }, 
             {
@@ -1119,6 +1258,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x118b", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG U-EO-EU"
             }, 
             {
@@ -1127,6 +1267,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x118c", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG U-YE"
             }, 
             {
@@ -1135,6 +1276,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x118d", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG U-U"
             }, 
             {
@@ -1143,6 +1285,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x118e", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YU-A"
             }, 
             {
@@ -1151,6 +1294,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x118f", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YU-EO"
             }, 
             {
@@ -1159,6 +1303,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1190", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YU-E"
             }, 
             {
@@ -1167,6 +1312,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1191", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YU-YEO"
             }, 
             {
@@ -1175,6 +1321,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1192", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YU-YE"
             }, 
             {
@@ -1183,6 +1330,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1193", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YU-U"
             }, 
             {
@@ -1191,6 +1339,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1194", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YU-I"
             }, 
             {
@@ -1199,6 +1348,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1195", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG EU-U"
             }, 
             {
@@ -1207,6 +1357,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1196", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG EU-EU"
             }, 
             {
@@ -1215,6 +1366,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1197", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YI-U"
             }, 
             {
@@ -1223,6 +1375,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1198", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG I-A"
             }, 
             {
@@ -1231,6 +1384,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x1199", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG I-YA"
             }, 
             {
@@ -1239,6 +1393,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x119a", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG I-O"
             }, 
             {
@@ -1247,6 +1402,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x119b", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG I-U"
             }, 
             {
@@ -1255,6 +1411,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x119c", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG I-EU"
             }, 
             {
@@ -1263,6 +1420,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x119d", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG I-ARAEA"
             }, 
             {
@@ -1271,6 +1429,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x119e", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG ARAEA"
             }, 
             {
@@ -1279,6 +1438,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x119f", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG ARAEA-EO"
             }, 
             {
@@ -1287,6 +1447,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x11a0", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG ARAEA-U"
             }, 
             {
@@ -1295,6 +1456,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x11a1", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG ARAEA-I"
             }, 
             {
@@ -1303,6 +1465,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x11a2", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG SSANGARAEA"
             }, 
             {
@@ -1311,6 +1474,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x11a3", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG A-EU"
             }, 
             {
@@ -1319,6 +1483,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x11a4", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YA-U"
             }, 
             {
@@ -1327,6 +1492,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x11a5", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG YEO-YA"
             }, 
             {
@@ -1335,6 +1501,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x11a6", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG O-YA"
             }, 
             {
@@ -1343,6 +1510,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0x11a7", 
+                "description": "", 
                 "title": "HANGUL JUNGSEONG O-YAE"
             }, 
             {
@@ -1351,6 +1519,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11a8", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KIYEOK"
             }, 
             {
@@ -1359,6 +1528,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11a9", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG SSANGKIYEOK"
             }, 
             {
@@ -1367,6 +1537,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11aa", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KIYEOK-SIOS"
             }, 
             {
@@ -1375,6 +1546,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ab", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG NIEUN"
             }, 
             {
@@ -1383,6 +1555,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ac", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG NIEUN-CIEUC"
             }, 
             {
@@ -1391,6 +1564,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ad", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG NIEUN-HIEUH"
             }, 
             {
@@ -1399,6 +1573,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ae", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG TIKEUT"
             }, 
             {
@@ -1407,6 +1582,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11af", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL"
             }, 
             {
@@ -1415,6 +1591,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11b0", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-KIYEOK"
             }, 
             {
@@ -1423,6 +1600,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11b1", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-MIEUM"
             }, 
             {
@@ -1431,6 +1609,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11b2", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-PIEUP"
             }, 
             {
@@ -1439,6 +1618,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11b3", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-SIOS"
             }, 
             {
@@ -1447,6 +1627,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11b4", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-THIEUTH"
             }, 
             {
@@ -1455,6 +1636,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11b5", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-PHIEUPH"
             }, 
             {
@@ -1463,6 +1645,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11b6", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-HIEUH"
             }, 
             {
@@ -1471,6 +1654,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11b7", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG MIEUM"
             }, 
             {
@@ -1479,6 +1663,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11b8", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG PIEUP"
             }, 
             {
@@ -1487,6 +1672,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11b9", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG PIEUP-SIOS"
             }, 
             {
@@ -1495,6 +1681,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ba", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG SIOS"
             }, 
             {
@@ -1503,6 +1690,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11bb", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG SSANGSIOS"
             }, 
             {
@@ -1511,6 +1699,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11bc", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG IEUNG"
             }, 
             {
@@ -1519,6 +1708,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11bd", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG CIEUC"
             }, 
             {
@@ -1527,6 +1717,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11be", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG CHIEUCH"
             }, 
             {
@@ -1535,6 +1726,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11bf", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KHIEUKH"
             }, 
             {
@@ -1543,6 +1735,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11c0", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG THIEUTH"
             }, 
             {
@@ -1551,6 +1744,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11c1", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG PHIEUPH"
             }, 
             {
@@ -1559,6 +1753,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11c2", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG HIEUH"
             }, 
             {
@@ -1567,6 +1762,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11c3", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KIYEOK-RIEUL"
             }, 
             {
@@ -1575,6 +1771,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11c4", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KIYEOK-SIOS-KIYEOK"
             }, 
             {
@@ -1583,6 +1780,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11c5", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG NIEUN-KIYEOK"
             }, 
             {
@@ -1591,6 +1789,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11c6", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG NIEUN-TIKEUT"
             }, 
             {
@@ -1599,6 +1798,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11c7", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG NIEUN-SIOS"
             }, 
             {
@@ -1607,6 +1807,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11c8", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG NIEUN-PANSIOS"
             }, 
             {
@@ -1615,6 +1816,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11c9", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG NIEUN-THIEUTH"
             }, 
             {
@@ -1623,6 +1825,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ca", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG TIKEUT-KIYEOK"
             }, 
             {
@@ -1631,6 +1834,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11cb", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG TIKEUT-RIEUL"
             }, 
             {
@@ -1639,6 +1843,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11cc", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-KIYEOK-SIOS"
             }, 
             {
@@ -1647,6 +1852,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11cd", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-NIEUN"
             }, 
             {
@@ -1655,6 +1861,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ce", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-TIKEUT"
             }, 
             {
@@ -1663,6 +1870,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11cf", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-TIKEUT-HIEUH"
             }, 
             {
@@ -1671,6 +1879,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11d0", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG SSANGRIEUL"
             }, 
             {
@@ -1679,6 +1888,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11d1", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-MIEUM-KIYEOK"
             }, 
             {
@@ -1687,6 +1897,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11d2", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-MIEUM-SIOS"
             }, 
             {
@@ -1695,6 +1906,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11d3", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-PIEUP-SIOS"
             }, 
             {
@@ -1703,6 +1915,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11d4", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-PIEUP-HIEUH"
             }, 
             {
@@ -1711,6 +1924,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11d5", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-KAPYEOUNPIEUP"
             }, 
             {
@@ -1719,6 +1933,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11d6", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-SSANGSIOS"
             }, 
             {
@@ -1727,6 +1942,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11d7", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-PANSIOS"
             }, 
             {
@@ -1735,6 +1951,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11d8", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-KHIEUKH"
             }, 
             {
@@ -1743,6 +1960,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11d9", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG RIEUL-YEORINHIEUH"
             }, 
             {
@@ -1751,6 +1969,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11da", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG MIEUM-KIYEOK"
             }, 
             {
@@ -1759,6 +1978,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11db", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG MIEUM-RIEUL"
             }, 
             {
@@ -1767,6 +1987,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11dc", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG MIEUM-PIEUP"
             }, 
             {
@@ -1775,6 +1996,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11dd", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG MIEUM-SIOS"
             }, 
             {
@@ -1783,6 +2005,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11de", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG MIEUM-SSANGSIOS"
             }, 
             {
@@ -1791,6 +2014,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11df", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG MIEUM-PANSIOS"
             }, 
             {
@@ -1799,6 +2023,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11e0", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG MIEUM-CHIEUCH"
             }, 
             {
@@ -1807,6 +2032,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11e1", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG MIEUM-HIEUH"
             }, 
             {
@@ -1815,6 +2041,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11e2", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KAPYEOUNMIEUM"
             }, 
             {
@@ -1823,6 +2050,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11e3", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG PIEUP-RIEUL"
             }, 
             {
@@ -1831,6 +2059,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11e4", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG PIEUP-PHIEUPH"
             }, 
             {
@@ -1839,6 +2068,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11e5", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG PIEUP-HIEUH"
             }, 
             {
@@ -1847,6 +2077,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11e6", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KAPYEOUNPIEUP"
             }, 
             {
@@ -1855,6 +2086,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11e7", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG SIOS-KIYEOK"
             }, 
             {
@@ -1863,6 +2095,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11e8", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG SIOS-TIKEUT"
             }, 
             {
@@ -1871,6 +2104,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11e9", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG SIOS-RIEUL"
             }, 
             {
@@ -1879,6 +2113,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ea", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG SIOS-PIEUP"
             }, 
             {
@@ -1887,6 +2122,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11eb", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG PANSIOS"
             }, 
             {
@@ -1895,6 +2131,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ec", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG IEUNG-KIYEOK"
             }, 
             {
@@ -1903,6 +2140,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ed", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG IEUNG-SSANGKIYEOK"
             }, 
             {
@@ -1911,6 +2149,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ee", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG SSANGIEUNG"
             }, 
             {
@@ -1919,6 +2158,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11ef", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG IEUNG-KHIEUKH"
             }, 
             {
@@ -1927,6 +2167,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11f0", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG YESIEUNG"
             }, 
             {
@@ -1935,6 +2176,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11f1", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG YESIEUNG-SIOS"
             }, 
             {
@@ -1943,6 +2185,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11f2", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG YESIEUNG-PANSIOS"
             }, 
             {
@@ -1951,6 +2194,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11f3", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG PHIEUPH-PIEUP"
             }, 
             {
@@ -1959,6 +2203,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11f4", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KAPYEOUNPHIEUPH"
             }, 
             {
@@ -1967,6 +2212,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11f5", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG HIEUH-NIEUN"
             }, 
             {
@@ -1975,6 +2221,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11f6", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG HIEUH-RIEUL"
             }, 
             {
@@ -1983,6 +2230,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11f7", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG HIEUH-MIEUM"
             }, 
             {
@@ -1991,6 +2239,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11f8", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG HIEUH-PIEUP"
             }, 
             {
@@ -1999,6 +2248,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11f9", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG YEORINHIEUH"
             }, 
             {
@@ -2007,6 +2257,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11fa", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KIYEOK-NIEUN"
             }, 
             {
@@ -2015,6 +2266,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11fb", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KIYEOK-PIEUP"
             }, 
             {
@@ -2023,6 +2275,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11fc", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KIYEOK-CHIEUCH"
             }, 
             {
@@ -2031,6 +2284,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11fd", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KIYEOK-KHIEUKH"
             }, 
             {
@@ -2039,6 +2293,7 @@
                 "cat3": "Final", 
                 "cat4": "", 
                 "charcode": "0x11fe", 
+                "description": "", 
                 "title": "HANGUL JONGSEONG KIYEOK-HIEUH"
             }
         ], 

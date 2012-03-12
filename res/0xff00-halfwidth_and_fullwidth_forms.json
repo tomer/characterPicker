@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff01", 
+                "description": "", 
                 "title": "FULLWIDTH EXCLAMATION MARK"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff02", 
+                "description": "", 
                 "title": "FULLWIDTH QUOTATION MARK"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff03", 
+                "description": "", 
                 "title": "FULLWIDTH NUMBER SIGN"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff04", 
+                "description": "", 
                 "title": "FULLWIDTH DOLLAR SIGN"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff05", 
+                "description": "", 
                 "title": "FULLWIDTH PERCENT SIGN"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff06", 
+                "description": "", 
                 "title": "FULLWIDTH AMPERSAND"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff07", 
+                "description": "", 
                 "title": "FULLWIDTH APOSTROPHE"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff08", 
+                "description": "FULLWIDTH OPENING PARENTHESIS", 
                 "title": "FULLWIDTH LEFT PARENTHESIS"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff09", 
+                "description": "FULLWIDTH CLOSING PARENTHESIS", 
                 "title": "FULLWIDTH RIGHT PARENTHESIS"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff0a", 
+                "description": "", 
                 "title": "FULLWIDTH ASTERISK"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0xff0b", 
+                "description": "", 
                 "title": "FULLWIDTH PLUS SIGN"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff0c", 
+                "description": "", 
                 "title": "FULLWIDTH COMMA"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff0d", 
+                "description": "", 
                 "title": "FULLWIDTH HYPHEN-MINUS"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff0e", 
+                "description": "FULLWIDTH PERIOD", 
                 "title": "FULLWIDTH FULL STOP"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff0f", 
+                "description": "FULLWIDTH SLASH", 
                 "title": "FULLWIDTH SOLIDUS"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff10", 
+                "description": "", 
                 "title": "FULLWIDTH DIGIT ZERO"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff11", 
+                "description": "", 
                 "title": "FULLWIDTH DIGIT ONE"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff12", 
+                "description": "", 
                 "title": "FULLWIDTH DIGIT TWO"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff13", 
+                "description": "", 
                 "title": "FULLWIDTH DIGIT THREE"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff14", 
+                "description": "", 
                 "title": "FULLWIDTH DIGIT FOUR"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff15", 
+                "description": "", 
                 "title": "FULLWIDTH DIGIT FIVE"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff16", 
+                "description": "", 
                 "title": "FULLWIDTH DIGIT SIX"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff17", 
+                "description": "", 
                 "title": "FULLWIDTH DIGIT SEVEN"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff18", 
+                "description": "", 
                 "title": "FULLWIDTH DIGIT EIGHT"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff19", 
+                "description": "", 
                 "title": "FULLWIDTH DIGIT NINE"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff1a", 
+                "description": "", 
                 "title": "FULLWIDTH COLON"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff1b", 
+                "description": "", 
                 "title": "FULLWIDTH SEMICOLON"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0xff1c", 
+                "description": "", 
                 "title": "FULLWIDTH LESS-THAN SIGN"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0xff1d", 
+                "description": "", 
                 "title": "FULLWIDTH EQUALS SIGN"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0xff1e", 
+                "description": "", 
                 "title": "FULLWIDTH GREATER-THAN SIGN"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff1f", 
+                "description": "", 
                 "title": "FULLWIDTH QUESTION MARK"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff20", 
+                "description": "", 
                 "title": "FULLWIDTH COMMERCIAL AT"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff21", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER A"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff22", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER B"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff23", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER C"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff24", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER D"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff25", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER E"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff26", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER F"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff27", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER G"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff28", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER H"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff29", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER I"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff2a", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER J"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff2b", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER K"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff2c", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER L"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff2d", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER M"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff2e", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER N"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff2f", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER O"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff30", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER P"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff31", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER Q"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff32", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER R"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff33", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER S"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff34", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER T"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff35", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER U"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff36", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER V"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff37", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER W"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff38", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER X"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff39", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER Y"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff3a", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN CAPITAL LETTER Z"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff3b", 
+                "description": "FULLWIDTH OPENING SQUARE BRACKET", 
                 "title": "FULLWIDTH LEFT SQUARE BRACKET"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff3c", 
+                "description": "FULLWIDTH BACKSLASH", 
                 "title": "FULLWIDTH REVERSE SOLIDUS"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff3d", 
+                "description": "FULLWIDTH CLOSING SQUARE BRACKET", 
                 "title": "FULLWIDTH RIGHT SQUARE BRACKET"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff3e", 
+                "description": "FULLWIDTH SPACING CIRCUMFLEX", 
                 "title": "FULLWIDTH CIRCUMFLEX ACCENT"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff3f", 
+                "description": "FULLWIDTH SPACING UNDERSCORE", 
                 "title": "FULLWIDTH LOW LINE"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff40", 
+                "description": "FULLWIDTH SPACING GRAVE", 
                 "title": "FULLWIDTH GRAVE ACCENT"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff41", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER A"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff42", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER B"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff43", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER C"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff44", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER D"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff45", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER E"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff46", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER F"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff47", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER G"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff48", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER H"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff49", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER I"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff4a", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER J"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff4b", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER K"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff4c", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER L"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff4d", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER M"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff4e", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER N"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff4f", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER O"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff50", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER P"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff51", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER Q"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff52", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER R"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff53", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER S"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff54", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER T"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff55", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER U"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff56", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER V"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff57", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER W"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff58", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER X"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff59", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER Y"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff5a", 
+                "description": "", 
                 "title": "FULLWIDTH LATIN SMALL LETTER Z"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff5b", 
+                "description": "FULLWIDTH OPENING CURLY BRACKET", 
                 "title": "FULLWIDTH LEFT CURLY BRACKET"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff5c", 
+                "description": "FULLWIDTH VERTICAL BAR", 
                 "title": "FULLWIDTH VERTICAL LINE"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff5d", 
+                "description": "FULLWIDTH CLOSING CURLY BRACKET", 
                 "title": "FULLWIDTH RIGHT CURLY BRACKET"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff5e", 
+                "description": "FULLWIDTH SPACING TILDE", 
                 "title": "FULLWIDTH TILDE"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "CJK", 
                 "cat4": "", 
                 "charcode": "0xff5f", 
+                "description": "", 
                 "title": "FULLWIDTH LEFT WHITE PARENTHESIS"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "CJK", 
                 "cat4": "", 
                 "charcode": "0xff60", 
+                "description": "", 
                 "title": "FULLWIDTH RIGHT WHITE PARENTHESIS"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff61", 
+                "description": "HALFWIDTH IDEOGRAPHIC PERIOD", 
                 "title": "HALFWIDTH IDEOGRAPHIC FULL STOP"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "CJK", 
                 "cat4": "Corner", 
                 "charcode": "0xff62", 
+                "description": "HALFWIDTH OPENING CORNER BRACKET", 
                 "title": "HALFWIDTH LEFT CORNER BRACKET"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "CJK", 
                 "cat4": "Corner", 
                 "charcode": "0xff63", 
+                "description": "HALFWIDTH CLOSING CORNER BRACKET", 
                 "title": "HALFWIDTH RIGHT CORNER BRACKET"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff64", 
+                "description": "", 
                 "title": "HALFWIDTH IDEOGRAPHIC COMMA"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff65", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA MIDDLE DOT"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff66", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER WO"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff67", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SMALL A"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff68", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SMALL I"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff69", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SMALL U"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff6a", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SMALL E"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff6b", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SMALL O"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff6c", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SMALL YA"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff6d", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SMALL YU"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff6e", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SMALL YO"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff6f", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SMALL TU"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "Length", 
                 "cat4": "", 
                 "charcode": "0xff70", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA-HIRAGANA PROLONGED SOUND MARK"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff71", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER A"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff72", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER I"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff73", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER U"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff74", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER E"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff75", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER O"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff76", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER KA"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff77", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER KI"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff78", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER KU"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff79", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER KE"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff7a", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER KO"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff7b", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SA"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff7c", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SI"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff7d", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SU"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff7e", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SE"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff7f", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER SO"
             }, 
             {
@@ -1023,6 +1150,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff80", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER TA"
             }, 
             {
@@ -1031,6 +1159,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff81", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER TI"
             }, 
             {
@@ -1039,6 +1168,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff82", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER TU"
             }, 
             {
@@ -1047,6 +1177,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff83", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER TE"
             }, 
             {
@@ -1055,6 +1186,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff84", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER TO"
             }, 
             {
@@ -1063,6 +1195,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff85", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER NA"
             }, 
             {
@@ -1071,6 +1204,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff86", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER NI"
             }, 
             {
@@ -1079,6 +1213,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff87", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER NU"
             }, 
             {
@@ -1087,6 +1222,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff88", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER NE"
             }, 
             {
@@ -1095,6 +1231,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff89", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER NO"
             }, 
             {
@@ -1103,6 +1240,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff8a", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER HA"
             }, 
             {
@@ -1111,6 +1249,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff8b", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER HI"
             }, 
             {
@@ -1119,6 +1258,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff8c", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER HU"
             }, 
             {
@@ -1127,6 +1267,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff8d", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER HE"
             }, 
             {
@@ -1135,6 +1276,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff8e", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER HO"
             }, 
             {
@@ -1143,6 +1285,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff8f", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER MA"
             }, 
             {
@@ -1151,6 +1294,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff90", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER MI"
             }, 
             {
@@ -1159,6 +1303,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff91", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER MU"
             }, 
             {
@@ -1167,6 +1312,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff92", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER ME"
             }, 
             {
@@ -1175,6 +1321,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff93", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER MO"
             }, 
             {
@@ -1183,6 +1330,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff94", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER YA"
             }, 
             {
@@ -1191,6 +1339,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff95", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER YU"
             }, 
             {
@@ -1199,6 +1348,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff96", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER YO"
             }, 
             {
@@ -1207,6 +1357,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff97", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER RA"
             }, 
             {
@@ -1215,6 +1366,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff98", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER RI"
             }, 
             {
@@ -1223,6 +1375,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff99", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER RU"
             }, 
             {
@@ -1231,6 +1384,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff9a", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER RE"
             }, 
             {
@@ -1239,6 +1393,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff9b", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER RO"
             }, 
             {
@@ -1247,6 +1402,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff9c", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER WA"
             }, 
             {
@@ -1255,6 +1411,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff9d", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA LETTER N"
             }, 
             {
@@ -1263,6 +1420,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff9e", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA VOICED SOUND MARK"
             }, 
             {
@@ -1271,6 +1429,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xff9f", 
+                "description": "", 
                 "title": "HALFWIDTH KATAKANA SEMI-VOICED SOUND MARK"
             }, 
             {
@@ -1279,6 +1438,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffa0", 
+                "description": "HALFWIDTH HANGUL CAE OM", 
                 "title": "HALFWIDTH HANGUL FILLER"
             }, 
             {
@@ -1287,6 +1447,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffa1", 
+                "description": "HALFWIDTH HANGUL LETTER GIYEOG", 
                 "title": "HALFWIDTH HANGUL LETTER KIYEOK"
             }, 
             {
@@ -1295,6 +1456,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffa2", 
+                "description": "HALFWIDTH HANGUL LETTER SSANG GIYEOG", 
                 "title": "HALFWIDTH HANGUL LETTER SSANGKIYEOK"
             }, 
             {
@@ -1303,6 +1465,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffa3", 
+                "description": "HALFWIDTH HANGUL LETTER GIYEOG SIOS", 
                 "title": "HALFWIDTH HANGUL LETTER KIYEOK-SIOS"
             }, 
             {
@@ -1311,6 +1474,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffa4", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER NIEUN"
             }, 
             {
@@ -1319,6 +1483,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffa5", 
+                "description": "HALFWIDTH HANGUL LETTER NIEUN JIEUJ", 
                 "title": "HALFWIDTH HANGUL LETTER NIEUN-CIEUC"
             }, 
             {
@@ -1327,6 +1492,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffa6", 
+                "description": "HALFWIDTH HANGUL LETTER NIEUN HIEUH", 
                 "title": "HALFWIDTH HANGUL LETTER NIEUN-HIEUH"
             }, 
             {
@@ -1335,6 +1501,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffa7", 
+                "description": "HALFWIDTH HANGUL LETTER DIGEUD", 
                 "title": "HALFWIDTH HANGUL LETTER TIKEUT"
             }, 
             {
@@ -1343,6 +1510,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffa8", 
+                "description": "HALFWIDTH HANGUL LETTER SSANG DIGEUD", 
                 "title": "HALFWIDTH HANGUL LETTER SSANGTIKEUT"
             }, 
             {
@@ -1351,6 +1519,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffa9", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL", 
                 "title": "HALFWIDTH HANGUL LETTER RIEUL"
             }, 
             {
@@ -1359,6 +1528,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffaa", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL GIYEOG", 
                 "title": "HALFWIDTH HANGUL LETTER RIEUL-KIYEOK"
             }, 
             {
@@ -1367,6 +1537,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffab", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL MIEUM", 
                 "title": "HALFWIDTH HANGUL LETTER RIEUL-MIEUM"
             }, 
             {
@@ -1375,6 +1546,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffac", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL BIEUB", 
                 "title": "HALFWIDTH HANGUL LETTER RIEUL-PIEUP"
             }, 
             {
@@ -1383,6 +1555,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffad", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL SIOS", 
                 "title": "HALFWIDTH HANGUL LETTER RIEUL-SIOS"
             }, 
             {
@@ -1391,6 +1564,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffae", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL TIEUT", 
                 "title": "HALFWIDTH HANGUL LETTER RIEUL-THIEUTH"
             }, 
             {
@@ -1399,6 +1573,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffaf", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL PIEUP", 
                 "title": "HALFWIDTH HANGUL LETTER RIEUL-PHIEUPH"
             }, 
             {
@@ -1407,6 +1582,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffb0", 
+                "description": "HALFWIDTH HANGUL LETTER LIEUL HIEUH", 
                 "title": "HALFWIDTH HANGUL LETTER RIEUL-HIEUH"
             }, 
             {
@@ -1415,6 +1591,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffb1", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER MIEUM"
             }, 
             {
@@ -1423,6 +1600,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffb2", 
+                "description": "HALFWIDTH HANGUL LETTER BIEUB", 
                 "title": "HALFWIDTH HANGUL LETTER PIEUP"
             }, 
             {
@@ -1431,6 +1609,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffb3", 
+                "description": "HALFWIDTH HANGUL LETTER SSANG BIEUB", 
                 "title": "HALFWIDTH HANGUL LETTER SSANGPIEUP"
             }, 
             {
@@ -1439,6 +1618,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffb4", 
+                "description": "HALFWIDTH HANGUL LETTER BIEUB SIOS", 
                 "title": "HALFWIDTH HANGUL LETTER PIEUP-SIOS"
             }, 
             {
@@ -1447,6 +1627,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffb5", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER SIOS"
             }, 
             {
@@ -1455,6 +1636,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffb6", 
+                "description": "HALFWIDTH HANGUL LETTER SSANG SIOS", 
                 "title": "HALFWIDTH HANGUL LETTER SSANGSIOS"
             }, 
             {
@@ -1463,6 +1645,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffb7", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER IEUNG"
             }, 
             {
@@ -1471,6 +1654,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffb8", 
+                "description": "HALFWIDTH HANGUL LETTER JIEUJ", 
                 "title": "HALFWIDTH HANGUL LETTER CIEUC"
             }, 
             {
@@ -1479,6 +1663,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffb9", 
+                "description": "HALFWIDTH HANGUL LETTER SSANG JIEUJ", 
                 "title": "HALFWIDTH HANGUL LETTER SSANGCIEUC"
             }, 
             {
@@ -1487,6 +1672,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffba", 
+                "description": "HALFWIDTH HANGUL LETTER CIEUC", 
                 "title": "HALFWIDTH HANGUL LETTER CHIEUCH"
             }, 
             {
@@ -1495,6 +1681,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffbb", 
+                "description": "HALFWIDTH HANGUL LETTER KIYEOK", 
                 "title": "HALFWIDTH HANGUL LETTER KHIEUKH"
             }, 
             {
@@ -1503,6 +1690,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffbc", 
+                "description": "HALFWIDTH HANGUL LETTER TIEUT", 
                 "title": "HALFWIDTH HANGUL LETTER THIEUTH"
             }, 
             {
@@ -1511,6 +1699,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffbd", 
+                "description": "HALFWIDTH HANGUL LETTER PIEUP", 
                 "title": "HALFWIDTH HANGUL LETTER PHIEUPH"
             }, 
             {
@@ -1519,6 +1708,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffbe", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER HIEUH"
             }, 
             {
@@ -1527,6 +1717,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffc2", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER A"
             }, 
             {
@@ -1535,6 +1726,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffc3", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER AE"
             }, 
             {
@@ -1543,6 +1735,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffc4", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER YA"
             }, 
             {
@@ -1551,6 +1744,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffc5", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER YAE"
             }, 
             {
@@ -1559,6 +1753,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffc6", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER EO"
             }, 
             {
@@ -1567,6 +1762,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffc7", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER E"
             }, 
             {
@@ -1575,6 +1771,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffca", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER YEO"
             }, 
             {
@@ -1583,6 +1780,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffcb", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER YE"
             }, 
             {
@@ -1591,6 +1789,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffcc", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER O"
             }, 
             {
@@ -1599,6 +1798,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffcd", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER WA"
             }, 
             {
@@ -1607,6 +1807,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffce", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER WAE"
             }, 
             {
@@ -1615,6 +1816,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffcf", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER OE"
             }, 
             {
@@ -1623,6 +1825,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffd2", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER YO"
             }, 
             {
@@ -1631,6 +1834,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffd3", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER U"
             }, 
             {
@@ -1639,6 +1843,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffd4", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER WEO"
             }, 
             {
@@ -1647,6 +1852,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffd5", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER WE"
             }, 
             {
@@ -1655,6 +1861,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffd6", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER WI"
             }, 
             {
@@ -1663,6 +1870,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffd7", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER YU"
             }, 
             {
@@ -1671,6 +1879,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffda", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER EU"
             }, 
             {
@@ -1679,6 +1888,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffdb", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER YI"
             }, 
             {
@@ -1687,6 +1897,7 @@
                 "cat3": "Medial", 
                 "cat4": "", 
                 "charcode": "0xffdc", 
+                "description": "", 
                 "title": "HALFWIDTH HANGUL LETTER I"
             }, 
             {
@@ -1695,6 +1906,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffe0", 
+                "description": "", 
                 "title": "FULLWIDTH CENT SIGN"
             }, 
             {
@@ -1703,6 +1915,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffe1", 
+                "description": "", 
                 "title": "FULLWIDTH POUND SIGN"
             }, 
             {
@@ -1711,6 +1924,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffe2", 
+                "description": "", 
                 "title": "FULLWIDTH NOT SIGN"
             }, 
             {
@@ -1719,6 +1933,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffe3", 
+                "description": "FULLWIDTH SPACING MACRON", 
                 "title": "FULLWIDTH MACRON"
             }, 
             {
@@ -1727,6 +1942,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffe4", 
+                "description": "FULLWIDTH BROKEN VERTICAL BAR", 
                 "title": "FULLWIDTH BROKEN BAR"
             }, 
             {
@@ -1735,6 +1951,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffe5", 
+                "description": "", 
                 "title": "FULLWIDTH YEN SIGN"
             }, 
             {
@@ -1743,6 +1960,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffe6", 
+                "description": "", 
                 "title": "FULLWIDTH WON SIGN"
             }, 
             {
@@ -1751,6 +1969,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0xffe8", 
+                "description": "", 
                 "title": "HALFWIDTH FORMS LIGHT VERTICAL"
             }, 
             {
@@ -1759,6 +1978,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffe9", 
+                "description": "", 
                 "title": "HALFWIDTH LEFTWARDS ARROW"
             }, 
             {
@@ -1767,6 +1987,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffea", 
+                "description": "", 
                 "title": "HALFWIDTH UPWARDS ARROW"
             }, 
             {
@@ -1775,6 +1996,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffeb", 
+                "description": "", 
                 "title": "HALFWIDTH RIGHTWARDS ARROW"
             }, 
             {
@@ -1783,6 +2005,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffec", 
+                "description": "", 
                 "title": "HALFWIDTH DOWNWARDS ARROW"
             }, 
             {
@@ -1791,6 +2014,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffed", 
+                "description": "", 
                 "title": "HALFWIDTH BLACK SQUARE"
             }, 
             {
@@ -1799,6 +2023,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xffee", 
+                "description": "", 
                 "title": "HALFWIDTH WHITE CIRCLE"
             }
         ], 

@@ -3,10 +3,12 @@
         "content": [
             {
                 "charcode": "0xac00", 
+                "description": "", 
                 "title": "<Hangul Syllable, First>"
             }, 
             {
                 "charcode": "0xd7a3", 
+                "description": "", 
                 "title": "<Hangul Syllable, Last>"
             }
         ], 

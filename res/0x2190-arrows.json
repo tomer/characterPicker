@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2190", 
+                "description": "LEFT ARROW", 
                 "title": "LEFTWARDS ARROW"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2191", 
+                "description": "UP ARROW", 
                 "title": "UPWARDS ARROW"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2192", 
+                "description": "RIGHT ARROW", 
                 "title": "RIGHTWARDS ARROW"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2193", 
+                "description": "DOWN ARROW", 
                 "title": "DOWNWARDS ARROW"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2194", 
+                "description": "", 
                 "title": "LEFT RIGHT ARROW"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2195", 
+                "description": "", 
                 "title": "UP DOWN ARROW"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2196", 
+                "description": "UPPER LEFT ARROW", 
                 "title": "NORTH WEST ARROW"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2197", 
+                "description": "UPPER RIGHT ARROW", 
                 "title": "NORTH EAST ARROW"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2198", 
+                "description": "LOWER RIGHT ARROW", 
                 "title": "SOUTH EAST ARROW"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2199", 
+                "description": "LOWER LEFT ARROW", 
                 "title": "SOUTH WEST ARROW"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x219a", 
+                "description": "LEFT ARROW WITH STROKE", 
                 "title": "LEFTWARDS ARROW WITH STROKE"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x219b", 
+                "description": "RIGHT ARROW WITH STROKE", 
                 "title": "RIGHTWARDS ARROW WITH STROKE"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x219c", 
+                "description": "LEFT WAVE ARROW", 
                 "title": "LEFTWARDS WAVE ARROW"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x219d", 
+                "description": "RIGHT WAVE ARROW", 
                 "title": "RIGHTWARDS WAVE ARROW"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x219e", 
+                "description": "LEFT TWO HEADED ARROW", 
                 "title": "LEFTWARDS TWO HEADED ARROW"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x219f", 
+                "description": "UP TWO HEADED ARROW", 
                 "title": "UPWARDS TWO HEADED ARROW"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21a0", 
+                "description": "RIGHT TWO HEADED ARROW", 
                 "title": "RIGHTWARDS TWO HEADED ARROW"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21a1", 
+                "description": "DOWN TWO HEADED ARROW", 
                 "title": "DOWNWARDS TWO HEADED ARROW"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21a2", 
+                "description": "LEFT ARROW WITH TAIL", 
                 "title": "LEFTWARDS ARROW WITH TAIL"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21a3", 
+                "description": "RIGHT ARROW WITH TAIL", 
                 "title": "RIGHTWARDS ARROW WITH TAIL"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21a4", 
+                "description": "LEFT ARROW FROM BAR", 
                 "title": "LEFTWARDS ARROW FROM BAR"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21a5", 
+                "description": "UP ARROW FROM BAR", 
                 "title": "UPWARDS ARROW FROM BAR"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21a6", 
+                "description": "RIGHT ARROW FROM BAR", 
                 "title": "RIGHTWARDS ARROW FROM BAR"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21a7", 
+                "description": "DOWN ARROW FROM BAR", 
                 "title": "DOWNWARDS ARROW FROM BAR"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21a8", 
+                "description": "", 
                 "title": "UP DOWN ARROW WITH BASE"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21a9", 
+                "description": "LEFT ARROW WITH HOOK", 
                 "title": "LEFTWARDS ARROW WITH HOOK"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21aa", 
+                "description": "RIGHT ARROW WITH HOOK", 
                 "title": "RIGHTWARDS ARROW WITH HOOK"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21ab", 
+                "description": "LEFT ARROW WITH LOOP", 
                 "title": "LEFTWARDS ARROW WITH LOOP"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21ac", 
+                "description": "RIGHT ARROW WITH LOOP", 
                 "title": "RIGHTWARDS ARROW WITH LOOP"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21ad", 
+                "description": "", 
                 "title": "LEFT RIGHT WAVE ARROW"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21ae", 
+                "description": "", 
                 "title": "LEFT RIGHT ARROW WITH STROKE"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21af", 
+                "description": "DOWN ZIGZAG ARROW", 
                 "title": "DOWNWARDS ZIGZAG ARROW"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21b0", 
+                "description": "UP ARROW WITH TIP LEFT", 
                 "title": "UPWARDS ARROW WITH TIP LEFTWARDS"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21b1", 
+                "description": "UP ARROW WITH TIP RIGHT", 
                 "title": "UPWARDS ARROW WITH TIP RIGHTWARDS"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21b2", 
+                "description": "DOWN ARROW WITH TIP LEFT", 
                 "title": "DOWNWARDS ARROW WITH TIP LEFTWARDS"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21b3", 
+                "description": "DOWN ARROW WITH TIP RIGHT", 
                 "title": "DOWNWARDS ARROW WITH TIP RIGHTWARDS"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21b4", 
+                "description": "RIGHT ARROW WITH CORNER DOWN", 
                 "title": "RIGHTWARDS ARROW WITH CORNER DOWNWARDS"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21b5", 
+                "description": "DOWN ARROW WITH CORNER LEFT", 
                 "title": "DOWNWARDS ARROW WITH CORNER LEFTWARDS"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21b6", 
+                "description": "", 
                 "title": "ANTICLOCKWISE TOP SEMICIRCLE ARROW"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21b7", 
+                "description": "", 
                 "title": "CLOCKWISE TOP SEMICIRCLE ARROW"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21b8", 
+                "description": "UPPER LEFT ARROW TO LONG BAR", 
                 "title": "NORTH WEST ARROW TO LONG BAR"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21b9", 
+                "description": "LEFT ARROW TO BAR OVER RIGHT ARROW TO BAR", 
                 "title": "LEFTWARDS ARROW TO BAR OVER RIGHTWARDS ARROW TO BAR"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21ba", 
+                "description": "", 
                 "title": "ANTICLOCKWISE OPEN CIRCLE ARROW"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21bb", 
+                "description": "", 
                 "title": "CLOCKWISE OPEN CIRCLE ARROW"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "Harpoon", 
                 "cat4": "", 
                 "charcode": "0x21bc", 
+                "description": "LEFT HARPOON WITH BARB UP", 
                 "title": "LEFTWARDS HARPOON WITH BARB UPWARDS"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "Harpoon", 
                 "cat4": "", 
                 "charcode": "0x21bd", 
+                "description": "LEFT HARPOON WITH BARB DOWN", 
                 "title": "LEFTWARDS HARPOON WITH BARB DOWNWARDS"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "Harpoon", 
                 "cat4": "", 
                 "charcode": "0x21be", 
+                "description": "UP HARPOON WITH BARB RIGHT", 
                 "title": "UPWARDS HARPOON WITH BARB RIGHTWARDS"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "Harpoon", 
                 "cat4": "", 
                 "charcode": "0x21bf", 
+                "description": "UP HARPOON WITH BARB LEFT", 
                 "title": "UPWARDS HARPOON WITH BARB LEFTWARDS"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "Harpoon", 
                 "cat4": "", 
                 "charcode": "0x21c0", 
+                "description": "RIGHT HARPOON WITH BARB UP", 
                 "title": "RIGHTWARDS HARPOON WITH BARB UPWARDS"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "Harpoon", 
                 "cat4": "", 
                 "charcode": "0x21c1", 
+                "description": "RIGHT HARPOON WITH BARB DOWN", 
                 "title": "RIGHTWARDS HARPOON WITH BARB DOWNWARDS"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "Harpoon", 
                 "cat4": "", 
                 "charcode": "0x21c2", 
+                "description": "DOWN HARPOON WITH BARB RIGHT", 
                 "title": "DOWNWARDS HARPOON WITH BARB RIGHTWARDS"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "Harpoon", 
                 "cat4": "", 
                 "charcode": "0x21c3", 
+                "description": "DOWN HARPOON WITH BARB LEFT", 
                 "title": "DOWNWARDS HARPOON WITH BARB LEFTWARDS"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21c4", 
+                "description": "RIGHT ARROW OVER LEFT ARROW", 
                 "title": "RIGHTWARDS ARROW OVER LEFTWARDS ARROW"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21c5", 
+                "description": "UP ARROW LEFT OF DOWN ARROW", 
                 "title": "UPWARDS ARROW LEFTWARDS OF DOWNWARDS ARROW"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21c6", 
+                "description": "LEFT ARROW OVER RIGHT ARROW", 
                 "title": "LEFTWARDS ARROW OVER RIGHTWARDS ARROW"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21c7", 
+                "description": "LEFT PAIRED ARROWS", 
                 "title": "LEFTWARDS PAIRED ARROWS"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21c8", 
+                "description": "UP PAIRED ARROWS", 
                 "title": "UPWARDS PAIRED ARROWS"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21c9", 
+                "description": "RIGHT PAIRED ARROWS", 
                 "title": "RIGHTWARDS PAIRED ARROWS"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21ca", 
+                "description": "DOWN PAIRED ARROWS", 
                 "title": "DOWNWARDS PAIRED ARROWS"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "Harpoon", 
                 "cat4": "", 
                 "charcode": "0x21cb", 
+                "description": "LEFT HARPOON OVER RIGHT HARPOON", 
                 "title": "LEFTWARDS HARPOON OVER RIGHTWARDS HARPOON"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "Harpoon", 
                 "cat4": "", 
                 "charcode": "0x21cc", 
+                "description": "RIGHT HARPOON OVER LEFT HARPOON", 
                 "title": "RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21cd", 
+                "description": "LEFT DOUBLE ARROW WITH STROKE", 
                 "title": "LEFTWARDS DOUBLE ARROW WITH STROKE"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21ce", 
+                "description": "", 
                 "title": "LEFT RIGHT DOUBLE ARROW WITH STROKE"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21cf", 
+                "description": "RIGHT DOUBLE ARROW WITH STROKE", 
                 "title": "RIGHTWARDS DOUBLE ARROW WITH STROKE"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21d0", 
+                "description": "LEFT DOUBLE ARROW", 
                 "title": "LEFTWARDS DOUBLE ARROW"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21d1", 
+                "description": "UP DOUBLE ARROW", 
                 "title": "UPWARDS DOUBLE ARROW"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21d2", 
+                "description": "RIGHT DOUBLE ARROW", 
                 "title": "RIGHTWARDS DOUBLE ARROW"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21d3", 
+                "description": "DOWN DOUBLE ARROW", 
                 "title": "DOWNWARDS DOUBLE ARROW"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21d4", 
+                "description": "", 
                 "title": "LEFT RIGHT DOUBLE ARROW"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21d5", 
+                "description": "", 
                 "title": "UP DOWN DOUBLE ARROW"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21d6", 
+                "description": "UPPER LEFT DOUBLE ARROW", 
                 "title": "NORTH WEST DOUBLE ARROW"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21d7", 
+                "description": "UPPER RIGHT DOUBLE ARROW", 
                 "title": "NORTH EAST DOUBLE ARROW"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21d8", 
+                "description": "LOWER RIGHT DOUBLE ARROW", 
                 "title": "SOUTH EAST DOUBLE ARROW"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "Double", 
                 "cat4": "", 
                 "charcode": "0x21d9", 
+                "description": "LOWER LEFT DOUBLE ARROW", 
                 "title": "SOUTH WEST DOUBLE ARROW"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21da", 
+                "description": "LEFT TRIPLE ARROW", 
                 "title": "LEFTWARDS TRIPLE ARROW"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21db", 
+                "description": "RIGHT TRIPLE ARROW", 
                 "title": "RIGHTWARDS TRIPLE ARROW"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21dc", 
+                "description": "LEFT SQUIGGLE ARROW", 
                 "title": "LEFTWARDS SQUIGGLE ARROW"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21dd", 
+                "description": "RIGHT SQUIGGLE ARROW", 
                 "title": "RIGHTWARDS SQUIGGLE ARROW"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21de", 
+                "description": "UP ARROW WITH DOUBLE STROKE", 
                 "title": "UPWARDS ARROW WITH DOUBLE STROKE"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21df", 
+                "description": "DOWN ARROW WITH DOUBLE STROKE", 
                 "title": "DOWNWARDS ARROW WITH DOUBLE STROKE"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21e0", 
+                "description": "LEFT DASHED ARROW", 
                 "title": "LEFTWARDS DASHED ARROW"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21e1", 
+                "description": "UP DASHED ARROW", 
                 "title": "UPWARDS DASHED ARROW"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21e2", 
+                "description": "RIGHT DASHED ARROW", 
                 "title": "RIGHTWARDS DASHED ARROW"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21e3", 
+                "description": "DOWN DASHED ARROW", 
                 "title": "DOWNWARDS DASHED ARROW"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21e4", 
+                "description": "LEFT ARROW TO BAR", 
                 "title": "LEFTWARDS ARROW TO BAR"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21e5", 
+                "description": "RIGHT ARROW TO BAR", 
                 "title": "RIGHTWARDS ARROW TO BAR"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21e6", 
+                "description": "WHITE LEFT ARROW", 
                 "title": "LEFTWARDS WHITE ARROW"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21e7", 
+                "description": "WHITE UP ARROW", 
                 "title": "UPWARDS WHITE ARROW"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21e8", 
+                "description": "WHITE RIGHT ARROW", 
                 "title": "RIGHTWARDS WHITE ARROW"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21e9", 
+                "description": "WHITE DOWN ARROW", 
                 "title": "DOWNWARDS WHITE ARROW"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21ea", 
+                "description": "WHITE UP ARROW FROM BAR", 
                 "title": "UPWARDS WHITE ARROW FROM BAR"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21eb", 
+                "description": "", 
                 "title": "UPWARDS WHITE ARROW ON PEDESTAL"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21ec", 
+                "description": "", 
                 "title": "UPWARDS WHITE ARROW ON PEDESTAL WITH HORIZONTAL BAR"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21ed", 
+                "description": "", 
                 "title": "UPWARDS WHITE ARROW ON PEDESTAL WITH VERTICAL BAR"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21ee", 
+                "description": "", 
                 "title": "UPWARDS WHITE DOUBLE ARROW"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21ef", 
+                "description": "", 
                 "title": "UPWARDS WHITE DOUBLE ARROW ON PEDESTAL"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21f0", 
+                "description": "", 
                 "title": "RIGHTWARDS WHITE ARROW FROM WALL"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21f1", 
+                "description": "", 
                 "title": "NORTH WEST ARROW TO CORNER"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21f2", 
+                "description": "", 
                 "title": "SOUTH EAST ARROW TO CORNER"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21f3", 
+                "description": "", 
                 "title": "UP DOWN WHITE ARROW"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21f4", 
+                "description": "", 
                 "title": "RIGHT ARROW WITH SMALL CIRCLE"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21f5", 
+                "description": "", 
                 "title": "DOWNWARDS ARROW LEFTWARDS OF UPWARDS ARROW"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21f6", 
+                "description": "", 
                 "title": "THREE RIGHTWARDS ARROWS"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21f7", 
+                "description": "", 
                 "title": "LEFTWARDS ARROW WITH VERTICAL STROKE"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21f8", 
+                "description": "", 
                 "title": "RIGHTWARDS ARROW WITH VERTICAL STROKE"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21f9", 
+                "description": "", 
                 "title": "LEFT RIGHT ARROW WITH VERTICAL STROKE"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21fa", 
+                "description": "", 
                 "title": "LEFTWARDS ARROW WITH DOUBLE VERTICAL STROKE"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21fb", 
+                "description": "", 
                 "title": "RIGHTWARDS ARROW WITH DOUBLE VERTICAL STROKE"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21fc", 
+                "description": "", 
                 "title": "LEFT RIGHT ARROW WITH DOUBLE VERTICAL STROKE"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21fd", 
+                "description": "", 
                 "title": "LEFTWARDS OPEN-HEADED ARROW"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x21fe", 
+                "description": "", 
                 "title": "RIGHTWARDS OPEN-HEADED ARROW"
             }
         ], 

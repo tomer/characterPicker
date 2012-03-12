@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x80", 
+                "description": "", 
                 "title": "<control>"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x81", 
+                "description": "", 
                 "title": "<control>"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x82", 
+                "description": "BREAK PERMITTED HERE", 
                 "title": "<control>"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x83", 
+                "description": "NO BREAK HERE", 
                 "title": "<control>"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x84", 
+                "description": "", 
                 "title": "<control>"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x85", 
+                "description": "NEXT LINE (NEL)", 
                 "title": "<control>"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x86", 
+                "description": "START OF SELECTED AREA", 
                 "title": "<control>"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x87", 
+                "description": "END OF SELECTED AREA", 
                 "title": "<control>"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x88", 
+                "description": "CHARACTER TABULATION SET", 
                 "title": "<control>"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x89", 
+                "description": "CHARACTER TABULATION WITH JUSTIFICATION", 
                 "title": "<control>"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x8a", 
+                "description": "LINE TABULATION SET", 
                 "title": "<control>"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x8b", 
+                "description": "PARTIAL LINE FORWARD", 
                 "title": "<control>"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x8c", 
+                "description": "PARTIAL LINE BACKWARD", 
                 "title": "<control>"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x8d", 
+                "description": "REVERSE LINE FEED", 
                 "title": "<control>"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x8e", 
+                "description": "SINGLE SHIFT TWO", 
                 "title": "<control>"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x8f", 
+                "description": "SINGLE SHIFT THREE", 
                 "title": "<control>"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x90", 
+                "description": "DEVICE CONTROL STRING", 
                 "title": "<control>"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x91", 
+                "description": "PRIVATE USE ONE", 
                 "title": "<control>"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x92", 
+                "description": "PRIVATE USE TWO", 
                 "title": "<control>"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x93", 
+                "description": "SET TRANSMIT STATE", 
                 "title": "<control>"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x94", 
+                "description": "CANCEL CHARACTER", 
                 "title": "<control>"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x95", 
+                "description": "MESSAGE WAITING", 
                 "title": "<control>"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x96", 
+                "description": "START OF GUARDED AREA", 
                 "title": "<control>"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x97", 
+                "description": "END OF GUARDED AREA", 
                 "title": "<control>"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x98", 
+                "description": "START OF STRING", 
                 "title": "<control>"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x99", 
+                "description": "", 
                 "title": "<control>"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x9a", 
+                "description": "SINGLE CHARACTER INTRODUCER", 
                 "title": "<control>"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x9b", 
+                "description": "CONTROL SEQUENCE INTRODUCER", 
                 "title": "<control>"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x9c", 
+                "description": "STRING TERMINATOR", 
                 "title": "<control>"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x9d", 
+                "description": "OPERATING SYSTEM COMMAND", 
                 "title": "<control>"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x9e", 
+                "description": "PRIVACY MESSAGE", 
                 "title": "<control>"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x9f", 
+                "description": "APPLICATION PROGRAM COMMAND", 
                 "title": "<control>"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xa0", 
+                "description": "NON-BREAKING SPACE", 
                 "title": "NO-BREAK SPACE"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xa1", 
+                "description": "", 
                 "title": "INVERTED EXCLAMATION MARK"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xa2", 
+                "description": "", 
                 "title": "CENT SIGN"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xa3", 
+                "description": "", 
                 "title": "POUND SIGN"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xa4", 
+                "description": "", 
                 "title": "CURRENCY SIGN"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xa5", 
+                "description": "", 
                 "title": "YEN SIGN"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xa6", 
+                "description": "BROKEN VERTICAL BAR", 
                 "title": "BROKEN BAR"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xa7", 
+                "description": "", 
                 "title": "SECTION SIGN"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xa8", 
+                "description": "SPACING DIAERESIS", 
                 "title": "DIAERESIS"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xa9", 
+                "description": "", 
                 "title": "COPYRIGHT SIGN"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0xaa", 
+                "description": "", 
                 "title": "FEMININE ORDINAL INDICATOR"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xab", 
+                "description": "LEFT POINTING GUILLEMET", 
                 "title": "LEFT-POINTING DOUBLE ANGLE QUOTATION MARK"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0xac", 
+                "description": "", 
                 "title": "NOT SIGN"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xad", 
+                "description": "", 
                 "title": "SOFT HYPHEN"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xae", 
+                "description": "REGISTERED TRADE MARK SIGN", 
                 "title": "REGISTERED SIGN"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xaf", 
+                "description": "SPACING MACRON", 
                 "title": "MACRON"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xb0", 
+                "description": "", 
                 "title": "DEGREE SIGN"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0xb1", 
+                "description": "PLUS-OR-MINUS SIGN", 
                 "title": "PLUS-MINUS SIGN"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0xb2", 
+                "description": "SUPERSCRIPT DIGIT TWO", 
                 "title": "SUPERSCRIPT TWO"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0xb3", 
+                "description": "SUPERSCRIPT DIGIT THREE", 
                 "title": "SUPERSCRIPT THREE"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xb4", 
+                "description": "SPACING ACUTE", 
                 "title": "ACUTE ACCENT"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xb5", 
+                "description": "", 
                 "title": "MICRO SIGN"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xb6", 
+                "description": "PARAGRAPH SIGN", 
                 "title": "PILCROW SIGN"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xb7", 
+                "description": "", 
                 "title": "MIDDLE DOT"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xb8", 
+                "description": "SPACING CEDILLA", 
                 "title": "CEDILLA"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0xb9", 
+                "description": "SUPERSCRIPT DIGIT ONE", 
                 "title": "SUPERSCRIPT ONE"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0xba", 
+                "description": "", 
                 "title": "MASCULINE ORDINAL INDICATOR"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xbb", 
+                "description": "RIGHT POINTING GUILLEMET", 
                 "title": "RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xbc", 
+                "description": "FRACTION ONE QUARTER", 
                 "title": "VULGAR FRACTION ONE QUARTER"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xbd", 
+                "description": "FRACTION ONE HALF", 
                 "title": "VULGAR FRACTION ONE HALF"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xbe", 
+                "description": "FRACTION THREE QUARTERS", 
                 "title": "VULGAR FRACTION THREE QUARTERS"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xbf", 
+                "description": "", 
                 "title": "INVERTED QUESTION MARK"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xc0", 
+                "description": "LATIN CAPITAL LETTER A GRAVE", 
                 "title": "LATIN CAPITAL LETTER A WITH GRAVE"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xc1", 
+                "description": "LATIN CAPITAL LETTER A ACUTE", 
                 "title": "LATIN CAPITAL LETTER A WITH ACUTE"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xc2", 
+                "description": "LATIN CAPITAL LETTER A CIRCUMFLEX", 
                 "title": "LATIN CAPITAL LETTER A WITH CIRCUMFLEX"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xc3", 
+                "description": "LATIN CAPITAL LETTER A TILDE", 
                 "title": "LATIN CAPITAL LETTER A WITH TILDE"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xc4", 
+                "description": "LATIN CAPITAL LETTER A DIAERESIS", 
                 "title": "LATIN CAPITAL LETTER A WITH DIAERESIS"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xc5", 
+                "description": "LATIN CAPITAL LETTER A RING", 
                 "title": "LATIN CAPITAL LETTER A WITH RING ABOVE"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xc6", 
+                "description": "LATIN CAPITAL LETTER A E", 
                 "title": "LATIN CAPITAL LETTER AE"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xc7", 
+                "description": "LATIN CAPITAL LETTER C CEDILLA", 
                 "title": "LATIN CAPITAL LETTER C WITH CEDILLA"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xc8", 
+                "description": "LATIN CAPITAL LETTER E GRAVE", 
                 "title": "LATIN CAPITAL LETTER E WITH GRAVE"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xc9", 
+                "description": "LATIN CAPITAL LETTER E ACUTE", 
                 "title": "LATIN CAPITAL LETTER E WITH ACUTE"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xca", 
+                "description": "LATIN CAPITAL LETTER E CIRCUMFLEX", 
                 "title": "LATIN CAPITAL LETTER E WITH CIRCUMFLEX"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xcb", 
+                "description": "LATIN CAPITAL LETTER E DIAERESIS", 
                 "title": "LATIN CAPITAL LETTER E WITH DIAERESIS"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xcc", 
+                "description": "LATIN CAPITAL LETTER I GRAVE", 
                 "title": "LATIN CAPITAL LETTER I WITH GRAVE"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xcd", 
+                "description": "LATIN CAPITAL LETTER I ACUTE", 
                 "title": "LATIN CAPITAL LETTER I WITH ACUTE"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xce", 
+                "description": "LATIN CAPITAL LETTER I CIRCUMFLEX", 
                 "title": "LATIN CAPITAL LETTER I WITH CIRCUMFLEX"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xcf", 
+                "description": "LATIN CAPITAL LETTER I DIAERESIS", 
                 "title": "LATIN CAPITAL LETTER I WITH DIAERESIS"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xd0", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER ETH"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xd1", 
+                "description": "LATIN CAPITAL LETTER N TILDE", 
                 "title": "LATIN CAPITAL LETTER N WITH TILDE"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xd2", 
+                "description": "LATIN CAPITAL LETTER O GRAVE", 
                 "title": "LATIN CAPITAL LETTER O WITH GRAVE"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xd3", 
+                "description": "LATIN CAPITAL LETTER O ACUTE", 
                 "title": "LATIN CAPITAL LETTER O WITH ACUTE"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xd4", 
+                "description": "LATIN CAPITAL LETTER O CIRCUMFLEX", 
                 "title": "LATIN CAPITAL LETTER O WITH CIRCUMFLEX"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xd5", 
+                "description": "LATIN CAPITAL LETTER O TILDE", 
                 "title": "LATIN CAPITAL LETTER O WITH TILDE"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xd6", 
+                "description": "LATIN CAPITAL LETTER O DIAERESIS", 
                 "title": "LATIN CAPITAL LETTER O WITH DIAERESIS"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0xd7", 
+                "description": "", 
                 "title": "MULTIPLICATION SIGN"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xd8", 
+                "description": "LATIN CAPITAL LETTER O SLASH", 
                 "title": "LATIN CAPITAL LETTER O WITH STROKE"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xd9", 
+                "description": "LATIN CAPITAL LETTER U GRAVE", 
                 "title": "LATIN CAPITAL LETTER U WITH GRAVE"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xda", 
+                "description": "LATIN CAPITAL LETTER U ACUTE", 
                 "title": "LATIN CAPITAL LETTER U WITH ACUTE"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xdb", 
+                "description": "LATIN CAPITAL LETTER U CIRCUMFLEX", 
                 "title": "LATIN CAPITAL LETTER U WITH CIRCUMFLEX"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xdc", 
+                "description": "LATIN CAPITAL LETTER U DIAERESIS", 
                 "title": "LATIN CAPITAL LETTER U WITH DIAERESIS"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xdd", 
+                "description": "LATIN CAPITAL LETTER Y ACUTE", 
                 "title": "LATIN CAPITAL LETTER Y WITH ACUTE"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xde", 
+                "description": "", 
                 "title": "LATIN CAPITAL LETTER THORN"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xdf", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER SHARP S"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe0", 
+                "description": "LATIN SMALL LETTER A GRAVE", 
                 "title": "LATIN SMALL LETTER A WITH GRAVE"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe1", 
+                "description": "LATIN SMALL LETTER A ACUTE", 
                 "title": "LATIN SMALL LETTER A WITH ACUTE"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe2", 
+                "description": "LATIN SMALL LETTER A CIRCUMFLEX", 
                 "title": "LATIN SMALL LETTER A WITH CIRCUMFLEX"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe3", 
+                "description": "LATIN SMALL LETTER A TILDE", 
                 "title": "LATIN SMALL LETTER A WITH TILDE"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe4", 
+                "description": "LATIN SMALL LETTER A DIAERESIS", 
                 "title": "LATIN SMALL LETTER A WITH DIAERESIS"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe5", 
+                "description": "LATIN SMALL LETTER A RING", 
                 "title": "LATIN SMALL LETTER A WITH RING ABOVE"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe6", 
+                "description": "LATIN SMALL LETTER A E", 
                 "title": "LATIN SMALL LETTER AE"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe7", 
+                "description": "LATIN SMALL LETTER C CEDILLA", 
                 "title": "LATIN SMALL LETTER C WITH CEDILLA"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe8", 
+                "description": "LATIN SMALL LETTER E GRAVE", 
                 "title": "LATIN SMALL LETTER E WITH GRAVE"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xe9", 
+                "description": "LATIN SMALL LETTER E ACUTE", 
                 "title": "LATIN SMALL LETTER E WITH ACUTE"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xea", 
+                "description": "LATIN SMALL LETTER E CIRCUMFLEX", 
                 "title": "LATIN SMALL LETTER E WITH CIRCUMFLEX"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xeb", 
+                "description": "LATIN SMALL LETTER E DIAERESIS", 
                 "title": "LATIN SMALL LETTER E WITH DIAERESIS"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xec", 
+                "description": "LATIN SMALL LETTER I GRAVE", 
                 "title": "LATIN SMALL LETTER I WITH GRAVE"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xed", 
+                "description": "LATIN SMALL LETTER I ACUTE", 
                 "title": "LATIN SMALL LETTER I WITH ACUTE"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xee", 
+                "description": "LATIN SMALL LETTER I CIRCUMFLEX", 
                 "title": "LATIN SMALL LETTER I WITH CIRCUMFLEX"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xef", 
+                "description": "LATIN SMALL LETTER I DIAERESIS", 
                 "title": "LATIN SMALL LETTER I WITH DIAERESIS"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf0", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER ETH"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf1", 
+                "description": "LATIN SMALL LETTER N TILDE", 
                 "title": "LATIN SMALL LETTER N WITH TILDE"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf2", 
+                "description": "LATIN SMALL LETTER O GRAVE", 
                 "title": "LATIN SMALL LETTER O WITH GRAVE"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf3", 
+                "description": "LATIN SMALL LETTER O ACUTE", 
                 "title": "LATIN SMALL LETTER O WITH ACUTE"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf4", 
+                "description": "LATIN SMALL LETTER O CIRCUMFLEX", 
                 "title": "LATIN SMALL LETTER O WITH CIRCUMFLEX"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf5", 
+                "description": "LATIN SMALL LETTER O TILDE", 
                 "title": "LATIN SMALL LETTER O WITH TILDE"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf6", 
+                "description": "LATIN SMALL LETTER O DIAERESIS", 
                 "title": "LATIN SMALL LETTER O WITH DIAERESIS"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0xf7", 
+                "description": "", 
                 "title": "DIVISION SIGN"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf8", 
+                "description": "LATIN SMALL LETTER O SLASH", 
                 "title": "LATIN SMALL LETTER O WITH STROKE"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xf9", 
+                "description": "LATIN SMALL LETTER U GRAVE", 
                 "title": "LATIN SMALL LETTER U WITH GRAVE"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfa", 
+                "description": "LATIN SMALL LETTER U ACUTE", 
                 "title": "LATIN SMALL LETTER U WITH ACUTE"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfb", 
+                "description": "LATIN SMALL LETTER U CIRCUMFLEX", 
                 "title": "LATIN SMALL LETTER U WITH CIRCUMFLEX"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfc", 
+                "description": "LATIN SMALL LETTER U DIAERESIS", 
                 "title": "LATIN SMALL LETTER U WITH DIAERESIS"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfd", 
+                "description": "LATIN SMALL LETTER Y ACUTE", 
                 "title": "LATIN SMALL LETTER Y WITH ACUTE"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe", 
+                "description": "", 
                 "title": "LATIN SMALL LETTER THORN"
             }
         ], 

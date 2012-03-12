@@ -7,6 +7,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0a0", 
+                "description": "", 
                 "title": "PLAYING CARD BACK"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0a1", 
+                "description": "", 
                 "title": "PLAYING CARD ACE OF SPADES"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0a2", 
+                "description": "", 
                 "title": "PLAYING CARD TWO OF SPADES"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0a3", 
+                "description": "", 
                 "title": "PLAYING CARD THREE OF SPADES"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0a4", 
+                "description": "", 
                 "title": "PLAYING CARD FOUR OF SPADES"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0a5", 
+                "description": "", 
                 "title": "PLAYING CARD FIVE OF SPADES"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0a6", 
+                "description": "", 
                 "title": "PLAYING CARD SIX OF SPADES"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0a7", 
+                "description": "", 
                 "title": "PLAYING CARD SEVEN OF SPADES"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0a8", 
+                "description": "", 
                 "title": "PLAYING CARD EIGHT OF SPADES"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0a9", 
+                "description": "", 
                 "title": "PLAYING CARD NINE OF SPADES"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0aa", 
+                "description": "", 
                 "title": "PLAYING CARD TEN OF SPADES"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0ab", 
+                "description": "", 
                 "title": "PLAYING CARD JACK OF SPADES"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0ac", 
+                "description": "", 
                 "title": "PLAYING CARD KNIGHT OF SPADES"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0ad", 
+                "description": "", 
                 "title": "PLAYING CARD QUEEN OF SPADES"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0ae", 
+                "description": "", 
                 "title": "PLAYING CARD KING OF SPADES"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0b1", 
+                "description": "", 
                 "title": "PLAYING CARD ACE OF HEARTS"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0b2", 
+                "description": "", 
                 "title": "PLAYING CARD TWO OF HEARTS"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0b3", 
+                "description": "", 
                 "title": "PLAYING CARD THREE OF HEARTS"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0b4", 
+                "description": "", 
                 "title": "PLAYING CARD FOUR OF HEARTS"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0b5", 
+                "description": "", 
                 "title": "PLAYING CARD FIVE OF HEARTS"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0b6", 
+                "description": "", 
                 "title": "PLAYING CARD SIX OF HEARTS"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0b7", 
+                "description": "", 
                 "title": "PLAYING CARD SEVEN OF HEARTS"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0b8", 
+                "description": "", 
                 "title": "PLAYING CARD EIGHT OF HEARTS"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0b9", 
+                "description": "", 
                 "title": "PLAYING CARD NINE OF HEARTS"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0ba", 
+                "description": "", 
                 "title": "PLAYING CARD TEN OF HEARTS"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0bb", 
+                "description": "", 
                 "title": "PLAYING CARD JACK OF HEARTS"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0bc", 
+                "description": "", 
                 "title": "PLAYING CARD KNIGHT OF HEARTS"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0bd", 
+                "description": "", 
                 "title": "PLAYING CARD QUEEN OF HEARTS"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0be", 
+                "description": "", 
                 "title": "PLAYING CARD KING OF HEARTS"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0c1", 
+                "description": "", 
                 "title": "PLAYING CARD ACE OF DIAMONDS"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0c2", 
+                "description": "", 
                 "title": "PLAYING CARD TWO OF DIAMONDS"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0c3", 
+                "description": "", 
                 "title": "PLAYING CARD THREE OF DIAMONDS"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0c4", 
+                "description": "", 
                 "title": "PLAYING CARD FOUR OF DIAMONDS"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0c5", 
+                "description": "", 
                 "title": "PLAYING CARD FIVE OF DIAMONDS"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0c6", 
+                "description": "", 
                 "title": "PLAYING CARD SIX OF DIAMONDS"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0c7", 
+                "description": "", 
                 "title": "PLAYING CARD SEVEN OF DIAMONDS"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0c8", 
+                "description": "", 
                 "title": "PLAYING CARD EIGHT OF DIAMONDS"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0c9", 
+                "description": "", 
                 "title": "PLAYING CARD NINE OF DIAMONDS"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0ca", 
+                "description": "", 
                 "title": "PLAYING CARD TEN OF DIAMONDS"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0cb", 
+                "description": "", 
                 "title": "PLAYING CARD JACK OF DIAMONDS"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0cc", 
+                "description": "", 
                 "title": "PLAYING CARD KNIGHT OF DIAMONDS"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0cd", 
+                "description": "", 
                 "title": "PLAYING CARD QUEEN OF DIAMONDS"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0ce", 
+                "description": "", 
                 "title": "PLAYING CARD KING OF DIAMONDS"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0cf", 
+                "description": "", 
                 "title": "PLAYING CARD BLACK JOKER"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0d1", 
+                "description": "", 
                 "title": "PLAYING CARD ACE OF CLUBS"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0d2", 
+                "description": "", 
                 "title": "PLAYING CARD TWO OF CLUBS"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0d3", 
+                "description": "", 
                 "title": "PLAYING CARD THREE OF CLUBS"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0d4", 
+                "description": "", 
                 "title": "PLAYING CARD FOUR OF CLUBS"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0d5", 
+                "description": "", 
                 "title": "PLAYING CARD FIVE OF CLUBS"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0d6", 
+                "description": "", 
                 "title": "PLAYING CARD SIX OF CLUBS"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0d7", 
+                "description": "", 
                 "title": "PLAYING CARD SEVEN OF CLUBS"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0d8", 
+                "description": "", 
                 "title": "PLAYING CARD EIGHT OF CLUBS"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0d9", 
+                "description": "", 
                 "title": "PLAYING CARD NINE OF CLUBS"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0da", 
+                "description": "", 
                 "title": "PLAYING CARD TEN OF CLUBS"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0db", 
+                "description": "", 
                 "title": "PLAYING CARD JACK OF CLUBS"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0dc", 
+                "description": "", 
                 "title": "PLAYING CARD KNIGHT OF CLUBS"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0dd", 
+                "description": "", 
                 "title": "PLAYING CARD QUEEN OF CLUBS"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0de", 
+                "description": "", 
                 "title": "PLAYING CARD KING OF CLUBS"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "Playing card", 
                 "cat4": "", 
                 "charcode": "0x1f0df", 
+                "description": "", 
                 "title": "PLAYING CARD WHITE JOKER"
             }
         ], 

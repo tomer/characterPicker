@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2100", 
+                "description": "", 
                 "title": "ACCOUNT OF"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2101", 
+                "description": "", 
                 "title": "ADDRESSED TO THE SUBJECT"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2102", 
+                "description": "DOUBLE-STRUCK C", 
                 "title": "DOUBLE-STRUCK CAPITAL C"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2103", 
+                "description": "DEGREES CENTIGRADE", 
                 "title": "DEGREE CELSIUS"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2104", 
+                "description": "C L SYMBOL", 
                 "title": "CENTRE LINE SYMBOL"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2105", 
+                "description": "", 
                 "title": "CARE OF"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2106", 
+                "description": "", 
                 "title": "CADA UNA"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2107", 
+                "description": "EULERS", 
                 "title": "EULER CONSTANT"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2108", 
+                "description": "", 
                 "title": "SCRUPLE"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2109", 
+                "description": "DEGREES FAHRENHEIT", 
                 "title": "DEGREE FAHRENHEIT"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x210a", 
+                "description": "", 
                 "title": "SCRIPT SMALL G"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x210b", 
+                "description": "SCRIPT H", 
                 "title": "SCRIPT CAPITAL H"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x210c", 
+                "description": "BLACK-LETTER H", 
                 "title": "BLACK-LETTER CAPITAL H"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x210d", 
+                "description": "DOUBLE-STRUCK H", 
                 "title": "DOUBLE-STRUCK CAPITAL H"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x210e", 
+                "description": "", 
                 "title": "PLANCK CONSTANT"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x210f", 
+                "description": "PLANCK CONSTANT OVER 2 PI", 
                 "title": "PLANCK CONSTANT OVER TWO PI"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2110", 
+                "description": "SCRIPT I", 
                 "title": "SCRIPT CAPITAL I"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2111", 
+                "description": "BLACK-LETTER I", 
                 "title": "BLACK-LETTER CAPITAL I"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2112", 
+                "description": "SCRIPT L", 
                 "title": "SCRIPT CAPITAL L"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2113", 
+                "description": "", 
                 "title": "SCRIPT SMALL L"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2114", 
+                "description": "", 
                 "title": "L B BAR SYMBOL"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2115", 
+                "description": "DOUBLE-STRUCK N", 
                 "title": "DOUBLE-STRUCK CAPITAL N"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2116", 
+                "description": "NUMERO", 
                 "title": "NUMERO SIGN"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2117", 
+                "description": "", 
                 "title": "SOUND RECORDING COPYRIGHT"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2118", 
+                "description": "SCRIPT P", 
                 "title": "SCRIPT CAPITAL P"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2119", 
+                "description": "DOUBLE-STRUCK P", 
                 "title": "DOUBLE-STRUCK CAPITAL P"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x211a", 
+                "description": "DOUBLE-STRUCK Q", 
                 "title": "DOUBLE-STRUCK CAPITAL Q"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x211b", 
+                "description": "SCRIPT R", 
                 "title": "SCRIPT CAPITAL R"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x211c", 
+                "description": "BLACK-LETTER R", 
                 "title": "BLACK-LETTER CAPITAL R"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x211d", 
+                "description": "DOUBLE-STRUCK R", 
                 "title": "DOUBLE-STRUCK CAPITAL R"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x211e", 
+                "description": "", 
                 "title": "PRESCRIPTION TAKE"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x211f", 
+                "description": "", 
                 "title": "RESPONSE"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2120", 
+                "description": "", 
                 "title": "SERVICE MARK"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2121", 
+                "description": "T E L SYMBOL", 
                 "title": "TELEPHONE SIGN"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2122", 
+                "description": "TRADEMARK", 
                 "title": "TRADE MARK SIGN"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2123", 
+                "description": "", 
                 "title": "VERSICLE"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2124", 
+                "description": "DOUBLE-STRUCK Z", 
                 "title": "DOUBLE-STRUCK CAPITAL Z"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2125", 
+                "description": "OUNCE", 
                 "title": "OUNCE SIGN"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2126", 
+                "description": "OHM", 
                 "title": "OHM SIGN"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2127", 
+                "description": "MHO", 
                 "title": "INVERTED OHM SIGN"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2128", 
+                "description": "BLACK-LETTER Z", 
                 "title": "BLACK-LETTER CAPITAL Z"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2129", 
+                "description": "", 
                 "title": "TURNED GREEK SMALL LETTER IOTA"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x212a", 
+                "description": "DEGREES KELVIN", 
                 "title": "KELVIN SIGN"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x212b", 
+                "description": "ANGSTROM UNIT", 
                 "title": "ANGSTROM SIGN"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x212c", 
+                "description": "SCRIPT B", 
                 "title": "SCRIPT CAPITAL B"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x212d", 
+                "description": "BLACK-LETTER C", 
                 "title": "BLACK-LETTER CAPITAL C"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x212e", 
+                "description": "", 
                 "title": "ESTIMATED SYMBOL"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x212f", 
+                "description": "", 
                 "title": "SCRIPT SMALL E"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2130", 
+                "description": "SCRIPT E", 
                 "title": "SCRIPT CAPITAL E"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2131", 
+                "description": "SCRIPT F", 
                 "title": "SCRIPT CAPITAL F"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2132", 
+                "description": "TURNED F", 
                 "title": "TURNED CAPITAL F"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2133", 
+                "description": "SCRIPT M", 
                 "title": "SCRIPT CAPITAL M"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2134", 
+                "description": "", 
                 "title": "SCRIPT SMALL O"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "Hebrew", 
                 "cat4": "", 
                 "charcode": "0x2135", 
+                "description": "FIRST TRANSFINITE CARDINAL", 
                 "title": "ALEF SYMBOL"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "Hebrew", 
                 "cat4": "", 
                 "charcode": "0x2136", 
+                "description": "SECOND TRANSFINITE CARDINAL", 
                 "title": "BET SYMBOL"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "Hebrew", 
                 "cat4": "", 
                 "charcode": "0x2137", 
+                "description": "THIRD TRANSFINITE CARDINAL", 
                 "title": "GIMEL SYMBOL"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "Hebrew", 
                 "cat4": "", 
                 "charcode": "0x2138", 
+                "description": "FOURTH TRANSFINITE CARDINAL", 
                 "title": "DALET SYMBOL"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2139", 
+                "description": "", 
                 "title": "INFORMATION SOURCE"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x213a", 
+                "description": "", 
                 "title": "ROTATED CAPITAL Q"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x213b", 
+                "description": "", 
                 "title": "FACSIMILE SIGN"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x213c", 
+                "description": "", 
                 "title": "DOUBLE-STRUCK SMALL PI"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x213d", 
+                "description": "", 
                 "title": "DOUBLE-STRUCK SMALL GAMMA"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x213e", 
+                "description": "", 
                 "title": "DOUBLE-STRUCK CAPITAL GAMMA"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x213f", 
+                "description": "", 
                 "title": "DOUBLE-STRUCK CAPITAL PI"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x2140", 
+                "description": "", 
                 "title": "DOUBLE-STRUCK N-ARY SUMMATION"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2141", 
+                "description": "", 
                 "title": "TURNED SANS-SERIF CAPITAL G"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2142", 
+                "description": "", 
                 "title": "TURNED SANS-SERIF CAPITAL L"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2143", 
+                "description": "", 
                 "title": "REVERSED SANS-SERIF CAPITAL L"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2144", 
+                "description": "", 
                 "title": "TURNED SANS-SERIF CAPITAL Y"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2145", 
+                "description": "", 
                 "title": "DOUBLE-STRUCK ITALIC CAPITAL D"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x2146", 
+                "description": "", 
                 "title": "DOUBLE-STRUCK ITALIC SMALL D"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "Constant", 
                 "cat4": "", 
                 "charcode": "0x2147", 
+                "description": "", 
                 "title": "DOUBLE-STRUCK ITALIC SMALL E"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "Constant", 
                 "cat4": "", 
                 "charcode": "0x2148", 
+                "description": "", 
                 "title": "DOUBLE-STRUCK ITALIC SMALL I"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "Constant", 
                 "cat4": "", 
                 "charcode": "0x2149", 
+                "description": "", 
                 "title": "DOUBLE-STRUCK ITALIC SMALL J"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x214a", 
+                "description": "", 
                 "title": "PROPERTY LINE"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x214b", 
+                "description": "", 
                 "title": "TURNED AMPERSAND"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x214c", 
+                "description": "", 
                 "title": "PER SIGN"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x214d", 
+                "description": "", 
                 "title": "AKTIESELSKAB"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x214e", 
+                "description": "", 
                 "title": "TURNED SMALL F"
             }
         ], 

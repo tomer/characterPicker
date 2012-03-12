@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x300", 
+                "description": "NON-SPACING GRAVE", 
                 "title": "COMBINING GRAVE ACCENT"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x301", 
+                "description": "NON-SPACING ACUTE", 
                 "title": "COMBINING ACUTE ACCENT"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x302", 
+                "description": "NON-SPACING CIRCUMFLEX", 
                 "title": "COMBINING CIRCUMFLEX ACCENT"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x303", 
+                "description": "NON-SPACING TILDE", 
                 "title": "COMBINING TILDE"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x304", 
+                "description": "NON-SPACING MACRON", 
                 "title": "COMBINING MACRON"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x305", 
+                "description": "NON-SPACING OVERSCORE", 
                 "title": "COMBINING OVERLINE"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x306", 
+                "description": "NON-SPACING BREVE", 
                 "title": "COMBINING BREVE"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x307", 
+                "description": "NON-SPACING DOT ABOVE", 
                 "title": "COMBINING DOT ABOVE"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x308", 
+                "description": "NON-SPACING DIAERESIS", 
                 "title": "COMBINING DIAERESIS"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x309", 
+                "description": "NON-SPACING HOOK ABOVE", 
                 "title": "COMBINING HOOK ABOVE"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x30a", 
+                "description": "NON-SPACING RING ABOVE", 
                 "title": "COMBINING RING ABOVE"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x30b", 
+                "description": "NON-SPACING DOUBLE ACUTE", 
                 "title": "COMBINING DOUBLE ACUTE ACCENT"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x30c", 
+                "description": "NON-SPACING HACEK", 
                 "title": "COMBINING CARON"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x30d", 
+                "description": "NON-SPACING VERTICAL LINE ABOVE", 
                 "title": "COMBINING VERTICAL LINE ABOVE"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x30e", 
+                "description": "NON-SPACING DOUBLE VERTICAL LINE ABOVE", 
                 "title": "COMBINING DOUBLE VERTICAL LINE ABOVE"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x30f", 
+                "description": "NON-SPACING DOUBLE GRAVE", 
                 "title": "COMBINING DOUBLE GRAVE ACCENT"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x310", 
+                "description": "NON-SPACING CANDRABINDU", 
                 "title": "COMBINING CANDRABINDU"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x311", 
+                "description": "NON-SPACING INVERTED BREVE", 
                 "title": "COMBINING INVERTED BREVE"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x312", 
+                "description": "NON-SPACING TURNED COMMA ABOVE", 
                 "title": "COMBINING TURNED COMMA ABOVE"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x313", 
+                "description": "NON-SPACING COMMA ABOVE", 
                 "title": "COMBINING COMMA ABOVE"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x314", 
+                "description": "NON-SPACING REVERSED COMMA ABOVE", 
                 "title": "COMBINING REVERSED COMMA ABOVE"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x315", 
+                "description": "NON-SPACING COMMA ABOVE RIGHT", 
                 "title": "COMBINING COMMA ABOVE RIGHT"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x316", 
+                "description": "NON-SPACING GRAVE BELOW", 
                 "title": "COMBINING GRAVE ACCENT BELOW"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x317", 
+                "description": "NON-SPACING ACUTE BELOW", 
                 "title": "COMBINING ACUTE ACCENT BELOW"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x318", 
+                "description": "NON-SPACING LEFT TACK BELOW", 
                 "title": "COMBINING LEFT TACK BELOW"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x319", 
+                "description": "NON-SPACING RIGHT TACK BELOW", 
                 "title": "COMBINING RIGHT TACK BELOW"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x31a", 
+                "description": "NON-SPACING LEFT ANGLE ABOVE", 
                 "title": "COMBINING LEFT ANGLE ABOVE"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x31b", 
+                "description": "NON-SPACING HORN", 
                 "title": "COMBINING HORN"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x31c", 
+                "description": "NON-SPACING LEFT HALF RING BELOW", 
                 "title": "COMBINING LEFT HALF RING BELOW"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x31d", 
+                "description": "NON-SPACING UP TACK BELOW", 
                 "title": "COMBINING UP TACK BELOW"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x31e", 
+                "description": "NON-SPACING DOWN TACK BELOW", 
                 "title": "COMBINING DOWN TACK BELOW"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x31f", 
+                "description": "NON-SPACING PLUS SIGN BELOW", 
                 "title": "COMBINING PLUS SIGN BELOW"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x320", 
+                "description": "NON-SPACING MINUS SIGN BELOW", 
                 "title": "COMBINING MINUS SIGN BELOW"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x321", 
+                "description": "NON-SPACING PALATALIZED HOOK BELOW", 
                 "title": "COMBINING PALATALIZED HOOK BELOW"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x322", 
+                "description": "NON-SPACING RETROFLEX HOOK BELOW", 
                 "title": "COMBINING RETROFLEX HOOK BELOW"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x323", 
+                "description": "NON-SPACING DOT BELOW", 
                 "title": "COMBINING DOT BELOW"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x324", 
+                "description": "NON-SPACING DOUBLE DOT BELOW", 
                 "title": "COMBINING DIAERESIS BELOW"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x325", 
+                "description": "NON-SPACING RING BELOW", 
                 "title": "COMBINING RING BELOW"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x326", 
+                "description": "NON-SPACING COMMA BELOW", 
                 "title": "COMBINING COMMA BELOW"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x327", 
+                "description": "NON-SPACING CEDILLA", 
                 "title": "COMBINING CEDILLA"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x328", 
+                "description": "NON-SPACING OGONEK", 
                 "title": "COMBINING OGONEK"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x329", 
+                "description": "NON-SPACING VERTICAL LINE BELOW", 
                 "title": "COMBINING VERTICAL LINE BELOW"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32a", 
+                "description": "NON-SPACING BRIDGE BELOW", 
                 "title": "COMBINING BRIDGE BELOW"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32b", 
+                "description": "NON-SPACING INVERTED DOUBLE ARCH BELOW", 
                 "title": "COMBINING INVERTED DOUBLE ARCH BELOW"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32c", 
+                "description": "NON-SPACING HACEK BELOW", 
                 "title": "COMBINING CARON BELOW"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32d", 
+                "description": "NON-SPACING CIRCUMFLEX BELOW", 
                 "title": "COMBINING CIRCUMFLEX ACCENT BELOW"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32e", 
+                "description": "NON-SPACING BREVE BELOW", 
                 "title": "COMBINING BREVE BELOW"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x32f", 
+                "description": "NON-SPACING INVERTED BREVE BELOW", 
                 "title": "COMBINING INVERTED BREVE BELOW"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x330", 
+                "description": "NON-SPACING TILDE BELOW", 
                 "title": "COMBINING TILDE BELOW"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x331", 
+                "description": "NON-SPACING MACRON BELOW", 
                 "title": "COMBINING MACRON BELOW"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x332", 
+                "description": "NON-SPACING UNDERSCORE", 
                 "title": "COMBINING LOW LINE"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x333", 
+                "description": "NON-SPACING DOUBLE UNDERSCORE", 
                 "title": "COMBINING DOUBLE LOW LINE"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x334", 
+                "description": "NON-SPACING TILDE OVERLAY", 
                 "title": "COMBINING TILDE OVERLAY"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x335", 
+                "description": "NON-SPACING SHORT BAR OVERLAY", 
                 "title": "COMBINING SHORT STROKE OVERLAY"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x336", 
+                "description": "NON-SPACING LONG BAR OVERLAY", 
                 "title": "COMBINING LONG STROKE OVERLAY"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x337", 
+                "description": "NON-SPACING SHORT SLASH OVERLAY", 
                 "title": "COMBINING SHORT SOLIDUS OVERLAY"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x338", 
+                "description": "NON-SPACING LONG SLASH OVERLAY", 
                 "title": "COMBINING LONG SOLIDUS OVERLAY"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x339", 
+                "description": "NON-SPACING RIGHT HALF RING BELOW", 
                 "title": "COMBINING RIGHT HALF RING BELOW"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x33a", 
+                "description": "NON-SPACING INVERTED BRIDGE BELOW", 
                 "title": "COMBINING INVERTED BRIDGE BELOW"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x33b", 
+                "description": "NON-SPACING SQUARE BELOW", 
                 "title": "COMBINING SQUARE BELOW"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x33c", 
+                "description": "NON-SPACING SEAGULL BELOW", 
                 "title": "COMBINING SEAGULL BELOW"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x33d", 
+                "description": "NON-SPACING X ABOVE", 
                 "title": "COMBINING X ABOVE"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x33e", 
+                "description": "NON-SPACING VERTICAL TILDE", 
                 "title": "COMBINING VERTICAL TILDE"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x33f", 
+                "description": "NON-SPACING DOUBLE OVERSCORE", 
                 "title": "COMBINING DOUBLE OVERLINE"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x340", 
+                "description": "NON-SPACING GRAVE TONE MARK", 
                 "title": "COMBINING GRAVE TONE MARK"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x341", 
+                "description": "NON-SPACING ACUTE TONE MARK", 
                 "title": "COMBINING ACUTE TONE MARK"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x342", 
+                "description": "", 
                 "title": "COMBINING GREEK PERISPOMENI"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x343", 
+                "description": "", 
                 "title": "COMBINING GREEK KORONIS"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x344", 
+                "description": "GREEK NON-SPACING DIAERESIS TONOS", 
                 "title": "COMBINING GREEK DIALYTIKA TONOS"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x345", 
+                "description": "GREEK NON-SPACING IOTA BELOW", 
                 "title": "COMBINING GREEK YPOGEGRAMMENI"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x346", 
+                "description": "", 
                 "title": "COMBINING BRIDGE ABOVE"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x347", 
+                "description": "", 
                 "title": "COMBINING EQUALS SIGN BELOW"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x348", 
+                "description": "", 
                 "title": "COMBINING DOUBLE VERTICAL LINE BELOW"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x349", 
+                "description": "", 
                 "title": "COMBINING LEFT ANGLE BELOW"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x34a", 
+                "description": "", 
                 "title": "COMBINING NOT TILDE ABOVE"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x34b", 
+                "description": "", 
                 "title": "COMBINING HOMOTHETIC ABOVE"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x34c", 
+                "description": "", 
                 "title": "COMBINING ALMOST EQUAL TO ABOVE"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x34d", 
+                "description": "", 
                 "title": "COMBINING LEFT RIGHT ARROW BELOW"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x34e", 
+                "description": "", 
                 "title": "COMBINING UPWARDS ARROW BELOW"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x34f", 
+                "description": "", 
                 "title": "COMBINING GRAPHEME JOINER"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x350", 
+                "description": "", 
                 "title": "COMBINING RIGHT ARROWHEAD ABOVE"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x351", 
+                "description": "", 
                 "title": "COMBINING LEFT HALF RING ABOVE"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x352", 
+                "description": "", 
                 "title": "COMBINING FERMATA"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x353", 
+                "description": "", 
                 "title": "COMBINING X BELOW"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x354", 
+                "description": "", 
                 "title": "COMBINING LEFT ARROWHEAD BELOW"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x355", 
+                "description": "", 
                 "title": "COMBINING RIGHT ARROWHEAD BELOW"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x356", 
+                "description": "", 
                 "title": "COMBINING RIGHT ARROWHEAD AND UP ARROWHEAD BELOW"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x357", 
+                "description": "", 
                 "title": "COMBINING RIGHT HALF RING ABOVE"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x358", 
+                "description": "", 
                 "title": "COMBINING DOT ABOVE RIGHT"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x359", 
+                "description": "", 
                 "title": "COMBINING ASTERISK BELOW"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x35a", 
+                "description": "", 
                 "title": "COMBINING DOUBLE RING BELOW"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x35b", 
+                "description": "", 
                 "title": "COMBINING ZIGZAG ABOVE"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x35c", 
+                "description": "", 
                 "title": "COMBINING DOUBLE BREVE BELOW"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x35d", 
+                "description": "", 
                 "title": "COMBINING DOUBLE BREVE"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x35e", 
+                "description": "", 
                 "title": "COMBINING DOUBLE MACRON"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x35f", 
+                "description": "", 
                 "title": "COMBINING DOUBLE MACRON BELOW"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x360", 
+                "description": "", 
                 "title": "COMBINING DOUBLE TILDE"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x361", 
+                "description": "", 
                 "title": "COMBINING DOUBLE INVERTED BREVE"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x362", 
+                "description": "", 
                 "title": "COMBINING DOUBLE RIGHTWARDS ARROW BELOW"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x363", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER A"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x364", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER E"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x365", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER I"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x366", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER O"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x367", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER U"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x368", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER C"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x369", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER D"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x36a", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER H"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x36b", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER M"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x36c", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER R"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x36d", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER T"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x36e", 
+                "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER V"
             }
         ], 

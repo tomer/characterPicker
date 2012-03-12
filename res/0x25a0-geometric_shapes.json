@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25a0", 
+                "description": "", 
                 "title": "BLACK SQUARE"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25a1", 
+                "description": "", 
                 "title": "WHITE SQUARE"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25a2", 
+                "description": "", 
                 "title": "WHITE SQUARE WITH ROUNDED CORNERS"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25a3", 
+                "description": "", 
                 "title": "WHITE SQUARE CONTAINING BLACK SMALL SQUARE"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25a4", 
+                "description": "", 
                 "title": "SQUARE WITH HORIZONTAL FILL"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25a5", 
+                "description": "", 
                 "title": "SQUARE WITH VERTICAL FILL"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25a6", 
+                "description": "", 
                 "title": "SQUARE WITH ORTHOGONAL CROSSHATCH FILL"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25a7", 
+                "description": "", 
                 "title": "SQUARE WITH UPPER LEFT TO LOWER RIGHT FILL"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25a8", 
+                "description": "", 
                 "title": "SQUARE WITH UPPER RIGHT TO LOWER LEFT FILL"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25a9", 
+                "description": "", 
                 "title": "SQUARE WITH DIAGONAL CROSSHATCH FILL"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25aa", 
+                "description": "", 
                 "title": "BLACK SMALL SQUARE"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ab", 
+                "description": "", 
                 "title": "WHITE SMALL SQUARE"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ac", 
+                "description": "", 
                 "title": "BLACK RECTANGLE"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ad", 
+                "description": "", 
                 "title": "WHITE RECTANGLE"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ae", 
+                "description": "", 
                 "title": "BLACK VERTICAL RECTANGLE"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25af", 
+                "description": "", 
                 "title": "WHITE VERTICAL RECTANGLE"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25b0", 
+                "description": "", 
                 "title": "BLACK PARALLELOGRAM"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25b1", 
+                "description": "", 
                 "title": "WHITE PARALLELOGRAM"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25b2", 
+                "description": "BLACK UP POINTING TRIANGLE", 
                 "title": "BLACK UP-POINTING TRIANGLE"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25b3", 
+                "description": "WHITE UP POINTING TRIANGLE", 
                 "title": "WHITE UP-POINTING TRIANGLE"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25b4", 
+                "description": "BLACK UP POINTING SMALL TRIANGLE", 
                 "title": "BLACK UP-POINTING SMALL TRIANGLE"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25b5", 
+                "description": "WHITE UP POINTING SMALL TRIANGLE", 
                 "title": "WHITE UP-POINTING SMALL TRIANGLE"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25b6", 
+                "description": "BLACK RIGHT POINTING TRIANGLE", 
                 "title": "BLACK RIGHT-POINTING TRIANGLE"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25b7", 
+                "description": "WHITE RIGHT POINTING TRIANGLE", 
                 "title": "WHITE RIGHT-POINTING TRIANGLE"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25b8", 
+                "description": "BLACK RIGHT POINTING SMALL TRIANGLE", 
                 "title": "BLACK RIGHT-POINTING SMALL TRIANGLE"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25b9", 
+                "description": "WHITE RIGHT POINTING SMALL TRIANGLE", 
                 "title": "WHITE RIGHT-POINTING SMALL TRIANGLE"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ba", 
+                "description": "BLACK RIGHT POINTING POINTER", 
                 "title": "BLACK RIGHT-POINTING POINTER"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25bb", 
+                "description": "WHITE RIGHT POINTING POINTER", 
                 "title": "WHITE RIGHT-POINTING POINTER"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25bc", 
+                "description": "BLACK DOWN POINTING TRIANGLE", 
                 "title": "BLACK DOWN-POINTING TRIANGLE"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25bd", 
+                "description": "WHITE DOWN POINTING TRIANGLE", 
                 "title": "WHITE DOWN-POINTING TRIANGLE"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25be", 
+                "description": "BLACK DOWN POINTING SMALL TRIANGLE", 
                 "title": "BLACK DOWN-POINTING SMALL TRIANGLE"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25bf", 
+                "description": "WHITE DOWN POINTING SMALL TRIANGLE", 
                 "title": "WHITE DOWN-POINTING SMALL TRIANGLE"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25c0", 
+                "description": "BLACK LEFT POINTING TRIANGLE", 
                 "title": "BLACK LEFT-POINTING TRIANGLE"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25c1", 
+                "description": "WHITE LEFT POINTING TRIANGLE", 
                 "title": "WHITE LEFT-POINTING TRIANGLE"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25c2", 
+                "description": "BLACK LEFT POINTING SMALL TRIANGLE", 
                 "title": "BLACK LEFT-POINTING SMALL TRIANGLE"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25c3", 
+                "description": "WHITE LEFT POINTING SMALL TRIANGLE", 
                 "title": "WHITE LEFT-POINTING SMALL TRIANGLE"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25c4", 
+                "description": "BLACK LEFT POINTING POINTER", 
                 "title": "BLACK LEFT-POINTING POINTER"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25c5", 
+                "description": "WHITE LEFT POINTING POINTER", 
                 "title": "WHITE LEFT-POINTING POINTER"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25c6", 
+                "description": "", 
                 "title": "BLACK DIAMOND"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25c7", 
+                "description": "", 
                 "title": "WHITE DIAMOND"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25c8", 
+                "description": "", 
                 "title": "WHITE DIAMOND CONTAINING BLACK SMALL DIAMOND"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25c9", 
+                "description": "", 
                 "title": "FISHEYE"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ca", 
+                "description": "", 
                 "title": "LOZENGE"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25cb", 
+                "description": "", 
                 "title": "WHITE CIRCLE"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25cc", 
+                "description": "", 
                 "title": "DOTTED CIRCLE"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25cd", 
+                "description": "", 
                 "title": "CIRCLE WITH VERTICAL FILL"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ce", 
+                "description": "", 
                 "title": "BULLSEYE"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25cf", 
+                "description": "", 
                 "title": "BLACK CIRCLE"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25d0", 
+                "description": "", 
                 "title": "CIRCLE WITH LEFT HALF BLACK"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25d1", 
+                "description": "", 
                 "title": "CIRCLE WITH RIGHT HALF BLACK"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25d2", 
+                "description": "", 
                 "title": "CIRCLE WITH LOWER HALF BLACK"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25d3", 
+                "description": "", 
                 "title": "CIRCLE WITH UPPER HALF BLACK"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25d4", 
+                "description": "", 
                 "title": "CIRCLE WITH UPPER RIGHT QUADRANT BLACK"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25d5", 
+                "description": "", 
                 "title": "CIRCLE WITH ALL BUT UPPER LEFT QUADRANT BLACK"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25d6", 
+                "description": "", 
                 "title": "LEFT HALF BLACK CIRCLE"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25d7", 
+                "description": "", 
                 "title": "RIGHT HALF BLACK CIRCLE"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25d8", 
+                "description": "", 
                 "title": "INVERSE BULLET"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25d9", 
+                "description": "", 
                 "title": "INVERSE WHITE CIRCLE"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25da", 
+                "description": "", 
                 "title": "UPPER HALF INVERSE WHITE CIRCLE"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25db", 
+                "description": "", 
                 "title": "LOWER HALF INVERSE WHITE CIRCLE"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25dc", 
+                "description": "", 
                 "title": "UPPER LEFT QUADRANT CIRCULAR ARC"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25dd", 
+                "description": "", 
                 "title": "UPPER RIGHT QUADRANT CIRCULAR ARC"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25de", 
+                "description": "", 
                 "title": "LOWER RIGHT QUADRANT CIRCULAR ARC"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25df", 
+                "description": "", 
                 "title": "LOWER LEFT QUADRANT CIRCULAR ARC"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25e0", 
+                "description": "", 
                 "title": "UPPER HALF CIRCLE"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25e1", 
+                "description": "", 
                 "title": "LOWER HALF CIRCLE"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25e2", 
+                "description": "", 
                 "title": "BLACK LOWER RIGHT TRIANGLE"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25e3", 
+                "description": "", 
                 "title": "BLACK LOWER LEFT TRIANGLE"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25e4", 
+                "description": "", 
                 "title": "BLACK UPPER LEFT TRIANGLE"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25e5", 
+                "description": "", 
                 "title": "BLACK UPPER RIGHT TRIANGLE"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25e6", 
+                "description": "", 
                 "title": "WHITE BULLET"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25e7", 
+                "description": "", 
                 "title": "SQUARE WITH LEFT HALF BLACK"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25e8", 
+                "description": "", 
                 "title": "SQUARE WITH RIGHT HALF BLACK"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25e9", 
+                "description": "", 
                 "title": "SQUARE WITH UPPER LEFT DIAGONAL HALF BLACK"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ea", 
+                "description": "", 
                 "title": "SQUARE WITH LOWER RIGHT DIAGONAL HALF BLACK"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25eb", 
+                "description": "", 
                 "title": "WHITE SQUARE WITH VERTICAL BISECTING LINE"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ec", 
+                "description": "WHITE UP POINTING TRIANGLE WITH DOT", 
                 "title": "WHITE UP-POINTING TRIANGLE WITH DOT"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ed", 
+                "description": "UP POINTING TRIANGLE WITH LEFT HALF BLACK", 
                 "title": "UP-POINTING TRIANGLE WITH LEFT HALF BLACK"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ee", 
+                "description": "UP POINTING TRIANGLE WITH RIGHT HALF BLACK", 
                 "title": "UP-POINTING TRIANGLE WITH RIGHT HALF BLACK"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25ef", 
+                "description": "", 
                 "title": "LARGE CIRCLE"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x25f0", 
+                "description": "", 
                 "title": "WHITE SQUARE WITH UPPER LEFT QUADRANT"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x25f1", 
+                "description": "", 
                 "title": "WHITE SQUARE WITH LOWER LEFT QUADRANT"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x25f2", 
+                "description": "", 
                 "title": "WHITE SQUARE WITH LOWER RIGHT QUADRANT"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x25f3", 
+                "description": "", 
                 "title": "WHITE SQUARE WITH UPPER RIGHT QUADRANT"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x25f4", 
+                "description": "", 
                 "title": "WHITE CIRCLE WITH UPPER LEFT QUADRANT"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x25f5", 
+                "description": "", 
                 "title": "WHITE CIRCLE WITH LOWER LEFT QUADRANT"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x25f6", 
+                "description": "", 
                 "title": "WHITE CIRCLE WITH LOWER RIGHT QUADRANT"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x25f7", 
+                "description": "", 
                 "title": "WHITE CIRCLE WITH UPPER RIGHT QUADRANT"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25f8", 
+                "description": "", 
                 "title": "UPPER LEFT TRIANGLE"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25f9", 
+                "description": "", 
                 "title": "UPPER RIGHT TRIANGLE"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25fa", 
+                "description": "", 
                 "title": "LOWER LEFT TRIANGLE"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25fb", 
+                "description": "", 
                 "title": "WHITE MEDIUM SQUARE"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25fc", 
+                "description": "", 
                 "title": "BLACK MEDIUM SQUARE"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25fd", 
+                "description": "", 
                 "title": "WHITE MEDIUM SMALL SQUARE"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x25fe", 
+                "description": "", 
                 "title": "BLACK MEDIUM SMALL SQUARE"
             }
         ], 

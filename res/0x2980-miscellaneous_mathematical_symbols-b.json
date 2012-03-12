@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2980", 
+                "description": "", 
                 "title": "TRIPLE VERTICAL BAR DELIMITER"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2981", 
+                "description": "", 
                 "title": "Z NOTATION SPOT"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2982", 
+                "description": "", 
                 "title": "Z NOTATION TYPE COLON"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2983", 
+                "description": "", 
                 "title": "LEFT WHITE CURLY BRACKET"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2984", 
+                "description": "", 
                 "title": "RIGHT WHITE CURLY BRACKET"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2985", 
+                "description": "", 
                 "title": "LEFT WHITE PARENTHESIS"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2986", 
+                "description": "", 
                 "title": "RIGHT WHITE PARENTHESIS"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2987", 
+                "description": "", 
                 "title": "Z NOTATION LEFT IMAGE BRACKET"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2988", 
+                "description": "", 
                 "title": "Z NOTATION RIGHT IMAGE BRACKET"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2989", 
+                "description": "", 
                 "title": "Z NOTATION LEFT BINDING BRACKET"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x298a", 
+                "description": "", 
                 "title": "Z NOTATION RIGHT BINDING BRACKET"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x298b", 
+                "description": "", 
                 "title": "LEFT SQUARE BRACKET WITH UNDERBAR"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x298c", 
+                "description": "", 
                 "title": "RIGHT SQUARE BRACKET WITH UNDERBAR"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x298d", 
+                "description": "", 
                 "title": "LEFT SQUARE BRACKET WITH TICK IN TOP CORNER"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x298e", 
+                "description": "", 
                 "title": "RIGHT SQUARE BRACKET WITH TICK IN BOTTOM CORNER"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x298f", 
+                "description": "", 
                 "title": "LEFT SQUARE BRACKET WITH TICK IN BOTTOM CORNER"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2990", 
+                "description": "", 
                 "title": "RIGHT SQUARE BRACKET WITH TICK IN TOP CORNER"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2991", 
+                "description": "", 
                 "title": "LEFT ANGLE BRACKET WITH DOT"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2992", 
+                "description": "", 
                 "title": "RIGHT ANGLE BRACKET WITH DOT"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2993", 
+                "description": "", 
                 "title": "LEFT ARC LESS-THAN BRACKET"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2994", 
+                "description": "", 
                 "title": "RIGHT ARC GREATER-THAN BRACKET"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2995", 
+                "description": "", 
                 "title": "DOUBLE LEFT ARC GREATER-THAN BRACKET"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2996", 
+                "description": "", 
                 "title": "DOUBLE RIGHT ARC LESS-THAN BRACKET"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2997", 
+                "description": "", 
                 "title": "LEFT BLACK TORTOISE SHELL BRACKET"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x2998", 
+                "description": "", 
                 "title": "RIGHT BLACK TORTOISE SHELL BRACKET"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "Fence", 
                 "cat4": "", 
                 "charcode": "0x2999", 
+                "description": "", 
                 "title": "DOTTED FENCE"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "Fence", 
                 "cat4": "", 
                 "charcode": "0x299a", 
+                "description": "", 
                 "title": "VERTICAL ZIGZAG LINE"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x299b", 
+                "description": "", 
                 "title": "MEASURED ANGLE OPENING LEFT"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x299c", 
+                "description": "", 
                 "title": "RIGHT ANGLE VARIANT WITH SQUARE"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x299d", 
+                "description": "", 
                 "title": "MEASURED RIGHT ANGLE WITH DOT"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x299e", 
+                "description": "", 
                 "title": "ANGLE WITH S INSIDE"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x299f", 
+                "description": "", 
                 "title": "ACUTE ANGLE"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29a0", 
+                "description": "", 
                 "title": "SPHERICAL ANGLE OPENING LEFT"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29a1", 
+                "description": "", 
                 "title": "SPHERICAL ANGLE OPENING UP"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29a2", 
+                "description": "", 
                 "title": "TURNED ANGLE"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29a3", 
+                "description": "", 
                 "title": "REVERSED ANGLE"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29a4", 
+                "description": "", 
                 "title": "ANGLE WITH UNDERBAR"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29a5", 
+                "description": "", 
                 "title": "REVERSED ANGLE WITH UNDERBAR"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29a6", 
+                "description": "", 
                 "title": "OBLIQUE ANGLE OPENING UP"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29a7", 
+                "description": "", 
                 "title": "OBLIQUE ANGLE OPENING DOWN"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29a8", 
+                "description": "", 
                 "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND RIGHT"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29a9", 
+                "description": "", 
                 "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING UP AND LEFT"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29aa", 
+                "description": "", 
                 "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND RIGHT"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29ab", 
+                "description": "", 
                 "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING DOWN AND LEFT"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29ac", 
+                "description": "", 
                 "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND UP"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29ad", 
+                "description": "", 
                 "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND UP"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29ae", 
+                "description": "", 
                 "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING RIGHT AND DOWN"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "Angle", 
                 "cat4": "", 
                 "charcode": "0x29af", 
+                "description": "", 
                 "title": "MEASURED ANGLE WITH OPEN ARM ENDING IN ARROW POINTING LEFT AND DOWN"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "Empty set", 
                 "cat4": "", 
                 "charcode": "0x29b0", 
+                "description": "", 
                 "title": "REVERSED EMPTY SET"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "Empty set", 
                 "cat4": "", 
                 "charcode": "0x29b1", 
+                "description": "", 
                 "title": "EMPTY SET WITH OVERBAR"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "Empty set", 
                 "cat4": "", 
                 "charcode": "0x29b2", 
+                "description": "", 
                 "title": "EMPTY SET WITH SMALL CIRCLE ABOVE"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "Empty set", 
                 "cat4": "", 
                 "charcode": "0x29b3", 
+                "description": "", 
                 "title": "EMPTY SET WITH RIGHT ARROW ABOVE"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "Empty set", 
                 "cat4": "", 
                 "charcode": "0x29b4", 
+                "description": "", 
                 "title": "EMPTY SET WITH LEFT ARROW ABOVE"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29b5", 
+                "description": "", 
                 "title": "CIRCLE WITH HORIZONTAL BAR"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29b6", 
+                "description": "", 
                 "title": "CIRCLED VERTICAL BAR"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29b7", 
+                "description": "", 
                 "title": "CIRCLED PARALLEL"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29b8", 
+                "description": "", 
                 "title": "CIRCLED REVERSE SOLIDUS"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29b9", 
+                "description": "", 
                 "title": "CIRCLED PERPENDICULAR"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29ba", 
+                "description": "", 
                 "title": "CIRCLE DIVIDED BY HORIZONTAL BAR AND TOP HALF DIVIDED BY VERTICAL BAR"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29bb", 
+                "description": "", 
                 "title": "CIRCLE WITH SUPERIMPOSED X"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29bc", 
+                "description": "", 
                 "title": "CIRCLED ANTICLOCKWISE-ROTATED DIVISION SIGN"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29bd", 
+                "description": "", 
                 "title": "UP ARROW THROUGH CIRCLE"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29be", 
+                "description": "", 
                 "title": "CIRCLED WHITE BULLET"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29bf", 
+                "description": "", 
                 "title": "CIRCLED BULLET"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29c0", 
+                "description": "", 
                 "title": "CIRCLED LESS-THAN"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29c1", 
+                "description": "", 
                 "title": "CIRCLED GREATER-THAN"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29c2", 
+                "description": "", 
                 "title": "CIRCLE WITH SMALL CIRCLE TO THE RIGHT"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29c3", 
+                "description": "", 
                 "title": "CIRCLE WITH TWO HORIZONTAL STROKES TO THE RIGHT"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29c4", 
+                "description": "", 
                 "title": "SQUARED RISING DIAGONAL SLASH"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29c5", 
+                "description": "", 
                 "title": "SQUARED FALLING DIAGONAL SLASH"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29c6", 
+                "description": "", 
                 "title": "SQUARED ASTERISK"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29c7", 
+                "description": "", 
                 "title": "SQUARED SMALL CIRCLE"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29c8", 
+                "description": "", 
                 "title": "SQUARED SQUARE"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29c9", 
+                "description": "", 
                 "title": "TWO JOINED SQUARES"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29ca", 
+                "description": "", 
                 "title": "TRIANGLE WITH DOT ABOVE"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29cb", 
+                "description": "", 
                 "title": "TRIANGLE WITH UNDERBAR"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29cc", 
+                "description": "", 
                 "title": "S IN TRIANGLE"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29cd", 
+                "description": "", 
                 "title": "TRIANGLE WITH SERIFS AT BOTTOM"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29ce", 
+                "description": "", 
                 "title": "RIGHT TRIANGLE ABOVE LEFT TRIANGLE"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29cf", 
+                "description": "", 
                 "title": "LEFT TRIANGLE BESIDE VERTICAL BAR"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29d0", 
+                "description": "", 
                 "title": "VERTICAL BAR BESIDE RIGHT TRIANGLE"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29d1", 
+                "description": "", 
                 "title": "BOWTIE WITH LEFT HALF BLACK"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29d2", 
+                "description": "", 
                 "title": "BOWTIE WITH RIGHT HALF BLACK"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29d3", 
+                "description": "", 
                 "title": "BLACK BOWTIE"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29d4", 
+                "description": "", 
                 "title": "TIMES WITH LEFT HALF BLACK"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29d5", 
+                "description": "", 
                 "title": "TIMES WITH RIGHT HALF BLACK"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29d6", 
+                "description": "", 
                 "title": "WHITE HOURGLASS"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29d7", 
+                "description": "", 
                 "title": "BLACK HOURGLASS"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "Fence", 
                 "cat4": "", 
                 "charcode": "0x29d8", 
+                "description": "", 
                 "title": "LEFT WIGGLY FENCE"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "Fence", 
                 "cat4": "", 
                 "charcode": "0x29d9", 
+                "description": "", 
                 "title": "RIGHT WIGGLY FENCE"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "Fence", 
                 "cat4": "", 
                 "charcode": "0x29da", 
+                "description": "", 
                 "title": "LEFT DOUBLE WIGGLY FENCE"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "Fence", 
                 "cat4": "", 
                 "charcode": "0x29db", 
+                "description": "", 
                 "title": "RIGHT DOUBLE WIGGLY FENCE"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29dc", 
+                "description": "", 
                 "title": "INCOMPLETE INFINITY"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29dd", 
+                "description": "", 
                 "title": "TIE OVER INFINITY"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29de", 
+                "description": "", 
                 "title": "INFINITY NEGATED WITH VERTICAL BAR"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29df", 
+                "description": "", 
                 "title": "DOUBLE-ENDED MULTIMAP"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29e0", 
+                "description": "", 
                 "title": "SQUARE WITH CONTOURED OUTLINE"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29e1", 
+                "description": "", 
                 "title": "INCREASES AS"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29e2", 
+                "description": "", 
                 "title": "SHUFFLE PRODUCT"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x29e3", 
+                "description": "", 
                 "title": "EQUALS SIGN AND SLANTED PARALLEL"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x29e4", 
+                "description": "", 
                 "title": "EQUALS SIGN AND SLANTED PARALLEL WITH TILDE ABOVE"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x29e5", 
+                "description": "", 
                 "title": "IDENTICAL TO AND SLANTED PARALLEL"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "Relation", 
                 "cat4": "", 
                 "charcode": "0x29e6", 
+                "description": "", 
                 "title": "GLEICH STARK"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29e7", 
+                "description": "", 
                 "title": "THERMODYNAMIC"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29e8", 
+                "description": "", 
                 "title": "DOWN-POINTING TRIANGLE WITH LEFT HALF BLACK"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29e9", 
+                "description": "", 
                 "title": "DOWN-POINTING TRIANGLE WITH RIGHT HALF BLACK"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29ea", 
+                "description": "", 
                 "title": "BLACK DIAMOND WITH DOWN ARROW"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29eb", 
+                "description": "", 
                 "title": "BLACK LOZENGE"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29ec", 
+                "description": "", 
                 "title": "WHITE CIRCLE WITH DOWN ARROW"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29ed", 
+                "description": "", 
                 "title": "BLACK CIRCLE WITH DOWN ARROW"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "Error bar", 
                 "cat4": "", 
                 "charcode": "0x29ee", 
+                "description": "", 
                 "title": "ERROR-BARRED WHITE SQUARE"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "Error bar", 
                 "cat4": "", 
                 "charcode": "0x29ef", 
+                "description": "", 
                 "title": "ERROR-BARRED BLACK SQUARE"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "Error bar", 
                 "cat4": "", 
                 "charcode": "0x29f0", 
+                "description": "", 
                 "title": "ERROR-BARRED WHITE DIAMOND"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "Error bar", 
                 "cat4": "", 
                 "charcode": "0x29f1", 
+                "description": "", 
                 "title": "ERROR-BARRED BLACK DIAMOND"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "Error bar", 
                 "cat4": "", 
                 "charcode": "0x29f2", 
+                "description": "", 
                 "title": "ERROR-BARRED WHITE CIRCLE"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "Error bar", 
                 "cat4": "", 
                 "charcode": "0x29f3", 
+                "description": "", 
                 "title": "ERROR-BARRED BLACK CIRCLE"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x29f4", 
+                "description": "", 
                 "title": "RULE-DELAYED"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x29f5", 
+                "description": "", 
                 "title": "REVERSE SOLIDUS OPERATOR"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x29f6", 
+                "description": "", 
                 "title": "SOLIDUS WITH OVERBAR"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x29f7", 
+                "description": "", 
                 "title": "REVERSE SOLIDUS WITH HORIZONTAL STROKE"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x29f8", 
+                "description": "", 
                 "title": "BIG SOLIDUS"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x29f9", 
+                "description": "", 
                 "title": "BIG REVERSE SOLIDUS"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x29fa", 
+                "description": "", 
                 "title": "DOUBLE PLUS"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x29fb", 
+                "description": "", 
                 "title": "TRIPLE PLUS"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x29fc", 
+                "description": "", 
                 "title": "LEFT-POINTING CURVED ANGLE BRACKET"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x29fd", 
+                "description": "", 
                 "title": "RIGHT-POINTING CURVED ANGLE BRACKET"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x29fe", 
+                "description": "", 
                 "title": "TINY"
             }
         ], 

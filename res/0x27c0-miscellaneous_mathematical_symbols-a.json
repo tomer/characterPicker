@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27c0", 
+                "description": "", 
                 "title": "THREE DIMENSIONAL ANGLE"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27c1", 
+                "description": "", 
                 "title": "WHITE TRIANGLE CONTAINING SMALL WHITE TRIANGLE"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27c2", 
+                "description": "", 
                 "title": "PERPENDICULAR"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27c3", 
+                "description": "", 
                 "title": "OPEN SUBSET"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27c4", 
+                "description": "", 
                 "title": "OPEN SUPERSET"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27c5", 
+                "description": "", 
                 "title": "LEFT S-SHAPED BAG DELIMITER"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27c6", 
+                "description": "", 
                 "title": "RIGHT S-SHAPED BAG DELIMITER"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27c7", 
+                "description": "", 
                 "title": "OR WITH DOT INSIDE"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27c8", 
+                "description": "", 
                 "title": "REVERSE SOLIDUS PRECEDING SUBSET"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27c9", 
+                "description": "", 
                 "title": "SUPERSET PRECEDING SOLIDUS"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27ca", 
+                "description": "", 
                 "title": "VERTICAL BAR WITH HORIZONTAL STROKE"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27cb", 
+                "description": "", 
                 "title": "MATHEMATICAL RISING DIAGONAL"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x27cc", 
+                "description": "", 
                 "title": "LONG DIVISION"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27cd", 
+                "description": "", 
                 "title": "MATHEMATICAL FALLING DIAGONAL"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27ce", 
+                "description": "", 
                 "title": "SQUARED LOGICAL AND"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27cf", 
+                "description": "", 
                 "title": "SQUARED LOGICAL OR"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27d0", 
+                "description": "", 
                 "title": "WHITE DIAMOND WITH CENTRED DOT"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27d1", 
+                "description": "", 
                 "title": "AND WITH DOT"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27d2", 
+                "description": "", 
                 "title": "ELEMENT OF OPENING UPWARDS"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27d3", 
+                "description": "", 
                 "title": "LOWER RIGHT CORNER WITH DOT"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27d4", 
+                "description": "", 
                 "title": "UPPER LEFT CORNER WITH DOT"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x27d5", 
+                "description": "", 
                 "title": "LEFT OUTER JOIN"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x27d6", 
+                "description": "", 
                 "title": "RIGHT OUTER JOIN"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x27d7", 
+                "description": "", 
                 "title": "FULL OUTER JOIN"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x27d8", 
+                "description": "", 
                 "title": "LARGE UP TACK"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "Operator", 
                 "cat4": "Large", 
                 "charcode": "0x27d9", 
+                "description": "", 
                 "title": "LARGE DOWN TACK"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27da", 
+                "description": "", 
                 "title": "LEFT AND RIGHT DOUBLE TURNSTILE"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27db", 
+                "description": "", 
                 "title": "LEFT AND RIGHT TACK"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27dc", 
+                "description": "", 
                 "title": "LEFT MULTIMAP"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27dd", 
+                "description": "", 
                 "title": "LONG RIGHT TACK"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27de", 
+                "description": "", 
                 "title": "LONG LEFT TACK"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "Operator", 
                 "cat4": "", 
                 "charcode": "0x27df", 
+                "description": "", 
                 "title": "UP TACK WITH CIRCLE ABOVE"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "Operator", 
                 "cat4": "Modal logic", 
                 "charcode": "0x27e0", 
+                "description": "", 
                 "title": "LOZENGE DIVIDED BY HORIZONTAL RULE"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "Operator", 
                 "cat4": "Modal logic", 
                 "charcode": "0x27e1", 
+                "description": "", 
                 "title": "WHITE CONCAVE-SIDED DIAMOND"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "Operator", 
                 "cat4": "Modal logic", 
                 "charcode": "0x27e2", 
+                "description": "", 
                 "title": "WHITE CONCAVE-SIDED DIAMOND WITH LEFTWARDS TICK"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "Operator", 
                 "cat4": "Modal logic", 
                 "charcode": "0x27e3", 
+                "description": "", 
                 "title": "WHITE CONCAVE-SIDED DIAMOND WITH RIGHTWARDS TICK"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "Operator", 
                 "cat4": "Modal logic", 
                 "charcode": "0x27e4", 
+                "description": "", 
                 "title": "WHITE SQUARE WITH LEFTWARDS TICK"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "Operator", 
                 "cat4": "Modal logic", 
                 "charcode": "0x27e5", 
+                "description": "", 
                 "title": "WHITE SQUARE WITH RIGHTWARDS TICK"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x27e6", 
+                "description": "", 
                 "title": "MATHEMATICAL LEFT WHITE SQUARE BRACKET"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x27e7", 
+                "description": "", 
                 "title": "MATHEMATICAL RIGHT WHITE SQUARE BRACKET"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x27e8", 
+                "description": "", 
                 "title": "MATHEMATICAL LEFT ANGLE BRACKET"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x27e9", 
+                "description": "", 
                 "title": "MATHEMATICAL RIGHT ANGLE BRACKET"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x27ea", 
+                "description": "", 
                 "title": "MATHEMATICAL LEFT DOUBLE ANGLE BRACKET"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x27eb", 
+                "description": "", 
                 "title": "MATHEMATICAL RIGHT DOUBLE ANGLE BRACKET"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x27ec", 
+                "description": "", 
                 "title": "MATHEMATICAL LEFT WHITE TORTOISE SHELL BRACKET"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x27ed", 
+                "description": "", 
                 "title": "MATHEMATICAL RIGHT WHITE TORTOISE SHELL BRACKET"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "Math", 
                 "cat4": "", 
                 "charcode": "0x27ee", 
+                "description": "", 
                 "title": "MATHEMATICAL LEFT FLATTENED PARENTHESIS"
             }
         ], 

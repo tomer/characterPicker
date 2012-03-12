@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x3190", 
+                "description": "KANBUN TATETEN", 
                 "title": "IDEOGRAPHIC ANNOTATION LINKING MARK"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x3191", 
+                "description": "KAERITEN RE", 
                 "title": "IDEOGRAPHIC ANNOTATION REVERSE MARK"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x3192", 
+                "description": "KAERITEN ITI", 
                 "title": "IDEOGRAPHIC ANNOTATION ONE MARK"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x3193", 
+                "description": "KAERITEN NI", 
                 "title": "IDEOGRAPHIC ANNOTATION TWO MARK"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x3194", 
+                "description": "KAERITEN SAN", 
                 "title": "IDEOGRAPHIC ANNOTATION THREE MARK"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x3195", 
+                "description": "KAERITEN SI", 
                 "title": "IDEOGRAPHIC ANNOTATION FOUR MARK"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x3196", 
+                "description": "KAERITEN ZYOU", 
                 "title": "IDEOGRAPHIC ANNOTATION TOP MARK"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x3197", 
+                "description": "KAERITEN TYUU", 
                 "title": "IDEOGRAPHIC ANNOTATION MIDDLE MARK"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x3198", 
+                "description": "KAERITEN GE", 
                 "title": "IDEOGRAPHIC ANNOTATION BOTTOM MARK"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x3199", 
+                "description": "KAERITEN KOU", 
                 "title": "IDEOGRAPHIC ANNOTATION FIRST MARK"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x319a", 
+                "description": "KAERITEN OTU", 
                 "title": "IDEOGRAPHIC ANNOTATION SECOND MARK"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x319b", 
+                "description": "KAERITEN HEI", 
                 "title": "IDEOGRAPHIC ANNOTATION THIRD MARK"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x319c", 
+                "description": "KAERITEN TEI", 
                 "title": "IDEOGRAPHIC ANNOTATION FOURTH MARK"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x319d", 
+                "description": "KAERITEN TEN", 
                 "title": "IDEOGRAPHIC ANNOTATION HEAVEN MARK"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Superscript", 
                 "cat4": "", 
                 "charcode": "0x319e", 
+                "description": "KAERITEN TI", 
                 "title": "IDEOGRAPHIC ANNOTATION EARTH MARK"
             }
         ], 

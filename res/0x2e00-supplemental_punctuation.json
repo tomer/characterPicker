@@ -7,6 +7,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e00", 
+                "description": "", 
                 "title": "RIGHT ANGLE SUBSTITUTION MARKER"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e01", 
+                "description": "", 
                 "title": "RIGHT ANGLE DOTTED SUBSTITUTION MARKER"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e02", 
+                "description": "", 
                 "title": "LEFT SUBSTITUTION BRACKET"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e03", 
+                "description": "", 
                 "title": "RIGHT SUBSTITUTION BRACKET"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e04", 
+                "description": "", 
                 "title": "LEFT DOTTED SUBSTITUTION BRACKET"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e05", 
+                "description": "", 
                 "title": "RIGHT DOTTED SUBSTITUTION BRACKET"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e06", 
+                "description": "", 
                 "title": "RAISED INTERPOLATION MARKER"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e07", 
+                "description": "", 
                 "title": "RAISED DOTTED INTERPOLATION MARKER"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e08", 
+                "description": "", 
                 "title": "DOTTED TRANSPOSITION MARKER"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e09", 
+                "description": "", 
                 "title": "LEFT TRANSPOSITION BRACKET"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e0a", 
+                "description": "", 
                 "title": "RIGHT TRANSPOSITION BRACKET"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e0b", 
+                "description": "", 
                 "title": "RAISED SQUARE"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e0c", 
+                "description": "", 
                 "title": "LEFT RAISED OMISSION BRACKET"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Biblical", 
                 "cat4": "", 
                 "charcode": "0x2e0d", 
+                "description": "", 
                 "title": "RIGHT RAISED OMISSION BRACKET"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e0e", 
+                "description": "", 
                 "title": "EDITORIAL CORONIS"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e0f", 
+                "description": "", 
                 "title": "PARAGRAPHOS"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e10", 
+                "description": "", 
                 "title": "FORKED PARAGRAPHOS"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e11", 
+                "description": "", 
                 "title": "REVERSED FORKED PARAGRAPHOS"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e12", 
+                "description": "", 
                 "title": "HYPODIASTOLE"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e13", 
+                "description": "", 
                 "title": "DOTTED OBELOS"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e14", 
+                "description": "", 
                 "title": "DOWNWARDS ANCORA"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e15", 
+                "description": "", 
                 "title": "UPWARDS ANCORA"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e16", 
+                "description": "", 
                 "title": "DOTTED RIGHT-POINTING ANGLE"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e17", 
+                "description": "", 
                 "title": "DOUBLE OBLIQUE HYPHEN"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e18", 
+                "description": "", 
                 "title": "INVERTED INTERROBANG"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e19", 
+                "description": "", 
                 "title": "PALM BRANCH"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e1a", 
+                "description": "", 
                 "title": "HYPHEN WITH DIAERESIS"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e1b", 
+                "description": "", 
                 "title": "TILDE WITH RING ABOVE"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e1c", 
+                "description": "", 
                 "title": "LEFT LOW PARAPHRASE BRACKET"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e1d", 
+                "description": "", 
                 "title": "RIGHT LOW PARAPHRASE BRACKET"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e1e", 
+                "description": "", 
                 "title": "TILDE WITH DOT ABOVE"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e1f", 
+                "description": "", 
                 "title": "TILDE WITH DOT BELOW"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e20", 
+                "description": "", 
                 "title": "LEFT VERTICAL BAR WITH QUILL"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e21", 
+                "description": "", 
                 "title": "RIGHT VERTICAL BAR WITH QUILL"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e22", 
+                "description": "", 
                 "title": "TOP LEFT HALF BRACKET"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e23", 
+                "description": "", 
                 "title": "TOP RIGHT HALF BRACKET"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e24", 
+                "description": "", 
                 "title": "BOTTOM LEFT HALF BRACKET"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e25", 
+                "description": "", 
                 "title": "BOTTOM RIGHT HALF BRACKET"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e26", 
+                "description": "", 
                 "title": "LEFT SIDEWAYS U BRACKET"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e27", 
+                "description": "", 
                 "title": "RIGHT SIDEWAYS U BRACKET"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e28", 
+                "description": "", 
                 "title": "LEFT DOUBLE PARENTHESIS"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e29", 
+                "description": "", 
                 "title": "RIGHT DOUBLE PARENTHESIS"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e2a", 
+                "description": "", 
                 "title": "TWO DOTS OVER ONE DOT PUNCTUATION"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e2b", 
+                "description": "", 
                 "title": "ONE DOT OVER TWO DOTS PUNCTUATION"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e2c", 
+                "description": "", 
                 "title": "SQUARED FOUR DOT PUNCTUATION"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e2d", 
+                "description": "", 
                 "title": "FIVE DOT MARK"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e2e", 
+                "description": "", 
                 "title": "REVERSED QUESTION MARK"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e2f", 
+                "description": "", 
                 "title": "VERTICAL TILDE"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e30", 
+                "description": "", 
                 "title": "RING POINT"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e31", 
+                "description": "", 
                 "title": "WORD SEPARATOR MIDDLE DOT"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e32", 
+                "description": "", 
                 "title": "TURNED COMMA"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e33", 
+                "description": "", 
                 "title": "RAISED DOT"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e34", 
+                "description": "", 
                 "title": "RAISED COMMA"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e35", 
+                "description": "", 
                 "title": "TURNED SEMICOLON"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e36", 
+                "description": "", 
                 "title": "DAGGER WITH LEFT GUARD"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e37", 
+                "description": "", 
                 "title": "DAGGER WITH RIGHT GUARD"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e38", 
+                "description": "", 
                 "title": "TURNED DAGGER"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e39", 
+                "description": "", 
                 "title": "TOP HALF SECTION SIGN"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e3a", 
+                "description": "", 
                 "title": "TWO-EM DASH"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2e3b", 
+                "description": "", 
                 "title": "THREE-EM DASH"
             }
         ], 

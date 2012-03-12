@@ -7,6 +7,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2400", 
+                "description": "GRAPHIC FOR NULL", 
                 "title": "SYMBOL FOR NULL"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2401", 
+                "description": "GRAPHIC FOR START OF HEADING", 
                 "title": "SYMBOL FOR START OF HEADING"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2402", 
+                "description": "GRAPHIC FOR START OF TEXT", 
                 "title": "SYMBOL FOR START OF TEXT"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2403", 
+                "description": "GRAPHIC FOR END OF TEXT", 
                 "title": "SYMBOL FOR END OF TEXT"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2404", 
+                "description": "GRAPHIC FOR END OF TRANSMISSION", 
                 "title": "SYMBOL FOR END OF TRANSMISSION"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2405", 
+                "description": "GRAPHIC FOR ENQUIRY", 
                 "title": "SYMBOL FOR ENQUIRY"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2406", 
+                "description": "GRAPHIC FOR ACKNOWLEDGE", 
                 "title": "SYMBOL FOR ACKNOWLEDGE"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2407", 
+                "description": "GRAPHIC FOR BELL", 
                 "title": "SYMBOL FOR BELL"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2408", 
+                "description": "GRAPHIC FOR BACKSPACE", 
                 "title": "SYMBOL FOR BACKSPACE"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2409", 
+                "description": "GRAPHIC FOR HORIZONTAL TABULATION", 
                 "title": "SYMBOL FOR HORIZONTAL TABULATION"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x240a", 
+                "description": "GRAPHIC FOR LINE FEED", 
                 "title": "SYMBOL FOR LINE FEED"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x240b", 
+                "description": "GRAPHIC FOR VERTICAL TABULATION", 
                 "title": "SYMBOL FOR VERTICAL TABULATION"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x240c", 
+                "description": "GRAPHIC FOR FORM FEED", 
                 "title": "SYMBOL FOR FORM FEED"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x240d", 
+                "description": "GRAPHIC FOR CARRIAGE RETURN", 
                 "title": "SYMBOL FOR CARRIAGE RETURN"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x240e", 
+                "description": "GRAPHIC FOR SHIFT OUT", 
                 "title": "SYMBOL FOR SHIFT OUT"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x240f", 
+                "description": "GRAPHIC FOR SHIFT IN", 
                 "title": "SYMBOL FOR SHIFT IN"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2410", 
+                "description": "GRAPHIC FOR DATA LINK ESCAPE", 
                 "title": "SYMBOL FOR DATA LINK ESCAPE"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2411", 
+                "description": "GRAPHIC FOR DEVICE CONTROL ONE", 
                 "title": "SYMBOL FOR DEVICE CONTROL ONE"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2412", 
+                "description": "GRAPHIC FOR DEVICE CONTROL TWO", 
                 "title": "SYMBOL FOR DEVICE CONTROL TWO"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2413", 
+                "description": "GRAPHIC FOR DEVICE CONTROL THREE", 
                 "title": "SYMBOL FOR DEVICE CONTROL THREE"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2414", 
+                "description": "GRAPHIC FOR DEVICE CONTROL FOUR", 
                 "title": "SYMBOL FOR DEVICE CONTROL FOUR"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2415", 
+                "description": "GRAPHIC FOR NEGATIVE ACKNOWLEDGE", 
                 "title": "SYMBOL FOR NEGATIVE ACKNOWLEDGE"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2416", 
+                "description": "GRAPHIC FOR SYNCHRONOUS IDLE", 
                 "title": "SYMBOL FOR SYNCHRONOUS IDLE"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2417", 
+                "description": "GRAPHIC FOR END OF TRANSMISSION BLOCK", 
                 "title": "SYMBOL FOR END OF TRANSMISSION BLOCK"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2418", 
+                "description": "GRAPHIC FOR CANCEL", 
                 "title": "SYMBOL FOR CANCEL"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2419", 
+                "description": "GRAPHIC FOR END OF MEDIUM", 
                 "title": "SYMBOL FOR END OF MEDIUM"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x241a", 
+                "description": "GRAPHIC FOR SUBSTITUTE", 
                 "title": "SYMBOL FOR SUBSTITUTE"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x241b", 
+                "description": "GRAPHIC FOR ESCAPE", 
                 "title": "SYMBOL FOR ESCAPE"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x241c", 
+                "description": "GRAPHIC FOR FILE SEPARATOR", 
                 "title": "SYMBOL FOR FILE SEPARATOR"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x241d", 
+                "description": "GRAPHIC FOR GROUP SEPARATOR", 
                 "title": "SYMBOL FOR GROUP SEPARATOR"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x241e", 
+                "description": "GRAPHIC FOR RECORD SEPARATOR", 
                 "title": "SYMBOL FOR RECORD SEPARATOR"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x241f", 
+                "description": "GRAPHIC FOR UNIT SEPARATOR", 
                 "title": "SYMBOL FOR UNIT SEPARATOR"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2420", 
+                "description": "GRAPHIC FOR SPACE", 
                 "title": "SYMBOL FOR SPACE"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2421", 
+                "description": "GRAPHIC FOR DELETE", 
                 "title": "SYMBOL FOR DELETE"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "Space", 
                 "cat4": "", 
                 "charcode": "0x2422", 
+                "description": "BLANK", 
                 "title": "BLANK SYMBOL"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "Space", 
                 "cat4": "", 
                 "charcode": "0x2423", 
+                "description": "", 
                 "title": "OPEN BOX"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2424", 
+                "description": "GRAPHIC FOR NEWLINE", 
                 "title": "SYMBOL FOR NEWLINE"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "Keyboard", 
                 "cat4": "", 
                 "charcode": "0x2425", 
+                "description": "", 
                 "title": "SYMBOL FOR DELETE FORM TWO"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "Control code", 
                 "cat4": "", 
                 "charcode": "0x2426", 
+                "description": "", 
                 "title": "SYMBOL FOR SUBSTITUTE FORM TWO"
             }
         ], 

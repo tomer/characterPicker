@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27f0", 
+                "description": "", 
                 "title": "UPWARDS QUADRUPLE ARROW"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27f1", 
+                "description": "", 
                 "title": "DOWNWARDS QUADRUPLE ARROW"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27f2", 
+                "description": "", 
                 "title": "ANTICLOCKWISE GAPPED CIRCLE ARROW"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27f3", 
+                "description": "", 
                 "title": "CLOCKWISE GAPPED CIRCLE ARROW"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x27f4", 
+                "description": "", 
                 "title": "RIGHT ARROW WITH CIRCLED PLUS"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Long", 
                 "cat4": "", 
                 "charcode": "0x27f5", 
+                "description": "", 
                 "title": "LONG LEFTWARDS ARROW"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Long", 
                 "cat4": "", 
                 "charcode": "0x27f6", 
+                "description": "", 
                 "title": "LONG RIGHTWARDS ARROW"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Long", 
                 "cat4": "", 
                 "charcode": "0x27f7", 
+                "description": "", 
                 "title": "LONG LEFT RIGHT ARROW"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Long", 
                 "cat4": "", 
                 "charcode": "0x27f8", 
+                "description": "", 
                 "title": "LONG LEFTWARDS DOUBLE ARROW"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Long", 
                 "cat4": "", 
                 "charcode": "0x27f9", 
+                "description": "", 
                 "title": "LONG RIGHTWARDS DOUBLE ARROW"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Long", 
                 "cat4": "", 
                 "charcode": "0x27fa", 
+                "description": "", 
                 "title": "LONG LEFT RIGHT DOUBLE ARROW"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Long", 
                 "cat4": "", 
                 "charcode": "0x27fb", 
+                "description": "", 
                 "title": "LONG LEFTWARDS ARROW FROM BAR"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Long", 
                 "cat4": "", 
                 "charcode": "0x27fc", 
+                "description": "", 
                 "title": "LONG RIGHTWARDS ARROW FROM BAR"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Long", 
                 "cat4": "", 
                 "charcode": "0x27fd", 
+                "description": "", 
                 "title": "LONG LEFTWARDS DOUBLE ARROW FROM BAR"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Long", 
                 "cat4": "", 
                 "charcode": "0x27fe", 
+                "description": "", 
                 "title": "LONG RIGHTWARDS DOUBLE ARROW FROM BAR"
             }
         ], 

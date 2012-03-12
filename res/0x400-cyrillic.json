@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x400", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER IE WITH GRAVE"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x401", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER IO"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x402", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER DJE"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x403", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER GJE"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x404", 
+                "description": "CYRILLIC CAPITAL LETTER E", 
                 "title": "CYRILLIC CAPITAL LETTER UKRAINIAN IE"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x405", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER DZE"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x406", 
+                "description": "CYRILLIC CAPITAL LETTER I", 
                 "title": "CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x407", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER YI"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x408", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER JE"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x409", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER LJE"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x40a", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER NJE"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x40b", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER TSHE"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x40c", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER KJE"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x40d", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER I WITH GRAVE"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x40e", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER SHORT U"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x40f", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER DZHE"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x410", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER A"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x411", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER BE"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x412", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER VE"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x413", 
+                "description": "CYRILLIC CAPITAL LETTER GE", 
                 "title": "CYRILLIC CAPITAL LETTER GHE"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x414", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER DE"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x415", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER IE"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x416", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER ZHE"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x417", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER ZE"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x418", 
+                "description": "CYRILLIC CAPITAL LETTER II", 
                 "title": "CYRILLIC CAPITAL LETTER I"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x419", 
+                "description": "CYRILLIC CAPITAL LETTER SHORT II", 
                 "title": "CYRILLIC CAPITAL LETTER SHORT I"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x41a", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER KA"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x41b", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER EL"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x41c", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER EM"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x41d", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER EN"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x41e", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER O"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x41f", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER PE"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x420", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER ER"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x421", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER ES"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x422", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER TE"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x423", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER U"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x424", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER EF"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x425", 
+                "description": "CYRILLIC CAPITAL LETTER KHA", 
                 "title": "CYRILLIC CAPITAL LETTER HA"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x426", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER TSE"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x427", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER CHE"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x428", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER SHA"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x429", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER SHCHA"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x42a", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER HARD SIGN"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x42b", 
+                "description": "CYRILLIC CAPITAL LETTER YERI", 
                 "title": "CYRILLIC CAPITAL LETTER YERU"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x42c", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER SOFT SIGN"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x42d", 
+                "description": "CYRILLIC CAPITAL LETTER REVERSED E", 
                 "title": "CYRILLIC CAPITAL LETTER E"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x42e", 
+                "description": "CYRILLIC CAPITAL LETTER IU", 
                 "title": "CYRILLIC CAPITAL LETTER YU"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x42f", 
+                "description": "CYRILLIC CAPITAL LETTER IA", 
                 "title": "CYRILLIC CAPITAL LETTER YA"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x430", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER A"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x431", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER BE"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x432", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER VE"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x433", 
+                "description": "CYRILLIC SMALL LETTER GE", 
                 "title": "CYRILLIC SMALL LETTER GHE"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x434", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER DE"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x435", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER IE"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x436", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER ZHE"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x437", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER ZE"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x438", 
+                "description": "CYRILLIC SMALL LETTER II", 
                 "title": "CYRILLIC SMALL LETTER I"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x439", 
+                "description": "CYRILLIC SMALL LETTER SHORT II", 
                 "title": "CYRILLIC SMALL LETTER SHORT I"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x43a", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER KA"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x43b", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER EL"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x43c", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER EM"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x43d", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER EN"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x43e", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER O"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x43f", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER PE"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x440", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER ER"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x441", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER ES"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x442", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER TE"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x443", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER U"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x444", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER EF"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x445", 
+                "description": "CYRILLIC SMALL LETTER KHA", 
                 "title": "CYRILLIC SMALL LETTER HA"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x446", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER TSE"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x447", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER CHE"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x448", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER SHA"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x449", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER SHCHA"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x44a", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER HARD SIGN"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x44b", 
+                "description": "CYRILLIC SMALL LETTER YERI", 
                 "title": "CYRILLIC SMALL LETTER YERU"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x44c", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER SOFT SIGN"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x44d", 
+                "description": "CYRILLIC SMALL LETTER REVERSED E", 
                 "title": "CYRILLIC SMALL LETTER E"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x44e", 
+                "description": "CYRILLIC SMALL LETTER IU", 
                 "title": "CYRILLIC SMALL LETTER YU"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x44f", 
+                "description": "CYRILLIC SMALL LETTER IA", 
                 "title": "CYRILLIC SMALL LETTER YA"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x450", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER IE WITH GRAVE"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x451", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER IO"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x452", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER DJE"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x453", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER GJE"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x454", 
+                "description": "CYRILLIC SMALL LETTER E", 
                 "title": "CYRILLIC SMALL LETTER UKRAINIAN IE"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x455", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER DZE"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x456", 
+                "description": "CYRILLIC SMALL LETTER I", 
                 "title": "CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x457", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER YI"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x458", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER JE"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x459", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER LJE"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x45a", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER NJE"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x45b", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER TSHE"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x45c", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER KJE"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x45d", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER I WITH GRAVE"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x45e", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER SHORT U"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x45f", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER DZHE"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x460", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER OMEGA"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x461", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER OMEGA"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x462", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER YAT"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x463", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER YAT"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x464", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER IOTIFIED E"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x465", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER IOTIFIED E"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x466", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER LITTLE YUS"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x467", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER LITTLE YUS"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x468", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER IOTIFIED LITTLE YUS"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x469", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER IOTIFIED LITTLE YUS"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x46a", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER BIG YUS"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x46b", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER BIG YUS"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x46c", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER IOTIFIED BIG YUS"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x46d", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER IOTIFIED BIG YUS"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x46e", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER KSI"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x46f", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER KSI"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x470", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER PSI"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x471", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER PSI"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x472", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER FITA"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x473", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER FITA"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x474", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER IZHITSA"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x475", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER IZHITSA"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x476", 
+                "description": "CYRILLIC CAPITAL LETTER IZHITSA DOUBLE GRAVE", 
                 "title": "CYRILLIC CAPITAL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x477", 
+                "description": "CYRILLIC SMALL LETTER IZHITSA DOUBLE GRAVE", 
                 "title": "CYRILLIC SMALL LETTER IZHITSA WITH DOUBLE GRAVE ACCENT"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x478", 
+                "description": "CYRILLIC CAPITAL LETTER UK DIGRAPH", 
                 "title": "CYRILLIC CAPITAL LETTER UK"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x479", 
+                "description": "CYRILLIC SMALL LETTER UK DIGRAPH", 
                 "title": "CYRILLIC SMALL LETTER UK"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x47a", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER ROUND OMEGA"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x47b", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER ROUND OMEGA"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x47c", 
+                "description": "CYRILLIC CAPITAL LETTER OMEGA TITLO", 
                 "title": "CYRILLIC CAPITAL LETTER OMEGA WITH TITLO"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x47d", 
+                "description": "CYRILLIC SMALL LETTER OMEGA TITLO", 
                 "title": "CYRILLIC SMALL LETTER OMEGA WITH TITLO"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x47e", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER OT"
             }, 
             {
@@ -1023,6 +1150,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x47f", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER OT"
             }, 
             {
@@ -1031,6 +1159,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x480", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER KOPPA"
             }, 
             {
@@ -1039,6 +1168,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x481", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER KOPPA"
             }, 
             {
@@ -1047,6 +1177,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x482", 
+                "description": "", 
                 "title": "CYRILLIC THOUSANDS SIGN"
             }, 
             {
@@ -1055,6 +1186,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x483", 
+                "description": "CYRILLIC NON-SPACING TITLO", 
                 "title": "COMBINING CYRILLIC TITLO"
             }, 
             {
@@ -1063,6 +1195,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x484", 
+                "description": "CYRILLIC NON-SPACING PALATALIZATION", 
                 "title": "COMBINING CYRILLIC PALATALIZATION"
             }, 
             {
@@ -1071,6 +1204,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x485", 
+                "description": "CYRILLIC NON-SPACING DASIA PNEUMATA", 
                 "title": "COMBINING CYRILLIC DASIA PNEUMATA"
             }, 
             {
@@ -1079,6 +1213,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x486", 
+                "description": "CYRILLIC NON-SPACING PSILI PNEUMATA", 
                 "title": "COMBINING CYRILLIC PSILI PNEUMATA"
             }, 
             {
@@ -1087,6 +1222,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x487", 
+                "description": "", 
                 "title": "COMBINING CYRILLIC POKRYTIE"
             }, 
             {
@@ -1095,6 +1231,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x488", 
+                "description": "", 
                 "title": "COMBINING CYRILLIC HUNDRED THOUSANDS SIGN"
             }, 
             {
@@ -1103,6 +1240,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x489", 
+                "description": "", 
                 "title": "COMBINING CYRILLIC MILLIONS SIGN"
             }, 
             {
@@ -1111,6 +1249,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x48a", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER SHORT I WITH TAIL"
             }, 
             {
@@ -1119,6 +1258,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x48b", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER SHORT I WITH TAIL"
             }, 
             {
@@ -1127,6 +1267,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x48c", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER SEMISOFT SIGN"
             }, 
             {
@@ -1135,6 +1276,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x48d", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER SEMISOFT SIGN"
             }, 
             {
@@ -1143,6 +1285,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x48e", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER ER WITH TICK"
             }, 
             {
@@ -1151,6 +1294,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x48f", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER ER WITH TICK"
             }, 
             {
@@ -1159,6 +1303,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x490", 
+                "description": "CYRILLIC CAPITAL LETTER GE WITH UPTURN", 
                 "title": "CYRILLIC CAPITAL LETTER GHE WITH UPTURN"
             }, 
             {
@@ -1167,6 +1312,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x491", 
+                "description": "CYRILLIC SMALL LETTER GE WITH UPTURN", 
                 "title": "CYRILLIC SMALL LETTER GHE WITH UPTURN"
             }, 
             {
@@ -1175,6 +1321,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x492", 
+                "description": "CYRILLIC CAPITAL LETTER GE BAR", 
                 "title": "CYRILLIC CAPITAL LETTER GHE WITH STROKE"
             }, 
             {
@@ -1183,6 +1330,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x493", 
+                "description": "CYRILLIC SMALL LETTER GE BAR", 
                 "title": "CYRILLIC SMALL LETTER GHE WITH STROKE"
             }, 
             {
@@ -1191,6 +1339,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x494", 
+                "description": "CYRILLIC CAPITAL LETTER GE HOOK", 
                 "title": "CYRILLIC CAPITAL LETTER GHE WITH MIDDLE HOOK"
             }, 
             {
@@ -1199,6 +1348,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x495", 
+                "description": "CYRILLIC SMALL LETTER GE HOOK", 
                 "title": "CYRILLIC SMALL LETTER GHE WITH MIDDLE HOOK"
             }, 
             {
@@ -1207,6 +1357,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x496", 
+                "description": "CYRILLIC CAPITAL LETTER ZHE WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC CAPITAL LETTER ZHE WITH DESCENDER"
             }, 
             {
@@ -1215,6 +1366,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x497", 
+                "description": "CYRILLIC SMALL LETTER ZHE WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC SMALL LETTER ZHE WITH DESCENDER"
             }, 
             {
@@ -1223,6 +1375,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x498", 
+                "description": "CYRILLIC CAPITAL LETTER ZE CEDILLA", 
                 "title": "CYRILLIC CAPITAL LETTER ZE WITH DESCENDER"
             }, 
             {
@@ -1231,6 +1384,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x499", 
+                "description": "CYRILLIC SMALL LETTER ZE CEDILLA", 
                 "title": "CYRILLIC SMALL LETTER ZE WITH DESCENDER"
             }, 
             {
@@ -1239,6 +1393,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x49a", 
+                "description": "CYRILLIC CAPITAL LETTER KA WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC CAPITAL LETTER KA WITH DESCENDER"
             }, 
             {
@@ -1247,6 +1402,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x49b", 
+                "description": "CYRILLIC SMALL LETTER KA WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC SMALL LETTER KA WITH DESCENDER"
             }, 
             {
@@ -1255,6 +1411,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x49c", 
+                "description": "CYRILLIC CAPITAL LETTER KA VERTICAL BAR", 
                 "title": "CYRILLIC CAPITAL LETTER KA WITH VERTICAL STROKE"
             }, 
             {
@@ -1263,6 +1420,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x49d", 
+                "description": "CYRILLIC SMALL LETTER KA VERTICAL BAR", 
                 "title": "CYRILLIC SMALL LETTER KA WITH VERTICAL STROKE"
             }, 
             {
@@ -1271,6 +1429,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x49e", 
+                "description": "CYRILLIC CAPITAL LETTER KA BAR", 
                 "title": "CYRILLIC CAPITAL LETTER KA WITH STROKE"
             }, 
             {
@@ -1279,6 +1438,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x49f", 
+                "description": "CYRILLIC SMALL LETTER KA BAR", 
                 "title": "CYRILLIC SMALL LETTER KA WITH STROKE"
             }, 
             {
@@ -1287,6 +1447,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4a0", 
+                "description": "CYRILLIC CAPITAL LETTER REVERSED GE KA", 
                 "title": "CYRILLIC CAPITAL LETTER BASHKIR KA"
             }, 
             {
@@ -1295,6 +1456,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4a1", 
+                "description": "CYRILLIC SMALL LETTER REVERSED GE KA", 
                 "title": "CYRILLIC SMALL LETTER BASHKIR KA"
             }, 
             {
@@ -1303,6 +1465,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4a2", 
+                "description": "CYRILLIC CAPITAL LETTER EN WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC CAPITAL LETTER EN WITH DESCENDER"
             }, 
             {
@@ -1311,6 +1474,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4a3", 
+                "description": "CYRILLIC SMALL LETTER EN WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC SMALL LETTER EN WITH DESCENDER"
             }, 
             {
@@ -1319,6 +1483,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4a4", 
+                "description": "CYRILLIC CAPITAL LETTER EN GE", 
                 "title": "CYRILLIC CAPITAL LIGATURE EN GHE"
             }, 
             {
@@ -1327,6 +1492,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4a5", 
+                "description": "CYRILLIC SMALL LETTER EN GE", 
                 "title": "CYRILLIC SMALL LIGATURE EN GHE"
             }, 
             {
@@ -1335,6 +1501,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4a6", 
+                "description": "CYRILLIC CAPITAL LETTER PE HOOK", 
                 "title": "CYRILLIC CAPITAL LETTER PE WITH MIDDLE HOOK"
             }, 
             {
@@ -1343,6 +1510,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4a7", 
+                "description": "CYRILLIC SMALL LETTER PE HOOK", 
                 "title": "CYRILLIC SMALL LETTER PE WITH MIDDLE HOOK"
             }, 
             {
@@ -1351,6 +1519,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4a8", 
+                "description": "CYRILLIC CAPITAL LETTER O HOOK", 
                 "title": "CYRILLIC CAPITAL LETTER ABKHASIAN HA"
             }, 
             {
@@ -1359,6 +1528,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4a9", 
+                "description": "CYRILLIC SMALL LETTER O HOOK", 
                 "title": "CYRILLIC SMALL LETTER ABKHASIAN HA"
             }, 
             {
@@ -1367,6 +1537,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4aa", 
+                "description": "CYRILLIC CAPITAL LETTER ES CEDILLA", 
                 "title": "CYRILLIC CAPITAL LETTER ES WITH DESCENDER"
             }, 
             {
@@ -1375,6 +1546,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ab", 
+                "description": "CYRILLIC SMALL LETTER ES CEDILLA", 
                 "title": "CYRILLIC SMALL LETTER ES WITH DESCENDER"
             }, 
             {
@@ -1383,6 +1555,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ac", 
+                "description": "CYRILLIC CAPITAL LETTER TE WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC CAPITAL LETTER TE WITH DESCENDER"
             }, 
             {
@@ -1391,6 +1564,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ad", 
+                "description": "CYRILLIC SMALL LETTER TE WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC SMALL LETTER TE WITH DESCENDER"
             }, 
             {
@@ -1399,6 +1573,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ae", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER STRAIGHT U"
             }, 
             {
@@ -1407,6 +1582,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4af", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER STRAIGHT U"
             }, 
             {
@@ -1415,6 +1591,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4b0", 
+                "description": "CYRILLIC CAPITAL LETTER STRAIGHT U BAR", 
                 "title": "CYRILLIC CAPITAL LETTER STRAIGHT U WITH STROKE"
             }, 
             {
@@ -1423,6 +1600,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4b1", 
+                "description": "CYRILLIC SMALL LETTER STRAIGHT U BAR", 
                 "title": "CYRILLIC SMALL LETTER STRAIGHT U WITH STROKE"
             }, 
             {
@@ -1431,6 +1609,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4b2", 
+                "description": "CYRILLIC CAPITAL LETTER KHA WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC CAPITAL LETTER HA WITH DESCENDER"
             }, 
             {
@@ -1439,6 +1618,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4b3", 
+                "description": "CYRILLIC SMALL LETTER KHA WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC SMALL LETTER HA WITH DESCENDER"
             }, 
             {
@@ -1447,6 +1627,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4b4", 
+                "description": "CYRILLIC CAPITAL LETTER TE TSE", 
                 "title": "CYRILLIC CAPITAL LIGATURE TE TSE"
             }, 
             {
@@ -1455,6 +1636,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4b5", 
+                "description": "CYRILLIC SMALL LETTER TE TSE", 
                 "title": "CYRILLIC SMALL LIGATURE TE TSE"
             }, 
             {
@@ -1463,6 +1645,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4b6", 
+                "description": "CYRILLIC CAPITAL LETTER CHE WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC CAPITAL LETTER CHE WITH DESCENDER"
             }, 
             {
@@ -1471,6 +1654,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4b7", 
+                "description": "CYRILLIC SMALL LETTER CHE WITH RIGHT DESCENDER", 
                 "title": "CYRILLIC SMALL LETTER CHE WITH DESCENDER"
             }, 
             {
@@ -1479,6 +1663,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4b8", 
+                "description": "CYRILLIC CAPITAL LETTER CHE VERTICAL BAR", 
                 "title": "CYRILLIC CAPITAL LETTER CHE WITH VERTICAL STROKE"
             }, 
             {
@@ -1487,6 +1672,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4b9", 
+                "description": "CYRILLIC SMALL LETTER CHE VERTICAL BAR", 
                 "title": "CYRILLIC SMALL LETTER CHE WITH VERTICAL STROKE"
             }, 
             {
@@ -1495,6 +1681,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ba", 
+                "description": "CYRILLIC CAPITAL LETTER H", 
                 "title": "CYRILLIC CAPITAL LETTER SHHA"
             }, 
             {
@@ -1503,6 +1690,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4bb", 
+                "description": "CYRILLIC SMALL LETTER H", 
                 "title": "CYRILLIC SMALL LETTER SHHA"
             }, 
             {
@@ -1511,6 +1699,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4bc", 
+                "description": "CYRILLIC CAPITAL LETTER IE HOOK", 
                 "title": "CYRILLIC CAPITAL LETTER ABKHASIAN CHE"
             }, 
             {
@@ -1519,6 +1708,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4bd", 
+                "description": "CYRILLIC SMALL LETTER IE HOOK", 
                 "title": "CYRILLIC SMALL LETTER ABKHASIAN CHE"
             }, 
             {
@@ -1527,6 +1717,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4be", 
+                "description": "CYRILLIC CAPITAL LETTER IE HOOK OGONEK", 
                 "title": "CYRILLIC CAPITAL LETTER ABKHASIAN CHE WITH DESCENDER"
             }, 
             {
@@ -1535,6 +1726,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4bf", 
+                "description": "CYRILLIC SMALL LETTER IE HOOK OGONEK", 
                 "title": "CYRILLIC SMALL LETTER ABKHASIAN CHE WITH DESCENDER"
             }, 
             {
@@ -1543,6 +1735,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4c0", 
+                "description": "CYRILLIC LETTER I", 
                 "title": "CYRILLIC LETTER PALOCHKA"
             }, 
             {
@@ -1551,6 +1744,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4c1", 
+                "description": "CYRILLIC CAPITAL LETTER SHORT ZHE", 
                 "title": "CYRILLIC CAPITAL LETTER ZHE WITH BREVE"
             }, 
             {
@@ -1559,6 +1753,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4c2", 
+                "description": "CYRILLIC SMALL LETTER SHORT ZHE", 
                 "title": "CYRILLIC SMALL LETTER ZHE WITH BREVE"
             }, 
             {
@@ -1567,6 +1762,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4c3", 
+                "description": "CYRILLIC CAPITAL LETTER KA HOOK", 
                 "title": "CYRILLIC CAPITAL LETTER KA WITH HOOK"
             }, 
             {
@@ -1575,6 +1771,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4c4", 
+                "description": "CYRILLIC SMALL LETTER KA HOOK", 
                 "title": "CYRILLIC SMALL LETTER KA WITH HOOK"
             }, 
             {
@@ -1583,6 +1780,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4c5", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER EL WITH TAIL"
             }, 
             {
@@ -1591,6 +1789,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4c6", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER EL WITH TAIL"
             }, 
             {
@@ -1599,6 +1798,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4c7", 
+                "description": "CYRILLIC CAPITAL LETTER EN HOOK", 
                 "title": "CYRILLIC CAPITAL LETTER EN WITH HOOK"
             }, 
             {
@@ -1607,6 +1807,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4c8", 
+                "description": "CYRILLIC SMALL LETTER EN HOOK", 
                 "title": "CYRILLIC SMALL LETTER EN WITH HOOK"
             }, 
             {
@@ -1615,6 +1816,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4c9", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER EN WITH TAIL"
             }, 
             {
@@ -1623,6 +1825,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ca", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER EN WITH TAIL"
             }, 
             {
@@ -1631,6 +1834,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4cb", 
+                "description": "CYRILLIC CAPITAL LETTER CHE WITH LEFT DESCENDER", 
                 "title": "CYRILLIC CAPITAL LETTER KHAKASSIAN CHE"
             }, 
             {
@@ -1639,6 +1843,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4cc", 
+                "description": "CYRILLIC SMALL LETTER CHE WITH LEFT DESCENDER", 
                 "title": "CYRILLIC SMALL LETTER KHAKASSIAN CHE"
             }, 
             {
@@ -1647,6 +1852,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4cd", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER EM WITH TAIL"
             }, 
             {
@@ -1655,6 +1861,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ce", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER EM WITH TAIL"
             }, 
             {
@@ -1663,6 +1870,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4cf", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER PALOCHKA"
             }, 
             {
@@ -1671,6 +1879,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4d0", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER A WITH BREVE"
             }, 
             {
@@ -1679,6 +1888,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4d1", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER A WITH BREVE"
             }, 
             {
@@ -1687,6 +1897,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4d2", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER A WITH DIAERESIS"
             }, 
             {
@@ -1695,6 +1906,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4d3", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER A WITH DIAERESIS"
             }, 
             {
@@ -1703,6 +1915,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4d4", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LIGATURE A IE"
             }, 
             {
@@ -1711,6 +1924,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4d5", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LIGATURE A IE"
             }, 
             {
@@ -1719,6 +1933,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4d6", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER IE WITH BREVE"
             }, 
             {
@@ -1727,6 +1942,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4d7", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER IE WITH BREVE"
             }, 
             {
@@ -1735,6 +1951,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4d8", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER SCHWA"
             }, 
             {
@@ -1743,6 +1960,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4d9", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER SCHWA"
             }, 
             {
@@ -1751,6 +1969,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4da", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER SCHWA WITH DIAERESIS"
             }, 
             {
@@ -1759,6 +1978,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4db", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER SCHWA WITH DIAERESIS"
             }, 
             {
@@ -1767,6 +1987,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4dc", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER ZHE WITH DIAERESIS"
             }, 
             {
@@ -1775,6 +1996,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4dd", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER ZHE WITH DIAERESIS"
             }, 
             {
@@ -1783,6 +2005,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4de", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER ZE WITH DIAERESIS"
             }, 
             {
@@ -1791,6 +2014,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4df", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER ZE WITH DIAERESIS"
             }, 
             {
@@ -1799,6 +2023,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4e0", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER ABKHASIAN DZE"
             }, 
             {
@@ -1807,6 +2032,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4e1", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER ABKHASIAN DZE"
             }, 
             {
@@ -1815,6 +2041,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4e2", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER I WITH MACRON"
             }, 
             {
@@ -1823,6 +2050,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4e3", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER I WITH MACRON"
             }, 
             {
@@ -1831,6 +2059,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4e4", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER I WITH DIAERESIS"
             }, 
             {
@@ -1839,6 +2068,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4e5", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER I WITH DIAERESIS"
             }, 
             {
@@ -1847,6 +2077,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4e6", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER O WITH DIAERESIS"
             }, 
             {
@@ -1855,6 +2086,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4e7", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER O WITH DIAERESIS"
             }, 
             {
@@ -1863,6 +2095,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4e8", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER BARRED O"
             }, 
             {
@@ -1871,6 +2104,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4e9", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER BARRED O"
             }, 
             {
@@ -1879,6 +2113,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ea", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER BARRED O WITH DIAERESIS"
             }, 
             {
@@ -1887,6 +2122,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4eb", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER BARRED O WITH DIAERESIS"
             }, 
             {
@@ -1895,6 +2131,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ec", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER E WITH DIAERESIS"
             }, 
             {
@@ -1903,6 +2140,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ed", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER E WITH DIAERESIS"
             }, 
             {
@@ -1911,6 +2149,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ee", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER U WITH MACRON"
             }, 
             {
@@ -1919,6 +2158,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4ef", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER U WITH MACRON"
             }, 
             {
@@ -1927,6 +2167,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4f0", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER U WITH DIAERESIS"
             }, 
             {
@@ -1935,6 +2176,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4f1", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER U WITH DIAERESIS"
             }, 
             {
@@ -1943,6 +2185,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4f2", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER U WITH DOUBLE ACUTE"
             }, 
             {
@@ -1951,6 +2194,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4f3", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER U WITH DOUBLE ACUTE"
             }, 
             {
@@ -1959,6 +2203,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4f4", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER CHE WITH DIAERESIS"
             }, 
             {
@@ -1967,6 +2212,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4f5", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER CHE WITH DIAERESIS"
             }, 
             {
@@ -1975,6 +2221,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4f6", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER GHE WITH DESCENDER"
             }, 
             {
@@ -1983,6 +2230,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4f7", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER GHE WITH DESCENDER"
             }, 
             {
@@ -1991,6 +2239,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4f8", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER YERU WITH DIAERESIS"
             }, 
             {
@@ -1999,6 +2248,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4f9", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER YERU WITH DIAERESIS"
             }, 
             {
@@ -2007,6 +2257,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4fa", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER GHE WITH STROKE AND HOOK"
             }, 
             {
@@ -2015,6 +2266,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4fb", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER GHE WITH STROKE AND HOOK"
             }, 
             {
@@ -2023,6 +2275,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4fc", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER HA WITH HOOK"
             }, 
             {
@@ -2031,6 +2284,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4fd", 
+                "description": "", 
                 "title": "CYRILLIC SMALL LETTER HA WITH HOOK"
             }, 
             {
@@ -2039,6 +2293,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x4fe", 
+                "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER HA WITH STROKE"
             }
         ], 

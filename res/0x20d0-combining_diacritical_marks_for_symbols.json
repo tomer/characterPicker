@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20d0", 
+                "description": "NON-SPACING LEFT HARPOON ABOVE", 
                 "title": "COMBINING LEFT HARPOON ABOVE"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20d1", 
+                "description": "NON-SPACING RIGHT HARPOON ABOVE", 
                 "title": "COMBINING RIGHT HARPOON ABOVE"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20d2", 
+                "description": "NON-SPACING LONG VERTICAL BAR OVERLAY", 
                 "title": "COMBINING LONG VERTICAL LINE OVERLAY"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20d3", 
+                "description": "NON-SPACING SHORT VERTICAL BAR OVERLAY", 
                 "title": "COMBINING SHORT VERTICAL LINE OVERLAY"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20d4", 
+                "description": "NON-SPACING ANTICLOCKWISE ARROW ABOVE", 
                 "title": "COMBINING ANTICLOCKWISE ARROW ABOVE"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20d5", 
+                "description": "NON-SPACING CLOCKWISE ARROW ABOVE", 
                 "title": "COMBINING CLOCKWISE ARROW ABOVE"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20d6", 
+                "description": "NON-SPACING LEFT ARROW ABOVE", 
                 "title": "COMBINING LEFT ARROW ABOVE"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20d7", 
+                "description": "NON-SPACING RIGHT ARROW ABOVE", 
                 "title": "COMBINING RIGHT ARROW ABOVE"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20d8", 
+                "description": "NON-SPACING RING OVERLAY", 
                 "title": "COMBINING RING OVERLAY"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20d9", 
+                "description": "NON-SPACING CLOCKWISE RING OVERLAY", 
                 "title": "COMBINING CLOCKWISE RING OVERLAY"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20da", 
+                "description": "NON-SPACING ANTICLOCKWISE RING OVERLAY", 
                 "title": "COMBINING ANTICLOCKWISE RING OVERLAY"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20db", 
+                "description": "NON-SPACING THREE DOTS ABOVE", 
                 "title": "COMBINING THREE DOTS ABOVE"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20dc", 
+                "description": "NON-SPACING FOUR DOTS ABOVE", 
                 "title": "COMBINING FOUR DOTS ABOVE"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20dd", 
+                "description": "ENCLOSING CIRCLE", 
                 "title": "COMBINING ENCLOSING CIRCLE"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20de", 
+                "description": "ENCLOSING SQUARE", 
                 "title": "COMBINING ENCLOSING SQUARE"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20df", 
+                "description": "ENCLOSING DIAMOND", 
                 "title": "COMBINING ENCLOSING DIAMOND"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20e0", 
+                "description": "ENCLOSING CIRCLE SLASH", 
                 "title": "COMBINING ENCLOSING CIRCLE BACKSLASH"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20e1", 
+                "description": "NON-SPACING LEFT RIGHT ARROW ABOVE", 
                 "title": "COMBINING LEFT RIGHT ARROW ABOVE"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20e2", 
+                "description": "", 
                 "title": "COMBINING ENCLOSING SCREEN"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20e3", 
+                "description": "", 
                 "title": "COMBINING ENCLOSING KEYCAP"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20e4", 
+                "description": "", 
                 "title": "COMBINING ENCLOSING UPWARD POINTING TRIANGLE"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20e5", 
+                "description": "", 
                 "title": "COMBINING REVERSE SOLIDUS OVERLAY"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20e6", 
+                "description": "", 
                 "title": "COMBINING DOUBLE VERTICAL STROKE OVERLAY"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20e7", 
+                "description": "", 
                 "title": "COMBINING ANNUITY SYMBOL"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20e8", 
+                "description": "", 
                 "title": "COMBINING TRIPLE UNDERDOT"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20e9", 
+                "description": "", 
                 "title": "COMBINING WIDE BRIDGE ABOVE"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20ea", 
+                "description": "", 
                 "title": "COMBINING LEFTWARDS ARROW OVERLAY"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20eb", 
+                "description": "", 
                 "title": "COMBINING LONG DOUBLE SOLIDUS OVERLAY"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20ec", 
+                "description": "", 
                 "title": "COMBINING RIGHTWARDS HARPOON WITH BARB DOWNWARDS"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20ed", 
+                "description": "", 
                 "title": "COMBINING LEFTWARDS HARPOON WITH BARB DOWNWARDS"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20ee", 
+                "description": "", 
                 "title": "COMBINING LEFT ARROW BELOW"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20ef", 
+                "description": "", 
                 "title": "COMBINING RIGHT ARROW BELOW"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x20f0", 
+                "description": "", 
                 "title": "COMBINING ASTERISK ABOVE"
             }
         ], 

@@ -7,6 +7,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2500", 
+                "description": "FORMS LIGHT HORIZONTAL", 
                 "title": "BOX DRAWINGS LIGHT HORIZONTAL"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2501", 
+                "description": "FORMS HEAVY HORIZONTAL", 
                 "title": "BOX DRAWINGS HEAVY HORIZONTAL"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2502", 
+                "description": "FORMS LIGHT VERTICAL", 
                 "title": "BOX DRAWINGS LIGHT VERTICAL"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2503", 
+                "description": "FORMS HEAVY VERTICAL", 
                 "title": "BOX DRAWINGS HEAVY VERTICAL"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2504", 
+                "description": "FORMS LIGHT TRIPLE DASH HORIZONTAL", 
                 "title": "BOX DRAWINGS LIGHT TRIPLE DASH HORIZONTAL"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2505", 
+                "description": "FORMS HEAVY TRIPLE DASH HORIZONTAL", 
                 "title": "BOX DRAWINGS HEAVY TRIPLE DASH HORIZONTAL"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2506", 
+                "description": "FORMS LIGHT TRIPLE DASH VERTICAL", 
                 "title": "BOX DRAWINGS LIGHT TRIPLE DASH VERTICAL"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2507", 
+                "description": "FORMS HEAVY TRIPLE DASH VERTICAL", 
                 "title": "BOX DRAWINGS HEAVY TRIPLE DASH VERTICAL"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2508", 
+                "description": "FORMS LIGHT QUADRUPLE DASH HORIZONTAL", 
                 "title": "BOX DRAWINGS LIGHT QUADRUPLE DASH HORIZONTAL"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2509", 
+                "description": "FORMS HEAVY QUADRUPLE DASH HORIZONTAL", 
                 "title": "BOX DRAWINGS HEAVY QUADRUPLE DASH HORIZONTAL"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x250a", 
+                "description": "FORMS LIGHT QUADRUPLE DASH VERTICAL", 
                 "title": "BOX DRAWINGS LIGHT QUADRUPLE DASH VERTICAL"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x250b", 
+                "description": "FORMS HEAVY QUADRUPLE DASH VERTICAL", 
                 "title": "BOX DRAWINGS HEAVY QUADRUPLE DASH VERTICAL"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x250c", 
+                "description": "FORMS LIGHT DOWN AND RIGHT", 
                 "title": "BOX DRAWINGS LIGHT DOWN AND RIGHT"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x250d", 
+                "description": "FORMS DOWN LIGHT AND RIGHT HEAVY", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND RIGHT HEAVY"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x250e", 
+                "description": "FORMS DOWN HEAVY AND RIGHT LIGHT", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND RIGHT LIGHT"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x250f", 
+                "description": "FORMS HEAVY DOWN AND RIGHT", 
                 "title": "BOX DRAWINGS HEAVY DOWN AND RIGHT"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2510", 
+                "description": "FORMS LIGHT DOWN AND LEFT", 
                 "title": "BOX DRAWINGS LIGHT DOWN AND LEFT"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2511", 
+                "description": "FORMS DOWN LIGHT AND LEFT HEAVY", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND LEFT HEAVY"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2512", 
+                "description": "FORMS DOWN HEAVY AND LEFT LIGHT", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND LEFT LIGHT"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2513", 
+                "description": "FORMS HEAVY DOWN AND LEFT", 
                 "title": "BOX DRAWINGS HEAVY DOWN AND LEFT"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2514", 
+                "description": "FORMS LIGHT UP AND RIGHT", 
                 "title": "BOX DRAWINGS LIGHT UP AND RIGHT"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2515", 
+                "description": "FORMS UP LIGHT AND RIGHT HEAVY", 
                 "title": "BOX DRAWINGS UP LIGHT AND RIGHT HEAVY"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2516", 
+                "description": "FORMS UP HEAVY AND RIGHT LIGHT", 
                 "title": "BOX DRAWINGS UP HEAVY AND RIGHT LIGHT"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2517", 
+                "description": "FORMS HEAVY UP AND RIGHT", 
                 "title": "BOX DRAWINGS HEAVY UP AND RIGHT"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2518", 
+                "description": "FORMS LIGHT UP AND LEFT", 
                 "title": "BOX DRAWINGS LIGHT UP AND LEFT"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2519", 
+                "description": "FORMS UP LIGHT AND LEFT HEAVY", 
                 "title": "BOX DRAWINGS UP LIGHT AND LEFT HEAVY"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x251a", 
+                "description": "FORMS UP HEAVY AND LEFT LIGHT", 
                 "title": "BOX DRAWINGS UP HEAVY AND LEFT LIGHT"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x251b", 
+                "description": "FORMS HEAVY UP AND LEFT", 
                 "title": "BOX DRAWINGS HEAVY UP AND LEFT"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x251c", 
+                "description": "FORMS LIGHT VERTICAL AND RIGHT", 
                 "title": "BOX DRAWINGS LIGHT VERTICAL AND RIGHT"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x251d", 
+                "description": "FORMS VERTICAL LIGHT AND RIGHT HEAVY", 
                 "title": "BOX DRAWINGS VERTICAL LIGHT AND RIGHT HEAVY"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x251e", 
+                "description": "FORMS UP HEAVY AND RIGHT DOWN LIGHT", 
                 "title": "BOX DRAWINGS UP HEAVY AND RIGHT DOWN LIGHT"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x251f", 
+                "description": "FORMS DOWN HEAVY AND RIGHT UP LIGHT", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND RIGHT UP LIGHT"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2520", 
+                "description": "FORMS VERTICAL HEAVY AND RIGHT LIGHT", 
                 "title": "BOX DRAWINGS VERTICAL HEAVY AND RIGHT LIGHT"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2521", 
+                "description": "FORMS DOWN LIGHT AND RIGHT UP HEAVY", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND RIGHT UP HEAVY"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2522", 
+                "description": "FORMS UP LIGHT AND RIGHT DOWN HEAVY", 
                 "title": "BOX DRAWINGS UP LIGHT AND RIGHT DOWN HEAVY"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2523", 
+                "description": "FORMS HEAVY VERTICAL AND RIGHT", 
                 "title": "BOX DRAWINGS HEAVY VERTICAL AND RIGHT"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2524", 
+                "description": "FORMS LIGHT VERTICAL AND LEFT", 
                 "title": "BOX DRAWINGS LIGHT VERTICAL AND LEFT"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2525", 
+                "description": "FORMS VERTICAL LIGHT AND LEFT HEAVY", 
                 "title": "BOX DRAWINGS VERTICAL LIGHT AND LEFT HEAVY"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2526", 
+                "description": "FORMS UP HEAVY AND LEFT DOWN LIGHT", 
                 "title": "BOX DRAWINGS UP HEAVY AND LEFT DOWN LIGHT"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2527", 
+                "description": "FORMS DOWN HEAVY AND LEFT UP LIGHT", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND LEFT UP LIGHT"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2528", 
+                "description": "FORMS VERTICAL HEAVY AND LEFT LIGHT", 
                 "title": "BOX DRAWINGS VERTICAL HEAVY AND LEFT LIGHT"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2529", 
+                "description": "FORMS DOWN LIGHT AND LEFT UP HEAVY", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND LEFT UP HEAVY"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x252a", 
+                "description": "FORMS UP LIGHT AND LEFT DOWN HEAVY", 
                 "title": "BOX DRAWINGS UP LIGHT AND LEFT DOWN HEAVY"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x252b", 
+                "description": "FORMS HEAVY VERTICAL AND LEFT", 
                 "title": "BOX DRAWINGS HEAVY VERTICAL AND LEFT"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x252c", 
+                "description": "FORMS LIGHT DOWN AND HORIZONTAL", 
                 "title": "BOX DRAWINGS LIGHT DOWN AND HORIZONTAL"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x252d", 
+                "description": "FORMS LEFT HEAVY AND RIGHT DOWN LIGHT", 
                 "title": "BOX DRAWINGS LEFT HEAVY AND RIGHT DOWN LIGHT"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x252e", 
+                "description": "FORMS RIGHT HEAVY AND LEFT DOWN LIGHT", 
                 "title": "BOX DRAWINGS RIGHT HEAVY AND LEFT DOWN LIGHT"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x252f", 
+                "description": "FORMS DOWN LIGHT AND HORIZONTAL HEAVY", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND HORIZONTAL HEAVY"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2530", 
+                "description": "FORMS DOWN HEAVY AND HORIZONTAL LIGHT", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND HORIZONTAL LIGHT"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2531", 
+                "description": "FORMS RIGHT LIGHT AND LEFT DOWN HEAVY", 
                 "title": "BOX DRAWINGS RIGHT LIGHT AND LEFT DOWN HEAVY"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2532", 
+                "description": "FORMS LEFT LIGHT AND RIGHT DOWN HEAVY", 
                 "title": "BOX DRAWINGS LEFT LIGHT AND RIGHT DOWN HEAVY"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2533", 
+                "description": "FORMS HEAVY DOWN AND HORIZONTAL", 
                 "title": "BOX DRAWINGS HEAVY DOWN AND HORIZONTAL"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2534", 
+                "description": "FORMS LIGHT UP AND HORIZONTAL", 
                 "title": "BOX DRAWINGS LIGHT UP AND HORIZONTAL"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2535", 
+                "description": "FORMS LEFT HEAVY AND RIGHT UP LIGHT", 
                 "title": "BOX DRAWINGS LEFT HEAVY AND RIGHT UP LIGHT"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2536", 
+                "description": "FORMS RIGHT HEAVY AND LEFT UP LIGHT", 
                 "title": "BOX DRAWINGS RIGHT HEAVY AND LEFT UP LIGHT"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2537", 
+                "description": "FORMS UP LIGHT AND HORIZONTAL HEAVY", 
                 "title": "BOX DRAWINGS UP LIGHT AND HORIZONTAL HEAVY"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2538", 
+                "description": "FORMS UP HEAVY AND HORIZONTAL LIGHT", 
                 "title": "BOX DRAWINGS UP HEAVY AND HORIZONTAL LIGHT"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2539", 
+                "description": "FORMS RIGHT LIGHT AND LEFT UP HEAVY", 
                 "title": "BOX DRAWINGS RIGHT LIGHT AND LEFT UP HEAVY"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x253a", 
+                "description": "FORMS LEFT LIGHT AND RIGHT UP HEAVY", 
                 "title": "BOX DRAWINGS LEFT LIGHT AND RIGHT UP HEAVY"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x253b", 
+                "description": "FORMS HEAVY UP AND HORIZONTAL", 
                 "title": "BOX DRAWINGS HEAVY UP AND HORIZONTAL"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x253c", 
+                "description": "FORMS LIGHT VERTICAL AND HORIZONTAL", 
                 "title": "BOX DRAWINGS LIGHT VERTICAL AND HORIZONTAL"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x253d", 
+                "description": "FORMS LEFT HEAVY AND RIGHT VERTICAL LIGHT", 
                 "title": "BOX DRAWINGS LEFT HEAVY AND RIGHT VERTICAL LIGHT"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x253e", 
+                "description": "FORMS RIGHT HEAVY AND LEFT VERTICAL LIGHT", 
                 "title": "BOX DRAWINGS RIGHT HEAVY AND LEFT VERTICAL LIGHT"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x253f", 
+                "description": "FORMS VERTICAL LIGHT AND HORIZONTAL HEAVY", 
                 "title": "BOX DRAWINGS VERTICAL LIGHT AND HORIZONTAL HEAVY"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2540", 
+                "description": "FORMS UP HEAVY AND DOWN HORIZONTAL LIGHT", 
                 "title": "BOX DRAWINGS UP HEAVY AND DOWN HORIZONTAL LIGHT"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2541", 
+                "description": "FORMS DOWN HEAVY AND UP HORIZONTAL LIGHT", 
                 "title": "BOX DRAWINGS DOWN HEAVY AND UP HORIZONTAL LIGHT"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2542", 
+                "description": "FORMS VERTICAL HEAVY AND HORIZONTAL LIGHT", 
                 "title": "BOX DRAWINGS VERTICAL HEAVY AND HORIZONTAL LIGHT"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2543", 
+                "description": "FORMS LEFT UP HEAVY AND RIGHT DOWN LIGHT", 
                 "title": "BOX DRAWINGS LEFT UP HEAVY AND RIGHT DOWN LIGHT"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2544", 
+                "description": "FORMS RIGHT UP HEAVY AND LEFT DOWN LIGHT", 
                 "title": "BOX DRAWINGS RIGHT UP HEAVY AND LEFT DOWN LIGHT"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2545", 
+                "description": "FORMS LEFT DOWN HEAVY AND RIGHT UP LIGHT", 
                 "title": "BOX DRAWINGS LEFT DOWN HEAVY AND RIGHT UP LIGHT"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2546", 
+                "description": "FORMS RIGHT DOWN HEAVY AND LEFT UP LIGHT", 
                 "title": "BOX DRAWINGS RIGHT DOWN HEAVY AND LEFT UP LIGHT"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2547", 
+                "description": "FORMS DOWN LIGHT AND UP HORIZONTAL HEAVY", 
                 "title": "BOX DRAWINGS DOWN LIGHT AND UP HORIZONTAL HEAVY"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2548", 
+                "description": "FORMS UP LIGHT AND DOWN HORIZONTAL HEAVY", 
                 "title": "BOX DRAWINGS UP LIGHT AND DOWN HORIZONTAL HEAVY"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2549", 
+                "description": "FORMS RIGHT LIGHT AND LEFT VERTICAL HEAVY", 
                 "title": "BOX DRAWINGS RIGHT LIGHT AND LEFT VERTICAL HEAVY"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x254a", 
+                "description": "FORMS LEFT LIGHT AND RIGHT VERTICAL HEAVY", 
                 "title": "BOX DRAWINGS LEFT LIGHT AND RIGHT VERTICAL HEAVY"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x254b", 
+                "description": "FORMS HEAVY VERTICAL AND HORIZONTAL", 
                 "title": "BOX DRAWINGS HEAVY VERTICAL AND HORIZONTAL"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x254c", 
+                "description": "FORMS LIGHT DOUBLE DASH HORIZONTAL", 
                 "title": "BOX DRAWINGS LIGHT DOUBLE DASH HORIZONTAL"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x254d", 
+                "description": "FORMS HEAVY DOUBLE DASH HORIZONTAL", 
                 "title": "BOX DRAWINGS HEAVY DOUBLE DASH HORIZONTAL"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x254e", 
+                "description": "FORMS LIGHT DOUBLE DASH VERTICAL", 
                 "title": "BOX DRAWINGS LIGHT DOUBLE DASH VERTICAL"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x254f", 
+                "description": "FORMS HEAVY DOUBLE DASH VERTICAL", 
                 "title": "BOX DRAWINGS HEAVY DOUBLE DASH VERTICAL"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2550", 
+                "description": "FORMS DOUBLE HORIZONTAL", 
                 "title": "BOX DRAWINGS DOUBLE HORIZONTAL"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2551", 
+                "description": "FORMS DOUBLE VERTICAL", 
                 "title": "BOX DRAWINGS DOUBLE VERTICAL"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2552", 
+                "description": "FORMS DOWN SINGLE AND RIGHT DOUBLE", 
                 "title": "BOX DRAWINGS DOWN SINGLE AND RIGHT DOUBLE"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2553", 
+                "description": "FORMS DOWN DOUBLE AND RIGHT SINGLE", 
                 "title": "BOX DRAWINGS DOWN DOUBLE AND RIGHT SINGLE"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2554", 
+                "description": "FORMS DOUBLE DOWN AND RIGHT", 
                 "title": "BOX DRAWINGS DOUBLE DOWN AND RIGHT"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2555", 
+                "description": "FORMS DOWN SINGLE AND LEFT DOUBLE", 
                 "title": "BOX DRAWINGS DOWN SINGLE AND LEFT DOUBLE"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2556", 
+                "description": "FORMS DOWN DOUBLE AND LEFT SINGLE", 
                 "title": "BOX DRAWINGS DOWN DOUBLE AND LEFT SINGLE"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2557", 
+                "description": "FORMS DOUBLE DOWN AND LEFT", 
                 "title": "BOX DRAWINGS DOUBLE DOWN AND LEFT"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2558", 
+                "description": "FORMS UP SINGLE AND RIGHT DOUBLE", 
                 "title": "BOX DRAWINGS UP SINGLE AND RIGHT DOUBLE"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2559", 
+                "description": "FORMS UP DOUBLE AND RIGHT SINGLE", 
                 "title": "BOX DRAWINGS UP DOUBLE AND RIGHT SINGLE"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x255a", 
+                "description": "FORMS DOUBLE UP AND RIGHT", 
                 "title": "BOX DRAWINGS DOUBLE UP AND RIGHT"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x255b", 
+                "description": "FORMS UP SINGLE AND LEFT DOUBLE", 
                 "title": "BOX DRAWINGS UP SINGLE AND LEFT DOUBLE"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x255c", 
+                "description": "FORMS UP DOUBLE AND LEFT SINGLE", 
                 "title": "BOX DRAWINGS UP DOUBLE AND LEFT SINGLE"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x255d", 
+                "description": "FORMS DOUBLE UP AND LEFT", 
                 "title": "BOX DRAWINGS DOUBLE UP AND LEFT"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x255e", 
+                "description": "FORMS VERTICAL SINGLE AND RIGHT DOUBLE", 
                 "title": "BOX DRAWINGS VERTICAL SINGLE AND RIGHT DOUBLE"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x255f", 
+                "description": "FORMS VERTICAL DOUBLE AND RIGHT SINGLE", 
                 "title": "BOX DRAWINGS VERTICAL DOUBLE AND RIGHT SINGLE"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2560", 
+                "description": "FORMS DOUBLE VERTICAL AND RIGHT", 
                 "title": "BOX DRAWINGS DOUBLE VERTICAL AND RIGHT"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2561", 
+                "description": "FORMS VERTICAL SINGLE AND LEFT DOUBLE", 
                 "title": "BOX DRAWINGS VERTICAL SINGLE AND LEFT DOUBLE"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2562", 
+                "description": "FORMS VERTICAL DOUBLE AND LEFT SINGLE", 
                 "title": "BOX DRAWINGS VERTICAL DOUBLE AND LEFT SINGLE"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2563", 
+                "description": "FORMS DOUBLE VERTICAL AND LEFT", 
                 "title": "BOX DRAWINGS DOUBLE VERTICAL AND LEFT"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2564", 
+                "description": "FORMS DOWN SINGLE AND HORIZONTAL DOUBLE", 
                 "title": "BOX DRAWINGS DOWN SINGLE AND HORIZONTAL DOUBLE"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2565", 
+                "description": "FORMS DOWN DOUBLE AND HORIZONTAL SINGLE", 
                 "title": "BOX DRAWINGS DOWN DOUBLE AND HORIZONTAL SINGLE"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2566", 
+                "description": "FORMS DOUBLE DOWN AND HORIZONTAL", 
                 "title": "BOX DRAWINGS DOUBLE DOWN AND HORIZONTAL"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2567", 
+                "description": "FORMS UP SINGLE AND HORIZONTAL DOUBLE", 
                 "title": "BOX DRAWINGS UP SINGLE AND HORIZONTAL DOUBLE"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2568", 
+                "description": "FORMS UP DOUBLE AND HORIZONTAL SINGLE", 
                 "title": "BOX DRAWINGS UP DOUBLE AND HORIZONTAL SINGLE"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2569", 
+                "description": "FORMS DOUBLE UP AND HORIZONTAL", 
                 "title": "BOX DRAWINGS DOUBLE UP AND HORIZONTAL"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x256a", 
+                "description": "FORMS VERTICAL SINGLE AND HORIZONTAL DOUBLE", 
                 "title": "BOX DRAWINGS VERTICAL SINGLE AND HORIZONTAL DOUBLE"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x256b", 
+                "description": "FORMS VERTICAL DOUBLE AND HORIZONTAL SINGLE", 
                 "title": "BOX DRAWINGS VERTICAL DOUBLE AND HORIZONTAL SINGLE"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x256c", 
+                "description": "FORMS DOUBLE VERTICAL AND HORIZONTAL", 
                 "title": "BOX DRAWINGS DOUBLE VERTICAL AND HORIZONTAL"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x256d", 
+                "description": "FORMS LIGHT ARC DOWN AND RIGHT", 
                 "title": "BOX DRAWINGS LIGHT ARC DOWN AND RIGHT"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x256e", 
+                "description": "FORMS LIGHT ARC DOWN AND LEFT", 
                 "title": "BOX DRAWINGS LIGHT ARC DOWN AND LEFT"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x256f", 
+                "description": "FORMS LIGHT ARC UP AND LEFT", 
                 "title": "BOX DRAWINGS LIGHT ARC UP AND LEFT"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2570", 
+                "description": "FORMS LIGHT ARC UP AND RIGHT", 
                 "title": "BOX DRAWINGS LIGHT ARC UP AND RIGHT"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2571", 
+                "description": "FORMS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT", 
                 "title": "BOX DRAWINGS LIGHT DIAGONAL UPPER RIGHT TO LOWER LEFT"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2572", 
+                "description": "FORMS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT", 
                 "title": "BOX DRAWINGS LIGHT DIAGONAL UPPER LEFT TO LOWER RIGHT"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2573", 
+                "description": "FORMS LIGHT DIAGONAL CROSS", 
                 "title": "BOX DRAWINGS LIGHT DIAGONAL CROSS"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2574", 
+                "description": "FORMS LIGHT LEFT", 
                 "title": "BOX DRAWINGS LIGHT LEFT"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2575", 
+                "description": "FORMS LIGHT UP", 
                 "title": "BOX DRAWINGS LIGHT UP"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2576", 
+                "description": "FORMS LIGHT RIGHT", 
                 "title": "BOX DRAWINGS LIGHT RIGHT"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2577", 
+                "description": "FORMS LIGHT DOWN", 
                 "title": "BOX DRAWINGS LIGHT DOWN"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2578", 
+                "description": "FORMS HEAVY LEFT", 
                 "title": "BOX DRAWINGS HEAVY LEFT"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x2579", 
+                "description": "FORMS HEAVY UP", 
                 "title": "BOX DRAWINGS HEAVY UP"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x257a", 
+                "description": "FORMS HEAVY RIGHT", 
                 "title": "BOX DRAWINGS HEAVY RIGHT"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x257b", 
+                "description": "FORMS HEAVY DOWN", 
                 "title": "BOX DRAWINGS HEAVY DOWN"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x257c", 
+                "description": "FORMS LIGHT LEFT AND HEAVY RIGHT", 
                 "title": "BOX DRAWINGS LIGHT LEFT AND HEAVY RIGHT"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x257d", 
+                "description": "FORMS LIGHT UP AND HEAVY DOWN", 
                 "title": "BOX DRAWINGS LIGHT UP AND HEAVY DOWN"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "Form", 
                 "cat4": "", 
                 "charcode": "0x257e", 
+                "description": "FORMS HEAVY LEFT AND LIGHT RIGHT", 
                 "title": "BOX DRAWINGS HEAVY LEFT AND LIGHT RIGHT"
             }
         ], 

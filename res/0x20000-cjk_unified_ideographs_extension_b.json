@@ -3,10 +3,12 @@
         "content": [
             {
                 "charcode": "0x20000", 
+                "description": "", 
                 "title": "<CJK Ideograph Extension B, First>"
             }, 
             {
                 "charcode": "0x2a6d6", 
+                "description": "", 
                 "title": "<CJK Ideograph Extension B, Last>"
             }
         ], 

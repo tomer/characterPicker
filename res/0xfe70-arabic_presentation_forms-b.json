@@ -7,6 +7,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe70", 
+                "description": "ARABIC SPACING FATHATAN", 
                 "title": "ARABIC FATHATAN ISOLATED FORM"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe71", 
+                "description": "ARABIC FATHATAN ON TATWEEL", 
                 "title": "ARABIC TATWEEL WITH FATHATAN ABOVE"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe72", 
+                "description": "ARABIC SPACING DAMMATAN", 
                 "title": "ARABIC DAMMATAN ISOLATED FORM"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe73", 
+                "description": "", 
                 "title": "ARABIC TAIL FRAGMENT"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe74", 
+                "description": "ARABIC SPACING KASRATAN", 
                 "title": "ARABIC KASRATAN ISOLATED FORM"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe76", 
+                "description": "ARABIC SPACING FATHAH", 
                 "title": "ARABIC FATHA ISOLATED FORM"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe77", 
+                "description": "ARABIC FATHAH ON TATWEEL", 
                 "title": "ARABIC FATHA MEDIAL FORM"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe78", 
+                "description": "ARABIC SPACING DAMMAH", 
                 "title": "ARABIC DAMMA ISOLATED FORM"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe79", 
+                "description": "ARABIC DAMMAH ON TATWEEL", 
                 "title": "ARABIC DAMMA MEDIAL FORM"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe7a", 
+                "description": "ARABIC SPACING KASRAH", 
                 "title": "ARABIC KASRA ISOLATED FORM"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe7b", 
+                "description": "ARABIC KASRAH ON TATWEEL", 
                 "title": "ARABIC KASRA MEDIAL FORM"
             }, 
             {
@@ -95,6 +106,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe7c", 
+                "description": "ARABIC SPACING SHADDAH", 
                 "title": "ARABIC SHADDA ISOLATED FORM"
             }, 
             {
@@ -103,6 +115,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe7d", 
+                "description": "ARABIC SHADDAH ON TATWEEL", 
                 "title": "ARABIC SHADDA MEDIAL FORM"
             }, 
             {
@@ -111,6 +124,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe7e", 
+                "description": "ARABIC SPACING SUKUN", 
                 "title": "ARABIC SUKUN ISOLATED FORM"
             }, 
             {
@@ -119,6 +133,7 @@
                 "cat3": "Point", 
                 "cat4": "Spacing", 
                 "charcode": "0xfe7f", 
+                "description": "ARABIC SUKUN ON TATWEEL", 
                 "title": "ARABIC SUKUN MEDIAL FORM"
             }, 
             {
@@ -127,6 +142,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe80", 
+                "description": "GLYPH FOR ISOLATE ARABIC HAMZAH", 
                 "title": "ARABIC LETTER HAMZA ISOLATED FORM"
             }, 
             {
@@ -135,6 +151,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe81", 
+                "description": "GLYPH FOR ISOLATE ARABIC MADDAH ON ALEF", 
                 "title": "ARABIC LETTER ALEF WITH MADDA ABOVE ISOLATED FORM"
             }, 
             {
@@ -143,6 +160,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe82", 
+                "description": "GLYPH FOR FINAL ARABIC MADDAH ON ALEF", 
                 "title": "ARABIC LETTER ALEF WITH MADDA ABOVE FINAL FORM"
             }, 
             {
@@ -151,6 +169,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe83", 
+                "description": "GLYPH FOR ISOLATE ARABIC HAMZAH ON ALEF", 
                 "title": "ARABIC LETTER ALEF WITH HAMZA ABOVE ISOLATED FORM"
             }, 
             {
@@ -159,6 +178,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe84", 
+                "description": "GLYPH FOR FINAL ARABIC HAMZAH ON ALEF", 
                 "title": "ARABIC LETTER ALEF WITH HAMZA ABOVE FINAL FORM"
             }, 
             {
@@ -167,6 +187,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe85", 
+                "description": "GLYPH FOR ISOLATE ARABIC HAMZAH ON WAW", 
                 "title": "ARABIC LETTER WAW WITH HAMZA ABOVE ISOLATED FORM"
             }, 
             {
@@ -175,6 +196,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe86", 
+                "description": "GLYPH FOR FINAL ARABIC HAMZAH ON WAW", 
                 "title": "ARABIC LETTER WAW WITH HAMZA ABOVE FINAL FORM"
             }, 
             {
@@ -183,6 +205,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe87", 
+                "description": "GLYPH FOR ISOLATE ARABIC HAMZAH UNDER ALEF", 
                 "title": "ARABIC LETTER ALEF WITH HAMZA BELOW ISOLATED FORM"
             }, 
             {
@@ -191,6 +214,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe88", 
+                "description": "GLYPH FOR FINAL ARABIC HAMZAH UNDER ALEF", 
                 "title": "ARABIC LETTER ALEF WITH HAMZA BELOW FINAL FORM"
             }, 
             {
@@ -199,6 +223,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe89", 
+                "description": "GLYPH FOR ISOLATE ARABIC HAMZAH ON YA", 
                 "title": "ARABIC LETTER YEH WITH HAMZA ABOVE ISOLATED FORM"
             }, 
             {
@@ -207,6 +232,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe8a", 
+                "description": "GLYPH FOR FINAL ARABIC HAMZAH ON YA", 
                 "title": "ARABIC LETTER YEH WITH HAMZA ABOVE FINAL FORM"
             }, 
             {
@@ -215,6 +241,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe8b", 
+                "description": "GLYPH FOR INITIAL ARABIC HAMZAH ON YA", 
                 "title": "ARABIC LETTER YEH WITH HAMZA ABOVE INITIAL FORM"
             }, 
             {
@@ -223,6 +250,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe8c", 
+                "description": "GLYPH FOR MEDIAL ARABIC HAMZAH ON YA", 
                 "title": "ARABIC LETTER YEH WITH HAMZA ABOVE MEDIAL FORM"
             }, 
             {
@@ -231,6 +259,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe8d", 
+                "description": "GLYPH FOR ISOLATE ARABIC ALEF", 
                 "title": "ARABIC LETTER ALEF ISOLATED FORM"
             }, 
             {
@@ -239,6 +268,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe8e", 
+                "description": "GLYPH FOR FINAL ARABIC ALEF", 
                 "title": "ARABIC LETTER ALEF FINAL FORM"
             }, 
             {
@@ -247,6 +277,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe8f", 
+                "description": "GLYPH FOR ISOLATE ARABIC BAA", 
                 "title": "ARABIC LETTER BEH ISOLATED FORM"
             }, 
             {
@@ -255,6 +286,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe90", 
+                "description": "GLYPH FOR FINAL ARABIC BAA", 
                 "title": "ARABIC LETTER BEH FINAL FORM"
             }, 
             {
@@ -263,6 +295,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe91", 
+                "description": "GLYPH FOR INITIAL ARABIC BAA", 
                 "title": "ARABIC LETTER BEH INITIAL FORM"
             }, 
             {
@@ -271,6 +304,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe92", 
+                "description": "GLYPH FOR MEDIAL ARABIC BAA", 
                 "title": "ARABIC LETTER BEH MEDIAL FORM"
             }, 
             {
@@ -279,6 +313,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe93", 
+                "description": "GLYPH FOR ISOLATE ARABIC TAA MARBUTAH", 
                 "title": "ARABIC LETTER TEH MARBUTA ISOLATED FORM"
             }, 
             {
@@ -287,6 +322,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe94", 
+                "description": "GLYPH FOR FINAL ARABIC TAA MARBUTAH", 
                 "title": "ARABIC LETTER TEH MARBUTA FINAL FORM"
             }, 
             {
@@ -295,6 +331,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe95", 
+                "description": "GLYPH FOR ISOLATE ARABIC TAA", 
                 "title": "ARABIC LETTER TEH ISOLATED FORM"
             }, 
             {
@@ -303,6 +340,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe96", 
+                "description": "GLYPH FOR FINAL ARABIC TAA", 
                 "title": "ARABIC LETTER TEH FINAL FORM"
             }, 
             {
@@ -311,6 +349,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe97", 
+                "description": "GLYPH FOR INITIAL ARABIC TAA", 
                 "title": "ARABIC LETTER TEH INITIAL FORM"
             }, 
             {
@@ -319,6 +358,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe98", 
+                "description": "GLYPH FOR MEDIAL ARABIC TAA", 
                 "title": "ARABIC LETTER TEH MEDIAL FORM"
             }, 
             {
@@ -327,6 +367,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe99", 
+                "description": "GLYPH FOR ISOLATE ARABIC THAA", 
                 "title": "ARABIC LETTER THEH ISOLATED FORM"
             }, 
             {
@@ -335,6 +376,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe9a", 
+                "description": "GLYPH FOR FINAL ARABIC THAA", 
                 "title": "ARABIC LETTER THEH FINAL FORM"
             }, 
             {
@@ -343,6 +385,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe9b", 
+                "description": "GLYPH FOR INITIAL ARABIC THAA", 
                 "title": "ARABIC LETTER THEH INITIAL FORM"
             }, 
             {
@@ -351,6 +394,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe9c", 
+                "description": "GLYPH FOR MEDIAL ARABIC THAA", 
                 "title": "ARABIC LETTER THEH MEDIAL FORM"
             }, 
             {
@@ -359,6 +403,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe9d", 
+                "description": "GLYPH FOR ISOLATE ARABIC JEEM", 
                 "title": "ARABIC LETTER JEEM ISOLATED FORM"
             }, 
             {
@@ -367,6 +412,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe9e", 
+                "description": "GLYPH FOR FINAL ARABIC JEEM", 
                 "title": "ARABIC LETTER JEEM FINAL FORM"
             }, 
             {
@@ -375,6 +421,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfe9f", 
+                "description": "GLYPH FOR INITIAL ARABIC JEEM", 
                 "title": "ARABIC LETTER JEEM INITIAL FORM"
             }, 
             {
@@ -383,6 +430,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfea0", 
+                "description": "GLYPH FOR MEDIAL ARABIC JEEM", 
                 "title": "ARABIC LETTER JEEM MEDIAL FORM"
             }, 
             {
@@ -391,6 +439,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfea1", 
+                "description": "GLYPH FOR ISOLATE ARABIC HAA", 
                 "title": "ARABIC LETTER HAH ISOLATED FORM"
             }, 
             {
@@ -399,6 +448,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfea2", 
+                "description": "GLYPH FOR FINAL ARABIC HAA", 
                 "title": "ARABIC LETTER HAH FINAL FORM"
             }, 
             {
@@ -407,6 +457,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfea3", 
+                "description": "GLYPH FOR INITIAL ARABIC HAA", 
                 "title": "ARABIC LETTER HAH INITIAL FORM"
             }, 
             {
@@ -415,6 +466,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfea4", 
+                "description": "GLYPH FOR MEDIAL ARABIC HAA", 
                 "title": "ARABIC LETTER HAH MEDIAL FORM"
             }, 
             {
@@ -423,6 +475,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfea5", 
+                "description": "GLYPH FOR ISOLATE ARABIC KHAA", 
                 "title": "ARABIC LETTER KHAH ISOLATED FORM"
             }, 
             {
@@ -431,6 +484,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfea6", 
+                "description": "GLYPH FOR FINAL ARABIC KHAA", 
                 "title": "ARABIC LETTER KHAH FINAL FORM"
             }, 
             {
@@ -439,6 +493,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfea7", 
+                "description": "GLYPH FOR INITIAL ARABIC KHAA", 
                 "title": "ARABIC LETTER KHAH INITIAL FORM"
             }, 
             {
@@ -447,6 +502,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfea8", 
+                "description": "GLYPH FOR MEDIAL ARABIC KHAA", 
                 "title": "ARABIC LETTER KHAH MEDIAL FORM"
             }, 
             {
@@ -455,6 +511,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfea9", 
+                "description": "GLYPH FOR ISOLATE ARABIC DAL", 
                 "title": "ARABIC LETTER DAL ISOLATED FORM"
             }, 
             {
@@ -463,6 +520,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeaa", 
+                "description": "GLYPH FOR FINAL ARABIC DAL", 
                 "title": "ARABIC LETTER DAL FINAL FORM"
             }, 
             {
@@ -471,6 +529,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeab", 
+                "description": "GLYPH FOR ISOLATE ARABIC THAL", 
                 "title": "ARABIC LETTER THAL ISOLATED FORM"
             }, 
             {
@@ -479,6 +538,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeac", 
+                "description": "GLYPH FOR FINAL ARABIC THAL", 
                 "title": "ARABIC LETTER THAL FINAL FORM"
             }, 
             {
@@ -487,6 +547,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfead", 
+                "description": "GLYPH FOR ISOLATE ARABIC RA", 
                 "title": "ARABIC LETTER REH ISOLATED FORM"
             }, 
             {
@@ -495,6 +556,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeae", 
+                "description": "GLYPH FOR FINAL ARABIC RA", 
                 "title": "ARABIC LETTER REH FINAL FORM"
             }, 
             {
@@ -503,6 +565,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeaf", 
+                "description": "GLYPH FOR ISOLATE ARABIC ZAIN", 
                 "title": "ARABIC LETTER ZAIN ISOLATED FORM"
             }, 
             {
@@ -511,6 +574,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeb0", 
+                "description": "GLYPH FOR FINAL ARABIC ZAIN", 
                 "title": "ARABIC LETTER ZAIN FINAL FORM"
             }, 
             {
@@ -519,6 +583,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeb1", 
+                "description": "GLYPH FOR ISOLATE ARABIC SEEN", 
                 "title": "ARABIC LETTER SEEN ISOLATED FORM"
             }, 
             {
@@ -527,6 +592,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeb2", 
+                "description": "GLYPH FOR FINAL ARABIC SEEN", 
                 "title": "ARABIC LETTER SEEN FINAL FORM"
             }, 
             {
@@ -535,6 +601,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeb3", 
+                "description": "GLYPH FOR INITIAL ARABIC SEEN", 
                 "title": "ARABIC LETTER SEEN INITIAL FORM"
             }, 
             {
@@ -543,6 +610,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeb4", 
+                "description": "GLYPH FOR MEDIAL ARABIC SEEN", 
                 "title": "ARABIC LETTER SEEN MEDIAL FORM"
             }, 
             {
@@ -551,6 +619,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeb5", 
+                "description": "GLYPH FOR ISOLATE ARABIC SHEEN", 
                 "title": "ARABIC LETTER SHEEN ISOLATED FORM"
             }, 
             {
@@ -559,6 +628,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeb6", 
+                "description": "GLYPH FOR FINAL ARABIC SHEEN", 
                 "title": "ARABIC LETTER SHEEN FINAL FORM"
             }, 
             {
@@ -567,6 +637,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeb7", 
+                "description": "GLYPH FOR INITIAL ARABIC SHEEN", 
                 "title": "ARABIC LETTER SHEEN INITIAL FORM"
             }, 
             {
@@ -575,6 +646,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeb8", 
+                "description": "GLYPH FOR MEDIAL ARABIC SHEEN", 
                 "title": "ARABIC LETTER SHEEN MEDIAL FORM"
             }, 
             {
@@ -583,6 +655,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeb9", 
+                "description": "GLYPH FOR ISOLATE ARABIC SAD", 
                 "title": "ARABIC LETTER SAD ISOLATED FORM"
             }, 
             {
@@ -591,6 +664,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeba", 
+                "description": "GLYPH FOR FINAL ARABIC SAD", 
                 "title": "ARABIC LETTER SAD FINAL FORM"
             }, 
             {
@@ -599,6 +673,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfebb", 
+                "description": "GLYPH FOR INITIAL ARABIC SAD", 
                 "title": "ARABIC LETTER SAD INITIAL FORM"
             }, 
             {
@@ -607,6 +682,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfebc", 
+                "description": "GLYPH FOR MEDIAL ARABIC SAD", 
                 "title": "ARABIC LETTER SAD MEDIAL FORM"
             }, 
             {
@@ -615,6 +691,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfebd", 
+                "description": "GLYPH FOR ISOLATE ARABIC DAD", 
                 "title": "ARABIC LETTER DAD ISOLATED FORM"
             }, 
             {
@@ -623,6 +700,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfebe", 
+                "description": "GLYPH FOR FINAL ARABIC DAD", 
                 "title": "ARABIC LETTER DAD FINAL FORM"
             }, 
             {
@@ -631,6 +709,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfebf", 
+                "description": "GLYPH FOR INITIAL ARABIC DAD", 
                 "title": "ARABIC LETTER DAD INITIAL FORM"
             }, 
             {
@@ -639,6 +718,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfec0", 
+                "description": "GLYPH FOR MEDIAL ARABIC DAD", 
                 "title": "ARABIC LETTER DAD MEDIAL FORM"
             }, 
             {
@@ -647,6 +727,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfec1", 
+                "description": "GLYPH FOR ISOLATE ARABIC TAH", 
                 "title": "ARABIC LETTER TAH ISOLATED FORM"
             }, 
             {
@@ -655,6 +736,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfec2", 
+                "description": "GLYPH FOR FINAL ARABIC TAH", 
                 "title": "ARABIC LETTER TAH FINAL FORM"
             }, 
             {
@@ -663,6 +745,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfec3", 
+                "description": "GLYPH FOR INITIAL ARABIC TAH", 
                 "title": "ARABIC LETTER TAH INITIAL FORM"
             }, 
             {
@@ -671,6 +754,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfec4", 
+                "description": "GLYPH FOR MEDIAL ARABIC TAH", 
                 "title": "ARABIC LETTER TAH MEDIAL FORM"
             }, 
             {
@@ -679,6 +763,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfec5", 
+                "description": "GLYPH FOR ISOLATE ARABIC DHAH", 
                 "title": "ARABIC LETTER ZAH ISOLATED FORM"
             }, 
             {
@@ -687,6 +772,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfec6", 
+                "description": "GLYPH FOR FINAL ARABIC DHAH", 
                 "title": "ARABIC LETTER ZAH FINAL FORM"
             }, 
             {
@@ -695,6 +781,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfec7", 
+                "description": "GLYPH FOR INITIAL ARABIC DHAH", 
                 "title": "ARABIC LETTER ZAH INITIAL FORM"
             }, 
             {
@@ -703,6 +790,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfec8", 
+                "description": "GLYPH FOR MEDIAL ARABIC DHAH", 
                 "title": "ARABIC LETTER ZAH MEDIAL FORM"
             }, 
             {
@@ -711,6 +799,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfec9", 
+                "description": "GLYPH FOR ISOLATE ARABIC AIN", 
                 "title": "ARABIC LETTER AIN ISOLATED FORM"
             }, 
             {
@@ -719,6 +808,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeca", 
+                "description": "GLYPH FOR FINAL ARABIC AIN", 
                 "title": "ARABIC LETTER AIN FINAL FORM"
             }, 
             {
@@ -727,6 +817,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfecb", 
+                "description": "GLYPH FOR INITIAL ARABIC AIN", 
                 "title": "ARABIC LETTER AIN INITIAL FORM"
             }, 
             {
@@ -735,6 +826,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfecc", 
+                "description": "GLYPH FOR MEDIAL ARABIC AIN", 
                 "title": "ARABIC LETTER AIN MEDIAL FORM"
             }, 
             {
@@ -743,6 +835,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfecd", 
+                "description": "GLYPH FOR ISOLATE ARABIC GHAIN", 
                 "title": "ARABIC LETTER GHAIN ISOLATED FORM"
             }, 
             {
@@ -751,6 +844,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfece", 
+                "description": "GLYPH FOR FINAL ARABIC GHAIN", 
                 "title": "ARABIC LETTER GHAIN FINAL FORM"
             }, 
             {
@@ -759,6 +853,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfecf", 
+                "description": "GLYPH FOR INITIAL ARABIC GHAIN", 
                 "title": "ARABIC LETTER GHAIN INITIAL FORM"
             }, 
             {
@@ -767,6 +862,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfed0", 
+                "description": "GLYPH FOR MEDIAL ARABIC GHAIN", 
                 "title": "ARABIC LETTER GHAIN MEDIAL FORM"
             }, 
             {
@@ -775,6 +871,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfed1", 
+                "description": "GLYPH FOR ISOLATE ARABIC FA", 
                 "title": "ARABIC LETTER FEH ISOLATED FORM"
             }, 
             {
@@ -783,6 +880,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfed2", 
+                "description": "GLYPH FOR FINAL ARABIC FA", 
                 "title": "ARABIC LETTER FEH FINAL FORM"
             }, 
             {
@@ -791,6 +889,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfed3", 
+                "description": "GLYPH FOR INITIAL ARABIC FA", 
                 "title": "ARABIC LETTER FEH INITIAL FORM"
             }, 
             {
@@ -799,6 +898,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfed4", 
+                "description": "GLYPH FOR MEDIAL ARABIC FA", 
                 "title": "ARABIC LETTER FEH MEDIAL FORM"
             }, 
             {
@@ -807,6 +907,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfed5", 
+                "description": "GLYPH FOR ISOLATE ARABIC QAF", 
                 "title": "ARABIC LETTER QAF ISOLATED FORM"
             }, 
             {
@@ -815,6 +916,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfed6", 
+                "description": "GLYPH FOR FINAL ARABIC QAF", 
                 "title": "ARABIC LETTER QAF FINAL FORM"
             }, 
             {
@@ -823,6 +925,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfed7", 
+                "description": "GLYPH FOR INITIAL ARABIC QAF", 
                 "title": "ARABIC LETTER QAF INITIAL FORM"
             }, 
             {
@@ -831,6 +934,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfed8", 
+                "description": "GLYPH FOR MEDIAL ARABIC QAF", 
                 "title": "ARABIC LETTER QAF MEDIAL FORM"
             }, 
             {
@@ -839,6 +943,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfed9", 
+                "description": "GLYPH FOR ISOLATE ARABIC CAF", 
                 "title": "ARABIC LETTER KAF ISOLATED FORM"
             }, 
             {
@@ -847,6 +952,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeda", 
+                "description": "GLYPH FOR FINAL ARABIC CAF", 
                 "title": "ARABIC LETTER KAF FINAL FORM"
             }, 
             {
@@ -855,6 +961,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfedb", 
+                "description": "GLYPH FOR INITIAL ARABIC CAF", 
                 "title": "ARABIC LETTER KAF INITIAL FORM"
             }, 
             {
@@ -863,6 +970,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfedc", 
+                "description": "GLYPH FOR MEDIAL ARABIC CAF", 
                 "title": "ARABIC LETTER KAF MEDIAL FORM"
             }, 
             {
@@ -871,6 +979,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfedd", 
+                "description": "GLYPH FOR ISOLATE ARABIC LAM", 
                 "title": "ARABIC LETTER LAM ISOLATED FORM"
             }, 
             {
@@ -879,6 +988,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfede", 
+                "description": "GLYPH FOR FINAL ARABIC LAM", 
                 "title": "ARABIC LETTER LAM FINAL FORM"
             }, 
             {
@@ -887,6 +997,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfedf", 
+                "description": "GLYPH FOR INITIAL ARABIC LAM", 
                 "title": "ARABIC LETTER LAM INITIAL FORM"
             }, 
             {
@@ -895,6 +1006,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfee0", 
+                "description": "GLYPH FOR MEDIAL ARABIC LAM", 
                 "title": "ARABIC LETTER LAM MEDIAL FORM"
             }, 
             {
@@ -903,6 +1015,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfee1", 
+                "description": "GLYPH FOR ISOLATE ARABIC MEEM", 
                 "title": "ARABIC LETTER MEEM ISOLATED FORM"
             }, 
             {
@@ -911,6 +1024,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfee2", 
+                "description": "GLYPH FOR FINAL ARABIC MEEM", 
                 "title": "ARABIC LETTER MEEM FINAL FORM"
             }, 
             {
@@ -919,6 +1033,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfee3", 
+                "description": "GLYPH FOR INITIAL ARABIC MEEM", 
                 "title": "ARABIC LETTER MEEM INITIAL FORM"
             }, 
             {
@@ -927,6 +1042,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfee4", 
+                "description": "GLYPH FOR MEDIAL ARABIC MEEM", 
                 "title": "ARABIC LETTER MEEM MEDIAL FORM"
             }, 
             {
@@ -935,6 +1051,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfee5", 
+                "description": "GLYPH FOR ISOLATE ARABIC NOON", 
                 "title": "ARABIC LETTER NOON ISOLATED FORM"
             }, 
             {
@@ -943,6 +1060,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfee6", 
+                "description": "GLYPH FOR FINAL ARABIC NOON", 
                 "title": "ARABIC LETTER NOON FINAL FORM"
             }, 
             {
@@ -951,6 +1069,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfee7", 
+                "description": "GLYPH FOR INITIAL ARABIC NOON", 
                 "title": "ARABIC LETTER NOON INITIAL FORM"
             }, 
             {
@@ -959,6 +1078,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfee8", 
+                "description": "GLYPH FOR MEDIAL ARABIC NOON", 
                 "title": "ARABIC LETTER NOON MEDIAL FORM"
             }, 
             {
@@ -967,6 +1087,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfee9", 
+                "description": "GLYPH FOR ISOLATE ARABIC HA", 
                 "title": "ARABIC LETTER HEH ISOLATED FORM"
             }, 
             {
@@ -975,6 +1096,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeea", 
+                "description": "GLYPH FOR FINAL ARABIC HA", 
                 "title": "ARABIC LETTER HEH FINAL FORM"
             }, 
             {
@@ -983,6 +1105,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeeb", 
+                "description": "GLYPH FOR INITIAL ARABIC HA", 
                 "title": "ARABIC LETTER HEH INITIAL FORM"
             }, 
             {
@@ -991,6 +1114,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeec", 
+                "description": "GLYPH FOR MEDIAL ARABIC HA", 
                 "title": "ARABIC LETTER HEH MEDIAL FORM"
             }, 
             {
@@ -999,6 +1123,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeed", 
+                "description": "GLYPH FOR ISOLATE ARABIC WAW", 
                 "title": "ARABIC LETTER WAW ISOLATED FORM"
             }, 
             {
@@ -1007,6 +1132,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeee", 
+                "description": "GLYPH FOR FINAL ARABIC WAW", 
                 "title": "ARABIC LETTER WAW FINAL FORM"
             }, 
             {
@@ -1015,6 +1141,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfeef", 
+                "description": "GLYPH FOR ISOLATE ARABIC ALEF MAQSURAH", 
                 "title": "ARABIC LETTER ALEF MAKSURA ISOLATED FORM"
             }, 
             {
@@ -1023,6 +1150,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfef0", 
+                "description": "GLYPH FOR FINAL ARABIC ALEF MAQSURAH", 
                 "title": "ARABIC LETTER ALEF MAKSURA FINAL FORM"
             }, 
             {
@@ -1031,6 +1159,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfef1", 
+                "description": "GLYPH FOR ISOLATE ARABIC YA", 
                 "title": "ARABIC LETTER YEH ISOLATED FORM"
             }, 
             {
@@ -1039,6 +1168,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfef2", 
+                "description": "GLYPH FOR FINAL ARABIC YA", 
                 "title": "ARABIC LETTER YEH FINAL FORM"
             }, 
             {
@@ -1047,6 +1177,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfef3", 
+                "description": "GLYPH FOR INITIAL ARABIC YA", 
                 "title": "ARABIC LETTER YEH INITIAL FORM"
             }, 
             {
@@ -1055,6 +1186,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfef4", 
+                "description": "GLYPH FOR MEDIAL ARABIC YA", 
                 "title": "ARABIC LETTER YEH MEDIAL FORM"
             }, 
             {
@@ -1063,6 +1195,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfef5", 
+                "description": "GLYPH FOR ISOLATE ARABIC MADDAH ON LIGATURE LAM ALEF", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE ISOLATED FORM"
             }, 
             {
@@ -1071,6 +1204,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfef6", 
+                "description": "GLYPH FOR FINAL ARABIC MADDAH ON LIGATURE LAM ALEF", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH MADDA ABOVE FINAL FORM"
             }, 
             {
@@ -1079,6 +1213,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfef7", 
+                "description": "GLYPH FOR ISOLATE ARABIC HAMZAH ON LIGATURE LAM ALEF", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE ISOLATED FORM"
             }, 
             {
@@ -1087,6 +1222,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfef8", 
+                "description": "GLYPH FOR FINAL ARABIC HAMZAH ON LIGATURE LAM ALEF", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH HAMZA ABOVE FINAL FORM"
             }, 
             {
@@ -1095,6 +1231,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfef9", 
+                "description": "GLYPH FOR ISOLATE ARABIC HAMZAH UNDER LIGATURE LAM ALEF", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW ISOLATED FORM"
             }, 
             {
@@ -1103,6 +1240,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfefa", 
+                "description": "GLYPH FOR FINAL ARABIC HAMZAH UNDER LIGATURE LAM ALEF", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF WITH HAMZA BELOW FINAL FORM"
             }, 
             {
@@ -1111,6 +1249,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfefb", 
+                "description": "GLYPH FOR ISOLATE ARABIC LIGATURE LAM ALEF", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF ISOLATED FORM"
             }, 
             {
@@ -1119,6 +1258,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0xfefc", 
+                "description": "GLYPH FOR FINAL ARABIC LIGATURE LAM ALEF", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF FINAL FORM"
             }
         ], 

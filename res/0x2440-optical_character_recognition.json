@@ -7,6 +7,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2440", 
+                "description": "", 
                 "title": "OCR HOOK"
             }, 
             {
@@ -15,6 +16,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2441", 
+                "description": "", 
                 "title": "OCR CHAIR"
             }, 
             {
@@ -23,6 +25,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2442", 
+                "description": "", 
                 "title": "OCR FORK"
             }, 
             {
@@ -31,6 +34,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2443", 
+                "description": "", 
                 "title": "OCR INVERTED FORK"
             }, 
             {
@@ -39,6 +43,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2444", 
+                "description": "", 
                 "title": "OCR BELT BUCKLE"
             }, 
             {
@@ -47,6 +52,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2445", 
+                "description": "", 
                 "title": "OCR BOW TIE"
             }, 
             {
@@ -55,6 +61,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2446", 
+                "description": "", 
                 "title": "OCR BRANCH BANK IDENTIFICATION"
             }, 
             {
@@ -63,6 +70,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2447", 
+                "description": "", 
                 "title": "OCR AMOUNT OF CHECK"
             }, 
             {
@@ -71,6 +79,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2448", 
+                "description": "", 
                 "title": "OCR DASH"
             }, 
             {
@@ -79,6 +88,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x2449", 
+                "description": "", 
                 "title": "OCR CUSTOMER ACCOUNT NUMBER"
             }, 
             {
@@ -87,6 +97,7 @@
                 "cat3": "", 
                 "cat4": "", 
                 "charcode": "0x244a", 
+                "description": "", 
                 "title": "OCR DOUBLE BACKSLASH"
             }
         ], 
