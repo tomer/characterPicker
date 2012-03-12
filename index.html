@@ -74,11 +74,15 @@ a[onclick] { text-decoration: underline; color: blue; cursor: pointer}
 
 				var title = item['title'];
 				if ('undefined' != typeof title) element.setAttribute('title', title);
+				
+				var description = item['description'];
+				if ('undefined' != typeof description && description != "") element.setAttribute('title', title +" ("+ description +")");
 
-				document.getElementById("buttons").appendChild(element);
+				//document.getElementById("buttons").appendChild(element);
+				return element;
 			}
 
-			function addButtons(buttonsArray) {	        
+			/*function addButtons(buttonsArray) {	        
 				if ('undefined' != typeof buttonsArray['name']) {
 					var h2 = document.createElement("h2");
 					h2.textContent = buttonsArray['name'];
@@ -87,6 +91,48 @@ a[onclick] { text-decoration: underline; color: blue; cursor: pointer}
 				else addButtonsSeparator();
 
 				for (var i in buttonsArray['content']) addButton(buttonsArray['content'][i]);  
+			}*/
+			
+			
+			function addButtons(buttonsArray) {
+			    var categories = ["cat1", "cat2", "cat3", "cat4"];
+                for (var i in buttonsArray['content']) {
+                    var element = addButton(buttonsArray['content'][i]);  
+                    
+                    var category = "buttons-category";
+                    
+
+                    
+                    for (var cat in categories) {
+                        if (buttonsArray['content'][i][categories[cat]] != "" && 'undefined' != typeof buttonsArray['content'][i][categories[cat]]) 
+                            category += "-"+ buttonsArray['content'][i][categories[cat]];
+                        //console.log(cat + " // "+ buttonsArray['content'][i][categories[cat]]);   
+                    }
+                    
+                    if (!document.getElementById(category))  {
+                        container = document.createElement('div');
+                        
+                        var title = "";
+                        for (var cat in categories) {
+                            if (buttonsArray['content'][i][categories[cat]] != "" && 'undefined' != typeof buttonsArray['content'][i][categories[cat]]) {
+                                if (cat > 0) title +=" » ";
+                                title += buttonsArray['content'][i][categories[cat]];
+                            }
+                        }
+                        
+                        container.id = category;
+                        
+                        var h2 = document.createElement('h2');
+                        h2.textContent = title;
+                        container.appendChild(h2);
+                        
+                        document.getElementById('buttons').appendChild(container);
+                        
+                    }
+                    
+                    document.getElementById(category).appendChild(element);
+                    
+                }
 			}
 
 			function addButtonsSeparator() {
@@ -138,6 +184,8 @@ a[onclick] { text-decoration: underline; color: blue; cursor: pointer}
 					if (http_request.readyState == done && http_request.status == ok) {
 						list = JSON.parse(http_request.responseText);
 
+                        debug_list = list; /// DEBUG
+                        
 						for (var i in list) {
 							addButtons(list[i]);
 						}
@@ -147,6 +195,8 @@ a[onclick] { text-decoration: underline; color: blue; cursor: pointer}
 				}
 				http_request.send(null);
 			}
+
+            var debug_list;            /// DEBUG
 
 			function getQueryString() {
 				var queryString={};
