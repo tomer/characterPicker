@@ -1,14 +1,14 @@
 {
 	"version": "1.0",
 	"name": "Unicode Character Picker",
-	"description": "An easy to use Unicode character picker application"
-},
-"developer": {
-	"name": "Tomer Cohen",
-	"url": "http://tomercohen.com"
-},
-"installs_allowed_from": [
-	"http://tomer.github.com",
-	"http://tomercohen.com",
-	"https://marketplace.mozilla.org"
-]
+	"description": "An easy to use Unicode character picker application",
+    "developer": {
+    	"name": "Tomer Cohen",
+    	"url": "http://tomercohen.com"
+    },
+    "installs_allowed_from": [
+	    "http://tomer.github.com",
+	    "http://tomercohen.com",
+    	"https://marketplace.mozilla.org"
+    ]
+}
