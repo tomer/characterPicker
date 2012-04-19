@@ -148,7 +148,7 @@ a[onclick] { text-decoration: underline; color: blue; cursor: pointer}
 			    http_request.open("GET", filename, true);
 			    http_request.onreadystatechange = function() {
 			        var done = 4, ok = 200;
-			        if (http_request.readyState = done && http_request.status == ok) {
+			        if (http_request.readyState == done && http_request.status == ok) {
 			            list = JSON.parse(http_request.responseText);
 			            
 			            for (var i in list) {
