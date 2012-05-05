@@ -1,9 +1,10 @@
 {
 	"version": "1.0",
 	"name": "Unicode Character Picker",
-	"description": "An easy to use Unicode character picker application",
+	"description": "An easy to use Unicode character picker application similar to the Character Map applications available on desktop computers",
+	"launch_path": "/characterPicker/",
 	"developer": {
-    		"name": "Tomer Cohen",
+    	"name": "Tomer Cohen",
 		"url": "http://tomercohen.com"
 	},
 	"installs_allowed_from": [
