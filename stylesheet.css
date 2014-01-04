@@ -12,8 +12,17 @@ div.big { font-size: 200%; text-align: center; }
 #buttons h2 { text-shadow: 2px 2px 2px silver; }
 #buttons {padding: 0 10%}
 
-#buttons button {border: 1px solid #eee; border-radius: 5px; margin: 10px; transition:box-shadow 0.5s;}
-#buttons button:hover {box-shadow: 0px 0px 18px blue; transition:box-shadow 0.5s;}
+#buttons button {
+  border: 1px solid #eee; 
+  border-radius: 5px; 
+  margin: 10px; 
+  transition:box-shadow 0.5s;
+}
+
+#buttons button:hover {
+  box-shadow: 0px 0px 18px blue; 
+  transition:box-shadow 0.5s;
+}
 
 #buttons.list button:after {content: " – " attr(title); font-size: 25%;}
 #buttons.list button {display: block; border-bottom: 1px solid silver; width: 100%; text-align: start}
