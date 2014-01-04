@@ -217,3 +217,24 @@
             function changeListStyle(style) {
                 document.getElementById('buttons').className = style;
             }
+            
+            
+	function loadCSSFile(CSSFile, id) {
+		var e = document.createElement('link');
+		e.rel='stylesheet';
+		e.type = 'text/css';
+		e.href=CSSFile;
+		
+		if (id != undefined) {
+			e.id=id;
+			removeElement(id)
+		}
+		
+		var head = document.getElementsByTagName("head")[0]; 
+		head.appendChild(e);
+	}
+	
+	function removeElement(id) {
+		var element = document.getElementById(id);
+		if (element != null) element.parentNode.removeChild(element);
+	}
