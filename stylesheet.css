@@ -5,10 +5,22 @@
 
 html {overflow-y: scroll;}
 body, #buttons button, textarea { font-family: sans-serif, Symbola;}
-#input {font-size: 200%; width:100%}
+
+#panel { 
+	position: sticky;
+	top: 0;
+	background: white;
+	padding-bottom: 20px;
+}
+
+#input {
+  font-size: 200%; 
+  width:100%;
+}
+
+
 #buttons button { font-size: 400%; background: none; border: none; min-width: 1ex}
 div.big { font-size: 200%; text-align: center; }
-/*#buttons button:hover {color:blue; text-shadow:0 0 30px yellow , 0 0 70px yellow;}*/
 #buttons h2 { text-shadow: 2px 2px 2px silver; }
 #buttons {padding: 0 10%}
 
@@ -16,12 +28,13 @@ div.big { font-size: 200%; text-align: center; }
   box-shadow: 0 0 3px silver, 0 0 1px silver inset;
   border-radius: 5px; 
   margin: 10px; 
-  transition:box-shadow 0.5s;
+  transition:box-shadow 0.5s, background 0.5s;
 }
 
 #buttons button:hover {
   box-shadow: 0px 0px 18px blue, 0 0 8px blue inset; 
-  transition:box-shadow 0.5s;
+  transition:box-shadow 0.5s, background 0.5s;
+  background: #ddf;
 }
 
 #buttons.list button:after {content: " – " attr(title); font-size: 25%;}
