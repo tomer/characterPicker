@@ -234,6 +234,11 @@
                 "charcode": "0x20b9", 
                 "description": "", 
                 "title": "INDIAN RUPEE SIGN"
+            }, 
+            {
+                "charcode": "0x20ba", 
+                "description": "", 
+                "title": "TURKISH LIRA SIGN"
             }
         ], 
         "name": "Currency Symbols"
