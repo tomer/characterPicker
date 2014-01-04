@@ -1,10 +1,6 @@
-@font-face {
-	font-family: "Symbola";
-	src: local("Symbola"), url("Symbola601.otf");
-}
+@import url('symbola.css')
 
 html {overflow-y: scroll;}
-body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 
 #panel { 
 	position: sticky;
@@ -18,10 +14,11 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
   width:100%;
 }
 
-
 #buttons button { font-size: 400%; background: none; border: none; min-width: 1ex}
 div.big { font-size: 200%; text-align: center; }
-#buttons h2 { text-shadow: 2px 2px 2px silver; }
+#buttons h2 { 
+	text-shadow: 2px 2px 2px silver;
+}
 #buttons {padding: 0 10%}
 
 #buttons button {

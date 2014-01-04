@@ -1,0 +1,5 @@
+@font-face {
+	font-family: "Symbola";
+	src: local("Symbola"), url("Symbola601.otf");
+}
+body, #buttons button, textarea { font-family: sans-serif, Symbola;}
