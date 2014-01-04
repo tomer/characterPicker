@@ -8,7 +8,6 @@ body, #buttons button, textarea { font-family: sans-serif, Symbola;}
 #input {font-size: 200%; width:100%}
 #buttons button { font-size: 400%; background: none; border: none; min-width: 1ex}
 div.big { font-size: 200%; text-align: center; }
-/*#buttons button:hover {color:blue; text-shadow:0 0 30px yellow , 0 0 70px yellow;}*/
 #buttons h2 { text-shadow: 2px 2px 2px silver; }
 #buttons {padding: 0 10%}
 
