@@ -911,6 +911,26 @@
                 "title": "INVISIBLE PLUS"
             }, 
             {
+                "charcode": "0x2066", 
+                "description": "", 
+                "title": "LEFT-TO-RIGHT ISOLATE"
+            }, 
+            {
+                "charcode": "0x2067", 
+                "description": "", 
+                "title": "RIGHT-TO-LEFT ISOLATE"
+            }, 
+            {
+                "charcode": "0x2068", 
+                "description": "", 
+                "title": "FIRST STRONG ISOLATE"
+            }, 
+            {
+                "charcode": "0x2069", 
+                "description": "", 
+                "title": "POP DIRECTIONAL ISOLATE"
+            }, 
+            {
                 "cat1": "Format", 
                 "cat2": "", 
                 "cat3": "", 
