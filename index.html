@@ -5,6 +5,7 @@
 		<meta charset="utf-8"/>
 		<link rel="stylesheet" href="stylesheet.css" />
 		<script src="characterPicker.js" type="text/javascript"></script>
+		<meta name="viewport" content="width=device-width, user-scalable=no">
 	</head>
 
 	<body id="body" onload="start();">
@@ -21,9 +22,9 @@
             <option value=""></option>
         </select>
 	
-		<label for="style">Show as </lable>
-	    <input type="radio" name="style" value="table" checked="checked" onclick="changeListStyle('table')">Table</input>
-	    <input type="radio" name="style" value="list" onclick="changeListStyle('list')">List</input>
+		<label for="style">Show as </label>
+	    <input type="radio" name="style" value="table" checked="checked" onclick="changeListStyle('table')" id="label-table" /><label for="style-table">Table</label>
+	    <input type="radio" name="style" value="list" onclick="changeListStyle('list')" id="label-list"/><label for="label-list">List<label>
 	
 	Input length: <span id="length"></span> <span id="value"></span>
 	</div>
