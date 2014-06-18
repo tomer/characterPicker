@@ -263,6 +263,11 @@
                 "title": "PLAYING CARD KING OF HEARTS"
             }, 
             {
+                "charcode": "0x1f0bf", 
+                "description": "", 
+                "title": "PLAYING CARD RED JOKER"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Game", 
                 "cat3": "Playing card", 
@@ -531,6 +536,116 @@
                 "charcode": "0x1f0df", 
                 "description": "", 
                 "title": "PLAYING CARD WHITE JOKER"
+            }, 
+            {
+                "charcode": "0x1f0e0", 
+                "description": "", 
+                "title": "PLAYING CARD FOOL"
+            }, 
+            {
+                "charcode": "0x1f0e1", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-1"
+            }, 
+            {
+                "charcode": "0x1f0e2", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-2"
+            }, 
+            {
+                "charcode": "0x1f0e3", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-3"
+            }, 
+            {
+                "charcode": "0x1f0e4", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-4"
+            }, 
+            {
+                "charcode": "0x1f0e5", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-5"
+            }, 
+            {
+                "charcode": "0x1f0e6", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-6"
+            }, 
+            {
+                "charcode": "0x1f0e7", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-7"
+            }, 
+            {
+                "charcode": "0x1f0e8", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-8"
+            }, 
+            {
+                "charcode": "0x1f0e9", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-9"
+            }, 
+            {
+                "charcode": "0x1f0ea", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-10"
+            }, 
+            {
+                "charcode": "0x1f0eb", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-11"
+            }, 
+            {
+                "charcode": "0x1f0ec", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-12"
+            }, 
+            {
+                "charcode": "0x1f0ed", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-13"
+            }, 
+            {
+                "charcode": "0x1f0ee", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-14"
+            }, 
+            {
+                "charcode": "0x1f0ef", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-15"
+            }, 
+            {
+                "charcode": "0x1f0f0", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-16"
+            }, 
+            {
+                "charcode": "0x1f0f1", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-17"
+            }, 
+            {
+                "charcode": "0x1f0f2", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-18"
+            }, 
+            {
+                "charcode": "0x1f0f3", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-19"
+            }, 
+            {
+                "charcode": "0x1f0f4", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-20"
+            }, 
+            {
+                "charcode": "0x1f0f5", 
+                "description": "", 
+                "title": "PLAYING CARD TRUMP-21"
             }
         ], 
         "name": "Playing Cards"

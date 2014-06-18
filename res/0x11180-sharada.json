@@ -659,6 +659,11 @@
                 "title": "SHARADA SEPARATOR"
             }, 
             {
+                "charcode": "0x111cd", 
+                "description": "", 
+                "title": "SHARADA SUTRA MARK"
+            }, 
+            {
                 "cat1": "Number", 
                 "cat2": "Digit", 
                 "cat3": "", 
@@ -747,6 +752,11 @@
                 "charcode": "0x111d9", 
                 "description": "", 
                 "title": "SHARADA DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x111da", 
+                "description": "", 
+                "title": "SHARADA EKAM"
             }
         ], 
         "name": "Sharada"

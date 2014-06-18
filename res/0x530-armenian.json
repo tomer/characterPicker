@@ -774,6 +774,16 @@
                 "charcode": "0x58a", 
                 "description": "", 
                 "title": "ARMENIAN HYPHEN"
+            }, 
+            {
+                "charcode": "0x58d", 
+                "description": "", 
+                "title": "RIGHT-FACING ARMENIAN ETERNITY SIGN"
+            }, 
+            {
+                "charcode": "0x58e", 
+                "description": "", 
+                "title": "LEFT-FACING ARMENIAN ETERNITY SIGN"
             }
         ], 
         "name": "Armenian"

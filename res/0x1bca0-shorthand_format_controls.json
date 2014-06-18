@@ -1,0 +1,27 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1bca0", 
+                "description": "", 
+                "title": "SHORTHAND FORMAT LETTER OVERLAP"
+            }, 
+            {
+                "charcode": "0x1bca1", 
+                "description": "", 
+                "title": "SHORTHAND FORMAT CONTINUING OVERLAP"
+            }, 
+            {
+                "charcode": "0x1bca2", 
+                "description": "", 
+                "title": "SHORTHAND FORMAT DOWN STEP"
+            }, 
+            {
+                "charcode": "0x1bca3", 
+                "description": "", 
+                "title": "SHORTHAND FORMAT UP STEP"
+            }
+        ], 
+        "name": "Shorthand Format Controls"
+    }
+]

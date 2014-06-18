@@ -1,0 +1,82 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1ab0", 
+                "description": "", 
+                "title": "COMBINING DOUBLED CIRCUMFLEX ACCENT"
+            }, 
+            {
+                "charcode": "0x1ab1", 
+                "description": "", 
+                "title": "COMBINING DIAERESIS-RING"
+            }, 
+            {
+                "charcode": "0x1ab2", 
+                "description": "", 
+                "title": "COMBINING INFINITY"
+            }, 
+            {
+                "charcode": "0x1ab3", 
+                "description": "", 
+                "title": "COMBINING DOWNWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x1ab4", 
+                "description": "", 
+                "title": "COMBINING TRIPLE DOT"
+            }, 
+            {
+                "charcode": "0x1ab5", 
+                "description": "", 
+                "title": "COMBINING X-X BELOW"
+            }, 
+            {
+                "charcode": "0x1ab6", 
+                "description": "", 
+                "title": "COMBINING WIGGLY LINE BELOW"
+            }, 
+            {
+                "charcode": "0x1ab7", 
+                "description": "", 
+                "title": "COMBINING OPEN MARK BELOW"
+            }, 
+            {
+                "charcode": "0x1ab8", 
+                "description": "", 
+                "title": "COMBINING DOUBLE OPEN MARK BELOW"
+            }, 
+            {
+                "charcode": "0x1ab9", 
+                "description": "", 
+                "title": "COMBINING LIGHT CENTRALIZATION STROKE BELOW"
+            }, 
+            {
+                "charcode": "0x1aba", 
+                "description": "", 
+                "title": "COMBINING STRONG CENTRALIZATION STROKE BELOW"
+            }, 
+            {
+                "charcode": "0x1abb", 
+                "description": "", 
+                "title": "COMBINING PARENTHESES ABOVE"
+            }, 
+            {
+                "charcode": "0x1abc", 
+                "description": "", 
+                "title": "COMBINING DOUBLE PARENTHESES ABOVE"
+            }, 
+            {
+                "charcode": "0x1abd", 
+                "description": "", 
+                "title": "COMBINING PARENTHESES BELOW"
+            }, 
+            {
+                "charcode": "0x1abe", 
+                "description": "", 
+                "title": "COMBINING PARENTHESES OVERLAY"
+            }
+        ], 
+        "name": "Combining Diacritical Marks Extended"
+    }
+]

@@ -101,6 +101,16 @@
                 "title": "DIGIT NINE COMMA"
             }, 
             {
+                "charcode": "0x1f10b", 
+                "description": "", 
+                "title": "DINGBAT CIRCLED SANS-SERIF DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x1f10c", 
+                "description": "", 
+                "title": "DINGBAT NEGATIVE CIRCLED SANS-SERIF DIGIT ZERO"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Letter", 
                 "cat3": "Parenthesized", 

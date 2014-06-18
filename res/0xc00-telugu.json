@@ -2,6 +2,11 @@
     {
         "content": [
             {
+                "charcode": "0xc00", 
+                "description": "", 
+                "title": "TELUGU SIGN COMBINING CANDRABINDU ABOVE"
+            }, 
+            {
                 "cat1": "Mark", 
                 "cat2": "", 
                 "cat3": "", 
@@ -423,6 +428,11 @@
                 "charcode": "0xc33", 
                 "description": "", 
                 "title": "TELUGU LETTER LLA"
+            }, 
+            {
+                "charcode": "0xc34", 
+                "description": "", 
+                "title": "TELUGU LETTER LLLA"
             }, 
             {
                 "cat1": "Letter", 

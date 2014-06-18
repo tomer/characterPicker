@@ -63,6 +63,41 @@
                 "charcode": "0xfe26", 
                 "description": "", 
                 "title": "COMBINING CONJOINING MACRON"
+            }, 
+            {
+                "charcode": "0xfe27", 
+                "description": "", 
+                "title": "COMBINING LIGATURE LEFT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe28", 
+                "description": "", 
+                "title": "COMBINING LIGATURE RIGHT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe29", 
+                "description": "", 
+                "title": "COMBINING TILDE LEFT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe2a", 
+                "description": "", 
+                "title": "COMBINING TILDE RIGHT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe2b", 
+                "description": "", 
+                "title": "COMBINING MACRON LEFT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe2c", 
+                "description": "", 
+                "title": "COMBINING MACRON RIGHT HALF BELOW"
+            }, 
+            {
+                "charcode": "0xfe2d", 
+                "description": "", 
+                "title": "COMBINING CONJOINING MACRON BELOW"
             }
         ], 
         "name": "Combining Half Marks"

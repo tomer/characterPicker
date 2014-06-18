@@ -252,6 +252,21 @@
                 "charcode": "0xaa7b", 
                 "description": "", 
                 "title": "MYANMAR SIGN PAO KAREN TONE"
+            }, 
+            {
+                "charcode": "0xaa7c", 
+                "description": "", 
+                "title": "MYANMAR SIGN TAI LAING TONE-2"
+            }, 
+            {
+                "charcode": "0xaa7d", 
+                "description": "", 
+                "title": "MYANMAR SIGN TAI LAING TONE-5"
+            }, 
+            {
+                "charcode": "0xaa7e", 
+                "description": "", 
+                "title": "MYANMAR LETTER SHWE PALAUNG CHA"
             }
         ], 
         "name": "Myanmar Extended-A"

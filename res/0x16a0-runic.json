@@ -729,6 +729,46 @@
                 "charcode": "0x16f0", 
                 "description": "", 
                 "title": "RUNIC BELGTHOR SYMBOL"
+            }, 
+            {
+                "charcode": "0x16f1", 
+                "description": "", 
+                "title": "RUNIC LETTER K"
+            }, 
+            {
+                "charcode": "0x16f2", 
+                "description": "", 
+                "title": "RUNIC LETTER SH"
+            }, 
+            {
+                "charcode": "0x16f3", 
+                "description": "", 
+                "title": "RUNIC LETTER OO"
+            }, 
+            {
+                "charcode": "0x16f4", 
+                "description": "", 
+                "title": "RUNIC LETTER FRANKS CASKET OS"
+            }, 
+            {
+                "charcode": "0x16f5", 
+                "description": "", 
+                "title": "RUNIC LETTER FRANKS CASKET IS"
+            }, 
+            {
+                "charcode": "0x16f6", 
+                "description": "", 
+                "title": "RUNIC LETTER FRANKS CASKET EH"
+            }, 
+            {
+                "charcode": "0x16f7", 
+                "description": "", 
+                "title": "RUNIC LETTER FRANKS CASKET AC"
+            }, 
+            {
+                "charcode": "0x16f8", 
+                "description": "", 
+                "title": "RUNIC LETTER FRANKS CASKET AESC"
             }
         ], 
         "name": "Runic"

@@ -893,6 +893,66 @@
                 "title": "CUNEIFORM NUMERIC SIGN OLD ASSYRIAN ONE QUARTER"
             }, 
             {
+                "charcode": "0x12463", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN ONE QUARTER GUR"
+            }, 
+            {
+                "charcode": "0x12464", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN ONE HALF GUR"
+            }, 
+            {
+                "charcode": "0x12465", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN ELAMITE ONE THIRD"
+            }, 
+            {
+                "charcode": "0x12466", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN ELAMITE TWO THIRDS"
+            }, 
+            {
+                "charcode": "0x12467", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN ELAMITE FORTY"
+            }, 
+            {
+                "charcode": "0x12468", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN ELAMITE FIFTY"
+            }, 
+            {
+                "charcode": "0x12469", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN FOUR U VARIANT FORM"
+            }, 
+            {
+                "charcode": "0x1246a", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN FIVE U VARIANT FORM"
+            }, 
+            {
+                "charcode": "0x1246b", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN SIX U VARIANT FORM"
+            }, 
+            {
+                "charcode": "0x1246c", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN SEVEN U VARIANT FORM"
+            }, 
+            {
+                "charcode": "0x1246d", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN EIGHT U VARIANT FORM"
+            }, 
+            {
+                "charcode": "0x1246e", 
+                "description": "", 
+                "title": "CUNEIFORM NUMERIC SIGN NINE U VARIANT FORM"
+            }, 
+            {
                 "cat1": "Punctuation", 
                 "cat2": "", 
                 "cat3": "", 
@@ -927,6 +987,11 @@
                 "charcode": "0x12473", 
                 "description": "", 
                 "title": "CUNEIFORM PUNCTUATION SIGN DIAGONAL TRICOLON"
+            }, 
+            {
+                "charcode": "0x12474", 
+                "description": "", 
+                "title": "CUNEIFORM PUNCTUATION SIGN DIAGONAL QUADCOLON"
             }
         ], 
         "name": "Cuneiform Numbers and Punctuation"

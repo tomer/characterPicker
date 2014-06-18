@@ -1,0 +1,107 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x111e1", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x111e2", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x111e3", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x111e4", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x111e5", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x111e6", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x111e7", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x111e8", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x111e9", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x111ea", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC NUMBER TEN"
+            }, 
+            {
+                "charcode": "0x111eb", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC NUMBER TWENTY"
+            }, 
+            {
+                "charcode": "0x111ec", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC NUMBER THIRTY"
+            }, 
+            {
+                "charcode": "0x111ed", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC NUMBER FORTY"
+            }, 
+            {
+                "charcode": "0x111ee", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC NUMBER FIFTY"
+            }, 
+            {
+                "charcode": "0x111ef", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC NUMBER SIXTY"
+            }, 
+            {
+                "charcode": "0x111f0", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC NUMBER SEVENTY"
+            }, 
+            {
+                "charcode": "0x111f1", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC NUMBER EIGHTY"
+            }, 
+            {
+                "charcode": "0x111f2", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC NUMBER NINETY"
+            }, 
+            {
+                "charcode": "0x111f3", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC NUMBER ONE HUNDRED"
+            }, 
+            {
+                "charcode": "0x111f4", 
+                "description": "", 
+                "title": "SINHALA ARCHAIC NUMBER ONE THOUSAND"
+            }
+        ], 
+        "name": "Sinhala Archaic Numbers"
+    }
+]

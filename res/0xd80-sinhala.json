@@ -695,6 +695,56 @@
                 "title": "SINHALA VOWEL SIGN GAYANUKITTA"
             }, 
             {
+                "charcode": "0xde6", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0xde7", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT ONE"
+            }, 
+            {
+                "charcode": "0xde8", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT TWO"
+            }, 
+            {
+                "charcode": "0xde9", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT THREE"
+            }, 
+            {
+                "charcode": "0xdea", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0xdeb", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0xdec", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT SIX"
+            }, 
+            {
+                "charcode": "0xded", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0xdee", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0xdef", 
+                "description": "", 
+                "title": "SINHALA LITH DIGIT NINE"
+            }, 
+            {
                 "cat1": "Letter", 
                 "cat2": "Vowel", 
                 "cat3": "Dependent", 

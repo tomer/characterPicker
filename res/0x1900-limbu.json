@@ -263,6 +263,16 @@
                 "title": "LIMBU LETTER HA"
             }, 
             {
+                "charcode": "0x191d", 
+                "description": "", 
+                "title": "LIMBU LETTER GYAN"
+            }, 
+            {
+                "charcode": "0x191e", 
+                "description": "", 
+                "title": "LIMBU LETTER TRA"
+            }, 
+            {
                 "cat1": "Letter", 
                 "cat2": "Vowel", 
                 "cat3": "Dependent", 

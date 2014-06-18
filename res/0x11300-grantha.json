@@ -1,0 +1,422 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x11301", 
+                "description": "", 
+                "title": "GRANTHA SIGN CANDRABINDU"
+            }, 
+            {
+                "charcode": "0x11302", 
+                "description": "", 
+                "title": "GRANTHA SIGN ANUSVARA"
+            }, 
+            {
+                "charcode": "0x11303", 
+                "description": "", 
+                "title": "GRANTHA SIGN VISARGA"
+            }, 
+            {
+                "charcode": "0x11305", 
+                "description": "", 
+                "title": "GRANTHA LETTER A"
+            }, 
+            {
+                "charcode": "0x11306", 
+                "description": "", 
+                "title": "GRANTHA LETTER AA"
+            }, 
+            {
+                "charcode": "0x11307", 
+                "description": "", 
+                "title": "GRANTHA LETTER I"
+            }, 
+            {
+                "charcode": "0x11308", 
+                "description": "", 
+                "title": "GRANTHA LETTER II"
+            }, 
+            {
+                "charcode": "0x11309", 
+                "description": "", 
+                "title": "GRANTHA LETTER U"
+            }, 
+            {
+                "charcode": "0x1130a", 
+                "description": "", 
+                "title": "GRANTHA LETTER UU"
+            }, 
+            {
+                "charcode": "0x1130b", 
+                "description": "", 
+                "title": "GRANTHA LETTER VOCALIC R"
+            }, 
+            {
+                "charcode": "0x1130c", 
+                "description": "", 
+                "title": "GRANTHA LETTER VOCALIC L"
+            }, 
+            {
+                "charcode": "0x1130f", 
+                "description": "", 
+                "title": "GRANTHA LETTER EE"
+            }, 
+            {
+                "charcode": "0x11310", 
+                "description": "", 
+                "title": "GRANTHA LETTER AI"
+            }, 
+            {
+                "charcode": "0x11313", 
+                "description": "", 
+                "title": "GRANTHA LETTER OO"
+            }, 
+            {
+                "charcode": "0x11314", 
+                "description": "", 
+                "title": "GRANTHA LETTER AU"
+            }, 
+            {
+                "charcode": "0x11315", 
+                "description": "", 
+                "title": "GRANTHA LETTER KA"
+            }, 
+            {
+                "charcode": "0x11316", 
+                "description": "", 
+                "title": "GRANTHA LETTER KHA"
+            }, 
+            {
+                "charcode": "0x11317", 
+                "description": "", 
+                "title": "GRANTHA LETTER GA"
+            }, 
+            {
+                "charcode": "0x11318", 
+                "description": "", 
+                "title": "GRANTHA LETTER GHA"
+            }, 
+            {
+                "charcode": "0x11319", 
+                "description": "", 
+                "title": "GRANTHA LETTER NGA"
+            }, 
+            {
+                "charcode": "0x1131a", 
+                "description": "", 
+                "title": "GRANTHA LETTER CA"
+            }, 
+            {
+                "charcode": "0x1131b", 
+                "description": "", 
+                "title": "GRANTHA LETTER CHA"
+            }, 
+            {
+                "charcode": "0x1131c", 
+                "description": "", 
+                "title": "GRANTHA LETTER JA"
+            }, 
+            {
+                "charcode": "0x1131d", 
+                "description": "", 
+                "title": "GRANTHA LETTER JHA"
+            }, 
+            {
+                "charcode": "0x1131e", 
+                "description": "", 
+                "title": "GRANTHA LETTER NYA"
+            }, 
+            {
+                "charcode": "0x1131f", 
+                "description": "", 
+                "title": "GRANTHA LETTER TTA"
+            }, 
+            {
+                "charcode": "0x11320", 
+                "description": "", 
+                "title": "GRANTHA LETTER TTHA"
+            }, 
+            {
+                "charcode": "0x11321", 
+                "description": "", 
+                "title": "GRANTHA LETTER DDA"
+            }, 
+            {
+                "charcode": "0x11322", 
+                "description": "", 
+                "title": "GRANTHA LETTER DDHA"
+            }, 
+            {
+                "charcode": "0x11323", 
+                "description": "", 
+                "title": "GRANTHA LETTER NNA"
+            }, 
+            {
+                "charcode": "0x11324", 
+                "description": "", 
+                "title": "GRANTHA LETTER TA"
+            }, 
+            {
+                "charcode": "0x11325", 
+                "description": "", 
+                "title": "GRANTHA LETTER THA"
+            }, 
+            {
+                "charcode": "0x11326", 
+                "description": "", 
+                "title": "GRANTHA LETTER DA"
+            }, 
+            {
+                "charcode": "0x11327", 
+                "description": "", 
+                "title": "GRANTHA LETTER DHA"
+            }, 
+            {
+                "charcode": "0x11328", 
+                "description": "", 
+                "title": "GRANTHA LETTER NA"
+            }, 
+            {
+                "charcode": "0x1132a", 
+                "description": "", 
+                "title": "GRANTHA LETTER PA"
+            }, 
+            {
+                "charcode": "0x1132b", 
+                "description": "", 
+                "title": "GRANTHA LETTER PHA"
+            }, 
+            {
+                "charcode": "0x1132c", 
+                "description": "", 
+                "title": "GRANTHA LETTER BA"
+            }, 
+            {
+                "charcode": "0x1132d", 
+                "description": "", 
+                "title": "GRANTHA LETTER BHA"
+            }, 
+            {
+                "charcode": "0x1132e", 
+                "description": "", 
+                "title": "GRANTHA LETTER MA"
+            }, 
+            {
+                "charcode": "0x1132f", 
+                "description": "", 
+                "title": "GRANTHA LETTER YA"
+            }, 
+            {
+                "charcode": "0x11330", 
+                "description": "", 
+                "title": "GRANTHA LETTER RA"
+            }, 
+            {
+                "charcode": "0x11332", 
+                "description": "", 
+                "title": "GRANTHA LETTER LA"
+            }, 
+            {
+                "charcode": "0x11333", 
+                "description": "", 
+                "title": "GRANTHA LETTER LLA"
+            }, 
+            {
+                "charcode": "0x11335", 
+                "description": "", 
+                "title": "GRANTHA LETTER VA"
+            }, 
+            {
+                "charcode": "0x11336", 
+                "description": "", 
+                "title": "GRANTHA LETTER SHA"
+            }, 
+            {
+                "charcode": "0x11337", 
+                "description": "", 
+                "title": "GRANTHA LETTER SSA"
+            }, 
+            {
+                "charcode": "0x11338", 
+                "description": "", 
+                "title": "GRANTHA LETTER SA"
+            }, 
+            {
+                "charcode": "0x11339", 
+                "description": "", 
+                "title": "GRANTHA LETTER HA"
+            }, 
+            {
+                "charcode": "0x1133c", 
+                "description": "", 
+                "title": "GRANTHA SIGN NUKTA"
+            }, 
+            {
+                "charcode": "0x1133d", 
+                "description": "", 
+                "title": "GRANTHA SIGN AVAGRAHA"
+            }, 
+            {
+                "charcode": "0x1133e", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0x1133f", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0x11340", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0x11341", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0x11342", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0x11343", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "charcode": "0x11344", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x11347", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN EE"
+            }, 
+            {
+                "charcode": "0x11348", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0x1134b", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN OO"
+            }, 
+            {
+                "charcode": "0x1134c", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN AU"
+            }, 
+            {
+                "charcode": "0x1134d", 
+                "description": "", 
+                "title": "GRANTHA SIGN VIRAMA"
+            }, 
+            {
+                "charcode": "0x11357", 
+                "description": "", 
+                "title": "GRANTHA AU LENGTH MARK"
+            }, 
+            {
+                "charcode": "0x1135d", 
+                "description": "", 
+                "title": "GRANTHA SIGN PLUTA"
+            }, 
+            {
+                "charcode": "0x1135e", 
+                "description": "", 
+                "title": "GRANTHA LETTER VEDIC ANUSVARA"
+            }, 
+            {
+                "charcode": "0x1135f", 
+                "description": "", 
+                "title": "GRANTHA LETTER VEDIC DOUBLE ANUSVARA"
+            }, 
+            {
+                "charcode": "0x11360", 
+                "description": "", 
+                "title": "GRANTHA LETTER VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x11361", 
+                "description": "", 
+                "title": "GRANTHA LETTER VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x11362", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN VOCALIC L"
+            }, 
+            {
+                "charcode": "0x11363", 
+                "description": "", 
+                "title": "GRANTHA VOWEL SIGN VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x11366", 
+                "description": "", 
+                "title": "COMBINING GRANTHA DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x11367", 
+                "description": "", 
+                "title": "COMBINING GRANTHA DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x11368", 
+                "description": "", 
+                "title": "COMBINING GRANTHA DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x11369", 
+                "description": "", 
+                "title": "COMBINING GRANTHA DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x1136a", 
+                "description": "", 
+                "title": "COMBINING GRANTHA DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x1136b", 
+                "description": "", 
+                "title": "COMBINING GRANTHA DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x1136c", 
+                "description": "", 
+                "title": "COMBINING GRANTHA DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x11370", 
+                "description": "", 
+                "title": "COMBINING GRANTHA LETTER A"
+            }, 
+            {
+                "charcode": "0x11371", 
+                "description": "", 
+                "title": "COMBINING GRANTHA LETTER KA"
+            }, 
+            {
+                "charcode": "0x11372", 
+                "description": "", 
+                "title": "COMBINING GRANTHA LETTER NA"
+            }, 
+            {
+                "charcode": "0x11373", 
+                "description": "", 
+                "title": "COMBINING GRANTHA LETTER VI"
+            }, 
+            {
+                "charcode": "0x11374", 
+                "description": "", 
+                "title": "COMBINING GRANTHA LETTER PA"
+            }
+        ], 
+        "name": "Grantha"
+    }
+]

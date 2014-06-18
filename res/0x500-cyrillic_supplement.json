@@ -360,6 +360,41 @@
                 "charcode": "0x527", 
                 "description": "", 
                 "title": "CYRILLIC SMALL LETTER SHHA WITH DESCENDER"
+            }, 
+            {
+                "charcode": "0x528", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER EN WITH LEFT HOOK"
+            }, 
+            {
+                "charcode": "0x529", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER EN WITH LEFT HOOK"
+            }, 
+            {
+                "charcode": "0x52a", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER DZZHE"
+            }, 
+            {
+                "charcode": "0x52b", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER DZZHE"
+            }, 
+            {
+                "charcode": "0x52c", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER DCHE"
+            }, 
+            {
+                "charcode": "0x52d", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER DCHE"
+            }, 
+            {
+                "charcode": "0x52e", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER EL WITH DESCENDER"
             }
         ], 
         "name": "Cyrillic Supplement"

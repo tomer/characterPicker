@@ -47,6 +47,11 @@
                 "title": "ARABIC SIGN SAMVAT"
             }, 
             {
+                "charcode": "0x605", 
+                "description": "", 
+                "title": "ARABIC NUMBER MARK ABOVE"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Math", 
                 "cat3": "Operator", 

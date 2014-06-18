@@ -1,0 +1,402 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x11600", 
+                "description": "", 
+                "title": "MODI LETTER A"
+            }, 
+            {
+                "charcode": "0x11601", 
+                "description": "", 
+                "title": "MODI LETTER AA"
+            }, 
+            {
+                "charcode": "0x11602", 
+                "description": "", 
+                "title": "MODI LETTER I"
+            }, 
+            {
+                "charcode": "0x11603", 
+                "description": "", 
+                "title": "MODI LETTER II"
+            }, 
+            {
+                "charcode": "0x11604", 
+                "description": "", 
+                "title": "MODI LETTER U"
+            }, 
+            {
+                "charcode": "0x11605", 
+                "description": "", 
+                "title": "MODI LETTER UU"
+            }, 
+            {
+                "charcode": "0x11606", 
+                "description": "", 
+                "title": "MODI LETTER VOCALIC R"
+            }, 
+            {
+                "charcode": "0x11607", 
+                "description": "", 
+                "title": "MODI LETTER VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x11608", 
+                "description": "", 
+                "title": "MODI LETTER VOCALIC L"
+            }, 
+            {
+                "charcode": "0x11609", 
+                "description": "", 
+                "title": "MODI LETTER VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x1160a", 
+                "description": "", 
+                "title": "MODI LETTER E"
+            }, 
+            {
+                "charcode": "0x1160b", 
+                "description": "", 
+                "title": "MODI LETTER AI"
+            }, 
+            {
+                "charcode": "0x1160c", 
+                "description": "", 
+                "title": "MODI LETTER O"
+            }, 
+            {
+                "charcode": "0x1160d", 
+                "description": "", 
+                "title": "MODI LETTER AU"
+            }, 
+            {
+                "charcode": "0x1160e", 
+                "description": "", 
+                "title": "MODI LETTER KA"
+            }, 
+            {
+                "charcode": "0x1160f", 
+                "description": "", 
+                "title": "MODI LETTER KHA"
+            }, 
+            {
+                "charcode": "0x11610", 
+                "description": "", 
+                "title": "MODI LETTER GA"
+            }, 
+            {
+                "charcode": "0x11611", 
+                "description": "", 
+                "title": "MODI LETTER GHA"
+            }, 
+            {
+                "charcode": "0x11612", 
+                "description": "", 
+                "title": "MODI LETTER NGA"
+            }, 
+            {
+                "charcode": "0x11613", 
+                "description": "", 
+                "title": "MODI LETTER CA"
+            }, 
+            {
+                "charcode": "0x11614", 
+                "description": "", 
+                "title": "MODI LETTER CHA"
+            }, 
+            {
+                "charcode": "0x11615", 
+                "description": "", 
+                "title": "MODI LETTER JA"
+            }, 
+            {
+                "charcode": "0x11616", 
+                "description": "", 
+                "title": "MODI LETTER JHA"
+            }, 
+            {
+                "charcode": "0x11617", 
+                "description": "", 
+                "title": "MODI LETTER NYA"
+            }, 
+            {
+                "charcode": "0x11618", 
+                "description": "", 
+                "title": "MODI LETTER TTA"
+            }, 
+            {
+                "charcode": "0x11619", 
+                "description": "", 
+                "title": "MODI LETTER TTHA"
+            }, 
+            {
+                "charcode": "0x1161a", 
+                "description": "", 
+                "title": "MODI LETTER DDA"
+            }, 
+            {
+                "charcode": "0x1161b", 
+                "description": "", 
+                "title": "MODI LETTER DDHA"
+            }, 
+            {
+                "charcode": "0x1161c", 
+                "description": "", 
+                "title": "MODI LETTER NNA"
+            }, 
+            {
+                "charcode": "0x1161d", 
+                "description": "", 
+                "title": "MODI LETTER TA"
+            }, 
+            {
+                "charcode": "0x1161e", 
+                "description": "", 
+                "title": "MODI LETTER THA"
+            }, 
+            {
+                "charcode": "0x1161f", 
+                "description": "", 
+                "title": "MODI LETTER DA"
+            }, 
+            {
+                "charcode": "0x11620", 
+                "description": "", 
+                "title": "MODI LETTER DHA"
+            }, 
+            {
+                "charcode": "0x11621", 
+                "description": "", 
+                "title": "MODI LETTER NA"
+            }, 
+            {
+                "charcode": "0x11622", 
+                "description": "", 
+                "title": "MODI LETTER PA"
+            }, 
+            {
+                "charcode": "0x11623", 
+                "description": "", 
+                "title": "MODI LETTER PHA"
+            }, 
+            {
+                "charcode": "0x11624", 
+                "description": "", 
+                "title": "MODI LETTER BA"
+            }, 
+            {
+                "charcode": "0x11625", 
+                "description": "", 
+                "title": "MODI LETTER BHA"
+            }, 
+            {
+                "charcode": "0x11626", 
+                "description": "", 
+                "title": "MODI LETTER MA"
+            }, 
+            {
+                "charcode": "0x11627", 
+                "description": "", 
+                "title": "MODI LETTER YA"
+            }, 
+            {
+                "charcode": "0x11628", 
+                "description": "", 
+                "title": "MODI LETTER RA"
+            }, 
+            {
+                "charcode": "0x11629", 
+                "description": "", 
+                "title": "MODI LETTER LA"
+            }, 
+            {
+                "charcode": "0x1162a", 
+                "description": "", 
+                "title": "MODI LETTER VA"
+            }, 
+            {
+                "charcode": "0x1162b", 
+                "description": "", 
+                "title": "MODI LETTER SHA"
+            }, 
+            {
+                "charcode": "0x1162c", 
+                "description": "", 
+                "title": "MODI LETTER SSA"
+            }, 
+            {
+                "charcode": "0x1162d", 
+                "description": "", 
+                "title": "MODI LETTER SA"
+            }, 
+            {
+                "charcode": "0x1162e", 
+                "description": "", 
+                "title": "MODI LETTER HA"
+            }, 
+            {
+                "charcode": "0x1162f", 
+                "description": "", 
+                "title": "MODI LETTER LLA"
+            }, 
+            {
+                "charcode": "0x11630", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0x11631", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0x11632", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0x11633", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0x11634", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0x11635", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "charcode": "0x11636", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x11637", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN VOCALIC L"
+            }, 
+            {
+                "charcode": "0x11638", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x11639", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN E"
+            }, 
+            {
+                "charcode": "0x1163a", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0x1163b", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN O"
+            }, 
+            {
+                "charcode": "0x1163c", 
+                "description": "", 
+                "title": "MODI VOWEL SIGN AU"
+            }, 
+            {
+                "charcode": "0x1163d", 
+                "description": "", 
+                "title": "MODI SIGN ANUSVARA"
+            }, 
+            {
+                "charcode": "0x1163e", 
+                "description": "", 
+                "title": "MODI SIGN VISARGA"
+            }, 
+            {
+                "charcode": "0x1163f", 
+                "description": "", 
+                "title": "MODI SIGN VIRAMA"
+            }, 
+            {
+                "charcode": "0x11640", 
+                "description": "", 
+                "title": "MODI SIGN ARDHACANDRA"
+            }, 
+            {
+                "charcode": "0x11641", 
+                "description": "", 
+                "title": "MODI DANDA"
+            }, 
+            {
+                "charcode": "0x11642", 
+                "description": "", 
+                "title": "MODI DOUBLE DANDA"
+            }, 
+            {
+                "charcode": "0x11643", 
+                "description": "", 
+                "title": "MODI ABBREVIATION SIGN"
+            }, 
+            {
+                "charcode": "0x11644", 
+                "description": "", 
+                "title": "MODI SIGN HUVA"
+            }, 
+            {
+                "charcode": "0x11650", 
+                "description": "", 
+                "title": "MODI DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x11651", 
+                "description": "", 
+                "title": "MODI DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x11652", 
+                "description": "", 
+                "title": "MODI DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x11653", 
+                "description": "", 
+                "title": "MODI DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x11654", 
+                "description": "", 
+                "title": "MODI DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x11655", 
+                "description": "", 
+                "title": "MODI DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x11656", 
+                "description": "", 
+                "title": "MODI DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x11657", 
+                "description": "", 
+                "title": "MODI DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x11658", 
+                "description": "", 
+                "title": "MODI DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x11659", 
+                "description": "", 
+                "title": "MODI DIGIT NINE"
+            }
+        ], 
+        "name": "Modi"
+    }
+]

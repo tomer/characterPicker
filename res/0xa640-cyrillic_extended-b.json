@@ -792,6 +792,36 @@
                 "charcode": "0xa697", 
                 "description": "", 
                 "title": "CYRILLIC SMALL LETTER SHWE"
+            }, 
+            {
+                "charcode": "0xa698", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER DOUBLE O"
+            }, 
+            {
+                "charcode": "0xa699", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER DOUBLE O"
+            }, 
+            {
+                "charcode": "0xa69a", 
+                "description": "", 
+                "title": "CYRILLIC CAPITAL LETTER CROSSED O"
+            }, 
+            {
+                "charcode": "0xa69b", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER CROSSED O"
+            }, 
+            {
+                "charcode": "0xa69c", 
+                "description": "", 
+                "title": "MODIFIER LETTER CYRILLIC HARD SIGN"
+            }, 
+            {
+                "charcode": "0xa69d", 
+                "description": "", 
+                "title": "MODIFIER LETTER CYRILLIC SOFT SIGN"
             }
         ], 
         "name": "Cyrillic Extended-B"

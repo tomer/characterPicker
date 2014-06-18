@@ -11,6 +11,11 @@
                 "title": "ARABIC LETTER BEH WITH SMALL V BELOW"
             }, 
             {
+                "charcode": "0x8a1", 
+                "description": "", 
+                "title": "ARABIC LETTER BEH WITH HAMZA ABOVE"
+            }, 
+            {
                 "cat1": "Letter", 
                 "cat2": "", 
                 "cat3": "", 
@@ -108,6 +113,36 @@
                 "charcode": "0x8ac", 
                 "description": "", 
                 "title": "ARABIC LETTER ROHINGYA YEH"
+            }, 
+            {
+                "charcode": "0x8ad", 
+                "description": "", 
+                "title": "ARABIC LETTER LOW ALEF"
+            }, 
+            {
+                "charcode": "0x8ae", 
+                "description": "", 
+                "title": "ARABIC LETTER DAL WITH THREE DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x8af", 
+                "description": "", 
+                "title": "ARABIC LETTER SAD WITH THREE DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x8b0", 
+                "description": "", 
+                "title": "ARABIC LETTER GAF WITH INVERTED STROKE"
+            }, 
+            {
+                "charcode": "0x8b1", 
+                "description": "", 
+                "title": "ARABIC LETTER STRAIGHT WAW"
+            }, 
+            {
+                "charcode": "0x8b2", 
+                "description": "", 
+                "title": "ARABIC LETTER ZAIN WITH INVERTED V ABOVE"
             }, 
             {
                 "cat1": "Mark", 

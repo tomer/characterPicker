@@ -353,6 +353,81 @@
                 "title": "COMBINING LATIN SMALL LETTER Z"
             }, 
             {
+                "charcode": "0x1de7", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER ALPHA"
+            }, 
+            {
+                "charcode": "0x1de8", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER B"
+            }, 
+            {
+                "charcode": "0x1de9", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER BETA"
+            }, 
+            {
+                "charcode": "0x1dea", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER SCHWA"
+            }, 
+            {
+                "charcode": "0x1deb", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER F"
+            }, 
+            {
+                "charcode": "0x1dec", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER L WITH DOUBLE MIDDLE TILDE"
+            }, 
+            {
+                "charcode": "0x1ded", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER O WITH LIGHT CENTRALIZATION STROKE"
+            }, 
+            {
+                "charcode": "0x1dee", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER P"
+            }, 
+            {
+                "charcode": "0x1def", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER ESH"
+            }, 
+            {
+                "charcode": "0x1df0", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER U WITH LIGHT CENTRALIZATION STROKE"
+            }, 
+            {
+                "charcode": "0x1df1", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER W"
+            }, 
+            {
+                "charcode": "0x1df2", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER A WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0x1df3", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER O WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0x1df4", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER U WITH DIAERESIS"
+            }, 
+            {
+                "charcode": "0x1df5", 
+                "description": "", 
+                "title": "COMBINING UP TACK ABOVE"
+            }, 
+            {
                 "cat1": "Diacritic", 
                 "cat2": "Double", 
                 "cat3": "", 

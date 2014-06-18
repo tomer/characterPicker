@@ -540,6 +540,41 @@
                 "charcode": "0x2e3b", 
                 "description": "", 
                 "title": "THREE-EM DASH"
+            }, 
+            {
+                "charcode": "0x2e3c", 
+                "description": "", 
+                "title": "STENOGRAPHIC FULL STOP"
+            }, 
+            {
+                "charcode": "0x2e3d", 
+                "description": "", 
+                "title": "VERTICAL SIX DOTS"
+            }, 
+            {
+                "charcode": "0x2e3e", 
+                "description": "", 
+                "title": "WIGGLY VERTICAL LINE"
+            }, 
+            {
+                "charcode": "0x2e3f", 
+                "description": "", 
+                "title": "CAPITULUM"
+            }, 
+            {
+                "charcode": "0x2e40", 
+                "description": "", 
+                "title": "DOUBLE HYPHEN"
+            }, 
+            {
+                "charcode": "0x2e41", 
+                "description": "", 
+                "title": "REVERSED COMMA"
+            }, 
+            {
+                "charcode": "0x2e42", 
+                "description": "", 
+                "title": "DOUBLE LOW-REVERSED-9 QUOTATION MARK"
             }
         ], 
         "name": "Supplemental Punctuation"

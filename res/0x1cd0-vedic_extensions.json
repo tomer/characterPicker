@@ -351,6 +351,16 @@
                 "charcode": "0x1cf6", 
                 "description": "", 
                 "title": "VEDIC SIGN UPADHMANIYA"
+            }, 
+            {
+                "charcode": "0x1cf8", 
+                "description": "", 
+                "title": "VEDIC TONE RING ABOVE"
+            }, 
+            {
+                "charcode": "0x1cf9", 
+                "description": "", 
+                "title": "VEDIC TONE DOUBLE RING ABOVE"
             }
         ], 
         "name": "Vedic Extensions"

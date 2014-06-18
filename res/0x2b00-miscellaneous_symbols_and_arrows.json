@@ -695,6 +695,21 @@
                 "title": "RIGHTWARDS ARROW ABOVE REVERSE TILDE OPERATOR"
             }, 
             {
+                "charcode": "0x2b4d", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ZIGZAG ARROW"
+            }, 
+            {
+                "charcode": "0x2b4e", 
+                "description": "", 
+                "title": "SHORT SLANTED NORTH ARROW"
+            }, 
+            {
+                "charcode": "0x2b4f", 
+                "description": "", 
+                "title": "SHORT BACKSLANTED SOUTH ARROW"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "", 
                 "cat3": "", 
@@ -783,6 +798,566 @@
                 "charcode": "0x2b59", 
                 "description": "", 
                 "title": "HEAVY CIRCLED SALTIRE"
+            }, 
+            {
+                "charcode": "0x2b5a", 
+                "description": "", 
+                "title": "SLANTED NORTH ARROW WITH HOOKED HEAD"
+            }, 
+            {
+                "charcode": "0x2b5b", 
+                "description": "", 
+                "title": "BACKSLANTED SOUTH ARROW WITH HOOKED TAIL"
+            }, 
+            {
+                "charcode": "0x2b5c", 
+                "description": "", 
+                "title": "SLANTED NORTH ARROW WITH HORIZONTAL TAIL"
+            }, 
+            {
+                "charcode": "0x2b5d", 
+                "description": "", 
+                "title": "BACKSLANTED SOUTH ARROW WITH HORIZONTAL TAIL"
+            }, 
+            {
+                "charcode": "0x2b5e", 
+                "description": "", 
+                "title": "BENT ARROW POINTING DOWNWARDS THEN NORTH EAST"
+            }, 
+            {
+                "charcode": "0x2b5f", 
+                "description": "", 
+                "title": "SHORT BENT ARROW POINTING DOWNWARDS THEN NORTH EAST"
+            }, 
+            {
+                "charcode": "0x2b60", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b61", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b62", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b63", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b64", 
+                "description": "", 
+                "title": "LEFT RIGHT TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b65", 
+                "description": "", 
+                "title": "UP DOWN TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b66", 
+                "description": "", 
+                "title": "NORTH WEST TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b67", 
+                "description": "", 
+                "title": "NORTH EAST TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b68", 
+                "description": "", 
+                "title": "SOUTH EAST TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b69", 
+                "description": "", 
+                "title": "SOUTH WEST TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b6a", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED DASHED ARROW"
+            }, 
+            {
+                "charcode": "0x2b6b", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED DASHED ARROW"
+            }, 
+            {
+                "charcode": "0x2b6c", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED DASHED ARROW"
+            }, 
+            {
+                "charcode": "0x2b6d", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED DASHED ARROW"
+            }, 
+            {
+                "charcode": "0x2b6e", 
+                "description": "", 
+                "title": "CLOCKWISE TRIANGLE-HEADED OPEN CIRCLE ARROW"
+            }, 
+            {
+                "charcode": "0x2b6f", 
+                "description": "", 
+                "title": "ANTICLOCKWISE TRIANGLE-HEADED OPEN CIRCLE ARROW"
+            }, 
+            {
+                "charcode": "0x2b70", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED ARROW TO BAR"
+            }, 
+            {
+                "charcode": "0x2b71", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED ARROW TO BAR"
+            }, 
+            {
+                "charcode": "0x2b72", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED ARROW TO BAR"
+            }, 
+            {
+                "charcode": "0x2b73", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ARROW TO BAR"
+            }, 
+            {
+                "charcode": "0x2b76", 
+                "description": "", 
+                "title": "NORTH WEST TRIANGLE-HEADED ARROW TO BAR"
+            }, 
+            {
+                "charcode": "0x2b77", 
+                "description": "", 
+                "title": "NORTH EAST TRIANGLE-HEADED ARROW TO BAR"
+            }, 
+            {
+                "charcode": "0x2b78", 
+                "description": "", 
+                "title": "SOUTH EAST TRIANGLE-HEADED ARROW TO BAR"
+            }, 
+            {
+                "charcode": "0x2b79", 
+                "description": "", 
+                "title": "SOUTH WEST TRIANGLE-HEADED ARROW TO BAR"
+            }, 
+            {
+                "charcode": "0x2b7a", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x2b7b", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x2b7c", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x2b7d", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ARROW WITH DOUBLE HORIZONTAL STROKE"
+            }, 
+            {
+                "charcode": "0x2b7e", 
+                "description": "", 
+                "title": "HORIZONTAL TAB KEY"
+            }, 
+            {
+                "charcode": "0x2b7f", 
+                "description": "", 
+                "title": "VERTICAL TAB KEY"
+            }, 
+            {
+                "charcode": "0x2b80", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED ARROW OVER RIGHTWARDS TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b81", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED ARROW LEFTWARDS OF DOWNWARDS TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b82", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED ARROW OVER LEFTWARDS TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b83", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ARROW LEFTWARDS OF UPWARDS TRIANGLE-HEADED ARROW"
+            }, 
+            {
+                "charcode": "0x2b84", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED PAIRED ARROWS"
+            }, 
+            {
+                "charcode": "0x2b85", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED PAIRED ARROWS"
+            }, 
+            {
+                "charcode": "0x2b86", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED PAIRED ARROWS"
+            }, 
+            {
+                "charcode": "0x2b87", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED PAIRED ARROWS"
+            }, 
+            {
+                "charcode": "0x2b88", 
+                "description": "", 
+                "title": "LEFTWARDS BLACK CIRCLED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x2b89", 
+                "description": "", 
+                "title": "UPWARDS BLACK CIRCLED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x2b8a", 
+                "description": "", 
+                "title": "RIGHTWARDS BLACK CIRCLED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x2b8b", 
+                "description": "", 
+                "title": "DOWNWARDS BLACK CIRCLED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x2b8c", 
+                "description": "", 
+                "title": "ANTICLOCKWISE TRIANGLE-HEADED RIGHT U-SHAPED ARROW"
+            }, 
+            {
+                "charcode": "0x2b8d", 
+                "description": "", 
+                "title": "ANTICLOCKWISE TRIANGLE-HEADED BOTTOM U-SHAPED ARROW"
+            }, 
+            {
+                "charcode": "0x2b8e", 
+                "description": "", 
+                "title": "ANTICLOCKWISE TRIANGLE-HEADED LEFT U-SHAPED ARROW"
+            }, 
+            {
+                "charcode": "0x2b8f", 
+                "description": "", 
+                "title": "ANTICLOCKWISE TRIANGLE-HEADED TOP U-SHAPED ARROW"
+            }, 
+            {
+                "charcode": "0x2b90", 
+                "description": "", 
+                "title": "RETURN LEFT"
+            }, 
+            {
+                "charcode": "0x2b91", 
+                "description": "", 
+                "title": "RETURN RIGHT"
+            }, 
+            {
+                "charcode": "0x2b92", 
+                "description": "", 
+                "title": "NEWLINE LEFT"
+            }, 
+            {
+                "charcode": "0x2b93", 
+                "description": "", 
+                "title": "NEWLINE RIGHT"
+            }, 
+            {
+                "charcode": "0x2b94", 
+                "description": "", 
+                "title": "FOUR CORNER ARROWS CIRCLING ANTICLOCKWISE"
+            }, 
+            {
+                "charcode": "0x2b95", 
+                "description": "", 
+                "title": "RIGHTWARDS BLACK ARROW"
+            }, 
+            {
+                "charcode": "0x2b98", 
+                "description": "", 
+                "title": "THREE-D TOP-LIGHTED LEFTWARDS EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x2b99", 
+                "description": "", 
+                "title": "THREE-D RIGHT-LIGHTED UPWARDS EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x2b9a", 
+                "description": "", 
+                "title": "THREE-D TOP-LIGHTED RIGHTWARDS EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x2b9b", 
+                "description": "", 
+                "title": "THREE-D LEFT-LIGHTED DOWNWARDS EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x2b9c", 
+                "description": "", 
+                "title": "BLACK LEFTWARDS EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x2b9d", 
+                "description": "", 
+                "title": "BLACK UPWARDS EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x2b9e", 
+                "description": "", 
+                "title": "BLACK RIGHTWARDS EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x2b9f", 
+                "description": "", 
+                "title": "BLACK DOWNWARDS EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x2ba0", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ARROW WITH LONG TIP LEFTWARDS"
+            }, 
+            {
+                "charcode": "0x2ba1", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ARROW WITH LONG TIP RIGHTWARDS"
+            }, 
+            {
+                "charcode": "0x2ba2", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED ARROW WITH LONG TIP LEFTWARDS"
+            }, 
+            {
+                "charcode": "0x2ba3", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED ARROW WITH LONG TIP RIGHTWARDS"
+            }, 
+            {
+                "charcode": "0x2ba4", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP UPWARDS"
+            }, 
+            {
+                "charcode": "0x2ba5", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP UPWARDS"
+            }, 
+            {
+                "charcode": "0x2ba6", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP DOWNWARDS"
+            }, 
+            {
+                "charcode": "0x2ba7", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH LONG TIP DOWNWARDS"
+            }, 
+            {
+                "charcode": "0x2ba8", 
+                "description": "", 
+                "title": "BLACK CURVED DOWNWARDS AND LEFTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2ba9", 
+                "description": "", 
+                "title": "BLACK CURVED DOWNWARDS AND RIGHTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2baa", 
+                "description": "", 
+                "title": "BLACK CURVED UPWARDS AND LEFTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2bab", 
+                "description": "", 
+                "title": "BLACK CURVED UPWARDS AND RIGHTWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2bac", 
+                "description": "", 
+                "title": "BLACK CURVED LEFTWARDS AND UPWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2bad", 
+                "description": "", 
+                "title": "BLACK CURVED RIGHTWARDS AND UPWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2bae", 
+                "description": "", 
+                "title": "BLACK CURVED LEFTWARDS AND DOWNWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2baf", 
+                "description": "", 
+                "title": "BLACK CURVED RIGHTWARDS AND DOWNWARDS ARROW"
+            }, 
+            {
+                "charcode": "0x2bb0", 
+                "description": "", 
+                "title": "RIBBON ARROW DOWN LEFT"
+            }, 
+            {
+                "charcode": "0x2bb1", 
+                "description": "", 
+                "title": "RIBBON ARROW DOWN RIGHT"
+            }, 
+            {
+                "charcode": "0x2bb2", 
+                "description": "", 
+                "title": "RIBBON ARROW UP LEFT"
+            }, 
+            {
+                "charcode": "0x2bb3", 
+                "description": "", 
+                "title": "RIBBON ARROW UP RIGHT"
+            }, 
+            {
+                "charcode": "0x2bb4", 
+                "description": "", 
+                "title": "RIBBON ARROW LEFT UP"
+            }, 
+            {
+                "charcode": "0x2bb5", 
+                "description": "", 
+                "title": "RIBBON ARROW RIGHT UP"
+            }, 
+            {
+                "charcode": "0x2bb6", 
+                "description": "", 
+                "title": "RIBBON ARROW LEFT DOWN"
+            }, 
+            {
+                "charcode": "0x2bb7", 
+                "description": "", 
+                "title": "RIBBON ARROW RIGHT DOWN"
+            }, 
+            {
+                "charcode": "0x2bb8", 
+                "description": "", 
+                "title": "UPWARDS WHITE ARROW FROM BAR WITH HORIZONTAL BAR"
+            }, 
+            {
+                "charcode": "0x2bb9", 
+                "description": "", 
+                "title": "UP ARROWHEAD IN A RECTANGLE BOX"
+            }, 
+            {
+                "charcode": "0x2bbd", 
+                "description": "", 
+                "title": "BALLOT BOX WITH LIGHT X"
+            }, 
+            {
+                "charcode": "0x2bbe", 
+                "description": "", 
+                "title": "CIRCLED X"
+            }, 
+            {
+                "charcode": "0x2bbf", 
+                "description": "", 
+                "title": "CIRCLED BOLD X"
+            }, 
+            {
+                "charcode": "0x2bc0", 
+                "description": "", 
+                "title": "BLACK SQUARE CENTRED"
+            }, 
+            {
+                "charcode": "0x2bc1", 
+                "description": "", 
+                "title": "BLACK DIAMOND CENTRED"
+            }, 
+            {
+                "charcode": "0x2bc2", 
+                "description": "", 
+                "title": "TURNED BLACK PENTAGON"
+            }, 
+            {
+                "charcode": "0x2bc3", 
+                "description": "", 
+                "title": "HORIZONTAL BLACK OCTAGON"
+            }, 
+            {
+                "charcode": "0x2bc4", 
+                "description": "", 
+                "title": "BLACK OCTAGON"
+            }, 
+            {
+                "charcode": "0x2bc5", 
+                "description": "", 
+                "title": "BLACK MEDIUM UP-POINTING TRIANGLE CENTRED"
+            }, 
+            {
+                "charcode": "0x2bc6", 
+                "description": "", 
+                "title": "BLACK MEDIUM DOWN-POINTING TRIANGLE CENTRED"
+            }, 
+            {
+                "charcode": "0x2bc7", 
+                "description": "", 
+                "title": "BLACK MEDIUM LEFT-POINTING TRIANGLE CENTRED"
+            }, 
+            {
+                "charcode": "0x2bc8", 
+                "description": "", 
+                "title": "BLACK MEDIUM RIGHT-POINTING TRIANGLE CENTRED"
+            }, 
+            {
+                "charcode": "0x2bca", 
+                "description": "", 
+                "title": "TOP HALF BLACK CIRCLE"
+            }, 
+            {
+                "charcode": "0x2bcb", 
+                "description": "", 
+                "title": "BOTTOM HALF BLACK CIRCLE"
+            }, 
+            {
+                "charcode": "0x2bcc", 
+                "description": "", 
+                "title": "LIGHT FOUR POINTED BLACK CUSP"
+            }, 
+            {
+                "charcode": "0x2bcd", 
+                "description": "", 
+                "title": "ROTATED LIGHT FOUR POINTED BLACK CUSP"
+            }, 
+            {
+                "charcode": "0x2bce", 
+                "description": "", 
+                "title": "WHITE FOUR POINTED CUSP"
+            }, 
+            {
+                "charcode": "0x2bcf", 
+                "description": "", 
+                "title": "ROTATED WHITE FOUR POINTED CUSP"
+            }, 
+            {
+                "charcode": "0x2bd0", 
+                "description": "", 
+                "title": "SQUARE POSITION INDICATOR"
+            }, 
+            {
+                "charcode": "0x2bd1", 
+                "description": "", 
+                "title": "UNCERTAINTY SIGN"
             }
         ], 
         "name": "Miscellaneous Symbols and Arrows"

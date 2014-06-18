@@ -1,0 +1,432 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1f780", 
+                "description": "", 
+                "title": "BLACK LEFT-POINTING ISOSCELES RIGHT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x1f781", 
+                "description": "", 
+                "title": "BLACK UP-POINTING ISOSCELES RIGHT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x1f782", 
+                "description": "", 
+                "title": "BLACK RIGHT-POINTING ISOSCELES RIGHT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x1f783", 
+                "description": "", 
+                "title": "BLACK DOWN-POINTING ISOSCELES RIGHT TRIANGLE"
+            }, 
+            {
+                "charcode": "0x1f784", 
+                "description": "", 
+                "title": "BLACK SLIGHTLY SMALL CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f785", 
+                "description": "", 
+                "title": "MEDIUM BOLD WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f786", 
+                "description": "", 
+                "title": "BOLD WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f787", 
+                "description": "", 
+                "title": "HEAVY WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f788", 
+                "description": "", 
+                "title": "VERY HEAVY WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f789", 
+                "description": "", 
+                "title": "EXTREMELY HEAVY WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f78a", 
+                "description": "", 
+                "title": "WHITE CIRCLE CONTAINING BLACK SMALL CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f78b", 
+                "description": "", 
+                "title": "ROUND TARGET"
+            }, 
+            {
+                "charcode": "0x1f78c", 
+                "description": "", 
+                "title": "BLACK TINY SQUARE"
+            }, 
+            {
+                "charcode": "0x1f78d", 
+                "description": "", 
+                "title": "BLACK SLIGHTLY SMALL SQUARE"
+            }, 
+            {
+                "charcode": "0x1f78e", 
+                "description": "", 
+                "title": "LIGHT WHITE SQUARE"
+            }, 
+            {
+                "charcode": "0x1f78f", 
+                "description": "", 
+                "title": "MEDIUM WHITE SQUARE"
+            }, 
+            {
+                "charcode": "0x1f790", 
+                "description": "", 
+                "title": "BOLD WHITE SQUARE"
+            }, 
+            {
+                "charcode": "0x1f791", 
+                "description": "", 
+                "title": "HEAVY WHITE SQUARE"
+            }, 
+            {
+                "charcode": "0x1f792", 
+                "description": "", 
+                "title": "VERY HEAVY WHITE SQUARE"
+            }, 
+            {
+                "charcode": "0x1f793", 
+                "description": "", 
+                "title": "EXTREMELY HEAVY WHITE SQUARE"
+            }, 
+            {
+                "charcode": "0x1f794", 
+                "description": "", 
+                "title": "WHITE SQUARE CONTAINING BLACK VERY SMALL SQUARE"
+            }, 
+            {
+                "charcode": "0x1f795", 
+                "description": "", 
+                "title": "WHITE SQUARE CONTAINING BLACK MEDIUM SQUARE"
+            }, 
+            {
+                "charcode": "0x1f796", 
+                "description": "", 
+                "title": "SQUARE TARGET"
+            }, 
+            {
+                "charcode": "0x1f797", 
+                "description": "", 
+                "title": "BLACK TINY DIAMOND"
+            }, 
+            {
+                "charcode": "0x1f798", 
+                "description": "", 
+                "title": "BLACK VERY SMALL DIAMOND"
+            }, 
+            {
+                "charcode": "0x1f799", 
+                "description": "", 
+                "title": "BLACK MEDIUM SMALL DIAMOND"
+            }, 
+            {
+                "charcode": "0x1f79a", 
+                "description": "", 
+                "title": "WHITE DIAMOND CONTAINING BLACK VERY SMALL DIAMOND"
+            }, 
+            {
+                "charcode": "0x1f79b", 
+                "description": "", 
+                "title": "WHITE DIAMOND CONTAINING BLACK MEDIUM DIAMOND"
+            }, 
+            {
+                "charcode": "0x1f79c", 
+                "description": "", 
+                "title": "DIAMOND TARGET"
+            }, 
+            {
+                "charcode": "0x1f79d", 
+                "description": "", 
+                "title": "BLACK TINY LOZENGE"
+            }, 
+            {
+                "charcode": "0x1f79e", 
+                "description": "", 
+                "title": "BLACK VERY SMALL LOZENGE"
+            }, 
+            {
+                "charcode": "0x1f79f", 
+                "description": "", 
+                "title": "BLACK MEDIUM SMALL LOZENGE"
+            }, 
+            {
+                "charcode": "0x1f7a0", 
+                "description": "", 
+                "title": "WHITE LOZENGE CONTAINING BLACK SMALL LOZENGE"
+            }, 
+            {
+                "charcode": "0x1f7a1", 
+                "description": "", 
+                "title": "THIN GREEK CROSS"
+            }, 
+            {
+                "charcode": "0x1f7a2", 
+                "description": "", 
+                "title": "LIGHT GREEK CROSS"
+            }, 
+            {
+                "charcode": "0x1f7a3", 
+                "description": "", 
+                "title": "MEDIUM GREEK CROSS"
+            }, 
+            {
+                "charcode": "0x1f7a4", 
+                "description": "", 
+                "title": "BOLD GREEK CROSS"
+            }, 
+            {
+                "charcode": "0x1f7a5", 
+                "description": "", 
+                "title": "VERY BOLD GREEK CROSS"
+            }, 
+            {
+                "charcode": "0x1f7a6", 
+                "description": "", 
+                "title": "VERY HEAVY GREEK CROSS"
+            }, 
+            {
+                "charcode": "0x1f7a7", 
+                "description": "", 
+                "title": "EXTREMELY HEAVY GREEK CROSS"
+            }, 
+            {
+                "charcode": "0x1f7a8", 
+                "description": "", 
+                "title": "THIN SALTIRE"
+            }, 
+            {
+                "charcode": "0x1f7a9", 
+                "description": "", 
+                "title": "LIGHT SALTIRE"
+            }, 
+            {
+                "charcode": "0x1f7aa", 
+                "description": "", 
+                "title": "MEDIUM SALTIRE"
+            }, 
+            {
+                "charcode": "0x1f7ab", 
+                "description": "", 
+                "title": "BOLD SALTIRE"
+            }, 
+            {
+                "charcode": "0x1f7ac", 
+                "description": "", 
+                "title": "HEAVY SALTIRE"
+            }, 
+            {
+                "charcode": "0x1f7ad", 
+                "description": "", 
+                "title": "VERY HEAVY SALTIRE"
+            }, 
+            {
+                "charcode": "0x1f7ae", 
+                "description": "", 
+                "title": "EXTREMELY HEAVY SALTIRE"
+            }, 
+            {
+                "charcode": "0x1f7af", 
+                "description": "", 
+                "title": "LIGHT FIVE SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7b0", 
+                "description": "", 
+                "title": "MEDIUM FIVE SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7b1", 
+                "description": "", 
+                "title": "BOLD FIVE SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7b2", 
+                "description": "", 
+                "title": "HEAVY FIVE SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7b3", 
+                "description": "", 
+                "title": "VERY HEAVY FIVE SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7b4", 
+                "description": "", 
+                "title": "EXTREMELY HEAVY FIVE SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7b5", 
+                "description": "", 
+                "title": "LIGHT SIX SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7b6", 
+                "description": "", 
+                "title": "MEDIUM SIX SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7b7", 
+                "description": "", 
+                "title": "BOLD SIX SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7b8", 
+                "description": "", 
+                "title": "HEAVY SIX SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7b9", 
+                "description": "", 
+                "title": "VERY HEAVY SIX SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7ba", 
+                "description": "", 
+                "title": "EXTREMELY HEAVY SIX SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7bb", 
+                "description": "", 
+                "title": "LIGHT EIGHT SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7bc", 
+                "description": "", 
+                "title": "MEDIUM EIGHT SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7bd", 
+                "description": "", 
+                "title": "BOLD EIGHT SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7be", 
+                "description": "", 
+                "title": "HEAVY EIGHT SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7bf", 
+                "description": "", 
+                "title": "VERY HEAVY EIGHT SPOKED ASTERISK"
+            }, 
+            {
+                "charcode": "0x1f7c0", 
+                "description": "", 
+                "title": "LIGHT THREE POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7c1", 
+                "description": "", 
+                "title": "MEDIUM THREE POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7c2", 
+                "description": "", 
+                "title": "THREE POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7c3", 
+                "description": "", 
+                "title": "MEDIUM THREE POINTED PINWHEEL STAR"
+            }, 
+            {
+                "charcode": "0x1f7c4", 
+                "description": "", 
+                "title": "LIGHT FOUR POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7c5", 
+                "description": "", 
+                "title": "MEDIUM FOUR POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7c6", 
+                "description": "", 
+                "title": "FOUR POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7c7", 
+                "description": "", 
+                "title": "MEDIUM FOUR POINTED PINWHEEL STAR"
+            }, 
+            {
+                "charcode": "0x1f7c8", 
+                "description": "", 
+                "title": "REVERSE LIGHT FOUR POINTED PINWHEEL STAR"
+            }, 
+            {
+                "charcode": "0x1f7c9", 
+                "description": "", 
+                "title": "LIGHT FIVE POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7ca", 
+                "description": "", 
+                "title": "HEAVY FIVE POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7cb", 
+                "description": "", 
+                "title": "MEDIUM SIX POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7cc", 
+                "description": "", 
+                "title": "HEAVY SIX POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7cd", 
+                "description": "", 
+                "title": "SIX POINTED PINWHEEL STAR"
+            }, 
+            {
+                "charcode": "0x1f7ce", 
+                "description": "", 
+                "title": "MEDIUM EIGHT POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7cf", 
+                "description": "", 
+                "title": "HEAVY EIGHT POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7d0", 
+                "description": "", 
+                "title": "VERY HEAVY EIGHT POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7d1", 
+                "description": "", 
+                "title": "HEAVY EIGHT POINTED PINWHEEL STAR"
+            }, 
+            {
+                "charcode": "0x1f7d2", 
+                "description": "", 
+                "title": "LIGHT TWELVE POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7d3", 
+                "description": "", 
+                "title": "HEAVY TWELVE POINTED BLACK STAR"
+            }, 
+            {
+                "charcode": "0x1f7d4", 
+                "description": "", 
+                "title": "HEAVY TWELVE POINTED PINWHEEL STAR"
+            }
+        ], 
+        "name": "Geometric Shapes Extended"
+    }
+]

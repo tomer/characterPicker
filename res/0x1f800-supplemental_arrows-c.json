@@ -1,0 +1,747 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1f800", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW WITH SMALL TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f801", 
+                "description": "", 
+                "title": "UPWARDS ARROW WITH SMALL TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f802", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW WITH SMALL TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f803", 
+                "description": "", 
+                "title": "DOWNWARDS ARROW WITH SMALL TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f804", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f805", 
+                "description": "", 
+                "title": "UPWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f806", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f807", 
+                "description": "", 
+                "title": "DOWNWARDS ARROW WITH MEDIUM TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f808", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW WITH LARGE TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f809", 
+                "description": "", 
+                "title": "UPWARDS ARROW WITH LARGE TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f80a", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW WITH LARGE TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f80b", 
+                "description": "", 
+                "title": "DOWNWARDS ARROW WITH LARGE TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f810", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW WITH SMALL EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f811", 
+                "description": "", 
+                "title": "UPWARDS ARROW WITH SMALL EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f812", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW WITH SMALL EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f813", 
+                "description": "", 
+                "title": "DOWNWARDS ARROW WITH SMALL EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f814", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f815", 
+                "description": "", 
+                "title": "UPWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f816", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f817", 
+                "description": "", 
+                "title": "DOWNWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f818", 
+                "description": "", 
+                "title": "HEAVY LEFTWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f819", 
+                "description": "", 
+                "title": "HEAVY UPWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f81a", 
+                "description": "", 
+                "title": "HEAVY RIGHTWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f81b", 
+                "description": "", 
+                "title": "HEAVY DOWNWARDS ARROW WITH EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f81c", 
+                "description": "", 
+                "title": "HEAVY LEFTWARDS ARROW WITH LARGE EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f81d", 
+                "description": "", 
+                "title": "HEAVY UPWARDS ARROW WITH LARGE EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f81e", 
+                "description": "", 
+                "title": "HEAVY RIGHTWARDS ARROW WITH LARGE EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f81f", 
+                "description": "", 
+                "title": "HEAVY DOWNWARDS ARROW WITH LARGE EQUILATERAL ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f820", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED ARROW WITH NARROW SHAFT"
+            }, 
+            {
+                "charcode": "0x1f821", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED ARROW WITH NARROW SHAFT"
+            }, 
+            {
+                "charcode": "0x1f822", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH NARROW SHAFT"
+            }, 
+            {
+                "charcode": "0x1f823", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ARROW WITH NARROW SHAFT"
+            }, 
+            {
+                "charcode": "0x1f824", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED ARROW WITH MEDIUM SHAFT"
+            }, 
+            {
+                "charcode": "0x1f825", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED ARROW WITH MEDIUM SHAFT"
+            }, 
+            {
+                "charcode": "0x1f826", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH MEDIUM SHAFT"
+            }, 
+            {
+                "charcode": "0x1f827", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ARROW WITH MEDIUM SHAFT"
+            }, 
+            {
+                "charcode": "0x1f828", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED ARROW WITH BOLD SHAFT"
+            }, 
+            {
+                "charcode": "0x1f829", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED ARROW WITH BOLD SHAFT"
+            }, 
+            {
+                "charcode": "0x1f82a", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH BOLD SHAFT"
+            }, 
+            {
+                "charcode": "0x1f82b", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ARROW WITH BOLD SHAFT"
+            }, 
+            {
+                "charcode": "0x1f82c", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED ARROW WITH HEAVY SHAFT"
+            }, 
+            {
+                "charcode": "0x1f82d", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED ARROW WITH HEAVY SHAFT"
+            }, 
+            {
+                "charcode": "0x1f82e", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH HEAVY SHAFT"
+            }, 
+            {
+                "charcode": "0x1f82f", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ARROW WITH HEAVY SHAFT"
+            }, 
+            {
+                "charcode": "0x1f830", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE-HEADED ARROW WITH VERY HEAVY SHAFT"
+            }, 
+            {
+                "charcode": "0x1f831", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE-HEADED ARROW WITH VERY HEAVY SHAFT"
+            }, 
+            {
+                "charcode": "0x1f832", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE-HEADED ARROW WITH VERY HEAVY SHAFT"
+            }, 
+            {
+                "charcode": "0x1f833", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE-HEADED ARROW WITH VERY HEAVY SHAFT"
+            }, 
+            {
+                "charcode": "0x1f834", 
+                "description": "", 
+                "title": "LEFTWARDS FINGER-POST ARROW"
+            }, 
+            {
+                "charcode": "0x1f835", 
+                "description": "", 
+                "title": "UPWARDS FINGER-POST ARROW"
+            }, 
+            {
+                "charcode": "0x1f836", 
+                "description": "", 
+                "title": "RIGHTWARDS FINGER-POST ARROW"
+            }, 
+            {
+                "charcode": "0x1f837", 
+                "description": "", 
+                "title": "DOWNWARDS FINGER-POST ARROW"
+            }, 
+            {
+                "charcode": "0x1f838", 
+                "description": "", 
+                "title": "LEFTWARDS SQUARED ARROW"
+            }, 
+            {
+                "charcode": "0x1f839", 
+                "description": "", 
+                "title": "UPWARDS SQUARED ARROW"
+            }, 
+            {
+                "charcode": "0x1f83a", 
+                "description": "", 
+                "title": "RIGHTWARDS SQUARED ARROW"
+            }, 
+            {
+                "charcode": "0x1f83b", 
+                "description": "", 
+                "title": "DOWNWARDS SQUARED ARROW"
+            }, 
+            {
+                "charcode": "0x1f83c", 
+                "description": "", 
+                "title": "LEFTWARDS COMPRESSED ARROW"
+            }, 
+            {
+                "charcode": "0x1f83d", 
+                "description": "", 
+                "title": "UPWARDS COMPRESSED ARROW"
+            }, 
+            {
+                "charcode": "0x1f83e", 
+                "description": "", 
+                "title": "RIGHTWARDS COMPRESSED ARROW"
+            }, 
+            {
+                "charcode": "0x1f83f", 
+                "description": "", 
+                "title": "DOWNWARDS COMPRESSED ARROW"
+            }, 
+            {
+                "charcode": "0x1f840", 
+                "description": "", 
+                "title": "LEFTWARDS HEAVY COMPRESSED ARROW"
+            }, 
+            {
+                "charcode": "0x1f841", 
+                "description": "", 
+                "title": "UPWARDS HEAVY COMPRESSED ARROW"
+            }, 
+            {
+                "charcode": "0x1f842", 
+                "description": "", 
+                "title": "RIGHTWARDS HEAVY COMPRESSED ARROW"
+            }, 
+            {
+                "charcode": "0x1f843", 
+                "description": "", 
+                "title": "DOWNWARDS HEAVY COMPRESSED ARROW"
+            }, 
+            {
+                "charcode": "0x1f844", 
+                "description": "", 
+                "title": "LEFTWARDS HEAVY ARROW"
+            }, 
+            {
+                "charcode": "0x1f845", 
+                "description": "", 
+                "title": "UPWARDS HEAVY ARROW"
+            }, 
+            {
+                "charcode": "0x1f846", 
+                "description": "", 
+                "title": "RIGHTWARDS HEAVY ARROW"
+            }, 
+            {
+                "charcode": "0x1f847", 
+                "description": "", 
+                "title": "DOWNWARDS HEAVY ARROW"
+            }, 
+            {
+                "charcode": "0x1f850", 
+                "description": "", 
+                "title": "LEFTWARDS SANS-SERIF ARROW"
+            }, 
+            {
+                "charcode": "0x1f851", 
+                "description": "", 
+                "title": "UPWARDS SANS-SERIF ARROW"
+            }, 
+            {
+                "charcode": "0x1f852", 
+                "description": "", 
+                "title": "RIGHTWARDS SANS-SERIF ARROW"
+            }, 
+            {
+                "charcode": "0x1f853", 
+                "description": "", 
+                "title": "DOWNWARDS SANS-SERIF ARROW"
+            }, 
+            {
+                "charcode": "0x1f854", 
+                "description": "", 
+                "title": "NORTH WEST SANS-SERIF ARROW"
+            }, 
+            {
+                "charcode": "0x1f855", 
+                "description": "", 
+                "title": "NORTH EAST SANS-SERIF ARROW"
+            }, 
+            {
+                "charcode": "0x1f856", 
+                "description": "", 
+                "title": "SOUTH EAST SANS-SERIF ARROW"
+            }, 
+            {
+                "charcode": "0x1f857", 
+                "description": "", 
+                "title": "SOUTH WEST SANS-SERIF ARROW"
+            }, 
+            {
+                "charcode": "0x1f858", 
+                "description": "", 
+                "title": "LEFT RIGHT SANS-SERIF ARROW"
+            }, 
+            {
+                "charcode": "0x1f859", 
+                "description": "", 
+                "title": "UP DOWN SANS-SERIF ARROW"
+            }, 
+            {
+                "charcode": "0x1f860", 
+                "description": "", 
+                "title": "WIDE-HEADED LEFTWARDS LIGHT BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f861", 
+                "description": "", 
+                "title": "WIDE-HEADED UPWARDS LIGHT BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f862", 
+                "description": "", 
+                "title": "WIDE-HEADED RIGHTWARDS LIGHT BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f863", 
+                "description": "", 
+                "title": "WIDE-HEADED DOWNWARDS LIGHT BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f864", 
+                "description": "", 
+                "title": "WIDE-HEADED NORTH WEST LIGHT BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f865", 
+                "description": "", 
+                "title": "WIDE-HEADED NORTH EAST LIGHT BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f866", 
+                "description": "", 
+                "title": "WIDE-HEADED SOUTH EAST LIGHT BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f867", 
+                "description": "", 
+                "title": "WIDE-HEADED SOUTH WEST LIGHT BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f868", 
+                "description": "", 
+                "title": "WIDE-HEADED LEFTWARDS BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f869", 
+                "description": "", 
+                "title": "WIDE-HEADED UPWARDS BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f86a", 
+                "description": "", 
+                "title": "WIDE-HEADED RIGHTWARDS BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f86b", 
+                "description": "", 
+                "title": "WIDE-HEADED DOWNWARDS BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f86c", 
+                "description": "", 
+                "title": "WIDE-HEADED NORTH WEST BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f86d", 
+                "description": "", 
+                "title": "WIDE-HEADED NORTH EAST BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f86e", 
+                "description": "", 
+                "title": "WIDE-HEADED SOUTH EAST BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f86f", 
+                "description": "", 
+                "title": "WIDE-HEADED SOUTH WEST BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f870", 
+                "description": "", 
+                "title": "WIDE-HEADED LEFTWARDS MEDIUM BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f871", 
+                "description": "", 
+                "title": "WIDE-HEADED UPWARDS MEDIUM BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f872", 
+                "description": "", 
+                "title": "WIDE-HEADED RIGHTWARDS MEDIUM BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f873", 
+                "description": "", 
+                "title": "WIDE-HEADED DOWNWARDS MEDIUM BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f874", 
+                "description": "", 
+                "title": "WIDE-HEADED NORTH WEST MEDIUM BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f875", 
+                "description": "", 
+                "title": "WIDE-HEADED NORTH EAST MEDIUM BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f876", 
+                "description": "", 
+                "title": "WIDE-HEADED SOUTH EAST MEDIUM BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f877", 
+                "description": "", 
+                "title": "WIDE-HEADED SOUTH WEST MEDIUM BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f878", 
+                "description": "", 
+                "title": "WIDE-HEADED LEFTWARDS HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f879", 
+                "description": "", 
+                "title": "WIDE-HEADED UPWARDS HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f87a", 
+                "description": "", 
+                "title": "WIDE-HEADED RIGHTWARDS HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f87b", 
+                "description": "", 
+                "title": "WIDE-HEADED DOWNWARDS HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f87c", 
+                "description": "", 
+                "title": "WIDE-HEADED NORTH WEST HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f87d", 
+                "description": "", 
+                "title": "WIDE-HEADED NORTH EAST HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f87e", 
+                "description": "", 
+                "title": "WIDE-HEADED SOUTH EAST HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f87f", 
+                "description": "", 
+                "title": "WIDE-HEADED SOUTH WEST HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f880", 
+                "description": "", 
+                "title": "WIDE-HEADED LEFTWARDS VERY HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f881", 
+                "description": "", 
+                "title": "WIDE-HEADED UPWARDS VERY HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f882", 
+                "description": "", 
+                "title": "WIDE-HEADED RIGHTWARDS VERY HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f883", 
+                "description": "", 
+                "title": "WIDE-HEADED DOWNWARDS VERY HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f884", 
+                "description": "", 
+                "title": "WIDE-HEADED NORTH WEST VERY HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f885", 
+                "description": "", 
+                "title": "WIDE-HEADED NORTH EAST VERY HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f886", 
+                "description": "", 
+                "title": "WIDE-HEADED SOUTH EAST VERY HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f887", 
+                "description": "", 
+                "title": "WIDE-HEADED SOUTH WEST VERY HEAVY BARB ARROW"
+            }, 
+            {
+                "charcode": "0x1f890", 
+                "description": "", 
+                "title": "LEFTWARDS TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f891", 
+                "description": "", 
+                "title": "UPWARDS TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f892", 
+                "description": "", 
+                "title": "RIGHTWARDS TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f893", 
+                "description": "", 
+                "title": "DOWNWARDS TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f894", 
+                "description": "", 
+                "title": "LEFTWARDS WHITE ARROW WITHIN TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f895", 
+                "description": "", 
+                "title": "UPWARDS WHITE ARROW WITHIN TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f896", 
+                "description": "", 
+                "title": "RIGHTWARDS WHITE ARROW WITHIN TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f897", 
+                "description": "", 
+                "title": "DOWNWARDS WHITE ARROW WITHIN TRIANGLE ARROWHEAD"
+            }, 
+            {
+                "charcode": "0x1f898", 
+                "description": "", 
+                "title": "LEFTWARDS ARROW WITH NOTCHED TAIL"
+            }, 
+            {
+                "charcode": "0x1f899", 
+                "description": "", 
+                "title": "UPWARDS ARROW WITH NOTCHED TAIL"
+            }, 
+            {
+                "charcode": "0x1f89a", 
+                "description": "", 
+                "title": "RIGHTWARDS ARROW WITH NOTCHED TAIL"
+            }, 
+            {
+                "charcode": "0x1f89b", 
+                "description": "", 
+                "title": "DOWNWARDS ARROW WITH NOTCHED TAIL"
+            }, 
+            {
+                "charcode": "0x1f89c", 
+                "description": "", 
+                "title": "HEAVY ARROW SHAFT WIDTH ONE"
+            }, 
+            {
+                "charcode": "0x1f89d", 
+                "description": "", 
+                "title": "HEAVY ARROW SHAFT WIDTH TWO THIRDS"
+            }, 
+            {
+                "charcode": "0x1f89e", 
+                "description": "", 
+                "title": "HEAVY ARROW SHAFT WIDTH ONE HALF"
+            }, 
+            {
+                "charcode": "0x1f89f", 
+                "description": "", 
+                "title": "HEAVY ARROW SHAFT WIDTH ONE THIRD"
+            }, 
+            {
+                "charcode": "0x1f8a0", 
+                "description": "", 
+                "title": "LEFTWARDS BOTTOM-SHADED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8a1", 
+                "description": "", 
+                "title": "RIGHTWARDS BOTTOM SHADED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8a2", 
+                "description": "", 
+                "title": "LEFTWARDS TOP SHADED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8a3", 
+                "description": "", 
+                "title": "RIGHTWARDS TOP SHADED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8a4", 
+                "description": "", 
+                "title": "LEFTWARDS LEFT-SHADED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8a5", 
+                "description": "", 
+                "title": "RIGHTWARDS RIGHT-SHADED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8a6", 
+                "description": "", 
+                "title": "LEFTWARDS RIGHT-SHADED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8a7", 
+                "description": "", 
+                "title": "RIGHTWARDS LEFT-SHADED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8a8", 
+                "description": "", 
+                "title": "LEFTWARDS BACK-TILTED SHADOWED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8a9", 
+                "description": "", 
+                "title": "RIGHTWARDS BACK-TILTED SHADOWED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8aa", 
+                "description": "", 
+                "title": "LEFTWARDS FRONT-TILTED SHADOWED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8ab", 
+                "description": "", 
+                "title": "RIGHTWARDS FRONT-TILTED SHADOWED WHITE ARROW"
+            }, 
+            {
+                "charcode": "0x1f8ac", 
+                "description": "", 
+                "title": "WHITE ARROW SHAFT WIDTH ONE"
+            }, 
+            {
+                "charcode": "0x1f8ad", 
+                "description": "", 
+                "title": "WHITE ARROW SHAFT WIDTH TWO THIRDS"
+            }
+        ], 
+        "name": "Supplemental Arrows-C"
+    }
+]

@@ -299,6 +299,66 @@
                 "title": "SHOOTING STAR"
             }, 
             {
+                "charcode": "0x1f321", 
+                "description": "", 
+                "title": "THERMOMETER"
+            }, 
+            {
+                "charcode": "0x1f322", 
+                "description": "", 
+                "title": "BLACK DROPLET"
+            }, 
+            {
+                "charcode": "0x1f323", 
+                "description": "", 
+                "title": "WHITE SUN"
+            }, 
+            {
+                "charcode": "0x1f324", 
+                "description": "", 
+                "title": "WHITE SUN WITH SMALL CLOUD"
+            }, 
+            {
+                "charcode": "0x1f325", 
+                "description": "", 
+                "title": "WHITE SUN BEHIND CLOUD"
+            }, 
+            {
+                "charcode": "0x1f326", 
+                "description": "", 
+                "title": "WHITE SUN BEHIND CLOUD WITH RAIN"
+            }, 
+            {
+                "charcode": "0x1f327", 
+                "description": "", 
+                "title": "CLOUD WITH RAIN"
+            }, 
+            {
+                "charcode": "0x1f328", 
+                "description": "", 
+                "title": "CLOUD WITH SNOW"
+            }, 
+            {
+                "charcode": "0x1f329", 
+                "description": "", 
+                "title": "CLOUD WITH LIGHTNING"
+            }, 
+            {
+                "charcode": "0x1f32a", 
+                "description": "", 
+                "title": "CLOUD WITH TORNADO"
+            }, 
+            {
+                "charcode": "0x1f32b", 
+                "description": "", 
+                "title": "FOG"
+            }, 
+            {
+                "charcode": "0x1f32c", 
+                "description": "", 
+                "title": "WIND BLOWING FACE"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Plant", 
                 "cat3": "", 
@@ -351,6 +411,11 @@
                 "charcode": "0x1f335", 
                 "description": "", 
                 "title": "CACTUS"
+            }, 
+            {
+                "charcode": "0x1f336", 
+                "description": "", 
+                "title": "HOT PEPPER"
             }, 
             {
                 "cat1": "Symbol", 
@@ -983,6 +1048,11 @@
                 "title": "BABY BOTTLE"
             }, 
             {
+                "charcode": "0x1f37d", 
+                "description": "", 
+                "title": "FORK AND KNIFE WITH PLATE"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Celebration", 
                 "cat3": "", 
@@ -1161,6 +1231,66 @@
                 "charcode": "0x1f393", 
                 "description": "", 
                 "title": "GRADUATION CAP"
+            }, 
+            {
+                "charcode": "0x1f394", 
+                "description": "", 
+                "title": "HEART WITH TIP ON THE LEFT"
+            }, 
+            {
+                "charcode": "0x1f395", 
+                "description": "", 
+                "title": "BOUQUET OF FLOWERS"
+            }, 
+            {
+                "charcode": "0x1f396", 
+                "description": "", 
+                "title": "MILITARY MEDAL"
+            }, 
+            {
+                "charcode": "0x1f397", 
+                "description": "", 
+                "title": "REMINDER RIBBON"
+            }, 
+            {
+                "charcode": "0x1f398", 
+                "description": "", 
+                "title": "MUSICAL KEYBOARD WITH JACKS"
+            }, 
+            {
+                "charcode": "0x1f399", 
+                "description": "", 
+                "title": "STUDIO MICROPHONE"
+            }, 
+            {
+                "charcode": "0x1f39a", 
+                "description": "", 
+                "title": "LEVEL SLIDER"
+            }, 
+            {
+                "charcode": "0x1f39b", 
+                "description": "", 
+                "title": "CONTROL KNOBS"
+            }, 
+            {
+                "charcode": "0x1f39c", 
+                "description": "", 
+                "title": "BEAMED ASCENDING MUSICAL NOTES"
+            }, 
+            {
+                "charcode": "0x1f39d", 
+                "description": "", 
+                "title": "BEAMED DESCENDING MUSICAL NOTES"
+            }, 
+            {
+                "charcode": "0x1f39e", 
+                "description": "", 
+                "title": "FILM FRAMES"
+            }, 
+            {
+                "charcode": "0x1f39f", 
+                "description": "", 
+                "title": "ADMISSION TICKETS"
             }, 
             {
                 "cat1": "Symbol", 
@@ -1496,6 +1626,11 @@
                 "title": "SURFER"
             }, 
             {
+                "charcode": "0x1f3c5", 
+                "description": "", 
+                "title": "SPORTS MEDAL"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Sport", 
                 "cat3": "", 
@@ -1539,6 +1674,86 @@
                 "charcode": "0x1f3ca", 
                 "description": "", 
                 "title": "SWIMMER"
+            }, 
+            {
+                "charcode": "0x1f3cb", 
+                "description": "", 
+                "title": "WEIGHT LIFTER"
+            }, 
+            {
+                "charcode": "0x1f3cc", 
+                "description": "", 
+                "title": "GOLFER"
+            }, 
+            {
+                "charcode": "0x1f3cd", 
+                "description": "", 
+                "title": "RACING MOTORCYCLE"
+            }, 
+            {
+                "charcode": "0x1f3ce", 
+                "description": "", 
+                "title": "RACING CAR"
+            }, 
+            {
+                "charcode": "0x1f3d4", 
+                "description": "", 
+                "title": "SNOW CAPPED MOUNTAIN"
+            }, 
+            {
+                "charcode": "0x1f3d5", 
+                "description": "", 
+                "title": "CAMPING"
+            }, 
+            {
+                "charcode": "0x1f3d6", 
+                "description": "", 
+                "title": "BEACH WITH UMBRELLA"
+            }, 
+            {
+                "charcode": "0x1f3d7", 
+                "description": "", 
+                "title": "BUILDING CONSTRUCTION"
+            }, 
+            {
+                "charcode": "0x1f3d8", 
+                "description": "", 
+                "title": "HOUSE BUILDINGS"
+            }, 
+            {
+                "charcode": "0x1f3d9", 
+                "description": "", 
+                "title": "CITYSCAPE"
+            }, 
+            {
+                "charcode": "0x1f3da", 
+                "description": "", 
+                "title": "DERELICT HOUSE BUILDING"
+            }, 
+            {
+                "charcode": "0x1f3db", 
+                "description": "", 
+                "title": "CLASSICAL BUILDING"
+            }, 
+            {
+                "charcode": "0x1f3dc", 
+                "description": "", 
+                "title": "DESERT"
+            }, 
+            {
+                "charcode": "0x1f3dd", 
+                "description": "", 
+                "title": "DESERT ISLAND"
+            }, 
+            {
+                "charcode": "0x1f3de", 
+                "description": "", 
+                "title": "NATIONAL PARK"
+            }, 
+            {
+                "charcode": "0x1f3df", 
+                "description": "", 
+                "title": "STADIUM"
             }, 
             {
                 "cat1": "Symbol", 
@@ -1692,6 +1907,41 @@
                 "charcode": "0x1f3f0", 
                 "description": "", 
                 "title": "EUROPEAN CASTLE"
+            }, 
+            {
+                "charcode": "0x1f3f1", 
+                "description": "", 
+                "title": "WHITE PENNANT"
+            }, 
+            {
+                "charcode": "0x1f3f2", 
+                "description": "", 
+                "title": "BLACK PENNANT"
+            }, 
+            {
+                "charcode": "0x1f3f3", 
+                "description": "", 
+                "title": "WAVING WHITE FLAG"
+            }, 
+            {
+                "charcode": "0x1f3f4", 
+                "description": "", 
+                "title": "WAVING BLACK FLAG"
+            }, 
+            {
+                "charcode": "0x1f3f5", 
+                "description": "", 
+                "title": "ROSETTE"
+            }, 
+            {
+                "charcode": "0x1f3f6", 
+                "description": "", 
+                "title": "BLACK ROSETTE"
+            }, 
+            {
+                "charcode": "0x1f3f7", 
+                "description": "", 
+                "title": "LABEL"
             }, 
             {
                 "cat1": "Symbol", 
@@ -2261,6 +2511,11 @@
                 "title": "PAW PRINTS"
             }, 
             {
+                "charcode": "0x1f43f", 
+                "description": "", 
+                "title": "CHIPMUNK"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Body part", 
                 "cat3": "Face", 
@@ -2268,6 +2523,11 @@
                 "charcode": "0x1f440", 
                 "description": "", 
                 "title": "EYES"
+            }, 
+            {
+                "charcode": "0x1f441", 
+                "description": "", 
+                "title": "EYE"
             }, 
             {
                 "cat1": "Symbol", 
@@ -3908,6 +4168,11 @@
                 "title": "CAMERA"
             }, 
             {
+                "charcode": "0x1f4f8", 
+                "description": "", 
+                "title": "CAMERA WITH FLASH"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Audio; video", 
                 "cat3": "", 
@@ -3942,6 +4207,16 @@
                 "charcode": "0x1f4fc", 
                 "description": "", 
                 "title": "VIDEOCASSETTE"
+            }, 
+            {
+                "charcode": "0x1f4fd", 
+                "description": "", 
+                "title": "FILM PROJECTOR"
+            }, 
+            {
+                "charcode": "0x1f4fe", 
+                "description": "", 
+                "title": "PORTABLE STEREO"
             }, 
             {
                 "cat1": "Symbol", 
@@ -4502,6 +4777,16 @@
                 "title": "DOWN-POINTING SMALL RED TRIANGLE"
             }, 
             {
+                "charcode": "0x1f53e", 
+                "description": "", 
+                "title": "LOWER RIGHT SHADOWED WHITE CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f53f", 
+                "description": "", 
+                "title": "UPPER RIGHT SHADOWED WHITE CIRCLE"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Religious", 
                 "cat3": "", 
@@ -4536,6 +4821,41 @@
                 "charcode": "0x1f543", 
                 "description": "", 
                 "title": "NOTCHED LEFT SEMICIRCLE WITH THREE DOTS"
+            }, 
+            {
+                "charcode": "0x1f544", 
+                "description": "", 
+                "title": "NOTCHED RIGHT SEMICIRCLE WITH THREE DOTS"
+            }, 
+            {
+                "charcode": "0x1f545", 
+                "description": "", 
+                "title": "SYMBOL FOR MARKS CHAPTER"
+            }, 
+            {
+                "charcode": "0x1f546", 
+                "description": "", 
+                "title": "WHITE LATIN CROSS"
+            }, 
+            {
+                "charcode": "0x1f547", 
+                "description": "", 
+                "title": "HEAVY LATIN CROSS"
+            }, 
+            {
+                "charcode": "0x1f548", 
+                "description": "", 
+                "title": "CELTIC CROSS"
+            }, 
+            {
+                "charcode": "0x1f549", 
+                "description": "", 
+                "title": "OM SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f54a", 
+                "description": "", 
+                "title": "DOVE OF PEACE"
             }, 
             {
                 "cat1": "Symbol", 
@@ -4754,6 +5074,731 @@
                 "title": "CLOCK FACE TWELVE-THIRTY"
             }, 
             {
+                "charcode": "0x1f568", 
+                "description": "", 
+                "title": "RIGHT SPEAKER"
+            }, 
+            {
+                "charcode": "0x1f569", 
+                "description": "", 
+                "title": "RIGHT SPEAKER WITH ONE SOUND WAVE"
+            }, 
+            {
+                "charcode": "0x1f56a", 
+                "description": "", 
+                "title": "RIGHT SPEAKER WITH THREE SOUND WAVES"
+            }, 
+            {
+                "charcode": "0x1f56b", 
+                "description": "", 
+                "title": "BULLHORN"
+            }, 
+            {
+                "charcode": "0x1f56c", 
+                "description": "", 
+                "title": "BULLHORN WITH SOUND WAVES"
+            }, 
+            {
+                "charcode": "0x1f56d", 
+                "description": "", 
+                "title": "RINGING BELL"
+            }, 
+            {
+                "charcode": "0x1f56e", 
+                "description": "", 
+                "title": "BOOK"
+            }, 
+            {
+                "charcode": "0x1f56f", 
+                "description": "", 
+                "title": "CANDLE"
+            }, 
+            {
+                "charcode": "0x1f570", 
+                "description": "", 
+                "title": "MANTELPIECE CLOCK"
+            }, 
+            {
+                "charcode": "0x1f571", 
+                "description": "", 
+                "title": "BLACK SKULL AND CROSSBONES"
+            }, 
+            {
+                "charcode": "0x1f572", 
+                "description": "", 
+                "title": "NO PIRACY"
+            }, 
+            {
+                "charcode": "0x1f573", 
+                "description": "", 
+                "title": "HOLE"
+            }, 
+            {
+                "charcode": "0x1f574", 
+                "description": "", 
+                "title": "MAN IN BUSINESS SUIT LEVITATING"
+            }, 
+            {
+                "charcode": "0x1f575", 
+                "description": "", 
+                "title": "SLEUTH OR SPY"
+            }, 
+            {
+                "charcode": "0x1f576", 
+                "description": "", 
+                "title": "DARK SUNGLASSES"
+            }, 
+            {
+                "charcode": "0x1f577", 
+                "description": "", 
+                "title": "SPIDER"
+            }, 
+            {
+                "charcode": "0x1f578", 
+                "description": "", 
+                "title": "SPIDER WEB"
+            }, 
+            {
+                "charcode": "0x1f579", 
+                "description": "", 
+                "title": "JOYSTICK"
+            }, 
+            {
+                "charcode": "0x1f57b", 
+                "description": "", 
+                "title": "LEFT HAND TELEPHONE RECEIVER"
+            }, 
+            {
+                "charcode": "0x1f57c", 
+                "description": "", 
+                "title": "TELEPHONE RECEIVER WITH PAGE"
+            }, 
+            {
+                "charcode": "0x1f57d", 
+                "description": "", 
+                "title": "RIGHT HAND TELEPHONE RECEIVER"
+            }, 
+            {
+                "charcode": "0x1f57e", 
+                "description": "", 
+                "title": "WHITE TOUCHTONE TELEPHONE"
+            }, 
+            {
+                "charcode": "0x1f57f", 
+                "description": "", 
+                "title": "BLACK TOUCHTONE TELEPHONE"
+            }, 
+            {
+                "charcode": "0x1f580", 
+                "description": "", 
+                "title": "TELEPHONE ON TOP OF MODEM"
+            }, 
+            {
+                "charcode": "0x1f581", 
+                "description": "", 
+                "title": "CLAMSHELL MOBILE PHONE"
+            }, 
+            {
+                "charcode": "0x1f582", 
+                "description": "", 
+                "title": "BACK OF ENVELOPE"
+            }, 
+            {
+                "charcode": "0x1f583", 
+                "description": "", 
+                "title": "STAMPED ENVELOPE"
+            }, 
+            {
+                "charcode": "0x1f584", 
+                "description": "", 
+                "title": "ENVELOPE WITH LIGHTNING"
+            }, 
+            {
+                "charcode": "0x1f585", 
+                "description": "", 
+                "title": "FLYING ENVELOPE"
+            }, 
+            {
+                "charcode": "0x1f586", 
+                "description": "", 
+                "title": "PEN OVER STAMPED ENVELOPE"
+            }, 
+            {
+                "charcode": "0x1f587", 
+                "description": "", 
+                "title": "LINKED PAPERCLIPS"
+            }, 
+            {
+                "charcode": "0x1f588", 
+                "description": "", 
+                "title": "BLACK PUSHPIN"
+            }, 
+            {
+                "charcode": "0x1f589", 
+                "description": "", 
+                "title": "LOWER LEFT PENCIL"
+            }, 
+            {
+                "charcode": "0x1f58a", 
+                "description": "", 
+                "title": "LOWER LEFT BALLPOINT PEN"
+            }, 
+            {
+                "charcode": "0x1f58b", 
+                "description": "", 
+                "title": "LOWER LEFT FOUNTAIN PEN"
+            }, 
+            {
+                "charcode": "0x1f58c", 
+                "description": "", 
+                "title": "LOWER LEFT PAINTBRUSH"
+            }, 
+            {
+                "charcode": "0x1f58d", 
+                "description": "", 
+                "title": "LOWER LEFT CRAYON"
+            }, 
+            {
+                "charcode": "0x1f58e", 
+                "description": "", 
+                "title": "LEFT WRITING HAND"
+            }, 
+            {
+                "charcode": "0x1f58f", 
+                "description": "", 
+                "title": "TURNED OK HAND SIGN"
+            }, 
+            {
+                "charcode": "0x1f590", 
+                "description": "", 
+                "title": "RAISED HAND WITH FINGERS SPLAYED"
+            }, 
+            {
+                "charcode": "0x1f591", 
+                "description": "", 
+                "title": "REVERSED RAISED HAND WITH FINGERS SPLAYED"
+            }, 
+            {
+                "charcode": "0x1f592", 
+                "description": "", 
+                "title": "REVERSED THUMBS UP SIGN"
+            }, 
+            {
+                "charcode": "0x1f593", 
+                "description": "", 
+                "title": "REVERSED THUMBS DOWN SIGN"
+            }, 
+            {
+                "charcode": "0x1f594", 
+                "description": "", 
+                "title": "REVERSED VICTORY HAND"
+            }, 
+            {
+                "charcode": "0x1f595", 
+                "description": "", 
+                "title": "REVERSED HAND WITH MIDDLE FINGER EXTENDED"
+            }, 
+            {
+                "charcode": "0x1f596", 
+                "description": "", 
+                "title": "RAISED HAND WITH PART BETWEEN MIDDLE AND RING FINGERS"
+            }, 
+            {
+                "charcode": "0x1f597", 
+                "description": "", 
+                "title": "WHITE DOWN POINTING LEFT HAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f598", 
+                "description": "", 
+                "title": "SIDEWAYS WHITE LEFT POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f599", 
+                "description": "", 
+                "title": "SIDEWAYS WHITE RIGHT POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f59a", 
+                "description": "", 
+                "title": "SIDEWAYS BLACK LEFT POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f59b", 
+                "description": "", 
+                "title": "SIDEWAYS BLACK RIGHT POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f59c", 
+                "description": "", 
+                "title": "BLACK LEFT POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f59d", 
+                "description": "", 
+                "title": "BLACK RIGHT POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f59e", 
+                "description": "", 
+                "title": "SIDEWAYS WHITE UP POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f59f", 
+                "description": "", 
+                "title": "SIDEWAYS WHITE DOWN POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f5a0", 
+                "description": "", 
+                "title": "SIDEWAYS BLACK UP POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f5a1", 
+                "description": "", 
+                "title": "SIDEWAYS BLACK DOWN POINTING INDEX"
+            }, 
+            {
+                "charcode": "0x1f5a2", 
+                "description": "", 
+                "title": "BLACK UP POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f5a3", 
+                "description": "", 
+                "title": "BLACK DOWN POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f5a5", 
+                "description": "", 
+                "title": "DESKTOP COMPUTER"
+            }, 
+            {
+                "charcode": "0x1f5a6", 
+                "description": "", 
+                "title": "KEYBOARD AND MOUSE"
+            }, 
+            {
+                "charcode": "0x1f5a7", 
+                "description": "", 
+                "title": "THREE NETWORKED COMPUTERS"
+            }, 
+            {
+                "charcode": "0x1f5a8", 
+                "description": "", 
+                "title": "PRINTER"
+            }, 
+            {
+                "charcode": "0x1f5a9", 
+                "description": "", 
+                "title": "POCKET CALCULATOR"
+            }, 
+            {
+                "charcode": "0x1f5aa", 
+                "description": "", 
+                "title": "BLACK HARD SHELL FLOPPY DISK"
+            }, 
+            {
+                "charcode": "0x1f5ab", 
+                "description": "", 
+                "title": "WHITE HARD SHELL FLOPPY DISK"
+            }, 
+            {
+                "charcode": "0x1f5ac", 
+                "description": "", 
+                "title": "SOFT SHELL FLOPPY DISK"
+            }, 
+            {
+                "charcode": "0x1f5ad", 
+                "description": "", 
+                "title": "TAPE CARTRIDGE"
+            }, 
+            {
+                "charcode": "0x1f5ae", 
+                "description": "", 
+                "title": "WIRED KEYBOARD"
+            }, 
+            {
+                "charcode": "0x1f5af", 
+                "description": "", 
+                "title": "ONE BUTTON MOUSE"
+            }, 
+            {
+                "charcode": "0x1f5b0", 
+                "description": "", 
+                "title": "TWO BUTTON MOUSE"
+            }, 
+            {
+                "charcode": "0x1f5b1", 
+                "description": "", 
+                "title": "THREE BUTTON MOUSE"
+            }, 
+            {
+                "charcode": "0x1f5b2", 
+                "description": "", 
+                "title": "TRACKBALL"
+            }, 
+            {
+                "charcode": "0x1f5b3", 
+                "description": "", 
+                "title": "OLD PERSONAL COMPUTER"
+            }, 
+            {
+                "charcode": "0x1f5b4", 
+                "description": "", 
+                "title": "HARD DISK"
+            }, 
+            {
+                "charcode": "0x1f5b5", 
+                "description": "", 
+                "title": "SCREEN"
+            }, 
+            {
+                "charcode": "0x1f5b6", 
+                "description": "", 
+                "title": "PRINTER ICON"
+            }, 
+            {
+                "charcode": "0x1f5b7", 
+                "description": "", 
+                "title": "FAX ICON"
+            }, 
+            {
+                "charcode": "0x1f5b8", 
+                "description": "", 
+                "title": "OPTICAL DISC ICON"
+            }, 
+            {
+                "charcode": "0x1f5b9", 
+                "description": "", 
+                "title": "DOCUMENT WITH TEXT"
+            }, 
+            {
+                "charcode": "0x1f5ba", 
+                "description": "", 
+                "title": "DOCUMENT WITH TEXT AND PICTURE"
+            }, 
+            {
+                "charcode": "0x1f5bb", 
+                "description": "", 
+                "title": "DOCUMENT WITH PICTURE"
+            }, 
+            {
+                "charcode": "0x1f5bc", 
+                "description": "", 
+                "title": "FRAME WITH PICTURE"
+            }, 
+            {
+                "charcode": "0x1f5bd", 
+                "description": "", 
+                "title": "FRAME WITH TILES"
+            }, 
+            {
+                "charcode": "0x1f5be", 
+                "description": "", 
+                "title": "FRAME WITH AN X"
+            }, 
+            {
+                "charcode": "0x1f5bf", 
+                "description": "", 
+                "title": "BLACK FOLDER"
+            }, 
+            {
+                "charcode": "0x1f5c0", 
+                "description": "", 
+                "title": "FOLDER"
+            }, 
+            {
+                "charcode": "0x1f5c1", 
+                "description": "", 
+                "title": "OPEN FOLDER"
+            }, 
+            {
+                "charcode": "0x1f5c2", 
+                "description": "", 
+                "title": "CARD INDEX DIVIDERS"
+            }, 
+            {
+                "charcode": "0x1f5c3", 
+                "description": "", 
+                "title": "CARD FILE BOX"
+            }, 
+            {
+                "charcode": "0x1f5c4", 
+                "description": "", 
+                "title": "FILE CABINET"
+            }, 
+            {
+                "charcode": "0x1f5c5", 
+                "description": "", 
+                "title": "EMPTY NOTE"
+            }, 
+            {
+                "charcode": "0x1f5c6", 
+                "description": "", 
+                "title": "EMPTY NOTE PAGE"
+            }, 
+            {
+                "charcode": "0x1f5c7", 
+                "description": "", 
+                "title": "EMPTY NOTE PAD"
+            }, 
+            {
+                "charcode": "0x1f5c8", 
+                "description": "", 
+                "title": "NOTE"
+            }, 
+            {
+                "charcode": "0x1f5c9", 
+                "description": "", 
+                "title": "NOTE PAGE"
+            }, 
+            {
+                "charcode": "0x1f5ca", 
+                "description": "", 
+                "title": "NOTE PAD"
+            }, 
+            {
+                "charcode": "0x1f5cb", 
+                "description": "", 
+                "title": "EMPTY DOCUMENT"
+            }, 
+            {
+                "charcode": "0x1f5cc", 
+                "description": "", 
+                "title": "EMPTY PAGE"
+            }, 
+            {
+                "charcode": "0x1f5cd", 
+                "description": "", 
+                "title": "EMPTY PAGES"
+            }, 
+            {
+                "charcode": "0x1f5ce", 
+                "description": "", 
+                "title": "DOCUMENT"
+            }, 
+            {
+                "charcode": "0x1f5cf", 
+                "description": "", 
+                "title": "PAGE"
+            }, 
+            {
+                "charcode": "0x1f5d0", 
+                "description": "", 
+                "title": "PAGES"
+            }, 
+            {
+                "charcode": "0x1f5d1", 
+                "description": "", 
+                "title": "WASTEBASKET"
+            }, 
+            {
+                "charcode": "0x1f5d2", 
+                "description": "", 
+                "title": "SPIRAL NOTE PAD"
+            }, 
+            {
+                "charcode": "0x1f5d3", 
+                "description": "", 
+                "title": "SPIRAL CALENDAR PAD"
+            }, 
+            {
+                "charcode": "0x1f5d4", 
+                "description": "", 
+                "title": "DESKTOP WINDOW"
+            }, 
+            {
+                "charcode": "0x1f5d5", 
+                "description": "", 
+                "title": "MINIMIZE"
+            }, 
+            {
+                "charcode": "0x1f5d6", 
+                "description": "", 
+                "title": "MAXIMIZE"
+            }, 
+            {
+                "charcode": "0x1f5d7", 
+                "description": "", 
+                "title": "OVERLAP"
+            }, 
+            {
+                "charcode": "0x1f5d8", 
+                "description": "", 
+                "title": "CLOCKWISE RIGHT AND LEFT SEMICIRCLE ARROWS"
+            }, 
+            {
+                "charcode": "0x1f5d9", 
+                "description": "", 
+                "title": "CANCELLATION X"
+            }, 
+            {
+                "charcode": "0x1f5da", 
+                "description": "", 
+                "title": "INCREASE FONT SIZE SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f5db", 
+                "description": "", 
+                "title": "DECREASE FONT SIZE SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f5dc", 
+                "description": "", 
+                "title": "COMPRESSION"
+            }, 
+            {
+                "charcode": "0x1f5dd", 
+                "description": "", 
+                "title": "OLD KEY"
+            }, 
+            {
+                "charcode": "0x1f5de", 
+                "description": "", 
+                "title": "ROLLED-UP NEWSPAPER"
+            }, 
+            {
+                "charcode": "0x1f5df", 
+                "description": "", 
+                "title": "PAGE WITH CIRCLED TEXT"
+            }, 
+            {
+                "charcode": "0x1f5e0", 
+                "description": "", 
+                "title": "STOCK CHART"
+            }, 
+            {
+                "charcode": "0x1f5e1", 
+                "description": "", 
+                "title": "DAGGER KNIFE"
+            }, 
+            {
+                "charcode": "0x1f5e2", 
+                "description": "", 
+                "title": "LIPS"
+            }, 
+            {
+                "charcode": "0x1f5e3", 
+                "description": "", 
+                "title": "SPEAKING HEAD IN SILHOUETTE"
+            }, 
+            {
+                "charcode": "0x1f5e4", 
+                "description": "", 
+                "title": "THREE RAYS ABOVE"
+            }, 
+            {
+                "charcode": "0x1f5e5", 
+                "description": "", 
+                "title": "THREE RAYS BELOW"
+            }, 
+            {
+                "charcode": "0x1f5e6", 
+                "description": "", 
+                "title": "THREE RAYS LEFT"
+            }, 
+            {
+                "charcode": "0x1f5e7", 
+                "description": "", 
+                "title": "THREE RAYS RIGHT"
+            }, 
+            {
+                "charcode": "0x1f5e8", 
+                "description": "", 
+                "title": "LEFT SPEECH BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5e9", 
+                "description": "", 
+                "title": "RIGHT SPEECH BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5ea", 
+                "description": "", 
+                "title": "TWO SPEECH BUBBLES"
+            }, 
+            {
+                "charcode": "0x1f5eb", 
+                "description": "", 
+                "title": "THREE SPEECH BUBBLES"
+            }, 
+            {
+                "charcode": "0x1f5ec", 
+                "description": "", 
+                "title": "LEFT THOUGHT BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5ed", 
+                "description": "", 
+                "title": "RIGHT THOUGHT BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5ee", 
+                "description": "", 
+                "title": "LEFT ANGER BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5ef", 
+                "description": "", 
+                "title": "RIGHT ANGER BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5f0", 
+                "description": "", 
+                "title": "MOOD BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5f1", 
+                "description": "", 
+                "title": "LIGHTNING MOOD BUBBLE"
+            }, 
+            {
+                "charcode": "0x1f5f2", 
+                "description": "", 
+                "title": "LIGHTNING MOOD"
+            }, 
+            {
+                "charcode": "0x1f5f3", 
+                "description": "", 
+                "title": "BALLOT BOX WITH BALLOT"
+            }, 
+            {
+                "charcode": "0x1f5f4", 
+                "description": "", 
+                "title": "BALLOT SCRIPT X"
+            }, 
+            {
+                "charcode": "0x1f5f5", 
+                "description": "", 
+                "title": "BALLOT BOX WITH SCRIPT X"
+            }, 
+            {
+                "charcode": "0x1f5f6", 
+                "description": "", 
+                "title": "BALLOT BOLD SCRIPT X"
+            }, 
+            {
+                "charcode": "0x1f5f7", 
+                "description": "", 
+                "title": "BALLOT BOX WITH BOLD SCRIPT X"
+            }, 
+            {
+                "charcode": "0x1f5f8", 
+                "description": "", 
+                "title": "LIGHT CHECK MARK"
+            }, 
+            {
+                "charcode": "0x1f5f9", 
+                "description": "", 
+                "title": "BALLOT BOX WITH BOLD CHECK"
+            }, 
+            {
+                "charcode": "0x1f5fa", 
+                "description": "", 
+                "title": "WORLD MAP"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Cultural", 
                 "cat3": "", 
@@ -4790,6 +5835,6 @@
                 "title": "SILHOUETTE OF JAPAN"
             }
         ], 
-        "name": "Miscellaneous Symbols And Pictographs"
+        "name": "Miscellaneous Symbols and Pictographs"
     }
 ]

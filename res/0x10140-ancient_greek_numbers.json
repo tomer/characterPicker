@@ -675,6 +675,16 @@
                 "charcode": "0x1018a", 
                 "description": "", 
                 "title": "GREEK ZERO SIGN"
+            }, 
+            {
+                "charcode": "0x1018b", 
+                "description": "", 
+                "title": "GREEK ONE QUARTER SIGN"
+            }, 
+            {
+                "charcode": "0x1018c", 
+                "description": "", 
+                "title": "GREEK SINUSOID SIGN"
             }
         ], 
         "name": "Ancient Greek Numbers"

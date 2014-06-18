@@ -630,8 +630,143 @@
                 "charcode": "0x1f6c5", 
                 "description": "", 
                 "title": "LEFT LUGGAGE"
+            }, 
+            {
+                "charcode": "0x1f6c6", 
+                "description": "", 
+                "title": "TRIANGLE WITH ROUNDED CORNERS"
+            }, 
+            {
+                "charcode": "0x1f6c7", 
+                "description": "", 
+                "title": "PROHIBITED SIGN"
+            }, 
+            {
+                "charcode": "0x1f6c8", 
+                "description": "", 
+                "title": "CIRCLED INFORMATION SOURCE"
+            }, 
+            {
+                "charcode": "0x1f6c9", 
+                "description": "", 
+                "title": "BOYS SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f6ca", 
+                "description": "", 
+                "title": "GIRLS SYMBOL"
+            }, 
+            {
+                "charcode": "0x1f6cb", 
+                "description": "", 
+                "title": "COUCH AND LAMP"
+            }, 
+            {
+                "charcode": "0x1f6cc", 
+                "description": "", 
+                "title": "SLEEPING ACCOMMODATION"
+            }, 
+            {
+                "charcode": "0x1f6cd", 
+                "description": "", 
+                "title": "SHOPPING BAGS"
+            }, 
+            {
+                "charcode": "0x1f6ce", 
+                "description": "", 
+                "title": "BELLHOP BELL"
+            }, 
+            {
+                "charcode": "0x1f6cf", 
+                "description": "", 
+                "title": "BED"
+            }, 
+            {
+                "charcode": "0x1f6e0", 
+                "description": "", 
+                "title": "HAMMER AND WRENCH"
+            }, 
+            {
+                "charcode": "0x1f6e1", 
+                "description": "", 
+                "title": "SHIELD"
+            }, 
+            {
+                "charcode": "0x1f6e2", 
+                "description": "", 
+                "title": "OIL DRUM"
+            }, 
+            {
+                "charcode": "0x1f6e3", 
+                "description": "", 
+                "title": "MOTORWAY"
+            }, 
+            {
+                "charcode": "0x1f6e4", 
+                "description": "", 
+                "title": "RAILWAY TRACK"
+            }, 
+            {
+                "charcode": "0x1f6e5", 
+                "description": "", 
+                "title": "MOTOR BOAT"
+            }, 
+            {
+                "charcode": "0x1f6e6", 
+                "description": "", 
+                "title": "UP-POINTING MILITARY AIRPLANE"
+            }, 
+            {
+                "charcode": "0x1f6e7", 
+                "description": "", 
+                "title": "UP-POINTING AIRPLANE"
+            }, 
+            {
+                "charcode": "0x1f6e8", 
+                "description": "", 
+                "title": "UP-POINTING SMALL AIRPLANE"
+            }, 
+            {
+                "charcode": "0x1f6e9", 
+                "description": "", 
+                "title": "SMALL AIRPLANE"
+            }, 
+            {
+                "charcode": "0x1f6ea", 
+                "description": "", 
+                "title": "NORTHEAST-POINTING AIRPLANE"
+            }, 
+            {
+                "charcode": "0x1f6eb", 
+                "description": "", 
+                "title": "AIRPLANE DEPARTURE"
+            }, 
+            {
+                "charcode": "0x1f6ec", 
+                "description": "", 
+                "title": "AIRPLANE ARRIVING"
+            }, 
+            {
+                "charcode": "0x1f6f0", 
+                "description": "", 
+                "title": "SATELLITE"
+            }, 
+            {
+                "charcode": "0x1f6f1", 
+                "description": "", 
+                "title": "ONCOMING FIRE ENGINE"
+            }, 
+            {
+                "charcode": "0x1f6f2", 
+                "description": "", 
+                "title": "DIESEL LOCOMOTIVE"
+            }, 
+            {
+                "charcode": "0x1f6f3", 
+                "description": "", 
+                "title": "PASSENGER SHIP"
             }
         ], 
-        "name": "Transport And Map Symbols"
+        "name": "Transport and Map Symbols"
     }
 ]

@@ -239,6 +239,21 @@
                 "charcode": "0x20ba", 
                 "description": "", 
                 "title": "TURKISH LIRA SIGN"
+            }, 
+            {
+                "charcode": "0x20bb", 
+                "description": "", 
+                "title": "NORDIC MARK SIGN"
+            }, 
+            {
+                "charcode": "0x20bc", 
+                "description": "", 
+                "title": "MANAT SIGN"
+            }, 
+            {
+                "charcode": "0x20bd", 
+                "description": "", 
+                "title": "RUBLE SIGN"
             }
         ], 
         "name": "Currency Symbols"
