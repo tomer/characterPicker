@@ -228,7 +228,17 @@
 				else loadSelectedBlock(document.getElementById('blockSelection'));
 				
 				document.getElementById('clear').addEventListener('click', clearTextarea);
+
+				window.applicationCache.addEventListener('updateready', onUpdateReady);
+					if(window.applicationCache.status === window.applicationCache.UPDATEREADY) {
+				onUpdateReady();
+				}
 			}
+
+	function onUpdateReady() {
+		console.log("Updating manifest…");
+		window.applicationCache.update();
+	}
 
             function changeListStyle(style) {
                 document.getElementById('buttons').className = style;
