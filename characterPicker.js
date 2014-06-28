@@ -206,6 +206,8 @@
 				loadFileList('res/list.json');
 				var queryString = getQueryString();				
 				
+				loadState();
+				
 				var filename = queryString['load'];
 				if (filename) {
 				    removeButtons();
@@ -237,4 +239,31 @@
 	function removeElement(id) {
 		var element = document.getElementById(id);
 		if (element != null) element.parentNode.removeChild(element);
+	}
+	
+	function store(key, value) {
+		if (localStorage) 
+			localStorage.setItem(key, value);
+		else if (sessionStorage)
+			sessionStorage.setItem(key, value);
+	}
+	
+	function retrive(key) {
+		if (localStorage) 
+			return localStorage.getItem(key);
+		else if (sessionStorage)
+			return sessionStorage.getItem(key);
+		else return null;
+	}
+	
+	function saveState() {
+		store('input', document.getElementById('input').value);
+	}
+	
+	function loadState() {
+		document.getElementById('input').value = retrive('input');
+		
+		
+		var el = document.getElementById("input");
+		el.addEventListener("change", function(){store("input", el.value)}, false);
 	}
