@@ -220,13 +220,20 @@
 				    loadCharactersMap(filename.slice(filename.lastIndexOf('/')+1));
 				}
 				else loadSelectedBlock(document.getElementById('blockSelection'));
+				
+				document.getElementById('clear').addEventListener('click', clearTextarea);
 			}
 
             function changeListStyle(style) {
                 document.getElementById('buttons').className = style;
             }
-            
-            
+	
+	function clearTextarea() {
+		console.log("Clear text area");
+		document.getElementById('input').value = '';
+		store('input', null);
+	}
+	
 	function loadCSSFile(CSSFile, id) {
 		var e = document.createElement('link');
 		e.rel='stylesheet';
@@ -248,7 +255,12 @@
 	}
 	
 	function store(key, value) {
-		if (localStorage) 
+		if (value == null) {
+			localStorage.removeItem(key);
+			sessionStorage.removeItem(key);
+		}
+	
+		else if (localStorage) 
 			localStorage.setItem(key, value);
 		else if (sessionStorage)
 			sessionStorage.setItem(key, value);
@@ -267,7 +279,8 @@
 	}
 	
 	function loadState() {
-		document.getElementById('input').value = retrive('input');
+		if (retrive('input') != null)
+			document.getElementById('input').value = retrive('input');
 		
 		
 		var el = document.getElementById("input");
