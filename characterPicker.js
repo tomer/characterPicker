@@ -145,7 +145,7 @@
 			function loadCharactersMap(filename) {
 			
 			    var stateObj = { 'charMap': filename };
-                history.pushState(stateObj, filename, "?load="+ filename);
+                history.pushState(stateObj, filename, "#?load="+ filename);
 			
 				store('charMap', filename);
 			
@@ -174,12 +174,18 @@
 
 			function getQueryString() {
 				var queryString={};
-				if (window.location.search.length > 1) {
+				var list=[]
+				
+				if (window.location.hash.length > 1) {
+					var list = window.location.hash.slice(1).split('?')[1].split('&');
+				}
+				else if (window.location.search.length > 1) {
 					var list = window.location.search.slice(1).split('&');
-					for (var item in list) {    
-						var keyval = list[item].split('=');
-						queryString[keyval[0]] = keyval[1];
-					}
+				}
+				
+				for (var item in list) {    
+					var keyval = list[item].split('=');
+					queryString[keyval[0]] = keyval[1];
 				}
 				return queryString;
 			}
@@ -220,13 +226,20 @@
 					loadCharactersMap(filename.slice(filename.lastIndexOf('/')+1));
 				}
 				else loadSelectedBlock(document.getElementById('blockSelection'));
+				
+				document.getElementById('clear').addEventListener('click', clearTextarea);
 			}
 
             function changeListStyle(style) {
                 document.getElementById('buttons').className = style;
             }
-            
-            
+	
+	function clearTextarea() {
+		console.log("Clear text area");
+		document.getElementById('input').value = '';
+		store('input', null);
+	}
+	
 	function loadCSSFile(CSSFile, id) {
 		var e = document.createElement('link');
 		e.rel='stylesheet';
@@ -248,7 +261,12 @@
 	}
 	
 	function store(key, value) {
-		if (localStorage) 
+		if (value == null) {
+			localStorage.removeItem(key);
+			sessionStorage.removeItem(key);
+		}
+	
+		else if (localStorage) 
 			localStorage.setItem(key, value);
 		else if (sessionStorage)
 			sessionStorage.setItem(key, value);
@@ -267,7 +285,8 @@
 	}
 	
 	function loadState() {
-		document.getElementById('input').value = retrive('input');
+		if (retrive('input') != null)
+			document.getElementById('input').value = retrive('input');
 		
 		
 		var el = document.getElementById("input");
