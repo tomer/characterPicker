@@ -145,7 +145,7 @@
 			function loadCharactersMap(filename) {
 			
 			    var stateObj = { 'charMap': filename };
-                history.pushState(stateObj, filename, "?load="+ filename);
+                history.pushState(stateObj, filename, "#?load="+ filename);
 			
 			
 				var list = null;
@@ -173,12 +173,18 @@
 
 			function getQueryString() {
 				var queryString={};
-				if (window.location.search.length > 1) {
+				var list=[]
+				
+				if (window.location.hash.length > 1) {
+					var list = window.location.hash.slice(1).split('?')[1].split('&');
+				}
+				else if (window.location.search.length > 1) {
 					var list = window.location.search.slice(1).split('&');
-					for (var item in list) {    
-						var keyval = list[item].split('=');
-						queryString[keyval[0]] = keyval[1];
-					}
+				}
+				
+				for (var item in list) {    
+					var keyval = list[item].split('=');
+					queryString[keyval[0]] = keyval[1];
 				}
 				return queryString;
 			}
