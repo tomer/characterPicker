@@ -147,6 +147,7 @@
 			    var stateObj = { 'charMap': filename };
                 history.pushState(stateObj, filename, "?load="+ filename);
 			
+				store('charMap', filename);
 			
 				var list = null;
 
@@ -208,10 +209,15 @@
 				
 				loadState();
 				
-				var filename = queryString['load'];
-				if (filename) {
+				if (queryString['load'] != null) {
+						var filename = queryString['load'];
 				    removeButtons();
 				    loadCharactersMap(filename.slice(filename.lastIndexOf('/')+1));
+				}
+				else if (retrive('charMap') != null) {
+					var filename = retrive('charMap');
+					removeButtons();
+					loadCharactersMap(filename.slice(filename.lastIndexOf('/')+1));
 				}
 				else loadSelectedBlock(document.getElementById('blockSelection'));
 			}
