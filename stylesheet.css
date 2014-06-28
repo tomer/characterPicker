@@ -9,6 +9,8 @@ html {overflow-y: scroll;}
 	padding-bottom: 20px;
 }
 
+#panel fieldset { display: inline; }
+
 #input {
   font-size: 200%; 
   width:100%;

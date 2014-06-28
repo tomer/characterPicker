@@ -13,20 +13,30 @@
 		<p>Use the form below to type your message, and add some characters that are not accessible from your current keyboard mapping from the list below. Please note that you won't see these special characters on other sites unless you have some Unicode 6 compliant fonts installed or thes website itself have loaded the fonts for you.</p>
 		<p>For quick start, you may want to experiment with some <a onclick="loadCharactersFile('0x1f600-emoticons.json')">Emoji glyps</a> or some <a onclick="loadCharactersFile('0x1f300-miscellaneous_symbols_and_pictographs.json')">Pictographs</a>.</p>
 		<div id="panel">
-		<textarea id="input" dir="auto" autofocus onkeyup="updateInputLength()" placeholder="Type here your message…"></textarea>
-<p><button id="clear">Clear</button>
+		<textarea id="input" dir="auto" autofocus onkeyup="updateInputLength()" placeholder="Type your message here…"></textarea>
+		<fieldset>
+			<button id="clear">Clear</button>
 	<button id="tweet" onclick="document.location = 'https://twitter.com/?status='+ encodeURI(document.getElementById('input').value);">Tweet</button>
-	
-        <label for="blockSelection">Active keymap:</label>
+		</fieldset>
+		<fieldset>
+        <legend>Active keymap</legend>
         <select id="blockSelection" onchange="loadSelectedBlock(document.getElementById('blockSelection'));">
             <option value=""></option>
         </select>
-	
-		<label for="style">Show as </label>
-	    <input type="radio" name="style" value="table" checked="checked" onclick="changeListStyle('table')" id="label-table" /><label for="style-table">Table</label>
-	    <input type="radio" name="style" value="list" onclick="changeListStyle('list')" id="label-list"/><label for="label-list">List<label>
-	
-	Input length: <span id="length"></span> <span id="value"></span>
+		</fieldset>
+		<fieldset>
+			<legend>Show as </legend>
+
+			<input type="radio" name="style" value="table" checked="checked" onclick="changeListStyle('table')" id="label-table" />
+			<label for="style-table">Table</label>
+
+	    <input type="radio" name="style" value="list" onclick="changeListStyle('list')" id="label-list"/>
+	    <label for="label-list">List<label>
+		</fieldset>
+		<fieldset>
+			<legend>Input length</legend>
+	<span id="length"></span> <span id="value"></span>
+		</fieldset>
 	</div>
 	
 	<div id="buttons">
