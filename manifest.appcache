@@ -1,9 +1,15 @@
 CACHE MANIFEST
-# v1.0.5 ש' יונ 28 18:55:52 IDT 2014
+# v1.0.6 Wed Oct 15 01:09:36 IDT 2014
+
+CACHE:
 characterPicker.js
+debug.css
+droid.css
+fonts.html
 index.html
 stylesheet.css
 symbola.css
+DroidSans.ttf
 Symbola601.otf
 Symbola.ttf
 res/0x0-basic_latin.json
@@ -259,3 +265,6 @@ res/0xfe70-arabic_presentation_forms-b.json
 res/0xff00-halfwidth_and_fullwidth_forms.json
 res/0xfff0-specials.json
 res/list.json
+
+NETWORK:
+*
