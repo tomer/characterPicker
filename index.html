@@ -10,8 +10,7 @@
 
 	<body id="body" onload="start();">
 		<h1>Unicode characters picker</h1>
-		<p>Use the form below to type your message, and add some characters that are not accessible from your current keyboard mapping from the list below. Please note that you won't see these special characters on other sites unless you have some Unicode 6 compliant fonts installed or thes website itself have loaded the fonts for you.</p>
-		<p>For quick start, you may want to experiment with some <a onclick="loadCharactersFile('0x1f600-emoticons.json')">Emoji glyps</a> or some <a onclick="loadCharactersFile('0x1f300-miscellaneous_symbols_and_pictographs.json')">Pictographs</a>.</p>
+		<p>For quick start, you may want to experiment with some <a onclick="loadCharactersFile('0x1f600-emoticons.json')" href="#?load=0x1f600-emoticons.json">Emoji glyps</a> or some <a onclick="loadCharactersFile('0x1f300-miscellaneous_symbols_and_pictographs.json')" href="#?load=0x1f300-miscellaneous_symbols_and_pictographs.json">Pictographs</a>.</p>
 		<div id="panel">
 		<textarea id="input" dir="auto" autofocus onkeyup="updateInputLength()" placeholder="Type your message here…"></textarea>
 		<fieldset>
