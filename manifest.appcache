@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# v1.0.6 Thu Oct 16 16:22:19 IDT 2014
+# v1.0.6 Thu Oct 16 16:42:45 IDT 2014
 
 CACHE:
 characterPicker.js
@@ -7,6 +7,7 @@ index.html
 stylesheet.css
 symbola.css
 Symbola601.otf
+Symbola_hint.ttf
 Symbola.ttf
 res/0x0-basic_latin.json
 res/0x100000-supplementary_private_use_area-b.json
