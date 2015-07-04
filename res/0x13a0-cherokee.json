@@ -765,6 +765,41 @@
                 "charcode": "0x13f4", 
                 "description": "", 
                 "title": "CHEROKEE LETTER YV"
+            }, 
+            {
+                "charcode": "0x13f5", 
+                "description": "", 
+                "title": "CHEROKEE LETTER MV"
+            }, 
+            {
+                "charcode": "0x13f8", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER YE"
+            }, 
+            {
+                "charcode": "0x13f9", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER YI"
+            }, 
+            {
+                "charcode": "0x13fa", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER YO"
+            }, 
+            {
+                "charcode": "0x13fb", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER YU"
+            }, 
+            {
+                "charcode": "0x13fc", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER YV"
+            }, 
+            {
+                "charcode": "0x13fd", 
+                "description": "", 
+                "title": "CHEROKEE SMALL LETTER MV"
             }
         ], 
         "name": "Cherokee"

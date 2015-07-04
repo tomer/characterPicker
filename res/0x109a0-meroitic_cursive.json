@@ -218,6 +218,16 @@
                 "title": "MEROITIC CURSIVE LETTER DA"
             }, 
             {
+                "charcode": "0x109bc", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE FRACTION ELEVEN TWELFTHS"
+            }, 
+            {
+                "charcode": "0x109bd", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE FRACTION ONE HALF"
+            }, 
+            {
                 "cat1": "Logograph", 
                 "cat2": "", 
                 "cat3": "", 
@@ -234,6 +244,311 @@
                 "charcode": "0x109bf", 
                 "description": "", 
                 "title": "MEROITIC CURSIVE LOGOGRAM IMN"
+            }, 
+            {
+                "charcode": "0x109c0", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER ONE"
+            }, 
+            {
+                "charcode": "0x109c1", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER TWO"
+            }, 
+            {
+                "charcode": "0x109c2", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER THREE"
+            }, 
+            {
+                "charcode": "0x109c3", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FOUR"
+            }, 
+            {
+                "charcode": "0x109c4", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FIVE"
+            }, 
+            {
+                "charcode": "0x109c5", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SIX"
+            }, 
+            {
+                "charcode": "0x109c6", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SEVEN"
+            }, 
+            {
+                "charcode": "0x109c7", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER EIGHT"
+            }, 
+            {
+                "charcode": "0x109c8", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER NINE"
+            }, 
+            {
+                "charcode": "0x109c9", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER TEN"
+            }, 
+            {
+                "charcode": "0x109ca", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER TWENTY"
+            }, 
+            {
+                "charcode": "0x109cb", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER THIRTY"
+            }, 
+            {
+                "charcode": "0x109cc", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FORTY"
+            }, 
+            {
+                "charcode": "0x109cd", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FIFTY"
+            }, 
+            {
+                "charcode": "0x109ce", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SIXTY"
+            }, 
+            {
+                "charcode": "0x109cf", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SEVENTY"
+            }, 
+            {
+                "charcode": "0x109d2", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER ONE HUNDRED"
+            }, 
+            {
+                "charcode": "0x109d3", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER TWO HUNDRED"
+            }, 
+            {
+                "charcode": "0x109d4", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER THREE HUNDRED"
+            }, 
+            {
+                "charcode": "0x109d5", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FOUR HUNDRED"
+            }, 
+            {
+                "charcode": "0x109d6", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FIVE HUNDRED"
+            }, 
+            {
+                "charcode": "0x109d7", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SIX HUNDRED"
+            }, 
+            {
+                "charcode": "0x109d8", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SEVEN HUNDRED"
+            }, 
+            {
+                "charcode": "0x109d9", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER EIGHT HUNDRED"
+            }, 
+            {
+                "charcode": "0x109da", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER NINE HUNDRED"
+            }, 
+            {
+                "charcode": "0x109db", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER ONE THOUSAND"
+            }, 
+            {
+                "charcode": "0x109dc", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER TWO THOUSAND"
+            }, 
+            {
+                "charcode": "0x109dd", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER THREE THOUSAND"
+            }, 
+            {
+                "charcode": "0x109de", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FOUR THOUSAND"
+            }, 
+            {
+                "charcode": "0x109df", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FIVE THOUSAND"
+            }, 
+            {
+                "charcode": "0x109e0", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SIX THOUSAND"
+            }, 
+            {
+                "charcode": "0x109e1", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SEVEN THOUSAND"
+            }, 
+            {
+                "charcode": "0x109e2", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER EIGHT THOUSAND"
+            }, 
+            {
+                "charcode": "0x109e3", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER NINE THOUSAND"
+            }, 
+            {
+                "charcode": "0x109e4", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER TEN THOUSAND"
+            }, 
+            {
+                "charcode": "0x109e5", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER TWENTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x109e6", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER THIRTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x109e7", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FORTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x109e8", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FIFTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x109e9", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SIXTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x109ea", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SEVENTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x109eb", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER EIGHTY THOUSAND"
+            }, 
+            {
+                "charcode": "0x109ec", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER NINETY THOUSAND"
+            }, 
+            {
+                "charcode": "0x109ed", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER ONE HUNDRED THOUSAND"
+            }, 
+            {
+                "charcode": "0x109ee", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER TWO HUNDRED THOUSAND"
+            }, 
+            {
+                "charcode": "0x109ef", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER THREE HUNDRED THOUSAND"
+            }, 
+            {
+                "charcode": "0x109f0", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FOUR HUNDRED THOUSAND"
+            }, 
+            {
+                "charcode": "0x109f1", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER FIVE HUNDRED THOUSAND"
+            }, 
+            {
+                "charcode": "0x109f2", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SIX HUNDRED THOUSAND"
+            }, 
+            {
+                "charcode": "0x109f3", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER SEVEN HUNDRED THOUSAND"
+            }, 
+            {
+                "charcode": "0x109f4", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER EIGHT HUNDRED THOUSAND"
+            }, 
+            {
+                "charcode": "0x109f5", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE NUMBER NINE HUNDRED THOUSAND"
+            }, 
+            {
+                "charcode": "0x109f6", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE FRACTION ONE TWELFTH"
+            }, 
+            {
+                "charcode": "0x109f7", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE FRACTION TWO TWELFTHS"
+            }, 
+            {
+                "charcode": "0x109f8", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE FRACTION THREE TWELFTHS"
+            }, 
+            {
+                "charcode": "0x109f9", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE FRACTION FOUR TWELFTHS"
+            }, 
+            {
+                "charcode": "0x109fa", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE FRACTION FIVE TWELFTHS"
+            }, 
+            {
+                "charcode": "0x109fb", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE FRACTION SIX TWELFTHS"
+            }, 
+            {
+                "charcode": "0x109fc", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE FRACTION SEVEN TWELFTHS"
+            }, 
+            {
+                "charcode": "0x109fd", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE FRACTION EIGHT TWELFTHS"
+            }, 
+            {
+                "charcode": "0x109fe", 
+                "description": "", 
+                "title": "MEROITIC CURSIVE FRACTION NINE TWELFTHS"
             }
         ], 
         "name": "Meroitic Cursive"

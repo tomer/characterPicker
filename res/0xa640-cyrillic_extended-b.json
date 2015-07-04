@@ -822,6 +822,11 @@
                 "charcode": "0xa69d", 
                 "description": "", 
                 "title": "MODIFIER LETTER CYRILLIC SOFT SIGN"
+            }, 
+            {
+                "charcode": "0xa69e", 
+                "description": "", 
+                "title": "COMBINING CYRILLIC LETTER EF"
             }
         ], 
         "name": "Cyrillic Extended-B"

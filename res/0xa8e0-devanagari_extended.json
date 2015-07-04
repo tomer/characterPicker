@@ -252,6 +252,16 @@
                 "charcode": "0xa8fb", 
                 "description": "", 
                 "title": "DEVANAGARI HEADSTROKE"
+            }, 
+            {
+                "charcode": "0xa8fc", 
+                "description": "", 
+                "title": "DEVANAGARI SIGN SIDDHAM"
+            }, 
+            {
+                "charcode": "0xa8fd", 
+                "description": "", 
+                "title": "DEVANAGARI JAIN OM"
             }
         ], 
         "name": "Devanagari Extended"

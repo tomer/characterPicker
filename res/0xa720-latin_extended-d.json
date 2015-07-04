@@ -1001,6 +1001,11 @@
                 "title": "LATIN SMALL LETTER L WITH RETROFLEX HOOK AND BELT"
             }, 
             {
+                "charcode": "0xa78f", 
+                "description": "", 
+                "title": "LATIN LETTER SINOLOGICAL DOT"
+            }, 
+            {
                 "cat1": "Letter", 
                 "cat2": "", 
                 "cat3": "", 
@@ -1219,6 +1224,36 @@
                 "charcode": "0xa7b1", 
                 "description": "", 
                 "title": "LATIN CAPITAL LETTER TURNED T"
+            }, 
+            {
+                "charcode": "0xa7b2", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER J WITH CROSSED-TAIL"
+            }, 
+            {
+                "charcode": "0xa7b3", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER CHI"
+            }, 
+            {
+                "charcode": "0xa7b4", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER BETA"
+            }, 
+            {
+                "charcode": "0xa7b5", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER BETA"
+            }, 
+            {
+                "charcode": "0xa7b6", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER OMEGA"
+            }, 
+            {
+                "charcode": "0xa7b7", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER OMEGA"
             }, 
             {
                 "charcode": "0xa7f7", 

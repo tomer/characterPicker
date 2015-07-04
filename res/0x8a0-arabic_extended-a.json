@@ -145,6 +145,21 @@
                 "title": "ARABIC LETTER ZAIN WITH INVERTED V ABOVE"
             }, 
             {
+                "charcode": "0x8b3", 
+                "description": "", 
+                "title": "ARABIC LETTER AIN WITH THREE DOTS BELOW"
+            }, 
+            {
+                "charcode": "0x8b4", 
+                "description": "", 
+                "title": "ARABIC LETTER KAF WITH DOT BELOW"
+            }, 
+            {
+                "charcode": "0x8e3", 
+                "description": "", 
+                "title": "ARABIC TURNED DAMMA BELOW"
+            }, 
+            {
                 "cat1": "Mark", 
                 "cat2": "Point", 
                 "cat3": "", 

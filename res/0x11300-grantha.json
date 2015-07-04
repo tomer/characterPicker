@@ -2,6 +2,11 @@
     {
         "content": [
             {
+                "charcode": "0x11300", 
+                "description": "", 
+                "title": "GRANTHA SIGN COMBINING ANUSVARA ABOVE"
+            }, 
+            {
                 "charcode": "0x11301", 
                 "description": "", 
                 "title": "GRANTHA SIGN CANDRABINDU"
@@ -315,6 +320,11 @@
                 "charcode": "0x1134d", 
                 "description": "", 
                 "title": "GRANTHA SIGN VIRAMA"
+            }, 
+            {
+                "charcode": "0x11350", 
+                "description": "", 
+                "title": "GRANTHA OM"
             }, 
             {
                 "charcode": "0x11357", 

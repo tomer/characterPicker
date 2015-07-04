@@ -4,6 +4,11 @@
         "start": 65792, 
         "title": "Aegean Numbers"
     }, 
+    "Ahom": {
+        "filename": "0x11700-ahom.json", 
+        "start": 71424, 
+        "title": "Ahom"
+    }, 
     "Alchemical Symbols": {
         "filename": "0x1f700-alchemical_symbols.json", 
         "start": 128768, 
@@ -13,6 +18,11 @@
         "filename": "0xfb00-alphabetic_presentation_forms.json", 
         "start": 64256, 
         "title": "Alphabetic Presentation Forms"
+    }, 
+    "Anatolian Hieroglyphs": {
+        "filename": "0x14400-anatolian_hieroglyphs.json", 
+        "start": 82944, 
+        "title": "Anatolian Hieroglyphs"
     }, 
     "Ancient Greek Musical Notation": {
         "filename": "0x1d200-ancient_greek_musical_notation.json", 
@@ -214,6 +224,11 @@
         "start": 177984, 
         "title": "CJK Unified Ideographs Extension D"
     }, 
+    "CJK Unified Ideographs Extension E": {
+        "filename": "0x2b820-cjk_unified_ideographs_extension_e.json", 
+        "start": 178208, 
+        "title": "CJK Unified Ideographs Extension E"
+    }, 
     "Carian": {
         "filename": "0x102a0-carian.json", 
         "start": 66208, 
@@ -238,6 +253,11 @@
         "filename": "0x13a0-cherokee.json", 
         "start": 5024, 
         "title": "Cherokee"
+    }, 
+    "Cherokee Supplement": {
+        "filename": "0xab70-cherokee_supplement.json", 
+        "start": 43888, 
+        "title": "Cherokee Supplement"
     }, 
     "Combining Diacritical Marks": {
         "filename": "0x300-combining_diacritical_marks.json", 
@@ -358,6 +378,11 @@
         "filename": "0x1bc00-duployan.json", 
         "start": 113664, 
         "title": "Duployan"
+    }, 
+    "Early Dynastic Cuneiform": {
+        "filename": "0x12480-early_dynastic_cuneiform.json", 
+        "start": 74880, 
+        "title": "Early Dynastic Cuneiform"
     }, 
     "Egyptian Hieroglyphs": {
         "filename": "0x13000-egyptian_hieroglyphs.json", 
@@ -508,6 +533,11 @@
         "filename": "0x1720-hanunoo.json", 
         "start": 5920, 
         "title": "Hanunoo"
+    }, 
+    "Hatran": {
+        "filename": "0x108e0-hatran.json", 
+        "start": 67808, 
+        "title": "Hatran"
     }, 
     "Hebrew": {
         "filename": "0x590-hebrew.json", 
@@ -829,6 +859,11 @@
         "start": 92736, 
         "title": "Mro"
     }, 
+    "Multani": {
+        "filename": "0x11280-multani.json", 
+        "start": 70272, 
+        "title": "Multani"
+    }, 
     "Musical Symbols": {
         "filename": "0x1d100-musical_symbols.json", 
         "start": 119040, 
@@ -878,6 +913,11 @@
         "filename": "0x1c50-ol_chiki.json", 
         "start": 7248, 
         "title": "Ol Chiki"
+    }, 
+    "Old Hungarian": {
+        "filename": "0x10c80-old_hungarian.json", 
+        "start": 68736, 
+        "title": "Old Hungarian"
     }, 
     "Old Italic": {
         "filename": "0x10300-old_italic.json", 
@@ -1099,6 +1139,11 @@
         "start": 11776, 
         "title": "Supplemental Punctuation"
     }, 
+    "Supplemental Symbols and Pictographs": {
+        "filename": "0x1f900-supplemental_symbols_and_pictographs.json", 
+        "start": 129280, 
+        "title": "Supplemental Symbols and Pictographs"
+    }, 
     "Supplementary Private Use Area-A": {
         "filename": "0xf0000-supplementary_private_use_area-a.json", 
         "start": 983040, 
@@ -1108,6 +1153,11 @@
         "filename": "0x100000-supplementary_private_use_area-b.json", 
         "start": 1048576, 
         "title": "Supplementary Private Use Area-B"
+    }, 
+    "Sutton SignWriting": {
+        "filename": "0x1d800-sutton_signwriting.json", 
+        "start": 120832, 
+        "title": "Sutton SignWriting"
     }, 
     "Syloti Nagri": {
         "filename": "0xa800-syloti_nagri.json", 

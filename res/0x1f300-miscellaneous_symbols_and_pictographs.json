@@ -359,6 +359,21 @@
                 "title": "WIND BLOWING FACE"
             }, 
             {
+                "charcode": "0x1f32d", 
+                "description": "", 
+                "title": "HOT DOG"
+            }, 
+            {
+                "charcode": "0x1f32e", 
+                "description": "", 
+                "title": "TACO"
+            }, 
+            {
+                "charcode": "0x1f32f", 
+                "description": "", 
+                "title": "BURRITO"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Plant", 
                 "cat3": "", 
@@ -1053,6 +1068,16 @@
                 "title": "FORK AND KNIFE WITH PLATE"
             }, 
             {
+                "charcode": "0x1f37e", 
+                "description": "", 
+                "title": "BOTTLE WITH POPPING CORK"
+            }, 
+            {
+                "charcode": "0x1f37f", 
+                "description": "", 
+                "title": "POPCORN"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Celebration", 
                 "cat3": "", 
@@ -1696,6 +1721,31 @@
                 "title": "RACING CAR"
             }, 
             {
+                "charcode": "0x1f3cf", 
+                "description": "", 
+                "title": "CRICKET BAT AND BALL"
+            }, 
+            {
+                "charcode": "0x1f3d0", 
+                "description": "", 
+                "title": "VOLLEYBALL"
+            }, 
+            {
+                "charcode": "0x1f3d1", 
+                "description": "", 
+                "title": "FIELD HOCKEY STICK AND BALL"
+            }, 
+            {
+                "charcode": "0x1f3d2", 
+                "description": "", 
+                "title": "ICE HOCKEY STICK AND PUCK"
+            }, 
+            {
+                "charcode": "0x1f3d3", 
+                "description": "", 
+                "title": "TABLE TENNIS PADDLE AND BALL"
+            }, 
+            {
                 "charcode": "0x1f3d4", 
                 "description": "", 
                 "title": "SNOW CAPPED MOUNTAIN"
@@ -1942,6 +1992,46 @@
                 "charcode": "0x1f3f7", 
                 "description": "", 
                 "title": "LABEL"
+            }, 
+            {
+                "charcode": "0x1f3f8", 
+                "description": "", 
+                "title": "BADMINTON RACQUET AND SHUTTLECOCK"
+            }, 
+            {
+                "charcode": "0x1f3f9", 
+                "description": "", 
+                "title": "BOW AND ARROW"
+            }, 
+            {
+                "charcode": "0x1f3fa", 
+                "description": "", 
+                "title": "AMPHORA"
+            }, 
+            {
+                "charcode": "0x1f3fb", 
+                "description": "", 
+                "title": "EMOJI MODIFIER FITZPATRICK TYPE-1-2"
+            }, 
+            {
+                "charcode": "0x1f3fc", 
+                "description": "", 
+                "title": "EMOJI MODIFIER FITZPATRICK TYPE-3"
+            }, 
+            {
+                "charcode": "0x1f3fd", 
+                "description": "", 
+                "title": "EMOJI MODIFIER FITZPATRICK TYPE-4"
+            }, 
+            {
+                "charcode": "0x1f3fe", 
+                "description": "", 
+                "title": "EMOJI MODIFIER FITZPATRICK TYPE-5"
+            }, 
+            {
+                "charcode": "0x1f3ff", 
+                "description": "", 
+                "title": "EMOJI MODIFIER FITZPATRICK TYPE-6"
             }, 
             {
                 "cat1": "Symbol", 
@@ -4219,6 +4309,11 @@
                 "title": "PORTABLE STEREO"
             }, 
             {
+                "charcode": "0x1f4ff", 
+                "description": "", 
+                "title": "PRAYER BEADS"
+            }, 
+            {
                 "cat1": "Symbol", 
                 "cat2": "Technical", 
                 "cat3": "Interface", 
@@ -4856,6 +4951,31 @@
                 "charcode": "0x1f54a", 
                 "description": "", 
                 "title": "DOVE OF PEACE"
+            }, 
+            {
+                "charcode": "0x1f54b", 
+                "description": "", 
+                "title": "KAABA"
+            }, 
+            {
+                "charcode": "0x1f54c", 
+                "description": "", 
+                "title": "MOSQUE"
+            }, 
+            {
+                "charcode": "0x1f54d", 
+                "description": "", 
+                "title": "SYNAGOGUE"
+            }, 
+            {
+                "charcode": "0x1f54e", 
+                "description": "", 
+                "title": "MENORAH WITH NINE BRANCHES"
+            }, 
+            {
+                "charcode": "0x1f54f", 
+                "description": "", 
+                "title": "BOWL OF HYGIEIA"
             }, 
             {
                 "cat1": "Symbol", 

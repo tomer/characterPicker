@@ -1980,6 +1980,61 @@
                 "charcode": "0x1d1dd", 
                 "description": "", 
                 "title": "MUSICAL SYMBOL PES SUBPUNCTIS"
+            }, 
+            {
+                "charcode": "0x1d1de", 
+                "description": "", 
+                "title": "MUSICAL SYMBOL KIEVAN C CLEF"
+            }, 
+            {
+                "charcode": "0x1d1df", 
+                "description": "", 
+                "title": "MUSICAL SYMBOL KIEVAN END OF PIECE"
+            }, 
+            {
+                "charcode": "0x1d1e0", 
+                "description": "", 
+                "title": "MUSICAL SYMBOL KIEVAN FINAL NOTE"
+            }, 
+            {
+                "charcode": "0x1d1e1", 
+                "description": "", 
+                "title": "MUSICAL SYMBOL KIEVAN RECITATIVE MARK"
+            }, 
+            {
+                "charcode": "0x1d1e2", 
+                "description": "", 
+                "title": "MUSICAL SYMBOL KIEVAN WHOLE NOTE"
+            }, 
+            {
+                "charcode": "0x1d1e3", 
+                "description": "", 
+                "title": "MUSICAL SYMBOL KIEVAN HALF NOTE"
+            }, 
+            {
+                "charcode": "0x1d1e4", 
+                "description": "", 
+                "title": "MUSICAL SYMBOL KIEVAN QUARTER NOTE STEM DOWN"
+            }, 
+            {
+                "charcode": "0x1d1e5", 
+                "description": "", 
+                "title": "MUSICAL SYMBOL KIEVAN QUARTER NOTE STEM UP"
+            }, 
+            {
+                "charcode": "0x1d1e6", 
+                "description": "", 
+                "title": "MUSICAL SYMBOL KIEVAN EIGHTH NOTE STEM DOWN"
+            }, 
+            {
+                "charcode": "0x1d1e7", 
+                "description": "", 
+                "title": "MUSICAL SYMBOL KIEVAN EIGHTH NOTE STEM UP"
+            }, 
+            {
+                "charcode": "0x1d1e8", 
+                "description": "", 
+                "title": "MUSICAL SYMBOL KIEVAN FLAT SIGN"
             }
         ], 
         "name": "Musical Symbols"

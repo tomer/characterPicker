@@ -254,6 +254,11 @@
                 "charcode": "0x20bd", 
                 "description": "", 
                 "title": "RUBLE SIGN"
+            }, 
+            {
+                "charcode": "0x20be", 
+                "description": "", 
+                "title": "LARI SIGN"
             }
         ], 
         "name": "Currency Symbols"

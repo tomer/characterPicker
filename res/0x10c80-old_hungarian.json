@@ -1,0 +1,542 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x10c80", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER A"
+            }, 
+            {
+                "charcode": "0x10c81", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER AA"
+            }, 
+            {
+                "charcode": "0x10c82", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EB"
+            }, 
+            {
+                "charcode": "0x10c83", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER AMB"
+            }, 
+            {
+                "charcode": "0x10c84", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EC"
+            }, 
+            {
+                "charcode": "0x10c85", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ENC"
+            }, 
+            {
+                "charcode": "0x10c86", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ECS"
+            }, 
+            {
+                "charcode": "0x10c87", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ED"
+            }, 
+            {
+                "charcode": "0x10c88", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER AND"
+            }, 
+            {
+                "charcode": "0x10c89", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER E"
+            }, 
+            {
+                "charcode": "0x10c8a", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER CLOSE E"
+            }, 
+            {
+                "charcode": "0x10c8b", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EE"
+            }, 
+            {
+                "charcode": "0x10c8c", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EF"
+            }, 
+            {
+                "charcode": "0x10c8d", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EG"
+            }, 
+            {
+                "charcode": "0x10c8e", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EGY"
+            }, 
+            {
+                "charcode": "0x10c8f", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EH"
+            }, 
+            {
+                "charcode": "0x10c90", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER I"
+            }, 
+            {
+                "charcode": "0x10c91", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER II"
+            }, 
+            {
+                "charcode": "0x10c92", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EJ"
+            }, 
+            {
+                "charcode": "0x10c93", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EK"
+            }, 
+            {
+                "charcode": "0x10c94", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER AK"
+            }, 
+            {
+                "charcode": "0x10c95", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER UNK"
+            }, 
+            {
+                "charcode": "0x10c96", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EL"
+            }, 
+            {
+                "charcode": "0x10c97", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ELY"
+            }, 
+            {
+                "charcode": "0x10c98", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EM"
+            }, 
+            {
+                "charcode": "0x10c99", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EN"
+            }, 
+            {
+                "charcode": "0x10c9a", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ENY"
+            }, 
+            {
+                "charcode": "0x10c9b", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER O"
+            }, 
+            {
+                "charcode": "0x10c9c", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER OO"
+            }, 
+            {
+                "charcode": "0x10c9d", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER NIKOLSBURG OE"
+            }, 
+            {
+                "charcode": "0x10c9e", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER RUDIMENTA OE"
+            }, 
+            {
+                "charcode": "0x10c9f", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER OEE"
+            }, 
+            {
+                "charcode": "0x10ca0", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EP"
+            }, 
+            {
+                "charcode": "0x10ca1", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EMP"
+            }, 
+            {
+                "charcode": "0x10ca2", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ER"
+            }, 
+            {
+                "charcode": "0x10ca3", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER SHORT ER"
+            }, 
+            {
+                "charcode": "0x10ca4", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ES"
+            }, 
+            {
+                "charcode": "0x10ca5", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ESZ"
+            }, 
+            {
+                "charcode": "0x10ca6", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ET"
+            }, 
+            {
+                "charcode": "0x10ca7", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ENT"
+            }, 
+            {
+                "charcode": "0x10ca8", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ETY"
+            }, 
+            {
+                "charcode": "0x10ca9", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ECH"
+            }, 
+            {
+                "charcode": "0x10caa", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER U"
+            }, 
+            {
+                "charcode": "0x10cab", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER UU"
+            }, 
+            {
+                "charcode": "0x10cac", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER NIKOLSBURG UE"
+            }, 
+            {
+                "charcode": "0x10cad", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER RUDIMENTA UE"
+            }, 
+            {
+                "charcode": "0x10cae", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EV"
+            }, 
+            {
+                "charcode": "0x10caf", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EZ"
+            }, 
+            {
+                "charcode": "0x10cb0", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER EZS"
+            }, 
+            {
+                "charcode": "0x10cb1", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER ENT-SHAPED SIGN"
+            }, 
+            {
+                "charcode": "0x10cb2", 
+                "description": "", 
+                "title": "OLD HUNGARIAN CAPITAL LETTER US"
+            }, 
+            {
+                "charcode": "0x10cc0", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER A"
+            }, 
+            {
+                "charcode": "0x10cc1", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER AA"
+            }, 
+            {
+                "charcode": "0x10cc2", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EB"
+            }, 
+            {
+                "charcode": "0x10cc3", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER AMB"
+            }, 
+            {
+                "charcode": "0x10cc4", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EC"
+            }, 
+            {
+                "charcode": "0x10cc5", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ENC"
+            }, 
+            {
+                "charcode": "0x10cc6", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ECS"
+            }, 
+            {
+                "charcode": "0x10cc7", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ED"
+            }, 
+            {
+                "charcode": "0x10cc8", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER AND"
+            }, 
+            {
+                "charcode": "0x10cc9", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER E"
+            }, 
+            {
+                "charcode": "0x10cca", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER CLOSE E"
+            }, 
+            {
+                "charcode": "0x10ccb", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EE"
+            }, 
+            {
+                "charcode": "0x10ccc", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EF"
+            }, 
+            {
+                "charcode": "0x10ccd", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EG"
+            }, 
+            {
+                "charcode": "0x10cce", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EGY"
+            }, 
+            {
+                "charcode": "0x10ccf", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EH"
+            }, 
+            {
+                "charcode": "0x10cd0", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER I"
+            }, 
+            {
+                "charcode": "0x10cd1", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER II"
+            }, 
+            {
+                "charcode": "0x10cd2", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EJ"
+            }, 
+            {
+                "charcode": "0x10cd3", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EK"
+            }, 
+            {
+                "charcode": "0x10cd4", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER AK"
+            }, 
+            {
+                "charcode": "0x10cd5", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER UNK"
+            }, 
+            {
+                "charcode": "0x10cd6", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EL"
+            }, 
+            {
+                "charcode": "0x10cd7", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ELY"
+            }, 
+            {
+                "charcode": "0x10cd8", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EM"
+            }, 
+            {
+                "charcode": "0x10cd9", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EN"
+            }, 
+            {
+                "charcode": "0x10cda", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ENY"
+            }, 
+            {
+                "charcode": "0x10cdb", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER O"
+            }, 
+            {
+                "charcode": "0x10cdc", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER OO"
+            }, 
+            {
+                "charcode": "0x10cdd", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER NIKOLSBURG OE"
+            }, 
+            {
+                "charcode": "0x10cde", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER RUDIMENTA OE"
+            }, 
+            {
+                "charcode": "0x10cdf", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER OEE"
+            }, 
+            {
+                "charcode": "0x10ce0", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EP"
+            }, 
+            {
+                "charcode": "0x10ce1", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EMP"
+            }, 
+            {
+                "charcode": "0x10ce2", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ER"
+            }, 
+            {
+                "charcode": "0x10ce3", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER SHORT ER"
+            }, 
+            {
+                "charcode": "0x10ce4", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ES"
+            }, 
+            {
+                "charcode": "0x10ce5", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ESZ"
+            }, 
+            {
+                "charcode": "0x10ce6", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ET"
+            }, 
+            {
+                "charcode": "0x10ce7", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ENT"
+            }, 
+            {
+                "charcode": "0x10ce8", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ETY"
+            }, 
+            {
+                "charcode": "0x10ce9", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ECH"
+            }, 
+            {
+                "charcode": "0x10cea", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER U"
+            }, 
+            {
+                "charcode": "0x10ceb", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER UU"
+            }, 
+            {
+                "charcode": "0x10cec", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER NIKOLSBURG UE"
+            }, 
+            {
+                "charcode": "0x10ced", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER RUDIMENTA UE"
+            }, 
+            {
+                "charcode": "0x10cee", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EV"
+            }, 
+            {
+                "charcode": "0x10cef", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EZ"
+            }, 
+            {
+                "charcode": "0x10cf0", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER EZS"
+            }, 
+            {
+                "charcode": "0x10cf1", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER ENT-SHAPED SIGN"
+            }, 
+            {
+                "charcode": "0x10cf2", 
+                "description": "", 
+                "title": "OLD HUNGARIAN SMALL LETTER US"
+            }, 
+            {
+                "charcode": "0x10cfa", 
+                "description": "", 
+                "title": "OLD HUNGARIAN NUMBER ONE"
+            }, 
+            {
+                "charcode": "0x10cfb", 
+                "description": "", 
+                "title": "OLD HUNGARIAN NUMBER FIVE"
+            }, 
+            {
+                "charcode": "0x10cfc", 
+                "description": "", 
+                "title": "OLD HUNGARIAN NUMBER TEN"
+            }, 
+            {
+                "charcode": "0x10cfd", 
+                "description": "", 
+                "title": "OLD HUNGARIAN NUMBER FIFTY"
+            }, 
+            {
+                "charcode": "0x10cfe", 
+                "description": "", 
+                "title": "OLD HUNGARIAN NUMBER ONE HUNDRED"
+            }
+        ], 
+        "name": "Old Hungarian"
+    }
+]

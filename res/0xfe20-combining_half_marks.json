@@ -98,6 +98,11 @@
                 "charcode": "0xfe2d", 
                 "description": "", 
                 "title": "COMBINING CONJOINING MACRON BELOW"
+            }, 
+            {
+                "charcode": "0xfe2e", 
+                "description": "", 
+                "title": "COMBINING CYRILLIC TITLO LEFT HALF"
             }
         ], 
         "name": "Combining Half Marks"

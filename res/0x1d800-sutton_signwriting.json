@@ -1,0 +1,3362 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1d800", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX"
+            }, 
+            {
+                "charcode": "0x1d801", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE INDEX"
+            }, 
+            {
+                "charcode": "0x1d802", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP INDEX"
+            }, 
+            {
+                "charcode": "0x1d803", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-OVAL INDEX"
+            }, 
+            {
+                "charcode": "0x1d804", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE INDEX"
+            }, 
+            {
+                "charcode": "0x1d805", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE INDEX"
+            }, 
+            {
+                "charcode": "0x1d806", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX BENT"
+            }, 
+            {
+                "charcode": "0x1d807", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE INDEX BENT"
+            }, 
+            {
+                "charcode": "0x1d808", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB UNDER INDEX BENT"
+            }, 
+            {
+                "charcode": "0x1d809", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX RAISED KNUCKLE"
+            }, 
+            {
+                "charcode": "0x1d80a", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX CUPPED"
+            }, 
+            {
+                "charcode": "0x1d80b", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX HINGED"
+            }, 
+            {
+                "charcode": "0x1d80c", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX HINGED LOW"
+            }, 
+            {
+                "charcode": "0x1d80d", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE INDEX HINGE"
+            }, 
+            {
+                "charcode": "0x1d80e", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE"
+            }, 
+            {
+                "charcode": "0x1d80f", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE INDEX MIDDLE"
+            }, 
+            {
+                "charcode": "0x1d810", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE BENT"
+            }, 
+            {
+                "charcode": "0x1d811", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE RAISED KNUCKLES"
+            }, 
+            {
+                "charcode": "0x1d812", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE HINGED"
+            }, 
+            {
+                "charcode": "0x1d813", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX UP MIDDLE HINGED"
+            }, 
+            {
+                "charcode": "0x1d814", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX HINGED MIDDLE UP"
+            }, 
+            {
+                "charcode": "0x1d815", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d816", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CONJOINED INDEX BENT"
+            }, 
+            {
+                "charcode": "0x1d817", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CONJOINED MIDDLE BENT"
+            }, 
+            {
+                "charcode": "0x1d818", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CONJOINED CUPPED"
+            }, 
+            {
+                "charcode": "0x1d819", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CONJOINED HINGED"
+            }, 
+            {
+                "charcode": "0x1d81a", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CROSSED"
+            }, 
+            {
+                "charcode": "0x1d81b", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE INDEX MIDDLE CROSSED"
+            }, 
+            {
+                "charcode": "0x1d81c", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE BENT OVER INDEX"
+            }, 
+            {
+                "charcode": "0x1d81d", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX BENT OVER MIDDLE"
+            }, 
+            {
+                "charcode": "0x1d81e", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE THUMB"
+            }, 
+            {
+                "charcode": "0x1d81f", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE INDEX MIDDLE THUMB"
+            }, 
+            {
+                "charcode": "0x1d820", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE STRAIGHT THUMB BENT"
+            }, 
+            {
+                "charcode": "0x1d821", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE BENT THUMB STRAIGHT"
+            }, 
+            {
+                "charcode": "0x1d822", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE THUMB BENT"
+            }, 
+            {
+                "charcode": "0x1d823", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE HINGED SPREAD THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d824", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX UP MIDDLE HINGED THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d825", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX UP MIDDLE HINGED THUMB CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d826", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX HINGED MIDDLE UP THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d827", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE UP SPREAD THUMB FORWARD"
+            }, 
+            {
+                "charcode": "0x1d828", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE THUMB CUPPED"
+            }, 
+            {
+                "charcode": "0x1d829", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE THUMB CIRCLED"
+            }, 
+            {
+                "charcode": "0x1d82a", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE THUMB HOOKED"
+            }, 
+            {
+                "charcode": "0x1d82b", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE THUMB HINGED"
+            }, 
+            {
+                "charcode": "0x1d82c", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB BETWEEN INDEX MIDDLE STRAIGHT"
+            }, 
+            {
+                "charcode": "0x1d82d", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CONJOINED THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d82e", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CONJOINED THUMB SIDE CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d82f", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CONJOINED THUMB SIDE BENT"
+            }, 
+            {
+                "charcode": "0x1d830", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE THUMB HOOKED INDEX UP"
+            }, 
+            {
+                "charcode": "0x1d831", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB HOOKED MIDDLE UP"
+            }, 
+            {
+                "charcode": "0x1d832", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CONJOINED HINGED THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d833", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CROSSED THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d834", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CONJOINED THUMB FORWARD"
+            }, 
+            {
+                "charcode": "0x1d835", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CONJOINED CUPPED THUMB FORWARD"
+            }, 
+            {
+                "charcode": "0x1d836", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE THUMB CUPPED INDEX UP"
+            }, 
+            {
+                "charcode": "0x1d837", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB CUPPED MIDDLE UP"
+            }, 
+            {
+                "charcode": "0x1d838", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE THUMB CIRCLED INDEX UP"
+            }, 
+            {
+                "charcode": "0x1d839", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE THUMB CIRCLED INDEX HINGED"
+            }, 
+            {
+                "charcode": "0x1d83a", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB ANGLED OUT MIDDLE UP"
+            }, 
+            {
+                "charcode": "0x1d83b", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB ANGLED IN MIDDLE UP"
+            }, 
+            {
+                "charcode": "0x1d83c", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB CIRCLED MIDDLE UP"
+            }, 
+            {
+                "charcode": "0x1d83d", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE THUMB CONJOINED HINGED"
+            }, 
+            {
+                "charcode": "0x1d83e", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE THUMB ANGLED OUT"
+            }, 
+            {
+                "charcode": "0x1d83f", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE THUMB ANGLED"
+            }, 
+            {
+                "charcode": "0x1d840", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE THUMB ANGLED OUT INDEX UP"
+            }, 
+            {
+                "charcode": "0x1d841", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE THUMB ANGLED OUT INDEX CROSSED"
+            }, 
+            {
+                "charcode": "0x1d842", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE THUMB ANGLED INDEX UP"
+            }, 
+            {
+                "charcode": "0x1d843", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB HOOKED MIDDLE HINGED"
+            }, 
+            {
+                "charcode": "0x1d844", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FOUR FINGERS"
+            }, 
+            {
+                "charcode": "0x1d845", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FOUR FINGERS BENT"
+            }, 
+            {
+                "charcode": "0x1d846", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FOUR FINGERS HINGED"
+            }, 
+            {
+                "charcode": "0x1d847", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FOUR FINGERS CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d848", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FOUR FINGERS CONJOINED SPLIT"
+            }, 
+            {
+                "charcode": "0x1d849", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CLAW FOUR FINGERS CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d84a", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST FOUR FINGERS CONJOINED BENT"
+            }, 
+            {
+                "charcode": "0x1d84b", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE FOUR FINGERS CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d84c", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FIVE FINGERS SPREAD"
+            }, 
+            {
+                "charcode": "0x1d84d", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT HEEL FIVE FINGERS SPREAD"
+            }, 
+            {
+                "charcode": "0x1d84e", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FIVE FINGERS SPREAD FOUR BENT"
+            }, 
+            {
+                "charcode": "0x1d84f", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT HEEL FIVE FINGERS SPREAD FOUR BENT"
+            }, 
+            {
+                "charcode": "0x1d850", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FIVE FINGERS SPREAD BENT"
+            }, 
+            {
+                "charcode": "0x1d851", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT HEEL FIVE FINGERS SPREAD BENT"
+            }, 
+            {
+                "charcode": "0x1d852", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FIVE FINGERS SPREAD THUMB FORWARD"
+            }, 
+            {
+                "charcode": "0x1d853", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP FIVE FINGERS SPREAD"
+            }, 
+            {
+                "charcode": "0x1d854", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP FIVE FINGERS SPREAD OPEN"
+            }, 
+            {
+                "charcode": "0x1d855", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE FIVE FINGERS SPREAD OPEN"
+            }, 
+            {
+                "charcode": "0x1d856", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-OVAL FIVE FINGERS SPREAD"
+            }, 
+            {
+                "charcode": "0x1d857", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FIVE FINGERS SPREAD HINGED"
+            }, 
+            {
+                "charcode": "0x1d858", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FIVE FINGERS SPREAD HINGED THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d859", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT FIVE FINGERS SPREAD HINGED NO THUMB"
+            }, 
+            {
+                "charcode": "0x1d85a", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT"
+            }, 
+            {
+                "charcode": "0x1d85b", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT BETWEEN PALM FACINGS"
+            }, 
+            {
+                "charcode": "0x1d85c", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT HEEL"
+            }, 
+            {
+                "charcode": "0x1d85d", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d85e", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT HEEL THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d85f", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT THUMB BENT"
+            }, 
+            {
+                "charcode": "0x1d860", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT THUMB FORWARD"
+            }, 
+            {
+                "charcode": "0x1d861", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT SPLIT INDEX THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d862", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT SPLIT CENTRE"
+            }, 
+            {
+                "charcode": "0x1d863", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT SPLIT CENTRE THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d864", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT SPLIT CENTRE THUMB SIDE BENT"
+            }, 
+            {
+                "charcode": "0x1d865", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FLAT SPLIT LITTLE"
+            }, 
+            {
+                "charcode": "0x1d866", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CLAW"
+            }, 
+            {
+                "charcode": "0x1d867", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CLAW THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d868", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CLAW NO THUMB"
+            }, 
+            {
+                "charcode": "0x1d869", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CLAW THUMB FORWARD"
+            }, 
+            {
+                "charcode": "0x1d86a", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HOOK CURLICUE"
+            }, 
+            {
+                "charcode": "0x1d86b", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HOOK"
+            }, 
+            {
+                "charcode": "0x1d86c", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP OPEN"
+            }, 
+            {
+                "charcode": "0x1d86d", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP"
+            }, 
+            {
+                "charcode": "0x1d86e", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP OPEN THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d86f", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d870", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP OPEN NO THUMB"
+            }, 
+            {
+                "charcode": "0x1d871", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP NO THUMB"
+            }, 
+            {
+                "charcode": "0x1d872", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP OPEN THUMB FORWARD"
+            }, 
+            {
+                "charcode": "0x1d873", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP THUMB FORWARD"
+            }, 
+            {
+                "charcode": "0x1d874", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CURLICUE OPEN"
+            }, 
+            {
+                "charcode": "0x1d875", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CURLICUE"
+            }, 
+            {
+                "charcode": "0x1d876", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE"
+            }, 
+            {
+                "charcode": "0x1d877", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-OVAL"
+            }, 
+            {
+                "charcode": "0x1d878", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-OVAL THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d879", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-OVAL NO THUMB"
+            }, 
+            {
+                "charcode": "0x1d87a", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-OVAL THUMB FORWARD"
+            }, 
+            {
+                "charcode": "0x1d87b", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE OPEN"
+            }, 
+            {
+                "charcode": "0x1d87c", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE OPEN THUMB FORWARD"
+            }, 
+            {
+                "charcode": "0x1d87d", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE"
+            }, 
+            {
+                "charcode": "0x1d87e", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE SMALL"
+            }, 
+            {
+                "charcode": "0x1d87f", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE OPEN THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d880", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d881", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE OPEN NO THUMB"
+            }, 
+            {
+                "charcode": "0x1d882", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE NO THUMB"
+            }, 
+            {
+                "charcode": "0x1d883", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE THUMB SIDE TOUCHING INDEX"
+            }, 
+            {
+                "charcode": "0x1d884", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE THUMB BETWEEN MIDDLE RING"
+            }, 
+            {
+                "charcode": "0x1d885", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE"
+            }, 
+            {
+                "charcode": "0x1d886", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE RING"
+            }, 
+            {
+                "charcode": "0x1d887", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE INDEX MIDDLE RING"
+            }, 
+            {
+                "charcode": "0x1d888", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE INDEX MIDDLE RING"
+            }, 
+            {
+                "charcode": "0x1d889", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE INDEX MIDDLE RING"
+            }, 
+            {
+                "charcode": "0x1d88a", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE LITTLE"
+            }, 
+            {
+                "charcode": "0x1d88b", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE RING BENT"
+            }, 
+            {
+                "charcode": "0x1d88c", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE RING CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d88d", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE INDEX MIDDLE RING CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d88e", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST LITTLE DOWN"
+            }, 
+            {
+                "charcode": "0x1d88f", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST LITTLE DOWN RIPPLE STRAIGHT"
+            }, 
+            {
+                "charcode": "0x1d890", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST LITTLE DOWN RIPPLE CURVED"
+            }, 
+            {
+                "charcode": "0x1d891", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST LITTLE DOWN OTHERS CIRCLED"
+            }, 
+            {
+                "charcode": "0x1d892", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST LITTLE UP"
+            }, 
+            {
+                "charcode": "0x1d893", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB UNDER LITTLE UP"
+            }, 
+            {
+                "charcode": "0x1d894", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE LITTLE UP"
+            }, 
+            {
+                "charcode": "0x1d895", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-OVAL LITTLE UP"
+            }, 
+            {
+                "charcode": "0x1d896", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE LITTLE UP"
+            }, 
+            {
+                "charcode": "0x1d897", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST LITTLE RAISED KNUCKLE"
+            }, 
+            {
+                "charcode": "0x1d898", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST LITTLE BENT"
+            }, 
+            {
+                "charcode": "0x1d899", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST LITTLE TOUCHES THUMB"
+            }, 
+            {
+                "charcode": "0x1d89a", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST LITTLE THUMB"
+            }, 
+            {
+                "charcode": "0x1d89b", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE LITTLE THUMB"
+            }, 
+            {
+                "charcode": "0x1d89c", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST LITTLE INDEX THUMB"
+            }, 
+            {
+                "charcode": "0x1d89d", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE LITTLE INDEX THUMB"
+            }, 
+            {
+                "charcode": "0x1d89e", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE LITTLE INDEX THUMB INDEX THUMB OUT"
+            }, 
+            {
+                "charcode": "0x1d89f", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE LITTLE INDEX THUMB INDEX THUMB"
+            }, 
+            {
+                "charcode": "0x1d8a0", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST LITTLE INDEX"
+            }, 
+            {
+                "charcode": "0x1d8a1", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE LITTLE INDEX"
+            }, 
+            {
+                "charcode": "0x1d8a2", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE LITTLE INDEX"
+            }, 
+            {
+                "charcode": "0x1d8a3", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE LITTLE INDEX"
+            }, 
+            {
+                "charcode": "0x1d8a4", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8a5", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE INDEX MIDDLE LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8a6", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE INDEX MIDDLE LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8a7", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE RING"
+            }, 
+            {
+                "charcode": "0x1d8a8", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE INDEX MIDDLE LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8a9", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX MIDDLE CROSS LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8aa", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE INDEX MIDDLE CROSS LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8ab", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST RING DOWN"
+            }, 
+            {
+                "charcode": "0x1d8ac", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE RING DOWN INDEX THUMB HOOK MIDDLE"
+            }, 
+            {
+                "charcode": "0x1d8ad", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE RING DOWN MIDDLE THUMB INDEX CROSS"
+            }, 
+            {
+                "charcode": "0x1d8ae", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST RING UP"
+            }, 
+            {
+                "charcode": "0x1d8af", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST RING RAISED KNUCKLE"
+            }, 
+            {
+                "charcode": "0x1d8b0", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8b1", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8b2", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-OVAL RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8b3", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8b4", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST RING MIDDLE"
+            }, 
+            {
+                "charcode": "0x1d8b5", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST RING MIDDLE CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d8b6", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST RING MIDDLE RAISED KNUCKLES"
+            }, 
+            {
+                "charcode": "0x1d8b7", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST RING INDEX"
+            }, 
+            {
+                "charcode": "0x1d8b8", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST RING THUMB"
+            }, 
+            {
+                "charcode": "0x1d8b9", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HOOK RING THUMB"
+            }, 
+            {
+                "charcode": "0x1d8ba", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8bb", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE INDEX RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8bc", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CURLICUE INDEX RING LITTLE ON"
+            }, 
+            {
+                "charcode": "0x1d8bd", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HOOK INDEX RING LITTLE OUT"
+            }, 
+            {
+                "charcode": "0x1d8be", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HOOK INDEX RING LITTLE IN"
+            }, 
+            {
+                "charcode": "0x1d8bf", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HOOK INDEX RING LITTLE UNDER"
+            }, 
+            {
+                "charcode": "0x1d8c0", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP INDEX RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8c1", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE INDEX RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8c2", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE INDEX RING LITTLE OUT"
+            }, 
+            {
+                "charcode": "0x1d8c3", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE INDEX RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8c4", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE DOWN"
+            }, 
+            {
+                "charcode": "0x1d8c5", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE MIDDLE"
+            }, 
+            {
+                "charcode": "0x1d8c6", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE UP"
+            }, 
+            {
+                "charcode": "0x1d8c7", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE MIDDLE UP"
+            }, 
+            {
+                "charcode": "0x1d8c8", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE RAISED KNUCKLE"
+            }, 
+            {
+                "charcode": "0x1d8c9", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE UP THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d8ca", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HOOK MIDDLE THUMB"
+            }, 
+            {
+                "charcode": "0x1d8cb", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE THUMB LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8cc", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8cd", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST MIDDLE RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8ce", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE MIDDLE RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8cf", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CURLICUE MIDDLE RING LITTLE ON"
+            }, 
+            {
+                "charcode": "0x1d8d0", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP MIDDLE RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8d1", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE MIDDLE RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8d2", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE MIDDLE RING LITTLE OUT"
+            }, 
+            {
+                "charcode": "0x1d8d3", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE MIDDLE RING LITTLE IN"
+            }, 
+            {
+                "charcode": "0x1d8d4", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE MIDDLE RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8d5", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CIRCLE MIDDLE RING LITTLE BENT"
+            }, 
+            {
+                "charcode": "0x1d8d6", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CLAW MIDDLE RING LITTLE CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d8d7", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CLAW MIDDLE RING LITTLE CONJOINED SIDE"
+            }, 
+            {
+                "charcode": "0x1d8d8", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HOOK MIDDLE RING LITTLE CONJOINED OUT"
+            }, 
+            {
+                "charcode": "0x1d8d9", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HOOK MIDDLE RING LITTLE CONJOINED IN"
+            }, 
+            {
+                "charcode": "0x1d8da", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HOOK MIDDLE RING LITTLE CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d8db", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE INDEX HINGED"
+            }, 
+            {
+                "charcode": "0x1d8dc", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d8dd", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE INDEX THUMB SIDE"
+            }, 
+            {
+                "charcode": "0x1d8de", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB SIDE THUMB DIAGONAL"
+            }, 
+            {
+                "charcode": "0x1d8df", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB SIDE THUMB CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d8e0", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB SIDE THUMB BENT"
+            }, 
+            {
+                "charcode": "0x1d8e1", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB SIDE INDEX BENT"
+            }, 
+            {
+                "charcode": "0x1d8e2", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB SIDE BOTH BENT"
+            }, 
+            {
+                "charcode": "0x1d8e3", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB SIDE INDEX HINGE"
+            }, 
+            {
+                "charcode": "0x1d8e4", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB FORWARD INDEX STRAIGHT"
+            }, 
+            {
+                "charcode": "0x1d8e5", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB FORWARD INDEX BENT"
+            }, 
+            {
+                "charcode": "0x1d8e6", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB HOOK"
+            }, 
+            {
+                "charcode": "0x1d8e7", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB CURLICUE"
+            }, 
+            {
+                "charcode": "0x1d8e8", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB CURVE THUMB INSIDE"
+            }, 
+            {
+                "charcode": "0x1d8e9", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CLAW INDEX THUMB CURVE THUMB INSIDE"
+            }, 
+            {
+                "charcode": "0x1d8ea", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB CURVE THUMB UNDER"
+            }, 
+            {
+                "charcode": "0x1d8eb", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST INDEX THUMB CIRCLE"
+            }, 
+            {
+                "charcode": "0x1d8ec", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP INDEX THUMB"
+            }, 
+            {
+                "charcode": "0x1d8ed", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-CUP INDEX THUMB OPEN"
+            }, 
+            {
+                "charcode": "0x1d8ee", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE INDEX THUMB OPEN"
+            }, 
+            {
+                "charcode": "0x1d8ef", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE INDEX THUMB LARGE"
+            }, 
+            {
+                "charcode": "0x1d8f0", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE INDEX THUMB"
+            }, 
+            {
+                "charcode": "0x1d8f1", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-HINGE INDEX THUMB SMALL"
+            }, 
+            {
+                "charcode": "0x1d8f2", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE INDEX THUMB OUT"
+            }, 
+            {
+                "charcode": "0x1d8f3", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE INDEX THUMB IN"
+            }, 
+            {
+                "charcode": "0x1d8f4", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-ANGLE INDEX THUMB"
+            }, 
+            {
+                "charcode": "0x1d8f5", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB"
+            }, 
+            {
+                "charcode": "0x1d8f6", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB HEEL"
+            }, 
+            {
+                "charcode": "0x1d8f7", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB SIDE DIAGONAL"
+            }, 
+            {
+                "charcode": "0x1d8f8", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB SIDE CONJOINED"
+            }, 
+            {
+                "charcode": "0x1d8f9", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB SIDE BENT"
+            }, 
+            {
+                "charcode": "0x1d8fa", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB FORWARD"
+            }, 
+            {
+                "charcode": "0x1d8fb", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB BETWEEN INDEX MIDDLE"
+            }, 
+            {
+                "charcode": "0x1d8fc", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB BETWEEN MIDDLE RING"
+            }, 
+            {
+                "charcode": "0x1d8fd", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB BETWEEN RING LITTLE"
+            }, 
+            {
+                "charcode": "0x1d8fe", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB UNDER TWO FINGERS"
+            }, 
+            {
+                "charcode": "0x1d8ff", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB OVER TWO FINGERS"
+            }, 
+            {
+                "charcode": "0x1d900", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB UNDER THREE FINGERS"
+            }, 
+            {
+                "charcode": "0x1d901", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB UNDER FOUR FINGERS"
+            }, 
+            {
+                "charcode": "0x1d902", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST THUMB OVER FOUR RAISED KNUCKLES"
+            }, 
+            {
+                "charcode": "0x1d903", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST"
+            }, 
+            {
+                "charcode": "0x1d904", 
+                "description": "", 
+                "title": "SIGNWRITING HAND-FIST HEEL"
+            }, 
+            {
+                "charcode": "0x1d905", 
+                "description": "", 
+                "title": "SIGNWRITING TOUCH SINGLE"
+            }, 
+            {
+                "charcode": "0x1d906", 
+                "description": "", 
+                "title": "SIGNWRITING TOUCH MULTIPLE"
+            }, 
+            {
+                "charcode": "0x1d907", 
+                "description": "", 
+                "title": "SIGNWRITING TOUCH BETWEEN"
+            }, 
+            {
+                "charcode": "0x1d908", 
+                "description": "", 
+                "title": "SIGNWRITING GRASP SINGLE"
+            }, 
+            {
+                "charcode": "0x1d909", 
+                "description": "", 
+                "title": "SIGNWRITING GRASP MULTIPLE"
+            }, 
+            {
+                "charcode": "0x1d90a", 
+                "description": "", 
+                "title": "SIGNWRITING GRASP BETWEEN"
+            }, 
+            {
+                "charcode": "0x1d90b", 
+                "description": "", 
+                "title": "SIGNWRITING STRIKE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d90c", 
+                "description": "", 
+                "title": "SIGNWRITING STRIKE MULTIPLE"
+            }, 
+            {
+                "charcode": "0x1d90d", 
+                "description": "", 
+                "title": "SIGNWRITING STRIKE BETWEEN"
+            }, 
+            {
+                "charcode": "0x1d90e", 
+                "description": "", 
+                "title": "SIGNWRITING BRUSH SINGLE"
+            }, 
+            {
+                "charcode": "0x1d90f", 
+                "description": "", 
+                "title": "SIGNWRITING BRUSH MULTIPLE"
+            }, 
+            {
+                "charcode": "0x1d910", 
+                "description": "", 
+                "title": "SIGNWRITING BRUSH BETWEEN"
+            }, 
+            {
+                "charcode": "0x1d911", 
+                "description": "", 
+                "title": "SIGNWRITING RUB SINGLE"
+            }, 
+            {
+                "charcode": "0x1d912", 
+                "description": "", 
+                "title": "SIGNWRITING RUB MULTIPLE"
+            }, 
+            {
+                "charcode": "0x1d913", 
+                "description": "", 
+                "title": "SIGNWRITING RUB BETWEEN"
+            }, 
+            {
+                "charcode": "0x1d914", 
+                "description": "", 
+                "title": "SIGNWRITING SURFACE SYMBOLS"
+            }, 
+            {
+                "charcode": "0x1d915", 
+                "description": "", 
+                "title": "SIGNWRITING SURFACE BETWEEN"
+            }, 
+            {
+                "charcode": "0x1d916", 
+                "description": "", 
+                "title": "SIGNWRITING SQUEEZE LARGE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d917", 
+                "description": "", 
+                "title": "SIGNWRITING SQUEEZE SMALL SINGLE"
+            }, 
+            {
+                "charcode": "0x1d918", 
+                "description": "", 
+                "title": "SIGNWRITING SQUEEZE LARGE MULTIPLE"
+            }, 
+            {
+                "charcode": "0x1d919", 
+                "description": "", 
+                "title": "SIGNWRITING SQUEEZE SMALL MULTIPLE"
+            }, 
+            {
+                "charcode": "0x1d91a", 
+                "description": "", 
+                "title": "SIGNWRITING SQUEEZE SEQUENTIAL"
+            }, 
+            {
+                "charcode": "0x1d91b", 
+                "description": "", 
+                "title": "SIGNWRITING FLICK LARGE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d91c", 
+                "description": "", 
+                "title": "SIGNWRITING FLICK SMALL SINGLE"
+            }, 
+            {
+                "charcode": "0x1d91d", 
+                "description": "", 
+                "title": "SIGNWRITING FLICK LARGE MULTIPLE"
+            }, 
+            {
+                "charcode": "0x1d91e", 
+                "description": "", 
+                "title": "SIGNWRITING FLICK SMALL MULTIPLE"
+            }, 
+            {
+                "charcode": "0x1d91f", 
+                "description": "", 
+                "title": "SIGNWRITING FLICK SEQUENTIAL"
+            }, 
+            {
+                "charcode": "0x1d920", 
+                "description": "", 
+                "title": "SIGNWRITING SQUEEZE FLICK ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1d921", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-HINGE UP DOWN LARGE"
+            }, 
+            {
+                "charcode": "0x1d922", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-HINGE UP DOWN SMALL"
+            }, 
+            {
+                "charcode": "0x1d923", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-HINGE UP SEQUENTIAL"
+            }, 
+            {
+                "charcode": "0x1d924", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-HINGE DOWN SEQUENTIAL"
+            }, 
+            {
+                "charcode": "0x1d925", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-HINGE UP DOWN ALTERNATING LARGE"
+            }, 
+            {
+                "charcode": "0x1d926", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-HINGE UP DOWN ALTERNATING SMALL"
+            }, 
+            {
+                "charcode": "0x1d927", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-HINGE SIDE TO SIDE SCISSORS"
+            }, 
+            {
+                "charcode": "0x1d928", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE FINGER CONTACT"
+            }, 
+            {
+                "charcode": "0x1d929", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE FINGER CONTACT"
+            }, 
+            {
+                "charcode": "0x1d92a", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE SINGLE STRAIGHT SMALL"
+            }, 
+            {
+                "charcode": "0x1d92b", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE SINGLE STRAIGHT MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d92c", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE SINGLE STRAIGHT LARGE"
+            }, 
+            {
+                "charcode": "0x1d92d", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE SINGLE STRAIGHT LARGEST"
+            }, 
+            {
+                "charcode": "0x1d92e", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE SINGLE WRIST FLEX"
+            }, 
+            {
+                "charcode": "0x1d92f", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE DOUBLE STRAIGHT"
+            }, 
+            {
+                "charcode": "0x1d930", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE DOUBLE WRIST FLEX"
+            }, 
+            {
+                "charcode": "0x1d931", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE DOUBLE ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1d932", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE DOUBLE ALTERNATING WRIST FLEX"
+            }, 
+            {
+                "charcode": "0x1d933", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CROSS"
+            }, 
+            {
+                "charcode": "0x1d934", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE TRIPLE STRAIGHT MOVEMENT"
+            }, 
+            {
+                "charcode": "0x1d935", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE TRIPLE WRIST FLEX"
+            }, 
+            {
+                "charcode": "0x1d936", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE TRIPLE ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1d937", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE TRIPLE ALTERNATING WRIST FLEX"
+            }, 
+            {
+                "charcode": "0x1d938", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE BEND SMALL"
+            }, 
+            {
+                "charcode": "0x1d939", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE BEND MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d93a", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE BEND LARGE"
+            }, 
+            {
+                "charcode": "0x1d93b", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CORNER SMALL"
+            }, 
+            {
+                "charcode": "0x1d93c", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CORNER MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d93d", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CORNER LARGE"
+            }, 
+            {
+                "charcode": "0x1d93e", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CORNER ROTATION"
+            }, 
+            {
+                "charcode": "0x1d93f", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CHECK SMALL"
+            }, 
+            {
+                "charcode": "0x1d940", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CHECK MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d941", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CHECK LARGE"
+            }, 
+            {
+                "charcode": "0x1d942", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE BOX SMALL"
+            }, 
+            {
+                "charcode": "0x1d943", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE BOX MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d944", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE BOX LARGE"
+            }, 
+            {
+                "charcode": "0x1d945", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE ZIGZAG SMALL"
+            }, 
+            {
+                "charcode": "0x1d946", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE ZIGZAG MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d947", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE ZIGZAG LARGE"
+            }, 
+            {
+                "charcode": "0x1d948", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE PEAKS SMALL"
+            }, 
+            {
+                "charcode": "0x1d949", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE PEAKS MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d94a", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE PEAKS LARGE"
+            }, 
+            {
+                "charcode": "0x1d94b", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-WALLPLANE ROTATION-WALLPLANE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d94c", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-WALLPLANE ROTATION-WALLPLANE DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d94d", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-WALLPLANE ROTATION-WALLPLANE ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1d94e", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-WALLPLANE ROTATION-FLOORPLANE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d94f", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-WALLPLANE ROTATION-FLOORPLANE DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d950", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-WALLPLANE ROTATION-FLOORPLANE ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1d951", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-WALLPLANE SHAKING"
+            }, 
+            {
+                "charcode": "0x1d952", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-WALLPLANE ARM SPIRAL SINGLE"
+            }, 
+            {
+                "charcode": "0x1d953", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-WALLPLANE ARM SPIRAL DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d954", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-WALLPLANE ARM SPIRAL TRIPLE"
+            }, 
+            {
+                "charcode": "0x1d955", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL AWAY SMALL"
+            }, 
+            {
+                "charcode": "0x1d956", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL AWAY MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d957", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL AWAY LARGE"
+            }, 
+            {
+                "charcode": "0x1d958", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL AWAY LARGEST"
+            }, 
+            {
+                "charcode": "0x1d959", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL TOWARDS SMALL"
+            }, 
+            {
+                "charcode": "0x1d95a", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL TOWARDS MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d95b", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL TOWARDS LARGE"
+            }, 
+            {
+                "charcode": "0x1d95c", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL TOWARDS LARGEST"
+            }, 
+            {
+                "charcode": "0x1d95d", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL BETWEEN AWAY SMALL"
+            }, 
+            {
+                "charcode": "0x1d95e", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL BETWEEN AWAY MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d95f", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL BETWEEN AWAY LARGE"
+            }, 
+            {
+                "charcode": "0x1d960", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL BETWEEN AWAY LARGEST"
+            }, 
+            {
+                "charcode": "0x1d961", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL BETWEEN TOWARDS SMALL"
+            }, 
+            {
+                "charcode": "0x1d962", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL BETWEEN TOWARDS MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d963", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL BETWEEN TOWARDS LARGE"
+            }, 
+            {
+                "charcode": "0x1d964", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-DIAGONAL BETWEEN TOWARDS LARGEST"
+            }, 
+            {
+                "charcode": "0x1d965", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE SINGLE STRAIGHT SMALL"
+            }, 
+            {
+                "charcode": "0x1d966", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE SINGLE STRAIGHT MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d967", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE SINGLE STRAIGHT LARGE"
+            }, 
+            {
+                "charcode": "0x1d968", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE SINGLE STRAIGHT LARGEST"
+            }, 
+            {
+                "charcode": "0x1d969", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE SINGLE WRIST FLEX"
+            }, 
+            {
+                "charcode": "0x1d96a", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE DOUBLE STRAIGHT"
+            }, 
+            {
+                "charcode": "0x1d96b", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE DOUBLE WRIST FLEX"
+            }, 
+            {
+                "charcode": "0x1d96c", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE DOUBLE ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1d96d", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE DOUBLE ALTERNATING WRIST FLEX"
+            }, 
+            {
+                "charcode": "0x1d96e", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CROSS"
+            }, 
+            {
+                "charcode": "0x1d96f", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE TRIPLE STRAIGHT MOVEMENT"
+            }, 
+            {
+                "charcode": "0x1d970", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE TRIPLE WRIST FLEX"
+            }, 
+            {
+                "charcode": "0x1d971", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE TRIPLE ALTERNATING MOVEMENT"
+            }, 
+            {
+                "charcode": "0x1d972", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE TRIPLE ALTERNATING WRIST FLEX"
+            }, 
+            {
+                "charcode": "0x1d973", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE BEND"
+            }, 
+            {
+                "charcode": "0x1d974", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CORNER SMALL"
+            }, 
+            {
+                "charcode": "0x1d975", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CORNER MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d976", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CORNER LARGE"
+            }, 
+            {
+                "charcode": "0x1d977", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CHECK"
+            }, 
+            {
+                "charcode": "0x1d978", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE BOX SMALL"
+            }, 
+            {
+                "charcode": "0x1d979", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE BOX MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d97a", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE BOX LARGE"
+            }, 
+            {
+                "charcode": "0x1d97b", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE ZIGZAG SMALL"
+            }, 
+            {
+                "charcode": "0x1d97c", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE ZIGZAG MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d97d", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE ZIGZAG LARGE"
+            }, 
+            {
+                "charcode": "0x1d97e", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE PEAKS SMALL"
+            }, 
+            {
+                "charcode": "0x1d97f", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE PEAKS MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d980", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE PEAKS LARGE"
+            }, 
+            {
+                "charcode": "0x1d981", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-FLOORPLANE ROTATION-FLOORPLANE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d982", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-FLOORPLANE ROTATION-FLOORPLANE DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d983", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-FLOORPLANE ROTATION-FLOORPLANE ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1d984", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-FLOORPLANE ROTATION-WALLPLANE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d985", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-FLOORPLANE ROTATION-WALLPLANE DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d986", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-FLOORPLANE ROTATION-WALLPLANE ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1d987", 
+                "description": "", 
+                "title": "SIGNWRITING TRAVEL-FLOORPLANE SHAKING"
+            }, 
+            {
+                "charcode": "0x1d988", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE QUARTER SMALL"
+            }, 
+            {
+                "charcode": "0x1d989", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE QUARTER MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d98a", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE QUARTER LARGE"
+            }, 
+            {
+                "charcode": "0x1d98b", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE QUARTER LARGEST"
+            }, 
+            {
+                "charcode": "0x1d98c", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE HALF-CIRCLE SMALL"
+            }, 
+            {
+                "charcode": "0x1d98d", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE HALF-CIRCLE MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d98e", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE HALF-CIRCLE LARGE"
+            }, 
+            {
+                "charcode": "0x1d98f", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE HALF-CIRCLE LARGEST"
+            }, 
+            {
+                "charcode": "0x1d990", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE THREE-QUARTER CIRCLE SMALL"
+            }, 
+            {
+                "charcode": "0x1d991", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE THREE-QUARTER CIRCLE MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d992", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE HUMP SMALL"
+            }, 
+            {
+                "charcode": "0x1d993", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE HUMP MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d994", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE HUMP LARGE"
+            }, 
+            {
+                "charcode": "0x1d995", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE LOOP SMALL"
+            }, 
+            {
+                "charcode": "0x1d996", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE LOOP MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d997", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE LOOP LARGE"
+            }, 
+            {
+                "charcode": "0x1d998", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE LOOP SMALL DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d999", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WAVE CURVE DOUBLE SMALL"
+            }, 
+            {
+                "charcode": "0x1d99a", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WAVE CURVE DOUBLE MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d99b", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WAVE CURVE DOUBLE LARGE"
+            }, 
+            {
+                "charcode": "0x1d99c", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WAVE CURVE TRIPLE SMALL"
+            }, 
+            {
+                "charcode": "0x1d99d", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WAVE CURVE TRIPLE MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d99e", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WAVE CURVE TRIPLE LARGE"
+            }, 
+            {
+                "charcode": "0x1d99f", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE THEN STRAIGHT"
+            }, 
+            {
+                "charcode": "0x1d9a0", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVED CROSS SMALL"
+            }, 
+            {
+                "charcode": "0x1d9a1", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVED CROSS MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d9a2", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-WALLPLANE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9a3", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-WALLPLANE DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9a4", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-WALLPLANE ALTERNATE"
+            }, 
+            {
+                "charcode": "0x1d9a5", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE SHAKING"
+            }, 
+            {
+                "charcode": "0x1d9a6", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE HITTING FRONT WALL"
+            }, 
+            {
+                "charcode": "0x1d9a7", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE HUMP HITTING FRONT WALL"
+            }, 
+            {
+                "charcode": "0x1d9a8", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE LOOP HITTING FRONT WALL"
+            }, 
+            {
+                "charcode": "0x1d9a9", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WAVE HITTING FRONT WALL"
+            }, 
+            {
+                "charcode": "0x1d9aa", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-WALLPLANE SINGLE HITTING FRONT WALL"
+            }, 
+            {
+                "charcode": "0x1d9ab", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-WALLPLANE DOUBLE HITTING FRONT WALL"
+            }, 
+            {
+                "charcode": "0x1d9ac", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-WALLPLANE ALTERNATING HITTING FRONT WALL"
+            }, 
+            {
+                "charcode": "0x1d9ad", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE CURVE HITTING CHEST"
+            }, 
+            {
+                "charcode": "0x1d9ae", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE HUMP HITTING CHEST"
+            }, 
+            {
+                "charcode": "0x1d9af", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE LOOP HITTING CHEST"
+            }, 
+            {
+                "charcode": "0x1d9b0", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WAVE HITTING CHEST"
+            }, 
+            {
+                "charcode": "0x1d9b1", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-WALLPLANE SINGLE HITTING CHEST"
+            }, 
+            {
+                "charcode": "0x1d9b2", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-WALLPLANE DOUBLE HITTING CHEST"
+            }, 
+            {
+                "charcode": "0x1d9b3", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-WALLPLANE ALTERNATING HITTING CHEST"
+            }, 
+            {
+                "charcode": "0x1d9b4", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WAVE DIAGONAL PATH SMALL"
+            }, 
+            {
+                "charcode": "0x1d9b5", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WAVE DIAGONAL PATH MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d9b6", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WAVE DIAGONAL PATH LARGE"
+            }, 
+            {
+                "charcode": "0x1d9b7", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CURVE HITTING CEILING SMALL"
+            }, 
+            {
+                "charcode": "0x1d9b8", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CURVE HITTING CEILING LARGE"
+            }, 
+            {
+                "charcode": "0x1d9b9", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE HUMP HITTING CEILING SMALL DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9ba", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE HUMP HITTING CEILING LARGE DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9bb", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE HUMP HITTING CEILING SMALL TRIPLE"
+            }, 
+            {
+                "charcode": "0x1d9bc", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE HUMP HITTING CEILING LARGE TRIPLE"
+            }, 
+            {
+                "charcode": "0x1d9bd", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE LOOP HITTING CEILING SMALL SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9be", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE LOOP HITTING CEILING LARGE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9bf", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE LOOP HITTING CEILING SMALL DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9c0", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE LOOP HITTING CEILING LARGE DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9c1", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE WAVE HITTING CEILING SMALL"
+            }, 
+            {
+                "charcode": "0x1d9c2", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE WAVE HITTING CEILING LARGE"
+            }, 
+            {
+                "charcode": "0x1d9c3", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-FLOORPLANE SINGLE HITTING CEILING"
+            }, 
+            {
+                "charcode": "0x1d9c4", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-FLOORPLANE DOUBLE HITTING CEILING"
+            }, 
+            {
+                "charcode": "0x1d9c5", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-FLOORPLANE ALTERNATING HITTING CEILING"
+            }, 
+            {
+                "charcode": "0x1d9c6", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CURVE HITTING FLOOR SMALL"
+            }, 
+            {
+                "charcode": "0x1d9c7", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CURVE HITTING FLOOR LARGE"
+            }, 
+            {
+                "charcode": "0x1d9c8", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE HUMP HITTING FLOOR SMALL DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9c9", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE HUMP HITTING FLOOR LARGE DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9ca", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE HUMP HITTING FLOOR TRIPLE SMALL TRIPLE"
+            }, 
+            {
+                "charcode": "0x1d9cb", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE HUMP HITTING FLOOR TRIPLE LARGE TRIPLE"
+            }, 
+            {
+                "charcode": "0x1d9cc", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE LOOP HITTING FLOOR SMALL SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9cd", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE LOOP HITTING FLOOR LARGE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9ce", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE LOOP HITTING FLOOR SMALL DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9cf", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE LOOP HITTING FLOOR LARGE DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9d0", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE WAVE HITTING FLOOR SMALL"
+            }, 
+            {
+                "charcode": "0x1d9d1", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE WAVE HITTING FLOOR LARGE"
+            }, 
+            {
+                "charcode": "0x1d9d2", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-FLOORPLANE SINGLE HITTING FLOOR"
+            }, 
+            {
+                "charcode": "0x1d9d3", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-FLOORPLANE DOUBLE HITTING FLOOR"
+            }, 
+            {
+                "charcode": "0x1d9d4", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-FLOORPLANE ALTERNATING HITTING FLOOR"
+            }, 
+            {
+                "charcode": "0x1d9d5", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CURVE SMALL"
+            }, 
+            {
+                "charcode": "0x1d9d6", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CURVE MEDIUM"
+            }, 
+            {
+                "charcode": "0x1d9d7", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CURVE LARGE"
+            }, 
+            {
+                "charcode": "0x1d9d8", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CURVE LARGEST"
+            }, 
+            {
+                "charcode": "0x1d9d9", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE CURVE COMBINED"
+            }, 
+            {
+                "charcode": "0x1d9da", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE HUMP SMALL"
+            }, 
+            {
+                "charcode": "0x1d9db", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE LOOP SMALL"
+            }, 
+            {
+                "charcode": "0x1d9dc", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE WAVE SNAKE"
+            }, 
+            {
+                "charcode": "0x1d9dd", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE WAVE SMALL"
+            }, 
+            {
+                "charcode": "0x1d9de", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE WAVE LARGE"
+            }, 
+            {
+                "charcode": "0x1d9df", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-FLOORPLANE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9e0", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-FLOORPLANE DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9e1", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION-FLOORPLANE ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1d9e2", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE SHAKING PARALLEL"
+            }, 
+            {
+                "charcode": "0x1d9e3", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE ARM CIRCLE SMALL SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9e4", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE ARM CIRCLE MEDIUM SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9e5", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE ARM CIRCLE SMALL DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9e6", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE ARM CIRCLE MEDIUM DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9e7", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE ARM CIRCLE HITTING WALL SMALL SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9e8", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE ARM CIRCLE HITTING WALL MEDIUM SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9e9", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE ARM CIRCLE HITTING WALL LARGE SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9ea", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE ARM CIRCLE HITTING WALL SMALL DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9eb", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE ARM CIRCLE HITTING WALL MEDIUM DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9ec", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE ARM CIRCLE HITTING WALL LARGE DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9ed", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WRIST CIRCLE FRONT SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9ee", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE WRIST CIRCLE FRONT DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9ef", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE WRIST CIRCLE HITTING WALL SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9f0", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE WRIST CIRCLE HITTING WALL DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9f1", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE FINGER CIRCLES SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9f2", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE FINGER CIRCLES DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9f3", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE FINGER CIRCLES HITTING WALL SINGLE"
+            }, 
+            {
+                "charcode": "0x1d9f4", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE FINGER CIRCLES HITTING WALL DOUBLE"
+            }, 
+            {
+                "charcode": "0x1d9f5", 
+                "description": "", 
+                "title": "SIGNWRITING DYNAMIC ARROWHEAD SMALL"
+            }, 
+            {
+                "charcode": "0x1d9f6", 
+                "description": "", 
+                "title": "SIGNWRITING DYNAMIC ARROWHEAD LARGE"
+            }, 
+            {
+                "charcode": "0x1d9f7", 
+                "description": "", 
+                "title": "SIGNWRITING DYNAMIC FAST"
+            }, 
+            {
+                "charcode": "0x1d9f8", 
+                "description": "", 
+                "title": "SIGNWRITING DYNAMIC SLOW"
+            }, 
+            {
+                "charcode": "0x1d9f9", 
+                "description": "", 
+                "title": "SIGNWRITING DYNAMIC TENSE"
+            }, 
+            {
+                "charcode": "0x1d9fa", 
+                "description": "", 
+                "title": "SIGNWRITING DYNAMIC RELAXED"
+            }, 
+            {
+                "charcode": "0x1d9fb", 
+                "description": "", 
+                "title": "SIGNWRITING DYNAMIC SIMULTANEOUS"
+            }, 
+            {
+                "charcode": "0x1d9fc", 
+                "description": "", 
+                "title": "SIGNWRITING DYNAMIC SIMULTANEOUS ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1d9fd", 
+                "description": "", 
+                "title": "SIGNWRITING DYNAMIC EVERY OTHER TIME"
+            }, 
+            {
+                "charcode": "0x1d9fe", 
+                "description": "", 
+                "title": "SIGNWRITING DYNAMIC GRADUAL"
+            }, 
+            {
+                "charcode": "0x1d9ff", 
+                "description": "", 
+                "title": "SIGNWRITING HEAD"
+            }, 
+            {
+                "charcode": "0x1da00", 
+                "description": "", 
+                "title": "SIGNWRITING HEAD RIM"
+            }, 
+            {
+                "charcode": "0x1da01", 
+                "description": "", 
+                "title": "SIGNWRITING HEAD MOVEMENT-WALLPLANE STRAIGHT"
+            }, 
+            {
+                "charcode": "0x1da02", 
+                "description": "", 
+                "title": "SIGNWRITING HEAD MOVEMENT-WALLPLANE TILT"
+            }, 
+            {
+                "charcode": "0x1da03", 
+                "description": "", 
+                "title": "SIGNWRITING HEAD MOVEMENT-FLOORPLANE STRAIGHT"
+            }, 
+            {
+                "charcode": "0x1da04", 
+                "description": "", 
+                "title": "SIGNWRITING HEAD MOVEMENT-WALLPLANE CURVE"
+            }, 
+            {
+                "charcode": "0x1da05", 
+                "description": "", 
+                "title": "SIGNWRITING HEAD MOVEMENT-FLOORPLANE CURVE"
+            }, 
+            {
+                "charcode": "0x1da06", 
+                "description": "", 
+                "title": "SIGNWRITING HEAD MOVEMENT CIRCLE"
+            }, 
+            {
+                "charcode": "0x1da07", 
+                "description": "", 
+                "title": "SIGNWRITING FACE DIRECTION POSITION NOSE FORWARD TILTING"
+            }, 
+            {
+                "charcode": "0x1da08", 
+                "description": "", 
+                "title": "SIGNWRITING FACE DIRECTION POSITION NOSE UP OR DOWN"
+            }, 
+            {
+                "charcode": "0x1da09", 
+                "description": "", 
+                "title": "SIGNWRITING FACE DIRECTION POSITION NOSE UP OR DOWN TILTING"
+            }, 
+            {
+                "charcode": "0x1da0a", 
+                "description": "", 
+                "title": "SIGNWRITING EYEBROWS STRAIGHT UP"
+            }, 
+            {
+                "charcode": "0x1da0b", 
+                "description": "", 
+                "title": "SIGNWRITING EYEBROWS STRAIGHT NEUTRAL"
+            }, 
+            {
+                "charcode": "0x1da0c", 
+                "description": "", 
+                "title": "SIGNWRITING EYEBROWS STRAIGHT DOWN"
+            }, 
+            {
+                "charcode": "0x1da0d", 
+                "description": "", 
+                "title": "SIGNWRITING DREAMY EYEBROWS NEUTRAL DOWN"
+            }, 
+            {
+                "charcode": "0x1da0e", 
+                "description": "", 
+                "title": "SIGNWRITING DREAMY EYEBROWS DOWN NEUTRAL"
+            }, 
+            {
+                "charcode": "0x1da0f", 
+                "description": "", 
+                "title": "SIGNWRITING DREAMY EYEBROWS UP NEUTRAL"
+            }, 
+            {
+                "charcode": "0x1da10", 
+                "description": "", 
+                "title": "SIGNWRITING DREAMY EYEBROWS NEUTRAL UP"
+            }, 
+            {
+                "charcode": "0x1da11", 
+                "description": "", 
+                "title": "SIGNWRITING FOREHEAD NEUTRAL"
+            }, 
+            {
+                "charcode": "0x1da12", 
+                "description": "", 
+                "title": "SIGNWRITING FOREHEAD CONTACT"
+            }, 
+            {
+                "charcode": "0x1da13", 
+                "description": "", 
+                "title": "SIGNWRITING FOREHEAD WRINKLED"
+            }, 
+            {
+                "charcode": "0x1da14", 
+                "description": "", 
+                "title": "SIGNWRITING EYES OPEN"
+            }, 
+            {
+                "charcode": "0x1da15", 
+                "description": "", 
+                "title": "SIGNWRITING EYES SQUEEZED"
+            }, 
+            {
+                "charcode": "0x1da16", 
+                "description": "", 
+                "title": "SIGNWRITING EYES CLOSED"
+            }, 
+            {
+                "charcode": "0x1da17", 
+                "description": "", 
+                "title": "SIGNWRITING EYE BLINK SINGLE"
+            }, 
+            {
+                "charcode": "0x1da18", 
+                "description": "", 
+                "title": "SIGNWRITING EYE BLINK MULTIPLE"
+            }, 
+            {
+                "charcode": "0x1da19", 
+                "description": "", 
+                "title": "SIGNWRITING EYES HALF OPEN"
+            }, 
+            {
+                "charcode": "0x1da1a", 
+                "description": "", 
+                "title": "SIGNWRITING EYES WIDE OPEN"
+            }, 
+            {
+                "charcode": "0x1da1b", 
+                "description": "", 
+                "title": "SIGNWRITING EYES HALF CLOSED"
+            }, 
+            {
+                "charcode": "0x1da1c", 
+                "description": "", 
+                "title": "SIGNWRITING EYES WIDENING MOVEMENT"
+            }, 
+            {
+                "charcode": "0x1da1d", 
+                "description": "", 
+                "title": "SIGNWRITING EYE WINK"
+            }, 
+            {
+                "charcode": "0x1da1e", 
+                "description": "", 
+                "title": "SIGNWRITING EYELASHES UP"
+            }, 
+            {
+                "charcode": "0x1da1f", 
+                "description": "", 
+                "title": "SIGNWRITING EYELASHES DOWN"
+            }, 
+            {
+                "charcode": "0x1da20", 
+                "description": "", 
+                "title": "SIGNWRITING EYELASHES FLUTTERING"
+            }, 
+            {
+                "charcode": "0x1da21", 
+                "description": "", 
+                "title": "SIGNWRITING EYEGAZE-WALLPLANE STRAIGHT"
+            }, 
+            {
+                "charcode": "0x1da22", 
+                "description": "", 
+                "title": "SIGNWRITING EYEGAZE-WALLPLANE STRAIGHT DOUBLE"
+            }, 
+            {
+                "charcode": "0x1da23", 
+                "description": "", 
+                "title": "SIGNWRITING EYEGAZE-WALLPLANE STRAIGHT ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1da24", 
+                "description": "", 
+                "title": "SIGNWRITING EYEGAZE-FLOORPLANE STRAIGHT"
+            }, 
+            {
+                "charcode": "0x1da25", 
+                "description": "", 
+                "title": "SIGNWRITING EYEGAZE-FLOORPLANE STRAIGHT DOUBLE"
+            }, 
+            {
+                "charcode": "0x1da26", 
+                "description": "", 
+                "title": "SIGNWRITING EYEGAZE-FLOORPLANE STRAIGHT ALTERNATING"
+            }, 
+            {
+                "charcode": "0x1da27", 
+                "description": "", 
+                "title": "SIGNWRITING EYEGAZE-WALLPLANE CURVED"
+            }, 
+            {
+                "charcode": "0x1da28", 
+                "description": "", 
+                "title": "SIGNWRITING EYEGAZE-FLOORPLANE CURVED"
+            }, 
+            {
+                "charcode": "0x1da29", 
+                "description": "", 
+                "title": "SIGNWRITING EYEGAZE-WALLPLANE CIRCLING"
+            }, 
+            {
+                "charcode": "0x1da2a", 
+                "description": "", 
+                "title": "SIGNWRITING CHEEKS PUFFED"
+            }, 
+            {
+                "charcode": "0x1da2b", 
+                "description": "", 
+                "title": "SIGNWRITING CHEEKS NEUTRAL"
+            }, 
+            {
+                "charcode": "0x1da2c", 
+                "description": "", 
+                "title": "SIGNWRITING CHEEKS SUCKED"
+            }, 
+            {
+                "charcode": "0x1da2d", 
+                "description": "", 
+                "title": "SIGNWRITING TENSE CHEEKS HIGH"
+            }, 
+            {
+                "charcode": "0x1da2e", 
+                "description": "", 
+                "title": "SIGNWRITING TENSE CHEEKS MIDDLE"
+            }, 
+            {
+                "charcode": "0x1da2f", 
+                "description": "", 
+                "title": "SIGNWRITING TENSE CHEEKS LOW"
+            }, 
+            {
+                "charcode": "0x1da30", 
+                "description": "", 
+                "title": "SIGNWRITING EARS"
+            }, 
+            {
+                "charcode": "0x1da31", 
+                "description": "", 
+                "title": "SIGNWRITING NOSE NEUTRAL"
+            }, 
+            {
+                "charcode": "0x1da32", 
+                "description": "", 
+                "title": "SIGNWRITING NOSE CONTACT"
+            }, 
+            {
+                "charcode": "0x1da33", 
+                "description": "", 
+                "title": "SIGNWRITING NOSE WRINKLES"
+            }, 
+            {
+                "charcode": "0x1da34", 
+                "description": "", 
+                "title": "SIGNWRITING NOSE WIGGLES"
+            }, 
+            {
+                "charcode": "0x1da35", 
+                "description": "", 
+                "title": "SIGNWRITING AIR BLOWING OUT"
+            }, 
+            {
+                "charcode": "0x1da36", 
+                "description": "", 
+                "title": "SIGNWRITING AIR SUCKING IN"
+            }, 
+            {
+                "charcode": "0x1da37", 
+                "description": "", 
+                "title": "SIGNWRITING AIR BLOW SMALL ROTATIONS"
+            }, 
+            {
+                "charcode": "0x1da38", 
+                "description": "", 
+                "title": "SIGNWRITING AIR SUCK SMALL ROTATIONS"
+            }, 
+            {
+                "charcode": "0x1da39", 
+                "description": "", 
+                "title": "SIGNWRITING BREATH INHALE"
+            }, 
+            {
+                "charcode": "0x1da3a", 
+                "description": "", 
+                "title": "SIGNWRITING BREATH EXHALE"
+            }, 
+            {
+                "charcode": "0x1da3b", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH CLOSED NEUTRAL"
+            }, 
+            {
+                "charcode": "0x1da3c", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH CLOSED FORWARD"
+            }, 
+            {
+                "charcode": "0x1da3d", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH CLOSED CONTACT"
+            }, 
+            {
+                "charcode": "0x1da3e", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH SMILE"
+            }, 
+            {
+                "charcode": "0x1da3f", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH SMILE WRINKLED"
+            }, 
+            {
+                "charcode": "0x1da40", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH SMILE OPEN"
+            }, 
+            {
+                "charcode": "0x1da41", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH FROWN"
+            }, 
+            {
+                "charcode": "0x1da42", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH FROWN WRINKLED"
+            }, 
+            {
+                "charcode": "0x1da43", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH FROWN OPEN"
+            }, 
+            {
+                "charcode": "0x1da44", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH OPEN CIRCLE"
+            }, 
+            {
+                "charcode": "0x1da45", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH OPEN FORWARD"
+            }, 
+            {
+                "charcode": "0x1da46", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH OPEN WRINKLED"
+            }, 
+            {
+                "charcode": "0x1da47", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH OPEN OVAL"
+            }, 
+            {
+                "charcode": "0x1da48", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH OPEN OVAL WRINKLED"
+            }, 
+            {
+                "charcode": "0x1da49", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH OPEN OVAL YAWN"
+            }, 
+            {
+                "charcode": "0x1da4a", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH OPEN RECTANGLE"
+            }, 
+            {
+                "charcode": "0x1da4b", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH OPEN RECTANGLE WRINKLED"
+            }, 
+            {
+                "charcode": "0x1da4c", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH OPEN RECTANGLE YAWN"
+            }, 
+            {
+                "charcode": "0x1da4d", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH KISS"
+            }, 
+            {
+                "charcode": "0x1da4e", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH KISS FORWARD"
+            }, 
+            {
+                "charcode": "0x1da4f", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH KISS WRINKLED"
+            }, 
+            {
+                "charcode": "0x1da50", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH TENSE"
+            }, 
+            {
+                "charcode": "0x1da51", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH TENSE FORWARD"
+            }, 
+            {
+                "charcode": "0x1da52", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH TENSE SUCKED"
+            }, 
+            {
+                "charcode": "0x1da53", 
+                "description": "", 
+                "title": "SIGNWRITING LIPS PRESSED TOGETHER"
+            }, 
+            {
+                "charcode": "0x1da54", 
+                "description": "", 
+                "title": "SIGNWRITING LIP LOWER OVER UPPER"
+            }, 
+            {
+                "charcode": "0x1da55", 
+                "description": "", 
+                "title": "SIGNWRITING LIP UPPER OVER LOWER"
+            }, 
+            {
+                "charcode": "0x1da56", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH CORNERS"
+            }, 
+            {
+                "charcode": "0x1da57", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH WRINKLES SINGLE"
+            }, 
+            {
+                "charcode": "0x1da58", 
+                "description": "", 
+                "title": "SIGNWRITING MOUTH WRINKLES DOUBLE"
+            }, 
+            {
+                "charcode": "0x1da59", 
+                "description": "", 
+                "title": "SIGNWRITING TONGUE STICKING OUT FAR"
+            }, 
+            {
+                "charcode": "0x1da5a", 
+                "description": "", 
+                "title": "SIGNWRITING TONGUE LICKING LIPS"
+            }, 
+            {
+                "charcode": "0x1da5b", 
+                "description": "", 
+                "title": "SIGNWRITING TONGUE TIP BETWEEN LIPS"
+            }, 
+            {
+                "charcode": "0x1da5c", 
+                "description": "", 
+                "title": "SIGNWRITING TONGUE TIP TOUCHING INSIDE MOUTH"
+            }, 
+            {
+                "charcode": "0x1da5d", 
+                "description": "", 
+                "title": "SIGNWRITING TONGUE INSIDE MOUTH RELAXED"
+            }, 
+            {
+                "charcode": "0x1da5e", 
+                "description": "", 
+                "title": "SIGNWRITING TONGUE MOVES AGAINST CHEEK"
+            }, 
+            {
+                "charcode": "0x1da5f", 
+                "description": "", 
+                "title": "SIGNWRITING TONGUE CENTRE STICKING OUT"
+            }, 
+            {
+                "charcode": "0x1da60", 
+                "description": "", 
+                "title": "SIGNWRITING TONGUE CENTRE INSIDE MOUTH"
+            }, 
+            {
+                "charcode": "0x1da61", 
+                "description": "", 
+                "title": "SIGNWRITING TEETH"
+            }, 
+            {
+                "charcode": "0x1da62", 
+                "description": "", 
+                "title": "SIGNWRITING TEETH MOVEMENT"
+            }, 
+            {
+                "charcode": "0x1da63", 
+                "description": "", 
+                "title": "SIGNWRITING TEETH ON TONGUE"
+            }, 
+            {
+                "charcode": "0x1da64", 
+                "description": "", 
+                "title": "SIGNWRITING TEETH ON TONGUE MOVEMENT"
+            }, 
+            {
+                "charcode": "0x1da65", 
+                "description": "", 
+                "title": "SIGNWRITING TEETH ON LIPS"
+            }, 
+            {
+                "charcode": "0x1da66", 
+                "description": "", 
+                "title": "SIGNWRITING TEETH ON LIPS MOVEMENT"
+            }, 
+            {
+                "charcode": "0x1da67", 
+                "description": "", 
+                "title": "SIGNWRITING TEETH BITE LIPS"
+            }, 
+            {
+                "charcode": "0x1da68", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-WALLPLANE JAW"
+            }, 
+            {
+                "charcode": "0x1da69", 
+                "description": "", 
+                "title": "SIGNWRITING MOVEMENT-FLOORPLANE JAW"
+            }, 
+            {
+                "charcode": "0x1da6a", 
+                "description": "", 
+                "title": "SIGNWRITING NECK"
+            }, 
+            {
+                "charcode": "0x1da6b", 
+                "description": "", 
+                "title": "SIGNWRITING HAIR"
+            }, 
+            {
+                "charcode": "0x1da6c", 
+                "description": "", 
+                "title": "SIGNWRITING EXCITEMENT"
+            }, 
+            {
+                "charcode": "0x1da6d", 
+                "description": "", 
+                "title": "SIGNWRITING SHOULDER HIP SPINE"
+            }, 
+            {
+                "charcode": "0x1da6e", 
+                "description": "", 
+                "title": "SIGNWRITING SHOULDER HIP POSITIONS"
+            }, 
+            {
+                "charcode": "0x1da6f", 
+                "description": "", 
+                "title": "SIGNWRITING WALLPLANE SHOULDER HIP MOVE"
+            }, 
+            {
+                "charcode": "0x1da70", 
+                "description": "", 
+                "title": "SIGNWRITING FLOORPLANE SHOULDER HIP MOVE"
+            }, 
+            {
+                "charcode": "0x1da71", 
+                "description": "", 
+                "title": "SIGNWRITING SHOULDER TILTING FROM WAIST"
+            }, 
+            {
+                "charcode": "0x1da72", 
+                "description": "", 
+                "title": "SIGNWRITING TORSO-WALLPLANE STRAIGHT STRETCH"
+            }, 
+            {
+                "charcode": "0x1da73", 
+                "description": "", 
+                "title": "SIGNWRITING TORSO-WALLPLANE CURVED BEND"
+            }, 
+            {
+                "charcode": "0x1da74", 
+                "description": "", 
+                "title": "SIGNWRITING TORSO-FLOORPLANE TWISTING"
+            }, 
+            {
+                "charcode": "0x1da75", 
+                "description": "", 
+                "title": "SIGNWRITING UPPER BODY TILTING FROM HIP JOINTS"
+            }, 
+            {
+                "charcode": "0x1da76", 
+                "description": "", 
+                "title": "SIGNWRITING LIMB COMBINATION"
+            }, 
+            {
+                "charcode": "0x1da77", 
+                "description": "", 
+                "title": "SIGNWRITING LIMB LENGTH-1"
+            }, 
+            {
+                "charcode": "0x1da78", 
+                "description": "", 
+                "title": "SIGNWRITING LIMB LENGTH-2"
+            }, 
+            {
+                "charcode": "0x1da79", 
+                "description": "", 
+                "title": "SIGNWRITING LIMB LENGTH-3"
+            }, 
+            {
+                "charcode": "0x1da7a", 
+                "description": "", 
+                "title": "SIGNWRITING LIMB LENGTH-4"
+            }, 
+            {
+                "charcode": "0x1da7b", 
+                "description": "", 
+                "title": "SIGNWRITING LIMB LENGTH-5"
+            }, 
+            {
+                "charcode": "0x1da7c", 
+                "description": "", 
+                "title": "SIGNWRITING LIMB LENGTH-6"
+            }, 
+            {
+                "charcode": "0x1da7d", 
+                "description": "", 
+                "title": "SIGNWRITING LIMB LENGTH-7"
+            }, 
+            {
+                "charcode": "0x1da7e", 
+                "description": "", 
+                "title": "SIGNWRITING FINGER"
+            }, 
+            {
+                "charcode": "0x1da7f", 
+                "description": "", 
+                "title": "SIGNWRITING LOCATION-WALLPLANE SPACE"
+            }, 
+            {
+                "charcode": "0x1da80", 
+                "description": "", 
+                "title": "SIGNWRITING LOCATION-FLOORPLANE SPACE"
+            }, 
+            {
+                "charcode": "0x1da81", 
+                "description": "", 
+                "title": "SIGNWRITING LOCATION HEIGHT"
+            }, 
+            {
+                "charcode": "0x1da82", 
+                "description": "", 
+                "title": "SIGNWRITING LOCATION WIDTH"
+            }, 
+            {
+                "charcode": "0x1da83", 
+                "description": "", 
+                "title": "SIGNWRITING LOCATION DEPTH"
+            }, 
+            {
+                "charcode": "0x1da84", 
+                "description": "", 
+                "title": "SIGNWRITING LOCATION HEAD NECK"
+            }, 
+            {
+                "charcode": "0x1da85", 
+                "description": "", 
+                "title": "SIGNWRITING LOCATION TORSO"
+            }, 
+            {
+                "charcode": "0x1da86", 
+                "description": "", 
+                "title": "SIGNWRITING LOCATION LIMBS DIGITS"
+            }, 
+            {
+                "charcode": "0x1da87", 
+                "description": "", 
+                "title": "SIGNWRITING COMMA"
+            }, 
+            {
+                "charcode": "0x1da88", 
+                "description": "", 
+                "title": "SIGNWRITING FULL STOP"
+            }, 
+            {
+                "charcode": "0x1da89", 
+                "description": "", 
+                "title": "SIGNWRITING SEMICOLON"
+            }, 
+            {
+                "charcode": "0x1da8a", 
+                "description": "", 
+                "title": "SIGNWRITING COLON"
+            }, 
+            {
+                "charcode": "0x1da8b", 
+                "description": "", 
+                "title": "SIGNWRITING PARENTHESIS"
+            }, 
+            {
+                "charcode": "0x1da9b", 
+                "description": "", 
+                "title": "SIGNWRITING FILL MODIFIER-2"
+            }, 
+            {
+                "charcode": "0x1da9c", 
+                "description": "", 
+                "title": "SIGNWRITING FILL MODIFIER-3"
+            }, 
+            {
+                "charcode": "0x1da9d", 
+                "description": "", 
+                "title": "SIGNWRITING FILL MODIFIER-4"
+            }, 
+            {
+                "charcode": "0x1da9e", 
+                "description": "", 
+                "title": "SIGNWRITING FILL MODIFIER-5"
+            }, 
+            {
+                "charcode": "0x1da9f", 
+                "description": "", 
+                "title": "SIGNWRITING FILL MODIFIER-6"
+            }, 
+            {
+                "charcode": "0x1daa1", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-2"
+            }, 
+            {
+                "charcode": "0x1daa2", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-3"
+            }, 
+            {
+                "charcode": "0x1daa3", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-4"
+            }, 
+            {
+                "charcode": "0x1daa4", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-5"
+            }, 
+            {
+                "charcode": "0x1daa5", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-6"
+            }, 
+            {
+                "charcode": "0x1daa6", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-7"
+            }, 
+            {
+                "charcode": "0x1daa7", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-8"
+            }, 
+            {
+                "charcode": "0x1daa8", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-9"
+            }, 
+            {
+                "charcode": "0x1daa9", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-10"
+            }, 
+            {
+                "charcode": "0x1daaa", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-11"
+            }, 
+            {
+                "charcode": "0x1daab", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-12"
+            }, 
+            {
+                "charcode": "0x1daac", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-13"
+            }, 
+            {
+                "charcode": "0x1daad", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-14"
+            }, 
+            {
+                "charcode": "0x1daae", 
+                "description": "", 
+                "title": "SIGNWRITING ROTATION MODIFIER-15"
+            }
+        ], 
+        "name": "Sutton SignWriting"
+    }
+]

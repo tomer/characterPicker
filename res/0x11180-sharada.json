@@ -659,6 +659,26 @@
                 "title": "SHARADA SEPARATOR"
             }, 
             {
+                "charcode": "0x111c9", 
+                "description": "", 
+                "title": "SHARADA SANDHI MARK"
+            }, 
+            {
+                "charcode": "0x111ca", 
+                "description": "", 
+                "title": "SHARADA SIGN NUKTA"
+            }, 
+            {
+                "charcode": "0x111cb", 
+                "description": "", 
+                "title": "SHARADA VOWEL MODIFIER MARK"
+            }, 
+            {
+                "charcode": "0x111cc", 
+                "description": "", 
+                "title": "SHARADA EXTRA SHORT VOWEL MARK"
+            }, 
+            {
                 "charcode": "0x111cd", 
                 "description": "", 
                 "title": "SHARADA SUTRA MARK"
@@ -757,6 +777,26 @@
                 "charcode": "0x111da", 
                 "description": "", 
                 "title": "SHARADA EKAM"
+            }, 
+            {
+                "charcode": "0x111db", 
+                "description": "", 
+                "title": "SHARADA SIGN SIDDHAM"
+            }, 
+            {
+                "charcode": "0x111dc", 
+                "description": "", 
+                "title": "SHARADA HEADSTROKE"
+            }, 
+            {
+                "charcode": "0x111dd", 
+                "description": "", 
+                "title": "SHARADA CONTINUATION SIGN"
+            }, 
+            {
+                "charcode": "0x111de", 
+                "description": "", 
+                "title": "SHARADA SECTION MARK-1"
             }
         ], 
         "name": "Sharada"

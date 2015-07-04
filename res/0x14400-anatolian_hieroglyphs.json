@@ -1,0 +1,2922 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x14400", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A001"
+            }, 
+            {
+                "charcode": "0x14401", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A002"
+            }, 
+            {
+                "charcode": "0x14402", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A003"
+            }, 
+            {
+                "charcode": "0x14403", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A004"
+            }, 
+            {
+                "charcode": "0x14404", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A005"
+            }, 
+            {
+                "charcode": "0x14405", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A006"
+            }, 
+            {
+                "charcode": "0x14406", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A007"
+            }, 
+            {
+                "charcode": "0x14407", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A008"
+            }, 
+            {
+                "charcode": "0x14408", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A009"
+            }, 
+            {
+                "charcode": "0x14409", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A010"
+            }, 
+            {
+                "charcode": "0x1440a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A010A"
+            }, 
+            {
+                "charcode": "0x1440b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A011"
+            }, 
+            {
+                "charcode": "0x1440c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A012"
+            }, 
+            {
+                "charcode": "0x1440d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A013"
+            }, 
+            {
+                "charcode": "0x1440e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A014"
+            }, 
+            {
+                "charcode": "0x1440f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A015"
+            }, 
+            {
+                "charcode": "0x14410", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A016"
+            }, 
+            {
+                "charcode": "0x14411", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A017"
+            }, 
+            {
+                "charcode": "0x14412", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A018"
+            }, 
+            {
+                "charcode": "0x14413", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A019"
+            }, 
+            {
+                "charcode": "0x14414", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A020"
+            }, 
+            {
+                "charcode": "0x14415", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A021"
+            }, 
+            {
+                "charcode": "0x14416", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A022"
+            }, 
+            {
+                "charcode": "0x14417", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A023"
+            }, 
+            {
+                "charcode": "0x14418", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A024"
+            }, 
+            {
+                "charcode": "0x14419", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A025"
+            }, 
+            {
+                "charcode": "0x1441a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A026"
+            }, 
+            {
+                "charcode": "0x1441b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A026A"
+            }, 
+            {
+                "charcode": "0x1441c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A027"
+            }, 
+            {
+                "charcode": "0x1441d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A028"
+            }, 
+            {
+                "charcode": "0x1441e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A029"
+            }, 
+            {
+                "charcode": "0x1441f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A030"
+            }, 
+            {
+                "charcode": "0x14420", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A031"
+            }, 
+            {
+                "charcode": "0x14421", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A032"
+            }, 
+            {
+                "charcode": "0x14422", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A033"
+            }, 
+            {
+                "charcode": "0x14423", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A034"
+            }, 
+            {
+                "charcode": "0x14424", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A035"
+            }, 
+            {
+                "charcode": "0x14425", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A036"
+            }, 
+            {
+                "charcode": "0x14426", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A037"
+            }, 
+            {
+                "charcode": "0x14427", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A038"
+            }, 
+            {
+                "charcode": "0x14428", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A039"
+            }, 
+            {
+                "charcode": "0x14429", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A039A"
+            }, 
+            {
+                "charcode": "0x1442a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A040"
+            }, 
+            {
+                "charcode": "0x1442b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A041"
+            }, 
+            {
+                "charcode": "0x1442c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A041A"
+            }, 
+            {
+                "charcode": "0x1442d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A042"
+            }, 
+            {
+                "charcode": "0x1442e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A043"
+            }, 
+            {
+                "charcode": "0x1442f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A044"
+            }, 
+            {
+                "charcode": "0x14430", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A045"
+            }, 
+            {
+                "charcode": "0x14431", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A045A"
+            }, 
+            {
+                "charcode": "0x14432", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A046"
+            }, 
+            {
+                "charcode": "0x14433", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A046A"
+            }, 
+            {
+                "charcode": "0x14434", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A046B"
+            }, 
+            {
+                "charcode": "0x14435", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A047"
+            }, 
+            {
+                "charcode": "0x14436", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A048"
+            }, 
+            {
+                "charcode": "0x14437", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A049"
+            }, 
+            {
+                "charcode": "0x14438", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A050"
+            }, 
+            {
+                "charcode": "0x14439", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A051"
+            }, 
+            {
+                "charcode": "0x1443a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A052"
+            }, 
+            {
+                "charcode": "0x1443b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A053"
+            }, 
+            {
+                "charcode": "0x1443c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A054"
+            }, 
+            {
+                "charcode": "0x1443d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A055"
+            }, 
+            {
+                "charcode": "0x1443e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A056"
+            }, 
+            {
+                "charcode": "0x1443f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A057"
+            }, 
+            {
+                "charcode": "0x14440", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A058"
+            }, 
+            {
+                "charcode": "0x14441", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A059"
+            }, 
+            {
+                "charcode": "0x14442", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A060"
+            }, 
+            {
+                "charcode": "0x14443", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A061"
+            }, 
+            {
+                "charcode": "0x14444", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A062"
+            }, 
+            {
+                "charcode": "0x14445", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A063"
+            }, 
+            {
+                "charcode": "0x14446", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A064"
+            }, 
+            {
+                "charcode": "0x14447", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A065"
+            }, 
+            {
+                "charcode": "0x14448", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A066"
+            }, 
+            {
+                "charcode": "0x14449", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A066A"
+            }, 
+            {
+                "charcode": "0x1444a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A066B"
+            }, 
+            {
+                "charcode": "0x1444b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A066C"
+            }, 
+            {
+                "charcode": "0x1444c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A067"
+            }, 
+            {
+                "charcode": "0x1444d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A068"
+            }, 
+            {
+                "charcode": "0x1444e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A069"
+            }, 
+            {
+                "charcode": "0x1444f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A070"
+            }, 
+            {
+                "charcode": "0x14450", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A071"
+            }, 
+            {
+                "charcode": "0x14451", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A072"
+            }, 
+            {
+                "charcode": "0x14452", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A073"
+            }, 
+            {
+                "charcode": "0x14453", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A074"
+            }, 
+            {
+                "charcode": "0x14454", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A075"
+            }, 
+            {
+                "charcode": "0x14455", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A076"
+            }, 
+            {
+                "charcode": "0x14456", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A077"
+            }, 
+            {
+                "charcode": "0x14457", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A078"
+            }, 
+            {
+                "charcode": "0x14458", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A079"
+            }, 
+            {
+                "charcode": "0x14459", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A080"
+            }, 
+            {
+                "charcode": "0x1445a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A081"
+            }, 
+            {
+                "charcode": "0x1445b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A082"
+            }, 
+            {
+                "charcode": "0x1445c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A083"
+            }, 
+            {
+                "charcode": "0x1445d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A084"
+            }, 
+            {
+                "charcode": "0x1445e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A085"
+            }, 
+            {
+                "charcode": "0x1445f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A086"
+            }, 
+            {
+                "charcode": "0x14460", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A087"
+            }, 
+            {
+                "charcode": "0x14461", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A088"
+            }, 
+            {
+                "charcode": "0x14462", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A089"
+            }, 
+            {
+                "charcode": "0x14463", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A090"
+            }, 
+            {
+                "charcode": "0x14464", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A091"
+            }, 
+            {
+                "charcode": "0x14465", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A092"
+            }, 
+            {
+                "charcode": "0x14466", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A093"
+            }, 
+            {
+                "charcode": "0x14467", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A094"
+            }, 
+            {
+                "charcode": "0x14468", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A095"
+            }, 
+            {
+                "charcode": "0x14469", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A096"
+            }, 
+            {
+                "charcode": "0x1446a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A097"
+            }, 
+            {
+                "charcode": "0x1446b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A097A"
+            }, 
+            {
+                "charcode": "0x1446c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A098"
+            }, 
+            {
+                "charcode": "0x1446d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A098A"
+            }, 
+            {
+                "charcode": "0x1446e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A099"
+            }, 
+            {
+                "charcode": "0x1446f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A100"
+            }, 
+            {
+                "charcode": "0x14470", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A100A"
+            }, 
+            {
+                "charcode": "0x14471", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A101"
+            }, 
+            {
+                "charcode": "0x14472", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A101A"
+            }, 
+            {
+                "charcode": "0x14473", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A102"
+            }, 
+            {
+                "charcode": "0x14474", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A102A"
+            }, 
+            {
+                "charcode": "0x14475", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A103"
+            }, 
+            {
+                "charcode": "0x14476", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A104"
+            }, 
+            {
+                "charcode": "0x14477", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A104A"
+            }, 
+            {
+                "charcode": "0x14478", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A104B"
+            }, 
+            {
+                "charcode": "0x14479", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A104C"
+            }, 
+            {
+                "charcode": "0x1447a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A105"
+            }, 
+            {
+                "charcode": "0x1447b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A105A"
+            }, 
+            {
+                "charcode": "0x1447c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A105B"
+            }, 
+            {
+                "charcode": "0x1447d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A106"
+            }, 
+            {
+                "charcode": "0x1447e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A107"
+            }, 
+            {
+                "charcode": "0x1447f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A107A"
+            }, 
+            {
+                "charcode": "0x14480", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A107B"
+            }, 
+            {
+                "charcode": "0x14481", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A107C"
+            }, 
+            {
+                "charcode": "0x14482", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A108"
+            }, 
+            {
+                "charcode": "0x14483", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A109"
+            }, 
+            {
+                "charcode": "0x14484", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A110"
+            }, 
+            {
+                "charcode": "0x14485", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A110A"
+            }, 
+            {
+                "charcode": "0x14486", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A110B"
+            }, 
+            {
+                "charcode": "0x14487", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A111"
+            }, 
+            {
+                "charcode": "0x14488", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A112"
+            }, 
+            {
+                "charcode": "0x14489", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A113"
+            }, 
+            {
+                "charcode": "0x1448a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A114"
+            }, 
+            {
+                "charcode": "0x1448b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A115"
+            }, 
+            {
+                "charcode": "0x1448c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A115A"
+            }, 
+            {
+                "charcode": "0x1448d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A116"
+            }, 
+            {
+                "charcode": "0x1448e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A117"
+            }, 
+            {
+                "charcode": "0x1448f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A118"
+            }, 
+            {
+                "charcode": "0x14490", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A119"
+            }, 
+            {
+                "charcode": "0x14491", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A120"
+            }, 
+            {
+                "charcode": "0x14492", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A121"
+            }, 
+            {
+                "charcode": "0x14493", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A122"
+            }, 
+            {
+                "charcode": "0x14494", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A123"
+            }, 
+            {
+                "charcode": "0x14495", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A124"
+            }, 
+            {
+                "charcode": "0x14496", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A125"
+            }, 
+            {
+                "charcode": "0x14497", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A125A"
+            }, 
+            {
+                "charcode": "0x14498", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A126"
+            }, 
+            {
+                "charcode": "0x14499", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A127"
+            }, 
+            {
+                "charcode": "0x1449a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A128"
+            }, 
+            {
+                "charcode": "0x1449b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A129"
+            }, 
+            {
+                "charcode": "0x1449c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A130"
+            }, 
+            {
+                "charcode": "0x1449d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A131"
+            }, 
+            {
+                "charcode": "0x1449e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A132"
+            }, 
+            {
+                "charcode": "0x1449f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A133"
+            }, 
+            {
+                "charcode": "0x144a0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A134"
+            }, 
+            {
+                "charcode": "0x144a1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A135"
+            }, 
+            {
+                "charcode": "0x144a2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A135A"
+            }, 
+            {
+                "charcode": "0x144a3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A136"
+            }, 
+            {
+                "charcode": "0x144a4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A137"
+            }, 
+            {
+                "charcode": "0x144a5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A138"
+            }, 
+            {
+                "charcode": "0x144a6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A139"
+            }, 
+            {
+                "charcode": "0x144a7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A140"
+            }, 
+            {
+                "charcode": "0x144a8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A141"
+            }, 
+            {
+                "charcode": "0x144a9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A142"
+            }, 
+            {
+                "charcode": "0x144aa", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A143"
+            }, 
+            {
+                "charcode": "0x144ab", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A144"
+            }, 
+            {
+                "charcode": "0x144ac", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A145"
+            }, 
+            {
+                "charcode": "0x144ad", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A146"
+            }, 
+            {
+                "charcode": "0x144ae", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A147"
+            }, 
+            {
+                "charcode": "0x144af", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A148"
+            }, 
+            {
+                "charcode": "0x144b0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A149"
+            }, 
+            {
+                "charcode": "0x144b1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A150"
+            }, 
+            {
+                "charcode": "0x144b2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A151"
+            }, 
+            {
+                "charcode": "0x144b3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A152"
+            }, 
+            {
+                "charcode": "0x144b4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A153"
+            }, 
+            {
+                "charcode": "0x144b5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A154"
+            }, 
+            {
+                "charcode": "0x144b6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A155"
+            }, 
+            {
+                "charcode": "0x144b7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A156"
+            }, 
+            {
+                "charcode": "0x144b8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A157"
+            }, 
+            {
+                "charcode": "0x144b9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A158"
+            }, 
+            {
+                "charcode": "0x144ba", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A159"
+            }, 
+            {
+                "charcode": "0x144bb", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A160"
+            }, 
+            {
+                "charcode": "0x144bc", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A161"
+            }, 
+            {
+                "charcode": "0x144bd", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A162"
+            }, 
+            {
+                "charcode": "0x144be", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A163"
+            }, 
+            {
+                "charcode": "0x144bf", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A164"
+            }, 
+            {
+                "charcode": "0x144c0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A165"
+            }, 
+            {
+                "charcode": "0x144c1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A166"
+            }, 
+            {
+                "charcode": "0x144c2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A167"
+            }, 
+            {
+                "charcode": "0x144c3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A168"
+            }, 
+            {
+                "charcode": "0x144c4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A169"
+            }, 
+            {
+                "charcode": "0x144c5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A170"
+            }, 
+            {
+                "charcode": "0x144c6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A171"
+            }, 
+            {
+                "charcode": "0x144c7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A172"
+            }, 
+            {
+                "charcode": "0x144c8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A173"
+            }, 
+            {
+                "charcode": "0x144c9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A174"
+            }, 
+            {
+                "charcode": "0x144ca", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A175"
+            }, 
+            {
+                "charcode": "0x144cb", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A176"
+            }, 
+            {
+                "charcode": "0x144cc", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A177"
+            }, 
+            {
+                "charcode": "0x144cd", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A178"
+            }, 
+            {
+                "charcode": "0x144ce", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A179"
+            }, 
+            {
+                "charcode": "0x144cf", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A180"
+            }, 
+            {
+                "charcode": "0x144d0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A181"
+            }, 
+            {
+                "charcode": "0x144d1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A182"
+            }, 
+            {
+                "charcode": "0x144d2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A183"
+            }, 
+            {
+                "charcode": "0x144d3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A184"
+            }, 
+            {
+                "charcode": "0x144d4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A185"
+            }, 
+            {
+                "charcode": "0x144d5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A186"
+            }, 
+            {
+                "charcode": "0x144d6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A187"
+            }, 
+            {
+                "charcode": "0x144d7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A188"
+            }, 
+            {
+                "charcode": "0x144d8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A189"
+            }, 
+            {
+                "charcode": "0x144d9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A190"
+            }, 
+            {
+                "charcode": "0x144da", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A191"
+            }, 
+            {
+                "charcode": "0x144db", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A192"
+            }, 
+            {
+                "charcode": "0x144dc", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A193"
+            }, 
+            {
+                "charcode": "0x144dd", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A194"
+            }, 
+            {
+                "charcode": "0x144de", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A195"
+            }, 
+            {
+                "charcode": "0x144df", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A196"
+            }, 
+            {
+                "charcode": "0x144e0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A197"
+            }, 
+            {
+                "charcode": "0x144e1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A198"
+            }, 
+            {
+                "charcode": "0x144e2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A199"
+            }, 
+            {
+                "charcode": "0x144e3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A200"
+            }, 
+            {
+                "charcode": "0x144e4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A201"
+            }, 
+            {
+                "charcode": "0x144e5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A202"
+            }, 
+            {
+                "charcode": "0x144e6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A202A"
+            }, 
+            {
+                "charcode": "0x144e7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A202B"
+            }, 
+            {
+                "charcode": "0x144e8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A203"
+            }, 
+            {
+                "charcode": "0x144e9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A204"
+            }, 
+            {
+                "charcode": "0x144ea", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A205"
+            }, 
+            {
+                "charcode": "0x144eb", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A206"
+            }, 
+            {
+                "charcode": "0x144ec", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A207"
+            }, 
+            {
+                "charcode": "0x144ed", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A207A"
+            }, 
+            {
+                "charcode": "0x144ee", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A208"
+            }, 
+            {
+                "charcode": "0x144ef", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A209"
+            }, 
+            {
+                "charcode": "0x144f0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A209A"
+            }, 
+            {
+                "charcode": "0x144f1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A210"
+            }, 
+            {
+                "charcode": "0x144f2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A211"
+            }, 
+            {
+                "charcode": "0x144f3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A212"
+            }, 
+            {
+                "charcode": "0x144f4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A213"
+            }, 
+            {
+                "charcode": "0x144f5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A214"
+            }, 
+            {
+                "charcode": "0x144f6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A215"
+            }, 
+            {
+                "charcode": "0x144f7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A215A"
+            }, 
+            {
+                "charcode": "0x144f8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A216"
+            }, 
+            {
+                "charcode": "0x144f9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A216A"
+            }, 
+            {
+                "charcode": "0x144fa", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A217"
+            }, 
+            {
+                "charcode": "0x144fb", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A218"
+            }, 
+            {
+                "charcode": "0x144fc", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A219"
+            }, 
+            {
+                "charcode": "0x144fd", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A220"
+            }, 
+            {
+                "charcode": "0x144fe", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A221"
+            }, 
+            {
+                "charcode": "0x144ff", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A222"
+            }, 
+            {
+                "charcode": "0x14500", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A223"
+            }, 
+            {
+                "charcode": "0x14501", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A224"
+            }, 
+            {
+                "charcode": "0x14502", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A225"
+            }, 
+            {
+                "charcode": "0x14503", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A226"
+            }, 
+            {
+                "charcode": "0x14504", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A227"
+            }, 
+            {
+                "charcode": "0x14505", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A227A"
+            }, 
+            {
+                "charcode": "0x14506", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A228"
+            }, 
+            {
+                "charcode": "0x14507", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A229"
+            }, 
+            {
+                "charcode": "0x14508", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A230"
+            }, 
+            {
+                "charcode": "0x14509", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A231"
+            }, 
+            {
+                "charcode": "0x1450a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A232"
+            }, 
+            {
+                "charcode": "0x1450b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A233"
+            }, 
+            {
+                "charcode": "0x1450c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A234"
+            }, 
+            {
+                "charcode": "0x1450d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A235"
+            }, 
+            {
+                "charcode": "0x1450e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A236"
+            }, 
+            {
+                "charcode": "0x1450f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A237"
+            }, 
+            {
+                "charcode": "0x14510", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A238"
+            }, 
+            {
+                "charcode": "0x14511", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A239"
+            }, 
+            {
+                "charcode": "0x14512", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A240"
+            }, 
+            {
+                "charcode": "0x14513", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A241"
+            }, 
+            {
+                "charcode": "0x14514", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A242"
+            }, 
+            {
+                "charcode": "0x14515", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A243"
+            }, 
+            {
+                "charcode": "0x14516", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A244"
+            }, 
+            {
+                "charcode": "0x14517", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A245"
+            }, 
+            {
+                "charcode": "0x14518", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A246"
+            }, 
+            {
+                "charcode": "0x14519", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A247"
+            }, 
+            {
+                "charcode": "0x1451a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A248"
+            }, 
+            {
+                "charcode": "0x1451b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A249"
+            }, 
+            {
+                "charcode": "0x1451c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A250"
+            }, 
+            {
+                "charcode": "0x1451d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A251"
+            }, 
+            {
+                "charcode": "0x1451e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A252"
+            }, 
+            {
+                "charcode": "0x1451f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A253"
+            }, 
+            {
+                "charcode": "0x14520", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A254"
+            }, 
+            {
+                "charcode": "0x14521", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A255"
+            }, 
+            {
+                "charcode": "0x14522", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A256"
+            }, 
+            {
+                "charcode": "0x14523", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A257"
+            }, 
+            {
+                "charcode": "0x14524", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A258"
+            }, 
+            {
+                "charcode": "0x14525", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A259"
+            }, 
+            {
+                "charcode": "0x14526", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A260"
+            }, 
+            {
+                "charcode": "0x14527", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A261"
+            }, 
+            {
+                "charcode": "0x14528", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A262"
+            }, 
+            {
+                "charcode": "0x14529", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A263"
+            }, 
+            {
+                "charcode": "0x1452a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A264"
+            }, 
+            {
+                "charcode": "0x1452b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A265"
+            }, 
+            {
+                "charcode": "0x1452c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A266"
+            }, 
+            {
+                "charcode": "0x1452d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A267"
+            }, 
+            {
+                "charcode": "0x1452e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A267A"
+            }, 
+            {
+                "charcode": "0x1452f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A268"
+            }, 
+            {
+                "charcode": "0x14530", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A269"
+            }, 
+            {
+                "charcode": "0x14531", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A270"
+            }, 
+            {
+                "charcode": "0x14532", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A271"
+            }, 
+            {
+                "charcode": "0x14533", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A272"
+            }, 
+            {
+                "charcode": "0x14534", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A273"
+            }, 
+            {
+                "charcode": "0x14535", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A274"
+            }, 
+            {
+                "charcode": "0x14536", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A275"
+            }, 
+            {
+                "charcode": "0x14537", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A276"
+            }, 
+            {
+                "charcode": "0x14538", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A277"
+            }, 
+            {
+                "charcode": "0x14539", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A278"
+            }, 
+            {
+                "charcode": "0x1453a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A279"
+            }, 
+            {
+                "charcode": "0x1453b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A280"
+            }, 
+            {
+                "charcode": "0x1453c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A281"
+            }, 
+            {
+                "charcode": "0x1453d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A282"
+            }, 
+            {
+                "charcode": "0x1453e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A283"
+            }, 
+            {
+                "charcode": "0x1453f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A284"
+            }, 
+            {
+                "charcode": "0x14540", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A285"
+            }, 
+            {
+                "charcode": "0x14541", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A286"
+            }, 
+            {
+                "charcode": "0x14542", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A287"
+            }, 
+            {
+                "charcode": "0x14543", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A288"
+            }, 
+            {
+                "charcode": "0x14544", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A289"
+            }, 
+            {
+                "charcode": "0x14545", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A289A"
+            }, 
+            {
+                "charcode": "0x14546", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A290"
+            }, 
+            {
+                "charcode": "0x14547", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A291"
+            }, 
+            {
+                "charcode": "0x14548", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A292"
+            }, 
+            {
+                "charcode": "0x14549", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A293"
+            }, 
+            {
+                "charcode": "0x1454a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A294"
+            }, 
+            {
+                "charcode": "0x1454b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A294A"
+            }, 
+            {
+                "charcode": "0x1454c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A295"
+            }, 
+            {
+                "charcode": "0x1454d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A296"
+            }, 
+            {
+                "charcode": "0x1454e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A297"
+            }, 
+            {
+                "charcode": "0x1454f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A298"
+            }, 
+            {
+                "charcode": "0x14550", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A299"
+            }, 
+            {
+                "charcode": "0x14551", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A299A"
+            }, 
+            {
+                "charcode": "0x14552", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A300"
+            }, 
+            {
+                "charcode": "0x14553", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A301"
+            }, 
+            {
+                "charcode": "0x14554", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A302"
+            }, 
+            {
+                "charcode": "0x14555", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A303"
+            }, 
+            {
+                "charcode": "0x14556", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A304"
+            }, 
+            {
+                "charcode": "0x14557", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A305"
+            }, 
+            {
+                "charcode": "0x14558", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A306"
+            }, 
+            {
+                "charcode": "0x14559", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A307"
+            }, 
+            {
+                "charcode": "0x1455a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A308"
+            }, 
+            {
+                "charcode": "0x1455b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A309"
+            }, 
+            {
+                "charcode": "0x1455c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A309A"
+            }, 
+            {
+                "charcode": "0x1455d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A310"
+            }, 
+            {
+                "charcode": "0x1455e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A311"
+            }, 
+            {
+                "charcode": "0x1455f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A312"
+            }, 
+            {
+                "charcode": "0x14560", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A313"
+            }, 
+            {
+                "charcode": "0x14561", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A314"
+            }, 
+            {
+                "charcode": "0x14562", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A315"
+            }, 
+            {
+                "charcode": "0x14563", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A316"
+            }, 
+            {
+                "charcode": "0x14564", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A317"
+            }, 
+            {
+                "charcode": "0x14565", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A318"
+            }, 
+            {
+                "charcode": "0x14566", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A319"
+            }, 
+            {
+                "charcode": "0x14567", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A320"
+            }, 
+            {
+                "charcode": "0x14568", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A321"
+            }, 
+            {
+                "charcode": "0x14569", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A322"
+            }, 
+            {
+                "charcode": "0x1456a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A323"
+            }, 
+            {
+                "charcode": "0x1456b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A324"
+            }, 
+            {
+                "charcode": "0x1456c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A325"
+            }, 
+            {
+                "charcode": "0x1456d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A326"
+            }, 
+            {
+                "charcode": "0x1456e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A327"
+            }, 
+            {
+                "charcode": "0x1456f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A328"
+            }, 
+            {
+                "charcode": "0x14570", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A329"
+            }, 
+            {
+                "charcode": "0x14571", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A329A"
+            }, 
+            {
+                "charcode": "0x14572", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A330"
+            }, 
+            {
+                "charcode": "0x14573", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A331"
+            }, 
+            {
+                "charcode": "0x14574", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A332A"
+            }, 
+            {
+                "charcode": "0x14575", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A332B"
+            }, 
+            {
+                "charcode": "0x14576", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A332C"
+            }, 
+            {
+                "charcode": "0x14577", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A333"
+            }, 
+            {
+                "charcode": "0x14578", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A334"
+            }, 
+            {
+                "charcode": "0x14579", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A335"
+            }, 
+            {
+                "charcode": "0x1457a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A336"
+            }, 
+            {
+                "charcode": "0x1457b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A336A"
+            }, 
+            {
+                "charcode": "0x1457c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A336B"
+            }, 
+            {
+                "charcode": "0x1457d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A336C"
+            }, 
+            {
+                "charcode": "0x1457e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A337"
+            }, 
+            {
+                "charcode": "0x1457f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A338"
+            }, 
+            {
+                "charcode": "0x14580", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A339"
+            }, 
+            {
+                "charcode": "0x14581", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A340"
+            }, 
+            {
+                "charcode": "0x14582", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A341"
+            }, 
+            {
+                "charcode": "0x14583", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A342"
+            }, 
+            {
+                "charcode": "0x14584", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A343"
+            }, 
+            {
+                "charcode": "0x14585", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A344"
+            }, 
+            {
+                "charcode": "0x14586", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A345"
+            }, 
+            {
+                "charcode": "0x14587", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A346"
+            }, 
+            {
+                "charcode": "0x14588", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A347"
+            }, 
+            {
+                "charcode": "0x14589", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A348"
+            }, 
+            {
+                "charcode": "0x1458a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A349"
+            }, 
+            {
+                "charcode": "0x1458b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A350"
+            }, 
+            {
+                "charcode": "0x1458c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A351"
+            }, 
+            {
+                "charcode": "0x1458d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A352"
+            }, 
+            {
+                "charcode": "0x1458e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A353"
+            }, 
+            {
+                "charcode": "0x1458f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A354"
+            }, 
+            {
+                "charcode": "0x14590", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A355"
+            }, 
+            {
+                "charcode": "0x14591", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A356"
+            }, 
+            {
+                "charcode": "0x14592", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A357"
+            }, 
+            {
+                "charcode": "0x14593", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A358"
+            }, 
+            {
+                "charcode": "0x14594", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A359"
+            }, 
+            {
+                "charcode": "0x14595", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A359A"
+            }, 
+            {
+                "charcode": "0x14596", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A360"
+            }, 
+            {
+                "charcode": "0x14597", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A361"
+            }, 
+            {
+                "charcode": "0x14598", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A362"
+            }, 
+            {
+                "charcode": "0x14599", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A363"
+            }, 
+            {
+                "charcode": "0x1459a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A364"
+            }, 
+            {
+                "charcode": "0x1459b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A364A"
+            }, 
+            {
+                "charcode": "0x1459c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A365"
+            }, 
+            {
+                "charcode": "0x1459d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A366"
+            }, 
+            {
+                "charcode": "0x1459e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A367"
+            }, 
+            {
+                "charcode": "0x1459f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A368"
+            }, 
+            {
+                "charcode": "0x145a0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A368A"
+            }, 
+            {
+                "charcode": "0x145a1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A369"
+            }, 
+            {
+                "charcode": "0x145a2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A370"
+            }, 
+            {
+                "charcode": "0x145a3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A371"
+            }, 
+            {
+                "charcode": "0x145a4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A371A"
+            }, 
+            {
+                "charcode": "0x145a5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A372"
+            }, 
+            {
+                "charcode": "0x145a6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A373"
+            }, 
+            {
+                "charcode": "0x145a7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A374"
+            }, 
+            {
+                "charcode": "0x145a8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A375"
+            }, 
+            {
+                "charcode": "0x145a9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A376"
+            }, 
+            {
+                "charcode": "0x145aa", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A377"
+            }, 
+            {
+                "charcode": "0x145ab", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A378"
+            }, 
+            {
+                "charcode": "0x145ac", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A379"
+            }, 
+            {
+                "charcode": "0x145ad", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A380"
+            }, 
+            {
+                "charcode": "0x145ae", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A381"
+            }, 
+            {
+                "charcode": "0x145af", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A381A"
+            }, 
+            {
+                "charcode": "0x145b0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A382"
+            }, 
+            {
+                "charcode": "0x145b1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A383 RA OR RI"
+            }, 
+            {
+                "charcode": "0x145b2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A383A"
+            }, 
+            {
+                "charcode": "0x145b3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A384"
+            }, 
+            {
+                "charcode": "0x145b4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A385"
+            }, 
+            {
+                "charcode": "0x145b5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A386"
+            }, 
+            {
+                "charcode": "0x145b6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A386A"
+            }, 
+            {
+                "charcode": "0x145b7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A387"
+            }, 
+            {
+                "charcode": "0x145b8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A388"
+            }, 
+            {
+                "charcode": "0x145b9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A389"
+            }, 
+            {
+                "charcode": "0x145ba", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A390"
+            }, 
+            {
+                "charcode": "0x145bb", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A391"
+            }, 
+            {
+                "charcode": "0x145bc", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A392"
+            }, 
+            {
+                "charcode": "0x145bd", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A393 EIGHT"
+            }, 
+            {
+                "charcode": "0x145be", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A394"
+            }, 
+            {
+                "charcode": "0x145bf", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A395"
+            }, 
+            {
+                "charcode": "0x145c0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A396"
+            }, 
+            {
+                "charcode": "0x145c1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A397"
+            }, 
+            {
+                "charcode": "0x145c2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A398"
+            }, 
+            {
+                "charcode": "0x145c3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A399"
+            }, 
+            {
+                "charcode": "0x145c4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A400"
+            }, 
+            {
+                "charcode": "0x145c5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A401"
+            }, 
+            {
+                "charcode": "0x145c6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A402"
+            }, 
+            {
+                "charcode": "0x145c7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A403"
+            }, 
+            {
+                "charcode": "0x145c8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A404"
+            }, 
+            {
+                "charcode": "0x145c9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A405"
+            }, 
+            {
+                "charcode": "0x145ca", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A406"
+            }, 
+            {
+                "charcode": "0x145cb", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A407"
+            }, 
+            {
+                "charcode": "0x145cc", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A408"
+            }, 
+            {
+                "charcode": "0x145cd", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A409"
+            }, 
+            {
+                "charcode": "0x145ce", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A410 BEGIN LOGOGRAM MARK"
+            }, 
+            {
+                "charcode": "0x145cf", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A410A END LOGOGRAM MARK"
+            }, 
+            {
+                "charcode": "0x145d0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A411"
+            }, 
+            {
+                "charcode": "0x145d1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A412"
+            }, 
+            {
+                "charcode": "0x145d2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A413"
+            }, 
+            {
+                "charcode": "0x145d3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A414"
+            }, 
+            {
+                "charcode": "0x145d4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A415"
+            }, 
+            {
+                "charcode": "0x145d5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A416"
+            }, 
+            {
+                "charcode": "0x145d6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A417"
+            }, 
+            {
+                "charcode": "0x145d7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A418"
+            }, 
+            {
+                "charcode": "0x145d8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A419"
+            }, 
+            {
+                "charcode": "0x145d9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A420"
+            }, 
+            {
+                "charcode": "0x145da", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A421"
+            }, 
+            {
+                "charcode": "0x145db", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A422"
+            }, 
+            {
+                "charcode": "0x145dc", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A423"
+            }, 
+            {
+                "charcode": "0x145dd", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A424"
+            }, 
+            {
+                "charcode": "0x145de", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A425"
+            }, 
+            {
+                "charcode": "0x145df", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A426"
+            }, 
+            {
+                "charcode": "0x145e0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A427"
+            }, 
+            {
+                "charcode": "0x145e1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A428"
+            }, 
+            {
+                "charcode": "0x145e2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A429"
+            }, 
+            {
+                "charcode": "0x145e3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A430"
+            }, 
+            {
+                "charcode": "0x145e4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A431"
+            }, 
+            {
+                "charcode": "0x145e5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A432"
+            }, 
+            {
+                "charcode": "0x145e6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A433"
+            }, 
+            {
+                "charcode": "0x145e7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A434"
+            }, 
+            {
+                "charcode": "0x145e8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A435"
+            }, 
+            {
+                "charcode": "0x145e9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A436"
+            }, 
+            {
+                "charcode": "0x145ea", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A437"
+            }, 
+            {
+                "charcode": "0x145eb", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A438"
+            }, 
+            {
+                "charcode": "0x145ec", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A439"
+            }, 
+            {
+                "charcode": "0x145ed", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A440"
+            }, 
+            {
+                "charcode": "0x145ee", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A441"
+            }, 
+            {
+                "charcode": "0x145ef", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A442"
+            }, 
+            {
+                "charcode": "0x145f0", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A443"
+            }, 
+            {
+                "charcode": "0x145f1", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A444"
+            }, 
+            {
+                "charcode": "0x145f2", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A445"
+            }, 
+            {
+                "charcode": "0x145f3", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A446"
+            }, 
+            {
+                "charcode": "0x145f4", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A447"
+            }, 
+            {
+                "charcode": "0x145f5", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A448"
+            }, 
+            {
+                "charcode": "0x145f6", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A449"
+            }, 
+            {
+                "charcode": "0x145f7", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A450"
+            }, 
+            {
+                "charcode": "0x145f8", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A450A"
+            }, 
+            {
+                "charcode": "0x145f9", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A451"
+            }, 
+            {
+                "charcode": "0x145fa", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A452"
+            }, 
+            {
+                "charcode": "0x145fb", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A453"
+            }, 
+            {
+                "charcode": "0x145fc", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A454"
+            }, 
+            {
+                "charcode": "0x145fd", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A455"
+            }, 
+            {
+                "charcode": "0x145fe", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A456"
+            }, 
+            {
+                "charcode": "0x145ff", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A457"
+            }, 
+            {
+                "charcode": "0x14600", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A457A"
+            }, 
+            {
+                "charcode": "0x14601", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A458"
+            }, 
+            {
+                "charcode": "0x14602", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A459"
+            }, 
+            {
+                "charcode": "0x14603", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A460"
+            }, 
+            {
+                "charcode": "0x14604", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A461"
+            }, 
+            {
+                "charcode": "0x14605", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A462"
+            }, 
+            {
+                "charcode": "0x14606", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A463"
+            }, 
+            {
+                "charcode": "0x14607", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A464"
+            }, 
+            {
+                "charcode": "0x14608", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A465"
+            }, 
+            {
+                "charcode": "0x14609", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A466"
+            }, 
+            {
+                "charcode": "0x1460a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A467"
+            }, 
+            {
+                "charcode": "0x1460b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A468"
+            }, 
+            {
+                "charcode": "0x1460c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A469"
+            }, 
+            {
+                "charcode": "0x1460d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A470"
+            }, 
+            {
+                "charcode": "0x1460e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A471"
+            }, 
+            {
+                "charcode": "0x1460f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A472"
+            }, 
+            {
+                "charcode": "0x14610", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A473"
+            }, 
+            {
+                "charcode": "0x14611", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A474"
+            }, 
+            {
+                "charcode": "0x14612", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A475"
+            }, 
+            {
+                "charcode": "0x14613", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A476"
+            }, 
+            {
+                "charcode": "0x14614", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A477"
+            }, 
+            {
+                "charcode": "0x14615", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A478"
+            }, 
+            {
+                "charcode": "0x14616", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A479"
+            }, 
+            {
+                "charcode": "0x14617", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A480"
+            }, 
+            {
+                "charcode": "0x14618", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A481"
+            }, 
+            {
+                "charcode": "0x14619", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A482"
+            }, 
+            {
+                "charcode": "0x1461a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A483"
+            }, 
+            {
+                "charcode": "0x1461b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A484"
+            }, 
+            {
+                "charcode": "0x1461c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A485"
+            }, 
+            {
+                "charcode": "0x1461d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A486"
+            }, 
+            {
+                "charcode": "0x1461e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A487"
+            }, 
+            {
+                "charcode": "0x1461f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A488"
+            }, 
+            {
+                "charcode": "0x14620", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A489"
+            }, 
+            {
+                "charcode": "0x14621", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A490"
+            }, 
+            {
+                "charcode": "0x14622", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A491"
+            }, 
+            {
+                "charcode": "0x14623", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A492"
+            }, 
+            {
+                "charcode": "0x14624", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A493"
+            }, 
+            {
+                "charcode": "0x14625", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A494"
+            }, 
+            {
+                "charcode": "0x14626", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A495"
+            }, 
+            {
+                "charcode": "0x14627", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A496"
+            }, 
+            {
+                "charcode": "0x14628", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A497"
+            }, 
+            {
+                "charcode": "0x14629", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A501"
+            }, 
+            {
+                "charcode": "0x1462a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A502"
+            }, 
+            {
+                "charcode": "0x1462b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A503"
+            }, 
+            {
+                "charcode": "0x1462c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A504"
+            }, 
+            {
+                "charcode": "0x1462d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A505"
+            }, 
+            {
+                "charcode": "0x1462e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A506"
+            }, 
+            {
+                "charcode": "0x1462f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A507"
+            }, 
+            {
+                "charcode": "0x14630", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A508"
+            }, 
+            {
+                "charcode": "0x14631", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A509"
+            }, 
+            {
+                "charcode": "0x14632", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A510"
+            }, 
+            {
+                "charcode": "0x14633", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A511"
+            }, 
+            {
+                "charcode": "0x14634", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A512"
+            }, 
+            {
+                "charcode": "0x14635", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A513"
+            }, 
+            {
+                "charcode": "0x14636", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A514"
+            }, 
+            {
+                "charcode": "0x14637", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A515"
+            }, 
+            {
+                "charcode": "0x14638", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A516"
+            }, 
+            {
+                "charcode": "0x14639", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A517"
+            }, 
+            {
+                "charcode": "0x1463a", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A518"
+            }, 
+            {
+                "charcode": "0x1463b", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A519"
+            }, 
+            {
+                "charcode": "0x1463c", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A520"
+            }, 
+            {
+                "charcode": "0x1463d", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A521"
+            }, 
+            {
+                "charcode": "0x1463e", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A522"
+            }, 
+            {
+                "charcode": "0x1463f", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A523"
+            }, 
+            {
+                "charcode": "0x14640", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A524"
+            }, 
+            {
+                "charcode": "0x14641", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A525"
+            }, 
+            {
+                "charcode": "0x14642", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A526"
+            }, 
+            {
+                "charcode": "0x14643", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A527"
+            }, 
+            {
+                "charcode": "0x14644", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A528"
+            }, 
+            {
+                "charcode": "0x14645", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A529"
+            }, 
+            {
+                "charcode": "0x14646", 
+                "description": "", 
+                "title": "ANATOLIAN HIEROGLYPH A530"
+            }
+        ], 
+        "name": "Anatolian Hieroglyphs"
+    }
+]

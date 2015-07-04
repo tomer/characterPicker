@@ -1358,6 +1358,26 @@
                 "charcode": "0x2bd1", 
                 "description": "", 
                 "title": "UNCERTAINTY SIGN"
+            }, 
+            {
+                "charcode": "0x2bec", 
+                "description": "", 
+                "title": "LEFTWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS"
+            }, 
+            {
+                "charcode": "0x2bed", 
+                "description": "", 
+                "title": "UPWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS"
+            }, 
+            {
+                "charcode": "0x2bee", 
+                "description": "", 
+                "title": "RIGHTWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS"
+            }, 
+            {
+                "charcode": "0x2bef", 
+                "description": "", 
+                "title": "DOWNWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS"
             }
         ], 
         "name": "Miscellaneous Symbols and Arrows"

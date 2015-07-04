@@ -360,6 +360,106 @@
                 "charcode": "0x115c9", 
                 "description": "", 
                 "title": "SIDDHAM END OF TEXT MARK"
+            }, 
+            {
+                "charcode": "0x115ca", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH TRIDENT AND U-SHAPED ORNAMENTS"
+            }, 
+            {
+                "charcode": "0x115cb", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH TRIDENT AND DOTTED CRESCENTS"
+            }, 
+            {
+                "charcode": "0x115cc", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH RAYS AND DOTTED CRESCENTS"
+            }, 
+            {
+                "charcode": "0x115cd", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH RAYS AND DOTTED DOUBLE CRESCENTS"
+            }, 
+            {
+                "charcode": "0x115ce", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH RAYS AND DOTTED TRIPLE CRESCENTS"
+            }, 
+            {
+                "charcode": "0x115cf", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK DOUBLE RING"
+            }, 
+            {
+                "charcode": "0x115d0", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK DOUBLE RING WITH RAYS"
+            }, 
+            {
+                "charcode": "0x115d1", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH DOUBLE CRESCENTS"
+            }, 
+            {
+                "charcode": "0x115d2", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH TRIPLE CRESCENTS"
+            }, 
+            {
+                "charcode": "0x115d3", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH QUADRUPLE CRESCENTS"
+            }, 
+            {
+                "charcode": "0x115d4", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH SEPTUPLE CRESCENTS"
+            }, 
+            {
+                "charcode": "0x115d5", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH CIRCLES AND RAYS"
+            }, 
+            {
+                "charcode": "0x115d6", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH CIRCLES AND TWO ENCLOSURES"
+            }, 
+            {
+                "charcode": "0x115d7", 
+                "description": "", 
+                "title": "SIDDHAM SECTION MARK WITH CIRCLES AND FOUR ENCLOSURES"
+            }, 
+            {
+                "charcode": "0x115d8", 
+                "description": "", 
+                "title": "SIDDHAM LETTER THREE-CIRCLE ALTERNATE I"
+            }, 
+            {
+                "charcode": "0x115d9", 
+                "description": "", 
+                "title": "SIDDHAM LETTER TWO-CIRCLE ALTERNATE I"
+            }, 
+            {
+                "charcode": "0x115da", 
+                "description": "", 
+                "title": "SIDDHAM LETTER TWO-CIRCLE ALTERNATE II"
+            }, 
+            {
+                "charcode": "0x115db", 
+                "description": "", 
+                "title": "SIDDHAM LETTER ALTERNATE U"
+            }, 
+            {
+                "charcode": "0x115dc", 
+                "description": "", 
+                "title": "SIDDHAM VOWEL SIGN ALTERNATE U"
+            }, 
+            {
+                "charcode": "0x115dd", 
+                "description": "", 
+                "title": "SIDDHAM VOWEL SIGN ALTERNATE UU"
             }
         ], 
         "name": "Siddham"
