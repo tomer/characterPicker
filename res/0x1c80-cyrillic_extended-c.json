@@ -1,0 +1,52 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1c80", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER ROUNDED VE"
+            }, 
+            {
+                "charcode": "0x1c81", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER LONG-LEGGED DE"
+            }, 
+            {
+                "charcode": "0x1c82", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER NARROW O"
+            }, 
+            {
+                "charcode": "0x1c83", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER WIDE ES"
+            }, 
+            {
+                "charcode": "0x1c84", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER TALL TE"
+            }, 
+            {
+                "charcode": "0x1c85", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER THREE-LEGGED TE"
+            }, 
+            {
+                "charcode": "0x1c86", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER TALL HARD SIGN"
+            }, 
+            {
+                "charcode": "0x1c87", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER TALL YAT"
+            }, 
+            {
+                "charcode": "0x1c88", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER UNBLENDED UK"
+            }
+        ], 
+        "name": "Cyrillic Extended-C"
+    }
+]

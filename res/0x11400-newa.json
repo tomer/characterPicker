@@ -1,0 +1,467 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x11400", 
+                "description": "", 
+                "title": "NEWA LETTER A"
+            }, 
+            {
+                "charcode": "0x11401", 
+                "description": "", 
+                "title": "NEWA LETTER AA"
+            }, 
+            {
+                "charcode": "0x11402", 
+                "description": "", 
+                "title": "NEWA LETTER I"
+            }, 
+            {
+                "charcode": "0x11403", 
+                "description": "", 
+                "title": "NEWA LETTER II"
+            }, 
+            {
+                "charcode": "0x11404", 
+                "description": "", 
+                "title": "NEWA LETTER U"
+            }, 
+            {
+                "charcode": "0x11405", 
+                "description": "", 
+                "title": "NEWA LETTER UU"
+            }, 
+            {
+                "charcode": "0x11406", 
+                "description": "", 
+                "title": "NEWA LETTER VOCALIC R"
+            }, 
+            {
+                "charcode": "0x11407", 
+                "description": "", 
+                "title": "NEWA LETTER VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x11408", 
+                "description": "", 
+                "title": "NEWA LETTER VOCALIC L"
+            }, 
+            {
+                "charcode": "0x11409", 
+                "description": "", 
+                "title": "NEWA LETTER VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x1140a", 
+                "description": "", 
+                "title": "NEWA LETTER E"
+            }, 
+            {
+                "charcode": "0x1140b", 
+                "description": "", 
+                "title": "NEWA LETTER AI"
+            }, 
+            {
+                "charcode": "0x1140c", 
+                "description": "", 
+                "title": "NEWA LETTER O"
+            }, 
+            {
+                "charcode": "0x1140d", 
+                "description": "", 
+                "title": "NEWA LETTER AU"
+            }, 
+            {
+                "charcode": "0x1140e", 
+                "description": "", 
+                "title": "NEWA LETTER KA"
+            }, 
+            {
+                "charcode": "0x1140f", 
+                "description": "", 
+                "title": "NEWA LETTER KHA"
+            }, 
+            {
+                "charcode": "0x11410", 
+                "description": "", 
+                "title": "NEWA LETTER GA"
+            }, 
+            {
+                "charcode": "0x11411", 
+                "description": "", 
+                "title": "NEWA LETTER GHA"
+            }, 
+            {
+                "charcode": "0x11412", 
+                "description": "", 
+                "title": "NEWA LETTER NGA"
+            }, 
+            {
+                "charcode": "0x11413", 
+                "description": "", 
+                "title": "NEWA LETTER NGHA"
+            }, 
+            {
+                "charcode": "0x11414", 
+                "description": "", 
+                "title": "NEWA LETTER CA"
+            }, 
+            {
+                "charcode": "0x11415", 
+                "description": "", 
+                "title": "NEWA LETTER CHA"
+            }, 
+            {
+                "charcode": "0x11416", 
+                "description": "", 
+                "title": "NEWA LETTER JA"
+            }, 
+            {
+                "charcode": "0x11417", 
+                "description": "", 
+                "title": "NEWA LETTER JHA"
+            }, 
+            {
+                "charcode": "0x11418", 
+                "description": "", 
+                "title": "NEWA LETTER NYA"
+            }, 
+            {
+                "charcode": "0x11419", 
+                "description": "", 
+                "title": "NEWA LETTER NYHA"
+            }, 
+            {
+                "charcode": "0x1141a", 
+                "description": "", 
+                "title": "NEWA LETTER TTA"
+            }, 
+            {
+                "charcode": "0x1141b", 
+                "description": "", 
+                "title": "NEWA LETTER TTHA"
+            }, 
+            {
+                "charcode": "0x1141c", 
+                "description": "", 
+                "title": "NEWA LETTER DDA"
+            }, 
+            {
+                "charcode": "0x1141d", 
+                "description": "", 
+                "title": "NEWA LETTER DDHA"
+            }, 
+            {
+                "charcode": "0x1141e", 
+                "description": "", 
+                "title": "NEWA LETTER NNA"
+            }, 
+            {
+                "charcode": "0x1141f", 
+                "description": "", 
+                "title": "NEWA LETTER TA"
+            }, 
+            {
+                "charcode": "0x11420", 
+                "description": "", 
+                "title": "NEWA LETTER THA"
+            }, 
+            {
+                "charcode": "0x11421", 
+                "description": "", 
+                "title": "NEWA LETTER DA"
+            }, 
+            {
+                "charcode": "0x11422", 
+                "description": "", 
+                "title": "NEWA LETTER DHA"
+            }, 
+            {
+                "charcode": "0x11423", 
+                "description": "", 
+                "title": "NEWA LETTER NA"
+            }, 
+            {
+                "charcode": "0x11424", 
+                "description": "", 
+                "title": "NEWA LETTER NHA"
+            }, 
+            {
+                "charcode": "0x11425", 
+                "description": "", 
+                "title": "NEWA LETTER PA"
+            }, 
+            {
+                "charcode": "0x11426", 
+                "description": "", 
+                "title": "NEWA LETTER PHA"
+            }, 
+            {
+                "charcode": "0x11427", 
+                "description": "", 
+                "title": "NEWA LETTER BA"
+            }, 
+            {
+                "charcode": "0x11428", 
+                "description": "", 
+                "title": "NEWA LETTER BHA"
+            }, 
+            {
+                "charcode": "0x11429", 
+                "description": "", 
+                "title": "NEWA LETTER MA"
+            }, 
+            {
+                "charcode": "0x1142a", 
+                "description": "", 
+                "title": "NEWA LETTER MHA"
+            }, 
+            {
+                "charcode": "0x1142b", 
+                "description": "", 
+                "title": "NEWA LETTER YA"
+            }, 
+            {
+                "charcode": "0x1142c", 
+                "description": "", 
+                "title": "NEWA LETTER RA"
+            }, 
+            {
+                "charcode": "0x1142d", 
+                "description": "", 
+                "title": "NEWA LETTER RHA"
+            }, 
+            {
+                "charcode": "0x1142e", 
+                "description": "", 
+                "title": "NEWA LETTER LA"
+            }, 
+            {
+                "charcode": "0x1142f", 
+                "description": "", 
+                "title": "NEWA LETTER LHA"
+            }, 
+            {
+                "charcode": "0x11430", 
+                "description": "", 
+                "title": "NEWA LETTER WA"
+            }, 
+            {
+                "charcode": "0x11431", 
+                "description": "", 
+                "title": "NEWA LETTER SHA"
+            }, 
+            {
+                "charcode": "0x11432", 
+                "description": "", 
+                "title": "NEWA LETTER SSA"
+            }, 
+            {
+                "charcode": "0x11433", 
+                "description": "", 
+                "title": "NEWA LETTER SA"
+            }, 
+            {
+                "charcode": "0x11434", 
+                "description": "", 
+                "title": "NEWA LETTER HA"
+            }, 
+            {
+                "charcode": "0x11435", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0x11436", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0x11437", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0x11438", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0x11439", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0x1143a", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "charcode": "0x1143b", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x1143c", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN VOCALIC L"
+            }, 
+            {
+                "charcode": "0x1143d", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN VOCALIC LL"
+            }, 
+            {
+                "charcode": "0x1143e", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN E"
+            }, 
+            {
+                "charcode": "0x1143f", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0x11440", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN O"
+            }, 
+            {
+                "charcode": "0x11441", 
+                "description": "", 
+                "title": "NEWA VOWEL SIGN AU"
+            }, 
+            {
+                "charcode": "0x11442", 
+                "description": "", 
+                "title": "NEWA SIGN VIRAMA"
+            }, 
+            {
+                "charcode": "0x11443", 
+                "description": "", 
+                "title": "NEWA SIGN CANDRABINDU"
+            }, 
+            {
+                "charcode": "0x11444", 
+                "description": "", 
+                "title": "NEWA SIGN ANUSVARA"
+            }, 
+            {
+                "charcode": "0x11445", 
+                "description": "", 
+                "title": "NEWA SIGN VISARGA"
+            }, 
+            {
+                "charcode": "0x11446", 
+                "description": "", 
+                "title": "NEWA SIGN NUKTA"
+            }, 
+            {
+                "charcode": "0x11447", 
+                "description": "", 
+                "title": "NEWA SIGN AVAGRAHA"
+            }, 
+            {
+                "charcode": "0x11448", 
+                "description": "", 
+                "title": "NEWA SIGN FINAL ANUSVARA"
+            }, 
+            {
+                "charcode": "0x11449", 
+                "description": "", 
+                "title": "NEWA OM"
+            }, 
+            {
+                "charcode": "0x1144a", 
+                "description": "", 
+                "title": "NEWA SIDDHI"
+            }, 
+            {
+                "charcode": "0x1144b", 
+                "description": "", 
+                "title": "NEWA DANDA"
+            }, 
+            {
+                "charcode": "0x1144c", 
+                "description": "", 
+                "title": "NEWA DOUBLE DANDA"
+            }, 
+            {
+                "charcode": "0x1144d", 
+                "description": "", 
+                "title": "NEWA COMMA"
+            }, 
+            {
+                "charcode": "0x1144e", 
+                "description": "", 
+                "title": "NEWA GAP FILLER"
+            }, 
+            {
+                "charcode": "0x1144f", 
+                "description": "", 
+                "title": "NEWA ABBREVIATION SIGN"
+            }, 
+            {
+                "charcode": "0x11450", 
+                "description": "", 
+                "title": "NEWA DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x11451", 
+                "description": "", 
+                "title": "NEWA DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x11452", 
+                "description": "", 
+                "title": "NEWA DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x11453", 
+                "description": "", 
+                "title": "NEWA DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x11454", 
+                "description": "", 
+                "title": "NEWA DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x11455", 
+                "description": "", 
+                "title": "NEWA DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x11456", 
+                "description": "", 
+                "title": "NEWA DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x11457", 
+                "description": "", 
+                "title": "NEWA DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x11458", 
+                "description": "", 
+                "title": "NEWA DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x11459", 
+                "description": "", 
+                "title": "NEWA DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x1145b", 
+                "description": "", 
+                "title": "NEWA PLACEHOLDER MARK"
+            }, 
+            {
+                "charcode": "0x1145d", 
+                "description": "", 
+                "title": "NEWA INSERTION SIGN"
+            }
+        ], 
+        "name": "Newa"
+    }
+]

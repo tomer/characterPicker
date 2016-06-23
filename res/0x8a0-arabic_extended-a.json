@@ -155,6 +155,121 @@
                 "title": "ARABIC LETTER KAF WITH DOT BELOW"
             }, 
             {
+                "charcode": "0x8b6", 
+                "description": "", 
+                "title": "ARABIC LETTER BEH WITH SMALL MEEM ABOVE"
+            }, 
+            {
+                "charcode": "0x8b7", 
+                "description": "", 
+                "title": "ARABIC LETTER PEH WITH SMALL MEEM ABOVE"
+            }, 
+            {
+                "charcode": "0x8b8", 
+                "description": "", 
+                "title": "ARABIC LETTER TEH WITH SMALL TEH ABOVE"
+            }, 
+            {
+                "charcode": "0x8b9", 
+                "description": "", 
+                "title": "ARABIC LETTER REH WITH SMALL NOON ABOVE"
+            }, 
+            {
+                "charcode": "0x8ba", 
+                "description": "", 
+                "title": "ARABIC LETTER YEH WITH TWO DOTS BELOW AND SMALL NOON ABOVE"
+            }, 
+            {
+                "charcode": "0x8bb", 
+                "description": "", 
+                "title": "ARABIC LETTER AFRICAN FEH"
+            }, 
+            {
+                "charcode": "0x8bc", 
+                "description": "", 
+                "title": "ARABIC LETTER AFRICAN QAF"
+            }, 
+            {
+                "charcode": "0x8bd", 
+                "description": "", 
+                "title": "ARABIC LETTER AFRICAN NOON"
+            }, 
+            {
+                "charcode": "0x8d4", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH WORD AR-RUB"
+            }, 
+            {
+                "charcode": "0x8d5", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH SAD"
+            }, 
+            {
+                "charcode": "0x8d6", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH AIN"
+            }, 
+            {
+                "charcode": "0x8d7", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH QAF"
+            }, 
+            {
+                "charcode": "0x8d8", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH NOON WITH KASRA"
+            }, 
+            {
+                "charcode": "0x8d9", 
+                "description": "", 
+                "title": "ARABIC SMALL LOW NOON WITH KASRA"
+            }, 
+            {
+                "charcode": "0x8da", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH WORD ATH-THALATHA"
+            }, 
+            {
+                "charcode": "0x8db", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH WORD AS-SAJDA"
+            }, 
+            {
+                "charcode": "0x8dc", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH WORD AN-NISF"
+            }, 
+            {
+                "charcode": "0x8dd", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH WORD SAKTA"
+            }, 
+            {
+                "charcode": "0x8de", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH WORD QIF"
+            }, 
+            {
+                "charcode": "0x8df", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH WORD WAQFA"
+            }, 
+            {
+                "charcode": "0x8e0", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH FOOTNOTE MARKER"
+            }, 
+            {
+                "charcode": "0x8e1", 
+                "description": "", 
+                "title": "ARABIC SMALL HIGH SIGN SAFHA"
+            }, 
+            {
+                "charcode": "0x8e2", 
+                "description": "", 
+                "title": "ARABIC DISPUTED END OF AYAH"
+            }, 
+            {
                 "charcode": "0x8e3", 
                 "description": "", 
                 "title": "ARABIC TURNED DAMMA BELOW"

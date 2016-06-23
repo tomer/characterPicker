@@ -685,6 +685,16 @@
                 "charcode": "0x1018c", 
                 "description": "", 
                 "title": "GREEK SINUSOID SIGN"
+            }, 
+            {
+                "charcode": "0x1018d", 
+                "description": "", 
+                "title": "GREEK INDICTION SIGN"
+            }, 
+            {
+                "charcode": "0x1018e", 
+                "description": "", 
+                "title": "NOMISMA SIGN"
             }
         ], 
         "name": "Ancient Greek Numbers"

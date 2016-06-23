@@ -687,6 +687,16 @@
                 "title": "PLACE OF WORSHIP"
             }, 
             {
+                "charcode": "0x1f6d1", 
+                "description": "", 
+                "title": "OCTAGONAL SIGN"
+            }, 
+            {
+                "charcode": "0x1f6d2", 
+                "description": "", 
+                "title": "SHOPPING TROLLEY"
+            }, 
+            {
                 "charcode": "0x1f6e0", 
                 "description": "", 
                 "title": "HAMMER AND WRENCH"
@@ -770,6 +780,21 @@
                 "charcode": "0x1f6f3", 
                 "description": "", 
                 "title": "PASSENGER SHIP"
+            }, 
+            {
+                "charcode": "0x1f6f4", 
+                "description": "", 
+                "title": "SCOOTER"
+            }, 
+            {
+                "charcode": "0x1f6f5", 
+                "description": "", 
+                "title": "MOTOR SCOOTER"
+            }, 
+            {
+                "charcode": "0x1f6f6", 
+                "description": "", 
+                "title": "CANOE"
             }
         ], 
         "name": "Transport and Map Symbols"

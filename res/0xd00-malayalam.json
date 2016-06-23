@@ -637,6 +637,26 @@
                 "title": "MALAYALAM LETTER DOT REPH"
             }, 
             {
+                "charcode": "0xd4f", 
+                "description": "", 
+                "title": "MALAYALAM SIGN PARA"
+            }, 
+            {
+                "charcode": "0xd54", 
+                "description": "", 
+                "title": "MALAYALAM LETTER CHILLU M"
+            }, 
+            {
+                "charcode": "0xd55", 
+                "description": "", 
+                "title": "MALAYALAM LETTER CHILLU Y"
+            }, 
+            {
+                "charcode": "0xd56", 
+                "description": "", 
+                "title": "MALAYALAM LETTER CHILLU LLL"
+            }, 
+            {
                 "cat1": "Letter", 
                 "cat2": "Vowel", 
                 "cat3": "Dependent", 
@@ -644,6 +664,41 @@
                 "charcode": "0xd57", 
                 "description": "", 
                 "title": "MALAYALAM AU LENGTH MARK"
+            }, 
+            {
+                "charcode": "0xd58", 
+                "description": "", 
+                "title": "MALAYALAM FRACTION ONE ONE-HUNDRED-AND-SIXTIETH"
+            }, 
+            {
+                "charcode": "0xd59", 
+                "description": "", 
+                "title": "MALAYALAM FRACTION ONE FORTIETH"
+            }, 
+            {
+                "charcode": "0xd5a", 
+                "description": "", 
+                "title": "MALAYALAM FRACTION THREE EIGHTIETHS"
+            }, 
+            {
+                "charcode": "0xd5b", 
+                "description": "", 
+                "title": "MALAYALAM FRACTION ONE TWENTIETH"
+            }, 
+            {
+                "charcode": "0xd5c", 
+                "description": "", 
+                "title": "MALAYALAM FRACTION ONE TENTH"
+            }, 
+            {
+                "charcode": "0xd5d", 
+                "description": "", 
+                "title": "MALAYALAM FRACTION THREE TWENTIETHS"
+            }, 
+            {
+                "charcode": "0xd5e", 
+                "description": "", 
+                "title": "MALAYALAM FRACTION ONE FIFTH"
             }, 
             {
                 "charcode": "0xd5f", 
@@ -829,6 +884,21 @@
                 "charcode": "0xd75", 
                 "description": "", 
                 "title": "MALAYALAM FRACTION THREE QUARTERS"
+            }, 
+            {
+                "charcode": "0xd76", 
+                "description": "", 
+                "title": "MALAYALAM FRACTION ONE SIXTEENTH"
+            }, 
+            {
+                "charcode": "0xd77", 
+                "description": "", 
+                "title": "MALAYALAM FRACTION ONE EIGHTH"
+            }, 
+            {
+                "charcode": "0xd78", 
+                "description": "", 
+                "title": "MALAYALAM FRACTION THREE SIXTEENTHS"
             }, 
             {
                 "cat1": "Symbol", 

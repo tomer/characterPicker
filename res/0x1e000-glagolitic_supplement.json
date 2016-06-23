@@ -1,0 +1,197 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1e000", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER AZU"
+            }, 
+            {
+                "charcode": "0x1e001", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER BUKY"
+            }, 
+            {
+                "charcode": "0x1e002", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER VEDE"
+            }, 
+            {
+                "charcode": "0x1e003", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER GLAGOLI"
+            }, 
+            {
+                "charcode": "0x1e004", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER DOBRO"
+            }, 
+            {
+                "charcode": "0x1e005", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER YESTU"
+            }, 
+            {
+                "charcode": "0x1e006", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER ZHIVETE"
+            }, 
+            {
+                "charcode": "0x1e008", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER ZEMLJA"
+            }, 
+            {
+                "charcode": "0x1e009", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER IZHE"
+            }, 
+            {
+                "charcode": "0x1e00a", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER INITIAL IZHE"
+            }, 
+            {
+                "charcode": "0x1e00b", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER I"
+            }, 
+            {
+                "charcode": "0x1e00c", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER DJERVI"
+            }, 
+            {
+                "charcode": "0x1e00d", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER KAKO"
+            }, 
+            {
+                "charcode": "0x1e00e", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER LJUDIJE"
+            }, 
+            {
+                "charcode": "0x1e00f", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER MYSLITE"
+            }, 
+            {
+                "charcode": "0x1e010", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER NASHI"
+            }, 
+            {
+                "charcode": "0x1e011", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER ONU"
+            }, 
+            {
+                "charcode": "0x1e012", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER POKOJI"
+            }, 
+            {
+                "charcode": "0x1e013", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER RITSI"
+            }, 
+            {
+                "charcode": "0x1e014", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER SLOVO"
+            }, 
+            {
+                "charcode": "0x1e015", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER TVRIDO"
+            }, 
+            {
+                "charcode": "0x1e016", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER UKU"
+            }, 
+            {
+                "charcode": "0x1e017", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER FRITU"
+            }, 
+            {
+                "charcode": "0x1e018", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER HERU"
+            }, 
+            {
+                "charcode": "0x1e01b", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER SHTA"
+            }, 
+            {
+                "charcode": "0x1e01c", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER TSI"
+            }, 
+            {
+                "charcode": "0x1e01d", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER CHRIVI"
+            }, 
+            {
+                "charcode": "0x1e01e", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER SHA"
+            }, 
+            {
+                "charcode": "0x1e01f", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER YERU"
+            }, 
+            {
+                "charcode": "0x1e020", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER YERI"
+            }, 
+            {
+                "charcode": "0x1e021", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER YATI"
+            }, 
+            {
+                "charcode": "0x1e023", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER YU"
+            }, 
+            {
+                "charcode": "0x1e024", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER SMALL YUS"
+            }, 
+            {
+                "charcode": "0x1e026", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER YO"
+            }, 
+            {
+                "charcode": "0x1e027", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER IOTATED SMALL YUS"
+            }, 
+            {
+                "charcode": "0x1e028", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER BIG YUS"
+            }, 
+            {
+                "charcode": "0x1e029", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER IOTATED BIG YUS"
+            }, 
+            {
+                "charcode": "0x1e02a", 
+                "description": "", 
+                "title": "COMBINING GLAGOLITIC LETTER FITA"
+            }
+        ], 
+        "name": "Glagolitic Supplement"
+    }
+]

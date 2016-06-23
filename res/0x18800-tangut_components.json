@@ -1,0 +1,3782 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x18800", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-001"
+            }, 
+            {
+                "charcode": "0x18801", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-002"
+            }, 
+            {
+                "charcode": "0x18802", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-003"
+            }, 
+            {
+                "charcode": "0x18803", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-004"
+            }, 
+            {
+                "charcode": "0x18804", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-005"
+            }, 
+            {
+                "charcode": "0x18805", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-006"
+            }, 
+            {
+                "charcode": "0x18806", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-007"
+            }, 
+            {
+                "charcode": "0x18807", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-008"
+            }, 
+            {
+                "charcode": "0x18808", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-009"
+            }, 
+            {
+                "charcode": "0x18809", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-010"
+            }, 
+            {
+                "charcode": "0x1880a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-011"
+            }, 
+            {
+                "charcode": "0x1880b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-012"
+            }, 
+            {
+                "charcode": "0x1880c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-013"
+            }, 
+            {
+                "charcode": "0x1880d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-014"
+            }, 
+            {
+                "charcode": "0x1880e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-015"
+            }, 
+            {
+                "charcode": "0x1880f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-016"
+            }, 
+            {
+                "charcode": "0x18810", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-017"
+            }, 
+            {
+                "charcode": "0x18811", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-018"
+            }, 
+            {
+                "charcode": "0x18812", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-019"
+            }, 
+            {
+                "charcode": "0x18813", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-020"
+            }, 
+            {
+                "charcode": "0x18814", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-021"
+            }, 
+            {
+                "charcode": "0x18815", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-022"
+            }, 
+            {
+                "charcode": "0x18816", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-023"
+            }, 
+            {
+                "charcode": "0x18817", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-024"
+            }, 
+            {
+                "charcode": "0x18818", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-025"
+            }, 
+            {
+                "charcode": "0x18819", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-026"
+            }, 
+            {
+                "charcode": "0x1881a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-027"
+            }, 
+            {
+                "charcode": "0x1881b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-028"
+            }, 
+            {
+                "charcode": "0x1881c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-029"
+            }, 
+            {
+                "charcode": "0x1881d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-030"
+            }, 
+            {
+                "charcode": "0x1881e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-031"
+            }, 
+            {
+                "charcode": "0x1881f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-032"
+            }, 
+            {
+                "charcode": "0x18820", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-033"
+            }, 
+            {
+                "charcode": "0x18821", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-034"
+            }, 
+            {
+                "charcode": "0x18822", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-035"
+            }, 
+            {
+                "charcode": "0x18823", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-036"
+            }, 
+            {
+                "charcode": "0x18824", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-037"
+            }, 
+            {
+                "charcode": "0x18825", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-038"
+            }, 
+            {
+                "charcode": "0x18826", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-039"
+            }, 
+            {
+                "charcode": "0x18827", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-040"
+            }, 
+            {
+                "charcode": "0x18828", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-041"
+            }, 
+            {
+                "charcode": "0x18829", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-042"
+            }, 
+            {
+                "charcode": "0x1882a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-043"
+            }, 
+            {
+                "charcode": "0x1882b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-044"
+            }, 
+            {
+                "charcode": "0x1882c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-045"
+            }, 
+            {
+                "charcode": "0x1882d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-046"
+            }, 
+            {
+                "charcode": "0x1882e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-047"
+            }, 
+            {
+                "charcode": "0x1882f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-048"
+            }, 
+            {
+                "charcode": "0x18830", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-049"
+            }, 
+            {
+                "charcode": "0x18831", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-050"
+            }, 
+            {
+                "charcode": "0x18832", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-051"
+            }, 
+            {
+                "charcode": "0x18833", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-052"
+            }, 
+            {
+                "charcode": "0x18834", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-053"
+            }, 
+            {
+                "charcode": "0x18835", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-054"
+            }, 
+            {
+                "charcode": "0x18836", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-055"
+            }, 
+            {
+                "charcode": "0x18837", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-056"
+            }, 
+            {
+                "charcode": "0x18838", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-057"
+            }, 
+            {
+                "charcode": "0x18839", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-058"
+            }, 
+            {
+                "charcode": "0x1883a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-059"
+            }, 
+            {
+                "charcode": "0x1883b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-060"
+            }, 
+            {
+                "charcode": "0x1883c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-061"
+            }, 
+            {
+                "charcode": "0x1883d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-062"
+            }, 
+            {
+                "charcode": "0x1883e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-063"
+            }, 
+            {
+                "charcode": "0x1883f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-064"
+            }, 
+            {
+                "charcode": "0x18840", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-065"
+            }, 
+            {
+                "charcode": "0x18841", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-066"
+            }, 
+            {
+                "charcode": "0x18842", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-067"
+            }, 
+            {
+                "charcode": "0x18843", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-068"
+            }, 
+            {
+                "charcode": "0x18844", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-069"
+            }, 
+            {
+                "charcode": "0x18845", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-070"
+            }, 
+            {
+                "charcode": "0x18846", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-071"
+            }, 
+            {
+                "charcode": "0x18847", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-072"
+            }, 
+            {
+                "charcode": "0x18848", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-073"
+            }, 
+            {
+                "charcode": "0x18849", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-074"
+            }, 
+            {
+                "charcode": "0x1884a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-075"
+            }, 
+            {
+                "charcode": "0x1884b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-076"
+            }, 
+            {
+                "charcode": "0x1884c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-077"
+            }, 
+            {
+                "charcode": "0x1884d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-078"
+            }, 
+            {
+                "charcode": "0x1884e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-079"
+            }, 
+            {
+                "charcode": "0x1884f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-080"
+            }, 
+            {
+                "charcode": "0x18850", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-081"
+            }, 
+            {
+                "charcode": "0x18851", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-082"
+            }, 
+            {
+                "charcode": "0x18852", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-083"
+            }, 
+            {
+                "charcode": "0x18853", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-084"
+            }, 
+            {
+                "charcode": "0x18854", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-085"
+            }, 
+            {
+                "charcode": "0x18855", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-086"
+            }, 
+            {
+                "charcode": "0x18856", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-087"
+            }, 
+            {
+                "charcode": "0x18857", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-088"
+            }, 
+            {
+                "charcode": "0x18858", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-089"
+            }, 
+            {
+                "charcode": "0x18859", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-090"
+            }, 
+            {
+                "charcode": "0x1885a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-091"
+            }, 
+            {
+                "charcode": "0x1885b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-092"
+            }, 
+            {
+                "charcode": "0x1885c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-093"
+            }, 
+            {
+                "charcode": "0x1885d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-094"
+            }, 
+            {
+                "charcode": "0x1885e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-095"
+            }, 
+            {
+                "charcode": "0x1885f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-096"
+            }, 
+            {
+                "charcode": "0x18860", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-097"
+            }, 
+            {
+                "charcode": "0x18861", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-098"
+            }, 
+            {
+                "charcode": "0x18862", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-099"
+            }, 
+            {
+                "charcode": "0x18863", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-100"
+            }, 
+            {
+                "charcode": "0x18864", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-101"
+            }, 
+            {
+                "charcode": "0x18865", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-102"
+            }, 
+            {
+                "charcode": "0x18866", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-103"
+            }, 
+            {
+                "charcode": "0x18867", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-104"
+            }, 
+            {
+                "charcode": "0x18868", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-105"
+            }, 
+            {
+                "charcode": "0x18869", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-106"
+            }, 
+            {
+                "charcode": "0x1886a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-107"
+            }, 
+            {
+                "charcode": "0x1886b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-108"
+            }, 
+            {
+                "charcode": "0x1886c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-109"
+            }, 
+            {
+                "charcode": "0x1886d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-110"
+            }, 
+            {
+                "charcode": "0x1886e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-111"
+            }, 
+            {
+                "charcode": "0x1886f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-112"
+            }, 
+            {
+                "charcode": "0x18870", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-113"
+            }, 
+            {
+                "charcode": "0x18871", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-114"
+            }, 
+            {
+                "charcode": "0x18872", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-115"
+            }, 
+            {
+                "charcode": "0x18873", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-116"
+            }, 
+            {
+                "charcode": "0x18874", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-117"
+            }, 
+            {
+                "charcode": "0x18875", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-118"
+            }, 
+            {
+                "charcode": "0x18876", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-119"
+            }, 
+            {
+                "charcode": "0x18877", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-120"
+            }, 
+            {
+                "charcode": "0x18878", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-121"
+            }, 
+            {
+                "charcode": "0x18879", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-122"
+            }, 
+            {
+                "charcode": "0x1887a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-123"
+            }, 
+            {
+                "charcode": "0x1887b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-124"
+            }, 
+            {
+                "charcode": "0x1887c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-125"
+            }, 
+            {
+                "charcode": "0x1887d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-126"
+            }, 
+            {
+                "charcode": "0x1887e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-127"
+            }, 
+            {
+                "charcode": "0x1887f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-128"
+            }, 
+            {
+                "charcode": "0x18880", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-129"
+            }, 
+            {
+                "charcode": "0x18881", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-130"
+            }, 
+            {
+                "charcode": "0x18882", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-131"
+            }, 
+            {
+                "charcode": "0x18883", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-132"
+            }, 
+            {
+                "charcode": "0x18884", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-133"
+            }, 
+            {
+                "charcode": "0x18885", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-134"
+            }, 
+            {
+                "charcode": "0x18886", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-135"
+            }, 
+            {
+                "charcode": "0x18887", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-136"
+            }, 
+            {
+                "charcode": "0x18888", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-137"
+            }, 
+            {
+                "charcode": "0x18889", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-138"
+            }, 
+            {
+                "charcode": "0x1888a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-139"
+            }, 
+            {
+                "charcode": "0x1888b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-140"
+            }, 
+            {
+                "charcode": "0x1888c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-141"
+            }, 
+            {
+                "charcode": "0x1888d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-142"
+            }, 
+            {
+                "charcode": "0x1888e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-143"
+            }, 
+            {
+                "charcode": "0x1888f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-144"
+            }, 
+            {
+                "charcode": "0x18890", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-145"
+            }, 
+            {
+                "charcode": "0x18891", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-146"
+            }, 
+            {
+                "charcode": "0x18892", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-147"
+            }, 
+            {
+                "charcode": "0x18893", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-148"
+            }, 
+            {
+                "charcode": "0x18894", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-149"
+            }, 
+            {
+                "charcode": "0x18895", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-150"
+            }, 
+            {
+                "charcode": "0x18896", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-151"
+            }, 
+            {
+                "charcode": "0x18897", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-152"
+            }, 
+            {
+                "charcode": "0x18898", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-153"
+            }, 
+            {
+                "charcode": "0x18899", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-154"
+            }, 
+            {
+                "charcode": "0x1889a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-155"
+            }, 
+            {
+                "charcode": "0x1889b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-156"
+            }, 
+            {
+                "charcode": "0x1889c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-157"
+            }, 
+            {
+                "charcode": "0x1889d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-158"
+            }, 
+            {
+                "charcode": "0x1889e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-159"
+            }, 
+            {
+                "charcode": "0x1889f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-160"
+            }, 
+            {
+                "charcode": "0x188a0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-161"
+            }, 
+            {
+                "charcode": "0x188a1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-162"
+            }, 
+            {
+                "charcode": "0x188a2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-163"
+            }, 
+            {
+                "charcode": "0x188a3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-164"
+            }, 
+            {
+                "charcode": "0x188a4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-165"
+            }, 
+            {
+                "charcode": "0x188a5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-166"
+            }, 
+            {
+                "charcode": "0x188a6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-167"
+            }, 
+            {
+                "charcode": "0x188a7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-168"
+            }, 
+            {
+                "charcode": "0x188a8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-169"
+            }, 
+            {
+                "charcode": "0x188a9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-170"
+            }, 
+            {
+                "charcode": "0x188aa", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-171"
+            }, 
+            {
+                "charcode": "0x188ab", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-172"
+            }, 
+            {
+                "charcode": "0x188ac", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-173"
+            }, 
+            {
+                "charcode": "0x188ad", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-174"
+            }, 
+            {
+                "charcode": "0x188ae", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-175"
+            }, 
+            {
+                "charcode": "0x188af", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-176"
+            }, 
+            {
+                "charcode": "0x188b0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-177"
+            }, 
+            {
+                "charcode": "0x188b1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-178"
+            }, 
+            {
+                "charcode": "0x188b2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-179"
+            }, 
+            {
+                "charcode": "0x188b3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-180"
+            }, 
+            {
+                "charcode": "0x188b4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-181"
+            }, 
+            {
+                "charcode": "0x188b5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-182"
+            }, 
+            {
+                "charcode": "0x188b6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-183"
+            }, 
+            {
+                "charcode": "0x188b7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-184"
+            }, 
+            {
+                "charcode": "0x188b8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-185"
+            }, 
+            {
+                "charcode": "0x188b9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-186"
+            }, 
+            {
+                "charcode": "0x188ba", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-187"
+            }, 
+            {
+                "charcode": "0x188bb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-188"
+            }, 
+            {
+                "charcode": "0x188bc", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-189"
+            }, 
+            {
+                "charcode": "0x188bd", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-190"
+            }, 
+            {
+                "charcode": "0x188be", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-191"
+            }, 
+            {
+                "charcode": "0x188bf", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-192"
+            }, 
+            {
+                "charcode": "0x188c0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-193"
+            }, 
+            {
+                "charcode": "0x188c1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-194"
+            }, 
+            {
+                "charcode": "0x188c2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-195"
+            }, 
+            {
+                "charcode": "0x188c3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-196"
+            }, 
+            {
+                "charcode": "0x188c4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-197"
+            }, 
+            {
+                "charcode": "0x188c5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-198"
+            }, 
+            {
+                "charcode": "0x188c6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-199"
+            }, 
+            {
+                "charcode": "0x188c7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-200"
+            }, 
+            {
+                "charcode": "0x188c8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-201"
+            }, 
+            {
+                "charcode": "0x188c9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-202"
+            }, 
+            {
+                "charcode": "0x188ca", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-203"
+            }, 
+            {
+                "charcode": "0x188cb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-204"
+            }, 
+            {
+                "charcode": "0x188cc", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-205"
+            }, 
+            {
+                "charcode": "0x188cd", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-206"
+            }, 
+            {
+                "charcode": "0x188ce", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-207"
+            }, 
+            {
+                "charcode": "0x188cf", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-208"
+            }, 
+            {
+                "charcode": "0x188d0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-209"
+            }, 
+            {
+                "charcode": "0x188d1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-210"
+            }, 
+            {
+                "charcode": "0x188d2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-211"
+            }, 
+            {
+                "charcode": "0x188d3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-212"
+            }, 
+            {
+                "charcode": "0x188d4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-213"
+            }, 
+            {
+                "charcode": "0x188d5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-214"
+            }, 
+            {
+                "charcode": "0x188d6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-215"
+            }, 
+            {
+                "charcode": "0x188d7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-216"
+            }, 
+            {
+                "charcode": "0x188d8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-217"
+            }, 
+            {
+                "charcode": "0x188d9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-218"
+            }, 
+            {
+                "charcode": "0x188da", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-219"
+            }, 
+            {
+                "charcode": "0x188db", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-220"
+            }, 
+            {
+                "charcode": "0x188dc", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-221"
+            }, 
+            {
+                "charcode": "0x188dd", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-222"
+            }, 
+            {
+                "charcode": "0x188de", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-223"
+            }, 
+            {
+                "charcode": "0x188df", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-224"
+            }, 
+            {
+                "charcode": "0x188e0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-225"
+            }, 
+            {
+                "charcode": "0x188e1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-226"
+            }, 
+            {
+                "charcode": "0x188e2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-227"
+            }, 
+            {
+                "charcode": "0x188e3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-228"
+            }, 
+            {
+                "charcode": "0x188e4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-229"
+            }, 
+            {
+                "charcode": "0x188e5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-230"
+            }, 
+            {
+                "charcode": "0x188e6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-231"
+            }, 
+            {
+                "charcode": "0x188e7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-232"
+            }, 
+            {
+                "charcode": "0x188e8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-233"
+            }, 
+            {
+                "charcode": "0x188e9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-234"
+            }, 
+            {
+                "charcode": "0x188ea", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-235"
+            }, 
+            {
+                "charcode": "0x188eb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-236"
+            }, 
+            {
+                "charcode": "0x188ec", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-237"
+            }, 
+            {
+                "charcode": "0x188ed", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-238"
+            }, 
+            {
+                "charcode": "0x188ee", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-239"
+            }, 
+            {
+                "charcode": "0x188ef", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-240"
+            }, 
+            {
+                "charcode": "0x188f0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-241"
+            }, 
+            {
+                "charcode": "0x188f1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-242"
+            }, 
+            {
+                "charcode": "0x188f2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-243"
+            }, 
+            {
+                "charcode": "0x188f3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-244"
+            }, 
+            {
+                "charcode": "0x188f4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-245"
+            }, 
+            {
+                "charcode": "0x188f5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-246"
+            }, 
+            {
+                "charcode": "0x188f6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-247"
+            }, 
+            {
+                "charcode": "0x188f7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-248"
+            }, 
+            {
+                "charcode": "0x188f8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-249"
+            }, 
+            {
+                "charcode": "0x188f9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-250"
+            }, 
+            {
+                "charcode": "0x188fa", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-251"
+            }, 
+            {
+                "charcode": "0x188fb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-252"
+            }, 
+            {
+                "charcode": "0x188fc", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-253"
+            }, 
+            {
+                "charcode": "0x188fd", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-254"
+            }, 
+            {
+                "charcode": "0x188fe", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-255"
+            }, 
+            {
+                "charcode": "0x188ff", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-256"
+            }, 
+            {
+                "charcode": "0x18900", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-257"
+            }, 
+            {
+                "charcode": "0x18901", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-258"
+            }, 
+            {
+                "charcode": "0x18902", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-259"
+            }, 
+            {
+                "charcode": "0x18903", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-260"
+            }, 
+            {
+                "charcode": "0x18904", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-261"
+            }, 
+            {
+                "charcode": "0x18905", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-262"
+            }, 
+            {
+                "charcode": "0x18906", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-263"
+            }, 
+            {
+                "charcode": "0x18907", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-264"
+            }, 
+            {
+                "charcode": "0x18908", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-265"
+            }, 
+            {
+                "charcode": "0x18909", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-266"
+            }, 
+            {
+                "charcode": "0x1890a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-267"
+            }, 
+            {
+                "charcode": "0x1890b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-268"
+            }, 
+            {
+                "charcode": "0x1890c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-269"
+            }, 
+            {
+                "charcode": "0x1890d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-270"
+            }, 
+            {
+                "charcode": "0x1890e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-271"
+            }, 
+            {
+                "charcode": "0x1890f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-272"
+            }, 
+            {
+                "charcode": "0x18910", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-273"
+            }, 
+            {
+                "charcode": "0x18911", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-274"
+            }, 
+            {
+                "charcode": "0x18912", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-275"
+            }, 
+            {
+                "charcode": "0x18913", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-276"
+            }, 
+            {
+                "charcode": "0x18914", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-277"
+            }, 
+            {
+                "charcode": "0x18915", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-278"
+            }, 
+            {
+                "charcode": "0x18916", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-279"
+            }, 
+            {
+                "charcode": "0x18917", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-280"
+            }, 
+            {
+                "charcode": "0x18918", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-281"
+            }, 
+            {
+                "charcode": "0x18919", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-282"
+            }, 
+            {
+                "charcode": "0x1891a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-283"
+            }, 
+            {
+                "charcode": "0x1891b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-284"
+            }, 
+            {
+                "charcode": "0x1891c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-285"
+            }, 
+            {
+                "charcode": "0x1891d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-286"
+            }, 
+            {
+                "charcode": "0x1891e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-287"
+            }, 
+            {
+                "charcode": "0x1891f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-288"
+            }, 
+            {
+                "charcode": "0x18920", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-289"
+            }, 
+            {
+                "charcode": "0x18921", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-290"
+            }, 
+            {
+                "charcode": "0x18922", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-291"
+            }, 
+            {
+                "charcode": "0x18923", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-292"
+            }, 
+            {
+                "charcode": "0x18924", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-293"
+            }, 
+            {
+                "charcode": "0x18925", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-294"
+            }, 
+            {
+                "charcode": "0x18926", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-295"
+            }, 
+            {
+                "charcode": "0x18927", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-296"
+            }, 
+            {
+                "charcode": "0x18928", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-297"
+            }, 
+            {
+                "charcode": "0x18929", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-298"
+            }, 
+            {
+                "charcode": "0x1892a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-299"
+            }, 
+            {
+                "charcode": "0x1892b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-300"
+            }, 
+            {
+                "charcode": "0x1892c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-301"
+            }, 
+            {
+                "charcode": "0x1892d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-302"
+            }, 
+            {
+                "charcode": "0x1892e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-303"
+            }, 
+            {
+                "charcode": "0x1892f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-304"
+            }, 
+            {
+                "charcode": "0x18930", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-305"
+            }, 
+            {
+                "charcode": "0x18931", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-306"
+            }, 
+            {
+                "charcode": "0x18932", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-307"
+            }, 
+            {
+                "charcode": "0x18933", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-308"
+            }, 
+            {
+                "charcode": "0x18934", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-309"
+            }, 
+            {
+                "charcode": "0x18935", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-310"
+            }, 
+            {
+                "charcode": "0x18936", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-311"
+            }, 
+            {
+                "charcode": "0x18937", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-312"
+            }, 
+            {
+                "charcode": "0x18938", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-313"
+            }, 
+            {
+                "charcode": "0x18939", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-314"
+            }, 
+            {
+                "charcode": "0x1893a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-315"
+            }, 
+            {
+                "charcode": "0x1893b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-316"
+            }, 
+            {
+                "charcode": "0x1893c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-317"
+            }, 
+            {
+                "charcode": "0x1893d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-318"
+            }, 
+            {
+                "charcode": "0x1893e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-319"
+            }, 
+            {
+                "charcode": "0x1893f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-320"
+            }, 
+            {
+                "charcode": "0x18940", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-321"
+            }, 
+            {
+                "charcode": "0x18941", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-322"
+            }, 
+            {
+                "charcode": "0x18942", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-323"
+            }, 
+            {
+                "charcode": "0x18943", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-324"
+            }, 
+            {
+                "charcode": "0x18944", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-325"
+            }, 
+            {
+                "charcode": "0x18945", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-326"
+            }, 
+            {
+                "charcode": "0x18946", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-327"
+            }, 
+            {
+                "charcode": "0x18947", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-328"
+            }, 
+            {
+                "charcode": "0x18948", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-329"
+            }, 
+            {
+                "charcode": "0x18949", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-330"
+            }, 
+            {
+                "charcode": "0x1894a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-331"
+            }, 
+            {
+                "charcode": "0x1894b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-332"
+            }, 
+            {
+                "charcode": "0x1894c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-333"
+            }, 
+            {
+                "charcode": "0x1894d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-334"
+            }, 
+            {
+                "charcode": "0x1894e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-335"
+            }, 
+            {
+                "charcode": "0x1894f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-336"
+            }, 
+            {
+                "charcode": "0x18950", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-337"
+            }, 
+            {
+                "charcode": "0x18951", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-338"
+            }, 
+            {
+                "charcode": "0x18952", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-339"
+            }, 
+            {
+                "charcode": "0x18953", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-340"
+            }, 
+            {
+                "charcode": "0x18954", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-341"
+            }, 
+            {
+                "charcode": "0x18955", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-342"
+            }, 
+            {
+                "charcode": "0x18956", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-343"
+            }, 
+            {
+                "charcode": "0x18957", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-344"
+            }, 
+            {
+                "charcode": "0x18958", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-345"
+            }, 
+            {
+                "charcode": "0x18959", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-346"
+            }, 
+            {
+                "charcode": "0x1895a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-347"
+            }, 
+            {
+                "charcode": "0x1895b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-348"
+            }, 
+            {
+                "charcode": "0x1895c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-349"
+            }, 
+            {
+                "charcode": "0x1895d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-350"
+            }, 
+            {
+                "charcode": "0x1895e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-351"
+            }, 
+            {
+                "charcode": "0x1895f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-352"
+            }, 
+            {
+                "charcode": "0x18960", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-353"
+            }, 
+            {
+                "charcode": "0x18961", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-354"
+            }, 
+            {
+                "charcode": "0x18962", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-355"
+            }, 
+            {
+                "charcode": "0x18963", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-356"
+            }, 
+            {
+                "charcode": "0x18964", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-357"
+            }, 
+            {
+                "charcode": "0x18965", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-358"
+            }, 
+            {
+                "charcode": "0x18966", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-359"
+            }, 
+            {
+                "charcode": "0x18967", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-360"
+            }, 
+            {
+                "charcode": "0x18968", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-361"
+            }, 
+            {
+                "charcode": "0x18969", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-362"
+            }, 
+            {
+                "charcode": "0x1896a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-363"
+            }, 
+            {
+                "charcode": "0x1896b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-364"
+            }, 
+            {
+                "charcode": "0x1896c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-365"
+            }, 
+            {
+                "charcode": "0x1896d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-366"
+            }, 
+            {
+                "charcode": "0x1896e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-367"
+            }, 
+            {
+                "charcode": "0x1896f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-368"
+            }, 
+            {
+                "charcode": "0x18970", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-369"
+            }, 
+            {
+                "charcode": "0x18971", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-370"
+            }, 
+            {
+                "charcode": "0x18972", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-371"
+            }, 
+            {
+                "charcode": "0x18973", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-372"
+            }, 
+            {
+                "charcode": "0x18974", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-373"
+            }, 
+            {
+                "charcode": "0x18975", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-374"
+            }, 
+            {
+                "charcode": "0x18976", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-375"
+            }, 
+            {
+                "charcode": "0x18977", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-376"
+            }, 
+            {
+                "charcode": "0x18978", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-377"
+            }, 
+            {
+                "charcode": "0x18979", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-378"
+            }, 
+            {
+                "charcode": "0x1897a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-379"
+            }, 
+            {
+                "charcode": "0x1897b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-380"
+            }, 
+            {
+                "charcode": "0x1897c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-381"
+            }, 
+            {
+                "charcode": "0x1897d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-382"
+            }, 
+            {
+                "charcode": "0x1897e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-383"
+            }, 
+            {
+                "charcode": "0x1897f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-384"
+            }, 
+            {
+                "charcode": "0x18980", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-385"
+            }, 
+            {
+                "charcode": "0x18981", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-386"
+            }, 
+            {
+                "charcode": "0x18982", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-387"
+            }, 
+            {
+                "charcode": "0x18983", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-388"
+            }, 
+            {
+                "charcode": "0x18984", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-389"
+            }, 
+            {
+                "charcode": "0x18985", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-390"
+            }, 
+            {
+                "charcode": "0x18986", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-391"
+            }, 
+            {
+                "charcode": "0x18987", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-392"
+            }, 
+            {
+                "charcode": "0x18988", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-393"
+            }, 
+            {
+                "charcode": "0x18989", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-394"
+            }, 
+            {
+                "charcode": "0x1898a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-395"
+            }, 
+            {
+                "charcode": "0x1898b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-396"
+            }, 
+            {
+                "charcode": "0x1898c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-397"
+            }, 
+            {
+                "charcode": "0x1898d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-398"
+            }, 
+            {
+                "charcode": "0x1898e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-399"
+            }, 
+            {
+                "charcode": "0x1898f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-400"
+            }, 
+            {
+                "charcode": "0x18990", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-401"
+            }, 
+            {
+                "charcode": "0x18991", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-402"
+            }, 
+            {
+                "charcode": "0x18992", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-403"
+            }, 
+            {
+                "charcode": "0x18993", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-404"
+            }, 
+            {
+                "charcode": "0x18994", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-405"
+            }, 
+            {
+                "charcode": "0x18995", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-406"
+            }, 
+            {
+                "charcode": "0x18996", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-407"
+            }, 
+            {
+                "charcode": "0x18997", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-408"
+            }, 
+            {
+                "charcode": "0x18998", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-409"
+            }, 
+            {
+                "charcode": "0x18999", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-410"
+            }, 
+            {
+                "charcode": "0x1899a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-411"
+            }, 
+            {
+                "charcode": "0x1899b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-412"
+            }, 
+            {
+                "charcode": "0x1899c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-413"
+            }, 
+            {
+                "charcode": "0x1899d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-414"
+            }, 
+            {
+                "charcode": "0x1899e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-415"
+            }, 
+            {
+                "charcode": "0x1899f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-416"
+            }, 
+            {
+                "charcode": "0x189a0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-417"
+            }, 
+            {
+                "charcode": "0x189a1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-418"
+            }, 
+            {
+                "charcode": "0x189a2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-419"
+            }, 
+            {
+                "charcode": "0x189a3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-420"
+            }, 
+            {
+                "charcode": "0x189a4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-421"
+            }, 
+            {
+                "charcode": "0x189a5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-422"
+            }, 
+            {
+                "charcode": "0x189a6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-423"
+            }, 
+            {
+                "charcode": "0x189a7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-424"
+            }, 
+            {
+                "charcode": "0x189a8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-425"
+            }, 
+            {
+                "charcode": "0x189a9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-426"
+            }, 
+            {
+                "charcode": "0x189aa", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-427"
+            }, 
+            {
+                "charcode": "0x189ab", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-428"
+            }, 
+            {
+                "charcode": "0x189ac", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-429"
+            }, 
+            {
+                "charcode": "0x189ad", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-430"
+            }, 
+            {
+                "charcode": "0x189ae", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-431"
+            }, 
+            {
+                "charcode": "0x189af", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-432"
+            }, 
+            {
+                "charcode": "0x189b0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-433"
+            }, 
+            {
+                "charcode": "0x189b1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-434"
+            }, 
+            {
+                "charcode": "0x189b2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-435"
+            }, 
+            {
+                "charcode": "0x189b3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-436"
+            }, 
+            {
+                "charcode": "0x189b4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-437"
+            }, 
+            {
+                "charcode": "0x189b5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-438"
+            }, 
+            {
+                "charcode": "0x189b6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-439"
+            }, 
+            {
+                "charcode": "0x189b7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-440"
+            }, 
+            {
+                "charcode": "0x189b8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-441"
+            }, 
+            {
+                "charcode": "0x189b9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-442"
+            }, 
+            {
+                "charcode": "0x189ba", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-443"
+            }, 
+            {
+                "charcode": "0x189bb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-444"
+            }, 
+            {
+                "charcode": "0x189bc", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-445"
+            }, 
+            {
+                "charcode": "0x189bd", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-446"
+            }, 
+            {
+                "charcode": "0x189be", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-447"
+            }, 
+            {
+                "charcode": "0x189bf", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-448"
+            }, 
+            {
+                "charcode": "0x189c0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-449"
+            }, 
+            {
+                "charcode": "0x189c1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-450"
+            }, 
+            {
+                "charcode": "0x189c2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-451"
+            }, 
+            {
+                "charcode": "0x189c3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-452"
+            }, 
+            {
+                "charcode": "0x189c4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-453"
+            }, 
+            {
+                "charcode": "0x189c5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-454"
+            }, 
+            {
+                "charcode": "0x189c6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-455"
+            }, 
+            {
+                "charcode": "0x189c7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-456"
+            }, 
+            {
+                "charcode": "0x189c8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-457"
+            }, 
+            {
+                "charcode": "0x189c9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-458"
+            }, 
+            {
+                "charcode": "0x189ca", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-459"
+            }, 
+            {
+                "charcode": "0x189cb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-460"
+            }, 
+            {
+                "charcode": "0x189cc", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-461"
+            }, 
+            {
+                "charcode": "0x189cd", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-462"
+            }, 
+            {
+                "charcode": "0x189ce", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-463"
+            }, 
+            {
+                "charcode": "0x189cf", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-464"
+            }, 
+            {
+                "charcode": "0x189d0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-465"
+            }, 
+            {
+                "charcode": "0x189d1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-466"
+            }, 
+            {
+                "charcode": "0x189d2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-467"
+            }, 
+            {
+                "charcode": "0x189d3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-468"
+            }, 
+            {
+                "charcode": "0x189d4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-469"
+            }, 
+            {
+                "charcode": "0x189d5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-470"
+            }, 
+            {
+                "charcode": "0x189d6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-471"
+            }, 
+            {
+                "charcode": "0x189d7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-472"
+            }, 
+            {
+                "charcode": "0x189d8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-473"
+            }, 
+            {
+                "charcode": "0x189d9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-474"
+            }, 
+            {
+                "charcode": "0x189da", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-475"
+            }, 
+            {
+                "charcode": "0x189db", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-476"
+            }, 
+            {
+                "charcode": "0x189dc", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-477"
+            }, 
+            {
+                "charcode": "0x189dd", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-478"
+            }, 
+            {
+                "charcode": "0x189de", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-479"
+            }, 
+            {
+                "charcode": "0x189df", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-480"
+            }, 
+            {
+                "charcode": "0x189e0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-481"
+            }, 
+            {
+                "charcode": "0x189e1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-482"
+            }, 
+            {
+                "charcode": "0x189e2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-483"
+            }, 
+            {
+                "charcode": "0x189e3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-484"
+            }, 
+            {
+                "charcode": "0x189e4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-485"
+            }, 
+            {
+                "charcode": "0x189e5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-486"
+            }, 
+            {
+                "charcode": "0x189e6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-487"
+            }, 
+            {
+                "charcode": "0x189e7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-488"
+            }, 
+            {
+                "charcode": "0x189e8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-489"
+            }, 
+            {
+                "charcode": "0x189e9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-490"
+            }, 
+            {
+                "charcode": "0x189ea", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-491"
+            }, 
+            {
+                "charcode": "0x189eb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-492"
+            }, 
+            {
+                "charcode": "0x189ec", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-493"
+            }, 
+            {
+                "charcode": "0x189ed", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-494"
+            }, 
+            {
+                "charcode": "0x189ee", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-495"
+            }, 
+            {
+                "charcode": "0x189ef", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-496"
+            }, 
+            {
+                "charcode": "0x189f0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-497"
+            }, 
+            {
+                "charcode": "0x189f1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-498"
+            }, 
+            {
+                "charcode": "0x189f2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-499"
+            }, 
+            {
+                "charcode": "0x189f3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-500"
+            }, 
+            {
+                "charcode": "0x189f4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-501"
+            }, 
+            {
+                "charcode": "0x189f5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-502"
+            }, 
+            {
+                "charcode": "0x189f6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-503"
+            }, 
+            {
+                "charcode": "0x189f7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-504"
+            }, 
+            {
+                "charcode": "0x189f8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-505"
+            }, 
+            {
+                "charcode": "0x189f9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-506"
+            }, 
+            {
+                "charcode": "0x189fa", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-507"
+            }, 
+            {
+                "charcode": "0x189fb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-508"
+            }, 
+            {
+                "charcode": "0x189fc", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-509"
+            }, 
+            {
+                "charcode": "0x189fd", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-510"
+            }, 
+            {
+                "charcode": "0x189fe", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-511"
+            }, 
+            {
+                "charcode": "0x189ff", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-512"
+            }, 
+            {
+                "charcode": "0x18a00", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-513"
+            }, 
+            {
+                "charcode": "0x18a01", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-514"
+            }, 
+            {
+                "charcode": "0x18a02", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-515"
+            }, 
+            {
+                "charcode": "0x18a03", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-516"
+            }, 
+            {
+                "charcode": "0x18a04", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-517"
+            }, 
+            {
+                "charcode": "0x18a05", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-518"
+            }, 
+            {
+                "charcode": "0x18a06", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-519"
+            }, 
+            {
+                "charcode": "0x18a07", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-520"
+            }, 
+            {
+                "charcode": "0x18a08", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-521"
+            }, 
+            {
+                "charcode": "0x18a09", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-522"
+            }, 
+            {
+                "charcode": "0x18a0a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-523"
+            }, 
+            {
+                "charcode": "0x18a0b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-524"
+            }, 
+            {
+                "charcode": "0x18a0c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-525"
+            }, 
+            {
+                "charcode": "0x18a0d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-526"
+            }, 
+            {
+                "charcode": "0x18a0e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-527"
+            }, 
+            {
+                "charcode": "0x18a0f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-528"
+            }, 
+            {
+                "charcode": "0x18a10", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-529"
+            }, 
+            {
+                "charcode": "0x18a11", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-530"
+            }, 
+            {
+                "charcode": "0x18a12", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-531"
+            }, 
+            {
+                "charcode": "0x18a13", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-532"
+            }, 
+            {
+                "charcode": "0x18a14", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-533"
+            }, 
+            {
+                "charcode": "0x18a15", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-534"
+            }, 
+            {
+                "charcode": "0x18a16", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-535"
+            }, 
+            {
+                "charcode": "0x18a17", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-536"
+            }, 
+            {
+                "charcode": "0x18a18", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-537"
+            }, 
+            {
+                "charcode": "0x18a19", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-538"
+            }, 
+            {
+                "charcode": "0x18a1a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-539"
+            }, 
+            {
+                "charcode": "0x18a1b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-540"
+            }, 
+            {
+                "charcode": "0x18a1c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-541"
+            }, 
+            {
+                "charcode": "0x18a1d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-542"
+            }, 
+            {
+                "charcode": "0x18a1e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-543"
+            }, 
+            {
+                "charcode": "0x18a1f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-544"
+            }, 
+            {
+                "charcode": "0x18a20", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-545"
+            }, 
+            {
+                "charcode": "0x18a21", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-546"
+            }, 
+            {
+                "charcode": "0x18a22", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-547"
+            }, 
+            {
+                "charcode": "0x18a23", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-548"
+            }, 
+            {
+                "charcode": "0x18a24", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-549"
+            }, 
+            {
+                "charcode": "0x18a25", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-550"
+            }, 
+            {
+                "charcode": "0x18a26", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-551"
+            }, 
+            {
+                "charcode": "0x18a27", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-552"
+            }, 
+            {
+                "charcode": "0x18a28", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-553"
+            }, 
+            {
+                "charcode": "0x18a29", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-554"
+            }, 
+            {
+                "charcode": "0x18a2a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-555"
+            }, 
+            {
+                "charcode": "0x18a2b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-556"
+            }, 
+            {
+                "charcode": "0x18a2c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-557"
+            }, 
+            {
+                "charcode": "0x18a2d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-558"
+            }, 
+            {
+                "charcode": "0x18a2e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-559"
+            }, 
+            {
+                "charcode": "0x18a2f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-560"
+            }, 
+            {
+                "charcode": "0x18a30", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-561"
+            }, 
+            {
+                "charcode": "0x18a31", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-562"
+            }, 
+            {
+                "charcode": "0x18a32", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-563"
+            }, 
+            {
+                "charcode": "0x18a33", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-564"
+            }, 
+            {
+                "charcode": "0x18a34", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-565"
+            }, 
+            {
+                "charcode": "0x18a35", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-566"
+            }, 
+            {
+                "charcode": "0x18a36", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-567"
+            }, 
+            {
+                "charcode": "0x18a37", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-568"
+            }, 
+            {
+                "charcode": "0x18a38", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-569"
+            }, 
+            {
+                "charcode": "0x18a39", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-570"
+            }, 
+            {
+                "charcode": "0x18a3a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-571"
+            }, 
+            {
+                "charcode": "0x18a3b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-572"
+            }, 
+            {
+                "charcode": "0x18a3c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-573"
+            }, 
+            {
+                "charcode": "0x18a3d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-574"
+            }, 
+            {
+                "charcode": "0x18a3e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-575"
+            }, 
+            {
+                "charcode": "0x18a3f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-576"
+            }, 
+            {
+                "charcode": "0x18a40", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-577"
+            }, 
+            {
+                "charcode": "0x18a41", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-578"
+            }, 
+            {
+                "charcode": "0x18a42", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-579"
+            }, 
+            {
+                "charcode": "0x18a43", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-580"
+            }, 
+            {
+                "charcode": "0x18a44", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-581"
+            }, 
+            {
+                "charcode": "0x18a45", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-582"
+            }, 
+            {
+                "charcode": "0x18a46", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-583"
+            }, 
+            {
+                "charcode": "0x18a47", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-584"
+            }, 
+            {
+                "charcode": "0x18a48", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-585"
+            }, 
+            {
+                "charcode": "0x18a49", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-586"
+            }, 
+            {
+                "charcode": "0x18a4a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-587"
+            }, 
+            {
+                "charcode": "0x18a4b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-588"
+            }, 
+            {
+                "charcode": "0x18a4c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-589"
+            }, 
+            {
+                "charcode": "0x18a4d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-590"
+            }, 
+            {
+                "charcode": "0x18a4e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-591"
+            }, 
+            {
+                "charcode": "0x18a4f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-592"
+            }, 
+            {
+                "charcode": "0x18a50", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-593"
+            }, 
+            {
+                "charcode": "0x18a51", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-594"
+            }, 
+            {
+                "charcode": "0x18a52", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-595"
+            }, 
+            {
+                "charcode": "0x18a53", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-596"
+            }, 
+            {
+                "charcode": "0x18a54", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-597"
+            }, 
+            {
+                "charcode": "0x18a55", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-598"
+            }, 
+            {
+                "charcode": "0x18a56", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-599"
+            }, 
+            {
+                "charcode": "0x18a57", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-600"
+            }, 
+            {
+                "charcode": "0x18a58", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-601"
+            }, 
+            {
+                "charcode": "0x18a59", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-602"
+            }, 
+            {
+                "charcode": "0x18a5a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-603"
+            }, 
+            {
+                "charcode": "0x18a5b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-604"
+            }, 
+            {
+                "charcode": "0x18a5c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-605"
+            }, 
+            {
+                "charcode": "0x18a5d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-606"
+            }, 
+            {
+                "charcode": "0x18a5e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-607"
+            }, 
+            {
+                "charcode": "0x18a5f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-608"
+            }, 
+            {
+                "charcode": "0x18a60", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-609"
+            }, 
+            {
+                "charcode": "0x18a61", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-610"
+            }, 
+            {
+                "charcode": "0x18a62", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-611"
+            }, 
+            {
+                "charcode": "0x18a63", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-612"
+            }, 
+            {
+                "charcode": "0x18a64", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-613"
+            }, 
+            {
+                "charcode": "0x18a65", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-614"
+            }, 
+            {
+                "charcode": "0x18a66", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-615"
+            }, 
+            {
+                "charcode": "0x18a67", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-616"
+            }, 
+            {
+                "charcode": "0x18a68", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-617"
+            }, 
+            {
+                "charcode": "0x18a69", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-618"
+            }, 
+            {
+                "charcode": "0x18a6a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-619"
+            }, 
+            {
+                "charcode": "0x18a6b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-620"
+            }, 
+            {
+                "charcode": "0x18a6c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-621"
+            }, 
+            {
+                "charcode": "0x18a6d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-622"
+            }, 
+            {
+                "charcode": "0x18a6e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-623"
+            }, 
+            {
+                "charcode": "0x18a6f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-624"
+            }, 
+            {
+                "charcode": "0x18a70", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-625"
+            }, 
+            {
+                "charcode": "0x18a71", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-626"
+            }, 
+            {
+                "charcode": "0x18a72", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-627"
+            }, 
+            {
+                "charcode": "0x18a73", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-628"
+            }, 
+            {
+                "charcode": "0x18a74", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-629"
+            }, 
+            {
+                "charcode": "0x18a75", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-630"
+            }, 
+            {
+                "charcode": "0x18a76", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-631"
+            }, 
+            {
+                "charcode": "0x18a77", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-632"
+            }, 
+            {
+                "charcode": "0x18a78", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-633"
+            }, 
+            {
+                "charcode": "0x18a79", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-634"
+            }, 
+            {
+                "charcode": "0x18a7a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-635"
+            }, 
+            {
+                "charcode": "0x18a7b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-636"
+            }, 
+            {
+                "charcode": "0x18a7c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-637"
+            }, 
+            {
+                "charcode": "0x18a7d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-638"
+            }, 
+            {
+                "charcode": "0x18a7e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-639"
+            }, 
+            {
+                "charcode": "0x18a7f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-640"
+            }, 
+            {
+                "charcode": "0x18a80", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-641"
+            }, 
+            {
+                "charcode": "0x18a81", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-642"
+            }, 
+            {
+                "charcode": "0x18a82", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-643"
+            }, 
+            {
+                "charcode": "0x18a83", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-644"
+            }, 
+            {
+                "charcode": "0x18a84", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-645"
+            }, 
+            {
+                "charcode": "0x18a85", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-646"
+            }, 
+            {
+                "charcode": "0x18a86", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-647"
+            }, 
+            {
+                "charcode": "0x18a87", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-648"
+            }, 
+            {
+                "charcode": "0x18a88", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-649"
+            }, 
+            {
+                "charcode": "0x18a89", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-650"
+            }, 
+            {
+                "charcode": "0x18a8a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-651"
+            }, 
+            {
+                "charcode": "0x18a8b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-652"
+            }, 
+            {
+                "charcode": "0x18a8c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-653"
+            }, 
+            {
+                "charcode": "0x18a8d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-654"
+            }, 
+            {
+                "charcode": "0x18a8e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-655"
+            }, 
+            {
+                "charcode": "0x18a8f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-656"
+            }, 
+            {
+                "charcode": "0x18a90", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-657"
+            }, 
+            {
+                "charcode": "0x18a91", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-658"
+            }, 
+            {
+                "charcode": "0x18a92", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-659"
+            }, 
+            {
+                "charcode": "0x18a93", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-660"
+            }, 
+            {
+                "charcode": "0x18a94", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-661"
+            }, 
+            {
+                "charcode": "0x18a95", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-662"
+            }, 
+            {
+                "charcode": "0x18a96", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-663"
+            }, 
+            {
+                "charcode": "0x18a97", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-664"
+            }, 
+            {
+                "charcode": "0x18a98", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-665"
+            }, 
+            {
+                "charcode": "0x18a99", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-666"
+            }, 
+            {
+                "charcode": "0x18a9a", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-667"
+            }, 
+            {
+                "charcode": "0x18a9b", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-668"
+            }, 
+            {
+                "charcode": "0x18a9c", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-669"
+            }, 
+            {
+                "charcode": "0x18a9d", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-670"
+            }, 
+            {
+                "charcode": "0x18a9e", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-671"
+            }, 
+            {
+                "charcode": "0x18a9f", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-672"
+            }, 
+            {
+                "charcode": "0x18aa0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-673"
+            }, 
+            {
+                "charcode": "0x18aa1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-674"
+            }, 
+            {
+                "charcode": "0x18aa2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-675"
+            }, 
+            {
+                "charcode": "0x18aa3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-676"
+            }, 
+            {
+                "charcode": "0x18aa4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-677"
+            }, 
+            {
+                "charcode": "0x18aa5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-678"
+            }, 
+            {
+                "charcode": "0x18aa6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-679"
+            }, 
+            {
+                "charcode": "0x18aa7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-680"
+            }, 
+            {
+                "charcode": "0x18aa8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-681"
+            }, 
+            {
+                "charcode": "0x18aa9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-682"
+            }, 
+            {
+                "charcode": "0x18aaa", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-683"
+            }, 
+            {
+                "charcode": "0x18aab", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-684"
+            }, 
+            {
+                "charcode": "0x18aac", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-685"
+            }, 
+            {
+                "charcode": "0x18aad", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-686"
+            }, 
+            {
+                "charcode": "0x18aae", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-687"
+            }, 
+            {
+                "charcode": "0x18aaf", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-688"
+            }, 
+            {
+                "charcode": "0x18ab0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-689"
+            }, 
+            {
+                "charcode": "0x18ab1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-690"
+            }, 
+            {
+                "charcode": "0x18ab2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-691"
+            }, 
+            {
+                "charcode": "0x18ab3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-692"
+            }, 
+            {
+                "charcode": "0x18ab4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-693"
+            }, 
+            {
+                "charcode": "0x18ab5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-694"
+            }, 
+            {
+                "charcode": "0x18ab6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-695"
+            }, 
+            {
+                "charcode": "0x18ab7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-696"
+            }, 
+            {
+                "charcode": "0x18ab8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-697"
+            }, 
+            {
+                "charcode": "0x18ab9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-698"
+            }, 
+            {
+                "charcode": "0x18aba", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-699"
+            }, 
+            {
+                "charcode": "0x18abb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-700"
+            }, 
+            {
+                "charcode": "0x18abc", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-701"
+            }, 
+            {
+                "charcode": "0x18abd", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-702"
+            }, 
+            {
+                "charcode": "0x18abe", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-703"
+            }, 
+            {
+                "charcode": "0x18abf", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-704"
+            }, 
+            {
+                "charcode": "0x18ac0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-705"
+            }, 
+            {
+                "charcode": "0x18ac1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-706"
+            }, 
+            {
+                "charcode": "0x18ac2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-707"
+            }, 
+            {
+                "charcode": "0x18ac3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-708"
+            }, 
+            {
+                "charcode": "0x18ac4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-709"
+            }, 
+            {
+                "charcode": "0x18ac5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-710"
+            }, 
+            {
+                "charcode": "0x18ac6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-711"
+            }, 
+            {
+                "charcode": "0x18ac7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-712"
+            }, 
+            {
+                "charcode": "0x18ac8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-713"
+            }, 
+            {
+                "charcode": "0x18ac9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-714"
+            }, 
+            {
+                "charcode": "0x18aca", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-715"
+            }, 
+            {
+                "charcode": "0x18acb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-716"
+            }, 
+            {
+                "charcode": "0x18acc", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-717"
+            }, 
+            {
+                "charcode": "0x18acd", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-718"
+            }, 
+            {
+                "charcode": "0x18ace", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-719"
+            }, 
+            {
+                "charcode": "0x18acf", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-720"
+            }, 
+            {
+                "charcode": "0x18ad0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-721"
+            }, 
+            {
+                "charcode": "0x18ad1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-722"
+            }, 
+            {
+                "charcode": "0x18ad2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-723"
+            }, 
+            {
+                "charcode": "0x18ad3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-724"
+            }, 
+            {
+                "charcode": "0x18ad4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-725"
+            }, 
+            {
+                "charcode": "0x18ad5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-726"
+            }, 
+            {
+                "charcode": "0x18ad6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-727"
+            }, 
+            {
+                "charcode": "0x18ad7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-728"
+            }, 
+            {
+                "charcode": "0x18ad8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-729"
+            }, 
+            {
+                "charcode": "0x18ad9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-730"
+            }, 
+            {
+                "charcode": "0x18ada", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-731"
+            }, 
+            {
+                "charcode": "0x18adb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-732"
+            }, 
+            {
+                "charcode": "0x18adc", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-733"
+            }, 
+            {
+                "charcode": "0x18add", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-734"
+            }, 
+            {
+                "charcode": "0x18ade", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-735"
+            }, 
+            {
+                "charcode": "0x18adf", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-736"
+            }, 
+            {
+                "charcode": "0x18ae0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-737"
+            }, 
+            {
+                "charcode": "0x18ae1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-738"
+            }, 
+            {
+                "charcode": "0x18ae2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-739"
+            }, 
+            {
+                "charcode": "0x18ae3", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-740"
+            }, 
+            {
+                "charcode": "0x18ae4", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-741"
+            }, 
+            {
+                "charcode": "0x18ae5", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-742"
+            }, 
+            {
+                "charcode": "0x18ae6", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-743"
+            }, 
+            {
+                "charcode": "0x18ae7", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-744"
+            }, 
+            {
+                "charcode": "0x18ae8", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-745"
+            }, 
+            {
+                "charcode": "0x18ae9", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-746"
+            }, 
+            {
+                "charcode": "0x18aea", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-747"
+            }, 
+            {
+                "charcode": "0x18aeb", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-748"
+            }, 
+            {
+                "charcode": "0x18aec", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-749"
+            }, 
+            {
+                "charcode": "0x18aed", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-750"
+            }, 
+            {
+                "charcode": "0x18aee", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-751"
+            }, 
+            {
+                "charcode": "0x18aef", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-752"
+            }, 
+            {
+                "charcode": "0x18af0", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-753"
+            }, 
+            {
+                "charcode": "0x18af1", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-754"
+            }, 
+            {
+                "charcode": "0x18af2", 
+                "description": "", 
+                "title": "TANGUT COMPONENT-755"
+            }
+        ], 
+        "name": "Tangut Components"
+    }
+]
