@@ -1,0 +1,492 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x11c00", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER A"
+            }, 
+            {
+                "charcode": "0x11c01", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER AA"
+            }, 
+            {
+                "charcode": "0x11c02", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER I"
+            }, 
+            {
+                "charcode": "0x11c03", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER II"
+            }, 
+            {
+                "charcode": "0x11c04", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER U"
+            }, 
+            {
+                "charcode": "0x11c05", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER UU"
+            }, 
+            {
+                "charcode": "0x11c06", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER VOCALIC R"
+            }, 
+            {
+                "charcode": "0x11c07", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x11c08", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER VOCALIC L"
+            }, 
+            {
+                "charcode": "0x11c0a", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER E"
+            }, 
+            {
+                "charcode": "0x11c0b", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER AI"
+            }, 
+            {
+                "charcode": "0x11c0c", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER O"
+            }, 
+            {
+                "charcode": "0x11c0d", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER AU"
+            }, 
+            {
+                "charcode": "0x11c0e", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER KA"
+            }, 
+            {
+                "charcode": "0x11c0f", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER KHA"
+            }, 
+            {
+                "charcode": "0x11c10", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER GA"
+            }, 
+            {
+                "charcode": "0x11c11", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER GHA"
+            }, 
+            {
+                "charcode": "0x11c12", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER NGA"
+            }, 
+            {
+                "charcode": "0x11c13", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER CA"
+            }, 
+            {
+                "charcode": "0x11c14", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER CHA"
+            }, 
+            {
+                "charcode": "0x11c15", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER JA"
+            }, 
+            {
+                "charcode": "0x11c16", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER JHA"
+            }, 
+            {
+                "charcode": "0x11c17", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER NYA"
+            }, 
+            {
+                "charcode": "0x11c18", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER TTA"
+            }, 
+            {
+                "charcode": "0x11c19", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER TTHA"
+            }, 
+            {
+                "charcode": "0x11c1a", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER DDA"
+            }, 
+            {
+                "charcode": "0x11c1b", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER DDHA"
+            }, 
+            {
+                "charcode": "0x11c1c", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER NNA"
+            }, 
+            {
+                "charcode": "0x11c1d", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER TA"
+            }, 
+            {
+                "charcode": "0x11c1e", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER THA"
+            }, 
+            {
+                "charcode": "0x11c1f", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER DA"
+            }, 
+            {
+                "charcode": "0x11c20", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER DHA"
+            }, 
+            {
+                "charcode": "0x11c21", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER NA"
+            }, 
+            {
+                "charcode": "0x11c22", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER PA"
+            }, 
+            {
+                "charcode": "0x11c23", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER PHA"
+            }, 
+            {
+                "charcode": "0x11c24", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER BA"
+            }, 
+            {
+                "charcode": "0x11c25", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER BHA"
+            }, 
+            {
+                "charcode": "0x11c26", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER MA"
+            }, 
+            {
+                "charcode": "0x11c27", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER YA"
+            }, 
+            {
+                "charcode": "0x11c28", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER RA"
+            }, 
+            {
+                "charcode": "0x11c29", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER LA"
+            }, 
+            {
+                "charcode": "0x11c2a", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER VA"
+            }, 
+            {
+                "charcode": "0x11c2b", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER SHA"
+            }, 
+            {
+                "charcode": "0x11c2c", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER SSA"
+            }, 
+            {
+                "charcode": "0x11c2d", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER SA"
+            }, 
+            {
+                "charcode": "0x11c2e", 
+                "description": "", 
+                "title": "BHAIKSUKI LETTER HA"
+            }, 
+            {
+                "charcode": "0x11c2f", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0x11c30", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN I"
+            }, 
+            {
+                "charcode": "0x11c31", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN II"
+            }, 
+            {
+                "charcode": "0x11c32", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN U"
+            }, 
+            {
+                "charcode": "0x11c33", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0x11c34", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN VOCALIC R"
+            }, 
+            {
+                "charcode": "0x11c35", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN VOCALIC RR"
+            }, 
+            {
+                "charcode": "0x11c36", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN VOCALIC L"
+            }, 
+            {
+                "charcode": "0x11c38", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN E"
+            }, 
+            {
+                "charcode": "0x11c39", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN AI"
+            }, 
+            {
+                "charcode": "0x11c3a", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN O"
+            }, 
+            {
+                "charcode": "0x11c3b", 
+                "description": "", 
+                "title": "BHAIKSUKI VOWEL SIGN AU"
+            }, 
+            {
+                "charcode": "0x11c3c", 
+                "description": "", 
+                "title": "BHAIKSUKI SIGN CANDRABINDU"
+            }, 
+            {
+                "charcode": "0x11c3d", 
+                "description": "", 
+                "title": "BHAIKSUKI SIGN ANUSVARA"
+            }, 
+            {
+                "charcode": "0x11c3e", 
+                "description": "", 
+                "title": "BHAIKSUKI SIGN VISARGA"
+            }, 
+            {
+                "charcode": "0x11c3f", 
+                "description": "", 
+                "title": "BHAIKSUKI SIGN VIRAMA"
+            }, 
+            {
+                "charcode": "0x11c40", 
+                "description": "", 
+                "title": "BHAIKSUKI SIGN AVAGRAHA"
+            }, 
+            {
+                "charcode": "0x11c41", 
+                "description": "", 
+                "title": "BHAIKSUKI DANDA"
+            }, 
+            {
+                "charcode": "0x11c42", 
+                "description": "", 
+                "title": "BHAIKSUKI DOUBLE DANDA"
+            }, 
+            {
+                "charcode": "0x11c43", 
+                "description": "", 
+                "title": "BHAIKSUKI WORD SEPARATOR"
+            }, 
+            {
+                "charcode": "0x11c44", 
+                "description": "", 
+                "title": "BHAIKSUKI GAP FILLER-1"
+            }, 
+            {
+                "charcode": "0x11c45", 
+                "description": "", 
+                "title": "BHAIKSUKI GAP FILLER-2"
+            }, 
+            {
+                "charcode": "0x11c50", 
+                "description": "", 
+                "title": "BHAIKSUKI DIGIT ZERO"
+            }, 
+            {
+                "charcode": "0x11c51", 
+                "description": "", 
+                "title": "BHAIKSUKI DIGIT ONE"
+            }, 
+            {
+                "charcode": "0x11c52", 
+                "description": "", 
+                "title": "BHAIKSUKI DIGIT TWO"
+            }, 
+            {
+                "charcode": "0x11c53", 
+                "description": "", 
+                "title": "BHAIKSUKI DIGIT THREE"
+            }, 
+            {
+                "charcode": "0x11c54", 
+                "description": "", 
+                "title": "BHAIKSUKI DIGIT FOUR"
+            }, 
+            {
+                "charcode": "0x11c55", 
+                "description": "", 
+                "title": "BHAIKSUKI DIGIT FIVE"
+            }, 
+            {
+                "charcode": "0x11c56", 
+                "description": "", 
+                "title": "BHAIKSUKI DIGIT SIX"
+            }, 
+            {
+                "charcode": "0x11c57", 
+                "description": "", 
+                "title": "BHAIKSUKI DIGIT SEVEN"
+            }, 
+            {
+                "charcode": "0x11c58", 
+                "description": "", 
+                "title": "BHAIKSUKI DIGIT EIGHT"
+            }, 
+            {
+                "charcode": "0x11c59", 
+                "description": "", 
+                "title": "BHAIKSUKI DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x11c5a", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER ONE"
+            }, 
+            {
+                "charcode": "0x11c5b", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER TWO"
+            }, 
+            {
+                "charcode": "0x11c5c", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER THREE"
+            }, 
+            {
+                "charcode": "0x11c5d", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER FOUR"
+            }, 
+            {
+                "charcode": "0x11c5e", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER FIVE"
+            }, 
+            {
+                "charcode": "0x11c5f", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER SIX"
+            }, 
+            {
+                "charcode": "0x11c60", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER SEVEN"
+            }, 
+            {
+                "charcode": "0x11c61", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER EIGHT"
+            }, 
+            {
+                "charcode": "0x11c62", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER NINE"
+            }, 
+            {
+                "charcode": "0x11c63", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER TEN"
+            }, 
+            {
+                "charcode": "0x11c64", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER TWENTY"
+            }, 
+            {
+                "charcode": "0x11c65", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER THIRTY"
+            }, 
+            {
+                "charcode": "0x11c66", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER FORTY"
+            }, 
+            {
+                "charcode": "0x11c67", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER FIFTY"
+            }, 
+            {
+                "charcode": "0x11c68", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER SIXTY"
+            }, 
+            {
+                "charcode": "0x11c69", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER SEVENTY"
+            }, 
+            {
+                "charcode": "0x11c6a", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER EIGHTY"
+            }, 
+            {
+                "charcode": "0x11c6b", 
+                "description": "", 
+                "title": "BHAIKSUKI NUMBER NINETY"
+            }, 
+            {
+                "charcode": "0x11c6c", 
+                "description": "", 
+                "title": "BHAIKSUKI HUNDREDS UNIT MARK"
+            }
+        ], 
+        "name": "Bhaiksuki"
+    }
+]

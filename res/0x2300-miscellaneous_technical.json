@@ -2231,6 +2231,26 @@
                 "charcode": "0x23fa", 
                 "description": "", 
                 "title": "BLACK CIRCLE FOR RECORD"
+            }, 
+            {
+                "charcode": "0x23fb", 
+                "description": "", 
+                "title": "POWER SYMBOL"
+            }, 
+            {
+                "charcode": "0x23fc", 
+                "description": "", 
+                "title": "POWER ON-OFF SYMBOL"
+            }, 
+            {
+                "charcode": "0x23fd", 
+                "description": "", 
+                "title": "POWER ON SYMBOL"
+            }, 
+            {
+                "charcode": "0x23fe", 
+                "description": "", 
+                "title": "POWER SLEEP SYMBOL"
             }
         ], 
         "name": "Miscellaneous Technical"

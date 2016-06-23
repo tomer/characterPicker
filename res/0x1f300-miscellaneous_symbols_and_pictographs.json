@@ -5284,6 +5284,11 @@
                 "title": "JOYSTICK"
             }, 
             {
+                "charcode": "0x1f57a", 
+                "description": "", 
+                "title": "MAN DANCING"
+            }, 
+            {
                 "charcode": "0x1f57b", 
                 "description": "", 
                 "title": "LEFT HAND TELEPHONE RECEIVER"
@@ -5487,6 +5492,11 @@
                 "charcode": "0x1f5a3", 
                 "description": "", 
                 "title": "BLACK DOWN POINTING BACKHAND INDEX"
+            }, 
+            {
+                "charcode": "0x1f5a4", 
+                "description": "", 
+                "title": "BLACK HEART"
             }, 
             {
                 "charcode": "0x1f5a5", 

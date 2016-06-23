@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# v1.0.6 Mon Jul 6 00:10:12 IDT 2015
+# v1.0.6 Thu Jun 23 20:21:13 IDT 2016
 
 CACHE:
 characterPicker.js
@@ -29,6 +29,7 @@ res/0x103a0-old_persian.json
 res/0x10400-deseret.json
 res/0x10450-shavian.json
 res/0x10480-osmanya.json
+res/0x104b0-osage.json
 res/0x10500-elbasan.json
 res/0x10530-caucasian_albanian.json
 res/0x10600-linear_a.json
@@ -65,13 +66,17 @@ res/0x11200-khojki.json
 res/0x11280-multani.json
 res/0x112b0-khudawadi.json
 res/0x11300-grantha.json
+res/0x11400-newa.json
 res/0x11480-tirhuta.json
 res/0x11580-siddham.json
 res/0x11600-modi.json
+res/0x11660-mongolian_supplement.json
 res/0x11680-takri.json
 res/0x11700-ahom.json
 res/0x118a0-warang_citi.json
 res/0x11ac0-pau_cin_hau.json
+res/0x11c00-bhaiksuki.json
+res/0x11c70-marchen.json
 res/0x12000-cuneiform.json
 res/0x1200-ethiopic.json
 res/0x12400-cuneiform_numbers_and_punctuation.json
@@ -88,6 +93,8 @@ res/0x16a40-mro.json
 res/0x16ad0-bassa_vah.json
 res/0x16b00-pahawh_hmong.json
 res/0x16f00-miao.json
+res/0x16fe0-ideographic_symbols_and_punctuation.json
+res/0x17000-tangut.json
 res/0x1700-tagalog.json
 res/0x1720-hanunoo.json
 res/0x1740-buhid.json
@@ -95,6 +102,7 @@ res/0x1760-tagbanwa.json
 res/0x1780-khmer.json
 res/0x1800-mongolian.json
 res/0x180-latin_extended-b.json
+res/0x18800-tangut_components.json
 res/0x18b0-unified_canadian_aboriginal_syllabics_extended.json
 res/0x1900-limbu.json
 res/0x1950-tai_le.json
@@ -111,6 +119,7 @@ res/0x1bc0-batak.json
 res/0x1bca0-shorthand_format_controls.json
 res/0x1c00-lepcha.json
 res/0x1c50-ol_chiki.json
+res/0x1c80-cyrillic_extended-c.json
 res/0x1cc0-sundanese_supplement.json
 res/0x1cd0-vedic_extensions.json
 res/0x1d000-byzantine_musical_symbols.json
@@ -123,8 +132,10 @@ res/0x1d400-mathematical_alphanumeric_symbols.json
 res/0x1d800-sutton_signwriting.json
 res/0x1d80-phonetic_extensions_supplement.json
 res/0x1dc0-combining_diacritical_marks_supplement.json
+res/0x1e000-glagolitic_supplement.json
 res/0x1e00-latin_extended_additional.json
 res/0x1e800-mende_kikakui.json
+res/0x1e900-adlam.json
 res/0x1ee00-arabic_mathematical_alphabetic_symbols.json
 res/0x1f000-mahjong_tiles.json
 res/0x1f00-greek_extended.json

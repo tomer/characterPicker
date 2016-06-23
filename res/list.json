@@ -1,4 +1,9 @@
 {
+    "Adlam": {
+        "filename": "0x1e900-adlam.json", 
+        "start": 125184, 
+        "title": "Adlam"
+    }, 
     "Aegean Numbers": {
         "filename": "0x10100-aegean_numbers.json", 
         "start": 65792, 
@@ -118,6 +123,11 @@
         "filename": "0x980-bengali.json", 
         "start": 2432, 
         "title": "Bengali"
+    }, 
+    "Bhaiksuki": {
+        "filename": "0x11c00-bhaiksuki.json", 
+        "start": 72704, 
+        "title": "Bhaiksuki"
     }, 
     "Block Elements": {
         "filename": "0x2580-block_elements.json", 
@@ -344,6 +354,11 @@
         "start": 42560, 
         "title": "Cyrillic Extended-B"
     }, 
+    "Cyrillic Extended-C": {
+        "filename": "0x1c80-cyrillic_extended-c.json", 
+        "start": 7296, 
+        "title": "Cyrillic Extended-C"
+    }, 
     "Cyrillic Supplement": {
         "filename": "0x500-cyrillic_supplement.json", 
         "start": 1280, 
@@ -469,6 +484,11 @@
         "start": 11264, 
         "title": "Glagolitic"
     }, 
+    "Glagolitic Supplement": {
+        "filename": "0x1e000-glagolitic_supplement.json", 
+        "start": 122880, 
+        "title": "Glagolitic Supplement"
+    }, 
     "Gothic": {
         "filename": "0x10330-gothic.json", 
         "start": 66352, 
@@ -568,6 +588,11 @@
         "filename": "0x2ff0-ideographic_description_characters.json", 
         "start": 12272, 
         "title": "Ideographic Description Characters"
+    }, 
+    "Ideographic Symbols and Punctuation": {
+        "filename": "0x16fe0-ideographic_symbols_and_punctuation.json", 
+        "start": 94176, 
+        "title": "Ideographic Symbols and Punctuation"
     }, 
     "Imperial Aramaic": {
         "filename": "0x10840-imperial_aramaic.json", 
@@ -769,6 +794,11 @@
         "start": 68288, 
         "title": "Manichaean"
     }, 
+    "Marchen": {
+        "filename": "0x11c70-marchen.json", 
+        "start": 72816, 
+        "title": "Marchen"
+    }, 
     "Mathematical Alphanumeric Symbols": {
         "filename": "0x1d400-mathematical_alphanumeric_symbols.json", 
         "start": 119808, 
@@ -854,6 +884,11 @@
         "start": 6144, 
         "title": "Mongolian"
     }, 
+    "Mongolian Supplement": {
+        "filename": "0x11660-mongolian_supplement.json", 
+        "start": 71264, 
+        "title": "Mongolian Supplement"
+    }, 
     "Mro": {
         "filename": "0x16a40-mro.json", 
         "start": 92736, 
@@ -898,6 +933,11 @@
         "filename": "0x1980-new_tai_lue.json", 
         "start": 6528, 
         "title": "New Tai Lue"
+    }, 
+    "Newa": {
+        "filename": "0x11400-newa.json", 
+        "start": 70656, 
+        "title": "Newa"
     }, 
     "Number Forms": {
         "filename": "0x2150-number_forms.json", 
@@ -963,6 +1003,11 @@
         "filename": "0x1f650-ornamental_dingbats.json", 
         "start": 128592, 
         "title": "Ornamental Dingbats"
+    }, 
+    "Osage": {
+        "filename": "0x104b0-osage.json", 
+        "start": 66736, 
+        "title": "Osage"
     }, 
     "Osmanya": {
         "filename": "0x10480-osmanya.json", 
@@ -1213,6 +1258,16 @@
         "filename": "0xb80-tamil.json", 
         "start": 2944, 
         "title": "Tamil"
+    }, 
+    "Tangut": {
+        "filename": "0x17000-tangut.json", 
+        "start": 94208, 
+        "title": "Tangut"
+    }, 
+    "Tangut Components": {
+        "filename": "0x18800-tangut_components.json", 
+        "start": 100352, 
+        "title": "Tangut Components"
     }, 
     "Telugu": {
         "filename": "0xc00-telugu.json", 

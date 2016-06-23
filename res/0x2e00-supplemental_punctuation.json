@@ -575,6 +575,16 @@
                 "charcode": "0x2e42", 
                 "description": "", 
                 "title": "DOUBLE LOW-REVERSED-9 QUOTATION MARK"
+            }, 
+            {
+                "charcode": "0x2e43", 
+                "description": "", 
+                "title": "DASH WITH LEFT UPTURN"
+            }, 
+            {
+                "charcode": "0x2e44", 
+                "description": "", 
+                "title": "DOUBLE SUSPENSION MARK"
             }
         ], 
         "name": "Supplemental Punctuation"
