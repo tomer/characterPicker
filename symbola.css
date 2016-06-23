@@ -2,4 +2,3 @@
 	font-family: "Symbola";
 	src: url("Symbola_hint.ttf"), url("Symbola.ttf"), local("Symbola");
 }
-body, #buttons button, textarea { font-family: sans-serif, Symbola;}

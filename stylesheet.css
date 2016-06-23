@@ -1,4 +1,7 @@
 @import url('symbola.css');
+@import url('emojione.css');
+body, #buttons button, textarea { font-family: emojiOne, sans-serif, Symbola;}
+
 
 html {overflow-y: scroll;}
 
