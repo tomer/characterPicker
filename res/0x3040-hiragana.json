@@ -828,6 +828,15 @@
                 "charcode": "0x309e", 
                 "description": "", 
                 "title": "HIRAGANA VOICED ITERATION MARK"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Digraph", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x309f", 
+                "description": "", 
+                "title": "HIRAGANA DIGRAPH YORI"
             }
         ], 
         "name": "Hiragana"

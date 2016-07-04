@@ -2295,6 +2295,15 @@
                 "charcode": "0x2afe", 
                 "description": "", 
                 "title": "WHITE VERTICAL BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
+                "charcode": "0x2aff", 
+                "description": "", 
+                "title": "N-ARY WHITE VERTICAL BAR"
             }
         ], 
         "name": "Supplemental Mathematical Operators"

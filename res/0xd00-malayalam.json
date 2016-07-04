@@ -953,6 +953,15 @@
                 "charcode": "0xd7e", 
                 "description": "", 
                 "title": "MALAYALAM LETTER CHILLU LL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xd7f", 
+                "description": "", 
+                "title": "MALAYALAM LETTER CHILLU K"
             }
         ], 
         "name": "Malayalam"

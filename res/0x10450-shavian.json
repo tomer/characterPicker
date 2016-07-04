@@ -423,6 +423,15 @@
                 "charcode": "0x1047e", 
                 "description": "", 
                 "title": "SHAVIAN LETTER IAN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Vowel", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1047f", 
+                "description": "", 
+                "title": "SHAVIAN LETTER YEW"
             }
         ], 
         "name": "Shavian"

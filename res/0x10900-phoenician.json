@@ -252,6 +252,15 @@
                 "charcode": "0x1091b", 
                 "description": "", 
                 "title": "PHOENICIAN NUMBER THREE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1091f", 
+                "description": "", 
+                "title": "PHOENICIAN WORD SEPARATOR"
             }
         ], 
         "name": "Phoenician"

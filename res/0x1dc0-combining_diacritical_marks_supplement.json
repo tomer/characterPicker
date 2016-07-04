@@ -458,6 +458,15 @@
                 "charcode": "0x1dfe", 
                 "description": "", 
                 "title": "COMBINING LEFT ARROWHEAD ABOVE"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1dff", 
+                "description": "", 
+                "title": "COMBINING RIGHT ARROWHEAD AND DOWN ARROWHEAD BELOW"
             }
         ], 
         "name": "Combining Diacritical Marks Supplement"

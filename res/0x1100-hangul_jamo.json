@@ -2295,6 +2295,15 @@
                 "charcode": "0x11fe", 
                 "description": "", 
                 "title": "HANGUL JONGSEONG KIYEOK-HIEUH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Final", 
+                "cat4": "", 
+                "charcode": "0x11ff", 
+                "description": "", 
+                "title": "HANGUL JONGSEONG SSANGNIEUN"
             }
         ], 
         "name": "Hangul Jamo"

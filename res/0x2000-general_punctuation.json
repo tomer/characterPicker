@@ -974,6 +974,15 @@
                 "charcode": "0x206e", 
                 "description": "", 
                 "title": "NATIONAL DIGIT SHAPES"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x206f", 
+                "description": "", 
+                "title": "NOMINAL DIGIT SHAPES"
             }
         ], 
         "name": "General Punctuation"

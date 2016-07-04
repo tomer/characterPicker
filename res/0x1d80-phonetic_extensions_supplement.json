@@ -567,6 +567,15 @@
                 "charcode": "0x1dbe", 
                 "description": "", 
                 "title": "MODIFIER LETTER SMALL EZH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
+                "charcode": "0x1dbf", 
+                "description": "", 
+                "title": "MODIFIER LETTER SMALL THETA"
             }
         ], 
         "name": "Phonetic Extensions Supplement"

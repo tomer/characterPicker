@@ -657,6 +657,15 @@
                 "charcode": "0x1c4e", 
                 "description": "", 
                 "title": "LEPCHA LETTER TTHA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1c4f", 
+                "description": "", 
+                "title": "LEPCHA LETTER DDA"
             }
         ], 
         "name": "Lepcha"

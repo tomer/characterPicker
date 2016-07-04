@@ -1143,6 +1143,15 @@
                 "charcode": "0x257e", 
                 "description": "FORMS HEAVY LEFT AND LIGHT RIGHT", 
                 "title": "BOX DRAWINGS HEAVY LEFT AND LIGHT RIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Graphic", 
+                "cat3": "Form", 
+                "cat4": "", 
+                "charcode": "0x257f", 
+                "description": "FORMS HEAVY UP AND LIGHT DOWN", 
+                "title": "BOX DRAWINGS HEAVY UP AND LIGHT DOWN"
             }
         ], 
         "name": "Box Drawing"

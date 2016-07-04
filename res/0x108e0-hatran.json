@@ -125,6 +125,11 @@
                 "charcode": "0x108fe", 
                 "description": "", 
                 "title": "HATRAN NUMBER TWENTY"
+            }, 
+            {
+                "charcode": "0x108ff", 
+                "description": "", 
+                "title": "HATRAN NUMBER ONE HUNDRED"
             }
         ], 
         "name": "Hatran"

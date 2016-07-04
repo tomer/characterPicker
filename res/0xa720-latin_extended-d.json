@@ -1327,6 +1327,15 @@
                 "charcode": "0xa7fe", 
                 "description": "", 
                 "title": "LATIN EPIGRAPHIC LETTER I LONGA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Historic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa7ff", 
+                "description": "", 
+                "title": "LATIN EPIGRAPHIC LETTER ARCHAIC M"
             }
         ], 
         "name": "Latin Extended-D"

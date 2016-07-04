@@ -797,6 +797,11 @@
                 "charcode": "0x111de", 
                 "description": "", 
                 "title": "SHARADA SECTION MARK-1"
+            }, 
+            {
+                "charcode": "0x111df", 
+                "description": "", 
+                "title": "SHARADA SECTION MARK-2"
             }
         ], 
         "name": "Sharada"

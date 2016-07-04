@@ -135,6 +135,15 @@
                 "charcode": "0x27fe", 
                 "description": "", 
                 "title": "LONG RIGHTWARDS DOUBLE ARROW FROM BAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Long", 
+                "cat4": "", 
+                "charcode": "0x27ff", 
+                "description": "", 
+                "title": "LONG RIGHTWARDS SQUIGGLE ARROW"
             }
         ], 
         "name": "Supplemental Arrows-A"

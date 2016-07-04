@@ -1143,6 +1143,15 @@
                 "charcode": "0x29fe", 
                 "description": "", 
                 "title": "TINY"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Operator", 
+                "cat4": "", 
+                "charcode": "0x29ff", 
+                "description": "", 
+                "title": "MINY"
             }
         ], 
         "name": "Miscellaneous Mathematical Symbols-B"

@@ -567,6 +567,15 @@
                 "charcode": "0x1bbe", 
                 "description": "", 
                 "title": "SUNDANESE LETTER FINAL K"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "Historic", 
+                "cat4": "", 
+                "charcode": "0x1bbf", 
+                "description": "", 
+                "title": "SUNDANESE LETTER FINAL M"
             }
         ], 
         "name": "Sundanese"

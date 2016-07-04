@@ -516,6 +516,11 @@
                 "charcode": "0x8fe", 
                 "description": "", 
                 "title": "ARABIC DAMMA WITH DOT"
+            }, 
+            {
+                "charcode": "0x8ff", 
+                "description": "", 
+                "title": "ARABIC MARK SIDEWAYS NOON GHUNNA"
             }
         ], 
         "name": "Arabic Extended-A"

@@ -234,6 +234,15 @@
                 "charcode": "0x10b7e", 
                 "description": "", 
                 "title": "INSCRIPTIONAL PAHLAVI NUMBER ONE HUNDRED"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x10b7f", 
+                "description": "", 
+                "title": "INSCRIPTIONAL PAHLAVI NUMBER ONE THOUSAND"
             }
         ], 
         "name": "Inscriptional Pahlavi"

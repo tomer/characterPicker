@@ -135,6 +135,15 @@
                 "charcode": "0x319e", 
                 "description": "KAERITEN TI", 
                 "title": "IDEOGRAPHIC ANNOTATION EARTH MARK"
+            }, 
+            {
+                "cat1": "Ideograph", 
+                "cat2": "Modifier", 
+                "cat3": "Superscript", 
+                "cat4": "", 
+                "charcode": "0x319f", 
+                "description": "KAERITEN ZIN", 
+                "title": "IDEOGRAPHIC ANNOTATION MAN MARK"
             }
         ], 
         "name": "Kanbun"

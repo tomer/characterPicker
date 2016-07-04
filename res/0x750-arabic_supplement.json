@@ -423,6 +423,15 @@
                 "charcode": "0x77e", 
                 "description": "", 
                 "title": "ARABIC LETTER SEEN WITH INVERTED V"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x77f", 
+                "description": "", 
+                "title": "ARABIC LETTER KAF WITH TWO DOTS ABOVE"
             }
         ], 
         "name": "Arabic Supplement"

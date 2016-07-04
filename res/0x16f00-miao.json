@@ -1188,6 +1188,15 @@
                 "charcode": "0x16f9e", 
                 "description": "", 
                 "title": "MIAO LETTER REFORMED TONE-6"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x16f9f", 
+                "description": "", 
+                "title": "MIAO LETTER REFORMED TONE-8"
             }
         ], 
         "name": "Miao"

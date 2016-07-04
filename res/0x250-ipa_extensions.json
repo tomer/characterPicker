@@ -855,6 +855,15 @@
                 "charcode": "0x2ae", 
                 "description": "", 
                 "title": "LATIN SMALL LETTER TURNED H WITH FISHHOOK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "Sinology", 
+                "cat4": "", 
+                "charcode": "0x2af", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TURNED H WITH FISHHOOK AND TAIL"
             }
         ], 
         "name": "IPA Extensions"

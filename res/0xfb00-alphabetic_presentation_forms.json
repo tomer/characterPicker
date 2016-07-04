@@ -513,6 +513,15 @@
                 "charcode": "0xfb4e", 
                 "description": "", 
                 "title": "HEBREW LETTER PE WITH RAFE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfb4f", 
+                "description": "", 
+                "title": "HEBREW LIGATURE ALEF LAMED"
             }
         ], 
         "name": "Alphabetic Presentation Forms"

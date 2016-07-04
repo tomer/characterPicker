@@ -2151,6 +2151,15 @@
                 "charcode": "0xe01ee", 
                 "description": "", 
                 "title": "VARIATION SELECTOR-255"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xe01ef", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-256"
             }
         ], 
         "name": "Variation Selectors Supplement"

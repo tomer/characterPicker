@@ -5,6 +5,11 @@
                 "charcode": "0xd800", 
                 "description": "", 
                 "title": "<Non Private Use High Surrogate, First>"
+            }, 
+            {
+                "charcode": "0xdb7f", 
+                "description": "", 
+                "title": "<Non Private Use High Surrogate, Last>"
             }
         ], 
         "name": "High Surrogates"

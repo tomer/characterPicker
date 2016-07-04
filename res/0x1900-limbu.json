@@ -595,6 +595,15 @@
                 "charcode": "0x194e", 
                 "description": "", 
                 "title": "LIMBU DIGIT EIGHT"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "Digit", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x194f", 
+                "description": "", 
+                "title": "LIMBU DIGIT NINE"
             }
         ], 
         "name": "Limbu"

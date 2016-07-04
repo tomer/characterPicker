@@ -495,6 +495,15 @@
                 "charcode": "0x1bfe", 
                 "description": "", 
                 "title": "BATAK SYMBOL BINDU JUDUL"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1bff", 
+                "description": "", 
+                "title": "BATAK SYMBOL BINDU PANGOLAT"
             }
         ], 
         "name": "Batak"

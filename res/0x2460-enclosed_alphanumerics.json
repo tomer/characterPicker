@@ -1431,6 +1431,15 @@
                 "charcode": "0x24fe", 
                 "description": "", 
                 "title": "DOUBLE CIRCLED NUMBER TEN"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Number", 
+                "cat3": "Circled", 
+                "cat4": "", 
+                "charcode": "0x24ff", 
+                "description": "", 
+                "title": "NEGATIVE CIRCLED DIGIT ZERO"
             }
         ], 
         "name": "Enclosed Alphanumerics"

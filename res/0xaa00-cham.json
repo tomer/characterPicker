@@ -738,6 +738,15 @@
                 "charcode": "0xaa5e", 
                 "description": "", 
                 "title": "CHAM PUNCTUATION DOUBLE DANDA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaa5f", 
+                "description": "", 
+                "title": "CHAM PUNCTUATION TRIPLE DANDA"
             }
         ], 
         "name": "Cham"

@@ -1630,6 +1630,15 @@
                 "charcode": "0x1f1fe", 
                 "description": "", 
                 "title": "REGIONAL INDICATOR SYMBOL LETTER Y"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Regional indicator", 
+                "cat4": "", 
+                "charcode": "0x1f1ff", 
+                "description": "", 
+                "title": "REGIONAL INDICATOR SYMBOL LETTER Z"
             }
         ], 
         "name": "Enclosed Alphanumeric Supplement"

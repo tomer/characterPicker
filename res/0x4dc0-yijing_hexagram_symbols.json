@@ -567,6 +567,15 @@
                 "charcode": "0x4dfe", 
                 "description": "", 
                 "title": "HEXAGRAM FOR AFTER COMPLETION"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Hexagram", 
+                "cat3": "Yijing", 
+                "cat4": "", 
+                "charcode": "0x4dff", 
+                "description": "", 
+                "title": "HEXAGRAM FOR BEFORE COMPLETION"
             }
         ], 
         "name": "Yijing Hexagram Symbols"

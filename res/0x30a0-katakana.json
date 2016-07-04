@@ -855,6 +855,15 @@
                 "charcode": "0x30fe", 
                 "description": "", 
                 "title": "KATAKANA VOICED ITERATION MARK"
+            }, 
+            {
+                "cat1": "Syllable", 
+                "cat2": "Digraph", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x30ff", 
+                "description": "", 
+                "title": "KATAKANA DIGRAPH KOTO"
             }
         ], 
         "name": "Katakana"

@@ -423,6 +423,15 @@
                 "charcode": "0x27ee", 
                 "description": "", 
                 "title": "MATHEMATICAL LEFT FLATTENED PARENTHESIS"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Bracket", 
+                "cat3": "Math", 
+                "cat4": "", 
+                "charcode": "0x27ef", 
+                "description": "", 
+                "title": "MATHEMATICAL RIGHT FLATTENED PARENTHESIS"
             }
         ], 
         "name": "Miscellaneous Mathematical Symbols-A"
