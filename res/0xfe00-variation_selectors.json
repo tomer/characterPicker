@@ -135,6 +135,15 @@
                 "charcode": "0xfe0e", 
                 "description": "", 
                 "title": "VARIATION SELECTOR-15"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Variation selector", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe0f", 
+                "description": "", 
+                "title": "VARIATION SELECTOR-16"
             }
         ], 
         "name": "Variation Selectors"

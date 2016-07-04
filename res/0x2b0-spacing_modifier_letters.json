@@ -711,6 +711,15 @@
                 "charcode": "0x2fe", 
                 "description": "", 
                 "title": "MODIFIER LETTER OPEN SHELF"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Modifier", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2ff", 
+                "description": "", 
+                "title": "MODIFIER LETTER LOW LEFT ARROW"
             }
         ], 
         "name": "Spacing Modifier Letters"

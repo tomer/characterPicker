@@ -1202,6 +1202,15 @@
                 "charcode": "0x3fe", 
                 "description": "", 
                 "title": "GREEK CAPITAL DOTTED LUNATE SIGMA SYMBOL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Editorial", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x3ff", 
+                "description": "", 
+                "title": "GREEK CAPITAL REVERSED DOTTED LUNATE SIGMA SYMBOL"
             }
         ], 
         "name": "Greek and Coptic"

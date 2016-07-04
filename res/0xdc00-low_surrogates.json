@@ -5,6 +5,11 @@
                 "charcode": "0xdc00", 
                 "description": "", 
                 "title": "<Low Surrogate, First>"
+            }, 
+            {
+                "charcode": "0xdfff", 
+                "description": "", 
+                "title": "<Low Surrogate, Last>"
             }
         ], 
         "name": "Low Surrogates"

@@ -2295,6 +2295,15 @@
                 "charcode": "0x22fe", 
                 "description": "", 
                 "title": "SMALL CONTAINS WITH OVERBAR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Relation", 
+                "cat4": "", 
+                "charcode": "0x22ff", 
+                "description": "", 
+                "title": "Z NOTATION BAG MEMBERSHIP"
             }
         ], 
         "name": "Mathematical Operators"

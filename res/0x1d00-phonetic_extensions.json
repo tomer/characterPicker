@@ -1143,6 +1143,15 @@
                 "charcode": "0x1d7e", 
                 "description": "", 
                 "title": "LATIN SMALL CAPITAL LETTER U WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Phonetic", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1d7f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER UPSILON WITH STROKE"
             }
         ], 
         "name": "Phonetic Extensions"

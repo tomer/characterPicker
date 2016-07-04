@@ -8955,6 +8955,15 @@
                 "charcode": "0x1d7fe", 
                 "description": "", 
                 "title": "MATHEMATICAL MONOSPACE DIGIT EIGHT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Math", 
+                "cat3": "Alphanumeric", 
+                "cat4": "Monospace digit", 
+                "charcode": "0x1d7ff", 
+                "description": "", 
+                "title": "MATHEMATICAL MONOSPACE DIGIT NINE"
             }
         ], 
         "name": "Mathematical Alphanumeric Symbols"

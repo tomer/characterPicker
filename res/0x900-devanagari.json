@@ -1139,6 +1139,15 @@
                 "charcode": "0x97e", 
                 "description": "", 
                 "title": "DEVANAGARI LETTER DDDA"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Consonant", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x97f", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER BBA"
             }
         ], 
         "name": "Devanagari"

@@ -430,6 +430,11 @@
                 "charcode": "0x1e95e", 
                 "description": "", 
                 "title": "ADLAM INITIAL EXCLAMATION MARK"
+            }, 
+            {
+                "charcode": "0x1e95f", 
+                "description": "", 
+                "title": "ADLAM INITIAL QUESTION MARK"
             }
         ], 
         "name": "Adlam"

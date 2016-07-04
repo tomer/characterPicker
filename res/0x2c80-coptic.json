@@ -1098,6 +1098,15 @@
                 "charcode": "0x2cfe", 
                 "description": "", 
                 "title": "COPTIC FULL STOP"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2cff", 
+                "description": "", 
+                "title": "COPTIC MORPHOLOGICAL DIVIDER"
             }
         ], 
         "name": "Coptic"

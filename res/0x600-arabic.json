@@ -2278,6 +2278,15 @@
                 "charcode": "0x6fe", 
                 "description": "", 
                 "title": "ARABIC SIGN SINDHI POSTPOSITION MEN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x6ff", 
+                "description": "", 
+                "title": "ARABIC LETTER HEH WITH INVERTED V"
             }
         ], 
         "name": "Arabic"

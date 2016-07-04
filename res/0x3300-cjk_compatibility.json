@@ -2295,6 +2295,15 @@
                 "charcode": "0x33fe", 
                 "description": "", 
                 "title": "IDEOGRAPHIC TELEGRAPH SYMBOL FOR DAY THIRTY-ONE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Letter", 
+                "cat3": "Squared", 
+                "cat4": "Abbreviation", 
+                "charcode": "0x33ff", 
+                "description": "", 
+                "title": "SQUARE GAL"
             }
         ], 
         "name": "CJK Compatibility"

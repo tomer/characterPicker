@@ -639,6 +639,15 @@
                 "charcode": "0xaade", 
                 "description": "", 
                 "title": "TAI VIET SYMBOL HO HOI"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xaadf", 
+                "description": "", 
+                "title": "TAI VIET SYMBOL KOI KOI"
             }
         ], 
         "name": "Tai Viet"

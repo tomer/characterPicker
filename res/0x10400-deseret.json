@@ -711,6 +711,15 @@
                 "charcode": "0x1044e", 
                 "description": "", 
                 "title": "DESERET SMALL LETTER OI"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1044f", 
+                "description": "", 
+                "title": "DESERET SMALL LETTER EW"
             }
         ], 
         "name": "Deseret"

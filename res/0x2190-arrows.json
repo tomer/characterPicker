@@ -999,6 +999,15 @@
                 "charcode": "0x21fe", 
                 "description": "", 
                 "title": "RIGHTWARDS OPEN-HEADED ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x21ff", 
+                "description": "", 
+                "title": "LEFT RIGHT OPEN-HEADED ARROW"
             }
         ], 
         "name": "Arrows"

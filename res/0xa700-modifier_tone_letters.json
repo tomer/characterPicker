@@ -279,6 +279,15 @@
                 "charcode": "0xa71e", 
                 "description": "", 
                 "title": "MODIFIER LETTER RAISED INVERTED EXCLAMATION MARK"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "Tone", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa71f", 
+                "description": "", 
+                "title": "MODIFIER LETTER LOW INVERTED EXCLAMATION MARK"
             }
         ], 
         "name": "Modifier Tone Letters"

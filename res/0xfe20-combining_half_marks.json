@@ -103,6 +103,11 @@
                 "charcode": "0xfe2e", 
                 "description": "", 
                 "title": "COMBINING CYRILLIC TITLO LEFT HALF"
+            }, 
+            {
+                "charcode": "0xfe2f", 
+                "description": "", 
+                "title": "COMBINING CYRILLIC TITLO RIGHT HALF"
             }
         ], 
         "name": "Combining Half Marks"

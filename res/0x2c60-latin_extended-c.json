@@ -279,6 +279,15 @@
                 "charcode": "0x2c7e", 
                 "description": "", 
                 "title": "LATIN CAPITAL LETTER S WITH SWASH TAIL"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2c7f", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER Z WITH SWASH TAIL"
             }
         ], 
         "name": "Latin Extended-C"

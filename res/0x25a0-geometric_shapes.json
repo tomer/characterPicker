@@ -855,6 +855,15 @@
                 "charcode": "0x25fe", 
                 "description": "", 
                 "title": "BLACK MEDIUM SMALL SQUARE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Geometric", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x25ff", 
+                "description": "", 
+                "title": "LOWER RIGHT TRIANGLE"
             }
         ], 
         "name": "Geometric Shapes"

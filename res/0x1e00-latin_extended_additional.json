@@ -2295,6 +2295,15 @@
                 "charcode": "0x1efe", 
                 "description": "", 
                 "title": "LATIN CAPITAL LETTER Y WITH LOOP"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1eff", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Y WITH LOOP"
             }
         ], 
         "name": "Latin Extended Additional"

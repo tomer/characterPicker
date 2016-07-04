@@ -972,6 +972,11 @@
                 "charcode": "0x1106f", 
                 "description": "", 
                 "title": "BRAHMI DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x1107f", 
+                "description": "", 
+                "title": "BRAHMI NUMBER JOINER"
             }
         ], 
         "name": "Brahmi"

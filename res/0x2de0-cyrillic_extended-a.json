@@ -279,6 +279,15 @@
                 "charcode": "0x2dfe", 
                 "description": "", 
                 "title": "COMBINING CYRILLIC LETTER BIG YUS"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
+                "charcode": "0x2dff", 
+                "description": "", 
+                "title": "COMBINING CYRILLIC LETTER IOTIFIED BIG YUS"
             }
         ], 
         "name": "Cyrillic Extended-A"

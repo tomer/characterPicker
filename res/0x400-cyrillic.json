@@ -2295,6 +2295,15 @@
                 "charcode": "0x4fe", 
                 "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER HA WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x4ff", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER HA WITH STROKE"
             }
         ], 
         "name": "Cyrillic"

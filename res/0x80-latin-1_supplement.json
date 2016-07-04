@@ -1143,6 +1143,15 @@
                 "charcode": "0xfe", 
                 "description": "", 
                 "title": "LATIN SMALL LETTER THORN"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xff", 
+                "description": "LATIN SMALL LETTER Y DIAERESIS", 
+                "title": "LATIN SMALL LETTER Y WITH DIAERESIS"
             }
         ], 
         "name": "Latin-1 Supplement"

@@ -270,6 +270,15 @@
                 "charcode": "0x1085e", 
                 "description": "", 
                 "title": "IMPERIAL ARAMAIC NUMBER ONE THOUSAND"
+            }, 
+            {
+                "cat1": "Number", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1085f", 
+                "description": "", 
+                "title": "IMPERIAL ARAMAIC NUMBER TEN THOUSAND"
             }
         ], 
         "name": "Imperial Aramaic"

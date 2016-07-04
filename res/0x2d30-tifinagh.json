@@ -522,6 +522,15 @@
                 "charcode": "0x2d70", 
                 "description": "", 
                 "title": "TIFINAGH SEPARATOR MARK"
+            }, 
+            {
+                "cat1": "Virama", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x2d7f", 
+                "description": "", 
+                "title": "TIFINAGH CONSONANT JOINER"
             }
         ], 
         "name": "Tifinagh"

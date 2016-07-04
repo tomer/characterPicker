@@ -423,6 +423,15 @@
                 "charcode": "0xa4fe", 
                 "description": "", 
                 "title": "LISU PUNCTUATION COMMA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa4ff", 
+                "description": "", 
+                "title": "LISU PUNCTUATION FULL STOP"
             }
         ], 
         "name": "Lisu"

@@ -5,6 +5,11 @@
                 "charcode": "0xe000", 
                 "description": "", 
                 "title": "<Private Use, First>"
+            }, 
+            {
+                "charcode": "0xf8ff", 
+                "description": "", 
+                "title": "<Private Use, Last>"
             }
         ], 
         "name": "Private Use Area"

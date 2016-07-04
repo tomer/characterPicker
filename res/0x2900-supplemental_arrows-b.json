@@ -1143,6 +1143,15 @@
                 "charcode": "0x297e", 
                 "description": "", 
                 "title": "UP FISH TAIL"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Arrow", 
+                "cat3": "Tail", 
+                "cat4": "", 
+                "charcode": "0x297f", 
+                "description": "", 
+                "title": "DOWN FISH TAIL"
             }
         ], 
         "name": "Supplemental Arrows-B"

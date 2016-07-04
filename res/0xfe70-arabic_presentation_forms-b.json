@@ -1260,6 +1260,15 @@
                 "charcode": "0xfefc", 
                 "description": "GLYPH FOR FINAL ARABIC LIGATURE LAM ALEF", 
                 "title": "ARABIC LIGATURE LAM WITH ALEF FINAL FORM"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfeff", 
+                "description": "BYTE ORDER MARK", 
+                "title": "ZERO WIDTH NO-BREAK SPACE"
             }
         ], 
         "name": "Arabic Presentation Forms-B"

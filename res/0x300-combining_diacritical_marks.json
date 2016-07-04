@@ -999,6 +999,15 @@
                 "charcode": "0x36e", 
                 "description": "", 
                 "title": "COMBINING LATIN SMALL LETTER V"
+            }, 
+            {
+                "cat1": "Diacritic", 
+                "cat2": "Letter", 
+                "cat3": "Superscript", 
+                "cat4": "", 
+                "charcode": "0x36f", 
+                "description": "", 
+                "title": "COMBINING LATIN SMALL LETTER X"
             }
         ], 
         "name": "Combining Diacritical Marks"

@@ -235,6 +235,11 @@
                 "charcode": "0x1f67e", 
                 "description": "", 
                 "title": "CHECKER BOARD"
+            }, 
+            {
+                "charcode": "0x1f67f", 
+                "description": "", 
+                "title": "REVERSE CHECKER BOARD"
             }
         ], 
         "name": "Ornamental Dingbats"

@@ -79,7 +79,7 @@ class characterSet:
             name = self.blocks[start]['name']
             out['name'] = name
             out['content'] = []
-            for i in range(start,end):
+            for i in range(start,end+1):
                 if (self.data.has_key(i)): 
                     item = dict();
                     item['title'] = self.data[i]['title']

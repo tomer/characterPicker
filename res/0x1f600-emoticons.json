@@ -695,6 +695,15 @@
                 "charcode": "0x1f64e", 
                 "description": "", 
                 "title": "PERSON WITH POUTING FACE"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Emoticon", 
+                "cat3": "Gesture", 
+                "cat4": "", 
+                "charcode": "0x1f64f", 
+                "description": "", 
+                "title": "PERSON WITH FOLDED HANDS"
             }
         ], 
         "name": "Emoticons"

@@ -1863,6 +1863,15 @@
                 "charcode": "0x24e", 
                 "description": "", 
                 "title": "LATIN CAPITAL LETTER Y WITH STROKE"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x24f", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER Y WITH STROKE"
             }
         ], 
         "name": "Latin Extended-B"

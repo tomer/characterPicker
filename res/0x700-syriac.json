@@ -684,6 +684,15 @@
                 "charcode": "0x74e", 
                 "description": "", 
                 "title": "SYRIAC LETTER SOGDIAN KHAPH"
+            }, 
+            {
+                "cat1": "Letter", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x74f", 
+                "description": "", 
+                "title": "SYRIAC LETTER SOGDIAN FE"
             }
         ], 
         "name": "Syriac"

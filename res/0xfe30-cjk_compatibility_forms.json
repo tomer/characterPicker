@@ -279,6 +279,15 @@
                 "charcode": "0xfe4e", 
                 "description": "SPACING CENTERLINE UNDERSCORE", 
                 "title": "CENTRELINE LOW LINE"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "Vertical", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xfe4f", 
+                "description": "SPACING WAVY UNDERSCORE", 
+                "title": "WAVY LOW LINE"
             }
         ], 
         "name": "CJK Compatibility Forms"

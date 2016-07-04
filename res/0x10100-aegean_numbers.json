@@ -504,6 +504,15 @@
                 "charcode": "0x1013e", 
                 "description": "", 
                 "title": "AEGEAN MEASURE SECOND SUBUNIT"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Measure", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x1013f", 
+                "description": "", 
+                "title": "AEGEAN MEASURE THIRD SUBUNIT"
             }
         ], 
         "name": "Aegean Numbers"

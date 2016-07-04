@@ -864,6 +864,15 @@
                 "charcode": "0xe007e", 
                 "description": "", 
                 "title": "TAG TILDE"
+            }, 
+            {
+                "cat1": "Format", 
+                "cat2": "Tag", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xe007f", 
+                "description": "", 
+                "title": "CANCEL TAG"
             }
         ], 
         "name": "Tags"

@@ -324,6 +324,15 @@
                 "charcode": "0xa953", 
                 "description": "", 
                 "title": "REJANG VIRAMA"
+            }, 
+            {
+                "cat1": "Punctuation", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0xa95f", 
+                "description": "", 
+                "title": "REJANG SECTION MARK"
             }
         ], 
         "name": "Rejang"

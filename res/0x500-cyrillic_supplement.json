@@ -395,6 +395,11 @@
                 "charcode": "0x52e", 
                 "description": "", 
                 "title": "CYRILLIC CAPITAL LETTER EL WITH DESCENDER"
+            }, 
+            {
+                "charcode": "0x52f", 
+                "description": "", 
+                "title": "CYRILLIC SMALL LETTER EL WITH DESCENDER"
             }
         ], 
         "name": "Cyrillic Supplement"

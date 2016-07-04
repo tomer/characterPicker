@@ -567,6 +567,15 @@
                 "charcode": "0x303e", 
                 "description": "", 
                 "title": "IDEOGRAPHIC VARIATION INDICATOR"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x303f", 
+                "description": "", 
+                "title": "IDEOGRAPHIC HALF FILL SPACE"
             }
         ], 
         "name": "CJK Symbols and Punctuation"

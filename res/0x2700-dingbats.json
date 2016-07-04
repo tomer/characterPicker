@@ -1715,6 +1715,15 @@
                 "charcode": "0x27be", 
                 "description": "OPEN-OUTLINED RIGHT ARROW", 
                 "title": "OPEN-OUTLINED RIGHTWARDS ARROW"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Dingbat", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x27bf", 
+                "description": "", 
+                "title": "DOUBLE CURLY LOOP"
             }
         ], 
         "name": "Dingbats"

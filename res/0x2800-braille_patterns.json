@@ -2295,6 +2295,15 @@
                 "charcode": "0x28fe", 
                 "description": "", 
                 "title": "BRAILLE PATTERN DOTS-2345678"
+            }, 
+            {
+                "cat1": "Symbol", 
+                "cat2": "Braille pattern", 
+                "cat3": "", 
+                "cat4": "", 
+                "charcode": "0x28ff", 
+                "description": "", 
+                "title": "BRAILLE PATTERN DOTS-12345678"
             }
         ], 
         "name": "Braille Patterns"
