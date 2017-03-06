@@ -1,10 +1,15 @@
 			function updateInputLength() {
 				var value = document.getElementById('input').value;
-
-				document.getElementById("length").textContent = value.length;
-				//document.getElementById("value").textContent = value;
+				document.getElementById("length").textContent = calculateUTF16Length(value);
 			}
 
+			function calculateUTF16Length(input) {
+				var length = input.length;
+				for (var i=0; i<input.length; i++) {
+					if ((input.charCodeAt(i) & parseInt('1111110000000000', 2)) == parseInt('1101110000000000',2)) length--;
+				}
+				return length;
+			}
 
 			function addCharacterToCursorPosition(char) {
 				var textarea = document.getElementById("input");
