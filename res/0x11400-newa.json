@@ -460,6 +460,11 @@
                 "charcode": "0x1145d", 
                 "description": "", 
                 "title": "NEWA INSERTION SIGN"
+            }, 
+            {
+                "charcode": "0x1145e", 
+                "description": "", 
+                "title": "NEWA SANDHI MARK"
             }
         ], 
         "name": "Newa"

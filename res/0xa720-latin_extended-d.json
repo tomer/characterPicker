@@ -1221,6 +1221,11 @@
                 "title": "LATIN CAPITAL LETTER SMALL CAPITAL I"
             }, 
             {
+                "charcode": "0xa7af", 
+                "description": "", 
+                "title": "LATIN LETTER SMALL CAPITAL Q"
+            }, 
+            {
                 "charcode": "0xa7b0", 
                 "description": "", 
                 "title": "LATIN CAPITAL LETTER TURNED K"
@@ -1259,6 +1264,16 @@
                 "charcode": "0xa7b7", 
                 "description": "", 
                 "title": "LATIN SMALL LETTER OMEGA"
+            }, 
+            {
+                "charcode": "0xa7b8", 
+                "description": "", 
+                "title": "LATIN CAPITAL LETTER U WITH STROKE"
+            }, 
+            {
+                "charcode": "0xa7b9", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER U WITH STROKE"
             }, 
             {
                 "charcode": "0xa7f7", 

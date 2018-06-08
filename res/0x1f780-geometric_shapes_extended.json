@@ -425,6 +425,26 @@
                 "charcode": "0x1f7d4", 
                 "description": "", 
                 "title": "HEAVY TWELVE POINTED PINWHEEL STAR"
+            }, 
+            {
+                "charcode": "0x1f7d5", 
+                "description": "", 
+                "title": "CIRCLED TRIANGLE"
+            }, 
+            {
+                "charcode": "0x1f7d6", 
+                "description": "", 
+                "title": "NEGATIVE CIRCLED TRIANGLE"
+            }, 
+            {
+                "charcode": "0x1f7d7", 
+                "description": "", 
+                "title": "CIRCLED SQUARE"
+            }, 
+            {
+                "charcode": "0x1f7d8", 
+                "description": "", 
+                "title": "NEGATIVE CIRCLED SQUARE"
             }
         ], 
         "name": "Geometric Shapes Extended"

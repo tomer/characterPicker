@@ -531,6 +531,21 @@
                 "charcode": "0x7fa", 
                 "description": "", 
                 "title": "NKO LAJANYALAN"
+            }, 
+            {
+                "charcode": "0x7fd", 
+                "description": "", 
+                "title": "NKO DANTAYALAN"
+            }, 
+            {
+                "charcode": "0x7fe", 
+                "description": "", 
+                "title": "NKO DOROME SIGN"
+            }, 
+            {
+                "charcode": "0x7ff", 
+                "description": "", 
+                "title": "NKO TAMAN SIGN"
             }
         ], 
         "name": "NKo"

@@ -2,6 +2,11 @@
     {
         "content": [
             {
+                "charcode": "0xd00", 
+                "description": "", 
+                "title": "MALAYALAM SIGN COMBINING ANUSVARA ABOVE"
+            }, 
+            {
                 "charcode": "0xd01", 
                 "description": "", 
                 "title": "MALAYALAM SIGN CANDRABINDU"
@@ -491,6 +496,16 @@
                 "charcode": "0xd3a", 
                 "description": "", 
                 "title": "MALAYALAM LETTER TTTA"
+            }, 
+            {
+                "charcode": "0xd3b", 
+                "description": "", 
+                "title": "MALAYALAM SIGN VERTICAL BAR VIRAMA"
+            }, 
+            {
+                "charcode": "0xd3c", 
+                "description": "", 
+                "title": "MALAYALAM SIGN CIRCULAR VIRAMA"
             }, 
             {
                 "cat1": "Letter", 

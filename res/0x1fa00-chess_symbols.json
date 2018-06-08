@@ -1,0 +1,77 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1fa60", 
+                "description": "", 
+                "title": "XIANGQI RED GENERAL"
+            }, 
+            {
+                "charcode": "0x1fa61", 
+                "description": "", 
+                "title": "XIANGQI RED MANDARIN"
+            }, 
+            {
+                "charcode": "0x1fa62", 
+                "description": "", 
+                "title": "XIANGQI RED ELEPHANT"
+            }, 
+            {
+                "charcode": "0x1fa63", 
+                "description": "", 
+                "title": "XIANGQI RED HORSE"
+            }, 
+            {
+                "charcode": "0x1fa64", 
+                "description": "", 
+                "title": "XIANGQI RED CHARIOT"
+            }, 
+            {
+                "charcode": "0x1fa65", 
+                "description": "", 
+                "title": "XIANGQI RED CANNON"
+            }, 
+            {
+                "charcode": "0x1fa66", 
+                "description": "", 
+                "title": "XIANGQI RED SOLDIER"
+            }, 
+            {
+                "charcode": "0x1fa67", 
+                "description": "", 
+                "title": "XIANGQI BLACK GENERAL"
+            }, 
+            {
+                "charcode": "0x1fa68", 
+                "description": "", 
+                "title": "XIANGQI BLACK MANDARIN"
+            }, 
+            {
+                "charcode": "0x1fa69", 
+                "description": "", 
+                "title": "XIANGQI BLACK ELEPHANT"
+            }, 
+            {
+                "charcode": "0x1fa6a", 
+                "description": "", 
+                "title": "XIANGQI BLACK HORSE"
+            }, 
+            {
+                "charcode": "0x1fa6b", 
+                "description": "", 
+                "title": "XIANGQI BLACK CHARIOT"
+            }, 
+            {
+                "charcode": "0x1fa6c", 
+                "description": "", 
+                "title": "XIANGQI BLACK CANNON"
+            }, 
+            {
+                "charcode": "0x1fa6d", 
+                "description": "", 
+                "title": "XIANGQI BLACK SOLDIER"
+            }
+        ], 
+        "name": "Chess Symbols"
+    }
+]

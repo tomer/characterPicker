@@ -239,6 +239,11 @@
         "start": 178208, 
         "title": "CJK Unified Ideographs Extension E"
     }, 
+    "CJK Unified Ideographs Extension F": {
+        "filename": "0x2ceb0-cjk_unified_ideographs_extension_f.json", 
+        "start": 183984, 
+        "title": "CJK Unified Ideographs Extension F"
+    }, 
     "Carian": {
         "filename": "0x102a0-carian.json", 
         "start": 66208, 
@@ -268,6 +273,11 @@
         "filename": "0xab70-cherokee_supplement.json", 
         "start": 43888, 
         "title": "Cherokee Supplement"
+    }, 
+    "Chess Symbols": {
+        "filename": "0x1fa00-chess_symbols.json", 
+        "start": 129536, 
+        "title": "Chess Symbols"
     }, 
     "Combining Diacritical Marks": {
         "filename": "0x300-combining_diacritical_marks.json", 
@@ -384,6 +394,11 @@
         "start": 9984, 
         "title": "Dingbats"
     }, 
+    "Dogra": {
+        "filename": "0x11800-dogra.json", 
+        "start": 71680, 
+        "title": "Dogra"
+    }, 
     "Domino Tiles": {
         "filename": "0x1f030-domino_tiles.json", 
         "start": 127024, 
@@ -474,6 +489,11 @@
         "start": 4256, 
         "title": "Georgian"
     }, 
+    "Georgian Extended": {
+        "filename": "0x1c90-georgian_extended.json", 
+        "start": 7312, 
+        "title": "Georgian Extended"
+    }, 
     "Georgian Supplement": {
         "filename": "0x2d00-georgian_supplement.json", 
         "start": 11520, 
@@ -514,6 +534,11 @@
         "start": 2688, 
         "title": "Gujarati"
     }, 
+    "Gunjala Gondi": {
+        "filename": "0x11d60-gunjala_gondi.json", 
+        "start": 73056, 
+        "title": "Gunjala Gondi"
+    }, 
     "Gurmukhi": {
         "filename": "0xa00-gurmukhi.json", 
         "start": 2560, 
@@ -548,6 +573,11 @@
         "filename": "0xac00-hangul_syllables.json", 
         "start": 44032, 
         "title": "Hangul Syllables"
+    }, 
+    "Hanifi Rohingya": {
+        "filename": "0x10d00-hanifi_rohingya.json", 
+        "start": 68864, 
+        "title": "Hanifi Rohingya"
     }, 
     "Hanunoo": {
         "filename": "0x1720-hanunoo.json", 
@@ -599,6 +629,11 @@
         "start": 67648, 
         "title": "Imperial Aramaic"
     }, 
+    "Indic Siyaq Numbers": {
+        "filename": "0x1ec70-indic_siyaq_numbers.json", 
+        "start": 126064, 
+        "title": "Indic Siyaq Numbers"
+    }, 
     "Inscriptional Pahlavi": {
         "filename": "0x10b60-inscriptional_pahlavi.json", 
         "start": 68448, 
@@ -618,6 +653,11 @@
         "filename": "0x11080-kaithi.json", 
         "start": 69760, 
         "title": "Kaithi"
+    }, 
+    "Kana Extended-A": {
+        "filename": "0x1b100-kana_extended-a.json", 
+        "start": 110848, 
+        "title": "Kana Extended-A"
     }, 
     "Kana Supplement": {
         "filename": "0x1b000-kana_supplement.json", 
@@ -779,6 +819,11 @@
         "start": 126976, 
         "title": "Mahjong Tiles"
     }, 
+    "Makasar": {
+        "filename": "0x11ee0-makasar.json", 
+        "start": 73440, 
+        "title": "Makasar"
+    }, 
     "Malayalam": {
         "filename": "0xd00-malayalam.json", 
         "start": 3328, 
@@ -799,6 +844,11 @@
         "start": 72816, 
         "title": "Marchen"
     }, 
+    "Masaram Gondi": {
+        "filename": "0x11d00-masaram_gondi.json", 
+        "start": 72960, 
+        "title": "Masaram Gondi"
+    }, 
     "Mathematical Alphanumeric Symbols": {
         "filename": "0x1d400-mathematical_alphanumeric_symbols.json", 
         "start": 119808, 
@@ -808,6 +858,16 @@
         "filename": "0x2200-mathematical_operators.json", 
         "start": 8704, 
         "title": "Mathematical Operators"
+    }, 
+    "Mayan Numerals": {
+        "filename": "0x1d2e0-mayan_numerals.json", 
+        "start": 119520, 
+        "title": "Mayan Numerals"
+    }, 
+    "Medefaidrin": {
+        "filename": "0x16e40-medefaidrin.json", 
+        "start": 93760, 
+        "title": "Medefaidrin"
     }, 
     "Meetei Mayek": {
         "filename": "0xabc0-meetei_mayek.json", 
@@ -944,6 +1004,11 @@
         "start": 8528, 
         "title": "Number Forms"
     }, 
+    "Nushu": {
+        "filename": "0x1b170-nushu.json", 
+        "start": 110960, 
+        "title": "Nushu"
+    }, 
     "Ogham": {
         "filename": "0x1680-ogham.json", 
         "start": 5760, 
@@ -978,6 +1043,11 @@
         "filename": "0x103a0-old_persian.json", 
         "start": 66464, 
         "title": "Old Persian"
+    }, 
+    "Old Sogdian": {
+        "filename": "0x10f00-old_sogdian.json", 
+        "start": 69376, 
+        "title": "Old Sogdian"
     }, 
     "Old South Arabian": {
         "filename": "0x10a60-old_south_arabian.json", 
@@ -1129,10 +1199,20 @@
         "start": 65104, 
         "title": "Small Form Variants"
     }, 
+    "Sogdian": {
+        "filename": "0x10f30-sogdian.json", 
+        "start": 69424, 
+        "title": "Sogdian"
+    }, 
     "Sora Sompeng": {
         "filename": "0x110d0-sora_sompeng.json", 
         "start": 69840, 
         "title": "Sora Sompeng"
+    }, 
+    "Soyombo": {
+        "filename": "0x11a50-soyombo.json", 
+        "start": 72272, 
+        "title": "Soyombo"
     }, 
     "Spacing Modifier Letters": {
         "filename": "0x2b0-spacing_modifier_letters.json", 
@@ -1213,6 +1293,11 @@
         "filename": "0x700-syriac.json", 
         "start": 1792, 
         "title": "Syriac"
+    }, 
+    "Syriac Supplement": {
+        "filename": "0x860-syriac_supplement.json", 
+        "start": 2144, 
+        "title": "Syriac Supplement"
     }, 
     "Tagalog": {
         "filename": "0x1700-tagalog.json", 
@@ -1363,5 +1448,10 @@
         "filename": "0x4dc0-yijing_hexagram_symbols.json", 
         "start": 19904, 
         "title": "Yijing Hexagram Symbols"
+    }, 
+    "Zanabazar Square": {
+        "filename": "0x11a00-zanabazar_square.json", 
+        "start": 72192, 
+        "title": "Zanabazar Square"
     }
 }

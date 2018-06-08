@@ -428,6 +428,26 @@
                 "title": "COMBINING UP TACK ABOVE"
             }, 
             {
+                "charcode": "0x1df6", 
+                "description": "", 
+                "title": "COMBINING KAVYKA ABOVE RIGHT"
+            }, 
+            {
+                "charcode": "0x1df7", 
+                "description": "", 
+                "title": "COMBINING KAVYKA ABOVE LEFT"
+            }, 
+            {
+                "charcode": "0x1df8", 
+                "description": "", 
+                "title": "COMBINING DOT ABOVE LEFT"
+            }, 
+            {
+                "charcode": "0x1df9", 
+                "description": "", 
+                "title": "COMBINING WIDE INVERTED BRIDGE BELOW"
+            }, 
+            {
                 "charcode": "0x1dfb", 
                 "description": "", 
                 "title": "COMBINING DELETION MARK"

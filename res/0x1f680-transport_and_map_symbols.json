@@ -697,6 +697,16 @@
                 "title": "SHOPPING TROLLEY"
             }, 
             {
+                "charcode": "0x1f6d3", 
+                "description": "", 
+                "title": "STUPA"
+            }, 
+            {
+                "charcode": "0x1f6d4", 
+                "description": "", 
+                "title": "PAGODA"
+            }, 
+            {
                 "charcode": "0x1f6e0", 
                 "description": "", 
                 "title": "HAMMER AND WRENCH"
@@ -795,6 +805,21 @@
                 "charcode": "0x1f6f6", 
                 "description": "", 
                 "title": "CANOE"
+            }, 
+            {
+                "charcode": "0x1f6f7", 
+                "description": "", 
+                "title": "SLED"
+            }, 
+            {
+                "charcode": "0x1f6f8", 
+                "description": "", 
+                "title": "FLYING SAUCER"
+            }, 
+            {
+                "charcode": "0x1f6f9", 
+                "description": "", 
+                "title": "SKATEBOARD"
             }
         ], 
         "name": "Transport and Map Symbols"

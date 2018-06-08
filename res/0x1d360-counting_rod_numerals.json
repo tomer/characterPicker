@@ -162,6 +162,41 @@
                 "charcode": "0x1d371", 
                 "description": "", 
                 "title": "COUNTING ROD TENS DIGIT NINE"
+            }, 
+            {
+                "charcode": "0x1d372", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TALLY MARK ONE"
+            }, 
+            {
+                "charcode": "0x1d373", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TALLY MARK TWO"
+            }, 
+            {
+                "charcode": "0x1d374", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TALLY MARK THREE"
+            }, 
+            {
+                "charcode": "0x1d375", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TALLY MARK FOUR"
+            }, 
+            {
+                "charcode": "0x1d376", 
+                "description": "", 
+                "title": "IDEOGRAPHIC TALLY MARK FIVE"
+            }, 
+            {
+                "charcode": "0x1d377", 
+                "description": "", 
+                "title": "TALLY MARK ONE"
+            }, 
+            {
+                "charcode": "0x1d378", 
+                "description": "", 
+                "title": "TALLY MARK FIVE"
             }
         ], 
         "name": "Counting Rod Numerals"

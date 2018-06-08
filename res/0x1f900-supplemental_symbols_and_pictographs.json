@@ -2,6 +2,66 @@
     {
         "content": [
             {
+                "charcode": "0x1f900", 
+                "description": "", 
+                "title": "CIRCLED CROSS FORMEE WITH FOUR DOTS"
+            }, 
+            {
+                "charcode": "0x1f901", 
+                "description": "", 
+                "title": "CIRCLED CROSS FORMEE WITH TWO DOTS"
+            }, 
+            {
+                "charcode": "0x1f902", 
+                "description": "", 
+                "title": "CIRCLED CROSS FORMEE"
+            }, 
+            {
+                "charcode": "0x1f903", 
+                "description": "", 
+                "title": "LEFT HALF CIRCLE WITH FOUR DOTS"
+            }, 
+            {
+                "charcode": "0x1f904", 
+                "description": "", 
+                "title": "LEFT HALF CIRCLE WITH THREE DOTS"
+            }, 
+            {
+                "charcode": "0x1f905", 
+                "description": "", 
+                "title": "LEFT HALF CIRCLE WITH TWO DOTS"
+            }, 
+            {
+                "charcode": "0x1f906", 
+                "description": "", 
+                "title": "LEFT HALF CIRCLE WITH DOT"
+            }, 
+            {
+                "charcode": "0x1f907", 
+                "description": "", 
+                "title": "LEFT HALF CIRCLE"
+            }, 
+            {
+                "charcode": "0x1f908", 
+                "description": "", 
+                "title": "DOWNWARD FACING HOOK"
+            }, 
+            {
+                "charcode": "0x1f909", 
+                "description": "", 
+                "title": "DOWNWARD FACING NOTCHED HOOK"
+            }, 
+            {
+                "charcode": "0x1f90a", 
+                "description": "", 
+                "title": "DOWNWARD FACING HOOK WITH DOT"
+            }, 
+            {
+                "charcode": "0x1f90b", 
+                "description": "", 
+                "title": "DOWNWARD FACING NOTCHED HOOK WITH DOT"
+            }, 
+            {
                 "charcode": "0x1f910", 
                 "description": "", 
                 "title": "ZIPPER-MOUTH FACE"
@@ -77,6 +137,11 @@
                 "title": "HAND WITH INDEX AND MIDDLE FINGERS CROSSED"
             }, 
             {
+                "charcode": "0x1f91f", 
+                "description": "", 
+                "title": "I LOVE YOU HAND SIGN"
+            }, 
+            {
                 "charcode": "0x1f920", 
                 "description": "", 
                 "title": "FACE WITH COWBOY HAT"
@@ -117,9 +182,59 @@
                 "title": "SNEEZING FACE"
             }, 
             {
+                "charcode": "0x1f928", 
+                "description": "", 
+                "title": "FACE WITH ONE EYEBROW RAISED"
+            }, 
+            {
+                "charcode": "0x1f929", 
+                "description": "", 
+                "title": "GRINNING FACE WITH STAR EYES"
+            }, 
+            {
+                "charcode": "0x1f92a", 
+                "description": "", 
+                "title": "GRINNING FACE WITH ONE LARGE AND ONE SMALL EYE"
+            }, 
+            {
+                "charcode": "0x1f92b", 
+                "description": "", 
+                "title": "FACE WITH FINGER COVERING CLOSED LIPS"
+            }, 
+            {
+                "charcode": "0x1f92c", 
+                "description": "", 
+                "title": "SERIOUS FACE WITH SYMBOLS COVERING MOUTH"
+            }, 
+            {
+                "charcode": "0x1f92d", 
+                "description": "", 
+                "title": "SMILING FACE WITH SMILING EYES AND HAND COVERING MOUTH"
+            }, 
+            {
+                "charcode": "0x1f92e", 
+                "description": "", 
+                "title": "FACE WITH OPEN MOUTH VOMITING"
+            }, 
+            {
+                "charcode": "0x1f92f", 
+                "description": "", 
+                "title": "SHOCKED FACE WITH EXPLODING HEAD"
+            }, 
+            {
                 "charcode": "0x1f930", 
                 "description": "", 
                 "title": "PREGNANT WOMAN"
+            }, 
+            {
+                "charcode": "0x1f931", 
+                "description": "", 
+                "title": "BREAST-FEEDING"
+            }, 
+            {
+                "charcode": "0x1f932", 
+                "description": "", 
+                "title": "PALMS UP TOGETHER"
             }, 
             {
                 "charcode": "0x1f933", 
@@ -242,6 +357,26 @@
                 "title": "MARTIAL ARTS UNIFORM"
             }, 
             {
+                "charcode": "0x1f94c", 
+                "description": "", 
+                "title": "CURLING STONE"
+            }, 
+            {
+                "charcode": "0x1f94d", 
+                "description": "", 
+                "title": "LACROSSE STICK AND BALL"
+            }, 
+            {
+                "charcode": "0x1f94e", 
+                "description": "", 
+                "title": "SOFTBALL"
+            }, 
+            {
+                "charcode": "0x1f94f", 
+                "description": "", 
+                "title": "FLYING DISC"
+            }, 
+            {
                 "charcode": "0x1f950", 
                 "description": "", 
                 "title": "CROISSANT"
@@ -315,6 +450,141 @@
                 "charcode": "0x1f95e", 
                 "description": "", 
                 "title": "PANCAKES"
+            }, 
+            {
+                "charcode": "0x1f95f", 
+                "description": "", 
+                "title": "DUMPLING"
+            }, 
+            {
+                "charcode": "0x1f960", 
+                "description": "", 
+                "title": "FORTUNE COOKIE"
+            }, 
+            {
+                "charcode": "0x1f961", 
+                "description": "", 
+                "title": "TAKEOUT BOX"
+            }, 
+            {
+                "charcode": "0x1f962", 
+                "description": "", 
+                "title": "CHOPSTICKS"
+            }, 
+            {
+                "charcode": "0x1f963", 
+                "description": "", 
+                "title": "BOWL WITH SPOON"
+            }, 
+            {
+                "charcode": "0x1f964", 
+                "description": "", 
+                "title": "CUP WITH STRAW"
+            }, 
+            {
+                "charcode": "0x1f965", 
+                "description": "", 
+                "title": "COCONUT"
+            }, 
+            {
+                "charcode": "0x1f966", 
+                "description": "", 
+                "title": "BROCCOLI"
+            }, 
+            {
+                "charcode": "0x1f967", 
+                "description": "", 
+                "title": "PIE"
+            }, 
+            {
+                "charcode": "0x1f968", 
+                "description": "", 
+                "title": "PRETZEL"
+            }, 
+            {
+                "charcode": "0x1f969", 
+                "description": "", 
+                "title": "CUT OF MEAT"
+            }, 
+            {
+                "charcode": "0x1f96a", 
+                "description": "", 
+                "title": "SANDWICH"
+            }, 
+            {
+                "charcode": "0x1f96b", 
+                "description": "", 
+                "title": "CANNED FOOD"
+            }, 
+            {
+                "charcode": "0x1f96c", 
+                "description": "", 
+                "title": "LEAFY GREEN"
+            }, 
+            {
+                "charcode": "0x1f96d", 
+                "description": "", 
+                "title": "MANGO"
+            }, 
+            {
+                "charcode": "0x1f96e", 
+                "description": "", 
+                "title": "MOON CAKE"
+            }, 
+            {
+                "charcode": "0x1f96f", 
+                "description": "", 
+                "title": "BAGEL"
+            }, 
+            {
+                "charcode": "0x1f970", 
+                "description": "", 
+                "title": "SMILING FACE WITH SMILING EYES AND THREE HEARTS"
+            }, 
+            {
+                "charcode": "0x1f973", 
+                "description": "", 
+                "title": "FACE WITH PARTY HORN AND PARTY HAT"
+            }, 
+            {
+                "charcode": "0x1f974", 
+                "description": "", 
+                "title": "FACE WITH UNEVEN EYES AND WAVY MOUTH"
+            }, 
+            {
+                "charcode": "0x1f975", 
+                "description": "", 
+                "title": "OVERHEATED FACE"
+            }, 
+            {
+                "charcode": "0x1f976", 
+                "description": "", 
+                "title": "FREEZING FACE"
+            }, 
+            {
+                "charcode": "0x1f97a", 
+                "description": "", 
+                "title": "FACE WITH PLEADING EYES"
+            }, 
+            {
+                "charcode": "0x1f97c", 
+                "description": "", 
+                "title": "LAB COAT"
+            }, 
+            {
+                "charcode": "0x1f97d", 
+                "description": "", 
+                "title": "GOGGLES"
+            }, 
+            {
+                "charcode": "0x1f97e", 
+                "description": "", 
+                "title": "HIKING BOOT"
+            }, 
+            {
+                "charcode": "0x1f97f", 
+                "description": "", 
+                "title": "FLAT SHOE"
             }, 
             {
                 "charcode": "0x1f980", 
@@ -407,9 +677,394 @@
                 "title": "SQUID"
             }, 
             {
+                "charcode": "0x1f992", 
+                "description": "", 
+                "title": "GIRAFFE FACE"
+            }, 
+            {
+                "charcode": "0x1f993", 
+                "description": "", 
+                "title": "ZEBRA FACE"
+            }, 
+            {
+                "charcode": "0x1f994", 
+                "description": "", 
+                "title": "HEDGEHOG"
+            }, 
+            {
+                "charcode": "0x1f995", 
+                "description": "", 
+                "title": "SAUROPOD"
+            }, 
+            {
+                "charcode": "0x1f996", 
+                "description": "", 
+                "title": "T-REX"
+            }, 
+            {
+                "charcode": "0x1f997", 
+                "description": "", 
+                "title": "CRICKET"
+            }, 
+            {
+                "charcode": "0x1f998", 
+                "description": "", 
+                "title": "KANGAROO"
+            }, 
+            {
+                "charcode": "0x1f999", 
+                "description": "", 
+                "title": "LLAMA"
+            }, 
+            {
+                "charcode": "0x1f99a", 
+                "description": "", 
+                "title": "PEACOCK"
+            }, 
+            {
+                "charcode": "0x1f99b", 
+                "description": "", 
+                "title": "HIPPOPOTAMUS"
+            }, 
+            {
+                "charcode": "0x1f99c", 
+                "description": "", 
+                "title": "PARROT"
+            }, 
+            {
+                "charcode": "0x1f99d", 
+                "description": "", 
+                "title": "RACCOON"
+            }, 
+            {
+                "charcode": "0x1f99e", 
+                "description": "", 
+                "title": "LOBSTER"
+            }, 
+            {
+                "charcode": "0x1f99f", 
+                "description": "", 
+                "title": "MOSQUITO"
+            }, 
+            {
+                "charcode": "0x1f9a0", 
+                "description": "", 
+                "title": "MICROBE"
+            }, 
+            {
+                "charcode": "0x1f9a1", 
+                "description": "", 
+                "title": "BADGER"
+            }, 
+            {
+                "charcode": "0x1f9a2", 
+                "description": "", 
+                "title": "SWAN"
+            }, 
+            {
+                "charcode": "0x1f9b0", 
+                "description": "", 
+                "title": "EMOJI COMPONENT RED HAIR"
+            }, 
+            {
+                "charcode": "0x1f9b1", 
+                "description": "", 
+                "title": "EMOJI COMPONENT CURLY HAIR"
+            }, 
+            {
+                "charcode": "0x1f9b2", 
+                "description": "", 
+                "title": "EMOJI COMPONENT BALD"
+            }, 
+            {
+                "charcode": "0x1f9b3", 
+                "description": "", 
+                "title": "EMOJI COMPONENT WHITE HAIR"
+            }, 
+            {
+                "charcode": "0x1f9b4", 
+                "description": "", 
+                "title": "BONE"
+            }, 
+            {
+                "charcode": "0x1f9b5", 
+                "description": "", 
+                "title": "LEG"
+            }, 
+            {
+                "charcode": "0x1f9b6", 
+                "description": "", 
+                "title": "FOOT"
+            }, 
+            {
+                "charcode": "0x1f9b7", 
+                "description": "", 
+                "title": "TOOTH"
+            }, 
+            {
+                "charcode": "0x1f9b8", 
+                "description": "", 
+                "title": "SUPERHERO"
+            }, 
+            {
+                "charcode": "0x1f9b9", 
+                "description": "", 
+                "title": "SUPERVILLAIN"
+            }, 
+            {
                 "charcode": "0x1f9c0", 
                 "description": "", 
                 "title": "CHEESE WEDGE"
+            }, 
+            {
+                "charcode": "0x1f9c1", 
+                "description": "", 
+                "title": "CUPCAKE"
+            }, 
+            {
+                "charcode": "0x1f9c2", 
+                "description": "", 
+                "title": "SALT SHAKER"
+            }, 
+            {
+                "charcode": "0x1f9d0", 
+                "description": "", 
+                "title": "FACE WITH MONOCLE"
+            }, 
+            {
+                "charcode": "0x1f9d1", 
+                "description": "", 
+                "title": "ADULT"
+            }, 
+            {
+                "charcode": "0x1f9d2", 
+                "description": "", 
+                "title": "CHILD"
+            }, 
+            {
+                "charcode": "0x1f9d3", 
+                "description": "", 
+                "title": "OLDER ADULT"
+            }, 
+            {
+                "charcode": "0x1f9d4", 
+                "description": "", 
+                "title": "BEARDED PERSON"
+            }, 
+            {
+                "charcode": "0x1f9d5", 
+                "description": "", 
+                "title": "PERSON WITH HEADSCARF"
+            }, 
+            {
+                "charcode": "0x1f9d6", 
+                "description": "", 
+                "title": "PERSON IN STEAMY ROOM"
+            }, 
+            {
+                "charcode": "0x1f9d7", 
+                "description": "", 
+                "title": "PERSON CLIMBING"
+            }, 
+            {
+                "charcode": "0x1f9d8", 
+                "description": "", 
+                "title": "PERSON IN LOTUS POSITION"
+            }, 
+            {
+                "charcode": "0x1f9d9", 
+                "description": "", 
+                "title": "MAGE"
+            }, 
+            {
+                "charcode": "0x1f9da", 
+                "description": "", 
+                "title": "FAIRY"
+            }, 
+            {
+                "charcode": "0x1f9db", 
+                "description": "", 
+                "title": "VAMPIRE"
+            }, 
+            {
+                "charcode": "0x1f9dc", 
+                "description": "", 
+                "title": "MERPERSON"
+            }, 
+            {
+                "charcode": "0x1f9dd", 
+                "description": "", 
+                "title": "ELF"
+            }, 
+            {
+                "charcode": "0x1f9de", 
+                "description": "", 
+                "title": "GENIE"
+            }, 
+            {
+                "charcode": "0x1f9df", 
+                "description": "", 
+                "title": "ZOMBIE"
+            }, 
+            {
+                "charcode": "0x1f9e0", 
+                "description": "", 
+                "title": "BRAIN"
+            }, 
+            {
+                "charcode": "0x1f9e1", 
+                "description": "", 
+                "title": "ORANGE HEART"
+            }, 
+            {
+                "charcode": "0x1f9e2", 
+                "description": "", 
+                "title": "BILLED CAP"
+            }, 
+            {
+                "charcode": "0x1f9e3", 
+                "description": "", 
+                "title": "SCARF"
+            }, 
+            {
+                "charcode": "0x1f9e4", 
+                "description": "", 
+                "title": "GLOVES"
+            }, 
+            {
+                "charcode": "0x1f9e5", 
+                "description": "", 
+                "title": "COAT"
+            }, 
+            {
+                "charcode": "0x1f9e6", 
+                "description": "", 
+                "title": "SOCKS"
+            }, 
+            {
+                "charcode": "0x1f9e7", 
+                "description": "", 
+                "title": "RED GIFT ENVELOPE"
+            }, 
+            {
+                "charcode": "0x1f9e8", 
+                "description": "", 
+                "title": "FIRECRACKER"
+            }, 
+            {
+                "charcode": "0x1f9e9", 
+                "description": "", 
+                "title": "JIGSAW PUZZLE PIECE"
+            }, 
+            {
+                "charcode": "0x1f9ea", 
+                "description": "", 
+                "title": "TEST TUBE"
+            }, 
+            {
+                "charcode": "0x1f9eb", 
+                "description": "", 
+                "title": "PETRI DISH"
+            }, 
+            {
+                "charcode": "0x1f9ec", 
+                "description": "", 
+                "title": "DNA DOUBLE HELIX"
+            }, 
+            {
+                "charcode": "0x1f9ed", 
+                "description": "", 
+                "title": "COMPASS"
+            }, 
+            {
+                "charcode": "0x1f9ee", 
+                "description": "", 
+                "title": "ABACUS"
+            }, 
+            {
+                "charcode": "0x1f9ef", 
+                "description": "", 
+                "title": "FIRE EXTINGUISHER"
+            }, 
+            {
+                "charcode": "0x1f9f0", 
+                "description": "", 
+                "title": "TOOLBOX"
+            }, 
+            {
+                "charcode": "0x1f9f1", 
+                "description": "", 
+                "title": "BRICK"
+            }, 
+            {
+                "charcode": "0x1f9f2", 
+                "description": "", 
+                "title": "MAGNET"
+            }, 
+            {
+                "charcode": "0x1f9f3", 
+                "description": "", 
+                "title": "LUGGAGE"
+            }, 
+            {
+                "charcode": "0x1f9f4", 
+                "description": "", 
+                "title": "LOTION BOTTLE"
+            }, 
+            {
+                "charcode": "0x1f9f5", 
+                "description": "", 
+                "title": "SPOOL OF THREAD"
+            }, 
+            {
+                "charcode": "0x1f9f6", 
+                "description": "", 
+                "title": "BALL OF YARN"
+            }, 
+            {
+                "charcode": "0x1f9f7", 
+                "description": "", 
+                "title": "SAFETY PIN"
+            }, 
+            {
+                "charcode": "0x1f9f8", 
+                "description": "", 
+                "title": "TEDDY BEAR"
+            }, 
+            {
+                "charcode": "0x1f9f9", 
+                "description": "", 
+                "title": "BROOM"
+            }, 
+            {
+                "charcode": "0x1f9fa", 
+                "description": "", 
+                "title": "BASKET"
+            }, 
+            {
+                "charcode": "0x1f9fb", 
+                "description": "", 
+                "title": "ROLL OF PAPER"
+            }, 
+            {
+                "charcode": "0x1f9fc", 
+                "description": "", 
+                "title": "BAR OF SOAP"
+            }, 
+            {
+                "charcode": "0x1f9fd", 
+                "description": "", 
+                "title": "SPONGE"
+            }, 
+            {
+                "charcode": "0x1f9fe", 
+                "description": "", 
+                "title": "RECEIPT"
+            }, 
+            {
+                "charcode": "0x1f9ff", 
+                "description": "", 
+                "title": "NAZAR AMULET"
             }
         ], 
         "name": "Supplemental Symbols and Pictographs"

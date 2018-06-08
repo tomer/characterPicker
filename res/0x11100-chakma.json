@@ -603,6 +603,21 @@
                 "charcode": "0x11143", 
                 "description": "", 
                 "title": "CHAKMA QUESTION MARK"
+            }, 
+            {
+                "charcode": "0x11144", 
+                "description": "", 
+                "title": "CHAKMA LETTER LHAA"
+            }, 
+            {
+                "charcode": "0x11145", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN AA"
+            }, 
+            {
+                "charcode": "0x11146", 
+                "description": "", 
+                "title": "CHAKMA VOWEL SIGN EI"
             }
         ], 
         "name": "Chakma"

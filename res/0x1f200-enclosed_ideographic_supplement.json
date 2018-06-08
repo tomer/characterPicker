@@ -518,6 +518,36 @@
                 "charcode": "0x1f251", 
                 "description": "", 
                 "title": "CIRCLED IDEOGRAPH ACCEPT"
+            }, 
+            {
+                "charcode": "0x1f260", 
+                "description": "", 
+                "title": "ROUNDED SYMBOL FOR FU"
+            }, 
+            {
+                "charcode": "0x1f261", 
+                "description": "", 
+                "title": "ROUNDED SYMBOL FOR LU"
+            }, 
+            {
+                "charcode": "0x1f262", 
+                "description": "", 
+                "title": "ROUNDED SYMBOL FOR SHOU"
+            }, 
+            {
+                "charcode": "0x1f263", 
+                "description": "", 
+                "title": "ROUNDED SYMBOL FOR XI"
+            }, 
+            {
+                "charcode": "0x1f264", 
+                "description": "", 
+                "title": "ROUNDED SYMBOL FOR SHUANGXI"
+            }, 
+            {
+                "charcode": "0x1f265", 
+                "description": "", 
+                "title": "ROUNDED SYMBOL FOR CAI"
             }
         ], 
         "name": "Enclosed Ideographic Supplement"

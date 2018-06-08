@@ -2251,6 +2251,11 @@
                 "charcode": "0x23fe", 
                 "description": "", 
                 "title": "POWER SLEEP SYMBOL"
+            }, 
+            {
+                "charcode": "0x23ff", 
+                "description": "", 
+                "title": "OBSERVER EYE SYMBOL"
             }
         ], 
         "name": "Miscellaneous Technical"

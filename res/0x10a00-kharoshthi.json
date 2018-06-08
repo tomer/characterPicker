@@ -398,6 +398,16 @@
                 "title": "KHAROSHTHI LETTER TTTHA"
             }, 
             {
+                "charcode": "0x10a34", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER TTTA"
+            }, 
+            {
+                "charcode": "0x10a35", 
+                "description": "", 
+                "title": "KHAROSHTHI LETTER VHA"
+            }, 
+            {
                 "cat1": "Diacritic", 
                 "cat2": "", 
                 "cat3": "", 
@@ -504,6 +514,11 @@
                 "charcode": "0x10a47", 
                 "description": "", 
                 "title": "KHAROSHTHI NUMBER ONE THOUSAND"
+            }, 
+            {
+                "charcode": "0x10a48", 
+                "description": "", 
+                "title": "KHAROSHTHI FRACTION ONE HALF"
             }, 
             {
                 "cat1": "Punctuation", 

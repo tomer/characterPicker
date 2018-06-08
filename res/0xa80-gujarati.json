@@ -761,6 +761,36 @@
                 "charcode": "0xaf9", 
                 "description": "", 
                 "title": "GUJARATI LETTER ZHA"
+            }, 
+            {
+                "charcode": "0xafa", 
+                "description": "", 
+                "title": "GUJARATI SIGN SUKUN"
+            }, 
+            {
+                "charcode": "0xafb", 
+                "description": "", 
+                "title": "GUJARATI SIGN SHADDA"
+            }, 
+            {
+                "charcode": "0xafc", 
+                "description": "", 
+                "title": "GUJARATI SIGN MADDAH"
+            }, 
+            {
+                "charcode": "0xafd", 
+                "description": "", 
+                "title": "GUJARATI SIGN THREE-DOT NUKTA ABOVE"
+            }, 
+            {
+                "charcode": "0xafe", 
+                "description": "", 
+                "title": "GUJARATI SIGN CIRCLE NUKTA ABOVE"
+            }, 
+            {
+                "charcode": "0xaff", 
+                "description": "", 
+                "title": "GUJARATI SIGN TWO-CIRCLE NUKTA ABOVE"
             }
         ], 
         "name": "Gujarati"

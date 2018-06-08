@@ -833,6 +833,21 @@
                 "charcode": "0x9fb", 
                 "description": "", 
                 "title": "BENGALI GANDA MARK"
+            }, 
+            {
+                "charcode": "0x9fc", 
+                "description": "", 
+                "title": "BENGALI LETTER VEDIC ANUSVARA"
+            }, 
+            {
+                "charcode": "0x9fd", 
+                "description": "", 
+                "title": "BENGALI ABBREVIATION SIGN"
+            }, 
+            {
+                "charcode": "0x9fe", 
+                "description": "", 
+                "title": "BENGALI SANDHI MARK"
             }
         ], 
         "name": "Bengali"

@@ -1260,6 +1260,21 @@
                 "title": "UP ARROWHEAD IN A RECTANGLE BOX"
             }, 
             {
+                "charcode": "0x2bba", 
+                "description": "", 
+                "title": "OVERLAPPING WHITE SQUARES"
+            }, 
+            {
+                "charcode": "0x2bbb", 
+                "description": "", 
+                "title": "OVERLAPPING WHITE AND BLACK SQUARES"
+            }, 
+            {
+                "charcode": "0x2bbc", 
+                "description": "", 
+                "title": "OVERLAPPING BLACK SQUARES"
+            }, 
+            {
                 "charcode": "0x2bbd", 
                 "description": "", 
                 "title": "BALLOT BOX WITH LIGHT X"
@@ -1360,6 +1375,136 @@
                 "title": "UNCERTAINTY SIGN"
             }, 
             {
+                "charcode": "0x2bd2", 
+                "description": "", 
+                "title": "GROUP MARK"
+            }, 
+            {
+                "charcode": "0x2bd3", 
+                "description": "", 
+                "title": "PLUTO FORM TWO"
+            }, 
+            {
+                "charcode": "0x2bd4", 
+                "description": "", 
+                "title": "PLUTO FORM THREE"
+            }, 
+            {
+                "charcode": "0x2bd5", 
+                "description": "", 
+                "title": "PLUTO FORM FOUR"
+            }, 
+            {
+                "charcode": "0x2bd6", 
+                "description": "", 
+                "title": "PLUTO FORM FIVE"
+            }, 
+            {
+                "charcode": "0x2bd7", 
+                "description": "", 
+                "title": "TRANSPLUTO"
+            }, 
+            {
+                "charcode": "0x2bd8", 
+                "description": "", 
+                "title": "PROSERPINA"
+            }, 
+            {
+                "charcode": "0x2bd9", 
+                "description": "", 
+                "title": "ASTRAEA"
+            }, 
+            {
+                "charcode": "0x2bda", 
+                "description": "", 
+                "title": "HYGIEA"
+            }, 
+            {
+                "charcode": "0x2bdb", 
+                "description": "", 
+                "title": "PHOLUS"
+            }, 
+            {
+                "charcode": "0x2bdc", 
+                "description": "", 
+                "title": "NESSUS"
+            }, 
+            {
+                "charcode": "0x2bdd", 
+                "description": "", 
+                "title": "WHITE MOON SELENA"
+            }, 
+            {
+                "charcode": "0x2bde", 
+                "description": "", 
+                "title": "BLACK DIAMOND ON CROSS"
+            }, 
+            {
+                "charcode": "0x2bdf", 
+                "description": "", 
+                "title": "TRUE LIGHT MOON ARTA"
+            }, 
+            {
+                "charcode": "0x2be0", 
+                "description": "", 
+                "title": "CUPIDO"
+            }, 
+            {
+                "charcode": "0x2be1", 
+                "description": "", 
+                "title": "HADES"
+            }, 
+            {
+                "charcode": "0x2be2", 
+                "description": "", 
+                "title": "ZEUS"
+            }, 
+            {
+                "charcode": "0x2be3", 
+                "description": "", 
+                "title": "KRONOS"
+            }, 
+            {
+                "charcode": "0x2be4", 
+                "description": "", 
+                "title": "APOLLON"
+            }, 
+            {
+                "charcode": "0x2be5", 
+                "description": "", 
+                "title": "ADMETOS"
+            }, 
+            {
+                "charcode": "0x2be6", 
+                "description": "", 
+                "title": "VULCANUS"
+            }, 
+            {
+                "charcode": "0x2be7", 
+                "description": "", 
+                "title": "POSEIDON"
+            }, 
+            {
+                "charcode": "0x2be8", 
+                "description": "", 
+                "title": "LEFT HALF BLACK STAR"
+            }, 
+            {
+                "charcode": "0x2be9", 
+                "description": "", 
+                "title": "RIGHT HALF BLACK STAR"
+            }, 
+            {
+                "charcode": "0x2bea", 
+                "description": "", 
+                "title": "STAR WITH LEFT HALF BLACK"
+            }, 
+            {
+                "charcode": "0x2beb", 
+                "description": "", 
+                "title": "STAR WITH RIGHT HALF BLACK"
+            }, 
+            {
                 "charcode": "0x2bec", 
                 "description": "", 
                 "title": "LEFTWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS"
@@ -1378,6 +1523,81 @@
                 "charcode": "0x2bef", 
                 "description": "", 
                 "title": "DOWNWARDS TWO-HEADED ARROW WITH TRIANGLE ARROWHEADS"
+            }, 
+            {
+                "charcode": "0x2bf0", 
+                "description": "", 
+                "title": "ERIS FORM ONE"
+            }, 
+            {
+                "charcode": "0x2bf1", 
+                "description": "", 
+                "title": "ERIS FORM TWO"
+            }, 
+            {
+                "charcode": "0x2bf2", 
+                "description": "", 
+                "title": "SEDNA"
+            }, 
+            {
+                "charcode": "0x2bf3", 
+                "description": "", 
+                "title": "RUSSIAN ASTROLOGICAL SYMBOL VIGINTILE"
+            }, 
+            {
+                "charcode": "0x2bf4", 
+                "description": "", 
+                "title": "RUSSIAN ASTROLOGICAL SYMBOL NOVILE"
+            }, 
+            {
+                "charcode": "0x2bf5", 
+                "description": "", 
+                "title": "RUSSIAN ASTROLOGICAL SYMBOL QUINTILE"
+            }, 
+            {
+                "charcode": "0x2bf6", 
+                "description": "", 
+                "title": "RUSSIAN ASTROLOGICAL SYMBOL BINOVILE"
+            }, 
+            {
+                "charcode": "0x2bf7", 
+                "description": "", 
+                "title": "RUSSIAN ASTROLOGICAL SYMBOL SENTAGON"
+            }, 
+            {
+                "charcode": "0x2bf8", 
+                "description": "", 
+                "title": "RUSSIAN ASTROLOGICAL SYMBOL TREDECILE"
+            }, 
+            {
+                "charcode": "0x2bf9", 
+                "description": "", 
+                "title": "EQUALS SIGN WITH INFINITY BELOW"
+            }, 
+            {
+                "charcode": "0x2bfa", 
+                "description": "", 
+                "title": "UNITED SYMBOL"
+            }, 
+            {
+                "charcode": "0x2bfb", 
+                "description": "", 
+                "title": "SEPARATED SYMBOL"
+            }, 
+            {
+                "charcode": "0x2bfc", 
+                "description": "", 
+                "title": "DOUBLED SYMBOL"
+            }, 
+            {
+                "charcode": "0x2bfd", 
+                "description": "", 
+                "title": "PASSED SYMBOL"
+            }, 
+            {
+                "charcode": "0x2bfe", 
+                "description": "", 
+                "title": "REVERSED RIGHT ANGLE"
             }
         ], 
         "name": "Miscellaneous Symbols and Arrows"

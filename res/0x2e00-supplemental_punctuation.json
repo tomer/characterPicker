@@ -585,6 +585,56 @@
                 "charcode": "0x2e44", 
                 "description": "", 
                 "title": "DOUBLE SUSPENSION MARK"
+            }, 
+            {
+                "charcode": "0x2e45", 
+                "description": "", 
+                "title": "INVERTED LOW KAVYKA"
+            }, 
+            {
+                "charcode": "0x2e46", 
+                "description": "", 
+                "title": "INVERTED LOW KAVYKA WITH KAVYKA ABOVE"
+            }, 
+            {
+                "charcode": "0x2e47", 
+                "description": "", 
+                "title": "LOW KAVYKA"
+            }, 
+            {
+                "charcode": "0x2e48", 
+                "description": "", 
+                "title": "LOW KAVYKA WITH DOT"
+            }, 
+            {
+                "charcode": "0x2e49", 
+                "description": "", 
+                "title": "DOUBLE STACKED COMMA"
+            }, 
+            {
+                "charcode": "0x2e4a", 
+                "description": "", 
+                "title": "DOTTED SOLIDUS"
+            }, 
+            {
+                "charcode": "0x2e4b", 
+                "description": "", 
+                "title": "TRIPLE DAGGER"
+            }, 
+            {
+                "charcode": "0x2e4c", 
+                "description": "", 
+                "title": "MEDIEVAL COMMA"
+            }, 
+            {
+                "charcode": "0x2e4d", 
+                "description": "", 
+                "title": "PARAGRAPHUS MARK"
+            }, 
+            {
+                "charcode": "0x2e4e", 
+                "description": "", 
+                "title": "PUNCTUS ELEVATUS MARK"
             }
         ], 
         "name": "Supplemental Punctuation"

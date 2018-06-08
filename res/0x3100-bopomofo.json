@@ -369,6 +369,16 @@
                 "charcode": "0x312d", 
                 "description": "", 
                 "title": "BOPOMOFO LETTER IH"
+            }, 
+            {
+                "charcode": "0x312e", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER O WITH DOT ABOVE"
+            }, 
+            {
+                "charcode": "0x312f", 
+                "description": "", 
+                "title": "BOPOMOFO LETTER NN"
             }
         ], 
         "name": "Bopomofo"

@@ -262,6 +262,16 @@
                 "charcode": "0xa8fd", 
                 "description": "", 
                 "title": "DEVANAGARI JAIN OM"
+            }, 
+            {
+                "charcode": "0xa8fe", 
+                "description": "", 
+                "title": "DEVANAGARI LETTER AY"
+            }, 
+            {
+                "charcode": "0xa8ff", 
+                "description": "", 
+                "title": "DEVANAGARI VOWEL SIGN AY"
             }
         ], 
         "name": "Devanagari Extended"
