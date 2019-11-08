@@ -2286,6 +2286,11 @@
                 "charcode": "0x32fe", 
                 "description": "", 
                 "title": "CIRCLED KATAKANA WO"
+            }, 
+            {
+                "charcode": "0x32ff", 
+                "description": "", 
+                "title": "SQUARE ERA NAME REIWA"
             }
         ], 
         "name": "Enclosed CJK Letters and Months"

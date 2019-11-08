@@ -29,6 +29,11 @@
                 "title": "LAO LETTER KHO TAM"
             }, 
             {
+                "charcode": "0xe86", 
+                "description": "", 
+                "title": "LAO LETTER PALI GHA"
+            }, 
+            {
                 "cat1": "Letter", 
                 "cat2": "Consonant", 
                 "cat3": "", 
@@ -47,6 +52,11 @@
                 "title": "LAO LETTER CO"
             }, 
             {
+                "charcode": "0xe89", 
+                "description": "", 
+                "title": "LAO LETTER PALI CHA"
+            }, 
+            {
                 "cat1": "Letter", 
                 "cat2": "Consonant", 
                 "cat3": "", 
@@ -56,6 +66,11 @@
                 "title": "LAO LETTER SO TAM"
             }, 
             {
+                "charcode": "0xe8c", 
+                "description": "", 
+                "title": "LAO LETTER PALI JHA"
+            }, 
+            {
                 "cat1": "Letter", 
                 "cat2": "Consonant", 
                 "cat3": "", 
@@ -63,6 +78,36 @@
                 "charcode": "0xe8d", 
                 "description": "", 
                 "title": "LAO LETTER NYO"
+            }, 
+            {
+                "charcode": "0xe8e", 
+                "description": "", 
+                "title": "LAO LETTER PALI NYA"
+            }, 
+            {
+                "charcode": "0xe8f", 
+                "description": "", 
+                "title": "LAO LETTER PALI TTA"
+            }, 
+            {
+                "charcode": "0xe90", 
+                "description": "", 
+                "title": "LAO LETTER PALI TTHA"
+            }, 
+            {
+                "charcode": "0xe91", 
+                "description": "", 
+                "title": "LAO LETTER PALI DDA"
+            }, 
+            {
+                "charcode": "0xe92", 
+                "description": "", 
+                "title": "LAO LETTER PALI DDHA"
+            }, 
+            {
+                "charcode": "0xe93", 
+                "description": "", 
+                "title": "LAO LETTER PALI NNA"
             }, 
             {
                 "cat1": "Letter", 
@@ -99,6 +144,11 @@
                 "charcode": "0xe97", 
                 "description": "", 
                 "title": "LAO LETTER THO TAM"
+            }, 
+            {
+                "charcode": "0xe98", 
+                "description": "", 
+                "title": "LAO LETTER PALI DHA"
             }, 
             {
                 "cat1": "Letter", 
@@ -164,6 +214,11 @@
                 "title": "LAO LETTER FO SUNG"
             }, 
             {
+                "charcode": "0xea0", 
+                "description": "", 
+                "title": "LAO LETTER PALI BHA"
+            }, 
+            {
                 "cat1": "Letter", 
                 "cat2": "Consonant", 
                 "cat3": "", 
@@ -209,6 +264,16 @@
                 "title": "LAO LETTER WO"
             }, 
             {
+                "charcode": "0xea8", 
+                "description": "", 
+                "title": "LAO LETTER SANSKRIT SHA"
+            }, 
+            {
+                "charcode": "0xea9", 
+                "description": "", 
+                "title": "LAO LETTER SANSKRIT SSA"
+            }, 
+            {
                 "cat1": "Letter", 
                 "cat2": "Consonant", 
                 "cat3": "", 
@@ -225,6 +290,11 @@
                 "charcode": "0xeab", 
                 "description": "", 
                 "title": "LAO LETTER HO SUNG"
+            }, 
+            {
+                "charcode": "0xeac", 
+                "description": "", 
+                "title": "LAO LETTER PALI LLA"
             }, 
             {
                 "cat1": "Letter", 
@@ -342,6 +412,11 @@
                 "charcode": "0xeb9", 
                 "description": "", 
                 "title": "LAO VOWEL SIGN UU"
+            }, 
+            {
+                "charcode": "0xeba", 
+                "description": "", 
+                "title": "LAO SIGN PALI VIRAMA"
             }, 
             {
                 "cat1": "Letter", 

@@ -1,0 +1,52 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x13430", 
+                "description": "", 
+                "title": "EGYPTIAN HIEROGLYPH VERTICAL JOINER"
+            }, 
+            {
+                "charcode": "0x13431", 
+                "description": "", 
+                "title": "EGYPTIAN HIEROGLYPH HORIZONTAL JOINER"
+            }, 
+            {
+                "charcode": "0x13432", 
+                "description": "", 
+                "title": "EGYPTIAN HIEROGLYPH INSERT AT TOP START"
+            }, 
+            {
+                "charcode": "0x13433", 
+                "description": "", 
+                "title": "EGYPTIAN HIEROGLYPH INSERT AT BOTTOM START"
+            }, 
+            {
+                "charcode": "0x13434", 
+                "description": "", 
+                "title": "EGYPTIAN HIEROGLYPH INSERT AT TOP END"
+            }, 
+            {
+                "charcode": "0x13435", 
+                "description": "", 
+                "title": "EGYPTIAN HIEROGLYPH INSERT AT BOTTOM END"
+            }, 
+            {
+                "charcode": "0x13436", 
+                "description": "", 
+                "title": "EGYPTIAN HIEROGLYPH OVERLAY MIDDLE"
+            }, 
+            {
+                "charcode": "0x13437", 
+                "description": "", 
+                "title": "EGYPTIAN HIEROGLYPH BEGIN SEGMENT"
+            }, 
+            {
+                "charcode": "0x13438", 
+                "description": "", 
+                "title": "EGYPTIAN HIEROGLYPH END SEGMENT"
+            }
+        ], 
+        "name": "Egyptian Hieroglyph Format Controls"
+    }
+]

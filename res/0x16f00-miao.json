@@ -623,6 +623,41 @@
                 "title": "MIAO LETTER HHA"
             }, 
             {
+                "charcode": "0x16f45", 
+                "description": "", 
+                "title": "MIAO LETTER BRI"
+            }, 
+            {
+                "charcode": "0x16f46", 
+                "description": "", 
+                "title": "MIAO LETTER SYI"
+            }, 
+            {
+                "charcode": "0x16f47", 
+                "description": "", 
+                "title": "MIAO LETTER DZYI"
+            }, 
+            {
+                "charcode": "0x16f48", 
+                "description": "", 
+                "title": "MIAO LETTER TE"
+            }, 
+            {
+                "charcode": "0x16f49", 
+                "description": "", 
+                "title": "MIAO LETTER TSE"
+            }, 
+            {
+                "charcode": "0x16f4a", 
+                "description": "", 
+                "title": "MIAO LETTER RTE"
+            }, 
+            {
+                "charcode": "0x16f4f", 
+                "description": "", 
+                "title": "MIAO SIGN CONSONANT MODIFIER BAR"
+            }, 
+            {
                 "cat1": "Letter", 
                 "cat2": "Modifier", 
                 "cat3": "", 
@@ -1044,6 +1079,51 @@
                 "charcode": "0x16f7e", 
                 "description": "", 
                 "title": "MIAO VOWEL SIGN NG"
+            }, 
+            {
+                "charcode": "0x16f7f", 
+                "description": "", 
+                "title": "MIAO VOWEL SIGN UOG"
+            }, 
+            {
+                "charcode": "0x16f80", 
+                "description": "", 
+                "title": "MIAO VOWEL SIGN YUI"
+            }, 
+            {
+                "charcode": "0x16f81", 
+                "description": "", 
+                "title": "MIAO VOWEL SIGN OG"
+            }, 
+            {
+                "charcode": "0x16f82", 
+                "description": "", 
+                "title": "MIAO VOWEL SIGN OER"
+            }, 
+            {
+                "charcode": "0x16f83", 
+                "description": "", 
+                "title": "MIAO VOWEL SIGN VW"
+            }, 
+            {
+                "charcode": "0x16f84", 
+                "description": "", 
+                "title": "MIAO VOWEL SIGN IG"
+            }, 
+            {
+                "charcode": "0x16f85", 
+                "description": "", 
+                "title": "MIAO VOWEL SIGN EA"
+            }, 
+            {
+                "charcode": "0x16f86", 
+                "description": "", 
+                "title": "MIAO VOWEL SIGN IONG"
+            }, 
+            {
+                "charcode": "0x16f87", 
+                "description": "", 
+                "title": "MIAO VOWEL SIGN UI"
             }, 
             {
                 "cat1": "Mark", 

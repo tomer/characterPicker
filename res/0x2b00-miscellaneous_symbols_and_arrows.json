@@ -1335,6 +1335,11 @@
                 "title": "BLACK MEDIUM RIGHT-POINTING TRIANGLE CENTRED"
             }, 
             {
+                "charcode": "0x2bc9", 
+                "description": "", 
+                "title": "NEPTUNE FORM TWO"
+            }, 
+            {
                 "charcode": "0x2bca", 
                 "description": "", 
                 "title": "TOP HALF BLACK CIRCLE"
@@ -1598,6 +1603,11 @@
                 "charcode": "0x2bfe", 
                 "description": "", 
                 "title": "REVERSED RIGHT ANGLE"
+            }, 
+            {
+                "charcode": "0x2bff", 
+                "description": "", 
+                "title": "HELLSCHREIBER PAUSE SYMBOL"
             }
         ], 
         "name": "Miscellaneous Symbols and Arrows"

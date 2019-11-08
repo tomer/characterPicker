@@ -2,6 +2,426 @@
     {
         "content": [
             {
+                "charcode": "0x1fa00", 
+                "description": "", 
+                "title": "NEUTRAL CHESS KING"
+            }, 
+            {
+                "charcode": "0x1fa01", 
+                "description": "", 
+                "title": "NEUTRAL CHESS QUEEN"
+            }, 
+            {
+                "charcode": "0x1fa02", 
+                "description": "", 
+                "title": "NEUTRAL CHESS ROOK"
+            }, 
+            {
+                "charcode": "0x1fa03", 
+                "description": "", 
+                "title": "NEUTRAL CHESS BISHOP"
+            }, 
+            {
+                "charcode": "0x1fa04", 
+                "description": "", 
+                "title": "NEUTRAL CHESS KNIGHT"
+            }, 
+            {
+                "charcode": "0x1fa05", 
+                "description": "", 
+                "title": "NEUTRAL CHESS PAWN"
+            }, 
+            {
+                "charcode": "0x1fa06", 
+                "description": "", 
+                "title": "WHITE CHESS KNIGHT ROTATED FORTY-FIVE DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa07", 
+                "description": "", 
+                "title": "BLACK CHESS KNIGHT ROTATED FORTY-FIVE DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa08", 
+                "description": "", 
+                "title": "NEUTRAL CHESS KNIGHT ROTATED FORTY-FIVE DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa09", 
+                "description": "", 
+                "title": "WHITE CHESS KING ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa0a", 
+                "description": "", 
+                "title": "WHITE CHESS QUEEN ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa0b", 
+                "description": "", 
+                "title": "WHITE CHESS ROOK ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa0c", 
+                "description": "", 
+                "title": "WHITE CHESS BISHOP ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa0d", 
+                "description": "", 
+                "title": "WHITE CHESS KNIGHT ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa0e", 
+                "description": "", 
+                "title": "WHITE CHESS PAWN ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa0f", 
+                "description": "", 
+                "title": "BLACK CHESS KING ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa10", 
+                "description": "", 
+                "title": "BLACK CHESS QUEEN ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa11", 
+                "description": "", 
+                "title": "BLACK CHESS ROOK ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa12", 
+                "description": "", 
+                "title": "BLACK CHESS BISHOP ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa13", 
+                "description": "", 
+                "title": "BLACK CHESS KNIGHT ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa14", 
+                "description": "", 
+                "title": "BLACK CHESS PAWN ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa15", 
+                "description": "", 
+                "title": "NEUTRAL CHESS KING ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa16", 
+                "description": "", 
+                "title": "NEUTRAL CHESS QUEEN ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa17", 
+                "description": "", 
+                "title": "NEUTRAL CHESS ROOK ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa18", 
+                "description": "", 
+                "title": "NEUTRAL CHESS BISHOP ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa19", 
+                "description": "", 
+                "title": "NEUTRAL CHESS KNIGHT ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa1a", 
+                "description": "", 
+                "title": "NEUTRAL CHESS PAWN ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa1b", 
+                "description": "", 
+                "title": "WHITE CHESS KNIGHT ROTATED ONE HUNDRED THIRTY-FIVE DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa1c", 
+                "description": "", 
+                "title": "BLACK CHESS KNIGHT ROTATED ONE HUNDRED THIRTY-FIVE DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa1d", 
+                "description": "", 
+                "title": "NEUTRAL CHESS KNIGHT ROTATED ONE HUNDRED THIRTY-FIVE DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa1e", 
+                "description": "", 
+                "title": "WHITE CHESS TURNED KING"
+            }, 
+            {
+                "charcode": "0x1fa1f", 
+                "description": "", 
+                "title": "WHITE CHESS TURNED QUEEN"
+            }, 
+            {
+                "charcode": "0x1fa20", 
+                "description": "", 
+                "title": "WHITE CHESS TURNED ROOK"
+            }, 
+            {
+                "charcode": "0x1fa21", 
+                "description": "", 
+                "title": "WHITE CHESS TURNED BISHOP"
+            }, 
+            {
+                "charcode": "0x1fa22", 
+                "description": "", 
+                "title": "WHITE CHESS TURNED KNIGHT"
+            }, 
+            {
+                "charcode": "0x1fa23", 
+                "description": "", 
+                "title": "WHITE CHESS TURNED PAWN"
+            }, 
+            {
+                "charcode": "0x1fa24", 
+                "description": "", 
+                "title": "BLACK CHESS TURNED KING"
+            }, 
+            {
+                "charcode": "0x1fa25", 
+                "description": "", 
+                "title": "BLACK CHESS TURNED QUEEN"
+            }, 
+            {
+                "charcode": "0x1fa26", 
+                "description": "", 
+                "title": "BLACK CHESS TURNED ROOK"
+            }, 
+            {
+                "charcode": "0x1fa27", 
+                "description": "", 
+                "title": "BLACK CHESS TURNED BISHOP"
+            }, 
+            {
+                "charcode": "0x1fa28", 
+                "description": "", 
+                "title": "BLACK CHESS TURNED KNIGHT"
+            }, 
+            {
+                "charcode": "0x1fa29", 
+                "description": "", 
+                "title": "BLACK CHESS TURNED PAWN"
+            }, 
+            {
+                "charcode": "0x1fa2a", 
+                "description": "", 
+                "title": "NEUTRAL CHESS TURNED KING"
+            }, 
+            {
+                "charcode": "0x1fa2b", 
+                "description": "", 
+                "title": "NEUTRAL CHESS TURNED QUEEN"
+            }, 
+            {
+                "charcode": "0x1fa2c", 
+                "description": "", 
+                "title": "NEUTRAL CHESS TURNED ROOK"
+            }, 
+            {
+                "charcode": "0x1fa2d", 
+                "description": "", 
+                "title": "NEUTRAL CHESS TURNED BISHOP"
+            }, 
+            {
+                "charcode": "0x1fa2e", 
+                "description": "", 
+                "title": "NEUTRAL CHESS TURNED KNIGHT"
+            }, 
+            {
+                "charcode": "0x1fa2f", 
+                "description": "", 
+                "title": "NEUTRAL CHESS TURNED PAWN"
+            }, 
+            {
+                "charcode": "0x1fa30", 
+                "description": "", 
+                "title": "WHITE CHESS KNIGHT ROTATED TWO HUNDRED TWENTY-FIVE DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa31", 
+                "description": "", 
+                "title": "BLACK CHESS KNIGHT ROTATED TWO HUNDRED TWENTY-FIVE DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa32", 
+                "description": "", 
+                "title": "NEUTRAL CHESS KNIGHT ROTATED TWO HUNDRED TWENTY-FIVE DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa33", 
+                "description": "", 
+                "title": "WHITE CHESS KING ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa34", 
+                "description": "", 
+                "title": "WHITE CHESS QUEEN ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa35", 
+                "description": "", 
+                "title": "WHITE CHESS ROOK ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa36", 
+                "description": "", 
+                "title": "WHITE CHESS BISHOP ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa37", 
+                "description": "", 
+                "title": "WHITE CHESS KNIGHT ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa38", 
+                "description": "", 
+                "title": "WHITE CHESS PAWN ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa39", 
+                "description": "", 
+                "title": "BLACK CHESS KING ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa3a", 
+                "description": "", 
+                "title": "BLACK CHESS QUEEN ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa3b", 
+                "description": "", 
+                "title": "BLACK CHESS ROOK ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa3c", 
+                "description": "", 
+                "title": "BLACK CHESS BISHOP ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa3d", 
+                "description": "", 
+                "title": "BLACK CHESS KNIGHT ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa3e", 
+                "description": "", 
+                "title": "BLACK CHESS PAWN ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa3f", 
+                "description": "", 
+                "title": "NEUTRAL CHESS KING ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa40", 
+                "description": "", 
+                "title": "NEUTRAL CHESS QUEEN ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa41", 
+                "description": "", 
+                "title": "NEUTRAL CHESS ROOK ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa42", 
+                "description": "", 
+                "title": "NEUTRAL CHESS BISHOP ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa43", 
+                "description": "", 
+                "title": "NEUTRAL CHESS KNIGHT ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa44", 
+                "description": "", 
+                "title": "NEUTRAL CHESS PAWN ROTATED TWO HUNDRED SEVENTY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa45", 
+                "description": "", 
+                "title": "WHITE CHESS KNIGHT ROTATED THREE HUNDRED FIFTEEN DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa46", 
+                "description": "", 
+                "title": "BLACK CHESS KNIGHT ROTATED THREE HUNDRED FIFTEEN DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa47", 
+                "description": "", 
+                "title": "NEUTRAL CHESS KNIGHT ROTATED THREE HUNDRED FIFTEEN DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa48", 
+                "description": "", 
+                "title": "WHITE CHESS EQUIHOPPER"
+            }, 
+            {
+                "charcode": "0x1fa49", 
+                "description": "", 
+                "title": "BLACK CHESS EQUIHOPPER"
+            }, 
+            {
+                "charcode": "0x1fa4a", 
+                "description": "", 
+                "title": "NEUTRAL CHESS EQUIHOPPER"
+            }, 
+            {
+                "charcode": "0x1fa4b", 
+                "description": "", 
+                "title": "WHITE CHESS EQUIHOPPER ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa4c", 
+                "description": "", 
+                "title": "BLACK CHESS EQUIHOPPER ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa4d", 
+                "description": "", 
+                "title": "NEUTRAL CHESS EQUIHOPPER ROTATED NINETY DEGREES"
+            }, 
+            {
+                "charcode": "0x1fa4e", 
+                "description": "", 
+                "title": "WHITE CHESS KNIGHT-QUEEN"
+            }, 
+            {
+                "charcode": "0x1fa4f", 
+                "description": "", 
+                "title": "WHITE CHESS KNIGHT-ROOK"
+            }, 
+            {
+                "charcode": "0x1fa50", 
+                "description": "", 
+                "title": "WHITE CHESS KNIGHT-BISHOP"
+            }, 
+            {
+                "charcode": "0x1fa51", 
+                "description": "", 
+                "title": "BLACK CHESS KNIGHT-QUEEN"
+            }, 
+            {
+                "charcode": "0x1fa52", 
+                "description": "", 
+                "title": "BLACK CHESS KNIGHT-ROOK"
+            }, 
+            {
+                "charcode": "0x1fa53", 
+                "description": "", 
+                "title": "BLACK CHESS KNIGHT-BISHOP"
+            }, 
+            {
                 "charcode": "0x1fa60", 
                 "description": "", 
                 "title": "XIANGQI RED GENERAL"

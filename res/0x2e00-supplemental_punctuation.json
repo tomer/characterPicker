@@ -635,6 +635,11 @@
                 "charcode": "0x2e4e", 
                 "description": "", 
                 "title": "PUNCTUS ELEVATUS MARK"
+            }, 
+            {
+                "charcode": "0x2e4f", 
+                "description": "", 
+                "title": "CORNISH VERSE DIVIDER"
             }
         ], 
         "name": "Supplemental Punctuation"

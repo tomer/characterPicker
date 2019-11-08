@@ -1,0 +1,42 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x1b150", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL WI"
+            }, 
+            {
+                "charcode": "0x1b151", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL WE"
+            }, 
+            {
+                "charcode": "0x1b152", 
+                "description": "", 
+                "title": "HIRAGANA LETTER SMALL WO"
+            }, 
+            {
+                "charcode": "0x1b164", 
+                "description": "", 
+                "title": "KATAKANA LETTER SMALL WI"
+            }, 
+            {
+                "charcode": "0x1b165", 
+                "description": "", 
+                "title": "KATAKANA LETTER SMALL WE"
+            }, 
+            {
+                "charcode": "0x1b166", 
+                "description": "", 
+                "title": "KATAKANA LETTER SMALL WO"
+            }, 
+            {
+                "charcode": "0x1b167", 
+                "description": "", 
+                "title": "KATAKANA LETTER SMALL N"
+            }
+        ], 
+        "name": "Small Kana Extension"
+    }
+]

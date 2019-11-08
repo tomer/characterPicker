@@ -707,6 +707,11 @@
                 "title": "PAGODA"
             }, 
             {
+                "charcode": "0x1f6d5", 
+                "description": "", 
+                "title": "HINDU TEMPLE"
+            }, 
+            {
                 "charcode": "0x1f6e0", 
                 "description": "", 
                 "title": "HAMMER AND WRENCH"
@@ -820,6 +825,11 @@
                 "charcode": "0x1f6f9", 
                 "description": "", 
                 "title": "SKATEBOARD"
+            }, 
+            {
+                "charcode": "0x1f6fa", 
+                "description": "", 
+                "title": "AUTO RICKSHAW"
             }
         ], 
         "name": "Transport and Map Symbols"

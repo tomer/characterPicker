@@ -1,0 +1,122 @@
+[
+    {
+        "content": [
+            {
+                "charcode": "0x10fe0", 
+                "description": "", 
+                "title": "ELYMAIC LETTER ALEPH"
+            }, 
+            {
+                "charcode": "0x10fe1", 
+                "description": "", 
+                "title": "ELYMAIC LETTER BETH"
+            }, 
+            {
+                "charcode": "0x10fe2", 
+                "description": "", 
+                "title": "ELYMAIC LETTER GIMEL"
+            }, 
+            {
+                "charcode": "0x10fe3", 
+                "description": "", 
+                "title": "ELYMAIC LETTER DALETH"
+            }, 
+            {
+                "charcode": "0x10fe4", 
+                "description": "", 
+                "title": "ELYMAIC LETTER HE"
+            }, 
+            {
+                "charcode": "0x10fe5", 
+                "description": "", 
+                "title": "ELYMAIC LETTER WAW"
+            }, 
+            {
+                "charcode": "0x10fe6", 
+                "description": "", 
+                "title": "ELYMAIC LETTER ZAYIN"
+            }, 
+            {
+                "charcode": "0x10fe7", 
+                "description": "", 
+                "title": "ELYMAIC LETTER HETH"
+            }, 
+            {
+                "charcode": "0x10fe8", 
+                "description": "", 
+                "title": "ELYMAIC LETTER TETH"
+            }, 
+            {
+                "charcode": "0x10fe9", 
+                "description": "", 
+                "title": "ELYMAIC LETTER YODH"
+            }, 
+            {
+                "charcode": "0x10fea", 
+                "description": "", 
+                "title": "ELYMAIC LETTER KAPH"
+            }, 
+            {
+                "charcode": "0x10feb", 
+                "description": "", 
+                "title": "ELYMAIC LETTER LAMEDH"
+            }, 
+            {
+                "charcode": "0x10fec", 
+                "description": "", 
+                "title": "ELYMAIC LETTER MEM"
+            }, 
+            {
+                "charcode": "0x10fed", 
+                "description": "", 
+                "title": "ELYMAIC LETTER NUN"
+            }, 
+            {
+                "charcode": "0x10fee", 
+                "description": "", 
+                "title": "ELYMAIC LETTER SAMEKH"
+            }, 
+            {
+                "charcode": "0x10fef", 
+                "description": "", 
+                "title": "ELYMAIC LETTER AYIN"
+            }, 
+            {
+                "charcode": "0x10ff0", 
+                "description": "", 
+                "title": "ELYMAIC LETTER PE"
+            }, 
+            {
+                "charcode": "0x10ff1", 
+                "description": "", 
+                "title": "ELYMAIC LETTER SADHE"
+            }, 
+            {
+                "charcode": "0x10ff2", 
+                "description": "", 
+                "title": "ELYMAIC LETTER QOPH"
+            }, 
+            {
+                "charcode": "0x10ff3", 
+                "description": "", 
+                "title": "ELYMAIC LETTER RESH"
+            }, 
+            {
+                "charcode": "0x10ff4", 
+                "description": "", 
+                "title": "ELYMAIC LETTER SHIN"
+            }, 
+            {
+                "charcode": "0x10ff5", 
+                "description": "", 
+                "title": "ELYMAIC LETTER TAW"
+            }, 
+            {
+                "charcode": "0x10ff6", 
+                "description": "", 
+                "title": "ELYMAIC LIGATURE ZAYIN-YODH"
+            }
+        ], 
+        "name": "Elymaic"
+    }
+]

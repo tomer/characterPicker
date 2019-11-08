@@ -414,6 +414,11 @@
         "start": 74880, 
         "title": "Early Dynastic Cuneiform"
     }, 
+    "Egyptian Hieroglyph Format Controls": {
+        "filename": "0x13430-egyptian_hieroglyph_format_controls.json", 
+        "start": 78896, 
+        "title": "Egyptian Hieroglyph Format Controls"
+    }, 
     "Egyptian Hieroglyphs": {
         "filename": "0x13000-egyptian_hieroglyphs.json", 
         "start": 77824, 
@@ -423,6 +428,11 @@
         "filename": "0x10500-elbasan.json", 
         "start": 66816, 
         "title": "Elbasan"
+    }, 
+    "Elymaic": {
+        "filename": "0x10fe0-elymaic.json", 
+        "start": 69600, 
+        "title": "Elymaic"
     }, 
     "Emoticons": {
         "filename": "0x1f600-emoticons.json", 
@@ -989,6 +999,11 @@
         "start": 67712, 
         "title": "Nabataean"
     }, 
+    "Nandinagari": {
+        "filename": "0x119a0-nandinagari.json", 
+        "start": 72096, 
+        "title": "Nandinagari"
+    }, 
     "New Tai Lue": {
         "filename": "0x1980-new_tai_lue.json", 
         "start": 6528, 
@@ -1008,6 +1023,11 @@
         "filename": "0x1b170-nushu.json", 
         "start": 110960, 
         "title": "Nushu"
+    }, 
+    "Nyiakeng Puachue Hmong": {
+        "filename": "0x1e100-nyiakeng_puachue_hmong.json", 
+        "start": 123136, 
+        "title": "Nyiakeng Puachue Hmong"
     }, 
     "Ogham": {
         "filename": "0x1680-ogham.json", 
@@ -1083,6 +1103,11 @@
         "filename": "0x10480-osmanya.json", 
         "start": 66688, 
         "title": "Osmanya"
+    }, 
+    "Ottoman Siyaq Numbers": {
+        "filename": "0x1ed00-ottoman_siyaq_numbers.json", 
+        "start": 126208, 
+        "title": "Ottoman Siyaq Numbers"
     }, 
     "Pahawh Hmong": {
         "filename": "0x16b00-pahawh_hmong.json", 
@@ -1199,6 +1224,11 @@
         "start": 65104, 
         "title": "Small Form Variants"
     }, 
+    "Small Kana Extension": {
+        "filename": "0x1b130-small_kana_extension.json", 
+        "start": 110896, 
+        "title": "Small Kana Extension"
+    }, 
     "Sogdian": {
         "filename": "0x10f30-sogdian.json", 
         "start": 69424, 
@@ -1289,6 +1319,11 @@
         "start": 43008, 
         "title": "Syloti Nagri"
     }, 
+    "Symbols and Pictographs Extended-A": {
+        "filename": "0x1fa70-symbols_and_pictographs_extended-a.json", 
+        "start": 129648, 
+        "title": "Symbols and Pictographs Extended-A"
+    }, 
     "Syriac": {
         "filename": "0x700-syriac.json", 
         "start": 1792, 
@@ -1343,6 +1378,11 @@
         "filename": "0xb80-tamil.json", 
         "start": 2944, 
         "title": "Tamil"
+    }, 
+    "Tamil Supplement": {
+        "filename": "0x11fc0-tamil_supplement.json", 
+        "start": 73664, 
+        "title": "Tamil Supplement"
     }, 
     "Tangut": {
         "filename": "0x17000-tangut.json", 
@@ -1428,6 +1468,11 @@
         "filename": "0xfe10-vertical_forms.json", 
         "start": 65040, 
         "title": "Vertical Forms"
+    }, 
+    "Wancho": {
+        "filename": "0x1e2c0-wancho.json", 
+        "start": 123584, 
+        "title": "Wancho"
     }, 
     "Warang Citi": {
         "filename": "0x118a0-warang_citi.json", 

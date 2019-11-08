@@ -270,6 +270,16 @@
                 "charcode": "0xab65", 
                 "description": "", 
                 "title": "GREEK LETTER SMALL CAPITAL OMEGA"
+            }, 
+            {
+                "charcode": "0xab66", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER DZ DIGRAPH WITH RETROFLEX HOOK"
+            }, 
+            {
+                "charcode": "0xab67", 
+                "description": "", 
+                "title": "LATIN SMALL LETTER TS DIGRAPH WITH RETROFLEX HOOK"
             }
         ], 
         "name": "Latin Extended-E"

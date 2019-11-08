@@ -10,6 +10,16 @@
                 "charcode": "0x16fe1", 
                 "description": "", 
                 "title": "NUSHU ITERATION MARK"
+            }, 
+            {
+                "charcode": "0x16fe2", 
+                "description": "", 
+                "title": "OLD CHINESE HOOK MARK"
+            }, 
+            {
+                "charcode": "0x16fe3", 
+                "description": "", 
+                "title": "OLD CHINESE ITERATION MARK"
             }
         ], 
         "name": "Ideographic Symbols and Punctuation"
